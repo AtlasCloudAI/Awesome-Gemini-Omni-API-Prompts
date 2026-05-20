@@ -1,5 +1,7 @@
 # Awesome Gemini Omni Prompts
 
+![Awesome Gemini Omni Logo](./logo.png)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
@@ -29,7 +31,7 @@ video.video.save("output.mp4")
 
 ## Why Gemini Omni?
 
-Gemini Omni is a leap beyond specialized video models because it is a true omni-modal system — one model that ingests text, images, audio, and video, and outputs video grounded in real-world knowledge.
+Gemini Omni is a leap beyond specialized video models because it is a true omni-modal system — one model that ingests text, images, audio, and video, and outputs video grounded in real-world knowledge. Key capabilities:
 
 - **Native multimodality** — Mix text, reference images, audio tracks, and source clips in a single prompt
 - **Character consistency** — Faces, outfits, and props stay coherent across scenes, lighting, and actions

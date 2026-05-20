@@ -10,7 +10,7 @@ A curated collection of high-quality prompts and patterns for **Gemini Omni** â€
 
 Whether you're building a video generation app, exploring the Gemini API, or chasing cleaner prompt patterns, you'll find ready-to-use prompts here that unlock Gemini Omni's full potential.
 
-> **API Usage:** All prompts are designed for the [Gemini API](https://ai.google.dev/gemini-api/docs) using model `gemini-omni` (or `gemini-omni-flash` for faster, cheaper generations).
+> **API Usage:** All prompts are designed for the [Gemini API](https://www.atlascloud.ai/models/list?provider=GOOGLE) using model `gemini-omni` (or `gemini-omni-flash` for faster, cheaper generations).
 
 ```python
 from google import genai

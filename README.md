@@ -69,10 +69,7 @@ and the person's arm turns into reflective mirror material
 ```
 
 **Video Example:**
-<video width="100%" controls>
-  <source src="./gemini-omni__transform-your-world__sketch.webm" type="video/webm">
-  你的浏览器不支持视频播放
-</video>
+[![Watch video](https://img.shields.io/badge/▶-Watch%20Video-red)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/raw/main/gemini-audio__draw-on-real-world-history-science-and-math__brain%20(1).webm)
 
 **Notes:**
 - DeepMind public page exposed the edited output video, but did not expose a separate downloadable input video URL for this example.

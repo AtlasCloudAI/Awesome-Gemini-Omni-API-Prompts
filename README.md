@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-A curated collection of high-quality prompts and patterns for **Gemini Omni** — Google's native multimodal video model announced at Google I/O 2026. This repository is updated in real time every day, designed to help creators find inspiration faster.
+A curated collection of high-quality prompts and patterns for **Gemini Omni** — Google's native multimodal video model announced at Google I/O 2026. This repository is updated in real time every day with fresh examples, API updates, and community-submitted prompts.
 
 Whether you're building a video generation app, exploring the Gemini API, or chasing cleaner prompt patterns, you'll find ready-to-use prompts here that unlock Gemini Omni's full potential.
 
@@ -31,7 +31,7 @@ video.video.save("output.mp4")
 
 ## Why Gemini Omni?
 
-Gemini Omni is a leap beyond specialized video models because it is a true omni-modal system — one model that ingests text, images, audio, and video, and outputs video grounded in real-world knowledge. Key capabilities:
+Gemini Omni is a leap beyond specialized video models because it is a true omni-modal system — one model that ingests text, images, audio, and video, and outputs video grounded in real-world knowledge, physics, and consistency.
 
 - **Native multimodality** — Mix text, reference images, audio tracks, and source clips in a single prompt
 - **Character consistency** — Faces, outfits, and props stay coherent across scenes, lighting, and actions
@@ -67,6 +67,12 @@ Prompts featuring visual transformations, style changes, and metamorphosis effec
 When the person touches the mirror, make the mirror ripple beautifully like liquid, 
 and the person's arm turns into reflective mirror material
 ```
+
+**Video Example:**
+<video width="100%" controls>
+  <source src="./gemini-omni__transform-your-world__sketch.webm" type="video/webm">
+  你的浏览器不支持视频播放
+</video>
 
 **Notes:**
 - DeepMind public page exposed the edited output video, but did not expose a separate downloadable input video URL for this example.

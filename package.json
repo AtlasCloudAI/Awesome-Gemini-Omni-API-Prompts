@@ -1,0 +1,7 @@
+{
+  "name": "awesome-gemini-omni-api-prompts",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate-readmes.mjs"
+  }
+}

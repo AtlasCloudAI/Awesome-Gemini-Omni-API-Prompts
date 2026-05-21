@@ -10,8 +10,8 @@ A curated collection of Gemini Omni prompt examples with inline OSS video previe
 
 This repository tracks official and prompt-guide examples for Gemini Omni. Each entry includes a preview video plus a localized prompt.
 
-- **Current:** English
-- **Other Languages:** [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
+- **Current:** Português (Brasil)
+- **Other Languages:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
 
 ## Statistics
 
@@ -20,7 +20,7 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 | Total Prompts | 25 |
 | Categories | 5 |
 | Preview Videos | 25 |
-| Last Updated | 05/21/2026 |
+| Last Updated | 21/05/2026 |
 
 ## Browse By Category
 
@@ -41,7 +41,7 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_001
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
@@ -61,7 +61,7 @@ When the person touches the mirror, make the mirror ripple beautifully like liqu
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_002
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
@@ -81,7 +81,7 @@ When the person touches the mirror, the person transforms into a detailed monoch
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_003
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
@@ -101,7 +101,7 @@ When the person touches the mirror, the person suddenly transforms into a cute f
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_004
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
@@ -121,7 +121,7 @@ When the person touches the mirror, the person instantly transform into a vintag
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_005
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
@@ -141,7 +141,7 @@ When the person touches the mirror, the entire environment turns into 3d voxel a
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_015
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
@@ -161,7 +161,7 @@ Change the butterfly to a bee.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_016
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
@@ -181,7 +181,7 @@ Change the bee into a small swarm of fireflies.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_023
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
@@ -201,7 +201,7 @@ Change the ships to be made from white origami paper.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_024
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
@@ -221,7 +221,7 @@ Change the astronaut to a sea anemone.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_025
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
@@ -245,7 +245,7 @@ Change the small ships to stingrays.
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_006
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
@@ -265,7 +265,7 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_007
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
@@ -285,7 +285,7 @@ When the finger in <video> touches the animal toy play the sound the animal make
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_008
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
@@ -305,7 +305,7 @@ The lights of the apartments start turning on in sync with the music.
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_013
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
@@ -325,7 +325,7 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_017
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
@@ -345,7 +345,7 @@ The lights of the buildings start turning on in sync with the music.
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_019
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
@@ -369,7 +369,7 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 - **Category:** `Camera & Perspective`
 - **Source:** `Google Blog | DeepMind Sequence`
 - **Author:** omni_009
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
@@ -389,7 +389,7 @@ A video of a violinist playing a song.
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Official`
 - **Author:** omni_010
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
@@ -409,7 +409,7 @@ Transport the violinist to the image environment
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Official`
 - **Author:** omni_011
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
@@ -429,7 +429,7 @@ Make the violin invisible
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Official`
 - **Author:** omni_012
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
@@ -449,7 +449,7 @@ Change the camera angle to be over the violinist's shoulder.
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_020
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
@@ -473,7 +473,7 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 - **Category:** `Text & Sequences`
 - **Source:** `Google Blog | DeepMind Sequence`
 - **Author:** omni_014
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
@@ -493,7 +493,7 @@ The video shows items of the alphabet. An unusual item starting with each letter
 - **Category:** `Text & Sequences`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_018
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
@@ -517,7 +517,7 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 - **Category:** `Multi-Input & Reference`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_021
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
@@ -537,7 +537,7 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 - **Category:** `Multi-Input & Reference`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_022
-- **Language:** `en-US`
+- **Language:** `pt-BR`
 - **Video:** [View](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>

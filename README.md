@@ -6,470 +6,550 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-A curated collection of high-quality prompts and patterns for **Gemini Omni** — Google's native multimodal video model announced at Google I/O 2026. This repository is updated in real time every day with fresh examples, API updates, and community-submitted prompts.
+A curated collection of Gemini Omni prompt examples with inline OSS video previews.
 
-Whether you're building a video generation app, exploring the Gemini API, or chasing cleaner prompt patterns, you'll find ready-to-use prompts here that unlock Gemini Omni's full potential.
+This repository tracks official and prompt-guide examples for Gemini Omni. Each entry includes a preview video plus a localized prompt.
 
-> **API Usage:** All prompts are designed for the [Gemini API](https://www.atlascloud.ai/models/list?provider=GOOGLE) using model `gemini-omni` (or `gemini-omni-flash` for faster, cheaper generations).
+- **Current:** English
+- **Other Languages:** [简体中文](./README_zh.md)
 
-```python
-from google import genai
+## Statistics
 
-client = genai.Client()
-operation = client.models.generate_videos(
-    model="gemini-omni",
-    prompt="<paste any prompt from this list>",
-    config={"aspect_ratio": "16:9", "duration_seconds": 8, "resolution": "1080p"},
-)
-while not operation.done:
-    operation = client.operations.get(operation)
-video = operation.response.generated_videos[0]
-video.video.save("output.mp4")
+| Metric | Count |
+| --- | ---: |
+| Total Prompts | 25 |
+| Categories | 5 |
+| Preview Videos | 25 |
+| Last Updated | 05/21/2026 |
+
+## Browse By Category
+
+- [Transform & Stylization](#category-1)
+- [Action & Motion](#category-2)
+- [Camera & Perspective](#category-3)
+- [Text & Sequences](#category-4)
+- [Multi-Input & Reference](#category-5)
+
+## All Prompts
+
+<a id="category-1"></a>
+
+### Transform & Stylization (10)
+
+### No. 1: Mirror: Liquid Metal Ripple
+
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Official`
+- **Author:** omni_001
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
+
+#### Prompt
+
+```text
+When the person touches the mirror, make the mirror ripple beautifully like liquid, and the person's arm turns into reflective mirror material
 ```
 
----
+### No. 2: Mirror: Line Art Transformation
 
-## Why Gemini Omni?
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Official`
+- **Author:** omni_002
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
-Gemini Omni is a leap beyond specialized video models because it is a true omni-modal system — one model that ingests text, images, audio, and video, and outputs video grounded in real-world knowledge, physics, and consistency.
+<video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-- **Native multimodality** — Mix text, reference images, audio tracks, and source clips in a single prompt
-- **Character consistency** — Faces, outfits, and props stay coherent across scenes, lighting, and actions
-- **Reference-based editing** — Apply a style image, transfer motion from a clip, or swap an environment with plain language
-- **Conversational remixing** — Iterate with chat-style follow-ups like "make the last 3 seconds slower" or "swap the city for Tokyo at night"
-- **Audio-grounded lip-sync** — Provide a voice track and Omni animates accurate mouth shapes and timing
-- **Physics-aware** — Better grasp of gravity, momentum, fluids, and cloth than older diffusion-only video models
+#### Description
 
----
+Mirror touch transforms the subject into a detailed monochrome line drawing.
 
-## Table of Contents
+#### Prompt
 
-- [Transform & Stylization](#transform--stylization)
-- [Action & Motion](#action--motion)
-- [Camera & Perspective](#camera--perspective)
-- [Text & Sequences](#text--sequences)
-- [Multi-Input & Reference](#multi-input--reference)
-- [Resources & API Docs](#resources--api-docs)
-- [Contributing](#contributing)
-
----
-
-## Transform & Stylization
-
-Prompts featuring visual transformations, style changes, and metamorphosis effects.
-
-### Mirror: Liquid Metal Ripple
-
-**Source:** DeepMind Official
-
-**Prompt:**
-```
-When the person touches the mirror, make the mirror ripple beautifully like liquid, 
-and the person's arm turns into reflective mirror material
-```
-
-**Video Example:**
-[![Watch video](https://img.shields.io/badge/▶-Watch%20Video-red)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/raw/main/gemini-audio__draw-on-real-world-history-science-and-math__brain%20(1).webm)
-
-**Notes:**
-- DeepMind public page exposed the edited output video, but did not expose a separate downloadable input video URL for this example.
-
----
-
-### Mirror: Line Art Transformation
-
-**Source:** DeepMind Official
-
-**Prompt:**
-```
+```text
 When the person touches the mirror, the person transforms into a detailed monochrome line art drawing
 ```
 
----
+### No. 3: Mirror: Puppet Transformation
 
-### Mirror: Puppet Transformation
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Official`
+- **Author:** omni_003
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
-**Source:** DeepMind Official
+<video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-**Prompt:**
-```
-When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet 
-version with large googley eyes and glasses
-```
+#### Description
 
----
+Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
 
-### Mirror: Holograph Transformation
+#### Prompt
 
-**Source:** DeepMind Official
-
-**Prompt:**
-```
-When the person touches the mirror, the person instantly transform into a vintage monochrome transparent 3d line art hologram, 
-inside of a monochrome 3d holodeck maintaining the structure and details of the room and environment
+```text
+When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
----
+### No. 4: Mirror: Holograph Transformation
 
-### Mirror: Voxel World
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Official`
+- **Author:** omni_004
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
-**Source:** DeepMind Official
+<video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-**Prompt:**
+#### Description
+
+Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
+
+#### Prompt
+
+```text
+When the person touches the mirror, the person instantly transform into a vintage monochrome transparent 3d line art hologram, inside of a monochrome 3d holodeck maintaining the structure and details of the room and environment
 ```
+
+### No. 5: Mirror: Voxel World
+
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Official`
+- **Author:** omni_005
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Mirror touch turns the whole room into chunky 3D voxel art.
+
+#### Prompt
+
+```text
 When the person touches the mirror, the entire environment turns into 3d voxel art
 ```
 
----
+### No. 6: Butterfly to Bee
 
-## Action & Motion
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_015
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
-Prompts focusing on movement, physics, and dynamic action sequences.
+<video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-### Animal Toy Sound Interaction
+#### Description
 
-**Source:** DeepMind Official
+Morph the butterfly into a bee.
 
-**Prompt:**
-```
-When the finger in <video> touches the animal toy play the sound the animal makes
-```
+#### Prompt
 
-**Notes:**
-- The public page exposed only the edited result for this video-edit example; no standalone input clip URL was published.
-
----
-
-### Apartments Lights Sync to Music
-
-**Source:** DeepMind Official | Updated in Prompt Guide
-
-**Prompt:**
-```
-The lights of the apartments start turning on in sync with the music.
-```
-
----
-
-### Hand Hole Super Zoom & Magnification
-
-**Source:** DeepMind Official
-
-**Prompt:**
-```
-Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
-```
-
-**Notes:**
-- The public page exposed only the edited result for this video-edit example; no standalone input clip URL was published.
-
----
-
-### Marble Chain Reaction
-
-**Source:** DeepMind Official
-
-**Prompt:**
-```
-A marble rolling fast on a chain reaction style track, continuous smooth shot
-```
-
----
-
-### Bee to Fireflies Transformation
-
-**Source:** DeepMind Prompt Guide
-
-**Prompt:**
-```
-Change the bee into a small swarm of fireflies.
-```
-
----
-
-### Butterfly to Bee Transformation
-
-**Source:** DeepMind Prompt Guide
-
-**Prompt:**
-```
+```text
 Change the butterfly to a bee.
 ```
 
----
+### No. 7: Bee to Fireflies
 
-### Small Ships to Stingrays
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_016
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
-**Source:** DeepMind Prompt Guide
+<video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-**Prompt:**
-```
-Change the small ships to stingrays.
-```
+#### Description
 
----
+Morph the bee into a small swarm of fireflies.
 
-### Astronaut to Sea Anemone
+#### Prompt
 
-**Source:** DeepMind Prompt Guide
-
-**Prompt:**
-```
-Change the astronaut to a sea anemone.
+```text
+Change the bee into a small swarm of fireflies.
 ```
 
----
+### No. 8: Spaceships: White Origami
 
-### Spaceships: White Origami
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_023
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
-**Source:** DeepMind Prompt Guide
+<video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-**Prompt:**
-```
+#### Description
+
+Transform the ships so they look like folded white origami paper.
+
+#### Prompt
+
+```text
 Change the ships to be made from white origami paper.
 ```
 
----
+### No. 9: Astronaut to Sea Anemone
 
-## Camera & Perspective
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_024
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
-Prompts for camera movements, angles, and cinematic techniques.
+<video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-### Violinist Input Base Shot
+#### Description
 
-**Source:** Google Blog | DeepMind Sequence
+Transform the astronaut into a sea anemone.
 
-**Prompt:**
-```
-A video of a violinist playing a song.
-```
+#### Prompt
 
-**Notes:**
-- This clip is the base video in a multi-turn edit chain and acts as the input for the following violin examples.
-
----
-
-### Violinist: Transport to New Environment
-
-**Source:** DeepMind Official
-
-**Prompt:**
-```
-Transport the violinist to the image environment
+```text
+Change the astronaut to a sea anemone.
 ```
 
-**Notes:**
-- Uses the output of 009_violinist_input as this step's input.
+### No. 10: Small Ships to Stingrays
 
----
+- **Category:** `Transform & Stylization`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_025
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
-### Violinist: Invisible Violin
+<video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-**Source:** DeepMind Official
+#### Description
 
-**Prompt:**
-```
-Make the violin invisible
-```
+Transform the small ships into stingrays.
 
-**Notes:**
-- Uses the output of 010_violinist_transport_environment as this step's input.
+#### Prompt
 
----
-
-### Violinist: Over-the-Shoulder Angle
-
-**Source:** DeepMind Official
-
-**Prompt:**
-```
-Change the camera angle to be over the violinist's shoulder.
+```text
+Change the small ships to stingrays.
 ```
 
-**Notes:**
-- Uses the output of 011_violinist_invisible_violin as this step's input.
+<a id="category-2"></a>
 
----
+### Action & Motion (6)
 
-### Camera Tilt: Shoes to Medium Shot
+### No. 11: Hand Hole Super Zoom
 
-**Source:** DeepMind Prompt Guide
+- **Category:** `Action & Motion`
+- **Source:** `DeepMind Official`
+- **Author:** omni_006
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
-**Prompt:**
-```
-Change the camera angle, a close-up on his shoes, quickly tilting up to medium shot, then widening.
-```
+<video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-**Notes:**
-- The prompt-guide page exposed only the output clip for this camera edit example; no separate input clip URL was exposed.
+#### Description
 
----
+A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
 
-## Text & Sequences
+#### Prompt
 
-Prompts generating text, typography, and sequential storytelling.
-
-### Word-by-Word Text Sync
-
-**Source:** DeepMind Prompt Guide
-
-**Prompt:**
-```
-word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? 
-each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
+```text
+Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
-**Notes:**
-- The prompt-guide page exposed the output video, but did not expose a separate downloadable input clip for this text-rendering example.
+### No. 12: Animal Toy Sound Interaction
 
----
+- **Category:** `Action & Motion`
+- **Source:** `DeepMind Official`
+- **Author:** omni_007
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
-### Skateboard Motion Effects
+<video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-**Source:** DeepMind Prompt Guide
+#### Description
 
-**Prompt:**
+Touching each toy animal triggers the matching animal sound.
+
+#### Prompt
+
+```text
+When the finger in <video> touches the animal toy play the sound the animal makes
 ```
+
+### No. 13: Apartments Lights Sync to Music
+
+- **Category:** `Action & Motion`
+- **Source:** `DeepMind Official`
+- **Author:** omni_008
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Apartment lights switch on rhythmically in sync with the soundtrack.
+
+#### Prompt
+
+```text
+The lights of the apartments start turning on in sync with the music.
+```
+
+### No. 14: Marble Chain Reaction
+
+- **Category:** `Action & Motion`
+- **Source:** `DeepMind Official`
+- **Author:** omni_013
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+A marble races across a chain-reaction track in one continuous smooth shot.
+
+#### Prompt
+
+```text
+A marble rolling fast on a chain reaction style track, continuous smooth shot
+```
+
+### No. 15: Building Lights Prompt Guide Variant
+
+- **Category:** `Action & Motion`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_017
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Building lights pulse and switch on in sync with the soundtrack.
+
+#### Prompt
+
+```text
+The lights of the buildings start turning on in sync with the music.
+```
+
+### No. 16: Skateboard Motion Effects
+
+- **Category:** `Action & Motion`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_019
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Keep the scene unchanged while adding animated motion effects from the skateboard.
+
+#### Prompt
+
+```text
 Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
 ```
 
-**Notes:**
-- The prompt-guide page exposed only the edited result here; no separate standalone input clip URL was exposed.
+<a id="category-3"></a>
 
----
+### Camera & Perspective (5)
 
-### Alphabet Items Sequence
+### No. 17: Violinist Input Base Shot
 
-**Source:** Google Blog | DeepMind Sequence
+- **Category:** `Camera & Perspective`
+- **Source:** `Google Blog | DeepMind Sequence`
+- **Author:** omni_009
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
-**Prompt:**
-```
-The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table 
-(like a Capybara for C, disco globe for D and Lava Lamp for L). All 26 letters must be represented by 26 items 
-with matching lower thirds displaying the letter. Only one item and lower third at a time. Each lower third must 
-look like a black marker written on a slip of paper in the bottom left. Rapid fire, roughly 9 frames per item at 24FPS. 
-Last frame is a slip of paper "THE END". The whole video is accompanied by calm smooth music.
-```
+<video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
----
+#### Description
 
-## Multi-Input & Reference
+Base clip of a violinist playing, used as the starting point for later edits.
 
-Prompts combining multiple inputs: video, image, and audio together.
+#### Prompt
 
-### Birds Forming Shape with Audio
-
-**Source:** DeepMind Prompt Guide
-
-**Inputs:**
-- Reference Video
-- Reference Image
-- Audio Track
-- Text Overlay
-
-**Prompt:**
-```
-The birds from <video> loosely form the imperfect shape of a bird based on <image>. 
-They move to the music from <audio> and dissipate as they fly
+```text
+A video of a violinist playing a song.
 ```
 
----
+### No. 18: Violinist: Transport to New Environment
 
-### Storyboard: Show Me in This Story
+- **Category:** `Camera & Perspective`
+- **Source:** `DeepMind Official`
+- **Author:** omni_010
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
-**Source:** DeepMind Prompt Guide
+<video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-**Inputs:**
-- Storyboard Image 1
-- Storyboard Image 2
+#### Description
 
-**Prompt:**
+Move the violinist performance into a new referenced environment.
+
+#### Prompt
+
+```text
+Transport the violinist to the image environment
 ```
+
+### No. 19: Violinist: Invisible Violin
+
+- **Category:** `Camera & Perspective`
+- **Source:** `DeepMind Official`
+- **Author:** omni_011
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Remove the violin while preserving the original performance.
+
+#### Prompt
+
+```text
+Make the violin invisible
+```
+
+### No. 20: Violinist: Over-the-Shoulder Angle
+
+- **Category:** `Camera & Perspective`
+- **Source:** `DeepMind Official`
+- **Author:** omni_012
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Reframe the performance from an over-the-shoulder camera angle.
+
+#### Prompt
+
+```text
+Change the camera angle to be over the violinist's shoulder.
+```
+
+### No. 21: Camera Tilt: Shoes to Medium Shot
+
+- **Category:** `Camera & Perspective`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_020
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Start close on the shoes, tilt up quickly, then widen the framing.
+
+#### Prompt
+
+```text
+Change the camera angle, a close-up on his shoes, quickly tilting up to medium shot, then widening.
+```
+
+<a id="category-4"></a>
+
+### Text & Sequences (2)
+
+### No. 22: Alphabet Items Sequence
+
+- **Category:** `Text & Sequences`
+- **Source:** `Google Blog | DeepMind Sequence`
+- **Author:** omni_014
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Show all 26 letters through unusual table-top objects with matching lower-thirds.
+
+#### Prompt
+
+```text
+The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table (like a Capybara for C, disco globe for D and Lava Lamp for L). All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Each lower third must look like a black marker written on a slip of paper in the bottom left. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END". The whole video is accompanied by calm smooth music.
+```
+
+### No. 23: Word-by-Word Text Sync
+
+- **Category:** `Text & Sequences`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_018
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Display one animated word at a time with rhythmic pacing.
+
+#### Prompt
+
+```text
+word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
+```
+
+<a id="category-5"></a>
+
+### Multi-Input & Reference (2)
+
+### No. 24: Birds Shape With Audio
+
+- **Category:** `Multi-Input & Reference`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_021
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
+
+#### Prompt
+
+```text
+The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
+```
+
+### No. 25: Storyboard: Show Me in This Story
+
+- **Category:** `Multi-Input & Reference`
+- **Source:** `DeepMind Prompt Guide`
+- **Author:** omni_022
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
+
+<video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
+
+#### Description
+
+Turn storyboard panels into a 10-second cinematic sequence in exact order.
+
+#### Prompt
+
+```text
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic
 ```
 
----
-
-## Resources & API Docs
-
-### Official References
-- [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
-- [Google AI Studio](https://aistudio.google.com)
-- [Vertex AI — Generative Media](https://cloud.google.com/vertex-ai/generative-ai/docs)
-- [Gemini API Pricing](https://ai.google.dev/gemini-api/docs/pricing)
-- [DeepMind Gemini Omni](https://deepmind.google/models/gemini-omni/)
-- [DeepMind Prompt Guide](https://deepmind.google/models/gemini-omni/prompt-guide/)
-
-### API Quick Reference
-
-```python
-from google import genai
-
-client = genai.Client()
-
-# Text-to-video
-operation = client.models.generate_videos(
-    model="gemini-omni",
-    prompt="your prompt here",
-    config={
-        "aspect_ratio": "16:9",     # 16:9, 9:16, 1:1, 21:9, 4:3
-        "duration_seconds": 8,       # 4–15s standard
-        "resolution": "1080p",       # 720p, 1080p, 4k
-        "fps": 24,                   # 24 or 30
-        "negative_prompt": "blurry, low quality, watermark",
-    },
-)
-
-# Image-to-video (reference)
-operation = client.models.generate_videos(
-    model="gemini-omni",
-    prompt="animate the subject with subtle natural motion",
-    image="reference.png",
-    config={"aspect_ratio": "9:16", "duration_seconds": 6},
-)
-
-# Conversational edit (follow-up on prior generation)
-operation = client.models.edit_video(
-    model="gemini-omni",
-    source_video_id=prev_video.id,
-    prompt="make it slower and add golden hour lighting",
-)
-```
-
-### Prompt Engineering Tips
-
-1. **Lead with cinematography vocabulary** — Specify lens, camera move, and lighting for better results.
-2. **Structure as Subject → Motion → Camera → Mood** — Keep each layer explicit; Gemini Omni follows multi-clause prompts reliably.
-3. **Anchor identity with reference images** — For any character or product, attach a reference and write "use the attached image as the subject, preserve face/label/colorway exactly."
-4. **Use explicit durations and timestamps** — `0–4s wide shot, 4–8s push-in, 8–12s close-up` gives Omni a cut list to follow.
-5. **Specify aspect ratio in-prompt as a backup** — Even if you set it in config, mention `9:16 vertical` or `21:9 cinemascope` in the text.
-6. **Negative cues work** — Add `no captions, no watermark, no morphing` to suppress common artifacts.
-7. **For consistency across scenes** — Repeat the identity descriptor in each scene block rather than relying on coreference.
-8. **For edits, isolate what's changing** — "Keep everything identical except…" outperforms re-describing the whole scene.
-
----
-
-## Contributing
-
-Contributions are welcome! Submit a Pull Request to add your best Gemini Omni prompts.
-
-**Guidelines:**
-- Include the full prompt text in a fenced code block.
-- Note any required reference images, audio, or source videos.
-- Categorize appropriately — open an issue first if you think a new section is warranted.
-- Provide a source link (DeepMind, Google Blog, Prompt Guide, etc.) if the prompt isn't original.
-- Example output clips are encouraged but not required.
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts&type=Date)](https://star-history.com/#AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts&Date)
-
----
-
-## License
-
-This project is licensed under the Creative Commons Attribution 4.0 International License — see the [LICENSE](LICENSE) file for details.
-
-*Community-maintained. Not affiliated with Google or DeepMind. Free & Open Source.*
+This README is auto-generated from locale data in `data/prompts_by_locale`.

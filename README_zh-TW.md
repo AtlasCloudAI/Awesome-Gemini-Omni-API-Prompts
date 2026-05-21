@@ -39,7 +39,7 @@
 ### No. 1: 镜子：液态金属涟漪
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_001
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
@@ -59,7 +59,7 @@
 ### No. 2: 镜子：线稿风格变换
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_002
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
@@ -79,7 +79,7 @@
 ### No. 3: 镜子：玩偶变换
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_003
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
@@ -99,7 +99,7 @@
 ### No. 4: 镜子：全息投影变换
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_004
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
@@ -119,7 +119,7 @@
 ### No. 5: 镜子：体素世界
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_005
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
@@ -139,7 +139,7 @@
 ### No. 6: 蝴蝶变蜜蜂
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_015
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
@@ -159,7 +159,7 @@
 ### No. 7: 蜜蜂变萤火虫
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_016
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
@@ -179,7 +179,7 @@
 ### No. 8: 飞船：白色折纸
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_023
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
@@ -199,7 +199,7 @@
 ### No. 9: 宇航员变海葵
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_024
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
@@ -219,7 +219,7 @@
 ### No. 10: 小飞船变黄貂鱼
 
 - **分類:** `变换与风格化`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_025
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
@@ -243,7 +243,7 @@
 ### No. 11: 手洞超级变焦
 
 - **分類:** `动作与运动`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_006
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
@@ -263,7 +263,7 @@
 ### No. 12: 动物玩具声音互动
 
 - **分類:** `动作与运动`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_007
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
@@ -283,7 +283,7 @@
 ### No. 13: 公寓灯光跟随音乐同步亮起
 
 - **分類:** `动作与运动`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_008
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
@@ -303,7 +303,7 @@
 ### No. 14: 弹珠连锁反应
 
 - **分類:** `动作与运动`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_013
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
@@ -323,7 +323,7 @@
 ### No. 15: 建筑灯光提示词指南版本
 
 - **分類:** `动作与运动`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_017
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
@@ -343,7 +343,7 @@
 ### No. 16: 滑板运动特效
 
 - **分類:** `动作与运动`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_019
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
@@ -367,7 +367,7 @@
 ### No. 17: 小提琴手输入基础镜头
 
 - **分類:** `镜头与视角`
-- **來源:** `Google Blog | DeepMind 序列示例`
+- **来源:** `Google Blog | DeepMind 序列示例`
 - **作者:** omni_009
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
@@ -387,7 +387,7 @@
 ### No. 18: 小提琴手：迁移到新环境
 
 - **分類:** `镜头与视角`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_010
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
@@ -407,7 +407,7 @@
 ### No. 19: 小提琴手：让小提琴消失
 
 - **分類:** `镜头与视角`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_011
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
@@ -427,7 +427,7 @@
 ### No. 20: 小提琴手：肩后视角
 
 - **分類:** `镜头与视角`
-- **來源:** `DeepMind 官方`
+- **来源:** `DeepMind 官方`
 - **作者:** omni_012
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
@@ -447,7 +447,7 @@
 ### No. 21: 镜头倾斜：鞋子到中景
 
 - **分類:** `镜头与视角`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_020
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
@@ -471,7 +471,7 @@
 ### No. 22: 字母物品序列
 
 - **分類:** `文字与序列`
-- **來源:** `Google Blog | DeepMind 序列示例`
+- **来源:** `Google Blog | DeepMind 序列示例`
 - **作者:** omni_014
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
@@ -491,7 +491,7 @@
 ### No. 23: 逐词文字同步
 
 - **分類:** `文字与序列`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_018
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
@@ -515,7 +515,7 @@
 ### No. 24: 结合音频的鸟群造型
 
 - **分類:** `多输入与参考`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_021
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
@@ -535,7 +535,7 @@
 ### No. 25: 故事板：把我放进这个故事
 
 - **分類:** `多输入与参考`
-- **來源:** `DeepMind 提示词指南`
+- **来源:** `DeepMind 提示词指南`
 - **作者:** omni_022
 - **語言:** `zh-TW`
 - **影片:** [查看](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)

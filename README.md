@@ -22,7 +22,7 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 | Preview Videos | 25 |
 | Last Updated | 05/21/2026 |
 
-## Browse By Category
+## Browse by Category
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)

@@ -1,4 +1,4 @@
-# Awesome Gemini Omni Prompts
+# รวมพรอมต์ Awesome Gemini Omni
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -6,23 +6,23 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-A curated collection of Gemini Omni prompt examples with inline OSS video previews.
+คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
-This repository tracks official and prompt-guide examples for Gemini Omni. Each entry includes a preview video plus a localized prompt.
+รีโพนี้รวบรวมตัวอย่างวิดีโอสาธารณะของ Gemini Omni แต่ละรายการมีวิดีโอตัวอย่างพร้อมพรอมต์ที่รองรับการแปลภาษา
 
-- **Current:** ไทย
-- **Other Languages:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
+- **ปัจจุบัน:** ไทย
+- **ภาษาอื่น:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
 
-## Statistics
+## สถิติ
 
-| Metric | Count |
+| รายการ | จำนวน |
 | --- | ---: |
-| Total Prompts | 25 |
-| Categories | 5 |
-| Preview Videos | 25 |
-| Last Updated | 21/05/2569 |
+| พรอมต์ทั้งหมด | 25 |
+| จำนวนหมวดหมู่ | 5 |
+| จำนวนวิดีโอตัวอย่าง | 25 |
+| อัปเดตล่าสุด | 21/05/2569 |
 
-## Browse By Category
+## เรียกดูตามหมวดหมู่
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)
@@ -30,7 +30,7 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 - [Text & Sequences](#category-4)
 - [Multi-Input & Reference](#category-5)
 
-## All Prompts
+## พรอมต์ทั้งหมด
 
 <a id="category-1"></a>
 
@@ -38,19 +38,19 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 
 ### No. 1: Mirror: Liquid Metal Ripple
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_001
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_001
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 When the person touches the mirror, make the mirror ripple beautifully like liquid, and the person's arm turns into reflective mirror material
@@ -58,19 +58,19 @@ When the person touches the mirror, make the mirror ripple beautifully like liqu
 
 ### No. 2: Mirror: Line Art Transformation
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_002
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_002
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Mirror touch transforms the subject into a detailed monochrome line drawing.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 When the person touches the mirror, the person transforms into a detailed monochrome line art drawing
@@ -78,19 +78,19 @@ When the person touches the mirror, the person transforms into a detailed monoch
 
 ### No. 3: Mirror: Puppet Transformation
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_003
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_003
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
@@ -98,19 +98,19 @@ When the person touches the mirror, the person suddenly transforms into a cute f
 
 ### No. 4: Mirror: Holograph Transformation
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_004
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_004
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 When the person touches the mirror, the person instantly transform into a vintage monochrome transparent 3d line art hologram, inside of a monochrome 3d holodeck maintaining the structure and details of the room and environment
@@ -118,19 +118,19 @@ When the person touches the mirror, the person instantly transform into a vintag
 
 ### No. 5: Mirror: Voxel World
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_005
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_005
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Mirror touch turns the whole room into chunky 3D voxel art.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 When the person touches the mirror, the entire environment turns into 3d voxel art
@@ -138,19 +138,19 @@ When the person touches the mirror, the entire environment turns into 3d voxel a
 
 ### No. 6: Butterfly to Bee
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_015
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_015
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Morph the butterfly into a bee.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the butterfly to a bee.
@@ -158,19 +158,19 @@ Change the butterfly to a bee.
 
 ### No. 7: Bee to Fireflies
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_016
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_016
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Morph the bee into a small swarm of fireflies.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the bee into a small swarm of fireflies.
@@ -178,19 +178,19 @@ Change the bee into a small swarm of fireflies.
 
 ### No. 8: Spaceships: White Origami
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_023
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_023
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Transform the ships so they look like folded white origami paper.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the ships to be made from white origami paper.
@@ -198,19 +198,19 @@ Change the ships to be made from white origami paper.
 
 ### No. 9: Astronaut to Sea Anemone
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_024
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_024
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Transform the astronaut into a sea anemone.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the astronaut to a sea anemone.
@@ -218,19 +218,19 @@ Change the astronaut to a sea anemone.
 
 ### No. 10: Small Ships to Stingrays
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_025
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
+- **หมวดหมู่:** `Transform & Stylization`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_025
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Transform the small ships into stingrays.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the small ships to stingrays.
@@ -242,19 +242,19 @@ Change the small ships to stingrays.
 
 ### No. 11: Hand Hole Super Zoom
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_006
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
+- **หมวดหมู่:** `Action & Motion`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_006
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
@@ -262,19 +262,19 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ### No. 12: Animal Toy Sound Interaction
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_007
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
+- **หมวดหมู่:** `Action & Motion`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_007
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Touching each toy animal triggers the matching animal sound.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 When the finger in <video> touches the animal toy play the sound the animal makes
@@ -282,19 +282,19 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ### No. 13: Apartments Lights Sync to Music
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_008
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
+- **หมวดหมู่:** `Action & Motion`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_008
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Apartment lights switch on rhythmically in sync with the soundtrack.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 The lights of the apartments start turning on in sync with the music.
@@ -302,19 +302,19 @@ The lights of the apartments start turning on in sync with the music.
 
 ### No. 14: Marble Chain Reaction
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_013
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
+- **หมวดหมู่:** `Action & Motion`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_013
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 A marble races across a chain-reaction track in one continuous smooth shot.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 A marble rolling fast on a chain reaction style track, continuous smooth shot
@@ -322,19 +322,19 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ### No. 15: Building Lights Prompt Guide Variant
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_017
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
+- **หมวดหมู่:** `Action & Motion`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_017
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Building lights pulse and switch on in sync with the soundtrack.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 The lights of the buildings start turning on in sync with the music.
@@ -342,19 +342,19 @@ The lights of the buildings start turning on in sync with the music.
 
 ### No. 16: Skateboard Motion Effects
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_019
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
+- **หมวดหมู่:** `Action & Motion`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_019
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Keep the scene unchanged while adding animated motion effects from the skateboard.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
@@ -366,19 +366,19 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ### No. 17: Violinist Input Base Shot
 
-- **Category:** `Camera & Perspective`
-- **Source:** `Google Blog | DeepMind Sequence`
-- **Author:** omni_009
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
+- **หมวดหมู่:** `Camera & Perspective`
+- **แหล่งที่มา:** `Google Blog | DeepMind Sequence`
+- **ผู้เขียน:** omni_009
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Base clip of a violinist playing, used as the starting point for later edits.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 A video of a violinist playing a song.
@@ -386,19 +386,19 @@ A video of a violinist playing a song.
 
 ### No. 18: Violinist: Transport to New Environment
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Official`
-- **Author:** omni_010
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
+- **หมวดหมู่:** `Camera & Perspective`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_010
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Move the violinist performance into a new referenced environment.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Transport the violinist to the image environment
@@ -406,19 +406,19 @@ Transport the violinist to the image environment
 
 ### No. 19: Violinist: Invisible Violin
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Official`
-- **Author:** omni_011
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
+- **หมวดหมู่:** `Camera & Perspective`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_011
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Remove the violin while preserving the original performance.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Make the violin invisible
@@ -426,19 +426,19 @@ Make the violin invisible
 
 ### No. 20: Violinist: Over-the-Shoulder Angle
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Official`
-- **Author:** omni_012
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
+- **หมวดหมู่:** `Camera & Perspective`
+- **แหล่งที่มา:** `DeepMind Official`
+- **ผู้เขียน:** omni_012
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Reframe the performance from an over-the-shoulder camera angle.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the camera angle to be over the violinist's shoulder.
@@ -446,19 +446,19 @@ Change the camera angle to be over the violinist's shoulder.
 
 ### No. 21: Camera Tilt: Shoes to Medium Shot
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_020
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
+- **หมวดหมู่:** `Camera & Perspective`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_020
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Start close on the shoes, tilt up quickly, then widen the framing.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Change the camera angle, a close-up on his shoes, quickly tilting up to medium shot, then widening.
@@ -470,19 +470,19 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ### No. 22: Alphabet Items Sequence
 
-- **Category:** `Text & Sequences`
-- **Source:** `Google Blog | DeepMind Sequence`
-- **Author:** omni_014
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
+- **หมวดหมู่:** `Text & Sequences`
+- **แหล่งที่มา:** `Google Blog | DeepMind Sequence`
+- **ผู้เขียน:** omni_014
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Show all 26 letters through unusual table-top objects with matching lower-thirds.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table (like a Capybara for C, disco globe for D and Lava Lamp for L). All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Each lower third must look like a black marker written on a slip of paper in the bottom left. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END". The whole video is accompanied by calm smooth music.
@@ -490,19 +490,19 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ### No. 23: Word-by-Word Text Sync
 
-- **Category:** `Text & Sequences`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_018
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
+- **หมวดหมู่:** `Text & Sequences`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_018
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Display one animated word at a time with rhythmic pacing.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
@@ -514,19 +514,19 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 
 ### No. 24: Birds Shape With Audio
 
-- **Category:** `Multi-Input & Reference`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_021
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
+- **หมวดหมู่:** `Multi-Input & Reference`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_021
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
@@ -534,22 +534,22 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ### No. 25: Storyboard: Show Me in This Story
 
-- **Category:** `Multi-Input & Reference`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_022
-- **Language:** `th-TH`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
+- **หมวดหมู่:** `Multi-Input & Reference`
+- **แหล่งที่มา:** `DeepMind Prompt Guide`
+- **ผู้เขียน:** omni_022
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### คำอธิบาย
 
 Turn storyboard panels into a 10-second cinematic sequence in exact order.
 
-#### Prompt
+#### พรอมต์
 
 ```text
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic
 ```
 
-This README is auto-generated from locale data in `data/prompts_by_locale`.
+README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

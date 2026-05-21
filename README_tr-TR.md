@@ -1,4 +1,4 @@
-# Awesome Gemini Omni Prompts
+# Awesome Gemini Omni Promptlari
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -6,23 +6,23 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-A curated collection of Gemini Omni prompt examples with inline OSS video previews.
+Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
-This repository tracks official and prompt-guide examples for Gemini Omni. Each entry includes a preview video plus a localized prompt.
+Bu depo Gemini Omni icin herkese acik video orneklerini duzenler. Her kayitta bir onizleme videosu ve yerlestirilmis prompt bulunur.
 
-- **Current:** Türkçe
-- **Other Languages:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md)
+- **Guncel:** Türkçe
+- **Diger Diller:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md)
 
-## Statistics
+## Istatistikler
 
-| Metric | Count |
+| Olcut | Sayi |
 | --- | ---: |
-| Total Prompts | 25 |
-| Categories | 5 |
-| Preview Videos | 25 |
-| Last Updated | 21.05.2026 |
+| Toplam Prompt | 25 |
+| Kategoriler | 5 |
+| Onizleme Videolari | 25 |
+| Son Guncelleme | 21.05.2026 |
 
-## Browse By Category
+## Kategoriye Gore Gozat
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)
@@ -30,7 +30,7 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 - [Text & Sequences](#category-4)
 - [Multi-Input & Reference](#category-5)
 
-## All Prompts
+## Tum Promptlar
 
 <a id="category-1"></a>
 
@@ -38,15 +38,15 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 
 ### No. 1: Mirror: Liquid Metal Ripple
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_001
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_001
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
 
@@ -58,15 +58,15 @@ When the person touches the mirror, make the mirror ripple beautifully like liqu
 
 ### No. 2: Mirror: Line Art Transformation
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_002
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_002
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Mirror touch transforms the subject into a detailed monochrome line drawing.
 
@@ -78,15 +78,15 @@ When the person touches the mirror, the person transforms into a detailed monoch
 
 ### No. 3: Mirror: Puppet Transformation
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_003
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_003
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
 
@@ -98,15 +98,15 @@ When the person touches the mirror, the person suddenly transforms into a cute f
 
 ### No. 4: Mirror: Holograph Transformation
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_004
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_004
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
 
@@ -118,15 +118,15 @@ When the person touches the mirror, the person instantly transform into a vintag
 
 ### No. 5: Mirror: Voxel World
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Official`
-- **Author:** omni_005
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_005
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Mirror touch turns the whole room into chunky 3D voxel art.
 
@@ -138,15 +138,15 @@ When the person touches the mirror, the entire environment turns into 3d voxel a
 
 ### No. 6: Butterfly to Bee
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_015
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_015
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Morph the butterfly into a bee.
 
@@ -158,15 +158,15 @@ Change the butterfly to a bee.
 
 ### No. 7: Bee to Fireflies
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_016
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_016
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Morph the bee into a small swarm of fireflies.
 
@@ -178,15 +178,15 @@ Change the bee into a small swarm of fireflies.
 
 ### No. 8: Spaceships: White Origami
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_023
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_023
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Transform the ships so they look like folded white origami paper.
 
@@ -198,15 +198,15 @@ Change the ships to be made from white origami paper.
 
 ### No. 9: Astronaut to Sea Anemone
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_024
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_024
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Transform the astronaut into a sea anemone.
 
@@ -218,15 +218,15 @@ Change the astronaut to a sea anemone.
 
 ### No. 10: Small Ships to Stingrays
 
-- **Category:** `Transform & Stylization`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_025
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_025
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Transform the small ships into stingrays.
 
@@ -242,15 +242,15 @@ Change the small ships to stingrays.
 
 ### No. 11: Hand Hole Super Zoom
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_006
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_006
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
 
@@ -262,15 +262,15 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ### No. 12: Animal Toy Sound Interaction
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_007
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_007
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Touching each toy animal triggers the matching animal sound.
 
@@ -282,15 +282,15 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ### No. 13: Apartments Lights Sync to Music
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_008
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_008
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Apartment lights switch on rhythmically in sync with the soundtrack.
 
@@ -302,15 +302,15 @@ The lights of the apartments start turning on in sync with the music.
 
 ### No. 14: Marble Chain Reaction
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Official`
-- **Author:** omni_013
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_013
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 A marble races across a chain-reaction track in one continuous smooth shot.
 
@@ -322,15 +322,15 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ### No. 15: Building Lights Prompt Guide Variant
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_017
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_017
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Building lights pulse and switch on in sync with the soundtrack.
 
@@ -342,15 +342,15 @@ The lights of the buildings start turning on in sync with the music.
 
 ### No. 16: Skateboard Motion Effects
 
-- **Category:** `Action & Motion`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_019
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_019
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Keep the scene unchanged while adding animated motion effects from the skateboard.
 
@@ -366,15 +366,15 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ### No. 17: Violinist Input Base Shot
 
-- **Category:** `Camera & Perspective`
-- **Source:** `Google Blog | DeepMind Sequence`
-- **Author:** omni_009
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `Google Blog | DeepMind Sequence`
+- **Yazar:** omni_009
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Base clip of a violinist playing, used as the starting point for later edits.
 
@@ -386,15 +386,15 @@ A video of a violinist playing a song.
 
 ### No. 18: Violinist: Transport to New Environment
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Official`
-- **Author:** omni_010
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_010
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Move the violinist performance into a new referenced environment.
 
@@ -406,15 +406,15 @@ Transport the violinist to the image environment
 
 ### No. 19: Violinist: Invisible Violin
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Official`
-- **Author:** omni_011
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_011
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Remove the violin while preserving the original performance.
 
@@ -426,15 +426,15 @@ Make the violin invisible
 
 ### No. 20: Violinist: Over-the-Shoulder Angle
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Official`
-- **Author:** omni_012
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_012
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Reframe the performance from an over-the-shoulder camera angle.
 
@@ -446,15 +446,15 @@ Change the camera angle to be over the violinist's shoulder.
 
 ### No. 21: Camera Tilt: Shoes to Medium Shot
 
-- **Category:** `Camera & Perspective`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_020
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_020
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Start close on the shoes, tilt up quickly, then widen the framing.
 
@@ -470,15 +470,15 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ### No. 22: Alphabet Items Sequence
 
-- **Category:** `Text & Sequences`
-- **Source:** `Google Blog | DeepMind Sequence`
-- **Author:** omni_014
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
+- **Kategori:** `Text & Sequences`
+- **Kaynak:** `Google Blog | DeepMind Sequence`
+- **Yazar:** omni_014
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Show all 26 letters through unusual table-top objects with matching lower-thirds.
 
@@ -490,15 +490,15 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ### No. 23: Word-by-Word Text Sync
 
-- **Category:** `Text & Sequences`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_018
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
+- **Kategori:** `Text & Sequences`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_018
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Display one animated word at a time with rhythmic pacing.
 
@@ -514,15 +514,15 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 
 ### No. 24: Birds Shape With Audio
 
-- **Category:** `Multi-Input & Reference`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_021
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
+- **Kategori:** `Multi-Input & Reference`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_021
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
 
@@ -534,15 +534,15 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ### No. 25: Storyboard: Show Me in This Story
 
-- **Category:** `Multi-Input & Reference`
-- **Source:** `DeepMind Prompt Guide`
-- **Author:** omni_022
-- **Language:** `tr-TR`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
+- **Kategori:** `Multi-Input & Reference`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_022
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Aciklama
 
 Turn storyboard panels into a 10-second cinematic sequence in exact order.
 
@@ -552,4 +552,4 @@ Turn storyboard panels into a 10-second cinematic sequence in exact order.
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic
 ```
 
-This README is auto-generated from locale data in `data/prompts_by_locale`.
+Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

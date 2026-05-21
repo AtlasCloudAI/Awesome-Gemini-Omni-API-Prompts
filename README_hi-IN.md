@@ -1,4 +1,4 @@
-# Awesome Gemini Omni Prompts
+# Awesome Gemini Omni Prompt Sangrah
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -6,23 +6,23 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-A curated collection of Gemini Omni prompt examples with inline OSS video previews.
+OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
-This repository tracks official and prompt-guide examples for Gemini Omni. Each entry includes a preview video plus a localized prompt.
+Yeh repository Gemini Omni ke public video examples ko organize karti hai. Har entry me preview video aur localized prompt shamil hai.
 
-- **Current:** हिन्दी
-- **Other Languages:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
+- **Vartaman:** हिन्दी
+- **Anya Bhashaen:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
 
-## Statistics
+## Aankde
 
-| Metric | Count |
+| Suchak | Ginti |
 | --- | ---: |
-| Total Prompts | 25 |
+| Kul Prompts | 25 |
 | Categories | 5 |
 | Preview Videos | 25 |
-| Last Updated | 21/05/2026 |
+| Aakhri Update | 21/05/2026 |
 
-## Browse By Category
+## Category ke anusar dekhen
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)
@@ -30,7 +30,7 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 - [Text & Sequences](#category-4)
 - [Multi-Input & Reference](#category-5)
 
-## All Prompts
+## Sabhi Prompts
 
 <a id="category-1"></a>
 
@@ -41,12 +41,12 @@ This repository tracks official and prompt-guide examples for Gemini Omni. Each 
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_001
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
 
@@ -61,12 +61,12 @@ When the person touches the mirror, make the mirror ripple beautifully like liqu
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_002
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Mirror touch transforms the subject into a detailed monochrome line drawing.
 
@@ -81,12 +81,12 @@ When the person touches the mirror, the person transforms into a detailed monoch
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_003
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
 
@@ -101,12 +101,12 @@ When the person touches the mirror, the person suddenly transforms into a cute f
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_004
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
 
@@ -121,12 +121,12 @@ When the person touches the mirror, the person instantly transform into a vintag
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Official`
 - **Author:** omni_005
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Mirror touch turns the whole room into chunky 3D voxel art.
 
@@ -141,12 +141,12 @@ When the person touches the mirror, the entire environment turns into 3d voxel a
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_015
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Morph the butterfly into a bee.
 
@@ -161,12 +161,12 @@ Change the butterfly to a bee.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_016
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Morph the bee into a small swarm of fireflies.
 
@@ -181,12 +181,12 @@ Change the bee into a small swarm of fireflies.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_023
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Transform the ships so they look like folded white origami paper.
 
@@ -201,12 +201,12 @@ Change the ships to be made from white origami paper.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_024
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Transform the astronaut into a sea anemone.
 
@@ -221,12 +221,12 @@ Change the astronaut to a sea anemone.
 - **Category:** `Transform & Stylization`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_025
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Transform the small ships into stingrays.
 
@@ -245,12 +245,12 @@ Change the small ships to stingrays.
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_006
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
 
@@ -265,12 +265,12 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_007
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Touching each toy animal triggers the matching animal sound.
 
@@ -285,12 +285,12 @@ When the finger in <video> touches the animal toy play the sound the animal make
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_008
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Apartment lights switch on rhythmically in sync with the soundtrack.
 
@@ -305,12 +305,12 @@ The lights of the apartments start turning on in sync with the music.
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Official`
 - **Author:** omni_013
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 A marble races across a chain-reaction track in one continuous smooth shot.
 
@@ -325,12 +325,12 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_017
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Building lights pulse and switch on in sync with the soundtrack.
 
@@ -345,12 +345,12 @@ The lights of the buildings start turning on in sync with the music.
 - **Category:** `Action & Motion`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_019
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Keep the scene unchanged while adding animated motion effects from the skateboard.
 
@@ -369,12 +369,12 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 - **Category:** `Camera & Perspective`
 - **Source:** `Google Blog | DeepMind Sequence`
 - **Author:** omni_009
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Base clip of a violinist playing, used as the starting point for later edits.
 
@@ -389,12 +389,12 @@ A video of a violinist playing a song.
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Official`
 - **Author:** omni_010
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Move the violinist performance into a new referenced environment.
 
@@ -409,12 +409,12 @@ Transport the violinist to the image environment
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Official`
 - **Author:** omni_011
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Remove the violin while preserving the original performance.
 
@@ -429,12 +429,12 @@ Make the violin invisible
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Official`
 - **Author:** omni_012
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Reframe the performance from an over-the-shoulder camera angle.
 
@@ -449,12 +449,12 @@ Change the camera angle to be over the violinist's shoulder.
 - **Category:** `Camera & Perspective`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_020
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Start close on the shoes, tilt up quickly, then widen the framing.
 
@@ -473,12 +473,12 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 - **Category:** `Text & Sequences`
 - **Source:** `Google Blog | DeepMind Sequence`
 - **Author:** omni_014
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Show all 26 letters through unusual table-top objects with matching lower-thirds.
 
@@ -493,12 +493,12 @@ The video shows items of the alphabet. An unusual item starting with each letter
 - **Category:** `Text & Sequences`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_018
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Display one animated word at a time with rhythmic pacing.
 
@@ -517,12 +517,12 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 - **Category:** `Multi-Input & Reference`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_021
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
 
@@ -537,12 +537,12 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 - **Category:** `Multi-Input & Reference`
 - **Source:** `DeepMind Prompt Guide`
 - **Author:** omni_022
-- **Language:** `hi-IN`
-- **Video:** [View](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
 
-#### Description
+#### Varnan
 
 Turn storyboard panels into a 10-second cinematic sequence in exact order.
 
@@ -552,4 +552,4 @@ Turn storyboard panels into a 10-second cinematic sequence in exact order.
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic
 ```
 
-This README is auto-generated from locale data in `data/prompts_by_locale`.
+Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

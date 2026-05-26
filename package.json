@@ -2,6 +2,7 @@
   "name": "awesome-gemini-omni-api-prompts",
   "private": true,
   "scripts": {
-    "generate": "node scripts/generate-readmes.mjs"
+    "generate": "node scripts/generate-readmes.mjs",
+    "sync-generated": "node scripts/sync-generated-examples.mjs"
   }
 }

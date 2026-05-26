@@ -564,7 +564,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 026
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/98001caa-7272-4dbe-9573-4b385c28f506.mp4)
+- **Video:** [Xem](./previews/generated/026_generated_01_t2v-01-golden-deer.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/98001caa-7272-4dbe-9573-4b385c28f506.mp4" controls muted playsinline width="720"></video>
 
@@ -584,7 +584,7 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 027
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/4000e9ad-8d32-419a-803b-514c0e5d126f.mp4)
+- **Video:** [Xem](./previews/generated/027_generated_02_t2v-02-perfume-ice.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/4000e9ad-8d32-419a-803b-514c0e5d126f.mp4" controls muted playsinline width="720"></video>
 
@@ -604,7 +604,7 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 028
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a5084ba6-3f08-4562-9480-8b12c8a7c48b.mp4)
+- **Video:** [Xem](./previews/generated/028_generated_04_t2v-04-mini-chef-ramen.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a5084ba6-3f08-4562-9480-8b12c8a7c48b.mp4" controls muted playsinline width="720"></video>
 
@@ -624,7 +624,7 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 029
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1d2f7e9e-256f-43b4-b17e-f998ebf8eea6.mp4)
+- **Video:** [Xem](./previews/generated/029_generated_05_t2v-05-aurora-astronaut.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1d2f7e9e-256f-43b4-b17e-f998ebf8eea6.mp4" controls muted playsinline width="720"></video>
 
@@ -644,7 +644,7 @@ Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walk
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 034
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093233-79jpz-0.mp4)
+- **Video:** [Xem](./previews/generated/034_generated_01_cs_002_opera-stage-transformation.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093233-79jpz-0.mp4" controls muted playsinline width="720"></video>
 
@@ -664,7 +664,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 035
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093234-88nfj-0.mp4)
+- **Video:** [Xem](./previews/generated/035_generated_02_cs_003_one-take-seamless-transition.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093234-88nfj-0.mp4" controls muted playsinline width="720"></video>
 
@@ -684,7 +684,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 036
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093235-bscfs-0.mp4)
+- **Video:** [Xem](./previews/generated/036_generated_03_ne_006_coffee-morning-campaign.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093235-bscfs-0.mp4" controls muted playsinline width="720"></video>
 
@@ -704,7 +704,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 037
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093236-2v7hc-0.mp4)
+- **Video:** [Xem](./previews/generated/037_generated_04_ne_007_sunflower-skateboard-story.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093236-2v7hc-0.mp4" controls muted playsinline width="720"></video>
 
@@ -724,7 +724,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 038
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093238-658pn-0.mp4)
+- **Video:** [Xem](./previews/generated/038_generated_06_ve_001_titanic-dark-twist.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093238-658pn-0.mp4" controls muted playsinline width="720"></video>
 
@@ -744,7 +744,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 039
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093239-8mswg-0.mp4)
+- **Video:** [Xem](./previews/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093239-8mswg-0.mp4" controls muted playsinline width="720"></video>
 
@@ -764,7 +764,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 040
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-h687b-0.mp4)
+- **Video:** [Xem](./previews/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-h687b-0.mp4" controls muted playsinline width="720"></video>
 
@@ -784,7 +784,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 041
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-2m6gw-0.mp4)
+- **Video:** [Xem](./previews/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-2m6gw-0.mp4" controls muted playsinline width="720"></video>
 
@@ -804,7 +804,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 042
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093243-krhmc-0.mp4)
+- **Video:** [Xem](./previews/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093243-krhmc-0.mp4" controls muted playsinline width="720"></video>
 
@@ -824,7 +824,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 043
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093244-sp8c8-0.mp4)
+- **Video:** [Xem](./previews/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093244-sp8c8-0.mp4" controls muted playsinline width="720"></video>
 
@@ -844,7 +844,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 044
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093245-rhw5k-0.mp4)
+- **Video:** [Xem](./previews/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093245-rhw5k-0.mp4" controls muted playsinline width="720"></video>
 
@@ -864,7 +864,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 045
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093246-6p7cv-0.mp4)
+- **Video:** [Xem](./previews/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093246-6p7cv-0.mp4" controls muted playsinline width="720"></video>
 
@@ -884,7 +884,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 046
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093247-6jps9-0.mp4)
+- **Video:** [Xem](./previews/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093247-6jps9-0.mp4" controls muted playsinline width="720"></video>
 
@@ -904,7 +904,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 047
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093248-vtxkd-0.mp4)
+- **Video:** [Xem](./previews/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093248-vtxkd-0.mp4" controls muted playsinline width="720"></video>
 
@@ -924,7 +924,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 048
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093249-fhqnc-0.mp4)
+- **Video:** [Xem](./previews/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093249-fhqnc-0.mp4" controls muted playsinline width="720"></video>
 
@@ -944,7 +944,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 049
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093250-7bs8f-0.mp4)
+- **Video:** [Xem](./previews/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093250-7bs8f-0.mp4" controls muted playsinline width="720"></video>
 
@@ -964,7 +964,7 @@ Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poste
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 050
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093251-fvwh5-0.mp4)
+- **Video:** [Xem](./previews/generated/050_generated_20_14046_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093251-fvwh5-0.mp4" controls muted playsinline width="720"></video>
 
@@ -984,7 +984,7 @@ A photorealistic, high-resolution automotive shot of a {argument name="car color
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 051
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-sjwfl-0.mp4)
+- **Video:** [Xem](./previews/generated/051_generated_21_13919_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-sjwfl-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1004,7 +1004,7 @@ An anime-style illustration of a cute girl with {argument name="animal ears" def
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 052
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-q59rm-0.mp4)
+- **Video:** [Xem](./previews/generated/052_generated_22_14569_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-q59rm-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1024,7 +1024,7 @@ A candid, photorealistic vertical photo of a woman seated at a rustic wooden tab
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 053
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093253-mq5kf-0.mp4)
+- **Video:** [Xem](./previews/generated/053_generated_23_14677_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093253-mq5kf-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1044,7 +1044,7 @@ Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 054
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093254-45rjz-0.mp4)
+- **Video:** [Xem](./previews/generated/054_generated_24_14596_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093254-45rjz-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1064,7 +1064,7 @@ A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissan
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 055
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093255-trhp8-0.mp4)
+- **Video:** [Xem](./previews/generated/055_generated_25_14012_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093255-trhp8-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1084,7 +1084,7 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 056
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093256-zjdgs-0.mp4)
+- **Video:** [Xem](./previews/generated/056_generated_26_14680_ai.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093256-zjdgs-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1104,7 +1104,7 @@ Create a clean Japanese corporate training banner in a wide horizontal web-heade
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 057
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093258-htz6v-0.mp4)
+- **Video:** [Xem](./previews/generated/057_generated_27_14472_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093258-htz6v-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1124,7 +1124,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 058
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093259-n24ck-0.mp4)
+- **Video:** [Xem](./previews/generated/058_generated_28_13994_2x2.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093259-n24ck-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1144,7 +1144,7 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 059
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093300-dnv2r-0.mp4)
+- **Video:** [Xem](./previews/generated/059_generated_29_14517_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093300-dnv2r-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1164,7 +1164,7 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 060
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-lwlhr-0.mp4)
+- **Video:** [Xem](./previews/generated/060_generated_30_13448_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-lwlhr-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1184,7 +1184,7 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 082
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100146-xksz4-0.mp4)
+- **Video:** [Xem](./previews/generated/082_generated_02_ms_003_landscape-transition-music-video.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100146-xksz4-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1204,7 +1204,7 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 083
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100147-f6w4l-0.mp4)
+- **Video:** [Xem](./previews/generated/083_generated_03_ot_001_parkour-chase-sequence.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100147-f6w4l-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1228,7 +1228,7 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 030
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/e990cf98-4ab2-4115-86c3-a43cb83a119c.mp4)
+- **Video:** [Xem](./previews/generated/030_generated_01_i2v-01-storyboard-cinematic.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/e990cf98-4ab2-4115-86c3-a43cb83a119c.mp4" controls muted playsinline width="720"></video>
 
@@ -1248,7 +1248,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 031
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a9244437-90c7-4187-82f5-aa51c851f493.mp4)
+- **Video:** [Xem](./previews/generated/031_generated_02_i2v-02-burger-assembly.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a9244437-90c7-4187-82f5-aa51c851f493.mp4" controls muted playsinline width="720"></video>
 
@@ -1268,7 +1268,7 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 032
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1942f8a0-f3e0-427e-ba6f-a637c966bf95.mp4)
+- **Video:** [Xem](./previews/generated/032_generated_03_i2v-03-paper-typography.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1942f8a0-f3e0-427e-ba6f-a637c966bf95.mp4" controls muted playsinline width="720"></video>
 
@@ -1288,7 +1288,7 @@ Motion graphics animation driven by the reference composition. Turn the referenc
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 033
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://atlas-media.oss-us-west-1.aliyuncs.com/videos/919f0154-9f0d-44c4-a737-61eebb08f232.mp4)
+- **Video:** [Xem](./previews/generated/033_generated_05_i2v-05-logo-reveal.md)
 
 <video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/919f0154-9f0d-44c4-a737-61eebb08f232.mp4" controls muted playsinline width="720"></video>
 
@@ -1308,7 +1308,7 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 061
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-kqc8v-0.mp4)
+- **Video:** [Xem](./previews/generated/061_generated_01_ur_001_elegant-laundry-scene.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-kqc8v-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1328,7 +1328,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 062
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093302-sxz6z-0.mp4)
+- **Video:** [Xem](./previews/generated/062_generated_02_ur_002_interactive-painting-character.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093302-sxz6z-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1348,7 +1348,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 063
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093303-w9hw2-0.mp4)
+- **Video:** [Xem](./previews/generated/063_generated_03_ur_003_victorian-street-scene.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093303-w9hw2-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1368,7 +1368,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 064
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093307-wk6rq-0.mp4)
+- **Video:** [Xem](./previews/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093307-wk6rq-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1388,7 +1388,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 065
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093308-vkssl-0.mp4)
+- **Video:** [Xem](./previews/generated/065_generated_08_cs_006_horror-first-person-exploration.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093308-vkssl-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1408,7 +1408,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 066
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093313-f4vkf-0.mp4)
+- **Video:** [Xem](./previews/generated/066_generated_13_ac_005_martial-arts-combat-scene.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093313-f4vkf-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1428,7 +1428,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 067
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093315-qpv6l-0.mp4)
+- **Video:** [Xem](./previews/generated/067_generated_15_ac_007_car-commercial-cinematography.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093315-qpv6l-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1448,7 +1448,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 068
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093324-74grv-0.mp4)
+- **Video:** [Xem](./previews/generated/068_generated_23_ce_008_abstract-instant-noodles.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093324-74grv-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1468,7 +1468,7 @@ The character from @image1 references the movements and facial expression change
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 069
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093326-sv58h-0.mp4)
+- **Video:** [Xem](./previews/generated/069_generated_25_ne_002_childhood-seasons-documentary.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093326-sv58h-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1488,7 +1488,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 070
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093327-gn77n-0.mp4)
+- **Video:** [Xem](./previews/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093327-gn77n-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1508,7 +1508,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 071
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093329-t5fxx-0.mp4)
+- **Video:** [Xem](./previews/generated/071_generated_29_av_002_office-building-documentary.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093329-t5fxx-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1528,7 +1528,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 072
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095907-l9jhf-0.mp4)
+- **Video:** [Xem](./previews/generated/072_generated_05_1128_seedance-2-0.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095907-l9jhf-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1548,7 +1548,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 073
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095910-h55bn-0.mp4)
+- **Video:** [Xem](./previews/generated/073_generated_08_1143_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095910-h55bn-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1568,7 +1568,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 074
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095914-cszdz-0.mp4)
+- **Video:** [Xem](./previews/generated/074_generated_11_121_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095914-cszdz-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1588,7 +1588,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 075
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095915-mzf8b-0.mp4)
+- **Video:** [Xem](./previews/generated/075_generated_12_123_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095915-mzf8b-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1608,7 +1608,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 076
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095917-qrxpb-0.mp4)
+- **Video:** [Xem](./previews/generated/076_generated_14_1328_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095917-qrxpb-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1628,7 +1628,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 077
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095918-pfvx5-0.mp4)
+- **Video:** [Xem](./previews/generated/077_generated_15_1329_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095918-pfvx5-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1648,7 +1648,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 078
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095920-4c6bf-0.mp4)
+- **Video:** [Xem](./previews/generated/078_generated_16_1336_turbulent-sea-galleon.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095920-4c6bf-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1668,7 +1668,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 079
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-fvj6t-0.mp4)
+- **Video:** [Xem](./previews/generated/079_generated_17_134_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-fvj6t-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1688,7 +1688,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 080
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-kh2zp-0.mp4)
+- **Video:** [Xem](./previews/generated/080_generated_18_1342_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-kh2zp-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1708,7 +1708,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 081
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095925-rl72w-0.mp4)
+- **Video:** [Xem](./previews/generated/081_generated_19_138_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095925-rl72w-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1728,7 +1728,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 084
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100148-2dx6l-0.mp4)
+- **Video:** [Xem](./previews/generated/084_generated_01_1386_aurora-fizz.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100148-2dx6l-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1748,7 +1748,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 085
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100149-m97c6-0.mp4)
+- **Video:** [Xem](./previews/generated/085_generated_02_1390_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100149-m97c6-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1768,7 +1768,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 086
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100150-98cvj-0.mp4)
+- **Video:** [Xem](./previews/generated/086_generated_03_1391_bmx.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100150-98cvj-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1788,7 +1788,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 087
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100151-kkq6c-0.mp4)
+- **Video:** [Xem](./previews/generated/087_generated_04_1392_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100151-kkq6c-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1808,7 +1808,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 088
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100152-7jhhr-0.mp4)
+- **Video:** [Xem](./previews/generated/088_generated_05_1396_seedance-2-0.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100152-7jhhr-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1828,7 +1828,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 089
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100153-jfknr-0.mp4)
+- **Video:** [Xem](./previews/generated/089_generated_06_142_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100153-jfknr-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1848,7 +1848,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 090
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100154-9xnsc-0.mp4)
+- **Video:** [Xem](./previews/generated/090_generated_07_1470_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100154-9xnsc-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1868,7 +1868,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 091
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100155-5bmxc-0.mp4)
+- **Video:** [Xem](./previews/generated/091_generated_08_1478_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100155-5bmxc-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1888,7 +1888,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 092
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100156-t4tsb-0.mp4)
+- **Video:** [Xem](./previews/generated/092_generated_09_1537_seedance-2-0.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100156-t4tsb-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1908,7 +1908,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 093
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100157-p8lzb-0.mp4)
+- **Video:** [Xem](./previews/generated/093_generated_10_1550_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100157-p8lzb-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1928,7 +1928,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 094
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100159-rlq5z-0.mp4)
+- **Video:** [Xem](./previews/generated/094_generated_11_160_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100159-rlq5z-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1948,7 +1948,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 095
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100200-pknqd-0.mp4)
+- **Video:** [Xem](./previews/generated/095_generated_12_1633_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100200-pknqd-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1968,7 +1968,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 096
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100201-6vkk2-0.mp4)
+- **Video:** [Xem](./previews/generated/096_generated_13_1707_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100201-6vkk2-0.mp4" controls muted playsinline width="720"></video>
 
@@ -1988,7 +1988,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 097
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100203-hj4zv-0.mp4)
+- **Video:** [Xem](./previews/generated/097_generated_14_1709_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100203-hj4zv-0.mp4" controls muted playsinline width="720"></video>
 
@@ -2008,7 +2008,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 098
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100204-mrc5s-0.mp4)
+- **Video:** [Xem](./previews/generated/098_generated_15_1720_seedance-2-0.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100204-mrc5s-0.mp4" controls muted playsinline width="720"></video>
 
@@ -2028,7 +2028,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 099
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100206-kx88c-0.mp4)
+- **Video:** [Xem](./previews/generated/099_generated_16_1768_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100206-kx88c-0.mp4" controls muted playsinline width="720"></video>
 
@@ -2048,7 +2048,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 100
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100207-lhtz8-0.mp4)
+- **Video:** [Xem](./previews/generated/100_generated_17_1775_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100207-lhtz8-0.mp4" controls muted playsinline width="720"></video>
 
@@ -2068,7 +2068,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 101
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100209-b9z5g-0.mp4)
+- **Video:** [Xem](./previews/generated/101_generated_18_1776_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100209-b9z5g-0.mp4" controls muted playsinline width="720"></video>
 
@@ -2088,7 +2088,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Nguon:** `Gemini Omni Flash | prompts-hub generated`
 - **Tac gia:** Atlas Generated 102
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100210-hcxz6-0.mp4)
+- **Video:** [Xem](./previews/generated/102_generated_19_1777_case.md)
 
 <video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100210-hcxz6-0.mp4" controls muted playsinline width="720"></video>
 

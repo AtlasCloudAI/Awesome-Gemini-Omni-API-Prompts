@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "generate": "node scripts/generate-readmes.mjs",
-    "sync-generated": "node scripts/sync-generated-examples.mjs"
+    "sync-generated": "node scripts/sync-generated-examples.mjs",
+    "translate-generated": "node scripts/translate-generated-locales.mjs"
   }
 }

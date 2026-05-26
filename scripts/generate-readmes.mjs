@@ -486,6 +486,7 @@ function renderCategoryLinks(grouped) {
 }
 
 function renderPrompt(strings, prompt, index) {
+  const videoLink = prompt.preview_url || prompt.video_url;
   return [
     `### No. ${index}: ${prompt.title}`,
     "",
@@ -493,7 +494,7 @@ function renderPrompt(strings, prompt, index) {
     `- **${strings.source}:** \`${prompt.source_platform}\``,
     `- **${strings.author}:** ${prompt.author_name}`,
     `- **${strings.language}:** \`${prompt.language}\``,
-    `- **${strings.video}:** [${strings.view}](${prompt.video_url})`,
+    `- **${strings.video}:** [${strings.view}](${videoLink})`,
     "",
     `<video src="${escapeHtml(prompt.video_url)}" controls muted playsinline width="720"></video>`,
     "",

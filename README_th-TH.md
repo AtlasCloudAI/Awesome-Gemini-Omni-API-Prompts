@@ -1,4 +1,4 @@
-# รวมพรอมต์ Awesome Gemini Omni
+# 🎬 รวมพรอมต์ Awesome Gemini Omni
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -15,7 +15,11 @@
 - **ปัจจุบัน:** ไทย
 - **ภาษาอื่น:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
 
-## สถิติ
+## 🤔 What is Gemini Omni?
+
+Gemini Omni is Google's multimodal video model — text-to-video, image-to-video and reference-to-video with native, synchronized audio. On Atlas Cloud it runs as `google/gemini-omni-flash/*`. Every preview below was generated through Atlas Cloud from the listed prompt.
+
+## 📊 สถิติ
 
 | รายการ | จำนวน |
 | --- | ---: |
@@ -24,13 +28,13 @@
 | จำนวนวิดีโอตัวอย่าง | 102 |
 | อัปเดตล่าสุด | 10/06/2569 |
 
-## Supported Models
+### 🧩 Supported Models
 
 - 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -38,9 +42,9 @@
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**
 
-## เรียกดูตามหมวดหมู่
+## 🏷️ เรียกดูตามหมวดหมู่
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)

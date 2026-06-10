@@ -1,4 +1,4 @@
-# Awesome Gemini Omni 提示词大全
+# 🎬 Awesome Gemini Omni 提示词大全
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -15,7 +15,11 @@
 - **当前:** 简体中文
 - **其他语言:** [English](./README.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
 
-## 统计数据
+## 🤔 什么是 Gemini Omni？
+
+Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图生视频、参考生视频，并原生音画同步。在 Atlas Cloud 上通过 `google/gemini-omni-flash/*` 调用。下面每条 prompt 的预览都由 Atlas Cloud 实际跑出。
+
+## 📊 统计数据
 
 | 指标 | 数量 |
 | --- | ---: |
@@ -24,13 +28,13 @@
 | 预览视频数 | 102 |
 | 最后更新 | 2026/06/10 |
 
-## Supported Models
+### 🧩 Supported Models
 
 - 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -38,9 +42,9 @@
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**
 
-## 按分类浏览
+## 🏷️ 按分类浏览
 
 - [变换与风格化](#category-1)
 - [动作与运动](#category-2)

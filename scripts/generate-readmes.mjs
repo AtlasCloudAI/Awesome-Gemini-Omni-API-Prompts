@@ -15,6 +15,9 @@ const en = {
   subtitle: "A curated collection of Gemini Omni prompt examples with real previews generated via Atlas Cloud.",
   note:
     "This repository tracks official and prompt-guide examples for Gemini Omni. Each entry includes a preview video plus a localized prompt.",
+  overviewTitle: "🤔 What is Gemini Omni?",
+  overviewBody:
+    "Gemini Omni is Google's multimodal video model — text-to-video, image-to-video and reference-to-video with native, synchronized audio. On Atlas Cloud it runs as `google/gemini-omni-flash/*`. Every preview below was generated through Atlas Cloud from the listed prompt.",
   current: "Current",
   otherLanguages: "Other Languages",
   stats: "Statistics",
@@ -42,6 +45,9 @@ const zh = {
   subtitle: "收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。",
   note:
     "这个仓库整理了 Gemini Omni 的公开视频案例。每条数据都带视频预览，并提供本地化提示词，方便直接复用。",
+  overviewTitle: "🤔 什么是 Gemini Omni？",
+  overviewBody:
+    "Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图生视频、参考生视频，并原生音画同步。在 Atlas Cloud 上通过 `google/gemini-omni-flash/*` 调用。下面每条 prompt 的预览都由 Atlas Cloud 实际跑出。",
   current: "当前",
   otherLanguages: "其他语言",
   stats: "统计数据",
@@ -453,7 +459,7 @@ function renderHeader(locale, prompts) {
     .join(" | ");
 
   return [
-    `# ${strings.repoTitle}`,
+    `# 🎬 ${strings.repoTitle}`,
     "",
     "![Awesome Gemini Omni Logo](./logo.png)",
     "",
@@ -470,7 +476,11 @@ function renderHeader(locale, prompts) {
     `- **${strings.current}:** ${locale.label}`,
     `- **${strings.otherLanguages}:** ${otherLanguages}`,
     "",
-    `## ${strings.stats}`,
+    `## ${strings.overviewTitle}`,
+    "",
+    strings.overviewBody,
+    "",
+    `## 📊 ${strings.stats}`,
     "",
     `| ${strings.metric} | ${strings.count} |`,
     "| --- | ---: |",
@@ -479,13 +489,13 @@ function renderHeader(locale, prompts) {
     `| ${strings.previewVideos} | ${prompts.filter((item) => item.video_url).length} |`,
     `| ${strings.lastUpdated} | ${updated} |`,
     "",
-    "## Supported Models",
+    "### 🧩 Supported Models",
     "",
     "- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7",
     "- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5",
     "- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen",
     "- 🔊 **Audio** — Grok TTS",
-    `- 📚 **Explore more** — https://www.atlascloud.ai/models${UTM}`,
+    `- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models${UTM})`,
     "",
     "## ▶ Run any prompt via Atlas Cloud",
     "",
@@ -493,9 +503,9 @@ function renderHeader(locale, prompts) {
     "",
     `**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.`,
     "",
-    `Get an API key: https://www.atlascloud.ai/console/api-keys${UTM}`,
+    `**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys${UTM})**`,
     "",
-    `## ${strings.browseByCategory}`,
+    `## 🏷️ ${strings.browseByCategory}`,
     "",
   ].join("\n");
 }

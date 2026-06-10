@@ -589,9 +589,9 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 026
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/026_generated_01_t2v-01-golden-deer.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/98001caa-7272-4dbe-9573-4b385c28f506.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -609,9 +609,9 @@ Ultraralistische Makro-Waldkinematografie, geringe Schärfentiefe, 4K-Stimmungsb
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 027
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/027_generated_02_t2v-02-perfume-ice.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/4000e9ad-8d32-419a-803b-514c0e5d126f.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -629,9 +629,9 @@ Luxus-Kinematografie, polierte Glasreflexionen, Zeitlupe, 100mm-Makroobjektiv. E
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 028
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/028_generated_04_t2v-04-mini-chef-ramen.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a5084ba6-3f08-4562-9480-8b12c8a7c48b.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -649,9 +649,9 @@ Verspielte Lebensmittelwerbung mit kinematischer Miniaturfotografie. Ein winzige
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 029
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/029_generated_05_t2v-05-aurora-astronaut.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1d2f7e9e-256f-43b4-b17e-f998ebf8eea6.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -669,9 +669,9 @@ Epische Sci-Fi-Landschaft, IMAX-Weitwinkelaufnahme, klare Atmosphäre. Ein Astro
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 034
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/034_generated_01_cs_002_opera-stage-transformation.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093233-79jpz-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -689,9 +689,9 @@ Ersetze das Mädchen in @video1 durch eine chinesische Opernschauspielerin (Huad
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 035
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/035_generated_02_cs_003_one-take-seamless-transition.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093234-88nfj-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -709,9 +709,9 @@ Referenziere alle Übergänge und Kamerabewegungen von @video1, eine kontinuierl
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 036
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/036_generated_03_ne_006_coffee-morning-campaign.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093235-bscfs-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -729,9 +729,9 @@ Erweitere @video1 um 15 Sekunden. 1-5 Sekunden: Licht und Schatten gleiten langs
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 037
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/037_generated_04_ne_007_sunflower-skateboard-story.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093236-2v7hc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -749,9 +749,9 @@ Erweitere um 10s. Im warmen Nachmittagslicht beginnt die Kamera von der Reihe de
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 038
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/038_generated_06_ve_001_titanic-dark-twist.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093238-658pn-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -769,9 +769,9 @@ Kehre die Handlung in @video1 um. Die Augen des Mannes wechseln sofort von sanft
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 039
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093239-8mswg-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -789,9 +789,9 @@ Kehre die Handlung in @video1 um. Die Augen des Mannes wechseln sofort von sanft
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 040
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-h687b-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -809,9 +809,9 @@ Einheitlicher Stil-Leitfaden für alle Aufnahmen: Realistisches kinematografisch
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 041
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-2m6gw-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -829,9 +829,9 @@ Eine kinematografische Drohnensequenz über einem kriegszerstörten Stadtkreuzun
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 042
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093243-krhmc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -849,9 +849,9 @@ Erstellen Sie eine hochdruckvolle Katastrophen-Action-Sequenz: Während eines tu
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 043
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093244-sp8c8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -869,9 +869,9 @@ Stil: IMAX 70mm, Denis Villeneuve-inspirierter epischer Realismus, hoher Kontras
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 044
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093245-rhw5k-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -889,9 +889,9 @@ Ein bodenständiger Martial-Arts-Duell zwischen zwei Frauen in einer modernen st
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 045
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093246-6p7cv-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -909,9 +909,9 @@ Produzieren Sie eine Premium-Anime-Kampfsequenz inspiriert von One Punch Man Ene
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 050
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/050_generated_20_14046_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093251-fvwh5-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -929,9 +929,9 @@ Eine fotorealistische, hochauflösende Autografie eines {argument name="car colo
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 051
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/051_generated_21_13919_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-sjwfl-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -949,9 +949,9 @@ Eine Illustration im Anime-Stil eines niedrigen Mädchens mit {argument name="an
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 052
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/052_generated_22_14569_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-q59rm-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -969,9 +969,9 @@ Eine spontane, fotorealistische vertikale Fotografie einer Frau, die an einem ru
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 053
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/053_generated_23_14677_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093253-mq5kf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -989,9 +989,9 @@ Strukturiertes Text-zu-Video-Prompt-Beispiel für niedlichen Vier-Panel Schulver
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 058
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/058_generated_28_13994_2x2.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093259-n24ck-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1009,9 +1009,9 @@ Strukturiertes Text-zu-Video-Prompt-Beispiel für 2x2 Japanisches Banner-Werbegr
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 059
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/059_generated_29_14517_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093300-dnv2r-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1029,9 +1029,9 @@ Eine verspielte minimalistische Illustration einer {argument name="cat breed" de
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 060
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/060_generated_30_13448_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-lwlhr-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1049,9 +1049,9 @@ Ein hochdetailliertes, fotorealistisches Porträt einer {argument name="subject 
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 082
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/082_generated_02_ms_003_landscape-transition-music-video.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100146-xksz4-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1069,9 +1069,9 @@ Ein hochdetailliertes, fotorealistisches Porträt einer {argument name="subject 
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 083
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/083_generated_03_ot_001_parkour-chase-sequence.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100147-f6w4l-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1093,9 +1093,9 @@ Ein hochdetailliertes, fotorealistisches Porträt einer {argument name="subject 
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 030
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/030_generated_01_i2v-01-storyboard-cinematic.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/e990cf98-4ab2-4115-86c3-a43cb83a119c.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1113,9 +1113,9 @@ Zeige mir diese Geschichte. Folge der Geschichte genau in der Reihenfolge, begin
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 031
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/031_generated_02_i2v-02-burger-assembly.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a9244437-90c7-4187-82f5-aa51c851f493.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1133,9 +1133,9 @@ Premium-Lebensmittelwerbung mit kinetischer Kamerabewegung. Verwende die Zutaten
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 032
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/032_generated_03_i2v-03-paper-typography.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1942f8a0-f3e0-427e-ba6f-a637c966bf95.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1153,9 +1153,9 @@ Motion-Graphics-Animation basierend auf der Referenzkomposition. Verwandle das R
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 033
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/033_generated_05_i2v-05-logo-reveal.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/919f0154-9f0d-44c4-a737-61eebb08f232.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1173,9 +1173,9 @@ Hochwertige Produkt-Enthüllungsanimation. Verwende das Referenz-Logo als Kernob
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 061
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/061_generated_01_ur_001_elegant-laundry-scene.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-kqc8v-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1193,9 +1193,9 @@ Fixierte Kameraufnahme, ein Mädchen hängt elegant Wäsche zum Trocknen auf, na
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 070
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093327-gn77n-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1213,9 +1213,9 @@ Erweitern Sie ein 15-Sekunden-Video, beziehen Sie sich auf das Bild vom Esel, de
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 071
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/071_generated_29_av_002_office-building-documentary.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093329-t5fxx-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1233,9 +1233,9 @@ Basierend auf den bereitgestellten Werbefotos des Bürogebäudes, generieren Sie
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 072
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/072_generated_05_1128_seedance-2-0.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095907-l9jhf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1253,9 +1253,9 @@ Nacht, nebelverhangene indische Straße. Eine geheimnisvolle Frau in einem tiefr
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 073
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/073_generated_08_1143_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095910-h55bn-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1273,9 +1273,9 @@ Hochwertige dynamische 3D-Animation einer Hochgeschwindigkeits-Magischer-Wald-Re
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 078
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/078_generated_16_1336_turbulent-sea-galleon.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095920-4c6bf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1293,9 +1293,9 @@ Ein neugeborener Mond strahlt ein blasses Licht aus, unter dem sich ein tosender
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 079
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/079_generated_17_134_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-fvj6t-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1313,9 +1313,9 @@ Sie führt die erstaunlichsten Kampfkünste vor. Sie schreit mit mazedonischem A
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 080
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/080_generated_18_1342_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-kh2zp-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1333,9 +1333,9 @@ Eine lebendige interstellare Panoramalandschaft, gerahmt von wirbelnden violette
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 081
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/081_generated_19_138_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095925-rl72w-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1353,9 +1353,9 @@ Die Zahlen in 【@Image 1】repräsentieren Zeilennummern. Diese dienen nur als 
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 084
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/084_generated_01_1386_aurora-fizz.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100148-2dx6l-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1373,9 +1373,9 @@ Hochwertige Werbung — AURORA FIZZ 00:00 – 00:02 | Blitz-Eintritt Aktion: AUR
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 085
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/085_generated_02_1390_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100149-m97c6-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1393,9 +1393,9 @@ Erste-Person-Perspektive: Das Schiff schaukelt auf stürmischer See; Schnitt auf
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 102
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/102_generated_19_1777_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100210-hcxz6-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1417,9 +1417,9 @@ Aufnahme 1 (8 Sekunden) Eine mächtige weibliche Figur. Kino-Weitwinkelobjektiv,
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 046
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093247-6jps9-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1437,9 +1437,9 @@ Mecha-Anime-Sequenz: Ein anthropomorpher Otter-Pilot bereitet sich darauf vor, e
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 047
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093248-vtxkd-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1457,9 +1457,9 @@ Erstellen Sie eine Alien-Invasion-Actionszene im Stil des südkommerziellen Kino
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 048
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093249-fhqnc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1477,9 +1477,9 @@ Kampfaufnahmen auf Bodenhöhe mit dokumentarischem Realismus: Ein Soldatentrupp 
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 049
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093250-7bs8f-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1497,9 +1497,9 @@ Strukturiertes Text-zu-Video-Prompt-Beispiel für hyper-energetisches japanische
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 054
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/054_generated_24_14596_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093254-45rjz-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1517,9 +1517,9 @@ A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissan
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 055
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/055_generated_25_14012_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093255-trhp8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1537,9 +1537,9 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 056
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/056_generated_26_14680_ai.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093256-zjdgs-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1557,9 +1557,9 @@ Create a clean Japanese corporate training banner in a wide horizontal web-heade
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 057
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/057_generated_27_14472_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093258-htz6v-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1581,9 +1581,9 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 062
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/062_generated_02_ur_002_interactive-painting-character.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093302-sxz6z-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1601,9 +1601,9 @@ Die Figur im Gemälde hat einen schuldigen Ausdruck, die Augen schauen nach link
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 063
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/063_generated_03_ur_003_victorian-street-scene.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093303-w9hw2-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1621,9 +1621,9 @@ Die Kamera zieht sich leicht zurück (zeigt die gesamte Straßensicht) und folgt
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 064
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093307-wk6rq-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1641,9 +1641,9 @@ Die Kamera zieht sich leicht zurück (zeigt die gesamte Straßensicht) und folgt
 - **Quelle:** `Gemini Omni Flash | prompts-hub generiert`
 - **Autor:** Atlas Generated 065
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/065_generated_08_cs_006_horror-first-person-exploration.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093308-vkssl-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1665,9 +1665,9 @@ Verwenden Sie @image1 als erstes Bild des Bildschirms, First-Person-Perspektive,
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 066
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/066_generated_13_ac_005_martial-arts-combat-scene.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093313-f4vkf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1685,9 +1685,9 @@ Referenziere @image1 @image2 den Langspeer-Krieger, @image3 @image4 den Doppelsc
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 067
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/067_generated_15_ac_007_car-commercial-cinematography.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093315-qpv6l-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1705,9 +1705,9 @@ Referenziere die Kamerabewegungen und den Szenenübergangsrhythmus von Video 1, 
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 068
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/068_generated_23_ce_008_abstract-instant-noodles.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093324-74grv-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1725,9 +1725,9 @@ Der Charakter aus @image1 referenziert die Bewegungen und Gesichtsausdrucksände
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 069
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/069_generated_25_ne_002_childhood-seasons-documentary.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093326-sv58h-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1745,9 +1745,9 @@ Referenziere das Storyboard-Skript der Dokumentation aus @image1, referenziere d
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 074
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/074_generated_11_121_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095914-cszdz-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1765,9 +1765,9 @@ Referenziere das Storyboard-Skript der Dokumentation aus @image1, referenziere d
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 075
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/075_generated_12_123_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095915-mzf8b-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1785,9 +1785,9 @@ Eine filmreife Rennszene. In Europa in den frühen 2000er Jahren, mit Schnee, fi
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 076
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/076_generated_14_1328_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095917-qrxpb-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1805,9 +1805,9 @@ Eine Kampfszene zwischen zwei Personen im Stil der Shaw-Brothers-Filme erschaffe
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 077
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/077_generated_15_1329_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095918-pfvx5-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1825,9 +1825,9 @@ In einer Szene im modernen chinesischen 3D-Animationsstil sitzt der mächtige Sc
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 086
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/086_generated_03_1391_bmx.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100150-98cvj-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1845,9 +1845,9 @@ Eine junge Frau Ende zwanzig mit brasilianischem Hintergrund, dunkelgelocktes Ha
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 087
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/087_generated_04_1392_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100151-kkq6c-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1865,9 +1865,9 @@ Ein LEGO-Entdecker-Minifigur fährt ein Mini-Schneemobil durch Eis und Schnee, w
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 088
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/088_generated_05_1396_seedance-2-0.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100152-7jhhr-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1885,9 +1885,9 @@ Erstelle eine Anime-Szene: Ein muskulöser Drache steht bedrohlich vor einem men
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 089
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/089_generated_06_142_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100153-jfknr-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1905,9 +1905,9 @@ Generiere ein Video über eine Laufszene, hinter der ein gigantisches Monster wi
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 090
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/090_generated_07_1470_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100154-9xnsc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1925,9 +1925,9 @@ In einem dunklen, hell erleuchteten digitalen Ausstellungsraum entfaltet sich ei
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 091
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/091_generated_08_1478_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100155-5bmxc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1945,9 +1945,9 @@ Eine alte Steinburg thront auf einer Klippe, während dunkle Wolken aufziehen un
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 092
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/092_generated_09_1537_seedance-2-0.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100156-t4tsb-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1965,9 +1965,9 @@ Erste-Person-Perspektive beim Fliegen eines Kleinflugzeugs in niedriger Höhe, d
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 093
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/093_generated_10_1550_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100157-p8lzb-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -1985,9 +1985,9 @@ Format: 15 Sekunden / 6 Einstellungen / Herzliche Waldkomödie / Kurze Dialoge S
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 094
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/094_generated_11_160_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100159-rlq5z-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2005,9 +2005,9 @@ Ein riesiger gepanzerter Pavian stürmt durch ein brennendes Massai-Dorf, greift
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 095
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/095_generated_12_1633_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100200-pknqd-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2025,9 +2025,9 @@ Ein riesiger gepanzerter Pavian stürmt durch ein brennendes Massai-Dorf, greift
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 096
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/096_generated_13_1707_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100201-6vkk2-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2045,9 +2045,9 @@ Ein einsamer Notfallsanitäter in orangener Schwimmweste steht auf dem zerbroche
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 097
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/097_generated_14_1709_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100203-hj4zv-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2065,9 +2065,9 @@ Eine lebendige Dose Orangengetränk, umgeben von spritzenden Zitronenscheiben un
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 098
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/098_generated_15_1720_seedance-2-0.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100204-mrc5s-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2085,9 +2085,9 @@ Kernszenen-Prompt @94d74b42-17ec-45d3-ab60-487c3a1700cb 10 globale weibliche Rü
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 099
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/099_generated_16_1768_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100206-kx88c-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2105,9 +2105,9 @@ Schneller Schnitt: Ein hyperrealistischer „Büro-Drache“ fliegt mit hoher Ge
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 100
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/100_generated_17_1775_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100207-lhtz8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 
@@ -2125,9 +2125,9 @@ Durch hochdetaillierte Papierschnittkunst, nahtloser unendlicher Zoom-Zeitraffer
 - **Quelle:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 101
 - **Sprache:** `de-DE`
-- **Video:** [Ansehen](./previews/generated/101_generated_18_1776_case.md)
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100209-b9z5g-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4" controls muted playsinline width="720"></video>
 
 #### Beschreibung
 

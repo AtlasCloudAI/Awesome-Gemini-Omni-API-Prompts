@@ -277,6 +277,9 @@ async function loadOutputMap() {
     for (const item of items) {
       outputMap.set(flattenOutputFile(batch, item.output_file), {
         title: cleanTitle(item.title),
+        // ⚠️ output_url 是生成任务的临时桶地址（temp-24h-*，24h 过期会 404）。
+        // 发布前必须把视频转存到持久 CDN（static.atlascloud.ai）再写入；
+        // 已转存的 URL 直接回填在 data/*.json 的 video_url，重跑本脚本前请先转存，勿用临时地址。
         video_url: item.output_url,
         mode: item.mode,
       });

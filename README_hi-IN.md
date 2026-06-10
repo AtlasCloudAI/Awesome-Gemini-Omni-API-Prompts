@@ -5,6 +5,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-102%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -18,9 +20,25 @@ Yeh repository Gemini Omni ke public video examples ko organize karti hai. Har e
 | Suchak | Ginti |
 | --- | ---: |
 | Kul Prompts | 102 |
-| Categories | 7 |
+| Categories | 9 |
 | Preview Videos | 102 |
-| Aakhri Update | 26/05/2026 |
+| Aakhri Update | 10/06/2026 |
+
+## Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
 
 ## Category ke anusar dekhen
 
@@ -29,8 +47,10 @@ Yeh repository Gemini Omni ke public video examples ko organize karti hai. Har e
 - [Camera & Perspective](#category-3)
 - [Text & Sequences](#category-4)
 - [Multi-Input & Reference](#category-5)
-- [Atlas Generated T2V](#category-6)
-- [Atlas Generated I2V](#category-7)
+- [एटलस जनरेटेड T2V](#category-6)
+- [एटलस जनरेटेड आई2वी](#category-7)
+- [एटलस जनरेटेड I2V](#category-8)
+- [Atlas Generated I2V](#category-9)
 
 ## Sabhi Prompts
 
@@ -556,11 +576,11 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 <a id="category-6"></a>
 
-### Atlas Generated T2V (33)
+### एटलस जनरेटेड T2V (33)
 
-### No. 26: Golden Deer
+### No. 26: गोल्डन डियर
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 026
 - **Bhasha:** `hi-IN`
@@ -570,7 +590,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 #### Varnan
 
-Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single dro...
+अल्ट्रा-रियलिस्टिक मैक्रो फॉरेस्ट सिनेमैटोग्राफी, शैलो डेप्थ ऑफ फील्ड, 4K मूड लाइटिंग। एक घिसा-पिटा चीनी मिट्टी का सफेद हिरण की मूर्ति एक नम काईदार जंगल में जमी हुई है। एक चमकती सुनहरी शहद की बूंद हिरण की आंख में गिरती है। चीनी मिट्टी बाहर की ओर टूटती है और गर्म जीवित फर और मांसपेशियों में बदल जाती है। हिरण ठंडी धुंध छोड़ता है, अपना सिर नीचे करता है, और फिर जंगल के बीच से छलांग लगाता है, चमकते कणों को बिखेरता हुआ। समृद्ध सिनेमैटिक साउंड डिज़ाइन, संयमित कैमरा पुश-इन, भावनात्मक रूप से महाकाव्य।
 
 #### Prompt
 
@@ -578,9 +598,9 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single drop of glowing golden honey falls into the deer eye. The porcelain cracks outward and transforms into warm living fur and muscle. The deer exhales cold mist, lowers its head, then leaps through the forest, scattering glowing particles. Rich cinematic sound design, restrained camera push-in, emotionally epic.
 ```
 
-### No. 27: Perfume Ice
+### No. 27: पर्फ्यूम आइस
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 027
 - **Bhasha:** `hi-IN`
@@ -590,7 +610,7 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 
 #### Varnan
 
-Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fracture...
+लक्ज़री कमर्शियल सिनेमैटोग्राफी, पॉलिश्ड ग्लास रिफ्लेक्शन्स, स्लो मोशन, 100mm मैक्रो लेंस। एक ब्लू आवर में जमी हुई झील पर एक काले क्रिस्टल परफ्यूम की बोतल बैठी है। बाल की रेखा जैसी दरारें...
 
 #### Prompt
 
@@ -598,9 +618,9 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fractures spread across the ice in sync with a low bass pulse. The bottle rotates elegantly as silver vapor blooms around it. On the final beat, the ice bursts into suspended glittering shards and the logo lockup appears in clean light.
 ```
 
-### No. 28: Mini Chef Ramen
+### No. 28: मिनी शेफ रेमन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 028
 - **Bhasha:** `hi-IN`
@@ -610,7 +630,7 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 
 #### Varnan
 
-Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth...
+प्लेफुल फूड कमर्शियल विद सिनेमैटिक मिनिएचर फोटोग्राफी। एक छोटा शेफ भाप उठते रेमन बाउल के किनारे पर दौड़ता है, स्प्रिंगी नूडल्स पर कूदता है, और समृद्ध शोरबा की एक लहर पर सर्फ करता है...
 
 #### Prompt
 
@@ -618,9 +638,9 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth toward a glowing soft-boiled egg. Steam rolls through the frame, sesame seeds fall in slow motion, and the final shot lands on a perfect hero angle.
 ```
 
-### No. 29: Aurora Astronaut
+### No. 29: ऑरोरा एस्ट्रोनॉट
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 029
 - **Bhasha:** `hi-IN`
@@ -630,7 +650,7 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 
 #### Varnan
 
-Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the sc...
+एपिक साइ-फाई लैंडस्केप, IMAX-स्टाइल वाइड शॉट, क्रिस्प एटमॉस्फियर। एक एस्ट्रोनॉट एक जीवंत हरे ऑरोरा के नीचे मिरर जैसे नमक के मैदानों में अकेला चलता है। रिफ्लेक्शन दृश्य को दोगुना कर देता है...
 
 #### Prompt
 
@@ -638,9 +658,9 @@ Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walk
 Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the scene perfectly. The camera begins low behind the boots, then rises into a graceful orbit as the aurora twists into ribbon-like spirals overhead. Finish on a contemplative wide frame.
 ```
 
-### No. 30: Opera Stage Transformation
+### No. 30: ओपेरा स्टेज ट्रांसफॉर्मेशन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 034
 - **Bhasha:** `hi-IN`
@@ -650,7 +670,7 @@ Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walk
 
 #### Varnan
 
-Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use cam...
+@video1 में लड़की को एक चीनी ओपेरा अभिनेत्री (हुआदान) से बदलें, दृश्य को एक उत्कृष्ट मंच पर सेट करें, @video1 के कैमरा मूवमेंट्स और ट्रांजिशन इफेक्ट्स को रेफरेंस करें, कैम...
 
 #### Prompt
 
@@ -658,9 +678,9 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use camera work to match the character's movements, ultimate stage aesthetics, enhance visual impact.
 ```
 
-### No. 31: One-Take Seamless Transition
+### No. 31: वन-टेक सीमलेस ट्रांजिशन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 035
 - **Bhasha:** `hi-IN`
@@ -670,7 +690,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 #### Varnan
 
-Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera...
+@video1 के सभी ट्रांजिशन और कैमरा मूवमेंट्स को रेफरेंस करें, एक सतत शॉट। फ्रेम एक शतरंज के खेल से शुरू होता है, कैमरा बाईं ओर मूव करता है, फर्श पर पीली रेत दिखाता है, कैमरा...
 
 #### Prompt
 
@@ -678,9 +698,9 @@ Reference all transitions and camera movements from @video1, one continuous take
 Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera moves up to a beach with footprints, a girl in white plain clothes walks away on the beach, camera cuts to aerial overhead view, seawater washing (no people appearing), seamless gradient transition, the washing waves become flowing curtains, camera pulls back, showing close-up of the girl's face, one continuous take.
 ```
 
-### No. 32: Coffee Morning Campaign
+### No. 32: कॉफी मॉर्निंग कैंपेन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 036
 - **Bhasha:** `hi-IN`
@@ -690,7 +710,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 #### Varnan
 
-Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement...
+@video1 को 15 सेकंड तक बढ़ाएं। 1-5 सेकंड: लाइट और शैडो धीरे-धीरे ब्लाइंड्स के माध्यम से लकड़ी की मेज और कप के बॉडी पर स्लाइड करते हैं, शाखाएं सांस लेने जैसी हल्की हरकत के साथ हिलती हैं...
 
 #### Prompt
 
@@ -698,9 +718,9 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement. 6-10 seconds: A coffee bean gently falls from the top of the screen, camera pushes toward the coffee bean until the screen goes black. 11-15 seconds: English text gradually appears first line 'Lucky Coffee', second line 'Breakfast', third line 'AM 7:00-10:00'.
 ```
 
-### No. 33: Sunflower Skateboard Story
+### No. 33: सनफ्लावर स्केटबोर्ड स्टोरी
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 037
 - **Bhasha:** `hi-IN`
@@ -710,7 +730,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 #### Varnan
 
-Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies pok...
+आगे 10 सेकंड तक बढ़ाएं। गर्म दोपहर की रोशनी में, कैमरा स्ट्रीट कॉर्नर पर हवा में लहराते हुए शेड्स की पंक्ति से शुरू होता है, धीरे-धीरे दीवार के नीचे से बाहर झांकते कुछ छोटे डेज़ी की ओर मूव करता है...
 
 #### Prompt
 
@@ -718,9 +738,9 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies poking out at the base of the wall. Then the protagonist's red skateboard shoes appear in the frame. He is crouching in front of a street flower stand, smiling and gathering a large bunch of sunflowers into his arms, petals brushing against his white T-shirt. As he turns to step on the skateboard, the flower stand owner laughingly shouts 'Watch out for flying petals!' He waves at the owner, then starts skating. A few golden petals have already broken free from the bouquet first, falling onto the skateboard deck.
 ```
 
-### No. 34: Titanic Dark Twist
+### No. 34: टाइटैनिक डार्क ट्विस्ट
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 038
 - **Bhasha:** `hi-IN`
@@ -730,7 +750,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 #### Varnan
 
-Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist...
+@video1 में प्लॉट को उलट दें। आदमी की आंखें पल भर में कोमल से ठंडी और निर्दयी हो जाती हैं। जब रोज बचावहीन होती है, तो वह महिला प्रोटैगोनिस्ट को ब्रिज से धक्का देकर पानी में गिरा देता है...
 
 #### Prompt
 
@@ -738,9 +758,9 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist off the bridge, pushing her into the water. The action is decisive and resolute, with long-premeditated determination, without any hesitation, completely subverting the original affectionate character setting. The moment the female protagonist falls into the water, there is no scream, only disbelieving eyes. She looks up and roars at the male protagonist: 'You've been lying to me from the beginning!' The male protagonist stands on the bridge, a cold smile on his face, saying in a low voice to the water: 'This is what you owe my family.'
 ```
 
-### No. 35: Anime Chess Battle Storyboard
+### No. 35: एनिमे शतरंज युद्ध स्टोरीबोर्ड
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 039
 - **Bhasha:** `hi-IN`
@@ -750,7 +770,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 #### Varnan
 
-8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female p...
+8-सेकंड का इंटेलेक्चुअल बैटल-स्टाइल एनिमे कॉम्बैट सेगमेंट, रिवेंज थीम के अनुकूल। 0-3 सेकंड: स्टोरीबोर्ड इमेज 1 में महिला प्रोटैगोनिस्ट मुड़कर बैठती है, कैमरा मुड़ता है, महिला प्रोटैगोनिस्ट एक शतरंज का मोहरा रखती है और कहती है 'तुम हार गए', स्टोरीबोर्ड इमेज 2 को रेफरेंस करें...
 
 #### Prompt
 
@@ -758,9 +778,9 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female protagonist places a chess piece and says 'You lost', reference storyboard image 2. 3-4 seconds: Quick pan camera, turn to opposite man's face close-up, reference storyboard image 3, man gritting teeth, very dissatisfied with the result. 4-6 seconds: Cut camera, overhead shot, woman places a chess piece, people opposite are amazed, reference storyboard image 4. 6-8 seconds: Camera rapidly pans down, screen goes black for transition, then screen gradually brightens, dimly lit room, woman looks at the moonlight outside the window and quietly says 'We'll see', reference storyboard image 5.
 ```
 
-### No. 36: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
+### No. 36: 5 मिनट में 1-मिनट की सिनेमैटिक वॉर वीडियो, मल्टी-शॉट स्ट्रक्चर
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 040
 - **Bhasha:** `hi-IN`
@@ -770,7 +790,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 #### Varnan
 
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sun...
+सभी शॉट्स के लिए सुसंगत स्टाइल गाइडलाइन: आधुनिक मध्य पूर्वी रेगिस्तानी गांव में यथार्थवादी सिनेमैटिक युद्ध फुटेज; प्रमुख रेत पीले और ग्रे-भूरे रंग की पैलेट; कठोर दोपहर की धूप और कठोर छाया...
 
 #### Prompt
 
@@ -778,9 +798,9 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 37: Aerial Shot of Burning Military Vehicle in Urban Warfare
+### No. 37: अर्बन वॉरफेयर में जलते हुए मिलिट्री व्हीकल का एरियल शॉट
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 041
 - **Bhasha:** `hi-IN`
@@ -790,7 +810,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 #### Varnan
 
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overc...
+एक युद्धग्रस्त शहर के चौराहे पर सिनेमैटिक ड्रोन सीक्वेंस। केंद्र में, एक नष्ट हुआ बख्तरबंद वाहन लगातार जल रहा है, जो काले धुएं का उत्सर्जन करता है जो बादलों से घिरे आकाश में ऊपर उठता है...
 
 #### Prompt
 
@@ -798,9 +818,9 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 38: Quick Test of Female Controlling Plane in Complex Action Scene
+### No. 38: जटिल एक्शन सीन में महिला द्वारा विमान नियंत्रण का त्वरित परीक्षण
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 042
 - **Bhasha:** `hi-IN`
@@ -810,7 +830,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 #### Varnan
 
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through...
+एक उच्च दबाव वाली आपदा-एक्शन श्रृंखला बनाएं: अशांत उड़ान के दौरान, एक महिला कॉकपिट की ओर दौड़ती है और पाती है कि दोनों पायलट गायब हैं। शॉट 1: हाथ में पकड़े कैमरे से अराजक केबिन के माध्यम से ट्रैकिंग, घबराए हुए यात्रियों, झूलते ऑक्सीजन मास्क, और चमकती आपातकालीन रोशनी के साथ...
 
 #### Prompt
 
@@ -818,9 +838,9 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 39: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
+### No. 39: डेनिस विलेन्यूव एस्थेटिक के साथ IMAX-स्टाइल डेजर्ट सैंडस्टॉर्म सीन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 043
 - **Bhasha:** `hi-IN`
@@ -830,7 +850,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 #### Varnan
 
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while...
+स्टाइल: IMAX 70mm, डेनिस विलेन्यूव-प्रेरित महाकाव्य यथार्थवाद, उच्च कंट्रास्ट, कम संतृप्ति। मल्टी-शॉट संरचना। एक्सट्रीम वाइड शॉट: एक विशाल रेत की दीवार क्षितिज को निगलती है जबकि...
 
 #### Prompt
 
@@ -838,9 +858,9 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 40: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
+### No. 40: केवल 3 संदर्भ छवियों और सरल प्रॉम्प्ट के साथ जनरेटेड मल्टी-शॉट फाइट सीन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 044
 - **Bhasha:** `hi-IN`
@@ -850,7 +870,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 #### Varnan
 
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots...
+एक आधुनिक शहरी रात के सेटिंग में दो महिलाओं के बीच एक ग्राउंडेड मार्शल आर्ट्स द्वंद्व। स्पष्ट शॉट विविधता के साथ निर्माण करें: स्पेसिंग और इरादे स्थापित करने के लिए वाइड शॉट, मीडियम ट्रैकिंग शॉट्स...
 
 #### Prompt
 
@@ -858,9 +878,9 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 41: One Punch Man Animation Surpassing Original Quality
+### No. 41: मूल गुणवत्ता को पार करते हुए वन पंच मैन एनीमेशन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 045
 - **Bhasha:** `hi-IN`
@@ -870,7 +890,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 #### Varnan
 
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls,...
+वन पंच मैन ऊर्जा और स्टेजिंग से प्रेरित एक प्रीमियम एनीमे बैटल सीक्वेंस तैयार करें। फ्लुइड हाई-फ्रेम एनीमेशन, स्ट्रॉन्ग स्पीड लाइन्स, इम्पैक्ट फ्रेम्स, ड्रामेटिक लेंस पुल्स,...
 
 #### Prompt
 
@@ -878,9 +898,9 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 42: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
+### No. 42: विस्तृत मैकेनिकल शॉट्स के साथ विशाल मेचा में प्रवेश करते ओटर का एनीमेशन सीन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 046
 - **Bhasha:** `hi-IN`
@@ -890,7 +910,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 #### Varnan
 
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. ...
+मेचा एनीमे सीक्वेंस: एक मानवाकार ओटर पायलट एक विशाल युद्ध मेचा में बोर्ड करने की तैयारी करता है। शॉट 1: बैकलिट मेच सिल्हूट, भाप, और चेतावनी बीकन के साथ वाइड हैंगर रिवील। ...
 
 #### Prompt
 
@@ -898,9 +918,9 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 43: South Indian Cinema Alien Scene Generated from Single Prompt
+### No. 43: सिंगल प्रॉम्प्ट से जनरेटेड साउथ इंडियन सिनेमा एलियन सीन
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 047
 - **Bhasha:** `hi-IN`
@@ -910,7 +930,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 #### Varnan
 
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing....
+एक साउथ इंडियन कमर्शियल-सिनेमा स्टाइल एलियन इनवेजन एक्शन सीन बनाएं। विजुअल्स में संतृप्त रंग, नाटकीय बैकलाइट, स्टाइलाइज्ड स्लो मोशन, और हीरोइक फ्रेमिंग शामिल होनी चाहिए....
 
 #### Prompt
 
@@ -918,9 +938,9 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 44: Ground Combat Shot of Soldiers Traversing Desert Terrain
+### No. 44: रेगिस्तानी इलाके को पार करते सैनिकों का ग्राउंड कॉम्बैट शॉट
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 048
 - **Bhasha:** `hi-IN`
@@ -930,7 +950,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 #### Varnan
 
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and form...
+डॉक्यूमेंट्री रियलिज्म के साथ ग्राउंड-लेवल वार फुटेज: एक सैनिक टुकड़ी एक रेगिस्तानी युद्ध क्षेत्र में आगे बढ़ती है। कैमरा नीचे और जूतों, गियर स्वे, हथियार विवरण, और फॉर्म...
 
 #### Prompt
 
@@ -938,9 +958,9 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 45: Hyper-Energetic Japanese Promo Poster
+### No. 45: हाइपर-एनर्जेटिक जापानी प्रोमो पोस्टर
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 049
 - **Bhasha:** `hi-IN`
@@ -950,7 +970,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 #### Varnan
 
-Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poster.
+हाइपर-एनर्जेटिक जापानी प्रोमो पोस्टर के लिए स्ट्रक्चर्ड टेक्स्ट-टू-वीडियो प्रॉम्प्ट उदाहरण।
 
 #### Prompt
 
@@ -958,9 +978,9 @@ Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poste
 { "type": "Japanese promotional landing page poster", "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic", "layout": { "top_section": { "background": "night sky, fireworks, ferris wheel, roller coaster", "subjects": "4 young adults cheering, raising fists, dynamic lighting", "typography": [ "{argument name=\"main headline\" default=\"究極の楽しい!!\"}", "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}", "この一枚が、あなたの人生を最高に塗り替える!!" ], "badges": [ "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!" ] }, "middle_section": { "title": "究極の楽しい体験を実現する5つの超快楽ポイント", "points_count": 5, "points": [ {"number": 1, "label": "爆笑覚醒", "image": "people laughing"}, {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"}, {"number": 3, "label": "感動の渦", "image": "fireworks explosion"}, {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"}, {"number": 5, "label": "無限リピート", "image": "group of people cheering"} ] }, "bonus_section": { "title": "今だけ！超豪華 5大特典付き!!!", "items_count": 5, "items": [ "① 限定デザインポスター", "② 楽しい名言ブックレット(PDF)", "③ 超楽しいプレイリスト(MP3)", "④ スマホ壁紙セット", "⑤ 楽しいシークレット映像" ] }, "bottom_section": { "product_info": { "name": "究極の楽しいポスター", "variants_count": 3, "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."] }, "pricing": { "label": "魂の価格", "amount": "{argument name=\"price\" default=\"¥2,980\"}", "shipping": "送料無料" } }, "footer": { "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}", "background_color": "magenta" } } }
 ```
 
-### No. 46: 逼真的海岸跑车摄影
+### No. 46: यथार्थवादी तटीय स्पोर्ट्स कार फोटोग्राफी
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 050
 - **Bhasha:** `hi-IN`
@@ -978,9 +998,9 @@ A photorealistic, high-resolution automotive shot of a {argument name="car color
 A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {argument name="setting" default="coastal road overlooking the ocean"}. The sports car is positioned at a slight angle, showcasing its sleek aerodynamic curves, aggressive front fascia, distinct LED headlights, and silver alloy wheels with yellow center caps. The iconic yellow shield logo is visible on the front fender. The background features a deep blue sea, a low stone guardrail, and a distant rocky coastline covered in lush green vegetation and scattered buildings under a clear blue sky. The lighting is a {argument name="lighting" default="bright sunny day"}, casting sharp, realistic shadows on the asphalt and creating brilliant reflections on the car's glossy paint.
 ```
 
-### No. 47: 动漫风狐狸少女求抱抱
+### No. 47: एनिमे शैली में लोमड़ी की लड़की गले मिलने के लिए
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 051
 - **Bhasha:** `hi-IN`
@@ -998,9 +1018,9 @@ An anime-style illustration of a cute girl with {argument name="animal ears" def
 An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark brown"} hair. She is wearing a detailed {argument name="clothing" default="red and white floral kimono with fur trim"} and a floral hair accessory with red tassels. She has a {argument name="expression" default="bright happy smile with a slight blush"} and warm amber eyes, reaching both hands forward towards the viewer in a welcoming hug. The perspective features strong foreshortening on her hands, which are slightly out of focus. The scene is set with {argument name="environment" default="falling snow against a bright white background"}, illuminated by soft, warm, ethereal lighting.
 ```
 
-### No. 48: 优雅酒吧咖啡桌旁的女性
+### No. 48: एक सुंदर बार-कैफे में महिला
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 052
 - **Bhasha:** `hi-IN`
@@ -1018,9 +1038,9 @@ A candid, photorealistic vertical photo of a woman seated at a rustic wooden tab
 A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward with one elbow on the table and her hand supporting her chin, giving a relaxed, intimate, editorial lifestyle feel. She has long, dark brown wavy hair parted near the middle, falling over both shoulders, and wears a fitted white ribbed long-sleeve scoop-neck top. On the table in front of her are exactly 3 visible objects: 1 peach-colored cocktail in a wide coupe glass on the left, 1 blue-and-white floral ceramic mug in the center-right, and 1 small clear glass bottle vase holding sparse dried stems on the far right. Behind her is a warmly lit, sophisticated bar with marble or stone finishes, ornate classical ceiling details, shelves of liquor bottles and glassware, glowing backbar lighting, and a bartender in a white shirt and dark apron working in soft focus. Include dark bar stools along the counter and a rich amber, cream, and brown color palette. Use shallow depth of field, soft natural indoor light mixed with warm bar lighting, realistic skin and fabric texture, subtle filmic tones, high-detail luxury hospitality photography, shot at eye level with a smartphone or portrait lens, vertical composition, cozy Parisian cafe meets hotel bar atmosphere.
 ```
 
-### No. 49: 可爱的四格校园社团漫画
+### No. 49: प्यारा चार-पैनल स्कूल क्लब मंगा
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 053
 - **Bhasha:** `hi-IN`
@@ -1038,9 +1058,9 @@ Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 {"type":"4-panel manga comic page","style":"clean modern Japanese school-life anime, soft pastel colors, crisp line art, light cel shading, printed manga layout with white gutters and black panel borders, cute slice-of-life atmosphere","format":"vertical full page","theme":"high school club meeting about what activity to do next, ending with a cheerful compromise","text":{"title_top":"{argument name=\"headline text\" default=\"わたしたちの部活日和 🌸\"}","ending_note":"おしまい"},"characters":[{"id":"girl1","appearance":"short pink bob hair with a small ahoge, school uniform with cream cardigan and red ribbon, expressive and energetic"},{"id":"girl2","appearance":"long straight navy-blue hair, calm demeanor, school uniform"},{"id":"girl3","appearance":"short blonde bob, soft cheerful expression, school uniform with red ribbon"},{"id":"girl4","appearance":"long purple hair in a low ponytail, composed and thoughtful, school uniform with grayish top"}],"layout":{"panels":[{"position":"top","count":1,"setting":"club room table by a window, four girls seated with 4 small colorful mugs on the table","speech_bubbles":["部活ミーティング","お菓子作りはどうですか？","いいですね〜！","次の部活は何をするか決めましょうか"]},{"position":"upper-middle","count":1,"setting":"fantasy thought panel with pink sparkly background and floating desserts above the girls","items":{"count":5,"labels":["chocolate cake slice","round cookies","checker cookies","mont blanc cupcake","strawberry shortcake slice"]},"center_text":"わくわく…","speech_bubbles":["クッキーもいいですね！","ケーキとか作ってみたいですね〜"]},{"position":"lower-middle","count":1,"setting":"mood shifts to a dark blue vertical-line background showing practical concerns","speech_bubbles":["材料費もなかなかかかりそう…","時間もかかりそうですし…","部室にオーブンないですしね…","うーん…","はぁ〜"]},{"position":"bottom","count":1,"setting":"bright warm yellow resolution panel with celebratory flower marks","speech_bubbles":["それがいちばん楽しそうっ!!","じゃあ、みんなでお菓子を買ってお茶会にしましょう！","方向転換もきらら部の得意技です♪"]}],"character_count":4,"drink_count":4,"dessert_count":5,"panel_count":4},"composition":"all four girls appear in every panel, medium group shots, readable Japanese speech bubbles, comedic pacing from suggestion to excitement to hesitation to happy conclusion","quality":"polished manga page suitable for social media sharing or a sample of Japanese text rendering"}
 ```
 
-### No. 50: 蒙娜丽莎审查版油画
+### No. 50: मोना लिसा सेंसर संस्करण तैल चित्र
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 054
 - **Bhasha:** `hi-IN`
@@ -1058,9 +1078,9 @@ A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissan
 A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent veil, soft golden-brown sfumato lighting, and the classic hazy landscape with winding paths, water, and rocky hills in the background. Replace the entire face area with a single flat rectangular censor block in {argument name="censor color" default="medium brown"}, centered over the head and covering from forehead to chin, with clean hard edges that contrast against the painterly surface. Keep the hair visible around the block, including light brown hair parted at the top and falling over the shoulders. Preserve the aged varnish look, muted earthy palette, subtle craquelure-like texture, and solemn museum-quality composition. Vertical framing, centered subject, realistic proportions, old master brushwork, dramatic but soft shading.
 ```
 
-### No. 51: 两位女性在复古商店购物
+### No. 51: विंटेज स्टोर में दो महिलाएं खरीदारी करते हुए
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 055
 - **Bhasha:** `hi-IN`
@@ -1078,9 +1098,9 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the left has brown hair tied back and is wearing a {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, carrying a cream shoulder bag. She is holding up a {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} on a wooden hanger. The woman on the right has her hair in a messy bun and is wearing a {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, looking admiringly at the jacket. They are standing in a narrow aisle flanked by overflowing racks of colorful garments, with more clothes hanging from the ceiling. The scene features {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
 ```
 
-### No. 52: 日语 AI 编程培训横幅
+### No. 52: जापानी AI प्रोग्रामिंग प्रशिक्षण बैनर
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 056
 - **Bhasha:** `hi-IN`
@@ -1098,9 +1118,9 @@ Create a clean Japanese corporate training banner in a wide horizontal web-heade
 Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified promotional banner for an AI programming course. On the left, place a small headline in bold Japanese text reading "AIを使いこなす開発者へ" above a very large dominant title reading "{argument name="main title" default="ClaudeCode研修"}" in heavy sans-serif dark navy lettering, with "ClaudeCode" especially large and the final Japanese word attached on the right in the same style. Beneath the title, add a long horizontal blue gradient bar from medium blue to very light blue containing white bold Japanese text: "{argument name="subheadline text" default="AI時代の開発を、あなたの武器に。"}". Along the bottom left, arrange exactly 3 circular navy icon badges in a horizontal row, each with a short two-line caption in Japanese to the right of the icon. Badge 1 shows a code symbol </> and the text "Claude Codeの 基本から実践まで". Badge 2 shows a light bulb and the text "業務効率を高める AI活用スキル". Badge 3 shows an upward bar chart and the text "すぐに使える 実践的な内容". On the right half, place a confident Japanese businessman from the waist up with arms crossed, wearing a dark navy suit, white shirt, and blue striped tie, facing forward; his face is intentionally soft-focused or anonymized. Behind him, add layered geometric navy and blue diagonal shapes sweeping in from the top right and bottom right, plus a dark blue tech-themed panel with faint code lines and a glowing curly-braces symbol {}. Use a polished B2B seminar advertisement style, crisp typography, strong negative space, subtle gradients, high contrast, and a professional AI/engineering training atmosphere.
 ```
 
-### No. 53: 动漫日落电影海报
+### No. 53: एनिमे सनसेट मूवी पोस्टर
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 057
 - **Bhasha:** `hi-IN`
@@ -1118,10 +1138,10 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth drama. The scene overlooks a Japanese coastal hillside town descending toward a glowing bay, with the sun low on the horizon and its reflection stretching across calm water. The sky dominates most of the image: a vast deep-blue to lavender twilight gradient filled with countless stars, wispy pink and peach clouds, and one especially bright star near the upper right. In the foreground on the right, a teenage schoolgirl stands in three-quarter side profile facing left toward the sea, shown from mid-thigh up, with shoulder-length dark hair blowing in the breeze, a short-sleeved white sailor-style school blouse, a red ribbon at the collar, and a navy pleated skirt; her expression is contemplative and wistful. Farther down the steep stone stair street in the center-left, a teenage schoolboy stands with his back to the viewer, wearing a short-sleeved white shirt and dark trousers, also looking toward the sunset and ocean. At the lower right, include 1 black cat sitting on a wall or rooftop edge in silhouette, looking toward the town. At the lower left, include 1 old-fashioned streetlamp and a dense cluster of blooming hydrangeas in blue and violet along a stone wall. The town below is packed with tiled rooftops, narrow streets, warm window lights, and layered houses, with distant mountains framing the bay. Use dramatic rim light, luminous atmospheric perspective, sparkling highlights, delicate cloud detail, and emotional, nostalgic color grading in indigo, ultramarine, pink, peach, and gold. Design it explicitly as a Japanese animated film poster with elegant typography integrated into the artwork: large hand-brushed Japanese title text across the upper-left to center reading {argument name="title text" default="星をつなぐ約束のうた"}, smaller English subtitle beneath it reading {argument name="English subtitle" default="The Song of Promises"}, a small award-laurel line in Japanese at the top left, 1 vertical Japanese tagline along the upper-right edge, 4 cast names in Japanese centered near the bottom, a release date at the lower left reading {argument name="release date" default="8.23"} with "ROADSHOW" below, 1 pink Japanese tagline across the lower center, and a website/social handle at the lower right. Ultra-detailed anime key visual, romantic and melancholic, premium feature-film poster finish.
 ```
 
-### No. 54: 2x2 日式横幅广告网格
+### No. 54: 2x2 जापानी बैनर विज्ञापन ग्रिड
 
-- **Category:** `Atlas Generated T2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड T2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 058
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/058_generated_28_13994_2x2.md)
@@ -1130,7 +1150,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 
 #### Varnan
 
-Structured text-to-video prompt example for 2x2 日式横幅广告网格.
+2x2 जापानी बैनर विज्ञापन ग्रिड के लिए संरचित टेक्स्ट-टू-वीडियो प्रॉम्प्ट उदाहरण।
 
 #### Prompt
 
@@ -1138,10 +1158,10 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 { "type": "2x2 grid of Japanese banner advertisements", "quadrants": [ { "position": "top-left", "theme": "skincare product launch", "visuals": "portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles", "text_elements": { "main_copy": "{argument name=\"skincare catchphrase\" default=\"透明感、満ちる。\"}", "sub_copy": "肌が変わると、毎日が変わる。", "brand_name": "SUIREN", "badge": "6.1 NEW Debut" } }, { "position": "top-right", "theme": "European summer travel campaign", "visuals": "back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple", "text_elements": { "english_copy": "Find your Journey", "main_copy": "{argument name=\"travel catchphrase\" default=\"心が動く旅へ。\"}", "badge": "yellow circle with '今だけ！最大20%OFF'", "footer": "blue banner with '初夏のヨーロッパキャンペーン'" } }, { "position": "bottom-left", "theme": "traditional Japanese soup stock", "visuals": "close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi", "text_elements": { "main_copy": "{argument name=\"food catchphrase\" default=\"毎日のごはんを、もっと美味しく。\"}", "product_name": "日々のだし", "sub_copy": "素材のうまみを、まるごと。" } }, { "position": "bottom-right", "theme": "investment app", "visuals": "smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'", "text_elements": { "brand_name": "{argument name=\"finance app name\" default=\"MoneyPath\"}", "main_copy": "未来の自分のために、{argument name=\"finance catchphrase\" default=\"今はじめる資産形成\"}", "badge": "blue circle with '1,000円分のポイントプレゼント！'", "footer": "blue banner with 4 icons and feature text" } } ] }
 ```
 
-### No. 55: 长条伸展虎斑猫
+### No. 55: लंबी खिंची हुई टैबी बिल्ली
 
-- **Category:** `Atlas Generated T2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड T2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 059
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/059_generated_29_14517_case.md)
@@ -1150,7 +1170,7 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 
 #### Varnan
 
-A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an ab...
+एक {argument name="cat breed" default="brown tabby kitten"} की विचित्र मिनिमलिस्ट इलस्ट्रेशन, जो एक बहुत लंबे वर्टिकल कैनवास के ठीक बीच में खड़ी है, जिसका शरीर नूडल की तरह लंबा खिंचा हुआ है...
 
 #### Prompt
 
@@ -1158,10 +1178,10 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an absurdly elongated, noodle-like body stretched from near the top to near the bottom of the image. The cat has a small round face with large glossy eyes, a tiny open smiling mouth, upright ears, and both front paws raised straight overhead in a cheering pose, showing 2 visible pink paw pads. Its fur is soft and detailed, with a white muzzle, chest, belly, and inner legs, and brown-and-black tabby stripes along the sides, head, arms, and tail. The body is extremely thin and vertically extended, creating a comical exaggerated proportion, while the hind paws remain tiny and close together at the bottom. Add 1 curved striped tail extending to the lower right side. Above the head, place the playful hand-drawn text "{argument name="caption text" default="nyoooon~"}" in a rounded dark brown font, arched like a semicircle, with 6 short motion lines around the raised paws and text to emphasize stretching. Use a clean off-white or warm light beige background with no scenery, only a faint soft oval shadow beneath the feet. Cute, polished digital illustration style, centered composition, high detail in fur, humorous Japanese sticker or social-media mascot vibe, lots of negative space, extra-tall aspect ratio.
 ```
 
-### No. 56: 照片级写实躺姿肖像
+### No. 56: फोटो-रियलिस्टिक लेटी हुई मुद्रा में पोर्ट्रेट
 
-- **Category:** `Atlas Generated T2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड T2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 060
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/060_generated_30_13448_case.md)
@@ -1170,7 +1190,7 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 
 #### Varnan
 
-A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" ...
+एक {argument name="subject description" default="beautiful young Asian woman"} की अत्यधिक विस्तृत, फोटो-रियलिस्टिक पोर्ट्रेट, जो {argument name="furniture" default="white modern sofa"} पर सुंदरता से लेटी हुई है...
 
 #### Prompt
 
@@ -1178,9 +1198,9 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" default="white modern sofa"}. She is wearing a {argument name="clothing" default="short white silk slip dress"} with thin straps, her {argument name="hair style" default="long wavy dark brown hair"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name="lighting style" default="soft natural sunlight streaming through a window"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.
 ```
 
-### No. 57: Landscape Transition Music Video
+### No. 57: लैंडस्केप ट्रांजिशन म्यूजिक वीडियो
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 082
 - **Bhasha:** `hi-IN`
@@ -1198,9 +1218,9 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 @image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
 ```
 
-### No. 58: Parkour Chase Sequence
+### No. 58: पार्कौर चेस सीक्वेंस
 
-- **Category:** `Atlas Generated T2V`
+- **Category:** `एटलस जनरेटेड T2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 083
 - **Bhasha:** `hi-IN`
@@ -1220,12 +1240,12 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 <a id="category-7"></a>
 
-### Atlas Generated I2V (44)
+### एटलस जनरेटेड आई2वी (4)
 
-### No. 59: Storyboard Cinematic
+### No. 59: स्टोरीबोर्ड सिनेमैटिक
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड आई2वी`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 030
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/030_generated_01_i2v-01-storyboard-cinematic.md)
@@ -1234,7 +1254,7 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 #### Varnan
 
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
+मुझे इस कहानी में दिखाओ। ऊपर बाईं ओर से शुरू करके कहानी को बिल्कुल सही क्रम में दिखाओ। पूरी कहानी 10 सेकंड में। सिनेमैटिक।
 
 #### Prompt
 
@@ -1242,10 +1262,10 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
 ```
 
-### No. 60: Burger Assembly
+### No. 60: बर्गर असेंबली
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड आई2वी`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 031
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/031_generated_02_i2v-02-burger-assembly.md)
@@ -1254,7 +1274,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 #### Varnan
 
-Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one...
+काइनेटिक कैमरा मोशन के साथ प्रीमियम फूड एड। गौरमे बर्गर बनाने के लिए सामग्री संदर्भ का उपयोग करें। लेट्यूस, टमाटर, प्याज, चीज़, पैटी, और बन के टुकड़े हवा में तैरते हैं...
 
 #### Prompt
 
@@ -1262,10 +1282,10 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one by one, rotate elegantly, then snap together into a perfect hero burger with floating crumbs and dramatic studio lighting.
 ```
 
-### No. 61: Paper Typography
+### No. 61: पेपर टाइपोग्राफी
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड आई2वी`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 032
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/032_generated_03_i2v-03-paper-typography.md)
@@ -1274,7 +1294,7 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 
 #### Varnan
 
-Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast rea...
+संदर्भ संरचना द्वारा संचालित मोशन ग्राफिक्स एनीमेशन। संदर्भ टेक्स्ट आर्टवर्क को हाथ से बने पेपर-कट टाइटल सीक्वेंस में बदलें। अक्षर लयबद्ध तरीके से पॉप होते हैं, वास्तविक छाया डालते हैं...
 
 #### Prompt
 
@@ -1282,10 +1302,10 @@ Motion graphics animation driven by the reference composition. Turn the referenc
 Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast realistic shadows, and slide across the screen with elegant camera parallax.
 ```
 
-### No. 62: Logo Reveal
+### No. 62: लोगो रिवील
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड आई2वी`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 033
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/033_generated_05_i2v-05-logo-reveal.md)
@@ -1294,7 +1314,7 @@ Motion graphics animation driven by the reference composition. Turn the referenc
 
 #### Varnan
 
-High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric ...
+हाई-एंड प्रोडक्ट रिवील एनीमेशन। कोर सब्जेक्ट के रूप में संदर्भ लोगो का उपयोग करें। लोगो ग्लॉसी क्रोम में एक्सट्रूड होता है, धीरे-धीरे डार्क स्टूडियो में घूमता है, फिर पतली वॉल्यूमेट्रिक...
 
 #### Prompt
 
@@ -1302,10 +1322,14 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric light beams while the camera pushes in for a polished technology brand reveal.
 ```
 
-### No. 63: Elegant Laundry Scene
+<a id="category-8"></a>
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+### एटलस जनरेटेड I2V (23)
+
+### No. 63: एलिगेंट लॉन्ड्री सीन
+
+- **Category:** `एटलस जनरेटेड I2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 061
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/061_generated_01_ur_001_elegant-laundry-scene.md)
@@ -1314,7 +1338,7 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 
 #### Varnan
 
-Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
+फिक्स्ड कैमरा शॉट, एक लड़की सुंदरता से कपड़े सुखाने के लिए टांग रही है, खत्म करने के बाद वह बास्केट से एक और कपड़ा निकालती है और उसे जोर से हिलाती है।
 
 #### Prompt
 
@@ -1322,10 +1346,10 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
 ```
 
-### No. 64: Interactive Painting Character
+### No. 64: इंटरएक्टिव पेंटिंग कैरेक्टर
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड I2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 062
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/062_generated_02_ur_002_interactive-painting-character.md)
@@ -1334,7 +1358,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 #### Varnan
 
-The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and t...
+पेंटिंग में कैरेक्टर का अपराधबोध भरा भाव, आँखें बाएँ-दाएँ देखती हैं, फिर फ्रेम से बाहर झांकता है, जल्दी से हाथ बाहर निकालकर कोला पकड़ता है और एक घूंट लेता है...
 
 #### Prompt
 
@@ -1342,10 +1366,10 @@ The character in the painting has a guilty expression, eyes looking left and rig
 The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and takes a sip, then shows a satisfied expression. At this moment, footsteps are heard, and the character in the painting quickly puts the cola back in place. Then a Western cowboy picks up the cola from the cup and walks away. Finally, the camera pushes forward and the screen gradually becomes pure black background with only top lighting illuminating the canned cola. At the bottom of the screen, artistic subtitles and voiceover appear: 'Yikou Cola, a must-try!'
 ```
 
-### No. 65: Victorian Street Scene
+### No. 65: विक्टोरियन स्ट्रीट सीन
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड I2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 063
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/063_generated_03_ur_003_victorian-street-scene.md)
@@ -1354,7 +1378,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 #### Varnan
 
-Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th ce...
+कैमरा थोड़ा पीछे खींचता है (पूरी सड़क का दृश्य दिखाता है) और महिला प्रोटैगोनिस्ट के चलने का अनुसरण करता है। हवा उसकी ड्रेस का हेम उड़ाती है जब वह 19वीं सदी की लंदन की सड़कों पर चलती है...
 
 #### Prompt
 
@@ -1362,10 +1386,10 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th century London. As she walks, a steam car drives by from the right side of the street, passing quickly by her side. The wind lifts the hem of her dress, and she looks shocked and quickly uses both hands to hold down her skirt. Background sound effects include footsteps, crowd sounds, car sounds, etc.
 ```
 
-### No. 66: Magnetic Bow Product Showcase
+### No. 66: मैग्नेटिक बो प्रोडक्ट शोकेस
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड I2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 064
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.md)
@@ -1374,7 +1398,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 #### Varnan
 
-0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover...
+0-2 सेकंड: क्विक फोर-पैनल फ्लैश कट, रेड, पिंक, पर्पल, लेपर्ड प्रिंट फोर बटरफ्लाई बोज फ्रीज इन सीक्वेंस, साटिन लस्टर और 'चेरी' ब्रांड लेटरिंग का क्लोज-अप। वॉयसओवर...
 
 #### Prompt
 
@@ -1382,10 +1406,10 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover 'Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 seconds: Close-up of silver magnetic clasp 'click' snapping together, then gently pulling apart, showing silky texture and convenience. Voiceover '단 1초 만에 잠그고, 최고의 스타일을 완성하세요!' 7-12 seconds: Quick scene switching: burgundy style pinned on coat collar, commuter vibe maxed out; pink style tied in ponytail, sweet girl going out; purple style tied on bag strap, niche and sophisticated; leopard print style hung on suit collar, spicy girl aura fully open. Voiceover '코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!' 13-15 seconds: Four butterfly bows displayed side by side, brand name 'chéri, 당신에게 즉각적인 아름다움을 선사합니다!'
 ```
 
-### No. 67: Horror First-Person Exploration
+### No. 67: हॉरर फर्स्ट-पर्सन एक्सप्लोरेशन
 
-- **Category:** `Atlas Generated I2V`
-- **Source:** `Gemini Omni Flash | prompts-hub generated`
+- **Category:** `एटलस जनरेटेड I2V`
+- **Source:** `जेमिनी ओमनी फ्लैश | प्रॉम्प्ट्स-हब जनरेटेड`
 - **Author:** Atlas Generated 065
 - **Bhasha:** `hi-IN`
 - **Video:** [Dekhen](./previews/generated/065_generated_08_cs_006_horror-first-person-exploration.md)
@@ -1394,7 +1418,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 #### Varnan
 
-Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @i...
+@image1 को स्क्रीन के पहले फ्रेम के रूप में उपयोग करें, फर्स्ट-पर्सन परिप्रेक्ष्य, @video1 के कैमरा मूवमेंट इफेक्ट को रेफरेंस करें, ऊपरी सीन @image2 को रेफरेंस करता है, बाईं सीन @i...
 
 #### Prompt
 
@@ -1402,9 +1426,9 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @image3, right scene references @image4.
 ```
 
-### No. 68: Martial Arts Combat Scene
+### No. 68: मार्शल आर्ट्स कॉम्बैट सीन
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 066
 - **Bhasha:** `hi-IN`
@@ -1422,9 +1446,9 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
 ```
 
-### No. 69: Car Commercial Cinematography
+### No. 69: कार कमर्शियल सिनेमैटोग्राफी
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 067
 - **Bhasha:** `hi-IN`
@@ -1442,9 +1466,9 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
 ```
 
-### No. 70: Abstract Instant Noodles
+### No. 70: अमूर्त इंस्टेंट नूडल्स
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 068
 - **Bhasha:** `hi-IN`
@@ -1462,9 +1486,9 @@ The character from @image1 references the movements and facial expression change
 The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
 ```
 
-### No. 71: Childhood Seasons Documentary
+### No. 71: बचपन के मौसम डॉक्यूमेंट्री
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 069
 - **Bhasha:** `hi-IN`
@@ -1482,9 +1506,9 @@ Reference the storyboard script of the documentary from @image1, reference the s
 Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second healing opening about 'Childhood Four Seasons'.
 ```
 
-### No. 72: Donkey Motorcycle Stunt Ad
+### No. 72: गधा मोटरसाइकिल स्टंट विज्ञापन
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 070
 - **Bhasha:** `hi-IN`
@@ -1502,9 +1526,9 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle rushing out of the barn, chickens beside are startled. Scene 2: Donkey rides motorcycle circling in sandy ground, first close-up of motorcycle tire, then cut to mid-air overhead shot of donkey riding motorcycle doing circling stunts, raising smoke. Scene 3: Background is snowy mountain shot, donkey rides the bike leaping from the hillside, advertising slogan appears behind the subject, through masking form (when donkey and motorcycle fly past) 'Inspire Creativity, Enrich Life' appears in the middle, finally as the motorcycle flies past, raising a cloud of dust.
 ```
 
-### No. 73: Office Building Documentary
+### No. 73: ऑफिस बिल्डिंग डॉक्यूमेंट्री
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 071
 - **Bhasha:** `hi-IN`
@@ -1524,7 +1548,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 74: 迦梨女神神话写实主义视频提示词，适用于 Seedance 2.0
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 072
 - **Bhasha:** `hi-IN`
@@ -1544,7 +1568,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 75: 高速魔法森林之旅
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 073
 - **Bhasha:** `hi-IN`
@@ -1564,7 +1588,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 76: 总监级运镜提示词
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 074
 - **Bhasha:** `hi-IN`
@@ -1584,7 +1608,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 77: 电影级拉力赛车场景
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 075
 - **Bhasha:** `hi-IN`
@@ -1604,7 +1628,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 78: 邵氏风格打斗场面
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 076
 - **Bhasha:** `hi-IN`
@@ -1624,7 +1648,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 79: 阿努比斯挠痒痒场景
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 077
 - **Bhasha:** `hi-IN`
@@ -1644,7 +1668,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 80: Turbulent Sea Galleon 电影级提示词
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 078
 - **Bhasha:** `hi-IN`
@@ -1664,7 +1688,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 81: 赛博朋克电影：夜间追逐与武士刀格斗
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 079
 - **Bhasha:** `hi-IN`
@@ -1684,7 +1708,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 82: 星际巡洋舰追逐与零重力内部场景
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 080
 - **Bhasha:** `hi-IN`
@@ -1704,7 +1728,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 83: 多角色机舱对话场景
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 081
 - **Bhasha:** `hi-IN`
@@ -1724,7 +1748,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 84: 高端商业广告：AURORA FIZZ
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 084
 - **Bhasha:** `hi-IN`
@@ -1744,7 +1768,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 85: 惊涛骇浪中的沉船电影场景
 
-- **Category:** `Atlas Generated I2V`
+- **Category:** `एटलस जनरेटेड I2V`
 - **Source:** `Gemini Omni Flash | prompts-hub generated`
 - **Author:** Atlas Generated 085
 - **Bhasha:** `hi-IN`
@@ -1761,6 +1785,10 @@ Based on the provided office building promotional photos, generate a 15-second c
 ```text
 第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
 ```
+
+<a id="category-9"></a>
+
+### Atlas Generated I2V (17)
 
 ### No. 86: 贫民窟里的 BMX 骑手
 
@@ -2103,3 +2131,13 @@ Based on the provided office building promotional photos, generate a 15-second c
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gemini-omni-prompts) — 300+ models, one API key.

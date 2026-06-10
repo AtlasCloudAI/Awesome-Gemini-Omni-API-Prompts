@@ -5,6 +5,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-102%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una coleccion curada de ejemplos de prompts para Gemini Omni con vista previa de video OSS integrada.
 
@@ -18,9 +20,25 @@ Este repositorio organiza ejemplos publicos de video de Gemini Omni. Cada entrad
 | Metrica | Cantidad |
 | --- | ---: |
 | Prompts Totales | 102 |
-| Categorias | 7 |
+| Categorias | 10 |
 | Videos de Vista Previa | 102 |
-| Ultima Actualizacion | 26/05/2026 |
+| Ultima Actualizacion | 10/06/2026 |
+
+## Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts
 
 ## Explorar por Categoria
 
@@ -29,8 +47,11 @@ Este repositorio organiza ejemplos publicos de video de Gemini Omni. Cada entrad
 - [Camera & Perspective](#category-3)
 - [Text & Sequences](#category-4)
 - [Multi-Input & Reference](#category-5)
-- [Atlas Generated T2V](#category-6)
-- [Atlas Generated I2V](#category-7)
+- [Atlas Generado T2V](#category-6)
+- [Atlas Generado I2V](#category-7)
+- [Atlas Generated I2V](#category-8)
+- [I2V Generado por Atlas](#category-9)
+- [Atlas Generated T2V](#category-10)
 
 ## Todos los Prompts
 
@@ -556,11 +577,11 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 <a id="category-6"></a>
 
-### Atlas Generated T2V (33)
+### Atlas Generado T2V (6)
 
-### No. 26: Golden Deer
+### No. 26: Ciervo Dorado
 
-- **Categoria:** `Atlas Generated T2V`
+- **Categoria:** `Atlas Generado T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 026
 - **Idioma:** `es-419`
@@ -570,17 +591,17 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 #### Descripcion
 
-Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single dro...
+Cinematografía cinematográfica de bosque macro ultrarealista, profundidad de campo reducida, iluminación de ambiente 4K. Una estatua de ciervo de porcelana blanca weather standing congelada en un bosque húmedo y musgoso. Una sola gota de miel dorada brillante cae en el ojo del ciervo. La porcelana se agrieta hacia afuera y se transforma en cálida piel viva y músculo. El ciervo exhala niebla fría, baja la cabeza y luego salta a través del bosque, dispersando partículas brillantes. Diseño de sonido cinematográfico rico, cámara contenida hacia adelante, épico emocionalmente.
 
 #### Prompt
 
 ```text
-Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single drop of glowing golden honey falls into the deer eye. The porcelain cracks outward and transforms into warm living fur and muscle. The deer exhales cold mist, lowers its head, then leaps through the forest, scattering glowing particles. Rich cinematic sound design, restrained camera push-in, emotionally epic.
+Cinematografía cinematográfica de bosque macro ultrarealista, profundidad de campo reducida, iluminación de ambiente 4K. Una estatua de ciervo de porcelana blanca weather standing congelada en un bosque húmedo y musgoso. Una sola gota de miel dorada brillante cae en el ojo del ciervo. La porcelana se agrieta hacia afuera y se transforma en cálida piel viva y músculo. El ciervo exhala niebla fría, baja la cabeza y luego salta a través del bosque, dispersando partículas brillantes. Diseño de sonido cinematográfico rico, cámara contenida hacia adelante, épico emocionalmente.
 ```
 
-### No. 27: Perfume Ice
+### No. 27: Hielo de Perfume
 
-- **Categoria:** `Atlas Generated T2V`
+- **Categoria:** `Atlas Generado T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 027
 - **Idioma:** `es-419`
@@ -590,17 +611,17 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 
 #### Descripcion
 
-Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fracture...
+Cinematografía comercial de lujo, reflejos de vidrio pulido, cámara lenta, lente macro de 100mm. Una botella de perfume de cristal negro se encuentra sobre un lago congelado en la hora azul. Grietas diminutas se extienden sobre el hielo al ritmo de un pulso de bajos.
 
 #### Prompt
 
 ```text
-Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fractures spread across the ice in sync with a low bass pulse. The bottle rotates elegantly as silver vapor blooms around it. On the final beat, the ice bursts into suspended glittering shards and the logo lockup appears in clean light.
+Cinematografía comercial de lujo, reflejos de vidrio pulido, cámara lenta, lente macro de 100mm. Una botella de perfume de cristal negro se encuentra sobre un lago congelado en la hora azul. Grietas diminutas se extienden sobre el hielo al ritmo de un pulso de bajos. La botella gira elegantemente mientras el vapor plateado florece a su alrededor. En el beat final, el hielo estalla en fragmentos suspendidos y brillantes y el bloqueo del logo aparece en luz limpia.
 ```
 
 ### No. 28: Mini Chef Ramen
 
-- **Categoria:** `Atlas Generated T2V`
+- **Categoria:** `Atlas Generado T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 028
 - **Idioma:** `es-419`
@@ -610,17 +631,17 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 
 #### Descripcion
 
-Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth...
+Comercial de comida juguetón con fotografía cinematográfica en miniatura. Un pequeño chef corre por el borde de un tazón de ramen humeante, salta sobre los fideos elásticos y surfear una ola de caldo rico hacia un huevo pasado por agua brillante.
 
 #### Prompt
 
 ```text
-Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth toward a glowing soft-boiled egg. Steam rolls through the frame, sesame seeds fall in slow motion, and the final shot lands on a perfect hero angle.
+Comercial de comida juguetón con fotografía cinematográfica en miniatura. Un pequeño chef corre por el borde de un tazón de ramen humeante, salta sobre los fideos elásticos y surfear una ola de caldo rico hacia un huevo pasado por agua brillante. El vapor atraviesa el marco, las semillas de sésamo caen en cámara lenta y la toma final aterriza en un ángulo de héroe perfecto.
 ```
 
-### No. 29: Aurora Astronaut
+### No. 29: Astronauta Aurora
 
-- **Categoria:** `Atlas Generated T2V`
+- **Categoria:** `Atlas Generado T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 029
 - **Idioma:** `es-419`
@@ -630,558 +651,18 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 
 #### Descripcion
 
-Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the sc...
+Paisaje sci-fi épico, toma amplia estilo IMAX, atmósfera nítida. Un astronauta camina solo a través de salares similares a espejos debajo de una aurora verde vívida. El reflejo duplica perfectamente la escena.
 
 #### Prompt
 
 ```text
-Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the scene perfectly. The camera begins low behind the boots, then rises into a graceful orbit as the aurora twists into ribbon-like spirals overhead. Finish on a contemplative wide frame.
+Paisaje sci-fi épico, toma amplia estilo IMAX, atmósfera nítida. Un astronauta camina solo a través de salares similares a espejos debajo de una aurora verde vívida. El reflejo duplica perfectamente la escena. La cámara comienza baja detrás de las botas, luego se eleva en una órbita graceful mientras la aurora se retuerce en espirales en forma de cinta sobre ella. Termina en un marco amplio contemplativo.
 ```
 
-### No. 30: Opera Stage Transformation
+### No. 30: Video Musical de Transición de Paisaje
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 034
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/034_generated_01_cs_002_opera-stage-transformation.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093233-79jpz-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use cam...
-
-#### Prompt
-
-```text
-Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use camera work to match the character's movements, ultimate stage aesthetics, enhance visual impact.
-```
-
-### No. 31: One-Take Seamless Transition
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 035
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/035_generated_02_cs_003_one-take-seamless-transition.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093234-88nfj-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera...
-
-#### Prompt
-
-```text
-Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera moves up to a beach with footprints, a girl in white plain clothes walks away on the beach, camera cuts to aerial overhead view, seawater washing (no people appearing), seamless gradient transition, the washing waves become flowing curtains, camera pulls back, showing close-up of the girl's face, one continuous take.
-```
-
-### No. 32: Coffee Morning Campaign
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 036
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/036_generated_03_ne_006_coffee-morning-campaign.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093235-bscfs-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement...
-
-#### Prompt
-
-```text
-Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement. 6-10 seconds: A coffee bean gently falls from the top of the screen, camera pushes toward the coffee bean until the screen goes black. 11-15 seconds: English text gradually appears first line 'Lucky Coffee', second line 'Breakfast', third line 'AM 7:00-10:00'.
-```
-
-### No. 33: Sunflower Skateboard Story
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 037
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/037_generated_04_ne_007_sunflower-skateboard-story.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093236-2v7hc-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies pok...
-
-#### Prompt
-
-```text
-Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies poking out at the base of the wall. Then the protagonist's red skateboard shoes appear in the frame. He is crouching in front of a street flower stand, smiling and gathering a large bunch of sunflowers into his arms, petals brushing against his white T-shirt. As he turns to step on the skateboard, the flower stand owner laughingly shouts 'Watch out for flying petals!' He waves at the owner, then starts skating. A few golden petals have already broken free from the bouquet first, falling onto the skateboard deck.
-```
-
-### No. 34: Titanic Dark Twist
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 038
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/038_generated_06_ve_001_titanic-dark-twist.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093238-658pn-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist...
-
-#### Prompt
-
-```text
-Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist off the bridge, pushing her into the water. The action is decisive and resolute, with long-premeditated determination, without any hesitation, completely subverting the original affectionate character setting. The moment the female protagonist falls into the water, there is no scream, only disbelieving eyes. She looks up and roars at the male protagonist: 'You've been lying to me from the beginning!' The male protagonist stands on the bridge, a cold smile on his face, saying in a low voice to the water: 'This is what you owe my family.'
-```
-
-### No. 35: Anime Chess Battle Storyboard
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 039
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093239-8mswg-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female p...
-
-#### Prompt
-
-```text
-8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female protagonist places a chess piece and says 'You lost', reference storyboard image 2. 3-4 seconds: Quick pan camera, turn to opposite man's face close-up, reference storyboard image 3, man gritting teeth, very dissatisfied with the result. 4-6 seconds: Cut camera, overhead shot, woman places a chess piece, people opposite are amazed, reference storyboard image 4. 6-8 seconds: Camera rapidly pans down, screen goes black for transition, then screen gradually brightens, dimly lit room, woman looks at the moonlight outside the window and quietly says 'We'll see', reference storyboard image 5.
-```
-
-### No. 36: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 040
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-h687b-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sun...
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 37: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 041
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-2m6gw-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overc...
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 38: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 042
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093243-krhmc-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through...
-
-#### Prompt
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 39: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 043
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093244-sp8c8-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while...
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 40: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 044
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093245-rhw5k-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots...
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 41: One Punch Man Animation Surpassing Original Quality
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 045
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093246-6p7cv-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls,...
-
-#### Prompt
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 42: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 046
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093247-6jps9-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. ...
-
-#### Prompt
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 43: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 047
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093248-vtxkd-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing....
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 44: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 048
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093249-fhqnc-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and form...
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 45: Hyper-Energetic Japanese Promo Poster
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 049
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093250-7bs8f-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poster.
-
-#### Prompt
-
-```text
-{ "type": "Japanese promotional landing page poster", "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic", "layout": { "top_section": { "background": "night sky, fireworks, ferris wheel, roller coaster", "subjects": "4 young adults cheering, raising fists, dynamic lighting", "typography": [ "{argument name=\"main headline\" default=\"究極の楽しい!!\"}", "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}", "この一枚が、あなたの人生を最高に塗り替える!!" ], "badges": [ "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!" ] }, "middle_section": { "title": "究極の楽しい体験を実現する5つの超快楽ポイント", "points_count": 5, "points": [ {"number": 1, "label": "爆笑覚醒", "image": "people laughing"}, {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"}, {"number": 3, "label": "感動の渦", "image": "fireworks explosion"}, {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"}, {"number": 5, "label": "無限リピート", "image": "group of people cheering"} ] }, "bonus_section": { "title": "今だけ！超豪華 5大特典付き!!!", "items_count": 5, "items": [ "① 限定デザインポスター", "② 楽しい名言ブックレット(PDF)", "③ 超楽しいプレイリスト(MP3)", "④ スマホ壁紙セット", "⑤ 楽しいシークレット映像" ] }, "bottom_section": { "product_info": { "name": "究極の楽しいポスター", "variants_count": 3, "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."] }, "pricing": { "label": "魂の価格", "amount": "{argument name=\"price\" default=\"¥2,980\"}", "shipping": "送料無料" } }, "footer": { "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}", "background_color": "magenta" } } }
-```
-
-### No. 46: 逼真的海岸跑车摄影
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 050
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/050_generated_20_14046_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093251-fvwh5-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {arg...
-
-#### Prompt
-
-```text
-A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {argument name="setting" default="coastal road overlooking the ocean"}. The sports car is positioned at a slight angle, showcasing its sleek aerodynamic curves, aggressive front fascia, distinct LED headlights, and silver alloy wheels with yellow center caps. The iconic yellow shield logo is visible on the front fender. The background features a deep blue sea, a low stone guardrail, and a distant rocky coastline covered in lush green vegetation and scattered buildings under a clear blue sky. The lighting is a {argument name="lighting" default="bright sunny day"}, casting sharp, realistic shadows on the asphalt and creating brilliant reflections on the car's glossy paint.
-```
-
-### No. 47: 动漫风狐狸少女求抱抱
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 051
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/051_generated_21_13919_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-sjwfl-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark bro...
-
-#### Prompt
-
-```text
-An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark brown"} hair. She is wearing a detailed {argument name="clothing" default="red and white floral kimono with fur trim"} and a floral hair accessory with red tassels. She has a {argument name="expression" default="bright happy smile with a slight blush"} and warm amber eyes, reaching both hands forward towards the viewer in a welcoming hug. The perspective features strong foreshortening on her hands, which are slightly out of focus. The scene is set with {argument name="environment" default="falling snow against a bright white background"}, illuminated by soft, warm, ethereal lighting.
-```
-
-### No. 48: 优雅酒吧咖啡桌旁的女性
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 052
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/052_generated_22_14569_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-q59rm-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward wi...
-
-#### Prompt
-
-```text
-A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward with one elbow on the table and her hand supporting her chin, giving a relaxed, intimate, editorial lifestyle feel. She has long, dark brown wavy hair parted near the middle, falling over both shoulders, and wears a fitted white ribbed long-sleeve scoop-neck top. On the table in front of her are exactly 3 visible objects: 1 peach-colored cocktail in a wide coupe glass on the left, 1 blue-and-white floral ceramic mug in the center-right, and 1 small clear glass bottle vase holding sparse dried stems on the far right. Behind her is a warmly lit, sophisticated bar with marble or stone finishes, ornate classical ceiling details, shelves of liquor bottles and glassware, glowing backbar lighting, and a bartender in a white shirt and dark apron working in soft focus. Include dark bar stools along the counter and a rich amber, cream, and brown color palette. Use shallow depth of field, soft natural indoor light mixed with warm bar lighting, realistic skin and fabric texture, subtle filmic tones, high-detail luxury hospitality photography, shot at eye level with a smartphone or portrait lens, vertical composition, cozy Parisian cafe meets hotel bar atmosphere.
-```
-
-### No. 49: 可爱的四格校园社团漫画
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 053
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/053_generated_23_14677_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093253-mq5kf-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Structured text-to-video prompt example for 可爱的四格校园社团漫画.
-
-#### Prompt
-
-```text
-{"type":"4-panel manga comic page","style":"clean modern Japanese school-life anime, soft pastel colors, crisp line art, light cel shading, printed manga layout with white gutters and black panel borders, cute slice-of-life atmosphere","format":"vertical full page","theme":"high school club meeting about what activity to do next, ending with a cheerful compromise","text":{"title_top":"{argument name=\"headline text\" default=\"わたしたちの部活日和 🌸\"}","ending_note":"おしまい"},"characters":[{"id":"girl1","appearance":"short pink bob hair with a small ahoge, school uniform with cream cardigan and red ribbon, expressive and energetic"},{"id":"girl2","appearance":"long straight navy-blue hair, calm demeanor, school uniform"},{"id":"girl3","appearance":"short blonde bob, soft cheerful expression, school uniform with red ribbon"},{"id":"girl4","appearance":"long purple hair in a low ponytail, composed and thoughtful, school uniform with grayish top"}],"layout":{"panels":[{"position":"top","count":1,"setting":"club room table by a window, four girls seated with 4 small colorful mugs on the table","speech_bubbles":["部活ミーティング","お菓子作りはどうですか？","いいですね〜！","次の部活は何をするか決めましょうか"]},{"position":"upper-middle","count":1,"setting":"fantasy thought panel with pink sparkly background and floating desserts above the girls","items":{"count":5,"labels":["chocolate cake slice","round cookies","checker cookies","mont blanc cupcake","strawberry shortcake slice"]},"center_text":"わくわく…","speech_bubbles":["クッキーもいいですね！","ケーキとか作ってみたいですね〜"]},{"position":"lower-middle","count":1,"setting":"mood shifts to a dark blue vertical-line background showing practical concerns","speech_bubbles":["材料費もなかなかかかりそう…","時間もかかりそうですし…","部室にオーブンないですしね…","うーん…","はぁ〜"]},{"position":"bottom","count":1,"setting":"bright warm yellow resolution panel with celebratory flower marks","speech_bubbles":["それがいちばん楽しそうっ!!","じゃあ、みんなでお菓子を買ってお茶会にしましょう！","方向転換もきらら部の得意技です♪"]}],"character_count":4,"drink_count":4,"dessert_count":5,"panel_count":4},"composition":"all four girls appear in every panel, medium group shots, readable Japanese speech bubbles, comedic pacing from suggestion to excitement to hesitation to happy conclusion","quality":"polished manga page suitable for social media sharing or a sample of Japanese text rendering"}
-```
-
-### No. 50: 蒙娜丽莎审查版油画
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 054
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/054_generated_24_14596_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093254-45rjz-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent ...
-
-#### Prompt
-
-```text
-A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent veil, soft golden-brown sfumato lighting, and the classic hazy landscape with winding paths, water, and rocky hills in the background. Replace the entire face area with a single flat rectangular censor block in {argument name="censor color" default="medium brown"}, centered over the head and covering from forehead to chin, with clean hard edges that contrast against the painterly surface. Keep the hair visible around the block, including light brown hair parted at the top and falling over the shoulders. Preserve the aged varnish look, muted earthy palette, subtle craquelure-like texture, and solemn museum-quality composition. Vertical framing, centered subject, realistic proportions, old master brushwork, dramatic but soft shading.
-```
-
-### No. 51: 两位女性在复古商店购物
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 055
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/055_generated_25_14012_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093255-trhp8-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the l...
-
-#### Prompt
-
-```text
-A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the left has brown hair tied back and is wearing a {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, carrying a cream shoulder bag. She is holding up a {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} on a wooden hanger. The woman on the right has her hair in a messy bun and is wearing a {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, looking admiringly at the jacket. They are standing in a narrow aisle flanked by overflowing racks of colorful garments, with more clothes hanging from the ceiling. The scene features {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
-```
-
-### No. 52: 日语 AI 编程培训横幅
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 056
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/056_generated_26_14680_ai.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093256-zjdgs-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified prom...
-
-#### Prompt
-
-```text
-Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified promotional banner for an AI programming course. On the left, place a small headline in bold Japanese text reading "AIを使いこなす開発者へ" above a very large dominant title reading "{argument name="main title" default="ClaudeCode研修"}" in heavy sans-serif dark navy lettering, with "ClaudeCode" especially large and the final Japanese word attached on the right in the same style. Beneath the title, add a long horizontal blue gradient bar from medium blue to very light blue containing white bold Japanese text: "{argument name="subheadline text" default="AI時代の開発を、あなたの武器に。"}". Along the bottom left, arrange exactly 3 circular navy icon badges in a horizontal row, each with a short two-line caption in Japanese to the right of the icon. Badge 1 shows a code symbol </> and the text "Claude Codeの 基本から実践まで". Badge 2 shows a light bulb and the text "業務効率を高める AI活用スキル". Badge 3 shows an upward bar chart and the text "すぐに使える 実践的な内容". On the right half, place a confident Japanese businessman from the waist up with arms crossed, wearing a dark navy suit, white shirt, and blue striped tie, facing forward; his face is intentionally soft-focused or anonymized. Behind him, add layered geometric navy and blue diagonal shapes sweeping in from the top right and bottom right, plus a dark blue tech-themed panel with faint code lines and a glowing curly-braces symbol {}. Use a polished B2B seminar advertisement style, crisp typography, strong negative space, subtle gradients, high contrast, and a professional AI/engineering training atmosphere.
-```
-
-### No. 53: 动漫日落电影海报
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 057
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/057_generated_27_14472_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093258-htz6v-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth dr...
-
-#### Prompt
-
-```text
-A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth drama. The scene overlooks a Japanese coastal hillside town descending toward a glowing bay, with the sun low on the horizon and its reflection stretching across calm water. The sky dominates most of the image: a vast deep-blue to lavender twilight gradient filled with countless stars, wispy pink and peach clouds, and one especially bright star near the upper right. In the foreground on the right, a teenage schoolgirl stands in three-quarter side profile facing left toward the sea, shown from mid-thigh up, with shoulder-length dark hair blowing in the breeze, a short-sleeved white sailor-style school blouse, a red ribbon at the collar, and a navy pleated skirt; her expression is contemplative and wistful. Farther down the steep stone stair street in the center-left, a teenage schoolboy stands with his back to the viewer, wearing a short-sleeved white shirt and dark trousers, also looking toward the sunset and ocean. At the lower right, include 1 black cat sitting on a wall or rooftop edge in silhouette, looking toward the town. At the lower left, include 1 old-fashioned streetlamp and a dense cluster of blooming hydrangeas in blue and violet along a stone wall. The town below is packed with tiled rooftops, narrow streets, warm window lights, and layered houses, with distant mountains framing the bay. Use dramatic rim light, luminous atmospheric perspective, sparkling highlights, delicate cloud detail, and emotional, nostalgic color grading in indigo, ultramarine, pink, peach, and gold. Design it explicitly as a Japanese animated film poster with elegant typography integrated into the artwork: large hand-brushed Japanese title text across the upper-left to center reading {argument name="title text" default="星をつなぐ約束のうた"}, smaller English subtitle beneath it reading {argument name="English subtitle" default="The Song of Promises"}, a small award-laurel line in Japanese at the top left, 1 vertical Japanese tagline along the upper-right edge, 4 cast names in Japanese centered near the bottom, a release date at the lower left reading {argument name="release date" default="8.23"} with "ROADSHOW" below, 1 pink Japanese tagline across the lower center, and a website/social handle at the lower right. Ultra-detailed anime key visual, romantic and melancholic, premium feature-film poster finish.
-```
-
-### No. 54: 2x2 日式横幅广告网格
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 058
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/058_generated_28_13994_2x2.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093259-n24ck-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Structured text-to-video prompt example for 2x2 日式横幅广告网格.
-
-#### Prompt
-
-```text
-{ "type": "2x2 grid of Japanese banner advertisements", "quadrants": [ { "position": "top-left", "theme": "skincare product launch", "visuals": "portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles", "text_elements": { "main_copy": "{argument name=\"skincare catchphrase\" default=\"透明感、満ちる。\"}", "sub_copy": "肌が変わると、毎日が変わる。", "brand_name": "SUIREN", "badge": "6.1 NEW Debut" } }, { "position": "top-right", "theme": "European summer travel campaign", "visuals": "back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple", "text_elements": { "english_copy": "Find your Journey", "main_copy": "{argument name=\"travel catchphrase\" default=\"心が動く旅へ。\"}", "badge": "yellow circle with '今だけ！最大20%OFF'", "footer": "blue banner with '初夏のヨーロッパキャンペーン'" } }, { "position": "bottom-left", "theme": "traditional Japanese soup stock", "visuals": "close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi", "text_elements": { "main_copy": "{argument name=\"food catchphrase\" default=\"毎日のごはんを、もっと美味しく。\"}", "product_name": "日々のだし", "sub_copy": "素材のうまみを、まるごと。" } }, { "position": "bottom-right", "theme": "investment app", "visuals": "smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'", "text_elements": { "brand_name": "{argument name=\"finance app name\" default=\"MoneyPath\"}", "main_copy": "未来の自分のために、{argument name=\"finance catchphrase\" default=\"今はじめる資産形成\"}", "badge": "blue circle with '1,000円分のポイントプレゼント！'", "footer": "blue banner with 4 icons and feature text" } } ] }
-```
-
-### No. 55: 长条伸展虎斑猫
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 059
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/059_generated_29_14517_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093300-dnv2r-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an ab...
-
-#### Prompt
-
-```text
-A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an absurdly elongated, noodle-like body stretched from near the top to near the bottom of the image. The cat has a small round face with large glossy eyes, a tiny open smiling mouth, upright ears, and both front paws raised straight overhead in a cheering pose, showing 2 visible pink paw pads. Its fur is soft and detailed, with a white muzzle, chest, belly, and inner legs, and brown-and-black tabby stripes along the sides, head, arms, and tail. The body is extremely thin and vertically extended, creating a comical exaggerated proportion, while the hind paws remain tiny and close together at the bottom. Add 1 curved striped tail extending to the lower right side. Above the head, place the playful hand-drawn text "{argument name="caption text" default="nyoooon~"}" in a rounded dark brown font, arched like a semicircle, with 6 short motion lines around the raised paws and text to emphasize stretching. Use a clean off-white or warm light beige background with no scenery, only a faint soft oval shadow beneath the feet. Cute, polished digital illustration style, centered composition, high detail in fur, humorous Japanese sticker or social-media mascot vibe, lots of negative space, extra-tall aspect ratio.
-```
-
-### No. 56: 照片级写实躺姿肖像
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 060
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/060_generated_30_13448_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-lwlhr-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" ...
-
-#### Prompt
-
-```text
-A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" default="white modern sofa"}. She is wearing a {argument name="clothing" default="short white silk slip dress"} with thin straps, her {argument name="hair style" default="long wavy dark brown hair"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name="lighting style" default="soft natural sunlight streaming through a window"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.
-```
-
-### No. 57: Landscape Transition Music Video
-
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Categoria:** `Atlas Generado T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
 - **Autor:** Atlas Generated 082
 - **Idioma:** `es-419`
 - **Video:** [Ver](./previews/generated/082_generated_02_ms_003_landscape-transition-music-video.md)
@@ -1190,18 +671,18 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 #### Descripcion
 
-@image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
+@image1 @image2 @image3 @image4 @image5 @image6 imágenes de escenas de paisaje, referencia el ritmo de la pantalla, el estilo visual de transición y el ritmo musical de @video para sincronización de ritmo.
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
+@image1 @image2 @image3 @image4 @image5 @image6 imágenes de escenas de paisaje, referencia el ritmo de la pantalla, el estilo visual de transición y el ritmo musical de @video para sincronización de ritmo.
 ```
 
-### No. 58: Parkour Chase Sequence
+### No. 31: Secuencia de Persecución Parkour
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Categoria:** `Atlas Generado T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
 - **Autor:** Atlas Generated 083
 - **Idioma:** `es-419`
 - **Video:** [Ver](./previews/generated/083_generated_03_ot_001_parkour-chase-sequence.md)
@@ -1210,22 +691,22 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 #### Descripcion
 
-@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlook...
+@image1 @image2 @image3 @image4 @image5, un plano secuencia continuo, siguiendo al corredor desde la calle subiendo escaleras, por pasillos, entrando al techo, finalmente mirando la ciudad desde arriba...
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlooking the city.
+@image1 @image2 @image3 @image4 @image5, un plano secuencia continuo, siguiendo al corredor desde la calle subiendo escaleras, por pasillos, entrando al techo, finalmente mirando la ciudad desde arriba.
 ```
 
 <a id="category-7"></a>
 
-### Atlas Generated I2V (44)
+### Atlas Generado I2V (16)
 
-### No. 59: Storyboard Cinematic
+### No. 32: Guión Gráfico Cinemático
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
 - **Autor:** Atlas Generated 030
 - **Idioma:** `es-419`
 - **Video:** [Ver](./previews/generated/030_generated_01_i2v-01-storyboard-cinematic.md)
@@ -1234,15 +715,319 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 #### Descripcion
 
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
+Muéstrame en esta historia. Sigue la historia exactamente en orden comenzando desde arriba a la izquierda. Toda la historia en 10 segundos. Cinemático.
 
 #### Prompt
 
 ```text
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
+Muéstrame en esta historia. Sigue la historia exactamente en orden comenzando desde arriba a la izquierda. Toda la historia en 10 segundos. Cinemático.
 ```
 
-### No. 60: Burger Assembly
+### No. 33: Personaje de Pintura Interactiva
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
+- **Autor:** Atlas Generated 062
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/062_generated_02_ur_002_interactive-painting-character.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093302-sxz6z-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+El personaje en la pintura tiene una expresión culpable, los ojos mirando a izquierda y derecha, luego asoma la cabeza fuera del marco, rápidamente extiende su mano fuera del marco para tomar una cola y da un sorbo, luego muestra una expresión satisfecha. En ese momento, se escuchan pasos, y el personaje en la pintura rápidamente vuelve a colocar la cola en su lugar. Luego, un vaquero occidental toma la cola de la taza y se aleja. Finalmente, la cámara avanza y la pantalla se vuelve gradualmente negro puro con solo iluminación superior iluminando la lata de cola. En la parte inferior de la pantalla, aparecen subtítulos artísticos y voz en off: 'Yikout Cola, ¡una obligación probarla!'
+
+#### Prompt
+
+```text
+El personaje en la pintura tiene una expresión culpable, los ojos mirando a izquierda y derecha, luego asoma la cabeza fuera del marco, rápidamente extiende su mano fuera del marco para tomar una cola y da un sorbo, luego muestra una expresión satisfecha. En ese momento, se escuchan pasos, y el personaje en la pintura rápidamente vuelve a colocar la cola en su lugar. Luego, un vaquero occidental toma la cola de la taza y se aleja. Finalmente, la cámara avanza y la pantalla se vuelve gradualmente negro puro con solo iluminación superior iluminando la lata de cola. En la parte inferior de la pantalla, aparecen subtítulos artísticos y voz en off: 'Yikout Cola, ¡una obligación probarla!'
+```
+
+### No. 34: Escena Callejera Victoriana
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
+- **Autor:** Atlas Generated 063
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/063_generated_03_ur_003_victorian-street-scene.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093303-w9hw2-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+La cámara se aleja ligeramente (revelando la vista completa de la calle) y sigue a la protagonista femenina en movimiento. El viento sopla el dobladillo de su vestido mientras camina por las calles del Londres del siglo XIX. Mientras camina, un automóvil de vapor pasa por el lado derecho de la calle, pasando rápidamente a su lado. El viento levanta el dobladillo de su vestido, y ella se ve shockeada y rápidamente usa ambas manos para sostener su falda. Los efectos de sonido de fondo incluyen pasos, sonidos de multitudes, sonidos de automóviles, etc.
+
+#### Prompt
+
+```text
+La cámara se aleja ligeramente (revelando la vista completa de la calle) y sigue a la protagonista femenina en movimiento. El viento sopla el dobladillo de su vestido mientras camina por las calles del Londres del siglo XIX. Mientras camina, un automóvil de vapor pasa por el lado derecho de la calle, pasando rápidamente a su lado. El viento levanta el dobladillo de su vestido, y ella se ve shockeada y rápidamente usa ambas manos para sostener su falda. Los efectos de sonido de fondo incluyen pasos, sonidos de multitudes, sonidos de automóviles, etc.
+```
+
+### No. 35: Exhibición de Producto de Lazo Magnético
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
+- **Autor:** Atlas Generated 064
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093307-wk6rq-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+0-2 segundos: Corte rápido de cuatro paneles, rojo, rosa, púrpura, print leopardo cuatro lazos de mariposa se congelan en secuencia, primer plano del brillo de satén y el lettering de la marca 'chéri'. Voz en off...
+
+#### Prompt
+
+```text
+0-2 segundos: Corte rápido de cuatro paneles, rojo, rosa, púrpura, print leopardo cuatro lazos de mariposa se congelan en secuencia, primer plano del brillo de satén y el lettering de la marca 'chéri'. Voz en off '¡Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 segundos: Primer plano de la hebilla magnética de plata 'clic' se ajusta juntos, luego se separa suavemente, mostrando textura sedosa y conveniencia. '¡En solo 1 segundo, bloquea y completa el mejor estilo!' 7-12 segundos: Cambio rápido de escena: estilo borgoña sujeto en el cuello del abrigo, vibra de commute al máximo; estilo rosa atado en cola de caballo, chica dulce saliendo; estilo púrpura atado en la correa del bolso, nicho y sofisticado; print leopardo colgado en el cuello del traje, aura de chica picosa completamente abierta. '¡Desde abrigos, bolsas, accesorios de cabello, completa un estilo versátil y lleno de personalidad!' 13-15 segundos: Cuatro lazos de mariposa exhibidos uno al lado del otro, nombre de la marca 'chéri, ¡te ofrece belleza instantánea!'
+```
+
+### No. 36: Exploración de Horror en Primera Persona
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
+- **Autor:** Atlas Generated 065
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/065_generated_08_cs_006_horror-first-person-exploration.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093308-vkssl-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Usa @image1 como el primer cuadro de la pantalla, perspectiva en primera persona, referencia el efecto de movimiento de cámara de @video1, escena superior referencia @image2, escena izquierda referencia @image3, escena derecha referencia @image4.
+
+#### Prompt
+
+```text
+Usa @image1 como el primer cuadro de la pantalla, perspectiva en primera persona, referencia el efecto de movimiento de cámara de @video1, escena superior referencia @image2, escena izquierda referencia @image3, escena derecha referencia @image4.
+```
+
+### No. 37: Anuncio de Stunt de Motocicleta con Burro
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 070
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093327-gn77n-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Extiende el video de 15s, referencia la imagen del burro montando una motocicleta de @image1 y @image2, complementa un anuncio creativo. Escena 1: Cámara fija lateral, el burro monta la moto saliendo del gallinero, los pollos al lado se asustan. Escena 2: El burro monta la moto circulando en terreno arenoso, primer plano de la llanta de la moto, luego corte a toma área en medio del aire del burro montando la moto haciendo acrobacias circulares, levantando humo. Escena 3: El fondo es una toma de montaña nevada, el burro monta la moto saltando desde la ladera de la colina, el eslogan publicitario aparece detrás del sujeto, a través de forma de enmascaramiento (cuando el burro y la moto pasan volando) 'Inspira Creatividad, Enriquece la Vida' aparece en el centro, finalmente cuando la moto pasa volando, levantando una nube de polvo.
+
+#### Prompt
+
+```text
+Extiende el video de 15s, referencia la imagen del burro montando una motocicleta de @image1 y @image2, complementa un anuncio creativo. Escena 1: Cámara fija lateral, el burro monta la moto saliendo del gallinero, los pollos al lado se asustan. Escena 2: El burro monta la moto circulando en terreno arenoso, primer plano de la llanta de la moto, luego corte a toma área en medio del aire del burro montando la moto haciendo acrobacias circulares, levantando humo. Escena 3: El fondo es una toma de montaña nevada, el burro monta la moto saltando desde la ladera de la colina, el eslogan publicitario aparece detrás del sujeto, a través de forma de enmascaramiento (cuando el burro y la moto pasan volando) 'Inspira Creatividad, Enriquece la Vida' aparece en el centro, finalmente cuando la moto pasa volando, levantando una nube de polvo.
+```
+
+### No. 38: Documental de Edificio de Oficinas
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 071
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/071_generated_29_av_002_office-building-documentary.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093329-t5fxx-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Basado en las fotos promocionales del edificio de oficinas proporcionado, genera un documental inmobiliario cinemático realista de 15 segundos, usando pantalla panorámica 2.35:1, 24fps, estilo visual delicado...
+
+#### Prompt
+
+```text
+Basado en las fotos promocionales del edificio de oficinas proporcionado, genera un documental inmobiliario cinemático realista de 15 segundos, usando pantalla panorámica 2.35:1, 24fps, estilo visual delicado. El tono de voz del narrador referencia @video1, filmando 'Ecología del Edificio de Oficinas', presentando las operaciones de diferentes empresas en el edificio, combinado con narración explicando cómo el edificio de oficinas se convierte en un ecosistema comercial vibrante.
+```
+
+### No. 39: Indicación de Video de Mitología de la Diosa Kalí Realista, Adecuada para Seedance 2.0
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 072
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/072_generated_05_1128_seedance-2-0.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095907-l9jhf-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Noche, calles indias envueltas en niebla. Una mujer misteriosa vestida con un sari de color rojo oscuro camina tranquilamente. Su sombra revela lentamente múltiples brazos a ambos lados. Sus ojos emite una luz tenue. Los perros y animales se inclinan en reverencia cuando ella pasa. Un relámpago revela que ella es la Diosa Kalí disfrazada. Mitología realista cinematográfica极致, atmósfera misteriosa.
+
+#### Prompt
+
+```text
+Noche, calles indias envueltas en niebla. Una mujer misteriosa vestida con un sari de color rojo oscuro camina tranquilamente. Su sombra revela lentamente múltiples brazos a ambos lados. Sus ojos emite una luz tenue. Los perros y animales se inclinan en reverencia cuando ella pasa. Un relámpago revela que ella es la Diosa Kalí disfrazada. Mitología realista cinematográfica极致, atmósfera misteriosa.
+```
+
+### No. 40: Viaje de Bosque Mágico de Alta Velocidad
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 073
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/073_generated_08_1143_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095910-h55bn-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Animación 3D dinámica de alta calidad de viaje de bosque mágico de alta velocidad. Un grupo de jinetes con trajes fantásticos elaborados, montando criaturas mágicas brillantes, incluyendo un lobo fantasmal brillante, un ciervo de cristal centelleante, un búho幻影 gigante y un leopardo fantasmal. Они están galopando a través de un bosque encantador lleno de cristales brillantes gigantes. La escena está llena de niebla voluminosa, iluminación dramática, rastros de partículas mágicas. Movimientos de cámara dinámicos y rápidos crean una fuerte sensación de avance rápido. Transiciones de video fluidas, 15 segundos de ritmo rápido, y secuencias visuales dinámicas.
+
+#### Prompt
+
+```text
+Animación 3D dinámica de alta calidad de viaje de bosque mágico de alta velocidad. Un grupo de jinetes con trajes fantásticos elaborados, montando criaturas mágicas brillantes, incluyendo un lobo fantasmal brillante, un ciervo de cristal centelleante, un búho幻影 gigante y un leopardo fantasmal. Они están galopando a través de un bosque encantador lleno de cristales brillantes gigantes. La escena está llena de niebla voluminosa, iluminación dramática, rastros de partículas mágicas. Movimientos de cámara dinámicos y rápidos crean una fuerte sensación de avance rápido. Transiciones de video fluidas, 15 segundos de ritmo rápido, y secuencias visuales dinámicas.
+```
+
+### No. 41: Publicidad Comercial de Alta Gamma: AURORA FIZZ
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
+- **Autor:** Atlas Generated 084
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/084_generated_01_1386_aurora-fizz.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100148-2dx6l-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Publicidad Comercial de Alta Gamma — AURORA FIZZ 00:00 – 00:02 | Entrada Relámpago Acción: La lata de AURORA FIZZ vuela hacia la pantalla desde arriba, girando rápidamente alrededor del eje vertical. Efectos Visuales: Desenfoque de movimiento nítido. Los patrones de cítricos dorados se transforman en rayos de luz brillante. La lata se detiene con precisión en el centro de la pantalla — la etiqueta perfectamente orientada a la cámara. 00:02 – 00:04 | Revelación Explosiva Acción: La lata se divide en tres secciones horizontales (anillo superior, cuerpo central, anillo inferior). Efectos Visuales: Un sonido crujiente y chispeante. Vapor frío sale向外溢出. Entre las secciones flotantes de la lata, rodajas vibrantes de limón y lima aparecen de la nada — acompañadas de burbujas brillantes que se forman del aire. 00:04 – 00:07 | Momento de Ascensión de Burbujas Acción: El tiempo se congela — elegancia suspendida. Efectos Visuales: Las rodajas de cítricos giran lentamente en estado de ingravidez, corrientes de burbujas ascienden a través del espacio líquido invisible. La cámara se desliza suavemente a través de una轨道 cinematográfica. Los reflejos brillan en las gotas de condensación — cada burbuja captura la luz como un diamante. 00:07 – 00:08 | Sello de Energía Acción: La lata se cierra instantáneamente como un imán. Efectos Visuales: Un sonido crujiente y chispeante. Los cítricos y las burbujas quedan sellados instantáneamente dentro. Una ráfaga de niebla fresca se expande hacia afuera. 00:08 – 00:10 | Salida Refrescante Acción: La lata gira a máxima velocidad, saliendo volando hacia arriba de la pantalla. Efectos Visuales: El fondo se transforma en un gradiente brillante y refrescante — listo para un bucle perfecto.
+
+#### Prompt
+
+```text
+Publicidad Comercial de Alta Gamma — AURORA FIZZ 00:00 – 00:02 | Entrada Relámpago Acción: La lata de AURORA FIZZ vuela hacia la pantalla desde arriba, girando rápidamente alrededor del eje vertical. Efectos Visuales: Desenfoque de movimiento nítido. Los patrones de cítricos dorados se transforman en rayos de luz brillante. La lata se detiene con precisión en el centro de la pantalla — la etiqueta perfectamente orientada a la cámara. 00:02 – 00:04 | Revelación Explosiva Acción: La lata se divide en tres secciones horizontales (anillo superior, cuerpo central, anillo inferior). Efectos Visuales: Un sonido crujiente y chispeante. Vapor frío sale向外溢出. Entre las secciones flotantes de la lata, rodajas vibrantes de limón y lima aparecen de la nada — acompañadas de burbujas brillantes que se forman del aire. 00:04 – 00:07 | Momento de Ascensión de Burbujas Acción: El tiempo se congela — elegancia suspendida. Efectos Visuales: Las rodajas de cítricos giran lentamente en estado de ingravidez, corrientes de burbujas ascienden a través del espacio líquido invisible. La cámara se desliza suavemente a través de una轨道 cinematográfica. Los reflejos brillan en las gotas de condensación — cada burbuja captura la luz como un diamante. 00:07 – 00:08 | Sello de Energía Acción: La lata se cierra instantáneamente como un imán. Efectos Visuales: Un sonido crujiente y chispeante. Los cítricos y las burbujas quedan sellados instantáneamente dentro. Una ráfaga de niebla fresca se expande hacia afuera. 00:08 – 00:10 | Salida Refrescante Acción: La lata gira a máxima velocidad, saliendo volando hacia arriba de la pantalla. Efectos Visuales: El fondo se transforma en un gradiente brillante y refrescante — listo para un bucle perfecto.
+```
+
+### No. 42: Escena Cinematográfica de Naufragio en Olas Tempestuosas
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generado`
+- **Autor:** Atlas Generated 085
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/085_generated_02_1390_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100149-m97c6-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Perspectiva en primera persona: el barco se balancea en mares tempestuosos; corte a: primer plano del capitán con expresión tensa frente al timón; corte a: primer plano de las manos del capitán en el timón; corte a: vista panorámica del barco navegando solo en mares tempestuosos, el rumbo cambia lentamente. Corte a: plano medio de personas aterrorizadas en la cubierta aferrándose a las barandillas, gritando. Corte a: el mástil cruje, luego un sonido agudo y repentino, se parte violentamente; corte a: vista lateral del casco chocando contra las rocas, rompiéndose catastróficamente. A medida que el barco se desintegra, la tripulación es lanzada al aire por la inercia, cayendo al mar.
+
+#### Prompt
+
+```text
+Perspectiva en primera persona: el barco se balancea en mares tempestuosos; corte a: primer plano del capitán con expresión tensa frente al timón; corte a: primer plano de las manos del capitán en el timón; corte a: vista panorámica del barco navegando solo en mares tempestuosos, el rumbo cambia lentamente. Corte a: plano medio de personas aterrorizadas en la cubierta aferrándose a las barandillas, gritando. Corte a: el mástil cruje, luego un sonido agudo y repentino, se parte violentamente; corte a: vista lateral del casco chocando contra las rocas, rompiéndose catastróficamente. A medida que el barco se desintegra, la tripulación es lanzada al aire por la inercia, cayendo al mar.
+```
+
+### No. 43: Seedance 2.0 Palabra de Indicación para Video de Transformación de Mecha Femenino Global
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 098
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/098_generated_15_1720_seedance-2-0.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100204-mrc5s-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Palabra de indicación de escena central @94d74b42-17ec-45d3-ab60-487c3a1700cb Completar 10 transformaciones de armadura femenina global en 12 segundos. Sin gafas en todo momento, casco de armadura completa + armas, apariencia de general puramente femenino. Todas las transiciones incluyen efectos de partículas brillantes. Estilo unificado:的高端、写实、震撼. Escenas divididas por período de tiempo: 0-1 segundo: Armadura brillante roja y dorada china + casco de guerra dorado, sosteniendo una lanza dorada, tocando una bestia divina sobre su hombro, armadura dorada brillante, postura erguida, presencia de dios guerrero oriental completamente abierta. 1-2 segundos: Armadura de guerrera samurai japonesa + casco de鹿角, sosteniendo una katana, girando y agitando la capa hacia la cámara, placas de armadura estratificadas exquisitas, filo frío, aura asesina completa. 2-3 segundos: Armadura de placa completa de caballera medieval europea + casco con máscara cruz, sosteniendo espada de caballero, palma cubriendo la cámara y moviéndose para completar la transformación, armadura plateada con brillo frío,庄严而有力. 3-4 segundos: Coraza muscular de comandante romana antigua + casco de plumas rojas, sosteniendo gladio y escudo, brazos juntos completando la transformación, hombreras metálicas y capa ondeando,威武、果断、极具统帅力. 4-5 segundos: Guerrero vikingo nórdico piel y armadura de hierro + casco de guerra rúnico, sosteniendo hacha de guerra y escudo, ajustando muñequeras y levantando la cabeza para completar la transformación,野性、冷峻、气势逼人. 5-6 segundos: General persa sasánida escamas de pez + corona de armadura de cadenas joyería, sosteniendo cimitarra, girando y enderezando para completar la transformación, superficie de armadura delicada y lujosa,兼具异域王族与将军气质. 6-7 segundos: Guerrero de estepa mongola armadura de cuero y placas + casco de guerra de plumas, sosteniendo arco compuesto, tocando suavemente la frente de la armadura para completar la transformación, movimiento rápido y ágil,英武而机动. 7-8 segundos: Guerrero de dinastía india armadura decorada dorada + corona de perlas, sosteniendo lanza, tocando el borde de la capa para completar la transformación,华丽而神秘，高贵却不失武者之魂. 8-9 segundos: Comandante árabe armadura de cadenas patrón luna + tocado metálico con velo, sosteniendo cimitarra de media luna, palma cubriendo la cámara y moviéndose para completar la transformación,神秘、高贵、眼神锐利，异域史诗感极强. 9-10 segundos: Guerrero espartano armadura de bronce + casco de crin de caballo, sosteniendo lanza y escudo, agitando la capa para cubrir el cuerpo y completar la transformación, postura erguida,爆发力量感，战场存在感十足. 10-11 segundos: Emperador imaginario reina armadura pesada + casco de corona con dragón, sosteniendo espada gigante real, cubriendo la cámara de lado completando la transformación, armadura pesada negra y dorada estratificada,如同终极女王降临. 11-12 segundos: Girando y agitando la capa, regresando finalmente a armadura brillante roja y dorada china + casco de guerra dorado + lanza dorada, congelando en explosión de luz dorada,镜头凝固，东方战神女将最终封神.
+
+#### Prompt
+
+```text
+Palabra de indicación de escena central @94d74b42-17ec-45d3-ab60-487c3a1700cb Completar 10 transformaciones de armadura femenina global en 12 segundos. Sin gafas en todo momento, casco de armadura completa + armas, apariencia de general puramente femenino. Todas las transiciones incluyen efectos de partículas brillantes. Estilo unificado:高端、写实、震撼. Escenas divididas por período de tiempo: 0-1 segundo: Armadura brillante roja y dorada china + casco de guerra dorado, sosteniendo una lanza dorada, tocando una bestia divina sobre su hombro, armadura dorada brillante, postura erguida, presencia de dios guerrero oriental completamente abierta. 1-2 segundos: Armadura de guerrera samurai japonesa + casco鹿角, sosteniendo una katana, girando y agitando la capa hacia la cámara, placas de armadura estratificadas exquisitas, filo frío, aura asesina completa. 2-3 segundos: Armadura de placa completa de caballera medieval europea + casco con máscara cruz, sosteniendo espada de caballero, palma cubriendo la cámara y moviéndose para completar la transformación, armadura plateada con brillo frío,庄严而有力. 3-4 segundos: Coraza muscular de comandante romana antigua + casco de plumas rojas, sosteniendo gladio y escudo, brazos juntos completando la transformación, hombreras metálicas y capa ondeando,威武、果断、极具统帅力. 4-5 segundos: Guerrero vikingo nórdico piel y armadura de hierro + casco de guerra rúnico, sosteniendo hacha de guerra y escudo, ajustando muñequeras y levantando la cabeza para completar la transformación,野性、冷峻、气势逼人. 5-6 segundos: General persa sasánida escamas de pez + corona de armadura de cadenas joyería, sosteniendo cimitarra, girando y enderezando para completar la transformación, superficie de armadura delicada y lujosa,兼具异域王族与将军气质. 6-7 segundos: Guerrero de estepa mongola armadura de cuero y placas + casco de guerra de plumas, sosteniendo arco compuesto, tocando suavemente la frente de la armadura para completar la transformación, movimiento rápido y ágil,英武而机动. 7-8 segundos: Guerrero de dinastía india armadura decorada dorada + corona de perlas, sosteniendo lanza, tocando el borde de la capa para completar la transformación,华丽而神秘，高贵却不失武者之魂. 8-9 segundos: Comandante árabe armadura de cadenas patrón luna + tocado metálico con velo, sosteniendo cimitarra de media luna, palma cubriendo la cámara y moviéndose para completar la transformación,神秘、高贵、眼神锐利，异域史诗感极强. 9-10 segundos: Guerrero espartano armadura de bronce + casco de crin de caballo, sosteniendo lanza y escudo, agitando la capa para cubrir el cuerpo y completar la transformación, postura erguida,爆发力量感，战场存在感十足. 10-11 segundos: Emperador imaginario reina armadura pesada + casco de corona con dragón, sosteniendo espada gigante real, cubriendo la cámara de lado completando la transformación, armadura pesada negra y dorada estratificada,如同终极女王降临. 11-12 segundos: Girando y agitando la capa, regresando finalmente a armadura brillante roja y dorada china + casco de guerra dorado + lanza dorada, congelando en explosión de luz dorada,镜头凝固，东方战神女将最终封神.
+```
+
+### No. 44: Oficina Dragón
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 099
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/099_generated_16_1768_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100206-kx88c-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Edición rápida: Un dragón de oficina 超逼真 vuela a alta velocidad a través de múltiples habitaciones de oficina,穿梭于人群之间、越过办公桌、绕着人们, en una oficina de cubículos ocupada. Aterriza en una mesa frente a una persona, y le arroja fuego a ese hombre. El dragón dice:Estás despedido.
+
+#### Prompt
+
+```text
+Edición rápida: Un dragón de oficina 超逼真 vuela a alta velocidad a través de múltiples habitaciones de oficina,穿梭于人群之间、越过办公桌、绕着人们, en una oficina de cubículos ocupada. Aterriza en una mesa frente a una persona, y le arroja fuego a ese hombre. El dragón dice:Estás despedido.
+```
+
+### No. 45: Ramadán a Eid Fotografía Time-Lapse Zoom Infinito
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 100
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/100_generated_17_1775_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100207-lhtz8-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+A través del arte de papel cortado altamente detallado, fotografía time-lapse 超延时无缝无限变焦, capturando el viaje de la celebración del Ramadán al Eid. La escena comienza en el tiempo de iftar, con una luna creciente brillante colgando en el cielo de un vecindario tranquilo, sombras de linternas suaves balanceándose. La cámara se acerca a una ventana de casa, una familia preparando iftar, luego hace una transición fluida a time-lapse 超延时摄影 de momentos rápidos del ayuno diario: personas trabajando, rezando, esperando romper el ayuno. La cámara continúa acercándose, al atardecer, las calles llenas de vendedores de comida y multitudes, luego hace la transición al tráfico caótico de regreso a casa por Eid (mudik), automóviles y motocicletas congestionados moviéndose en time-lapse 超延时摄影 dinámico. La cámara se acerca a una ventana de auto, haciendo la transición a escenas rurales tranquilas (kampung), niños jugando, personas preparando para Eid. La cámara continúa acercándose a una mezquita, personas rezando Eid al amanecer en campos abiertos (sholat Ied). La cámara hace无缝transición a momentos de apretón de manos, transicionando a reuniones familiares emocionales acompañadas de maaf-maafan (pedir perdón mutuamente). La cámara continúa acercándose a una mesa llena de ketupat, pollo en leche de coco (opor ayam) y platos tradicionales, una gran familia reunida, disfrutando de la comida felizmente. Finalmente, la cámara se acerca a un ketupat, luego hace la transición de vuelta a la luna creciente en el cielo, completando todo el ciclo. Textura de papel cortado a mano, profundidad estratificada, sombras suaves, colores festivos vibrantes, transiciones infinitas fluidas, iluminación de calidad cinematográfica, detalle ultra alto, 15 segundos.
+
+#### Prompt
+
+```text
+A través del arte de papel cortado altamente detallado, fotografía time-lapse 超延时无缝无限变焦, capturando el viaje de la celebración del Ramadán al Eid. La escena comienza en el tiempo de iftar, con una luna creciente brillante colgando en el cielo de un vecindario tranquilo, sombras de linternas suaves balanceándose. La cámara se acerca a una ventana de casa, una familia preparando iftar, luego hace una transición fluida a time-lapse 超延时摄影 de momentos rápidos del ayuno diario: personas trabajando, rezando, esperando romper el ayuno. La cámara continúa acercándose, al atardecer, las calles llenas de vendedores de comida y multitudes, luego hace la transición al tráfico caótico de regreso a casa por Eid (mudik), automóviles y motocicletas congestionados moviéndose en time-lapse 超延时摄影 dinámico. La cámara se acerca a una ventana de auto, haciendo la transición a escenas rurales tranquilas (kampung), niños jugando, personas preparando para Eid. La cámara continúa acercándose a una mezquita, personas rezando Eid al amanecer en campos abiertos (sholat Ied). La cámara hace无缝transición a momentos de apretón de manos, transicionando a reuniones familiares emocionales acompañadas de maaf-maafan (pedir perdón mutuamente). La cámara continúa acercándose a una mesa llena de ketupat, pollo en leche de coco (opor ayam) y platos tradicionales, una gran familia reunida, disfrutando de la comida felizmente. Finalmente, la cámara se acerca a un ketupat, luego hace la transición de vuelta a la luna creciente en el cielo, completando todo el ciclo. Textura de papel cortado a mano, profundidad estratificada, sombras suaves, colores festivos vibrantes, transiciones infinitas fluidas, iluminación de calidad cinematográfica, detalle ultra alto, 15 segundos.
+```
+
+### No. 46: Mar Furioso Dragón Furioso
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 101
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/101_generated_18_1776_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100209-b9z5g-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un dragón rojo furioso (elemental) emerge del mar, volando en espiral a gran velocidad sobre el barco, generando enormes olas. La cámara dinámica sigue al dragón a través de la tormenta, revolcándose en las olas gigantes y alejándose.
+
+#### Prompt
+
+```text
+Un dragón rojo furioso (elemental) emerge del mar, volando en espiral a gran velocidad sobre el barco, generando enormes olas. La cámara dinámica sigue al dragón a través de la tormenta, revolcándose en las olas gigantes y alejándose.
+```
+
+### No. 47: Armadura de personaje femenino y vuelo
+
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 102
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/102_generated_19_1777_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100210-hcxz6-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Toma 1 (8 segundos) Un personaje femenino poderoso. Plano gran angular de calidad cinematográfica, ella vuela sobre un mar de nubes doradas, la luz cálida anaranjada del atardecer ilumina la niebla, una escena majestosa y dramática. El viento sopla su cabello y ropa, mostrando un alto realismo físico. Piezas de armadura mecánica futurista y aerodinámica vienen volando desde todas direcciones — pechera, hombreras, brazales, grebas y un casco brillante — volando a alta velocidad, arrastrando rastros de luz brillante y gases de escape azulados de los motores. Cada pieza se ajusta magnéticamente y se bloquea en su cuerpo con una precisión mecánica satisfactoria e inercia visible, las superficies cromadas y de fibra de carbono mate reflejan la luz dorada del sol. A medida que se completa el ensamblaje, la cámara gira dinámicamente alrededor de ella, terminando finalmente con un primer plano, una máscara digital se desliza sobre su cara, sus ojos brillan con energía azul, lista para liberar una onda de luz que dispersa las nubes circundantes. Texturas de alta fidelidad, rasguños mínimos en el metal, desenfoque de movimiento realista y destellos de lente cinematográficos. Toma 2 (4 segundos) El personaje continúa volando, atravesando las nubes, su nuevo traje de batalla futurista emite un brillo de energía interior. La cámara mantiene el ángulo bajo de perspectiva heroica, capturando las sombras de contacto complejas entre las placas de armadura. Cuando rompe la barrera del sonido, cristales de hielo y partículas de polvo se arrastran detrás de ella, el cielo cambia de dorado a un púrpura crepuscular profundo. Los efectos físicos reales del viento contra la superficie dura del traje son claramente visibles. La última toma es su mano extendida hacia el sol, ondas de energía ondulando en los brazales.
+
+#### Prompt
+
+```text
+Toma 1 (8 segundos) Un personaje femenino poderoso. Plano gran angular de calidad cinematográfica, ella vuela sobre un mar de nubes doradas, la luz cálida anaranjada del atardecer ilumina la niebla, una escena majestosa y dramática. El viento sopla su cabello y ropa, mostrando un alto realismo físico. Piezas de armadura mecánica futurista y aerodinámica vienen volando desde todas direcciones — pechera, hombreras, brazales, grebas y un casco brillante — volando a alta velocidad, arrastrando rastros de luz brillante y gases de escape azulados de los motores. Cada pieza se ajusta magnéticamente y se bloquea en su cuerpo con una precisión mecánica satisfactoria e inercia visible, las superficies cromadas y de fibra de carbono mate reflejan la luz dorada del sol. A medida que se completa el ensamblaje, la cámara gira dinámicamente alrededor de ella, terminando finalmente con un primer plano, una máscara digital se desliza sobre su cara, sus ojos brillan con energía azul, lista para liberar una onda de luz que dispersa las nubes circundantes. Texturas de alta fidelidad, rasguños mínimos en el metal, desenfoque de movimiento realista y destellos de lente cinematográficos. Toma 2 (4 segundos) El personaje continúa volando, atravesando las nubes, su nuevo traje de batalla futurista emite un brillo de energía interior. La cámara mantiene el ángulo bajo de perspectiva heroica, capturando las sombras de contacto complejas entre las placas de armadura. Cuando rompe la barrera del sonido, cristales de hielo y partículas de polvo se arrastran detrás de ella, el cielo cambia de dorado a un púrpura crepuscular profundo. Los efectos físicos reales del viento contra la superficie dura del traje son claramente visibles. La última toma es su mano extendida hacia el sol, ondas de energía ondulando en los brazales.
+```
+
+<a id="category-8"></a>
+
+### Atlas Generated I2V (27)
+
+### No. 48: Ensamblaje de Hamburguesa
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1254,15 +1039,15 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 #### Descripcion
 
-Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one...
+Anuncio premium de comida con movimiento cinético de cámara. Usa la referencia de ingredientes para construir una hamburguesa gourmet en el aire. Piezas de lechuga, tomate, cebolla, queso, carne y pan levitan una...
 
 #### Prompt
 
 ```text
-Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one by one, rotate elegantly, then snap together into a perfect hero burger with floating crumbs and dramatic studio lighting.
+Anuncio premium de comida con movimiento cinético de cámara. Usa la referencia de ingredientes para construir una hamburguesa gourmet en el aire. Piezas de lechuga, tomate, cebolla, queso, carne y pan levitan una por una, rotan elegantemente, y se unen en una hamburguesa perfecta con migas flotantes e iluminación de estudio dramática.
 ```
 
-### No. 61: Paper Typography
+### No. 49: Tipografía de Papel
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1274,35 +1059,15 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 
 #### Descripcion
 
-Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast rea...
+Animación de gráficos de movimiento impulsada por la composición de referencia. Transforma la obra de texto de referencia en una secuencia de títulos de papel artesanal. Las letras aparecen rítmicamente, proyectan sombras realistas y se deslizan por la pantalla con un elegante paralaje de cámara.
 
 #### Prompt
 
 ```text
-Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast realistic shadows, and slide across the screen with elegant camera parallax.
+Animación de gráficos de movimiento impulsada por la composición de referencia. Transforma la obra de texto de referencia en una secuencia de títulos de papel artesanal. Las letras aparecen rítmicamente, proyectan sombras realistas y se deslizan por la pantalla con un elegante paralaje de cámara.
 ```
 
-### No. 62: Logo Reveal
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 033
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/033_generated_05_i2v-05-logo-reveal.md)
-
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/919f0154-9f0d-44c4-a737-61eebb08f232.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric ...
-
-#### Prompt
-
-```text
-High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric light beams while the camera pushes in for a polished technology brand reveal.
-```
-
-### No. 63: Elegant Laundry Scene
+### No. 50: Elegante escena de lavandería
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1314,7 +1079,7 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 
 #### Descripcion
 
-Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
+Toma de cámara fija, una niña cuelga elegantemente la ropa para secar, después de terminar saca otra pieza de la cesta y agita la ropa vigorosamente.
 
 #### Prompt
 
@@ -1322,87 +1087,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
 ```
 
-### No. 64: Interactive Painting Character
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 062
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/062_generated_02_ur_002_interactive-painting-character.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093302-sxz6z-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and t...
-
-#### Prompt
-
-```text
-The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and takes a sip, then shows a satisfied expression. At this moment, footsteps are heard, and the character in the painting quickly puts the cola back in place. Then a Western cowboy picks up the cola from the cup and walks away. Finally, the camera pushes forward and the screen gradually becomes pure black background with only top lighting illuminating the canned cola. At the bottom of the screen, artistic subtitles and voiceover appear: 'Yikou Cola, a must-try!'
-```
-
-### No. 65: Victorian Street Scene
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 063
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/063_generated_03_ur_003_victorian-street-scene.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093303-w9hw2-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th ce...
-
-#### Prompt
-
-```text
-Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th century London. As she walks, a steam car drives by from the right side of the street, passing quickly by her side. The wind lifts the hem of her dress, and she looks shocked and quickly uses both hands to hold down her skirt. Background sound effects include footsteps, crowd sounds, car sounds, etc.
-```
-
-### No. 66: Magnetic Bow Product Showcase
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 064
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093307-wk6rq-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover...
-
-#### Prompt
-
-```text
-0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover 'Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 seconds: Close-up of silver magnetic clasp 'click' snapping together, then gently pulling apart, showing silky texture and convenience. Voiceover '단 1초 만에 잠그고, 최고의 스타일을 완성하세요!' 7-12 seconds: Quick scene switching: burgundy style pinned on coat collar, commuter vibe maxed out; pink style tied in ponytail, sweet girl going out; purple style tied on bag strap, niche and sophisticated; leopard print style hung on suit collar, spicy girl aura fully open. Voiceover '코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!' 13-15 seconds: Four butterfly bows displayed side by side, brand name 'chéri, 당신에게 즉각적인 아름다움을 선사합니다!'
-```
-
-### No. 67: Horror First-Person Exploration
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 065
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/065_generated_08_cs_006_horror-first-person-exploration.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093308-vkssl-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @i...
-
-#### Prompt
-
-```text
-Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @image3, right scene references @image4.
-```
-
-### No. 68: Martial Arts Combat Scene
+### No. 51: Escena de Combate de Artes Marciales
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1414,15 +1099,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 #### Descripcion
 
-Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
+Referencia @image1 @image2 personaje con lanza larga, @image3 @image4 personaje con espadas duales, imita los movimientos de @video1, luchando en el bosque de arces de @image5.
 
 #### Prompt
 
 ```text
-Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
+Referencia @image1 @image2 personaje con lanza larga, @image3 @image4 personaje con espadas duales, imita los movimientos de @video1, luchando en el bosque de arces de @image5.
 ```
 
-### No. 69: Car Commercial Cinematography
+### No. 52: Cinematografía de Comercial de Coche
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1434,15 +1119,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 #### Descripcion
 
-Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
+Referencia los movimientos de cámara y el ritmo de transición de escena del video 1, replica usando el supercoche rojo de la imagen 1.
 
 #### Prompt
 
 ```text
-Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
+Referencia los movimientos de cámara y el ritmo de transición de escena del video 1, replica usando el supercoche rojo de la imagen 1.
 ```
 
-### No. 70: Abstract Instant Noodles
+### No. 53: Fideos Instantáneos Abstractos
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1454,15 +1139,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 #### Descripcion
 
-The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
+El personaje de @image1 referencia los movimientos y cambios de expresión facial en @video1, mostrando comportamiento abstracto de comer fideos instantáneos.
 
 #### Prompt
 
 ```text
-The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
+El personaje de @image1 referencia los movimientos y cambios de expresión facial en @video1, mostrando comportamiento abstracto de comer fideos instantáneos.
 ```
 
-### No. 71: Childhood Seasons Documentary
+### No. 54: Documental de las Estaciones de la Infancia
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1474,95 +1159,15 @@ The character from @image1 references the movements and facial expression change
 
 #### Descripcion
 
-Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second he...
+Referencia el guión del storyboard del documental de @image1, referencia las divisiones de tomas, tipos de tomas, movimientos de cámara, elementos visuales y texto de @image1, crea una apertura curativa de 15 segundos sobre 'Las Cuatro Estaciones de la Infancia'.
 
 #### Prompt
 
 ```text
-Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second healing opening about 'Childhood Four Seasons'.
+Referencia el guión del storyboard del documental de @image1, referencia las divisiones de tomas, tipos de tomas, movimientos de cámara, elementos visuales y texto de @image1, crea una apertura curativa de 15 segundos sobre 'Las Cuatro Estaciones de la Infancia'.
 ```
 
-### No. 72: Donkey Motorcycle Stunt Ad
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 070
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093327-gn77n-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle...
-
-#### Prompt
-
-```text
-Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle rushing out of the barn, chickens beside are startled. Scene 2: Donkey rides motorcycle circling in sandy ground, first close-up of motorcycle tire, then cut to mid-air overhead shot of donkey riding motorcycle doing circling stunts, raising smoke. Scene 3: Background is snowy mountain shot, donkey rides the bike leaping from the hillside, advertising slogan appears behind the subject, through masking form (when donkey and motorcycle fly past) 'Inspire Creativity, Enrich Life' appears in the middle, finally as the motorcycle flies past, raising a cloud of dust.
-```
-
-### No. 73: Office Building Documentary
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 071
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/071_generated_29_av_002_office-building-documentary.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093329-t5fxx-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual...
-
-#### Prompt
-
-```text
-Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual style. The narrator's voice tone references @video1, filming 'Office Building Ecology', presenting the operations of different enterprises in the building, combined with narration explaining how the office building becomes a vibrant commercial ecosystem.
-```
-
-### No. 74: 迦梨女神神话写实主义视频提示词，适用于 Seedance 2.0
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 072
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/072_generated_05_1128_seedance-2-0.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095907-l9jhf-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
-
-#### Prompt
-
-```text
-夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
-```
-
-### No. 75: 高速魔法森林之旅
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 073
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/073_generated_08_1143_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095910-h55bn-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
-
-#### Prompt
-
-```text
-高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
-```
-
-### No. 76: 总监级运镜提示词
+### No. 55: Indicaciones de movimiento de cámara de nivel de director
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1574,15 +1179,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-@Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
+@Image1@Image2@Image3, una toma de seguimiento continua que sigue a un corredor desde la calle subiendo escaleras, atravesando pasillos, entrando al techo, y finalmente contemplando toda la ciudad.
 
 #### Prompt
 
 ```text
-@Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
+@Image1@Image2@Image3, una toma de seguimiento continua que sigue a un corredor desde la calle subiendo escaleras, atravesando pasillos, entrando al techo, y finalmente contemplando toda la ciudad.
 ```
 
-### No. 77: 电影级拉力赛车场景
+### No. 56: Escena de carrera de rally de nivel cinematográfico
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1594,15 +1199,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
+Una escena de carrera cinematográfica. En Europa a principios de la década de 2000, nevando, acción cinematográfica, un auto de rally antiguo.
 
 #### Prompt
 
 ```text
-一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
+Una escena de carrera cinematográfica. En Europa a principios de la década de 2000, nevando, acción cinematográfica, un auto de rally antiguo.
 ```
 
-### No. 78: 邵氏风格打斗场面
+### No. 57: Escena de combate al estilo Shaw Brothers
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1614,15 +1219,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
+Crear una escena de combate entre dos personas, esforzándose por presentar el estilo de las películas de Shaw Brothers. La acción debe ser fluida e intensa, manteniendo al mismo tiempo la consistencia de los personajes.
 
 #### Prompt
 
 ```text
-创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
+Crear una escena de combate entre dos personas, esforzándose por presentar el estilo de las películas de Shaw Brothers. La acción debe ser fluida e intensa, manteniendo al mismo tiempo la consistencia de los personajes.
 ```
 
-### No. 79: 阿努比斯挠痒痒场景
+### No. 58: Escena de cosquillas de Anubis
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1634,15 +1239,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis)...
+En una escena con estilo de animación 3D china moderna, el poderoso dios jackal Anubis está sentado en su trono con las manos detrás de la cabeza. Una persona se acerca a él. Anubis le dice a esa persona en un tono casual y aburrido que necesita hacerlo reír. Esa persona sonríe ampliamente y extiende la mano para hacer cosquillas en la axila de Anubis, lo cual hace que Anubis se vea confundido. La cámara se acerca, mostrando un primer plano de los dedos de esa persona moviéndose en la axila de Anubis.
 
 #### Prompt
 
 ```text
-在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis) 腋窝里摆动的手指。阿努比斯 (Anubis) 立刻咧嘴一笑，闭上眼睛，发出一声低沉、压抑的笑声，因为他怕痒。那个人继续挠阿努比斯 (Anubis) 的腋窝，阿努比斯 (Anubis) 闭着眼睛不停地咯咯笑，然后抱住自己以保护腋窝。笑了好几声后，阿努比斯 (Anubis) 告诉那个人他做得很好，可以离开了。
+En una escena con estilo de animación 3D china moderna, el poderoso dios jackal Anubis está sentado en su trono con las manos detrás de la cabeza. Una persona se acerca a él. Anubis le dice a esa persona en un tono casual y aburrido que necesita hacerlo reír. Esa persona sonríe ampliamente y extiende la mano para hacer cosquillas en la axila de Anubis, lo cual hace que Anubis se vea confundido. La cámara se acerca, mostrando un primer plano de los dedos de esa persona moviéndose en la axila de Anubis. Anubis inmediatamente sonríe ampliamente, cierra los ojos y emite una risa baja y ahogada porque es cosquilloso. Esa persona continúa haciendo cosquillas en la axila de Anubis, quien no deja de reír con los ojos cerrados, y luego se abraza a sí mismo para proteger sus axilas. Después de varias risas, Anubis le dice a esa persona que lo hizo muy bien y que puede irse.
 ```
 
-### No. 80: Turbulent Sea Galleon 电影级提示词
+### No. 59: Galeón en Mar Turbulento Indicación de Nivel Cinematográfico
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1654,15 +1259,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰...
+Una luna nueva emite una luz pálida, debajo hay un mar verde esmeralda tormentoso. Un majestuoso galeón del siglo XVIII navega rompiendo las olas, sus velas infladas. La cámara se lanza en picado desde las nubes de tormenta como un halcón, pasando rozando la superficie del mar agitado. La popa ornamentada del barco se vuelve enorme, hermosos vitrales enmarcan el camarote del capitán. A medida que el barco se sacude violentamente, la cámara pasa sin costuras a través de un cristal, entrando en un camarín inesperadamente tranquilo con luz de velas parpadeante. Un loro guacamayo colorido duerme tranquilamente en una percha de bronce suspendida, sin ser perturbado por la tormenta...
 
 #### Prompt
 
 ```text
-一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰。镜头滑过这只鸟，然后无缝地穿过一个侧舷窗离开。它高高地掠过夜空，巨大的船只在水面上缩小成一个玩具。海浪拍打的声音逐渐消失，归于寂静。
+Una luna nueva emite una luz pálida, debajo hay un mar verde esmeralda tormentoso. Un majestuoso galeón del siglo XVIII navega rompiendo las olas, sus velas infladas. La cámara se lanza en picado desde las nubes de tormenta como un halcón, pasando rozando la superficie del mar agitado. La popa ornamentada del barco se vuelve enorme, hermosos vitrales enmarcan el camarote del capitán. A medida que el barco se sacude violentamente, la cámara pasa sin costuras a través de un cristal, entrando en un camarín inesperadamente tranquilo con luz de velas parpadeante. Un loro guacamayo colorido duerme tranquilamente en una percha de bronce suspendida, sin ser perturbado por la tormenta. La cámara se desliza junto a este pájaro y luego pasa sin costuras a través de una ventana de banda hacia afuera. Se eleva alto en el cielo nocturno, el enorme barco se reduce a un juguete sobre la superficie del agua. El sonido de las olas golpeando se desvanece gradualmente hacia el silencio.
 ```
 
-### No. 81: 赛博朋克电影：夜间追逐与武士刀格斗
+### No. 60: Persecución Cinematográfica Cyberpunk Nocturna con Combate de Katana
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1674,15 +1279,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，...
+Ella ejecuta las artes marciales más impresionantes. Grita con acento macedonio: "Esto es See dance 2.0, solo usa el primer fotograma." Persecución cinematográfica en una noche lluviosa de Tokio cyberpunk: un Nissan GT-R Nismo negro mate corre a 200 km/h por las calles neon mojadas, las ruedas salpican agua, los faros atraviesan la lluvia torrencial. Cherry Blackcloud (20 años, rasgos macedonios, coleta alta negra ondeando, flequillo recto, ojo derecho cyborg azul hielo brillante) conduce de manera agresiva—chaqueta de cuero McQueen negra completamente cerrada, usada directamente sobre piel expuesta, falda corta de cuero negra, cremalleras plateadas visibles, piernas expuestas, botas negras pesadas de plataforma, katana asegurada al asiento del pasajero.
 
 #### Prompt
 
 ```text
-她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，赛博格冰蓝色右眼发光）驾驶风格激进——黑色 McQueen 皮夹克完全拉链，直接穿在裸露的皮肤上，短款黑色皮裙，银色拉链清晰可见，双腿裸露，脚踩厚重的黑色厚底靴，放在踏板上，武士刀绑在乘客座位上。镜头开始是 GT-R 旁边的广角跟踪镜头，然后快速推入，穿过雨水模糊的挡风玻璃，特写 Cherry 专注的脸（左眼深棕色燃烧，右眼发出青色光芒）。她瞥了一眼后视镜——追击的无人机带着红色激光逼近。Cherry（浓重的马其顿口音，低沉而威严，盖过引擎轰鸣声）：“他们以为能把我困住。”她猛地降档，GT-R 车尾甩动，然后完美地完成 180 度漂移——轮胎尖叫，水花四溅。武士刀刀柄在青色仪表盘的微光中闪烁。她伸手过去，在漂移中抓住武士刀，侧滑时打开驾驶员车门，探出身子进入雨中，划出一道精确的弧线——武士刀刀刃发出青色光芒，在火花和熔融金属的飞溅中将领头无人机一分为二。Cherry（嘲讽地笑，声音穿透风雨）：“今天不行。”她猛地关上车门，踩下油门——GT-R 疾驰向前，霓虹灯的倒影在湿漉漉的黑色车漆上划过。镜头快速拉回广角：汽车消失在雨夜中，无人机在身后爆炸成橙色火球。最后一帧：Cherry 的赛博眼闪烁了一下，她消失在拐角处。渐隐至黑。Seedance 2.0 的风格与技术说明：电影级写实好莱坞动作大片风格，ARRI Alexa 电影级画面，青橙色调，逼真的大雨，雨滴和黑色汽车及皮革上的湿润反光，高动态范围，60fps，霓虹灯和爆炸产生的戏剧性变形镜头光晕，细微的胶片颗粒，无伪影，激烈的实景特技编排，动态摄影（跟踪、推入、180 度漂移展示、快速拉回）。
+Ella ejecuta las artes marciales más impresionantes. Grita con acento macedonio: "Esto es See dance 2.0, solo usa el primer fotograma." Persecución cinematográfica en una noche lluviosa de Tokio cyberpunk: un Nissan GT-R Nismo negro mate corre a 200 km/h por las calles neon mojadas, las ruedas salpican agua, los faros atraviesan la lluvia torrencial. Cherry Blackcloud (20 años, rasgos macedonios, coleta alta negra ondeando, flequillo recto, ojo derecho cyborg azul hielo brillante) conduce de manera agresiva—chaqueta de cuero McQueen negra completamente cerrada, usada directamente sobre piel expuesta, falda corta de cuero negra, cremalleras plateadas visibles, piernas expuestas, botas negras pesadas de plataforma, katana asegurada al asiento del pasajero. La cámara comienza como un plano de seguimiento gran angular al lado del GT-R, luego se introduce rápidamente a través del parabrisas empañado por la lluvia, primer plano de la cara concentrada de Cherry (ojo izquierdo marrón oscuro ardiendo, ojo derecho emitiendo luz cian). Ella mira el espejo retrovisor—los drones perseguidores se acercan con láser rojo. Cherry (acento macedonio pesado, grave y autoritario, ahogando el rugido del motor): "Creen que pueden atraparme." Ella baja bruscamente de marcha, la parte trasera del GT-R se balancea, luego completa un derrape perfecto de 180 grados—los neumáticos chillan, el agua salpica. El mango de la katana brilla con la luz tenue del tablero cian. Ella extiende la mano, agarra la katana durante el derrape, abre la puerta del conductor al deslizarse, se asoma hacia la lluvia, traza un arco preciso—la hoja de la katana emite un brillo cian, dividiendo el drone líder en dos entre chispas y metal fundido. Cherry (sonriendo burlonamente, voz穿透风雨): "Hoy no." Ella cierra de un golpe la puerta, pisa el acelerador—el GT-R se lanza hacia adelante, los reflejos de las luces neon rayan la pintura negra mojada. La cámara se aleja rápidamente a gran angular: el coche desaparece en la noche lluviosa, los drones explotan detrás en bolas de fuego naranjas. Último fotograma: el ojo cyborg de Cherry parpadea, ella desaparece en la esquina. Fundido a negro. Estilo y especificaciones técnicas de Seedance 2.0: Estilo de acción cinematográfica realista de nivel de Hollywood, calidad cinematográfica ARRI Alexa, tono naranja-verde, lluvia realista intensa, reflejos húmedos en coches negros y cuero, alto rango dinámico, 60fps, destellos de lente dramáticos de luces neon y explosiones, grano de película sutil, sin artefactos, coreografía de acrobacias reales intensas, cinematografía dinámica (seguimiento, introducción, demostración de derrape de 180 grados, alejamiento rápido).
 ```
 
-### No. 82: 星际巡洋舰追逐与零重力内部场景
+### No. 61: Persecución de Crucero Estelar y Escena Interior de Gravedad Cero
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1694,15 +1299,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。...
+Un panorama interestelar vibrante, enmarcado por nebulosas moradas giratorias. Un Crucero Estelar plateado y aerodinámico navega silenciosamente en el vacío cósmico. La cámara se lanza hacia adelante a la velocidad de la luz, superando rápidamente la nave. Las estructuras geométricas luminosas del Crucero se vuelven enormes, una ventana de observación panorámica entra en vista. La cámara se sincroniza con la increíble velocidad de la nave, pasando sin costuras a través de aluminio transparente. En el tranquilo salón de gravedad cero, un niño flota en el aire, dibujando suavemente en una tableta digital bajo la luz ambiental de las estrellas. La cámara flota junto al niño, a través de la ventana de observación opuesta.
 
 #### Prompt
 
 ```text
-一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。它向上掠过，展现出飞船在群星映衬下逐渐缩小的宏伟规模。一声深沉的次低音嗡鸣声逐渐消失，归于寂静。
+Un panorama interestelar vibrante, enmarcado por nebulosas moradas giratorias. Un Crucero Estelar plateado y aerodinámico navega silenciosamente en el vacío cósmico. La cámara se lanza hacia adelante a la velocidad de la luz, superando rápidamente la nave. Las estructuras geométricas luminosas del Crucero se vuelven enormes, una ventana de observación panorámica entra en vista. La cámara se sincroniza con la increíble velocidad de la nave, pasando sin costuras a través de aluminio transparente. En el tranquilo salón de gravedad cero, un niño flota en el aire, dibujando suavemente en una tableta digital bajo la luz ambiental de las estrellas. La cámara flota junto al niño, a través de la ventana de observación opuesta. Se eleva hacia arriba, mostrando la escala majestuosa de la nave reduciéndose contra las estrellas. Un zumbido grave de sub-bajo se desvanece gradualmente hacia el silencio.
 ```
 
-### No. 83: 多角色机舱对话场景
+### No. 62: Escena de Diálogo en Cabina con Múltiples Personajes
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1714,55 +1319,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image...
+Los números en 【@Image 1】 representan números de fila. Estos números son solo de referencia y deben eliminarse en el video. Todo el contenido de referencia debe preservar 100% su estilo artístico y características de personaje. Personajes de diferentes estilos artísticos entran y se sientan en sus lugares respectivos. 【@Image 2】 se sienta en el asiento izquierdo de la fila 1, ella dice felizmente: "Mi asiento es 1A." 【@Image 3】 se sienta en el asiento derecho de la fila 2, ella dice tristemente en japonés: "Mi asiento es 2C." 【@Image...
 
 #### Prompt
 
 ```text
-【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image 4】坐在第 3 排的右边座位上，她用普通话害怕地说：“我的座位是 3B。” 【@Image 5】坐在第 4 排的左边座位上，她用西班牙语生气地说：“我的座位是 4D。” 【@Image 6】坐在第 5 排的左边座位上，她用粤语厌恶地说：“我的座位是 5A。” 【@Image 7】坐在第 6 排的右边座位上，她用韩语疯狂地喊道：“我的座位是 6D。” 固定机位。一个连续镜头，角色们依次走进来并入座。
+Los números en 【@Image 1】 representan números de fila. Estos números son solo de referencia y deben eliminarse en el video. Todo el contenido de referencia debe preservar 100% su estilo artístico y características de personaje. Personajes de diferentes estilos artísticos entran y se sientan en sus lugares respectivos. 【@Image 2】 se sienta en el asiento izquierdo de la fila 1, ella dice felizmente: "Mi asiento es 1A." 【@Image 3】 se sienta en el asiento derecho de la fila 2, ella dice tristemente en japonés: "Mi asiento es 2C." 【@Image 4】 se sienta en el asiento derecho de la fila 3, ella dice temerosa en mandarín: "Mi asiento es 3B." 【@Image 5】 se sienta en el asiento izquierdo de la fila 4, ella dice enojada en español: "Mi asiento es 4D." 【@Image 6】 se sienta en el asiento izquierdo de la fila 5, ella dice con disgusto en cantonés: "Mi asiento es 5A." 【@Image 7】 se sienta en el asiento derecho de la fila 6, ella grita locamente en coreano: "Mi asiento es 6D." Cámara fija. Un plano continuo donde los personajes entran uno tras otro y toman sus asientos.
 ```
 
-### No. 84: 高端商业广告：AURORA FIZZ
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 084
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/084_generated_01_1386_aurora-fizz.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100148-2dx6l-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核...
-
-#### Prompt
-
-```text
-高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核心主体、底部环）。 视觉效果： 发出清脆的嘶嘶声。冰冷的蒸汽向外溢出。 在浮动的罐身段之间，鲜艳的柠檬和青柠切片凭空出现 — 伴随着凭空形成的闪亮气泡。 00: 04 – 00: 07 | 气泡升腾时刻 动作： 时间凝固 — 悬浮的优雅。 视觉效果： 柑橘切片在失重状态下缓慢旋转，气泡流在无形的液体空间中向上升腾。 镜头以流畅的电影运镜轨道滑过。 亮点在冷凝水珠上闪烁 — 每个气泡都像钻石一样捕捉着光线。 00: 07 – 00: 08 | 能量封存 动作： 罐身像磁铁般瞬间合拢。 视觉效果： 发出清脆的“噗嗤”声。 柑橘和气泡瞬间被封存在内。 一股清新的雾气脉冲向外散发。 00: 08 – 00: 10 | 清爽退场 动作： 罐身旋转至最高速度，向上飞出画面。 视觉效果： 背景变为明亮清爽的渐变色 — 准备无缝循环。
-```
-
-### No. 85: 惊涛骇浪中的沉船电影场景
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 085
-- **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/085_generated_02_1390_case.md)
-
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100149-m97c6-0.mp4" controls muted playsinline width="720"></video>
-
-#### Descripcion
-
-第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
-
-#### Prompt
-
-```text
-第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
-```
-
-### No. 86: 贫民窟里的 BMX 骑手
+### No. 63: Jinete de BMX en la favela
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1774,15 +1339,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。...
+Una mujer brasileña de veintitantos años, con cabello rizado oscuro recogido bajo un sombrero de pescador blanco estructurado, vestida con una chaqueta de trabajo oversized negra a juego, pantalones negros holgados y botas blancas gruesas, conduce una bicicleta BMX de cromo brillante a través de una comunidad densamente poblada estilo favela en una ladera con callejones estrechos de piedra y paredes pintadas. En el segundo 2, ella sube un tramo de escaleras, subiendo sesenta escalones de piedra en diez contactos consecutivos de neumáticos, su ritmo claramente visible a través de las sacudidas de la cámara, su cuerpo absorbiendo los impactos con una facilidad experta y relajada.
 
 #### Prompt
 
 ```text
-一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。到达顶部后，她立即沿着彩绘墙面进行了一次贴墙骑行，车轮垂直地在壁画上运行，下方宽阔的镜头中可见楼梯。摄像机在攀爬过程中从下方追逐，然后切换到侧面固定角度拍摄贴墙骑行，壁画的色彩在高速中变得模糊。她从贴墙骑行过渡到两个屋顶之间的空隙，高速越过，并继续下降，摄像机从上方捕捉到铬色自行车穿梭于小巷几何结构中的画面。深勃艮第色、铬色 BMX、彩绘贫民窟墙壁、楼梯垂直攀爬、爬楼节奏、壁画贴墙骑行、屋顶间隙过渡、山坡下降航拍、电影颗粒感、4K。
+Una mujer brasileña de veintitantos años, con cabello rizado oscuro recogido bajo un sombrero de pescador blanco estructurado, vestida con una chaqueta de trabajo oversized negra a juego, pantalones negros holgados y botas blancas gruesas, conduce una bicicleta BMX de cromo brillante a través de una comunidad densamente poblada estilo favela en una ladera con callejones estrechos de piedra y paredes pintadas. En el segundo 2, ella sube un tramo de escaleras, subiendo sesenta escalones de piedra en diez contactos consecutivos de neumáticos, su ritmo claramente visible a través de las sacudidas de la cámara, su cuerpo absorbiendo los impactos con una facilidad experta y relajada. Una vez arriba, inmediatamente realiza un paseo pegado a la pared a lo largo de la pared pintada, con las ruedas funcionando verticalmente sobre el mural, las escaleras visibles debajo en una toma amplia. La cámara la persigue desde abajo durante la escalada y luego cambia a un ángulo fijo lateral para el paseo pegado a la pared, los colores del mural se vuelven borrosos a alta velocidad. Ella transita del paseo pegado a la pared al espacio entre dos tejados, saltando a alta velocidad, y continúa bajando, la cámara captura desde arriba la bicicleta de cromo brillante zigzagueando a través de la geometría de los callejones. Borgoña oscuro, BMX de cromo, paredes de favela pintadas, escalada vertical de escaleras, ritmo de subir escaleras, paseo pegado al mural, transición entre tejados, descenso de ladera desde drone, grano cinematográfico, 4K.
 ```
 
-### No. 87: 乐高探险家被北极熊追赶
+### No. 64: Explorador de Lego perseguido por un oso polar
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1794,15 +1359,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
+Un minifigurante explorador de Lego conduce un mini snowmobile a toda velocidad a través de un paisaje nevado, perseguido por un enorme oso polar rugiente, la nieve salpica dramáticamente, el aire está lleno de una niebla helada, contraluz cinematográfico intenso,镜头倾斜动态, estilo de acción de gran película, movimiento exagerado de estilo cómic, textura plástica de Lego clara, tonos fríos dramáticos.
 
 #### Prompt
 
 ```text
-乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
+Un minifigurante explorador de Lego conduce un mini snowmobile a toda velocidad a través de un paisaje nevado, perseguido por un enorme oso polar rugiente, la nieve salpica dramáticamente, el aire está lleno de una niebla helada, contraluz cinematográfico intenso, cámara inclinada dinámica, estilo de acción de gran película, movimiento exagerado de estilo cómic, textura plástica de Lego clara, tonos fríos dramáticos.
 ```
 
-### No. 88: Seedance 2.0 提示词，用于幽默动漫场景
+### No. 65: Seedance 2.0 prompt para escena de anime humorística
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1814,15 +1379,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
+Crea una escena de anime: un dragón musculoso se yergue amenazante ante un caballero humano. El caballero saca un plumero y le hace cosquillas en el vientre al dragón. El dragón es cosquilloso y inmediatamente suelta una risita grave y fuerte. Al final de la escena, el caballero está haciendo cosquillas en el vientre del dragón con el plumero, mientras el dragón sonríe tonamente con una gran sonrisa y suelta risitas.
 
 #### Prompt
 
 ```text
-创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
+Crea una escena de anime: un dragón musculoso se yergue amenazante ante un caballero humano. El caballero saca un plumero y le hace cosquillas en el vientre al dragón. El dragón es cosquilloso y inmediatamente suelta una risita grave y fuerte. Al final de la escena, el caballero está haciendo cosquillas en el vientre del dragón con el plumero, mientras el dragón sonríe tonamente con una gran sonrisa y suelta risitas.
 ```
 
-### No. 89: 逃离巨型怪物（奥术风格）
+### No. 66: Escapar de un monstruo gigante (estilo arcanista)
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1834,15 +1399,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
+Genera un video de una escena de carrera, con un monstruo gigante del tamaño de un edificio de 100 pisos persiguiéndote, usando estilo arcanista.
 
 #### Prompt
 
 ```text
-生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
+Genera un video de una escena de carrera, con un monstruo gigante del tamaño de un edificio de 100 pisos persiguiéndote, usando estilo arcanista.
 ```
 
-### No. 90: 未来感十足的兰博基尼组装商业广告提示
+### No. 67: Prompt de comercial de ensamblaje de Lamborghini con estilo futurista
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1854,15 +1419,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在...
+En un展厅 digital oscuro e iluminado, se desarrolla una secuencia épica de ensamblaje de automóviles futuros. Un Lamborghini blanco de alto rendimiento comienza a tomar forma en el centro de un escenario negro reflectante. El entorno es minimalista, limpio y dramático, con potentes reflectores que atraviesan la oscuridad y brillan en el suelo pulido. La secuencia comienza con primeros planos de piezas mecánicas brillantes flotando en el aire. Las piezas del motor aparecen primero, los pistones y engranajes giran lentamente, como si flotaran en estado de gravedad cero. Cada pieza se mueve suavemente hacia su posición, emitiendo clics mecánicos precisos que se conectan. Las piezas de la transmisión se deslizan, la electrónica brilla con una energía azul suave, los cables luminosos atraviesan el chasis. A medida que se ensamblan más piezas, la cámara gira lentamente alrededor de la estructura. Los paneles de la carroza de fibra de carbono descienden y se alinean perfectamente con el bastidor. Las ruedas giran suavemente y luego se bloquean en los ejes. Las luces del tablero se iluminan, mostrando pantallas digitales elegantes. Un brillo brillante marca la conexión de cada pieza. Cuando el vehículo toma forma, mallas holográficas sutiles y líneas de UI aparecen brevemente. La luz enfatiza las superficies blancas brillantes y las curvas aerodinámicas afiladas. Cuando el último panel se bloquea en su lugar, los faros emitien una potente luz blanca. El motor arranca, emitiendo un rugido profundo y cinematográfico. La cámara se aleja y comienza una toma suave de 360 grados alrededor del Lamborghini completado, mostrando todo el vehículo bajo iluminación dramática. Las ondas reflejan en el suelo, los haces barren la carroza, resaltando cada contorno. Iluminación de nivel de cine, exhibición de productos elegante, reflejos de alto contraste, atmósfera futurista, ensamblaje mecánico ultra detallado, revelación épica, movimientos de cámara dramáticos, estilo de publicidad de automóviles de alta gama.
 
 #### Prompt
 
 ```text
-在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在一起。变速器部件滑入，电子设备亮起柔和的蓝色能量，发光的电缆穿过底盘。 随着更多部件的组装，摄像机缓慢地围绕着结构移动。碳纤维车身面板下降并与车架完美对齐。车轮轻轻旋转，然后锁定在车轴上。仪表盘灯亮起，显示出优雅的数字显示。 明亮的闪光标志着每个连接的完成。当车辆成形时，微妙的全息网格和 UI 线条短暂出现。灯光强调了光亮的白色表面和锐利的空气动力学曲线。 当最后一块面板锁定到位时，前灯发出强大的白色光芒。发动机启动，发出深沉、电影般的轰鸣声。 摄像机后拉，开始围绕已完成的兰博基尼进行平稳的 360 度环绕拍摄，在戏剧性的灯光下展现出整辆车。反射在地面上荡漾，光束扫过车身，突显出每一个轮廓。 电影级灯光，时尚的产品展示，高对比度反射，未来主义氛围，超详细的机械组装，史诗般的揭示，戏剧性的摄像机运动，高端汽车广告风格。
+En un展厅 digital oscuro e iluminado, se desarrolla una secuencia épica de ensamblaje de automóviles futuros. Un Lamborghini blanco de alto rendimiento comienza a tomar forma en el centro de un escenario negro reflectante. El entorno es minimalista, limpio y dramático, con potentes reflectores que atraviesan la oscuridad y brillan en el suelo pulido. La secuencia comienza con primeros planos de piezas mecánicas brillantes flotando en el aire. Las piezas del motor aparecen primero, los pistones y engranajes giran lentamente, como si flotaran en estado de gravedad cero. Cada pieza se mueve suavemente hacia su posición, emitiendo clics mecánicos precisos que se conectan. Las piezas de la transmisión se deslizan, la electrónica brilla con una energía azul suave, los cables luminosos atraviesan el chasis. A medida que se ensamblan más piezas, la cámara gira lentamente alrededor de la estructura. Los paneles de la carroza de fibra de carbono descienden y se alinean perfectamente con el bastidor. Las ruedas giran suavemente y luego se bloquean en los ejes. Las luces del tablero se iluminan, mostrando pantallas digitales elegantes. Un brillo brillante marca la conexión de cada pieza. Cuando el vehículo toma forma, mallas holográficas sutiles y líneas de UI aparecen brevemente. La luz enfatiza las superficies blancas brillantes y las curvas aerodinámicas afiladas. Cuando el último panel se bloquea en su lugar, los faros emitien una potente luz blanca. El motor arranca, emitiendo un rugido profundo y cinematográfico. La cámara se aleja y comienza una toma suave de 360 grados alrededor del Lamborghini completado, mostrando todo el vehículo bajo iluminación dramática. Las ondas reflejan en el suelo, los haces barren la carroza, resaltando cada contorno. Iluminación de nivel de cine, exhibición de productos elegante, reflejos de alto contraste, atmósfera futurista, ensamblaje mecánico ultra detallado, revelación épica, movimientos de cámara dramáticos, estilo de publicidad de automóviles de alta gama.
 ```
 
-### No. 91: 巨龙围攻古堡
+### No. 68: Asedio del dragón antiguo al castillo
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1874,15 +1439,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
+Un antiguo castillo de piedra se encuentra en un acantilado, con nubes oscuras, y un dragón enorme revolotea sobre él. El dragón se lanza hacia el castillo, escupiendo llamas ardientes, mientras los soldados disparan flechas y las catapultas lanzan proyectiles en llamas. Filmado desde un ángulo bajo del castillo.
 
 #### Prompt
 
 ```text
-一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
+Un antiguo castillo de piedra se encuentra en un acantilado, con nubes oscuras, y un dragón enorme revolotea sobre él. El dragón se lanza hacia el castillo, escupiendo llamas ardientes, mientras los soldados disparan flechas y las catapultas lanzan proyectiles en llamas. Filmado desde un ángulo bajo del castillo.
 ```
 
-### No. 92: Seedance 2.0 低空飞行器飞行视频提示
+### No. 69: Prompt de video de vuelo de vehículo de baja altitud Seedance 2.0
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1894,15 +1459,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
+Perspectiva en primera persona pilotando una avioneta a baja altitud, volando sobre montañas, bosques o línea costera — fuerte ruido del viento y experiencia visual inmersiva, tomas que se mueven rápidamente hacia adelante, movimientos de cámara dinámicos, luz dorada dramática a contraluz, gradación de color de nivel de cine, atmósfera emocionante y estimulante, movimiento ultra fluido, resolución 4K, altamente detallado, sin superposición de texto.
 
 #### Prompt
 
 ```text
-第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
+Perspectiva en primera persona pilotando una avioneta a baja altitud, volando sobre montañas, bosques o línea costera — fuerte ruido del viento y experiencia visual inmersiva, tomas que se mueven rápidamente hacia adelante, movimientos de cámara dinámicos, luz dorada dramática a contraluz, gradación de color de nivel de cine, atmósfera emocionante y estimulante, movimiento ultra fluido, resolución 4K, altamente detallado, sin superposición de texto.
 ```
 
-### No. 93: 暖心森林喜剧视频提示
+### No. 70: Prompt de video de comedia cálida en bosque
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1914,15 +1479,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
+Formato: 15 segundos / 6 tomas / Comedia cálida en bosque / Diálogo breve Estilo: Animación de bosque cinematográfica surrealista, cálido atardecer dorado filtrándose a través de grietas en la corteza de los árboles, interior de troncos cubierto de musgo, acogedor y confortable
 
 #### Prompt
 
 ```text
-格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
+Formato: 15 segundos / 6 tomas / Comedia cálida en bosque / Diálogo breve Estilo: Animación de bosque cinematográfica surrealista, cálido atardecer dorado filtrándose a través de grietas en la corteza de los árboles, interior de troncos cubierto de musgo, acogedor y confortable
 ```
 
-### No. 94: 马赛村庄的混乱
+### No. 71: Caos en la aldea Maasai
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1934,15 +1499,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
+Un enorme babuino blindado irrumpe en una aldea Maasai en llamas, agarra a un guerrero Maasai y lo arroja a una choza en fuego. Los guerreros Maasai huyen despavoridos entre un mar de fuego y escombros.
 
 #### Prompt
 
 ```text
-一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
+Un enorme babuino blindado irrumpe en una aldea Maasai en llamas, agarra a un guerrero Maasai y lo arroja a una choza en fuego. Los guerreros Maasai huyen despavoridos entre un mar de fuego y escombros.
 ```
 
-### No. 95: 重庆的哥斯拉巨型白虎斑猫
+### No. 72: Godzilla Cat atigrado blanco gigante de Chongqing
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1954,15 +1519,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：...
+【Estilo】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。
 
 #### Prompt
 
 ```text
-【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。
+【Estilo】Pseudodocumental, perspectiva de Vlog telefónico, CG surrealista combinado con escenas reales, calidad 8K, simulación física perfecta del pelaje. 【Duración】15 segundos 【Escena】Cueva de Hongya de Chongqing o intersección繁忙 de un puente interchange (con sensación de ciudad mágica 8D). [00:00-00:05] Toma 1: Maravilla visual (revelación). La pantalla muestra una calle urbana concurrida. La cámara se eleva, revelando un**gato atigrado blanco del tamaño de Godzilla**atascado entre dos rascacielos. Acción: El megagato está atascado por ser demasiado gordo, agitando巨大的 garras con impotencia, intentando conmemprarse. Detalles: El pelaje del gato es claramente visible bajo el sol, las enormes almohadillas presionan contra la fachada de vidrio, deformando el vidrio. [000:05-00:10] Toma 2: Interacción absurda (interacción). La cámara cambia a perspectiva desde el suelo. Las calles tienen tráfico constante, los semáforos parpadean. El megagato baja la cabeza, un enorme rostro felino se acerca al suelo, oliendo con curiosidad un autobús que espera en el rojo. Acción: El conductor del autobús extiende la mano tranquilamente, acariciando la nariz del megagato. El gato estornuda, instantáneamente soplando las hojas de la acera y los sombreros de los peatones (efecto de viento). [00:10-00:15] Toma 3: Final meme (toque final). El megagato finalmente se abre paso entre los edificios, sentándose en un puente que cruza el río, causando que la superficie del puente se hunda ligeramente (retroalimentación física). Narrativa: Se acuesta perezosamente, comenzando a arreglarse el pelaje, bloqueando toda la hora pico de la tarde. La cámara finalmente se enfoca en sus grandes ojos inocentes.
 ```
 
-### No. 96: 持续一镜到底的灾难片写实主义
+### No. 73: Realismo de película de desastres en un solo plano continuo
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1974,15 +1539,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到...
+Un técnico de emergencias solitario con un chaleco salvavidas naranja, de pie sobre el techo destruido de un museo en una capital europea inundada, con nubes oscuras arriba y abajo estatuas rotas y escombros flotantes, tono frío azul grisáceo, realismo cinematográfico de desastres, superficies mojadas, fuerte sensación de proporción, textura de película de 35 mm. Realismo de película de desastres, plano secuencia. La cámara comienza desde el clima tormentoso violento sobre la capital inundada, luego se lanza hacia el técnico de emergencias solitario de pie sobre el techo destruido del museo inundado. Él ve...
 
 #### Prompt
 
 ```text
-一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到远处有一枚救援信号弹，然后开始奔跑。镜头紧随其后，他冲过坍塌的屋顶，跳过破碎的天窗，滑下一个倾斜的玻璃穹顶，抓住一根摇晃的缆绳。下方，黑暗的洪水在布满漂浮汽车和雕像的街道中汹涌。他落在部分被淹没的有轨电车车顶上，继续前进，就在一个巨浪在他身后拍打而过时，他到达了一个救援信标平台。冷峻的灰蓝色末日色调，超现实的水物理效果，风，水花，手持镜头的紧迫感，一镜到底，无剪辑。
+Un técnico de emergencias solitario con un chaleco salvavidas naranja, de pie sobre el techo destruido de un museo en una capital europea inundada, con nubes oscuras arriba y abajo estatuas rotas y escombros flotantes, tono frío azul grisáceo, realismo cinematográfico de desastres, superficies mojadas, fuerte sensación de proporción, textura de película de 35 mm. Realismo de película de desastres, plano secuencia. La cámara comienza desde el clima tormentoso violento sobre la capital inundada, luego se lanza hacia el técnico de emergencias solitario de pie sobre el techo destruido del museo inundado. Ve una bengala de rescate a lo lejos, luego comienza a correr. La cámara lo sigue de cerca, corre a través del techo derrumbado, salta por las claraboyas rotas, se desliza por una cúpula de vidrio inclinada, agarra un cable oscilante. Abajo, las oscuras inundaciones rugen a través de calles llenas de automóviles flotantes y estatuas. Llega a la parte superior de un tranvía parcialmente inundado, продолжая avanzar, justo cuando una ola gigante rompe detrás de él, llega a una plataforma de baliza de rescate. Tono apocalíptico gris azulado frío, efectos de agua surrealistas, viento, salpicaduras, sensación de urgencia de cámara en mano, plano secuencia, sin cortes.
 ```
 
-### No. 97: 充满活力的橙味汽水广告拍摄
+### No. 74: Filmación publicitaria de soda de naranja vibrante
 
 - **Categoria:** `Atlas Generated I2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
@@ -1994,112 +1559,590 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 #### Descripcion
 
-一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
+Una lata vibrante de soda de naranja, rodeada de rodajas de cítricos que salpican y gotas de agua brillantes, presentada en cámara lenta, iluminación brillante y llena de energía, fotografía comercial de alta detalle.
 
 #### Prompt
 
 ```text
-一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
+Una lata vibrante de soda de naranja, rodeada de rodajas de cítricos que salpican y gotas de agua brillantes, presentada en cámara lenta, iluminación brillante y llena de energía, fotografía comercial de alta detalle.
 ```
 
-### No. 98: Seedance 2.0 全球女性通用机甲变身视频提示词
+<a id="category-9"></a>
 
-- **Categoria:** `Atlas Generated I2V`
+### I2V Generado por Atlas (1)
+
+### No. 75: Revelación de Logo
+
+- **Categoria:** `I2V Generado por Atlas`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 098
+- **Autor:** Atlas Generated 033
 - **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/098_generated_15_1720_seedance-2-0.md)
+- **Video:** [Ver](./previews/generated/033_generated_05_i2v-05-logo-reveal.md)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100204-mrc5s-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/919f0154-9f0d-44c4-a737-61eebb08f232.mp4" controls muted playsinline width="720"></video>
 
 #### Descripcion
 
-核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，...
+Animación de revelación de producto de alta gama. Usa el logo de referencia como sujeto principal. El logo se extruye en cromo brillante, gira lentamente en un estudio oscuro, luego emite delgados haces de luz volumétricos mientras la cámara se acerca para una revelación pulida de marca tecnológica.
 
 #### Prompt
 
 ```text
-核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，身姿挺拔，东方战神女将气场全开。 1-2 秒：日本战国女武士铠甲 + 鹿角胴丸头盔，手持武士刀，转身甩动披风扫过镜头，层叠铠甲片精致，冷冽锋芒，杀气十足。 2-3 秒：欧洲中世纪女骑士全身板甲 + 十字面罩头盔，手持骑士长剑，手掌遮挡镜头并移开完成变身，银色铠甲泛着冷光，庄严而有力。 3-4 秒：古罗马女指挥官肌肉胸甲 + 红色羽毛军团头盔，手持短剑和圆盾，双臂合拢完成变身，金属肩甲和披风飞扬，威武、果断、极具统帅力。 4-5 秒：北欧维京女战士毛皮与铁甲 + 符文战盔，手持战斧和圆盾，低头调整护腕后抬头完成变身，狂野、冷峻、气势逼人。 5-6 秒：波斯萨珊风格女将军鱼鳞甲 + 珠宝链甲王冠，手持弯刀，转身回正完成变身，铠甲表面细腻奢华，兼具异域王族与将军气质。 6-7 秒：蒙古草原女战士皮甲与铁片甲 + 羽毛战盔，手持复合弓箭，轻触额头盔甲完成变身，动作迅捷利落，英武而机动。 7-8 秒：印度王朝女战士鎏金纹饰铠甲 + 珠串王冠战盔，手持长矛，轻抚披风下摆完成变身，华丽而神秘，高贵却不失武者之魂。 8-9 秒：阿拉伯女指挥官月纹链甲 + 面纱金属头饰，手持新月弯刀，手掌遮挡镜头并移开完成变身，神秘、高贵、眼神锐利，异域史诗感极强。 9-10 秒：斯巴达女战士青铜铠甲 + 马鬃头盔，手持长矛和圆盾，甩动披风遮挡身体完成变身，身姿挺拔，力量感爆发，战场存在感十足。 10-11 秒：幻想帝国女王重甲 + 王冠式龙纹头盔，手持皇家巨剑，侧身遮挡镜头完成变身，黑金重甲层叠，如同终极女王降临。 11-12 秒：转身甩动披风，最终回到中国红金明光铠 + 鎏金战盔 + 鎏金长矛，金光爆发中定格，镜头凝固，东方战神女将最终封神。
+Animación de revelación de producto de alta gama. Usa el logo de referencia como sujeto principal. El logo se extruye en cromo brillante, gira lentamente en un estudio oscuro, luego emite delgados haces de luz volumétricos mientras la cámara se acerca para una revelación pulida de marca tecnológica.
 ```
 
-### No. 99: 办公室神龙
+<a id="category-10"></a>
 
-- **Categoria:** `Atlas Generated I2V`
+### Atlas Generated T2V (27)
+
+### No. 76: Transformación del Escenario de Ópera
+
+- **Categoria:** `Atlas Generated T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 099
+- **Autor:** Atlas Generated 034
 - **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/099_generated_16_1768_case.md)
+- **Video:** [Ver](./previews/generated/034_generated_01_cs_002_opera-stage-transformation.md)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100206-kx88c-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093233-79jpz-0.mp4" controls muted playsinline width="720"></video>
 
 #### Descripcion
 
-快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
+Reemplaza a la niña en @video1 con una actriz de ópera china (Huadan), establece la escena en un escenario exquisito, referencia los movimientos de cámara y efectos de transición de @video1, usa trabajo de cámara para coincidir con los movimientos del personaje, estética máxima del escenario, mejora el impacto visual.
 
 #### Prompt
 
 ```text
-快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
+Reemplaza a la niña en @video1 con una actriz de ópera china (Huadan), establece la escena en un escenario exquisito, referencia los movimientos de cámara y efectos de transición de @video1, usa trabajo de cámara para coincidir con los movimientos del personaje, estética máxima del escenario, mejora el impacto visual.
 ```
 
-### No. 100: 斋月至开斋节无限缩放超延时摄影
+### No. 77: Transición Perfecta en Una Toma
 
-- **Categoria:** `Atlas Generated I2V`
+- **Categoria:** `Atlas Generated T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 100
+- **Autor:** Atlas Generated 035
 - **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/100_generated_17_1775_case.md)
+- **Video:** [Ver](./previews/generated/035_generated_02_cs_003_one-take-seamless-transition.md)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100207-lhtz8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093234-88nfj-0.mp4" controls muted playsinline width="720"></video>
 
 #### Descripcion
 
-通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（...
+Referencia todas las transiciones y movimientos de cámara de @video1, una toma continua. El cuadro comienza con un juego de ajedrez, la cámara se mueve hacia la izquierda, mostrando arena amarilla en el piso, la cámara se mueve hacia una playa con huellas de pies, una niña con ropa blanca simple camina hacia la playa, la cámara corta a vista aérea desde arriba, el agua del mar lavando (sin personas que aparezcan), transición degradada perfecta, las olas de lavado se convierten en cortinas fluidas, la cámara se aleja, mostrando primer plano del rostro de la niña, una toma continua.
 
 #### Prompt
 
 ```text
-通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（mudik），拥挤的汽车和摩托车以动态超延时摄影的方式移动。 镜头拉近一扇车窗，过渡到宁静的乡村景象（kampung），孩子们玩耍，人们为开斋节做准备。镜头继续拉近一座清真寺，人们在日出时分在开阔的田野上进行开斋节祈祷（sholat Ied）。 镜头无缝拉近握手瞬间，过渡到充满情感的家庭团聚，伴随着“maaf-maafan”（互相请求原谅）。镜头继续拉近一张摆满了马来粽（ketupat）、椰浆鸡（opor ayam）和传统菜肴的餐桌，大家庭欢聚一堂，其乐融融地用餐。 最后，镜头拉近一个马来粽，然后过渡回天空中的弯月，完成整个循环。手剪纸纹理、分层深度、柔和阴影、鲜艳的节日色彩、流畅的无限过渡、电影级灯光、超高细节，15 秒。
+Referencia todas las transiciones y movimientos de cámara de @video1, una toma continua. El cuadro comienza con un juego de ajedrez, la cámara se mueve hacia la izquierda, mostrando arena amarilla en el piso, la cámara se mueve hacia una playa con huellas de pies, una niña con ropa blanca simple camina hacia la playa, la cámara corta a vista aérea desde arriba, el agua del mar lavando (sin personas que aparezcan), transición degradada perfecta, las ondas de lavado se convierten en cortinas fluidas, la cámara se aleja, mostrando primer plano del rostro de la niña, una toma continua.
 ```
 
-### No. 101: 怒海狂龙
+### No. 78: Campaña de Café Matutino
 
-- **Categoria:** `Atlas Generated I2V`
+- **Categoria:** `Atlas Generated T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 101
+- **Autor:** Atlas Generated 036
 - **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/101_generated_18_1776_case.md)
+- **Video:** [Ver](./previews/generated/036_generated_03_ne_006_coffee-morning-campaign.md)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100209-b9z5g-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093235-bscfs-0.mp4" controls muted playsinline width="720"></video>
 
 #### Descripcion
 
-一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
+Extiende @video1 por 15 segundos. 1-5 segundos: La luz y las sombras se deslizan lentamente a través de las persianas sobre la mesa de madera y el cuerpo de la taza, las ramas se balancean con un ligero movimiento similar a la respiración...
 
 #### Prompt
 
 ```text
-一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
+Extiende @video1 por 15 segundos. 1-5 segundos: La luz y las sombras se deslizan lentamente a través de las persianas sobre la mesa de madera y el cuerpo de la taza, las ramas se balancean con un ligero movimiento similar a la respiración. 6-10 segundos: Un grano de café cae suavemente desde la parte superior de la pantalla, la cámara se acerca al grano de café hasta que la pantalla se vuelve negra. 11-15 segundos: El texto en inglés aparece gradualmente primera línea 'Lucky Coffee', segunda línea 'Breakfast', tercera línea 'AM 7:00-10:00'.
 ```
 
-### No. 102: 女性角色装甲组装与飞行
+### No. 79: Historia de Skateboard con Girasoles
 
-- **Categoria:** `Atlas Generated I2V`
+- **Categoria:** `Atlas Generated T2V`
 - **Fuente:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 102
+- **Autor:** Atlas Generated 037
 - **Idioma:** `es-419`
-- **Video:** [Ver](./previews/generated/102_generated_19_1777_case.md)
+- **Video:** [Ver](./previews/generated/037_generated_04_ne_007_sunflower-skateboard-story.md)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100210-hcxz6-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093236-2v7hc-0.mp4" controls muted playsinline width="720"></video>
 
 #### Descripcion
 
-镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，...
+Extiende hacia adelante por 10s. En la cálida luz de la tarde, la cámara comienza desde la fila de toldos ondeando con la brisa en la esquina de la calle, se mueve lentamente hacia abajo hacia algunas pequeñas margaritas asomándose en la base de la pared...
 
 #### Prompt
 
 ```text
-镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，逐一磁性吸附并锁定在她的身体上，镀铬和哑光碳纤维表面反射着金色的阳光。随着组装完成，摄像机动态地围绕她旋转，最终以特写镜头结束，一个数字面罩在她脸上滑下，她的眼睛闪烁着蓝色能量，蓄势待发，释放出一道光波，将周围的云层冲散。高保真纹理、金属上的微小划痕、逼真的运动模糊和电影般的镜头光晕。 镜头 2（4 秒）角色继续飞行，穿梭于云层之中，她全新的未来战衣散发着内在的能量光芒。摄像机保持低角度的英雄视角，捕捉装甲板之间复杂的接触阴影。她突破音障时，冰晶和尘埃粒子在她身后拖曳，天空从金色变为深邃的暮光紫色。风阻对战衣坚硬表面的真实物理效果清晰可见。最后一个镜头是她的手伸向太阳，能量涟漪在臂铠上荡漾。
+Extiende hacia adelante por 10s. En la cálida luz de la tarde, la cámara comienza desde la fila de toldos ondeando con la brisa en la esquina de la calle, se mueve lentamente hacia abajo hacia algunas pequeñas margaritas asomándose en la base de la pared. Luego aparecen en el cuadro los zapatos de skate rojos del protagonista. Él está agachado frente a un puesto de flores de calle, sonriendo y recogiendo un gran ramo de girasoles en sus brazos, los pétalos rozando su camiseta blanca. Cuando se da la vuelta para subirse al skate, el dueño del puesto de flores grita riendo '¡Cuidado con los pétalos que vuelan!' Él saluda al dueño, luego comienza a patinar. Algunos pétalos dorados ya se han soltado del ramo primero, cayendo sobre la tabla del skate.
+```
+
+### No. 80: Giro Oscuro del Titanic
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 038
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/038_generated_06_ve_001_titanic-dark-twist.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093238-658pn-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Invierte la trama en @video1. Los ojos del hombre cambian instantáneamente de gentiles a fríos y despiadados. En el momento en que Rose no tiene defensa, él empuja violentamente a la protagonista femenina...
+
+#### Prompt
+
+```text
+Invierte la trama en @video1. Los ojos del hombre cambian instantáneamente de gentiles a fríos y despiadados. En el momento en que Rose no tiene defensa, él empuja violentamente a la protagonista femenina del puente, empujándola al agua. La acción es decisiva y resuelta, con determinación largamente premeditada, sin ninguna duda, invirtiendo completamente la configuración original del personaje afectuoso. En el momento en que la protagonista femenina cae al agua, no hay grito, solo ojos incrédulos. Ella mira hacia arriba y ruge al protagonista masculino: '¡Has estado mintiéndome desde el principio!' El protagonista masculino se queda de pie en el puente, una sonrisa fría en su rostro, diciendo en voz baja al agua: 'Esto es lo que le debes a mi familia.'
+```
+
+### No. 81: Guión Gráfico de Batalla de Ajedrez Anime
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 039
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093239-8mswg-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Segmento de combate estilo batalla intelectual anime de 8 segundos, apropiado para tema de venganza. 0-3 segundos: La protagonista femenina en la imagen del guión gráfico 1 se da la vuelta y se sienta, la cámara gira, la protagonista femenina coloca una pieza de ajedrez y dice 'Perdiste', referencia imagen del guión gráfico 2.
+
+#### Prompt
+
+```text
+Segmento de combate estilo batalla intelectual anime de 8 segundos, apropiado para tema de venganza. 0-3 segundos: La protagonista femenina en la imagen del guión gráfico 1 se da la vuelta y se sienta, la cámara gira, la protagonista femenina coloca una pieza de ajedrez y dice 'Perdiste', referencia imagen del guión gráfico 2. 3-4 segundos: Cámara panorámica rápida, gira hacia el primer plano del rostro del hombre opuesto, referencia imagen del guión gráfico 3, el hombre aprieta los dientes, muy insatisfecho con el resultado. 4-6 segundos: Corte de cámara, toma desde arriba, la mujer coloca una gente opposite are amazed, reference storyboard image 4. 6-8 segundos: Camera rapidly pans down, screen goes black for transition, then screen gradually brightens, dimly lit room, woman looks at the moonlight outside the window and quietly says 'We'll see', reference storyboard image 5.
+```
+
+### No. 82: Video Bélico Cinemático de 1 Minuto en 5 Minutos, estructura de múltiples tomas
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 040
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-h687b-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Directrices de estilo consistentes para todas las tomas: footage bélico cinematográfico realista en una aldea del desierto moderno de Oriente Medio; paleta dominante de amarillo arenoso y marrón gris; sol del mediodía harsh...
+
+#### Prompt
+
+```text
+Directrices de estilo consistentes para todas las tomas: footage bélico cinematográfico realista en una aldea del desierto moderno de Oriente Medio; paleta dominante de amarillo arenoso y marrón gris; luz solar dura del mediodía con sombras duras; polvo flotante y humo de pólvora; vibración sutil de cámara en mano; encuadre de ángulo bajo y a nivel del suelo para maximizar la tensión y el realismo; equipo de infantería ligera moderno sin identificadores nacionales visibles; atmósfera contenida, tensa y brutal. Toma 1: Un escuadrón de infantería moderno avanza por callejones estrechos entre casas de adobe bajas y paredes de concreto dañadas. La cámara rastrea desde atrás a nivel de rodilla, empujando hacia adelante mientras los soldados abrazan las paredes y apuntan hacia una esquina invisible. El viento, clics metálicos lejanos y polvo suspendido establecen dread. Toma 2: Un combate cuerpo a cuerpo eruptivo estalla en la esquina del callejón. Los soldados se tiran y presionan contra la pared mientras los impactos de balas en mampostería levantan escombros. Panorámica lateral rápida de cámara con temblor controlado, destellos de boca intermitentes y siluetas en ventanas rotas aumentan la claustrofobia y la urgencia. Toma 3: El escuadrón recupera formación y entra en un edificio medio colapsado. Toma de seguimiento sobre el hombro hacia el interior donde shafts de luz solar cortan a través de paredes breached. Las partículas de polvo flotan en los haces; señales de mano reemplazan el habla; disparos lejanos resuenan. El tono cambia del caos al silencio de hiper-alerta. Toma 4: Desde un techo dañado, el escuadrón asegura un punto alto sobre la cuadrícula de la aldea. Retroceso lento en contraluz, soldados en silueta con rifles aún entrenados en amenazas desconocidas. El polvo gira en luz cálida; no hay victoria o derrota clara. Termina en tensión no resuelta.
+```
+
+### No. 83: Toma Aérea de Vehículo Militar Ardiendo en Guerra Urbana
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 041
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-2m6gw-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una secuencia cinematográfica de dron sobre una intersección de ciudad devastada por la guerra. En el centro, un vehículo blindado destruido arde continuamente, emitiendo humo negro espeso que asciende hacia un cielo nublado...
+
+#### Prompt
+
+```text
+Una secuencia cinematográfica de dron sobre una intersección de ciudad devastada por la guerra. En el centro, un vehículo blindado destruido arde continuamente, emitiendo humo negro espeso que asciende hacia un cielo nublado. Las calles están littered de escombros, metal retorcido y concreto roto; los edificios cercanos muestran ventanas voladas, fachadas chamuscadas y daño estructural. Comienza con una toma aérea establishing alta, luego desciende lentamente hacia una órbita media-alta mientras preserva la escala espacial y el detalle de la destrucción. Mantén la gradación de color desaturada con realismo documental, agrega grano de película sutil, y asegura fuego físicamente creíble, turbulencia de humo, distorsión de calor y polvo en el aire.
+```
+
+### No. 84: Prueba Rápida de Mujer Controlando Avión en Escena de Acción Compleja
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 042
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093243-krhmc-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Crear una secuencia de acción de desastre de alta presión: durante un vuelo turbulento, una mujer corre hacia la cabina y descubre que ambos pilotos han desaparecido. Toma 1: cámara en mano persiguiendo a través de una cabina caótica con pasajeros en pánico, máscaras de oxígeno balanceándose y luces de emergencia parpadeando. Toma 2: primer plano de la cabina con montajes de controles temblorosos, indicadores de advertencia y su expresión enfocada mientras toma el comando. Toma 3: toma amplia exterior del avión atravesando nubes pesadas antes de la recuperación. Toma 4: de vuelta dentro de la cockpit, ella estabiliza el avión con movimientos determinados y precisos. Mantén el ritmo rápido, las apuestas claras y el edición ajustada.
+
+#### Prompt
+
+```text
+Crear una secuencia de acción de desastre de alta presión: durante un vuelo turbulento, una mujer corre hacia la cabina y descubre que ambos pilotos han desaparecido. Toma 1: cámara en mano persiguiendo a través de una cabina caótica con pasajeros en pánico, máscaras de oxígeno balanceándose y luces de emergencia parpadeando. Toma 2: primer plano de la cabina con montajes de controles temblorosos, indicadores de advertencia y su expresión enfocada mientras toma el comando. Toma 3: toma amplia exterior del avión atravesando nubes pesadas antes de la recuperación. Toma 4: de vuelta dentro de la cockpit, ella estabiliza el avión con movimientos determinados y precisos. Mantén el ritmo rápido, las apuestas claras y el edición ajustada.
+```
+
+### No. 85: Escena de Tormenta de Arena en el Desierto Estilo IMAX con Estética Denis Villeneuve
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 043
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093244-sp8c8-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Estilo: IMAX 70mm, realismo épico inspirado en Denis Villeneuve, alto contraste, baja saturación. Estructura de tomas múltiples. Toma extremadamente amplia: una pared de arena colosal consume el horizonte mientras un convoy blindado corre a través del desierto abierto. Enfatiza la escala aterradora y la fragilidad humana. POV de la cabina: vibración violenta dentro del vehículo líder, arena golpeando el parabrisas, luces de advertencia rojas pulsando, comandos gritados urgentes. Clímax en cámara lenta: el rover líder despega de una duna, silueteado contra un frente de tormenta oscuro; relámpagos parpadean dentro de la nube de polvo; escombros pasan frente al lente; corte duro a negro en el impacto. Mantén las transiciones limpias y la escalada continua.
+
+#### Prompt
+
+```text
+Estilo: IMAX 70mm, realismo épico inspirado en Denis Villeneuve, alto contraste, baja saturación. Estructura de tomas múltiples. Toma extremadamente amplia: una pared de arena colosal consume el horizonte mientras un convoy blindado corre a través del desierto abierto. Enfatiza la escala aterradora y la fragilidad humana. POV de la cabina: vibración violenta dentro del vehículo líder, arena golpeando el parabrisas, luces de advertencia rojas pulsando, comandos gritados urgentes. Clímax en cámara lenta: el rover líder despega de una duna, silueteado contra un frente de tormenta oscuro; relámpagos parpadean dentro de la nube de polvo; escombros pasan frente al lente; corte duro a negro en el impacto. Mantén las transiciones limpias y la escalada continua.
+```
+
+### No. 86: Escena de Pelea Multi-Toma Generada con Solo 3 Imágenes de Referencia y Prompt Simple
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 044
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093245-rhw5k-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un duelo de artes marciales entre dos mujeres en un entorno urbano nocturno moderno. Construye con clara variación de tomas: toma amplia para establecer espaciado e intención, tomas de seguimiento medianas para el tempo del intercambio, insertos de primer plano para impacto, respiración y trabajo de pies. Incluye movimientos circulares de ángulo bajo, contragolpes sobre el hombro y movimientos rápidos de cámara lateral para preservar la claridad direccional. Los movimientos deben seguir transferencia de peso realista, momentum y recuperación. Usa iluminación práctica de calle, reflejos de neón, ligero brillo de pavimento mojado y textura cinematográfica áspera.
+
+#### Prompt
+
+```text
+Un duelo de artes marciales entre dos mujeres en un entorno urbano nocturno moderno. Construye con clara variación de tomas: toma amplia para establecer espaciado e intención, tomas de seguimiento medianas para el tempo del intercambio, insertos de primer plano para impacto, respiración y trabajo de pies. Incluye movimientos circulares de ángulo bajo, contragolpes sobre el hombro y movimientos rápidos de cámara lateral para preservar la claridad direccional. Los movimientos deben seguir transferencia de peso realista, momentum y recuperación. Usa iluminación práctica de calle, reflejos de neón, ligero brillo de pavimento mojado y textura cinematográfica áspera.
+```
+
+### No. 87: Animación de One Punch Man Superando la Calidad Original
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 045
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093246-6p7cv-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Producir una secuencia de batalla de anime premium inspirada en la energía y puesta en escena de One Punch Man. Requiere animación fluida de alta velocidad, fuertes líneas de velocidad, marcos de impacto, tirones dramáticos de lente y sincronización explosiva de efectos. Usar progresión: configuración amplia del campo de batalla, intercambios de combate de rango medio, golpe final de primer plano, luego los escombros y el polvo se asientan. La destrucción del fondo debe incluir estructuras agrietadas, fragmentos voladores, capas de humo y distorsión de onda de choque. Las siluetas de los personajes permanecen nítidas a través del desenfoque de movimiento, con fuerte separación luz-sombra y composición teatral.
+
+#### Prompt
+
+```text
+Producir una secuencia de batalla de anime premium inspirada en la energía y puesta en escena de One Punch Man. Requiere animación fluida de alta velocidad, fuertes líneas de velocidad, marcos de impacto, tirones dramáticos de lente y sincronización explosiva de efectos. Usar progresión: configuración amplia del campo de batalla, intercambios de combate de rango medio, golpe final de primer plano, luego los escombros y el polvo se asientan. La destrucción del fondo debe incluir estructuras agrietadas, fragmentos voladores, capas de humo y distorsión de onda de choque. Las siluetas de los personajes permanecen nítidas a través del desenfoque de movimiento, con fuerte separación luz-sombra y composición teatral.
+```
+
+### No. 88: Escena de Animación de Nutria Entrando a un Mecha Gigante con Tomas Mecánicas Detalladas
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 046
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093247-6jps9-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Secuencia de anime mecha: un piloto de nutria antropomórfico se prepara para abordar un mech de combate gigante. Toma 1: revelación amplia del hangar con silueta del mech contraluz,蒸汽 y beacons de advertencia. ...
+
+#### Prompt
+
+```text
+Secuencia de anime mecha: un piloto de nutria antropomórfico se prepara para abordar un mech de combate gigante. Toma 1: revelación amplia del hangar con silueta del mech contraluz,蒸汽 y beacons de advertencia. Toma 2: montaje mecánico de engranajes rotando, hidráulicas extendiéndose, líneas de energía activándose, y escotilla del cockpit desbloqueándose. Toma 3: la nutria sube al cockpit, con primeros planos de ojos enfocados y gestos de control. Toma 4: la escotilla se sella, las luces del HUD se encienden, la visera del mech se ilumina, y la nutria da un pulgar hacia arriba confiado. Enfatizar detalle mecánico denso, lógica coherente del movimiento de la máquina, y ritmo cinematográfico de anime.
+```
+
+### No. 89: Escena de Cine del Sur de la India con Extraterrestre Generada a partir de un Solo Prompt
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 047
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093248-vtxkd-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Crear una escena de acción de invasión extraterrestre en estilo de cine comercial del sur de la India. Los visuales deben presentar colores saturados, contraluz dramático, cámara lenta estilizada y encuadre heroico....
+
+#### Prompt
+
+```text
+Crear una escena de acción de invasión extraterrestre en estilo de cine comercial del sur de la India. Los visuales deben presentar colores saturados, contraluz dramático, cámara lenta estilizada y encuadre heroico. Abre con una revelación de plaza urbana a gran escala mientras naves extraterrestres descienden, luego corta a entrada del héroe en ángulo bajo con detalles de vestuario azotados por el viento. Avanza hacia confrontación multi-ángulo: tomas amplias para escala, medianas para coreografía de combos, primeros planos para intensidad emocional y picos de impacto. Mezcla polvo, chispas, humo y flares de lente para presentación teatral de alta energía mientras mantienes el movimiento legible.
+```
+
+### No. 90: Toma de Combate Terrestre de Soldados Atravesando Terreno Desértico
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 048
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093249-fhqnc-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Filmación de guerra a nivel del suelo con realismo documental: un escuadrón de soldados avanza a través de una zona de combate desértica. Mantén la cámara baja y cerca de botas, balanceo del equipo, detalles del arma y cambios de formación mientras se mueven sobre arena suelta y escombros....
+
+#### Prompt
+
+```text
+Filmación de guerra a nivel del suelo con realismo documental: un escuadrón de soldados avanza a través de una zona de combate desértica. Mantén la cámara baja y cerca de botas, balanceo del equipo, detalles del arma y cambios de formación mientras se mueven sobre arena suelta y escombros. Luz solar harsh, calor visible en el aire, polvo suspendido y disparos intermitentes distantes deben dar forma a la atmósfera. Usa movimiento controlado de cámara en mano con profundidad de campo shallow, claridad en primer plano y ligero suavizado del fondo. La paleta de colores se mantiene en beige arenoso y marrón muted, enfatizando disciplina táctica y tensión persistente.
+```
+
+### No. 91: Póster Promocional Japonés Hiper-Energético
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 049
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093250-7bs8f-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Ejemplo de prompt de texto a video estructurado para Póster Promocional Japonés Hiper-Energético.
+
+#### Prompt
+
+```text
+{ "type": "Japanese promotional landing page poster", "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic", "layout": { "top_section": { "background": "night sky, fireworks, ferris wheel, roller coaster", "subjects": "4 young adults cheering, raising fists, dynamic lighting", "typography": [ "{argument name=\"main headline\" default=\"究極の楽しい!!\"}", "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}", "この一枚が、あなたの人生を最高に塗り替える!!" ], "badges": [ "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!" ] }, "middle_section": { "title": "究極の楽しい体験を実現する5つの超快楽ポイント", "points_count": 5, "points": [ {"number": 1, "label": "爆笑覚醒", "image": "people laughing"}, {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"}, {"number": 3, "label": "感動の渦", "image": "fireworks explosion"}, {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"}, {"number": 5, "label": "無限リピート", "image": "group of people cheering"} ] }, "bonus_section": { "title": "今だけ！超豪華 5大特典付き!!!", "items_count": 5, "items": [ "① 限定デザインポスター", "② 楽しい名言ブックレット(PDF)", "③ 超楽しいプレイリスト(MP3)", "④ スマホ壁紙セット", "⑤ 楽しいシークレット映像" ] }, "bottom_section": { "product_info": { "name": "究極の楽しいポスター", "variants_count": 3, "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."] }, "pricing": { "label": "魂の価格", "amount": "{argument name=\"price\" default=\"¥2,980\"}", "shipping": "送料無料" } }, "footer": { "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}", "background_color": "magenta" } } }
+```
+
+### No. 92: Fotografía realista de auto deportivo en la costa
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 050
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/050_generated_20_14046_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093251-fvwh5-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una fotografía automotriz fotorrealista de alta resolución de un {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} estacionado en una {argument name="setting" default="coastal road overlooking the ocean"}. El auto deportivo está posicionado en un ángulo ligero, mostrando sus curvas aerodinámicas elegantes, la fascia frontal agresiva, los faros LED distintivos y las ruedas de aleación plateadas con tapas centrales amarillas. El icónico escudo amarillo es visible en el guardabarros frontal. El fondo presenta un mar azul profundo, una baja baranda de piedra y una costa rocosa distante cubierta de vegetación verde exuberante y edificios dispersos bajo un cielo azul despejado. La iluminación es {argument name="lighting" default="bright sunny day"}, proyectando sombras nítidas y realistas sobre el asfalto y creando reflejos brillantes sobre la pintura brillante del auto.
+
+#### Prompt
+
+```text
+
+```
+
+### No. 93: Chica zorro estilo anime pidiendo un abrazo
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 051
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/051_generated_21_13919_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-sjwfl-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una ilustración estilo anime de una linda chica con {argument name="animal ears" default="fluffy dark brown fox ears"} y el cabello largo y fluido de {argument name="hair color" default="dark bro...
+
+#### Prompt
+
+```text
+Una ilustración estilo anime de una linda chica con {argument name="animal ears" default="fluffy dark brown fox ears"} y el cabello largo y fluido de {argument name="hair color" default="dark brown"}. Ella está usando una {argument name="clothing" default="red and white floral kimono with fur trim"} detallada y un accesorio floral para el cabello con borlas rojas. Ella tiene una {argument name="expression" default="bright happy smile with a slight blush"} y ojos ámbar cálidos, extendiendo ambas manos hacia el espectador en un abrazo de bienvenida. La perspectiva presenta un fuerte acortamiento en sus manos, que están ligeramente desenfocadas. La escena está establecida con {argument name="environment" default="falling snow against a bright white background"}, iluminada por una iluminación suave, cálida y etérea.
+```
+
+### No. 94: Mujer elegante junto a la mesa del bar
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 052
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/052_generated_22_14569_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-q59rm-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una fotografía vertical fotorrealista y espontánea de una mujer sentada en una mesa de madera rustica en el interior elegante de un bar-cafetería de alta gama. Ella está centrada en primer plano, inclinándose hacia adelante con un codo en la mesa y su mano sosteniendo su barbilla, dando una sensación relajada, íntima y editorial de estilo de vida. Ella tiene el cabello castaño oscuro y ondulado largo parti...
+
+#### Prompt
+
+```text
+Una fotografía vertical fotorrealista y espontánea de una mujer sentada en una mesa de madera rústica en el interior elegante de un bar-cafetería de alta gama. Ella está centrada en primer plano, inclinándose hacia adelante con un codo en la mesa y su mano sosteniendo su barbilla, dando una sensación relajada, íntima y editorial de estilo de vida. Ella tiene el cabello castaño oscuro largo y ondulado partiido cerca del medio, cayendo sobre ambos hombros, y usa una ajustada camiseta blanca de manga larga con escote en V. En la mesa frente a ella hay exactamente 3 objetos visibles: 1 cóctel color melocotón en una copa ancha coupe a la izquierda, 1 taza de cerámica floral azul y blanca en el centro-derecha, y 1 pequeño florero de vidrio transparente con tallos secos escasos en el extremo derecho. Detrás de ella hay un bar elegantemente iluminado con acabados de mármol o piedra, detalles clásicos ornamentados en el techo, estantes de botellas de licor y cristalería, iluminación de barra posterior brillante, y un bartender en camisa blanca y delantal oscuro trabajando en suave desenfoque. Incluye taburetes oscuros a lo largo del mostrador y una rica paleta de colores ámbar, crema y marrón. Usa profundidad de campo shallow, luz natural interior suave mezclada con iluminación cálida del bar, textura realista de piel y tela, tonos sutiles cinematográficos, fotografía de alta detalle de hospitalidad de lujo, tomada a nivel de ojos con un teléfono inteligente o lente de retrato, composición vertical, atmósfera acogedora de cafetería parisina meets bar de hotel.
+```
+
+### No. 95: Manga cute de cuatro paneles del club escolar
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 053
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/053_generated_23_14677_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093253-mq5kf-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Ejemplo de prompt de texto a video estructurado para 可爱的四格校园社团漫画.
+
+#### Prompt
+
+```text
+{"type":"4-panel manga comic page","style":"clean modern Japanese school-life anime, soft pastel colors, crisp line art, light cel shading, printed manga layout with white gutters and black panel borders, cute slice-of-life atmosphere","format":"vertical full page","theme":"high school club meeting about what activity to do next, ending with a cheerful compromise","text":{"title_top":"{argument name=\"headline text\" default=\"わたしたちの部活日和 🌸\"}","ending_note":"おしまい"},"characters":[{"id":"girl1","appearance":"short pink bob hair with a small ahoge, school uniform with cream cardigan and red ribbon, expressive and energetic"},{"id":"girl2","appearance":"long straight navy-blue hair, calm demeanor, school uniform"},{"id":"girl3","appearance":"short blonde bob, soft cheerful expression, school uniform with red ribbon"},{"id":"girl4","appearance":"long purple hair in a low ponytail, composed and thoughtful, school uniform with grayish top"}],"layout":{"panels":[{"position":"top","count":1,"setting":"club room table by a window, four girls seated with 4 small colorful mugs on the table","speech_bubbles":["部活ミーティング","お菓子作りはどうですか？","いいですね〜！","次の部活は何をするか決めましょうか"]},{"position":"upper-middle","count":1,"setting":"fantasy thought panel with pink sparkly background and floating desserts above the girls","items":{"count":5,"labels":["chocolate cake slice","round cookies","checker cookies","mont blanc cupcake","strawberry shortcake slice"]},"center_text":"わくわく…","speech_bubbles":["クッキーもいいですね！","ケーキとか作ってみたいですね〜"]},{"position":"lower-middle","count":1,"setting":"mood shifts to a dark blue vertical-line background showing practical concerns","speech_bubbles":["材料費もなかなかかかりそう…","時間もかかりそうですし…","部室にオーブンないですしね…","うーん…","はぁ〜"]},{"position":"bottom","count":1,"setting":"bright warm yellow resolution panel with celebratory flower marks","speech_bubbles":["それがいちばん楽しそうっ!!","じゃあ、みんなでお菓子を買ってお茶会にしましょう！","方向転換もきらら部の得意技です♪"]}],"character_count":4,"drink_count":4,"dessert_count":5,"panel_count":4},"composition":"all four girls appear in every panel, medium group shots, readable Japanese speech bubbles, comedic pacing from suggestion to excitement to hesitation to happy conclusion","quality":"polished manga page suitable for social media sharing or a sample of Japanese text rendering"}
+```
+
+### No. 96: Versión censurada de pintura al óleo de la Mona Lisa
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 054
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/054_generated_24_14596_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093254-45rjz-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una parodia fiel de pintura al óleo de la Mona Lisa en el estilo de una obra maestra de museo del Alto Renacimiento, retrato sentado desde la cintura hacia arriba con las manos cruzadas, vestido marrón oscuro, velo translúcido, iluminación suave dorada-marrón con sfumato y el clásico paisaje brumoso con senderos sinuosos, agua y colinas rocosas al fondo.
+
+#### Prompt
+
+```text
+Una parodia fiel de pintura al óleo de la Mona Lisa en el estilo de una obra maestra de museo del Alto Renacimiento, retrato sentado desde la cintura hacia arriba con las manos cruzadas, vestido marrón oscuro, velo translúcido, iluminación suave dorada-marrón con sfumato y el clásico paisaje brumoso con senderos sinuosos, agua y colinas rocosas al fondo. Reemplaza toda el área del rostro con un solo bloque censor rectangular plano en {argument name="censor color" default="medium brown"}, centrado sobre la cabeza y cubriendo desde la frente hasta la barbilla, con bordes duros limpios que contrastan contra la superficie pictórica. Mantén el cabello visible alrededor del bloque, incluyendo cabello castaño claro peinado con separación en la parte superior y cayendo sobre los hombros. Conserva el aspecto de barniz envejecido, paleta terrestre apagada, textura sutil similar al craquelado y composición de calidad museística solemne. Encuadre vertical, sujeto centrado, proporciones realistas, pincelada de viejo maestro, sombreado dramático pero suave.
+```
+
+### No. 97: Dos mujeres comprando en una tienda vintage
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 055
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/055_generated_25_14012_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093255-trhp8-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una fotografía fotorrealista espontánea de dos mujeres asiáticas comprando juntas dentro de una {argument name="store type" default="vintage clothing store"} muy llena.
+
+#### Prompt
+
+```text
+Una fotografía fotorrealista espontánea de dos mujeres asiáticas comprando juntas dentro de una {argument name="store type" default="vintage clothing store"} muy llena. La mujer de la izquierda tiene el cabello castaño recogido y está usando {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, llevando un bolso crema de hombro. Está sosteniendo una {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} en una percha de madera. La mujer de la derecha tiene el cabello en un moño desordenado y está usando {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, mirando admirativamente la chaqueta. Están de pie en un pasillo estrecho flanqueado por estantes rebosantes de prendas coloridas, con más ropa colgando del techo. La escena presenta {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
+```
+
+### No. 98: Banner de capacitación de programación de IA en japonés
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 056
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/056_generated_26_14680_ai.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093256-zjdgs-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Crea un banner de capacitación corporativa japonesa limpio en un formato horizontal amplio de encabezado web con fondo blanco y marca de azul marino profundo.
+
+#### Prompt
+
+```text
+Crea un banner de capacitación corporativa japonesa limpio en un formato horizontal amplio de encabezado web con fondo blanco y marca de azul marino profundo. El diseño es un solo banner promocional unificado para un curso de programación de IA. A la izquierda, coloca un pequeño titular en texto japonés en negrita que dice "AIを使いこなす開発者へ" sobre un título dominante muy grande leyendo "{argument name="main title" default="ClaudeCode研修"}" en letras de color azul marino oscuro sans-serif pesadas, con "ClaudeCode" especialmente grande y la palabra japonesa final adjunta a la derecha en el mismo estilo. Debajo del título, agrega una barra horizontal azul degradada larga desde azul medio hasta azul muy claro contendo texto japonés en negrita blanco: "{argument name="subheadline text" default="AI時代の開発を、あなたの武器に。"}". A lo largo de la parte inferior izquierda, organiza exactamente 3 insignias de ícono circulares de azul marino en una fila horizontal, cada una con un subtítulo corto de dos líneas en japonés a la derecha del ícono. La insignia 1 muestra un símbolo de código </> y el texto "Claude Codeの 基本から実践まで". La insignia 2 muestra una bombilla y el texto "業務効率を高める AI活用スキル". La insignia 3 muestra un gráfico de barras ascendente y el texto "すぐに使える 実践的な内容". En la mitad derecha, coloca un hombre de negocios japonés confiado desde la cintura hacia arriba con los brazos cruzados, usando un traje azul marino oscuro, camisa blanca y corbata a rayas azules, mirando hacia adelante; su rostro está intencionalmente desenfocado o anonimizado. Detrás de él, agrega formas geométricas diagonales en azul marino y azul superpuestas barre desde la parte superior derecha e inferior derecha, además de un panel tecnológico de color azul oscuro con líneas de código tenues y un símbolo de llaves brillantes {}. Usa un estilo de anuncio de seminario B2B pulido, tipografía nítida, fuerte espacio negativo, degradados sutiles, alto contraste y una atmósfera profesional de capacitación de IA/ingeniería.
+```
+
+### No. 99: Póster de película de anime atardecer
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 057
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/057_generated_27_14472_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093258-htz6v-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un impresionante póster de película de anime al atardecer de hora dorada, composición teatral vertical de una hoja, pintado en el estilo cinematográfico pulido de un drama juvenil inspirado en Makoto Shinkai.
+
+#### Prompt
+
+```text
+Un impresionante póster de película de anime al atardecer de hora dorada, composición teatral vertical de una hoja, pintado en el estilo cinematográfico pulido de un drama juvenil inspirado en Makoto Shinkai. La escena mira hacia una ciudad costera japonesa en una ladera descendiendo hacia una bahía brillante, con el sol bajo en el horizonte y su reflejo extendiéndose sobre agua calma. El cielo domina la mayor parte de la imagen: un vasto degradado de azul profundo a lavanda crepuscular lleno de innumerables estrellas, nubes rosadas y durazno esponjosas, y una estrella especialmente brillante cerca de la parte superior derecha. En primer plano a la derecha, una adolescente escolar está de pie en perfil de tres cuartos mirando hacia la izquierda hacia el mar, mostrada desde la mitad del muslo hacia arriba, con cabello oscuro hasta los hombros ondeando en la brisa, una blusa escolar blanca de estilo marinero de manga corta, un listón rojo en el cuello y una falda plisada azul marino; su expresión es contemplativa y melancólica. Más abajo en la empinada calle de escaleras de piedra en el centro-izquierda, un adolescente escolar está de pie con la espalda hacia el espectador, usando una camisa blanca de manga corta y pantalones oscuros, también mirando hacia el atardecer y el océano. En la parte inferior derecha, incluye 1 gato negro sentado en un muro o borde del techo en silueta, mirando hacia la ciudad. En la parte inferior izquierda, incluye 1 farol callejero antiguo y un grupo denso de hortensias en flor en azul y violeta a lo largo de un muro de piedra. La ciudad abajo está llena de techos de tejas, calles estrechas, luces de ventanas cálidas y casas superpuestas, con montañas distantes enmarcando la bahía. Usa luz de borde dramática, perspectiva atmosférica luminosa, destellos brillantes, detalle delicado de nubes y gradación de color emocional y nostálgica en indigo, ultramarino, rosado, durazno y oro. Diseña explícitamente como un póster de película de animación japonesa con tipografía elegante integrada en la obra de arte: texto de título japonés grande pintado a mano a través de la parte superior izquierda al centro leyendo {argument name="title text" default="星をつなぐ約束のうた"}, subtítulo en inglés más pequeño debajo leyendo {argument name="English subtitle" default="The Song of Promises"}, una pequeña línea de laurel de premio en japonés en la parte superior izquierda, 1 etiqueta vertical en japonés a lo largo del borde superior derecho, 4 nombres de elenco en japonés centrados cerca de la parte inferior, una fecha de lanzamiento en la parte inferior izquierda leyendo {argument name="release date" default="8.23"} con "ROADSHOW" debajo, 1 etiqueta japonesa rosada a través del centro inferior, y un sitio web/manejador de redes sociales en la parte inferior derecha. Visual clave de anime ultra detallado, romántico y melancólico, acabado de póster de película de estreno premium.
+```
+
+### No. 100: Cuadrícula de anuncios de banner japoneses 2x2
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 058
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/058_generated_28_13994_2x2.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093259-n24ck-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Ejemplo de prompt de texto a video estructurado para cuadrícula de anuncios de banner japoneses 2x2.
+
+#### Prompt
+
+```text
+{ "type": "2x2 grid of Japanese banner advertisements", "quadrants": [ { "position": "top-left", "theme": "skincare product launch", "visuals": "portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles", "text_elements": { "main_copy": "{argument name=\"skincare catchphrase\" default=\"透明感、満ちる。\"}", "sub_copy": "肌が変わると、毎日が変わる。", "brand_name": "SUIREN", "badge": "6.1 NEW Debut" } }, { "position": "top-right", "theme": "European summer travel campaign", "visuals": "back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple", "text_elements": { "english_copy": "Find your Journey", "main_copy": "{argument name=\"travel catchphrase\" default=\"心が動く旅へ。\"}", "badge": "yellow circle with '今だけ！最大20%OFF'", "footer": "blue banner with '初夏のヨーロッパキャンペーン'" } }, { "position": "bottom-left", "theme": "traditional Japanese soup stock", "visuals": "close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi", "text_elements": { "main_copy": "{argument name=\"food catchphrase\" default=\"毎日のごはんを、もっと美味しく。\"}", "product_name": "日々のだし", "sub_copy": "素材のうまみを、まるごと。" } }, { "position": "bottom-right", "theme": "investment app", "visuals": "smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'", "text_elements": { "brand_name": "{argument name=\"finance app name\" default=\"MoneyPath\"}", "main_copy": "未来の自分のために、{argument name=\"finance catchphrase\" default=\"今はじめる資産形成\"}", "badge": "blue circle with '1,000円分のポイントプレゼント！'", "footer": "blue banner with 4 icons and feature text" } } ] }
+```
+
+### No. 101: Gato atigrado estirado verticalmente
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 059
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/059_generated_29_14517_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093300-dnv2r-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una ilustración minimalista caprichosa de un {argument name="cat breed" default="brown tabby kitten"} de pie en el centro exacto de un lienzo vertical muy alto, con un cuerpo absurdamente alargado en forma de fideo estirado desde cerca de la parte superior hasta cerca de la parte inferior de la imagen.
+
+#### Prompt
+
+```text
+A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an absurdly elongated, noodle-like body stretched from near the top to near the bottom of the image. The cat has a small round face with large glossy eyes, a tiny open smiling mouth, upright ears, and both front paws raised straight overhead in a cheering pose, showing 2 visible pink paw pads. Its fur is soft and detailed, with a white muzzle, chest, belly, and inner legs, and brown-and-black tabby stripes along the sides, head, arms, and tail. The body is extremely thin and vertically extended, creating a comical exaggerated proportion, while the hind paws remain tiny and close together at the bottom. Add 1 curved striped tail extending to the lower right side. Above the head, place the playful hand-drawn text "{argument name="caption text" default="nyoooon~"}" in a rounded dark brown font, arched like a semicircle, with 6 short motion lines around the raised paws and text to emphasize stretching. Use a clean off-white or warm light beige background with no scenery, only a faint soft oval shadow beneath the feet. Cute, polished digital illustration style, centered composition, high detail in fur, humorous Japanese sticker or social-media mascot vibe, lots of negative space, extra-tall aspect ratio.
+```
+
+### No. 102: Retrato fotográfico realista en posición reclinada
+
+- **Categoria:** `Atlas Generated T2V`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
+- **Autor:** Atlas Generated 060
+- **Idioma:** `es-419`
+- **Video:** [Ver](./previews/generated/060_generated_30_13448_case.md)
+
+<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-lwlhr-0.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un retrato altamente detallado y fotorrealista de un {argument name="subject description" default="beautiful young Asian woman"} reclinándose con gracia en un {argument name="furniture" ...
+
+#### Prompt
+
+```text
+A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" default="white modern sofa"}. She is wearing a {argument name="clothing" default="short white silk slip dress"} with thin straps, her {argument name="hair style" default="long wavy dark brown hair"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name="lighting style" default="soft natural sunlight streaming through a window"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.
 ```
 
 Este README se genera automaticamente a partir de `data/prompts_by_locale`.
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gemini-omni-prompts) — 300+ models, one API key.

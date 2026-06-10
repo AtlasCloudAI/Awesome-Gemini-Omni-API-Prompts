@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const repoRoot = path.resolve(__dirname, "..");
-const promptsHubRoot = "/Users/zby/atlascloud/prompts-hub";
+const promptsHubRoot = process.env.PROMPTS_HUB_ROOT || path.resolve(repoRoot, "..", "prompts-hub");
 const localeDir = path.join(repoRoot, "data", "prompts_by_locale");
 const previewDir = path.join(repoRoot, "previews", "generated");
 const translationCacheFile = "/tmp/awesome-gemini-omni-translation-cache.json";

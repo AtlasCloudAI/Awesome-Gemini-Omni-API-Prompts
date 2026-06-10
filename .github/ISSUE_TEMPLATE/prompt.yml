@@ -1,0 +1,42 @@
+name: 🎬 Submit a Prompt
+description: Contribute a Gemini Omni prompt to the collection
+title: "[Prompt] <short title>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Approved prompts are added to the README and you're credited.
+        Bonus: attach a **real preview video generated via [Atlas Cloud](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: e.g. "Neon city timelapse"
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: The full prompt text.
+      render: text
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Camera Language, Subject, Motion, Style, UGC, Ads, Meme, Other]
+    validations:
+      required: true
+  - type: input
+    id: preview
+    attributes:
+      label: Preview video URL (optional)
+      description: A preview generated via Atlas Cloud (Gemini Omni / Seedance 2 / Veo 3.1…).
+  - type: input
+    id: author
+    attributes:
+      label: Your handle (for credit)
+      placeholder: "@yourname"

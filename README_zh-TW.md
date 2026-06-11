@@ -1,10 +1,12 @@
-# Awesome Gemini Omni 提示詞大全
+# 🎬 Awesome Gemini Omni 提示詞大全
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-102%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -13,16 +15,36 @@
 - **目前:** 繁體中文
 - **其他語言:** [English](./README.md) | [简体中文](./README_zh.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
 
-## 統計資料
+## 🤔 什么是 Gemini Omni？
+
+Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图生视频、参考生视频，并原生音画同步。在 Atlas Cloud 上通过 `google/gemini-omni-flash/*` 调用。下面每条 prompt 的预览都由 Atlas Cloud 实际跑出。
+
+## 📊 統計資料
 
 | 指標 | 數量 |
 | --- | ---: |
 | 提示詞總數 | 102 |
 | 分類數 | 7 |
 | 預覽影片數 | 102 |
-| 最後更新 | 2026/05/26 |
+| 最後更新 | 2026/06/10 |
 
-## 按分類瀏覽
+### 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**
+
+## 🏷️ 按分類瀏覽
 
 - [变换与风格化](#category-1)
 - [动作与运动](#category-2)
@@ -564,9 +586,9 @@
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 026
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/026_generated_01_t2v-01-golden-deer.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/98001caa-7272-4dbe-9573-4b385c28f506.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -584,9 +606,9 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 027
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/027_generated_02_t2v-02-perfume-ice.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/4000e9ad-8d32-419a-803b-514c0e5d126f.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -604,9 +626,9 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 028
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/028_generated_04_t2v-04-mini-chef-ramen.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a5084ba6-3f08-4562-9480-8b12c8a7c48b.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -624,9 +646,9 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 029
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/029_generated_05_t2v-05-aurora-astronaut.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1d2f7e9e-256f-43b4-b17e-f998ebf8eea6.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -644,9 +666,9 @@ Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walk
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 034
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/034_generated_01_cs_002_opera-stage-transformation.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093233-79jpz-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -664,9 +686,9 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 035
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/035_generated_02_cs_003_one-take-seamless-transition.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093234-88nfj-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -684,9 +706,9 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 036
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/036_generated_03_ne_006_coffee-morning-campaign.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093235-bscfs-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -704,9 +726,9 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 037
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/037_generated_04_ne_007_sunflower-skateboard-story.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093236-2v7hc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -724,9 +746,9 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 038
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/038_generated_06_ve_001_titanic-dark-twist.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093238-658pn-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -744,9 +766,9 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 039
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093239-8mswg-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -764,9 +786,9 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 040
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-h687b-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -784,9 +806,9 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 041
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093241-2m6gw-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -804,9 +826,9 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 042
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093243-krhmc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -824,9 +846,9 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 043
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093244-sp8c8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -844,9 +866,9 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 044
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093245-rhw5k-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -864,9 +886,9 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 045
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093246-6p7cv-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -884,9 +906,9 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 046
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093247-6jps9-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -904,9 +926,9 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 047
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093248-vtxkd-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -924,9 +946,9 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 048
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093249-fhqnc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -944,9 +966,9 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 049
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093250-7bs8f-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -964,9 +986,9 @@ Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poste
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 050
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/050_generated_20_14046_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093251-fvwh5-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -984,9 +1006,9 @@ A photorealistic, high-resolution automotive shot of a {argument name="car color
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 051
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/051_generated_21_13919_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-sjwfl-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1004,9 +1026,9 @@ An anime-style illustration of a cute girl with {argument name="animal ears" def
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 052
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/052_generated_22_14569_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093252-q59rm-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1024,9 +1046,9 @@ A candid, photorealistic vertical photo of a woman seated at a rustic wooden tab
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 053
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/053_generated_23_14677_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093253-mq5kf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1044,9 +1066,9 @@ Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 054
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/054_generated_24_14596_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093254-45rjz-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1064,9 +1086,9 @@ A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissan
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 055
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/055_generated_25_14012_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093255-trhp8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1084,9 +1106,9 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 056
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/056_generated_26_14680_ai.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093256-zjdgs-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1104,9 +1126,9 @@ Create a clean Japanese corporate training banner in a wide horizontal web-heade
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 057
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/057_generated_27_14472_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093258-htz6v-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1124,9 +1146,9 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 058
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/058_generated_28_13994_2x2.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093259-n24ck-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1144,9 +1166,9 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 059
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/059_generated_29_14517_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093300-dnv2r-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1164,9 +1186,9 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 060
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/060_generated_30_13448_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-lwlhr-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1184,9 +1206,9 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 082
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/082_generated_02_ms_003_landscape-transition-music-video.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100146-xksz4-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1204,9 +1226,9 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 083
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/083_generated_03_ot_001_parkour-chase-sequence.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100147-f6w4l-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1228,9 +1250,9 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 030
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/030_generated_01_i2v-01-storyboard-cinematic.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/e990cf98-4ab2-4115-86c3-a43cb83a119c.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1248,9 +1270,9 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 031
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/031_generated_02_i2v-02-burger-assembly.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/a9244437-90c7-4187-82f5-aa51c851f493.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1268,9 +1290,9 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 032
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/032_generated_03_i2v-03-paper-typography.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/1942f8a0-f3e0-427e-ba6f-a637c966bf95.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1288,9 +1310,9 @@ Motion graphics animation driven by the reference composition. Turn the referenc
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 033
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/033_generated_05_i2v-05-logo-reveal.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
 
-<video src="https://atlas-media.oss-us-west-1.aliyuncs.com/videos/919f0154-9f0d-44c4-a737-61eebb08f232.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1308,9 +1330,9 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 061
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/061_generated_01_ur_001_elegant-laundry-scene.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093301-kqc8v-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1328,9 +1350,9 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 062
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/062_generated_02_ur_002_interactive-painting-character.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093302-sxz6z-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1348,9 +1370,9 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 063
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/063_generated_03_ur_003_victorian-street-scene.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093303-w9hw2-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1368,9 +1390,9 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 064
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093307-wk6rq-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1388,9 +1410,9 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 065
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/065_generated_08_cs_006_horror-first-person-exploration.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093308-vkssl-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1408,9 +1430,9 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 066
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/066_generated_13_ac_005_martial-arts-combat-scene.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093313-f4vkf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1428,9 +1450,9 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 067
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/067_generated_15_ac_007_car-commercial-cinematography.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093315-qpv6l-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1448,9 +1470,9 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 068
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/068_generated_23_ce_008_abstract-instant-noodles.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093324-74grv-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1468,9 +1490,9 @@ The character from @image1 references the movements and facial expression change
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 069
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/069_generated_25_ne_002_childhood-seasons-documentary.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093326-sv58h-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1488,9 +1510,9 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 070
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093327-gn77n-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1508,9 +1530,9 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 071
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/071_generated_29_av_002_office-building-documentary.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526093329-t5fxx-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1528,9 +1550,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 072
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/072_generated_05_1128_seedance-2-0.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095907-l9jhf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1548,9 +1570,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 073
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/073_generated_08_1143_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095910-h55bn-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1568,9 +1590,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 074
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/074_generated_11_121_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095914-cszdz-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1588,9 +1610,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 075
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/075_generated_12_123_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095915-mzf8b-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1608,9 +1630,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 076
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/076_generated_14_1328_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095917-qrxpb-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1628,9 +1650,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 077
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/077_generated_15_1329_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095918-pfvx5-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1648,9 +1670,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 078
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/078_generated_16_1336_turbulent-sea-galleon.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095920-4c6bf-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1668,9 +1690,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 079
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/079_generated_17_134_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-fvj6t-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1688,9 +1710,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 080
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/080_generated_18_1342_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095924-kh2zp-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1708,9 +1730,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 081
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/081_generated_19_138_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526095925-rl72w-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1728,9 +1750,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 084
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/084_generated_01_1386_aurora-fizz.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100148-2dx6l-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1748,9 +1770,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 085
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/085_generated_02_1390_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100149-m97c6-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1768,9 +1790,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 086
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/086_generated_03_1391_bmx.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100150-98cvj-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1788,9 +1810,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 087
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/087_generated_04_1392_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100151-kkq6c-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1808,9 +1830,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 088
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/088_generated_05_1396_seedance-2-0.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100152-7jhhr-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1828,9 +1850,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 089
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/089_generated_06_142_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100153-jfknr-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1848,9 +1870,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 090
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/090_generated_07_1470_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100154-9xnsc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1868,9 +1890,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 091
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/091_generated_08_1478_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100155-5bmxc-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1888,9 +1910,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 092
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/092_generated_09_1537_seedance-2-0.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100156-t4tsb-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1908,9 +1930,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 093
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/093_generated_10_1550_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100157-p8lzb-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1928,9 +1950,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 094
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/094_generated_11_160_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100159-rlq5z-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1948,9 +1970,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 095
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/095_generated_12_1633_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100200-pknqd-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1968,9 +1990,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 096
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/096_generated_13_1707_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100201-6vkk2-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -1988,9 +2010,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 097
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/097_generated_14_1709_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100203-hj4zv-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -2008,9 +2030,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 098
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/098_generated_15_1720_seedance-2-0.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100204-mrc5s-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -2028,9 +2050,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 099
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/099_generated_16_1768_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100206-kx88c-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -2048,9 +2070,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 100
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/100_generated_17_1775_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100207-lhtz8-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -2068,9 +2090,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 101
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/101_generated_18_1776_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100209-b9z5g-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -2088,9 +2110,9 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **来源:** `Gemini Omni Flash | prompts-hub generated`
 - **作者:** Atlas Generated 102
 - **語言:** `zh-TW`
-- **影片:** [查看](./previews/generated/102_generated_19_1777_case.md)
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
 
-<video src="https://temp-24h-m4x2.oss-accelerate-overseas.aliyuncs.com/videos/cgt-20260526100210-hcxz6-0.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4" controls muted playsinline width="720"></video>
 
 #### 描述
 
@@ -2103,3 +2125,13 @@ Based on the provided office building promotional photos, generate a 15-second c
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gemini-omni-prompts) — 300+ models, one API key.

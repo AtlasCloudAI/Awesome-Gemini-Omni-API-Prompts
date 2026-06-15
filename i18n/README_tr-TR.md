@@ -1,4 +1,4 @@
-# 🎬 Awesome Gemini Omni Prompts
+# 🎬 Awesome Gemini Omni Promptlari
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -8,25 +8,25 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
-Uma colecao curada de exemplos de prompts Gemini Omni com previews de video OSS incorporados.
+Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
-Este repositorio organiza exemplos publicos de video do Gemini Omni. Cada entrada inclui um video de previa e um prompt localizado.
+Bu depo Gemini Omni icin herkese acik video orneklerini duzenler. Her kayitta bir onizleme videosu ve yerlestirilmis prompt bulunur.
 
-- **Atual:** Português (Brasil)
-- **Outros Idiomas:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
+- **Guncel:** Türkçe
+- **Diger Diller:** [English](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/README.md) | [简体中文](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_zh.md) | [繁體中文](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_zh-TW.md) | [日本語](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_ja-JP.md) | [한국어](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_ko-KR.md) | [ไทย](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_th-TH.md) | [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_vi-VN.md) | [हिन्दी](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_hi-IN.md) | [Español](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_es-ES.md) | [Español (Latinoamérica)](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_es-419.md) | [Deutsch](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_de-DE.md) | [Français](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_fr-FR.md) | [Italiano](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_it-IT.md) | [Português (Brasil)](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_pt-BR.md) | [Português](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_pt-PT.md)
 
 ## 🤔 What is Gemini Omni?
 
 Gemini Omni is Google's multimodal video model — text-to-video, image-to-video and reference-to-video with native, synchronized audio. On Atlas Cloud it runs as `google/gemini-omni-flash/*`. Every preview below was generated through Atlas Cloud from the listed prompt.
 
-## 📊 Estatisticas
+## 📊 Istatistikler
 
-| Metrica | Quantidade |
+| Olcut | Sayi |
 | --- | ---: |
-| Total de Prompts | 392 |
-| Categorias | 8 |
-| Videos de Previa | 154 |
-| Ultima Atualizacao | 15/06/2026 |
+| Toplam Prompt | 392 |
+| Kategoriler | 8 |
+| Onizleme Videolari | 154 |
+| Son Guncelleme | 15.06.2026 |
 
 ### 🧩 Supported Models
 
@@ -45,7 +45,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 **[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**
 
-## 🏷️ Navegar por Categoria
+## 🏷️ Kategoriye Gore Gozat
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)
@@ -56,7 +56,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 - [Atlas Generated I2V](#category-7)
 - [Twitter Community](#category-8)
 
-## Todos os Prompts
+## Tum Promptlar
 
 <a id="category-1"></a>
 
@@ -64,15 +64,15 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 ### No. 1: Mirror: Liquid Metal Ripple
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_001
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_001
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
 
@@ -84,15 +84,15 @@ When the person touches the mirror, make the mirror ripple beautifully like liqu
 
 ### No. 2: Mirror: Line Art Transformation
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_002
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_002
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Mirror touch transforms the subject into a detailed monochrome line drawing.
 
@@ -104,15 +104,15 @@ When the person touches the mirror, the person transforms into a detailed monoch
 
 ### No. 3: Mirror: Puppet Transformation
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_003
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_003
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
 
@@ -124,15 +124,15 @@ When the person touches the mirror, the person suddenly transforms into a cute f
 
 ### No. 4: Mirror: Holograph Transformation
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_004
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_004
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
 
@@ -144,15 +144,15 @@ When the person touches the mirror, the person instantly transform into a vintag
 
 ### No. 5: Mirror: Voxel World
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_005
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_005
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Mirror touch turns the whole room into chunky 3D voxel art.
 
@@ -164,15 +164,15 @@ When the person touches the mirror, the entire environment turns into 3d voxel a
 
 ### No. 6: Butterfly to Bee
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_015
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_015
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Morph the butterfly into a bee.
 
@@ -184,15 +184,15 @@ Change the butterfly to a bee.
 
 ### No. 7: Bee to Fireflies
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_016
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_016
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Morph the bee into a small swarm of fireflies.
 
@@ -204,15 +204,15 @@ Change the bee into a small swarm of fireflies.
 
 ### No. 8: Spaceships: White Origami
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_023
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_023
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Transform the ships so they look like folded white origami paper.
 
@@ -224,15 +224,15 @@ Change the ships to be made from white origami paper.
 
 ### No. 9: Astronaut to Sea Anemone
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_024
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_024
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Transform the astronaut into a sea anemone.
 
@@ -244,15 +244,15 @@ Change the astronaut to a sea anemone.
 
 ### No. 10: Small Ships to Stingrays
 
-- **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_025
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
+- **Kategori:** `Transform & Stylization`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_025
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Transform the small ships into stingrays.
 
@@ -268,15 +268,15 @@ Change the small ships to stingrays.
 
 ### No. 11: Hand Hole Super Zoom
 
-- **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_006
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_006
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
 
@@ -288,15 +288,15 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ### No. 12: Animal Toy Sound Interaction
 
-- **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_007
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_007
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Touching each toy animal triggers the matching animal sound.
 
@@ -308,15 +308,15 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ### No. 13: Apartments Lights Sync to Music
 
-- **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_008
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_008
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Apartment lights switch on rhythmically in sync with the soundtrack.
 
@@ -328,15 +328,15 @@ The lights of the apartments start turning on in sync with the music.
 
 ### No. 14: Marble Chain Reaction
 
-- **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_013
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_013
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A marble races across a chain-reaction track in one continuous smooth shot.
 
@@ -348,15 +348,15 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ### No. 15: Building Lights Prompt Guide Variant
 
-- **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_017
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_017
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Building lights pulse and switch on in sync with the soundtrack.
 
@@ -368,15 +368,15 @@ The lights of the buildings start turning on in sync with the music.
 
 ### No. 16: Skateboard Motion Effects
 
-- **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_019
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
+- **Kategori:** `Action & Motion`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_019
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Keep the scene unchanged while adding animated motion effects from the skateboard.
 
@@ -392,15 +392,15 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ### No. 17: Violinist Input Base Shot
 
-- **Categoria:** `Camera & Perspective`
-- **Fonte:** `Google Blog | DeepMind Sequence`
-- **Autor:** omni_009
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `Google Blog | DeepMind Sequence`
+- **Yazar:** omni_009
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Base clip of a violinist playing, used as the starting point for later edits.
 
@@ -412,15 +412,15 @@ A video of a violinist playing a song.
 
 ### No. 18: Violinist: Transport to New Environment
 
-- **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_010
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_010
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Move the violinist performance into a new referenced environment.
 
@@ -432,15 +432,15 @@ Transport the violinist to the image environment
 
 ### No. 19: Violinist: Invisible Violin
 
-- **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_011
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_011
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Remove the violin while preserving the original performance.
 
@@ -452,15 +452,15 @@ Make the violin invisible
 
 ### No. 20: Violinist: Over-the-Shoulder Angle
 
-- **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Official`
-- **Autor:** omni_012
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Official`
+- **Yazar:** omni_012
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Reframe the performance from an over-the-shoulder camera angle.
 
@@ -472,15 +472,15 @@ Change the camera angle to be over the violinist's shoulder.
 
 ### No. 21: Camera Tilt: Shoes to Medium Shot
 
-- **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_020
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
+- **Kategori:** `Camera & Perspective`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_020
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Start close on the shoes, tilt up quickly, then widen the framing.
 
@@ -496,15 +496,15 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ### No. 22: Alphabet Items Sequence
 
-- **Categoria:** `Text & Sequences`
-- **Fonte:** `Google Blog | DeepMind Sequence`
-- **Autor:** omni_014
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
+- **Kategori:** `Text & Sequences`
+- **Kaynak:** `Google Blog | DeepMind Sequence`
+- **Yazar:** omni_014
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Show all 26 letters through unusual table-top objects with matching lower-thirds.
 
@@ -516,15 +516,15 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ### No. 23: Word-by-Word Text Sync
 
-- **Categoria:** `Text & Sequences`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_018
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
+- **Kategori:** `Text & Sequences`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_018
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Display one animated word at a time with rhythmic pacing.
 
@@ -540,15 +540,15 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 
 ### No. 24: Birds Shape With Audio
 
-- **Categoria:** `Multi-Input & Reference`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_021
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
+- **Kategori:** `Multi-Input & Reference`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_021
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
 
@@ -560,15 +560,15 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ### No. 25: Storyboard: Show Me in This Story
 
-- **Categoria:** `Multi-Input & Reference`
-- **Fonte:** `DeepMind Prompt Guide`
-- **Autor:** omni_022
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
+- **Kategori:** `Multi-Input & Reference`
+- **Kaynak:** `DeepMind Prompt Guide`
+- **Yazar:** omni_022
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Turn storyboard panels into a 10-second cinematic sequence in exact order.
 
@@ -584,15 +584,15 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ### No. 26: Golden Deer
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 026
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 026
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single dro...
 
@@ -604,15 +604,15 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 
 ### No. 27: Perfume Ice
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 027
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 027
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fracture...
 
@@ -624,15 +624,15 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 
 ### No. 28: Mini Chef Ramen
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 028
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 028
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth...
 
@@ -644,15 +644,15 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 
 ### No. 29: Aurora Astronaut
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 029
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 029
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the sc...
 
@@ -664,15 +664,15 @@ Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walk
 
 ### No. 30: Opera Stage Transformation
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 034
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 034
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use cam...
 
@@ -684,15 +684,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 31: One-Take Seamless Transition
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 035
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 035
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera...
 
@@ -704,15 +704,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 32: Coffee Morning Campaign
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 036
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 036
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement...
 
@@ -724,15 +724,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 33: Sunflower Skateboard Story
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 037
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 037
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies pok...
 
@@ -744,15 +744,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 34: Titanic Dark Twist
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 038
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 038
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist...
 
@@ -764,15 +764,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 35: Anime Chess Battle Storyboard
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 039
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 039
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female p...
 
@@ -784,15 +784,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 36: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 040
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 040
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sun...
 
@@ -804,15 +804,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 37: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 041
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 041
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overc...
 
@@ -824,15 +824,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 38: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 042
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 042
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through...
 
@@ -844,15 +844,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 39: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 043
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 043
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while...
 
@@ -864,15 +864,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 40: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 044
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 044
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots...
 
@@ -884,15 +884,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 41: One Punch Man Animation Surpassing Original Quality
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 045
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 045
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls,...
 
@@ -904,15 +904,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 42: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 046
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 046
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. ...
 
@@ -924,15 +924,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 43: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 047
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 047
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing....
 
@@ -944,15 +944,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 44: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 048
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 048
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and form...
 
@@ -964,15 +964,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 45: Hyper-Energetic Japanese Promo Poster
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 049
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 049
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poster.
 
@@ -984,15 +984,15 @@ Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poste
 
 ### No. 46: 逼真的海岸跑车摄影
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 050
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 050
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {arg...
 
@@ -1004,15 +1004,15 @@ A photorealistic, high-resolution automotive shot of a {argument name="car color
 
 ### No. 47: 动漫风狐狸少女求抱抱
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 051
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 051
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark bro...
 
@@ -1024,15 +1024,15 @@ An anime-style illustration of a cute girl with {argument name="animal ears" def
 
 ### No. 48: 优雅酒吧咖啡桌旁的女性
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 052
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 052
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward wi...
 
@@ -1044,15 +1044,15 @@ A candid, photorealistic vertical photo of a woman seated at a rustic wooden tab
 
 ### No. 49: 可爱的四格校园社团漫画
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 053
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 053
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 
@@ -1064,15 +1064,15 @@ Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 
 ### No. 50: 蒙娜丽莎审查版油画
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 054
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 054
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent ...
 
@@ -1084,15 +1084,15 @@ A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissan
 
 ### No. 51: 两位女性在复古商店购物
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 055
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 055
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the l...
 
@@ -1104,15 +1104,15 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 
 ### No. 52: 日语 AI 编程培训横幅
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 056
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 056
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified prom...
 
@@ -1124,15 +1124,15 @@ Create a clean Japanese corporate training banner in a wide horizontal web-heade
 
 ### No. 53: 动漫日落电影海报
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 057
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 057
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth dr...
 
@@ -1144,15 +1144,15 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 
 ### No. 54: 2x2 日式横幅广告网格
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 058
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 058
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 
@@ -1164,15 +1164,15 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 
 ### No. 55: 长条伸展虎斑猫
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 059
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 059
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an ab...
 
@@ -1184,15 +1184,15 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 
 ### No. 56: 照片级写实躺姿肖像
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 060
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 060
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" ...
 
@@ -1204,15 +1204,15 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 ### No. 57: Landscape Transition Music Video
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 082
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 082
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 @image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
 
@@ -1224,15 +1224,15 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 ### No. 58: Parkour Chase Sequence
 
-- **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 083
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
+- **Kategori:** `Atlas Generated T2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 083
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 @image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlook...
 
@@ -1248,15 +1248,15 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 ### No. 59: Storyboard Cinematic
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 030
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 030
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
 
@@ -1268,15 +1268,15 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ### No. 60: Burger Assembly
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 031
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 031
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one...
 
@@ -1288,15 +1288,15 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 
 ### No. 61: Paper Typography
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 032
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 032
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast rea...
 
@@ -1308,15 +1308,15 @@ Motion graphics animation driven by the reference composition. Turn the referenc
 
 ### No. 62: Logo Reveal
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 033
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 033
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric ...
 
@@ -1328,15 +1328,15 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 
 ### No. 63: Elegant Laundry Scene
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 061
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 061
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
 
@@ -1348,15 +1348,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 64: Interactive Painting Character
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 062
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 062
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and t...
 
@@ -1368,15 +1368,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 65: Victorian Street Scene
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 063
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 063
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th ce...
 
@@ -1388,15 +1388,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 66: Magnetic Bow Product Showcase
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 064
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 064
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover...
 
@@ -1408,15 +1408,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 67: Horror First-Person Exploration
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 065
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 065
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @i...
 
@@ -1428,15 +1428,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 68: Martial Arts Combat Scene
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 066
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 066
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
 
@@ -1448,15 +1448,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 69: Car Commercial Cinematography
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 067
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 067
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
 
@@ -1468,15 +1468,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 70: Abstract Instant Noodles
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 068
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 068
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
 
@@ -1488,15 +1488,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 71: Childhood Seasons Documentary
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 069
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 069
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second he...
 
@@ -1508,15 +1508,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 72: Donkey Motorcycle Stunt Ad
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 070
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 070
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle...
 
@@ -1528,15 +1528,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 73: Office Building Documentary
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 071
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 071
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual...
 
@@ -1548,15 +1548,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 74: 迦梨女神神话写实主义视频提示词，适用于 Seedance 2.0
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 072
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 072
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
 
@@ -1568,15 +1568,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 75: 高速魔法森林之旅
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 073
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 073
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
 
@@ -1588,15 +1588,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 76: 总监级运镜提示词
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 074
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 074
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 @Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
 
@@ -1608,15 +1608,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 77: 电影级拉力赛车场景
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 075
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 075
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
 
@@ -1628,15 +1628,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 78: 邵氏风格打斗场面
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 076
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 076
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
 
@@ -1648,15 +1648,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 79: 阿努比斯挠痒痒场景
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 077
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 077
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis)...
 
@@ -1668,15 +1668,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 80: Turbulent Sea Galleon 电影级提示词
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 078
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 078
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰...
 
@@ -1688,15 +1688,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 81: 赛博朋克电影：夜间追逐与武士刀格斗
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 079
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 079
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，...
 
@@ -1708,15 +1708,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 82: 星际巡洋舰追逐与零重力内部场景
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 080
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 080
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。...
 
@@ -1728,15 +1728,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 83: 多角色机舱对话场景
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 081
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 081
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image...
 
@@ -1748,15 +1748,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 84: 高端商业广告：AURORA FIZZ
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 084
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 084
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核...
 
@@ -1768,15 +1768,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 85: 惊涛骇浪中的沉船电影场景
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 085
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 085
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
 
@@ -1788,15 +1788,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 86: 贫民窟里的 BMX 骑手
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 086
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 086
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。...
 
@@ -1808,15 +1808,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 87: 乐高探险家被北极熊追赶
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 087
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 087
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
 
@@ -1828,15 +1828,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 88: Seedance 2.0 提示词，用于幽默动漫场景
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 088
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 088
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
 
@@ -1848,15 +1848,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 89: 逃离巨型怪物（奥术风格）
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 089
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 089
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
 
@@ -1868,15 +1868,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 90: 未来感十足的兰博基尼组装商业广告提示
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 090
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 090
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在...
 
@@ -1888,15 +1888,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 91: 巨龙围攻古堡
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 091
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 091
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
 
@@ -1908,15 +1908,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 92: Seedance 2.0 低空飞行器飞行视频提示
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 092
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 092
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
 
@@ -1928,15 +1928,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 93: 暖心森林喜剧视频提示
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 093
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 093
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
 
@@ -1948,15 +1948,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 94: 马赛村庄的混乱
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 094
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 094
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
 
@@ -1968,15 +1968,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 95: 重庆的哥斯拉巨型白虎斑猫
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 095
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 095
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：...
 
@@ -1988,15 +1988,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 96: 持续一镜到底的灾难片写实主义
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 096
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 096
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到...
 
@@ -2008,15 +2008,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 97: 充满活力的橙味汽水广告拍摄
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 097
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 097
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
 
@@ -2028,15 +2028,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 98: Seedance 2.0 全球女性通用机甲变身视频提示词
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 098
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 098
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，...
 
@@ -2048,15 +2048,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 99: 办公室神龙
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 099
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 099
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
 
@@ -2068,15 +2068,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 100: 斋月至开斋节无限缩放超延时摄影
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 100
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 100
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（...
 
@@ -2088,15 +2088,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 101: 怒海狂龙
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 101
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 101
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
 
@@ -2108,15 +2108,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 102: 女性角色装甲组装与飞行
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 102
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
+- **Kategori:** `Atlas Generated I2V`
+- **Kaynak:** `Gemini Omni Flash | prompts-hub generated`
+- **Yazar:** Atlas Generated 102
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
 镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，...
 
@@ -2130,19 +2130,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### Twitter Community (290)
 
-### No. 103: Retrato Romântico na Natureza - Fotografia Editorial
+### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Virena
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Virena
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para um retrato de arte contemporânea no estilo cottagecore moderno, enfatizando uma feminilidade suave e a conexão com a natureza.
+Yumuşak feminenliği ve doğayı vurgulayan, modern cottagecore tarzında bir sanat portresi için bir prompt.
 
 #### Prompt
 
@@ -2157,19 +2157,19 @@ Um prompt para um retrato de arte contemporânea no estilo cottagecore moderno, 
 }
 ```
 
-### No. 104: Celebração de Aniversário de Elon Musk
+### No. 104: Elon Musk Doğum Günü Kutlaması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** coloringany.com
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** coloringany.com
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Elon Musk posa dentro de um número 54 decorado com flores e balões para comemorar seu aniversário.
+Elon Musk, doğum günü için çiçekler ve balonlarla süslenmiş, içinde poz verdiği bir '54' rakamının içinde.
 
 #### Prompt
 
@@ -2177,19 +2177,19 @@ Elon Musk posa dentro de um número 54 decorado com flores e balões para comemo
 Elon Musk sitting inside a large decorative number 54 filled with white roses, gold and silver balloons, and geometric ornaments, bright studio lighting, celebratory birthday theme
 ```
 
-### No. 105: Mulher alegre na feira noturna do festival
+### No. 105: Festival akşam pazarında neşeli kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um vibrante plano médio de uma mulher loira sorridente com mechas roxas no cabelo, em uma feira ao ar livre à noite.
+Mor şeritli saçlı, gülümseyen sarışın bir kadının, açık hava akşam pazarında çekilmiş canlı bir orta plan yakın çekim portresi.
 
 #### Prompt
 
@@ -2197,19 +2197,19 @@ Um vibrante plano médio de uma mulher loira sorridente com mechas roxas no cabe
 A vibrant, medium close-up shot of a cheerful young woman with long, curly blonde hair streaked with subtle hints of purple, smiling broadly at an outdoor festival evening market.
 ```
 
-### No. 106: Mulher loira na janela
+### No. 106: Pencerenin yanındaki sarışın kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Pinodi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pinodi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher loira de camisa branca senta-se graciosamente em um assento de janela, banhada por uma luz natural suave.
+Beyaz bir gömlek giyen sarışın bir kadın, yumuşak doğal ışıkla aydınlanan bir pencere kenarında zarifçe oturuyor.
 
 #### Prompt
 
@@ -2217,19 +2217,19 @@ Uma mulher loira de camisa branca senta-se graciosamente em um assento de janela
 a beautiful blonde woman sitting on a window seat, wearing a white oversized shirt and sheer white socks, natural light from the window, soft focus background, elegant and serene pose
 ```
 
-### No. 107: Prompt de Transferência de Identidade de Referência de Personagem
+### No. 107: Karakter Referansı Kimlik Aktarımı Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Lore
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Lore
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt em JSON para transferir a identidade de um personagem, preservando características faciais, cabelo, formato dos olhos e tom de pele.
+Yüz özelliklerini, saçı, göz şeklini ve ten rengini korurken karakter kimliğini aktarmak için bir JSON prompt'u.
 
 #### Prompt
 
@@ -2248,19 +2248,19 @@ Um prompt em JSON para transferir a identidade de um personagem, preservando car
 }
 ```
 
-### No. 108: Comparação de Gráficos de Futebol por IA
+### No. 108: AI Futbol Grafikleri Karşılaştırması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alpha Mom
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alpha Mom
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma comparação lado a lado de quatro modelos de IA gerando cenas realistas de jogos de futebol.
+Gerçekçi futbol maçı sahneleri oluşturan dört AI modelinin yan yana karşılaştırması.
 
 #### Prompt
 
@@ -2268,19 +2268,19 @@ Uma comparação lado a lado de quatro modelos de IA gerando cenas realistas de 
 four panels comparing AI-generated soccer game graphics from Kling 3.0, Gemini Omni Flash, Grok Imagine, and Seedance 2.0, each showing a different player in action on a stadium field with crowd and lighting effects
 ```
 
-### No. 109: princesa no sonho cor-de-rosa
+### No. 109: pembe rüyadaki prenses
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em vestido lavanda e tiara sentada no meio de algodão-doce rosa, em um cenário de estúdio onírico e colorido em tons pastel.
+Lavanta rengi bir elbise ve taç giyen bir kadın, rüya gibi, pastel renkli bir stüdyo ortamında pembe pamuk şekerin ortasında oturuyor.
 
 #### Prompt
 
@@ -2288,19 +2288,19 @@ Uma mulher em vestido lavanda e tiara sentada no meio de algodão-doce rosa, em 
 a woman with long blonde hair wearing a silver tiara and a lavender dress, sitting on a pink floor surrounded by fluffy pink cotton candy, soft lighting, studio photography
 ```
 
-### No. 110: Prompt para Cena de Estúdio de Fantasia Onírica
+### No. 110: Rüya Gibi Fantastik Stüdyo Sahnesi Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado para gerar uma cena de estúdio de fantasia caprichosa, em rosa pastel.
+Tuhaf, pastel pembe bir fantastik stüdyo sahnesi oluşturmak için yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -2311,19 +2311,19 @@ Um prompt estruturado para gerar uma cena de estúdio de fantasia caprichosa, em
     "background": "soft pastel pink studio environment filled with fluffy cloud-like formations surrounding the subject, seamless pink floor and backdrop blending together, whimsical fairytale"
 ```
 
-### No. 111: Arte Linear Minimalista de Abelha com Texto Gentil
+### No. 111: Nazik Metinli Minimalist Arı Çizgi Sanatı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Heather Green
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Heather Green
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma ilustração minimalista de linha contínua de uma abelha com flores e texto em cursivo.
+Çiçekler ve el yazısı metinle birlikte bir arının minimalist, sürekli çizgi sanatı illüstrasyonu için bir prompt.
 
 #### Prompt
 
@@ -2331,19 +2331,19 @@ Um prompt para uma ilustração minimalista de linha contínua de uma abelha com
 minimalist, elegant single continuous line art illustration of a bee surrounded by delicate flowers, centered on a clean white background; below the bee, the word 'Kind' in flowing cursive script, balanced composition, thin
 ```
 
-### No. 112: Pintura Cubista de Piratas em Tons Terrosos
+### No. 112: Toprak Tonlarında Kübist Korsan Tablosu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Ash
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ash
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma pintura a óleo texturizada de três piratas no estilo Cubista de Picasso, com formas geométricas e tons terrosos escuros.
+Geometrik şekiller ve koyu toprak tonlarıyla, Picasso'nun Kübist tarzında üç korsanın yer aldığı dokulu bir yağlı boya tablo oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -2351,19 +2351,19 @@ Um prompt para gerar uma pintura a óleo texturizada de três piratas no estilo 
 Textured oil painting in the Cubist style of Pablo Picasso of 3 pirares, using interlocking geometric shapes. Dark earthy shades.
 ```
 
-### No. 113: Aplicativo de IA para Editorial de Moda
+### No. 113: Moda Editoryal AI Uygulaması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Vladilsav
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Vladilsav
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma imagem promocional para o aplicativo MIU AI, mostrando seus recursos de editorial de moda e interface do usuário.
+MIU AI uygulamasının moda editoryal özelliklerini ve kullanıcı arayüzünü sergileyen tanıtım görseli.
 
 #### Prompt
 
@@ -2371,19 +2371,19 @@ Uma imagem promocional para o aplicativo MIU AI, mostrando seus recursos de edit
 A sleek black background with a smartphone displaying the MIU AI app interface, featuring fashion editorial content, K-pop trends, and a 'Content Lab' section. The left side shows the app's logo, tagline 'A fashion editorial in your pocket,' and an App Store listing for 'MIU AI: Photo Video Generator.' The design uses pink and white text on a dark theme, with a modern, high-tech aesthetic. The overall look is clean, sophisticated, and focused on AI-generated fashion content.
 ```
 
-### No. 114: Aldric enfrentando uma criatura sombria em uma floresta encharcada pela chuva
+### No. 114: Aldric'in yağmurlu bir ormanda karanlık bir yaratıkla yüzleşmesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Cortex Visual ・ AI Movies
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Cortex Visual ・ AI Movies
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma cena dramática de um guerreiro confrontando um monstro que avança em uma floresta morta e lamacenta durante a chuva.
+Yağmur altındaki çamurlu, ölü bir ormanda, saldıran bir canavarla yüzleşen bir savaşçının dramatik sahnesi için bir prompt.
 
 #### Prompt
 
@@ -2391,19 +2391,19 @@ Um prompt para uma cena dramática de um guerreiro confrontando um monstro que a
 Aldric standing his ground in a rain-soaked dead forest, sword held firmly with both hands, feet planted in the mud, facing a massive dark humanoid creature charging directly toward him at full speed, monstrous
 ```
 
-### No. 115: Mulher com seios volumosos em maiô vermelho encostada em escada
+### No. 115: Merdivene yaslanmış, kırmızı mayolu dolgun hatlı kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Justice Studio 2.0
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Justice Studio 2.0
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma foto espontânea de corpo inteiro de uma mulher em maiô carmesim posando contra uma escada de biblioteca de madeira.
+Ahşap bir kütüphane merdivenine karşı poz veren, kızıl renkli mayolu bir kadının doğal, tam vücut fotoğrafı.
 
 #### Prompt
 
@@ -2411,19 +2411,19 @@ Uma foto espontânea de corpo inteiro de uma mulher em maiô carmesim posando co
 Candid full-body iPhone photo of a busty mid-30s woman with large heavy breasts in a tiny crimson red one-piece swimsuit, leaning against an old wooden library ladder, one leg raised, hand gripping it. Wet messy dark
 ```
 
-### No. 116: Prompt de Retrato Ultra-realista com Flash Y2K
+### No. 116: Ultra-gerçekçi Y2K flaş portre prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** simply
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** simply
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para um retrato de beleza realista e espontâneo, com a energia da fotografia com flash dos anos 2000.
+Y2K flaş fotoğrafçılığı enerjisine sahip, gerçekçi ve doğal bir güzellik portresi için bir prompt.
 
 #### Prompt
 
@@ -2431,19 +2431,19 @@ Um prompt para um retrato de beleza realista e espontâneo, com a energia da fot
 Ultra-realistic candid beauty portrait of a glamorous woman captured indoors at night. The atmosphere feels spontaneous, luxurious, and natural, with authentic Y2K flash-photography energy. Photographed at close range using a premium
 ```
 
-### No. 117: Cena de Quarto de Vestir em Apartamento de Luxo Moderno
+### No. 117: Modern Lüks Daire Giyinme Odası Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma cena de vídeo ambientada em um quarto de vestir de apartamento de luxo moderno, com interior limpo e contemporâneo.
+Temiz, çağdaş bir iç mekana sahip modern bir lüks dairenin giyinme odasında geçen bir video sahnesi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -2454,19 +2454,19 @@ Um prompt para gerar uma cena de vídeo ambientada em um quarto de vestir de apa
     "background": "clean contemporary interior with wardrobe shelves and clothing storage softly blurred in the distance, minimalist modern decor, large feature wall covered with a
 ```
 
-### No. 118: Pôster de Mural Alegórico de Dois Ícones do Futebol
+### No. 118: İki Futbol İkonunun Alegorik Duvar Resmi Posteri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um mural alegórico simétrico detalhado em formato de pôster vertical com textura de papel envelhecido, celebrando duas carreiras lendárias do futebol.
+Eski kağıt dokulu, dikey poster formatında, iki efsanevi futbol kariyerini kutlayan detaylı ve simetrik bir alegorik duvar resmi.
 
 #### Prompt
 
@@ -2474,19 +2474,19 @@ Um mural alegórico simétrico detalhado em formato de pôster vertical com text
 A striking vertical art poster rendered in the style of a detailed, symmetrical allegorical mural with an aged paper texture, paying tribute to the unique and parallel careers of two
 ```
 
-### No. 119: Troféus das Nações da Copa do Mundo
+### No. 119: Dünya Kupası Ulus Kupaları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** TechieSA
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TechieSA
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma colagem criativa de troféus da Copa do Mundo representando Inglaterra, Argentina, Brasil e França com ícones nacionais e slogans.
+İngiltere, Arjantin, Brezilya ve Fransa'yı ulusal simgeler ve sloganlarla temsil eden, Dünya Kupası kupa koleksiyonundan oluşan yaratıcı bir kolaj.
 
 #### Prompt
 
@@ -2494,19 +2494,19 @@ Uma colagem criativa de troféus da Copa do Mundo representando Inglaterra, Arge
 Four World Cup trophy designs made of national symbols, flags, and cultural elements for England, Argentina, Brazil, and France, each with confetti and vibrant backgrounds, in a 2x2 grid layout
 ```
 
-### No. 120: Mulher com marca de beijo
+### No. 120: Öpücük İzi Olan Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em um vestido vermelho pisca para a câmera com uma marca de batom de beijo em seu ombro, contra um cenário costeiro pitoresco.
+Kırmızı elbiseli bir kadın, omzunda rujla yapılmış bir öpücük iziyle kameraya göz kırpıyor; sahne, manzaralı bir kıyı fonuna karşı kurulmuş.
 
 #### Prompt
 
@@ -2514,19 +2514,19 @@ Uma mulher em um vestido vermelho pisca para a câmera com uma marca de batom de
 a woman in a red dress winking with a lipstick kiss mark on her shoulder, standing on a cliff overlooking the ocean, sunny day, golden hour lighting, realistic photography
 ```
 
-### No. 121: Cena Costeira Vista de Colina ao Ar Livre
+### No. 121: Açık Hava Tepesi Manzarası Kıyı Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado para gerar uma paisagem costeira ensolarada a partir de uma perspectiva de colina.
+Bir tepeden bakış açısıyla güneşli bir kıyı manzarası oluşturmak için yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -2540,19 +2540,19 @@ Um prompt estruturado para gerar uma paisagem costeira ensolarada a partir de um
 }
 ```
 
-### No. 122: Homem adulto de frente para a câmera com olhar intenso
+### No. 122: Kameraya Yoğun Bakışlarıyla Bakan Yetişkin Erkek
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Picts by AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo um homem com expressão séria, pele bronzeada e barba escura, encarando a câmera diretamente.
+Ciddi bir ifadeye, bronz tene ve koyu renk sakala sahip, doğrudan kameraya bakan bir erkeği tanımlayan bir prompt.
 
 #### Prompt
 
@@ -2560,19 +2560,19 @@ Um prompt descrevendo um homem com expressão séria, pele bronzeada e barba esc
 An adult male stands squarely facing the camera with level shoulders and a centered stance, his intense, serious direct gaze piercing through the frame. He has a warm tan complexion, a full dark beard, and heavily
 ```
 
-### No. 123: Ranking de Texto para Vídeo
+### No. 123: Metinden Videoya Sıralamaları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Steren
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Steren
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um quadro de líderes exibindo a classificação de modelos de IA de texto para vídeo com pontuações e votos.
+Metinden videoya yapay zeka modellerinin puanları ve oylarla birlikte sıralamalarını gösteren bir liderlik tablosu.
 
 #### Prompt
 
@@ -2580,19 +2580,19 @@ Um quadro de líderes exibindo a classificação de modelos de IA de texto para 
 A screenshot of a text-to-video model ranking leaderboard with a clean, modern UI, white background, and a table listing models like gemini-omni-flash, dreamina-seedance, and happyhorse-1.0, showing rank, score, and votes, with a 'View all' button at the bottom.
 ```
 
-### No. 124: Ranking de Modelos de Texto para Vídeo
+### No. 124: Metinden Videoya Model Sıralamaları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Yash Bhalgat
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Yash Bhalgat
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um quadro de líderes com tema escuro exibindo os principais modelos de IA de texto para vídeo com suas pontuações, votos e classificações.
+En iyi metinden videoya yapay zeka modellerini puanları, oyları ve sıralamalarıyla gösteren koyu temalı bir liderlik tablosu.
 
 #### Prompt
 
@@ -2600,19 +2600,19 @@ Um quadro de líderes com tema escuro exibindo os principais modelos de IA de te
 dark theme interface showing a ranked list of text-to-video AI models with scores and votes
 ```
 
-### No. 125: Gato em Wireframe Bebendo Chá
+### No. 125: Tel Kafes Çay İçen Kedi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** TechieSA
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TechieSA
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gato geométrico em wireframe desfruta de uma xícara de chá em uma mesa com um bule e um pires.
+Geometrik bir tel kafes kedi, bir çaydanlık ve fincan tabağı bulunan bir masada bir fincan çayın keyfini çıkarıyor.
 
 #### Prompt
 
@@ -2620,19 +2620,19 @@ Um gato geométrico em wireframe desfruta de uma xícara de chá em uma mesa com
 a wireframe cat drinking tea, geometric low-poly style, blue and white, sitting at a table with teapot and saucer, digital art, 3D render
 ```
 
-### No. 126: Gemini Omni Flash ocupa o 1º lugar
+### No. 126: Gemini Omni Flash Birinci Sırada
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alexandre Moufarek
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alexandre Moufarek
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um quadro de líderes comparando modelos de IA de texto para vídeo, com o Gemini Omni Flash liderando o ranking.
+Gemini Omni Flash'ın liderlik ettiği, metinden videoya yapay zeka modellerini karşılaştıran bir liderlik tablosu.
 
 #### Prompt
 
@@ -2640,19 +2640,19 @@ Um quadro de líderes comparando modelos de IA de texto para vídeo, com o Gemin
 A bar chart ranking text-to-video AI models with Gemini Omni Flash at #1, featuring a clean, modern design with teal bars and a light background.
 ```
 
-### No. 127: Ahsoka na Sombra
+### No. 127: Gölgedeki Ahsoka
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ImPaul
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ImPaul
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um close-up de Ahsoka Tano com iluminação dramática destacando seu rosto e características encapuzadas.
+Yüzünü ve kapüşonlu özelliklerini vurgulayan dramatik ışıklandırmayla Ahsoka Tano'nun yakın çekimi.
 
 #### Prompt
 
@@ -2660,19 +2660,19 @@ Um close-up de Ahsoka Tano com iluminação dramática destacando seu rosto e ca
 Ahsoka Tano, close-up portrait, dramatic lighting, white facial markings, striped hood, dark background, intense gaze, cinematic style
 ```
 
-### No. 128: Benchmark de Texto para Vídeo
+### No. 128: Metinden Videoya Kıyaslama
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Mikel | AI Engineer
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Mikel | AI Engineer
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras comparando as pontuações ELO de vários modelos de texto para vídeo em preferência geral e seguimento de instruções.
+Çeşitli metinden videoya modellerinin genel tercih ve talimatlara uyma konusundaki ELO puanlarını karşılaştıran bir çubuk grafik.
 
 #### Prompt
 
@@ -2680,19 +2680,19 @@ Um gráfico de barras comparando as pontuações ELO de vários modelos de texto
 A bar chart comparing text-to-video models on overall preference and instruction following, with blue, black, dark gray, light gray, and white bars, labeled with ELO scores, set against a clean white background with a legend and title.
 ```
 
-### No. 129: Foto POV Dentro de uma Máquina de Lavar
+### No. 129: Çamaşır Makinesi İçinden Bakış Açısı Fotoğrafı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Giulia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma fotografia de estilo de vida peculiar e íntima, em ponto de vista, de dentro de uma máquina de lavar olhando para Sydney Sweeney.
+Sydney Sweeney'ye bakan, bir çamaşır makinesinin içinden alınmış, tuhaf ve samimi bir bakış açısı (POV) yaşam tarzı fotoğrafı için bir prompt.
 
 #### Prompt
 
@@ -2700,19 +2700,19 @@ Um prompt para uma fotografia de estilo de vida peculiar e íntima, em ponto de 
 A quirky and intimate POV lifestyle photograph taken from the inside of a washing machine looking out at Sydney Sweeney.
 ```
 
-### No. 130: Pose de Halloween do Ghostface
+### No. 130: Ghostface Cadılar Bayramı Pozu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em um vestido preto segura uma máscara do Ghostface em um cenário dramático de porta.
+Siyah elbiseli bir kadın, dramatik bir kapı girişi ortamında bir Ghostface maskesi tutuyor.
 
 #### Prompt
 
@@ -2720,19 +2720,19 @@ Uma mulher em um vestido preto segura uma máscara do Ghostface em um cenário d
 a woman in a black dress holding a Ghostface mask, standing in a doorway with a candle, wearing black lace gloves and stockings, dark background with star effects, cinematic lighting, horror theme
 ```
 
-### No. 131: Retrato Cinematográfico Paquistanês Ultra Realista
+### No. 131: Son Derece Gerçekçi Sinematik Pakistan Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Salina
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Salina
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para criar um retrato cinematográfico em alta resolução de uma mulher em trajes tradicionais paquistaneses.
+Geleneksel Pakistan kıyafetleri içindeki bir kadının yüksek çözünürlüklü, sinematik bir portresini oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -2740,19 +2740,19 @@ Um prompt para criar um retrato cinematográfico em alta resolução de uma mulh
 Use uploaded photo to create AN ULTRA REALISTIC HIGH RESOLUTION CINEMATIC PORTRAIT. A beautiful woman with long brown hair, haf-updo, wearing a black traditional Pakistani dress (shalwar kameez) with bright maroon scalloped trim
 ```
 
-### No. 132: Mulher com balões no Coliseu
+### No. 132: Kolezyum'da Balonlu Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Maria Pratt
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Maria Pratt
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em um vestido lavanda segura um buquê de balões roxos marmorizados em frente ao Coliseu ao pôr do sol.
+Lavanta rengi bir elbise giyen bir kadın, gün batımında Kolezyum'un önünde mor mermer desenli balon demeti tutuyor.
 
 #### Prompt
 
@@ -2760,19 +2760,19 @@ Uma mulher em um vestido lavanda segura um buquê de balões roxos marmorizados 
 a woman in a flowing lavender tulle gown holding a large cluster of purple marbled balloons, standing in front of the Colosseum at sunset, cinematic lighting, photorealistic, 8k
 ```
 
-### No. 133: Conceito de Filme Live Action de Ben 10
+### No. 133: Ben 10 Canlı Aksiyon Film Konsepti
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Karan
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Karan
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt explorando uma adaptação cinematográfica em live-action da franquia Ben 10.
+Ben 10 franchise'ının canlı aksiyon film uyarlamasını keşfeden bir prompt.
 
 #### Prompt
 
@@ -2780,19 +2780,19 @@ Um prompt explorando uma adaptação cinematográfica em live-action da franquia
 What if Ben 10 had a live action movie
 ```
 
-### No. 134: Gemini Omni Flash ocupa a 1ª posição
+### No. 134: Gemini Omni Flash 1. sırada
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Tokens on Solana
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Tokens on Solana
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras mostrando o Gemini Omni Flash como o modelo de IA de texto para vídeo mais bem classificado.
+Gemini Omni Flash'ı en üst sıradaki metinden videoya AI modeli olarak gösteren bir çubuk grafik.
 
 #### Prompt
 
@@ -2800,19 +2800,19 @@ Um gráfico de barras mostrando o Gemini Omni Flash como o modelo de IA de texto
 A bar chart comparing text-to-video AI models with scores, highlighting Gemini Omni Flash as ranked #1, clean modern design, light background, Arena AI branding
 ```
 
-### No. 135: Benchmark de Texto para Vídeo
+### No. 135: Metinden Videoya Kıyaslama
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** testtm
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** testtm
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras comparando modelos de geração de vídeo por IA em preferência e seguimento de instruções.
+AI video oluşturma modellerini tercih ve talimatlara uyma açısından karşılaştıran bir çubuk grafik.
 
 #### Prompt
 
@@ -2820,19 +2820,19 @@ Um gráfico de barras comparando modelos de geração de vídeo por IA em prefer
 A bar chart comparing text-to-video models on overall preference and instruction following, with blue bars for Gemini Omni Flash, black for Seedance 2.0, dark gray for HappyHorse, light gray for Kling v3 Pro, very light gray for Grok-Imagine-Video, and white for Wan 2.7, showing ELO scores from 800 to 1150, with data labels on each bar, set against a clean white background with a title at the top and descriptive text below.
 ```
 
-### No. 136: Mulher na Piscina com Vista para a Cidade
+### No. 136: Şehir Manzaralı Havuzdaki Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** J⭕DIE
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** J⭕DIE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma imagem de uma jovem com sardas e cabelos ruivos em uma piscina cercada por vistas da cidade.
+Çilli ve kızıl saçlı genç bir kadının şehir manzaralarıyla çevrili bir havuzda olduğu bir görüntü oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -2840,19 +2840,19 @@ Um prompt para gerar uma imagem de uma jovem com sardas e cabelos ruivos em uma 
 A young woman with fair skin covered in light freckles, striking blue eyes, and long, wavy, wet auburn-red hair stands in the pool with breathtaking city views all around.
 ```
 
-### No. 137: Centro de Comando Móvel Futurista
+### No. 137: Fütüristik Mobil Komuta Merkezi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo um sofisticado centro de coordenação de campo de batalha com módulos expansíveis e telas holográficas.
+Genişletilebilir modüller ve holografik ekranlara sahip, sofistike bir muharebe koordinasyon merkezini tanımlayan bir prompt.
 
 #### Prompt
 
@@ -2861,19 +2861,19 @@ Futuristic Mobile Command Center
 A futuristic mobile command center designed as a sophisticated battlefield coordination hub, featuring expandable operations modules, holographic strategic displays, autonomous communication drones,
 ```
 
-### No. 138: Professora ajudando aluna
+### No. 138: Öğretmen öğrenciye yardım ediyor
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma professora auxilia uma aluna em seus estudos em um ambiente de sala de aula iluminado.
+Bir öğretmen, aydınlık bir sınıf ortamında bir öğrenciye ders çalışmasında yardım ediyor.
 
 #### Prompt
 
@@ -2881,19 +2881,19 @@ Uma professora auxilia uma aluna em seus estudos em um ambiente de sala de aula 
 a woman in a red shirt and black pants leaning over a student's desk in a classroom, pointing at an open textbook, the student writing in a notebook, realistic lighting, detailed facial features, classroom setting with desks, windows, and educational posters on the wall
 ```
 
-### No. 139: Prompt para Cena de Sala de Aula Moderna
+### No. 139: Modern Sınıf Sahnesi Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado para gerar um vídeo de um ambiente de sala de aula moderna, limpa e organizada.
+Temiz, düzenli, modern bir sınıf ortamının videosunu oluşturmak için yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -2906,19 +2906,19 @@ Um prompt estruturado para gerar um vídeo de um ambiente de sala de aula modern
 }
 ```
 
-### No. 140: Transferência de Rosto para Cena de Iate de Luxo
+### No. 140: Yüze Lüks Yat Sahnesine Aktarım
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Jahan Zaib
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jahan Zaib
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para transferir um rosto de uma foto de referência para uma imagem ultra-realista de um iate de luxo, preservando a identidade e características exatas.
+Bir referans fotoğraftaki yüzü, kesin kimliği ve özellikleri koruyarak ultra gerçekçi bir lüks yat görüntüsüne aktarmak için bir prompt.
 
 #### Prompt
 
@@ -2926,19 +2926,19 @@ Um prompt para transferir um rosto de uma foto de referência para uma imagem ul
 use my reference photo, transfer the face from the photo without changing it, preserve exact identity, facial features, body proportions and natural skin tone with 100% similarity. Ultra-realistic luxury yacht photo, vertical 3:4.
 ```
 
-### No. 141: Retrato Dramático em Chamas e Fumaça
+### No. 141: Alev ve Duman İçindeki Dramatik Portre
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alex Prompts
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alex Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para um retrato amplo e dramático de um sujeito sentado em um piso de madeira cercado por chamas e fumaça.
+Alev ve dumanla çevrili, ahşap bir zeminde oturan bir öznenin dramatik geniş portresi için bir prompt.
 
 #### Prompt
 
@@ -2946,19 +2946,19 @@ Um prompt para um retrato amplo e dramático de um sujeito sentado em um piso de
 Dramatic wide portrait of IMAGE1 sitting casually on wooden floor completely  surrounded by large roaring flames and thick smoke, wearing a
 ```
 
-### No. 142: Prompt para Retrato Editorial de Moda Streetwear
+### No. 142: Moda Editorial Streetwear Portre Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato editorial de moda streetwear de luxo de uma mulher.
+Bir kadının lüks streetwear moda editorial portresini oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -2966,19 +2966,19 @@ Um prompt para gerar um retrato editorial de moda streetwear de luxo de uma mulh
 Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an oversized black leather bomber jacket, black oversized
 ```
 
-### No. 143: Perfil do Sheikh Omar Khan
+### No. 143: Şeyh Ömer Han Profili
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Natia Kurdadze
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Natia Kurdadze
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um perfil de mídia social que exibe um estilo de vida de luxo e conteúdo sobre construção de riqueza.
+Lüks bir yaşam tarzı ve zenginlik oluşturma içeriği sergileyen bir sosyal medya profili.
 
 #### Prompt
 
@@ -2986,19 +2986,19 @@ Um perfil de mídia social que exibe um estilo de vida de luxo e conteúdo sobre
 a screenshot of a social media profile page with a dark theme, showing a user named Sheikh Omar Khan, with posts, followers, and a dashboard displaying 8.4K views in the last 30 days, featuring images of a man in traditional Middle Eastern attire in luxurious settings like a private jet, yacht, and mansion, with app download links and promotional text about becoming wealthy
 ```
 
-### No. 144: promoção de bebida energética
+### No. 144: enerji içeceği tanıtımı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Dhairya
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dhairya
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma colagem dinâmica mostrando uma mulher promovendo uma bebida energética em um ambiente fitness.
+Bir fitness ortamında enerji içeceği tanıtan bir kadını gösteren dinamik bir kolaj.
 
 #### Prompt
 
@@ -3006,19 +3006,19 @@ Uma colagem dinâmica mostrando uma mulher promovendo uma bebida energética em 
 a collage of a woman in various workout outfits holding a can of Celius energy drink, posing energetically in a bright gym setting, social media style, vibrant lighting, high detail
 ```
 
-### No. 145: Mulher com Vestido no Elevador
+### No. 145: Asansör Elbiseli Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Pinodi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pinodi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher com um vestido preto de lantejoulas posa com confiança em um elevador elegante e reflexivo, com seu reflexo visível no espelho.
+Siyah payetli elbise giymiş bir kadın, aynada yansıması görünen, şık ve yansıtıcı bir asansörde kendinden emin bir şekilde poz veriyor.
 
 #### Prompt
 
@@ -3026,19 +3026,19 @@ Uma mulher com um vestido preto de lantejoulas posa com confiança em um elevado
 a woman with long black hair wearing a black sequined halter dress, standing in a modern elevator with reflective metallic walls, holding her hand to her neck, looking directly at the camera, a studded black handbag on the floor beside her, studio lighting, high fashion photography
 ```
 
-### No. 146: Retrato fotorrealista em estádio vazio
+### No. 146: Boş stadyumda fotoğraf gerçekçiliğinde portre
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Justice Studio 2.0
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Justice Studio 2.0
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato fotorrealista de uma jovem com pele oliva e cabelos escuros, em pé com confiança em um estádio esportivo vazio sob um céu dramático.
+Dramatik gökyüzü altında, boş bir spor stadyumunda kendinden emin bir şekilde duran, zeytin tenli ve koyu saçlı genç bir kadının fotoğraf gerçekçiliğindeki portresi.
 
 #### Prompt
 
@@ -3046,19 +3046,19 @@ Um retrato fotorrealista de uma jovem com pele oliva e cabelos escuros, em pé c
 A photorealistic portrait of a beautiful young woman with olive skin, shoulder-length wavy dark brown hair, and subtle makeup, standing confidently in a large empty sports stadium under dramatic overcast skies. She wears a fitted
 ```
 
-### No. 147: Close-up sutil e desfocado de amador com iPhone
+### No. 147: İnce bulanık amatör iPhone yakın çekimi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** KeorUnreal
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma foto close-up sutil, desfocada e de baixa qualidade, semelhante a uma filmagem amadora feita com iPhone.
+Amatör iPhone görüntüsünü andıran, ince, bulanık, düşük kaliteli bir yakın çekim görüntü için bir prompt.
 
 #### Prompt
 
@@ -3066,19 +3066,19 @@ Um prompt para uma foto close-up sutil, desfocada e de baixa qualidade, semelhan
 Subtle blurry low quality close-up amateur iPhone
 ```
 
-### No. 148: Equipe de Edição de Vídeo Futurista
+### No. 148: Fütüristik Video Düzenleme Ekibi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Rabia Eddari
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Rabia Eddari
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma equipe de profissionais colabora em um estúdio de edição de vídeo de alta tecnologia sob uma iluminação dramática.
+Profesyonellerden oluşan bir ekip, dramatik aydınlatma altında yüksek teknolojili bir video düzenleme stüdyosunda işbirliği yapıyor.
 
 #### Prompt
 
@@ -3086,19 +3086,19 @@ Uma equipe de profissionais colabora em um estúdio de edição de vídeo de alt
 a futuristic video editing studio with a large screen displaying colorful video clips, people in business attire collaborating around workstations, dramatic lighting with blue and purple hues, cinematic atmosphere, high detail, 8k
 ```
 
-### No. 149: Lamborghini Countach Projetada na URSS
+### No. 149: SSCB'de Tasarlanmış Lamborghini Countach
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Riccardo
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Riccardo
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo um carro Lamborghini Countach projetado na URSS durante a década de 1950.
+1950'lerde SSCB'de tasarlanmış bir Lamborghini Countach arabasını tanımlayan bir prompt.
 
 #### Prompt
 
@@ -3106,19 +3106,19 @@ Um prompt descrevendo um carro Lamborghini Countach projetado na URSS durante a 
 Lamborghini Countach zaprojektowane w ZSRR w latach 50
 ```
 
-### No. 150: Cena de Autocuidado: Vista Superior de Yoga em Flat Lay
+### No. 150: Yukarıdan Yoga Düz Yerleşim Öz Bakım Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma composição editorial em flat lay, vista de cima, de uma mulher em um tapete de yoga com café gelado e objetos de autocuidado.
+Soğuk kahve ve öz bakım aksesuarlarıyla bir yoga matı üzerindeki bir kadının yukarıdan editoryal düz yerleşimi.
 
 #### Prompt
 
@@ -3129,19 +3129,19 @@ Uma composição editorial em flat lay, vista de cima, de uma mulher em um tapet
 }
 ```
 
-### No. 151: História Alternativa: Trabant da Alemanha Oriental e Corvette
+### No. 151: Doğu Alman Trabant Corvette Alternatif Tarihi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Riccardo
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Riccardo
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um vídeo de um Chevrolet Corvette redesenhado por engenheiros da Trabant na Alemanha Oriental durante 1957.
+1957'de Doğu Almanya'da Trabant mühendisleri tarafından yeniden tasarlanmış bir Chevrolet Corvette videosu oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3149,19 +3149,19 @@ Um prompt para gerar um vídeo de um Chevrolet Corvette redesenhado por engenhei
 Chevrolet Corvette designed in East Germany by Trabant engineers in 1957, retro GDR automotive design, socialist industrial aesthetics, realistic alternate history
 ```
 
-### No. 152: Cerimônia de Coroação em Catedral
+### No. 152: Katedralde Taç Giyme Töreni
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Dalniery
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dalniery
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um momento régio se desenrola em uma grandiosa catedral enquanto uma coroa é apresentada durante um evento cerimonial.
+Görkemli bir katedralde, törensel bir etkinlik sırasında bir tacın takdim edildiği soylu bir an.
 
 #### Prompt
 
@@ -3169,19 +3169,19 @@ Um momento régio se desenrola em uma grandiosa catedral enquanto uma coroa é a
 a dramatic scene in a medieval cathedral with a man in a red robe holding a crown, another man in a fur-lined robe standing nearby, and onlookers in period clothing, cinematic lighting, high detail
 ```
 
-### No. 153: Prompt Editorial de Alta Moda para Tênis e Sorvete
+### No. 153: Yüksek Moda Tenis Dondurması Editoryal Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt detalhado para gerar uma imagem editorial ultra-fotorrealista de alta moda e esportes, apresentando uma mulher atlética em uma quadra de tênis.
+Bir tenis kortunda atletik bir kadını içeren, ultra foto-gerçekçi yüksek moda spor editoryal görseli oluşturmak için detaylı bir prompt.
 
 #### Prompt
 
@@ -3189,19 +3189,19 @@ Um prompt detalhado para gerar uma imagem editorial ultra-fotorrealista de alta 
 Ultra-photorealistic high-fashion sports editorial, vertical 4:5. A single athletic woman in her mid-20s stands centered on a professional outdoor tennis court, holding an oversized luxury gelato-style waffle cone at chest height
 ```
 
-### No. 154: Prompt de Personagem Catador Adolescente Magro
+### No. 154: Sıska Genç Çöpçü Karakter Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kōda
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kōda
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo um personagem catador adolescente e magro com cabelo ciano em duas caudas.
+Siyan ikiz kuyruk saçlı, sıska bir genç çöpçü karakterini tanımlayan bir prompt.
 
 #### Prompt
 
@@ -3209,19 +3209,19 @@ Um prompt descrevendo um personagem catador adolescente e magro com cabelo ciano
 CHARACTER = skinny teenage scavenger with cyan twin-tail hair
 ```
 
-### No. 155: Colagem de Selfie Ultra-fotorrealista para Story do Instagram
+### No. 155: Ultra Foto-Gerçekçi Instagram Hikayesi Selfie Kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para criar uma colagem vertical 3x2 de uma jovem mulher com uma estética noturna inspirada na Cinderela.
+Külkedisi ilhamlı bir gece dışarı çıkma estetiğindeki genç bir kadının dikey 3x2 kolajını oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3229,19 +3229,19 @@ Um prompt para criar uma colagem vertical 3x2 de uma jovem mulher com uma estét
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Modern Cinderella-inspired night-out aesthetic, dreamy but
 ```
 
-### No. 156: Selfie Ultra-realista de iPhone em Parque Ensolarado
+### No. 156: Güneşli Parkta Ultra Gerçekçi iPhone Selfiesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma selfie ultra-realista de iPhone, tirada de um ângulo alto, de uma mulher confiante caminhando em um parque ensolarado.
+Güneşli bir parkta yürüyen kendinden emin bir kadının yüksek açılı, ultra gerçekçi iPhone selfiesi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3249,19 +3249,19 @@ Um prompt para gerar uma selfie ultra-realista de iPhone, tirada de um ângulo a
 Preserve the woman’s face, selfie angle, skin texture, hairstyle, and overall confident sporty energy from the reference image. Create an ultra-realistic iPhone selfie taken from a high angle in a sunny park. She is walking on a park path
 ```
 
-### No. 157: Comparação de Edição de Vídeo com IA
+### No. 157: AI Video Düzenleme Karşılaştırması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 🚨 AI News | TestingCatalog
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 🚨 AI News | TestingCatalog
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras comparando o desempenho de várias ferramentas de edição de vídeo com IA em duas métricas.
+Çeşitli AI video düzenleme araçlarının performansını iki metrik üzerinden karşılaştıran bir çubuk grafik.
 
 #### Prompt
 
@@ -3269,19 +3269,19 @@ Um gráfico de barras comparando o desempenho de várias ferramentas de edição
 A bar chart comparing Elo scores of AI video editing tools, with categories 'Overall Preference' and 'Instruction Following', showing data for Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, in a clean modern style with blue, black, gray, and white bars on a light background.
 ```
 
-### No. 158: Retrato Fofo de Mulher Coreana com Iluminação Suave
+### No. 158: Yumuşak Işıklı Sevimli Koreli Kadın Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descritivo para um retrato colorido em close-up de uma jovem coreana com um sorriso gentil e olhos expressivos.
+Nazik bir gülümsemesi ve anlamlı gözleri olan genç bir Koreli kadının yakın plan renkli portresi için açıklayıcı bir prompt.
 
 #### Prompt
 
@@ -3289,19 +3289,19 @@ Um prompt descritivo para um retrato colorido em close-up de uma jovem coreana c
 A vertical, close-up color portrait of a young Korean woman with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks.
 ```
 
-### No. 159: Mulher Lendo na Cama
+### No. 159: Yatakta Kitap Okuyan Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Giulia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma jovem mulher lê um livro enquanto está deitada em sua cama em um quarto com iluminação suave e luzinhas.
+Yumuşak aydınlatmalı, ışık telleri olan bir yatak odasında yatağında uzanmış, kitap okuyan genç bir kadın.
 
 #### Prompt
 
@@ -3309,19 +3309,19 @@ Uma jovem mulher lê um livro enquanto está deitada em sua cama em um quarto co
 a young woman with dark wavy hair lying on a bed in a cozy bedroom, reading a book, soft lighting from string lights, blue bedding, intimate and serene atmosphere
 ```
 
-### No. 160: Logotipo Google Omni
+### No. 160: Google Omni Logosu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Divyanshu Divy
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Divyanshu Divy
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um logotipo vibrante e moderno para o Google Omni com um gradiente arco-íris e uma estrela cintilante.
+Gökkuşağı geçişli ve parıldayan bir yıldızlı, canlı ve modern bir Google Omni logosu.
 
 #### Prompt
 
@@ -3329,19 +3329,19 @@ Um logotipo vibrante e moderno para o Google Omni com um gradiente arco-íris e 
 Google Omni logo with colorful gradient text, modern design, white background, small star icon
 ```
 
-### No. 161: Plano Cinematográfico de uma Mulher Futurista com Capacete
+### No. 161: Kasklı Fütüristik Bir Kadının Sinematik Çekimi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Saki H. 咲希
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Saki H. 咲希
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para um plano cinematográfico de corpo inteiro de uma jovem mulher de perfil segurando um capacete de piloto.
+Bir pilot kaskı tutan, profilden görünen genç bir kadının sinematik, tam vücut çekimi için bir prompt.
 
 #### Prompt
 
@@ -3349,19 +3349,19 @@ Um prompt para um plano cinematográfico de corpo inteiro de uma jovem mulher de
 A cinematic, dutch angle, full body shot of a young woman as in <<<image_1>>> cooly walking in profile, one hand holding an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed, futuristic
 ```
 
-### No. 162: Mapa de Estádio de Futebol em Miniatura Ganha Vida
+### No. 162: Minik Futbol Stadyumu Haritası Canlanıyor
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alexandra Aisling
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alexandra Aisling
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um vídeo de um mapa de estádio em miniatura se transformando em uma cena vibrante de dia de jogo.
+Minik bir stadyum haritasının canlı bir maç günü sahnesine dönüştüğü bir video oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3371,17 +3371,17 @@ A football stadium map of [STADIUM], [CITY] spread across a table, transformed i
 
 ### No. 163: Gemini Omni Flash #1
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Leituras com Ravi 🍁
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Leituras com Ravi 🍁
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um quadro de líderes classificando modelos de IA de texto para vídeo com o Gemini Omni Flash no topo.
+Gemini Omni Flash'ı en üstte olacak şekilde metinden videoya yapay zeka modellerini sıralayan bir liderlik tablosu.
 
 #### Prompt
 
@@ -3389,19 +3389,19 @@ Um quadro de líderes classificando modelos de IA de texto para vídeo com o Gem
 A bar chart comparing text-to-video AI models with scores, highlighting Gemini Omni Flash as #1, clean modern design, light background, Arena AI branding
 ```
 
-### No. 164: Jovem mulher fotorrealista com cabelo castanho escuro
+### No. 164: Koyu Kahverengi Saçlı Foto-Gerçekçi Genç Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sadie 🥀
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sadie 🥀
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma imagem fotorrealista de uma jovem mulher com pele clara e cabelos longos, lisos e castanho escuro.
+Açık tenli, uzun düz koyu kahverengi saçlı genç bir kadının foto-gerçekçi bir görüntüsünü oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3409,19 +3409,19 @@ Um prompt para gerar uma imagem fotorrealista de uma jovem mulher com pele clara
 A highly detailed, photorealistic image of a stunning young woman in her mid-20s with fair skin, long straight dark brown hair with a black
 ```
 
-### No. 165: Retrato Ultra Realista de uma Jovem Mulher
+### No. 165: Genç Bir Kadının Ultra Gerçekçi Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Virena
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Virena
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato íntimo e realista com características detalhadas da pele e dos olhos.
+Detaylı cilt ve göz özelliklerine sahip, samimi ve gerçekçi bir portre oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3429,19 +3429,19 @@ Um prompt para gerar um retrato íntimo e realista com características detalhad
 Ultra-realistic intimate lifestyle portrait of a young woman with fair warm-toned skin, peach-beige undertones, natural skin texture, and a soft satin glow. She has large dark brown almond-shaped eyes with a calm, slightly wistful expression
 ```
 
-### No. 166: Comparação de Edição de Vídeo por IA
+### No. 166: Yapay Zeka Video Düzenleme Karşılaştırması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Nitesh Kushwaha 🗞️🌎
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nitesh Kushwaha 🗞️🌎
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras comparando o desempenho de várias ferramentas de edição de vídeo por IA baseado em pontuações Elo.
+Çeşitli yapay zeka video düzenleme araçlarının performansını Elo puanlarına göre karşılaştıran bir çubuk grafik.
 
 #### Prompt
 
@@ -3449,19 +3449,19 @@ Um gráfico de barras comparando o desempenho de várias ferramentas de edição
 A bar chart comparing Elo scores of AI video editing tools, with blue, black, dark gray, light gray, and white bars for Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, showing two categories: Overall Preference and Instruction Following, on a clean white background with a title 'Video Editing' and legend.
 ```
 
-### No. 167: Retrato Cinematográfico de Mulher do Leste Asiático
+### No. 167: Doğu Asyalı Kadının Sinematik Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** auqib
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** auqib
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt de retrato hiper-realista em close-up para uma jovem mulher com uma expressão calma.
+Sakin bir ifadeye sahip genç bir kadın için hiper-gerçekçi bir yakın çekim portre prompt'u.
 
 #### Prompt
 
@@ -3469,19 +3469,19 @@ Um prompt de retrato hiper-realista em close-up para uma jovem mulher com uma ex
 A cinematic, hyper-realistic close-up portrait of a young East Asian woman with dark hair tied up in a loose, casual bun, with a few stray strands framing her face. She has clear skin, warm brown eyes, and a neutral, calm expression.
 ```
 
-### No. 168: Retrato de moda ultra-realista com camiseta vermelha
+### No. 168: Kırmızı Tişörtlü Ultra-gerçekçi Moda Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** liana
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** liana
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato de moda em close-up para revista de uma mulher usando uma camiseta vermelha "WHATEVER", usando uma referência para a estrutura do rosto e do corpo.
+Yüz ve vücut yapısı için bir referans kullanarak, kırmızı "WHATEVER" tişörtlü bir kadının yakın çekim moda dergisi portresini oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3489,19 +3489,19 @@ Um prompt para gerar um retrato de moda em close-up para revista de uma mulher u
 Use 100% face and body structure from attached reference to create a Ultra-realistic fashion magazine close-up portrait of a beautiful young woman wearing an oversized premium red t-shirt featuring the bold white caption "WHATEVER" printed across
 ```
 
-### No. 169: Retrato de Beleza Ultra Realista com Flash
+### No. 169: Flaşlı Ultra Gerçekçi Güzellik Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** simply
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** simply
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato realista em close-up de uma mulher com flash estilo iPhone em um ambiente interno escuro.
+Karanlık bir iç mekanda, iPhone tarzı flaşla çekilmiş, gerçekçi bir kadın yakın çekim portresi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3509,19 +3509,19 @@ Um prompt para gerar um retrato realista em close-up de uma mulher com flash est
 Ultra-realistic close-up beauty portrait of a stunning young woman, captured with an iPhone / digital camera aesthetic using direct on-camera flash in a dark indoor setting. Glamorous candid beauty shot with soft lens glow, subtle flash bloom
 ```
 
-### No. 170: Retrato de estúdio hiper-realista de um jovem
+### No. 170: Genç Bir Adamın Hiper-gerçekçi Stüdyo Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Nexora
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nexora
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt detalhado para um retrato de estúdio hiper-realista, de corpo inteiro, de um jovem confiante sentado em um banco de designer.
+Bir tasarım taburesinde oturan, kendinden emin genç bir adamın hiper-gerçekçi, tam vücut stüdyo portresi için detaylı bir prompt.
 
 #### Prompt
 
@@ -3529,19 +3529,19 @@ Um prompt detalhado para um retrato de estúdio hiper-realista, de corpo inteiro
 Hyper-realistic luxury studio full-body portrait of a confident young man seated on a premium matte-black designer stool. He has neatly styled brown hair, a well-groomed beard and mustache, and is looking directly into the camera with a
 ```
 
-### No. 171: Calígrafo na Tinta
+### No. 171: Mürekkep İçindeki Hattat
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ぴょんきち
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ぴょんきち
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem velho escreve caligrafia com um pincel grande em uma sala com pouca luz, cheia de tinta e papel.
+Yaşlı bir adam, mürekkep ve kağıtlarla dolu loş aydınlatılmış bir odada büyük bir fırçayla hat sanatı yazıyor.
 
 #### Prompt
 
@@ -3549,19 +3549,19 @@ Um homem velho escreve caligrafia com um pincel grande em uma sala com pouca luz
 an elderly Japanese calligrapher with white hair, wearing a dark robe, kneeling on the floor and writing with a large brush, surrounded by ink-stained papers and lanterns, warm lighting, cinematic, highly detailed, 8k
 ```
 
-### No. 172: cápsula verde brilhante
+### No. 172: Parlayan Yeşil Kapsül
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** RELOX Gamer
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** RELOX Gamer
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um close-up de uma cápsula luminosa verde com um fundo de foco suave.
+Yumuşak odaklı bir arka plana sahip, ışıltılı yeşil bir kapsülün yakın çekimi.
 
 #### Prompt
 
@@ -3569,19 +3569,19 @@ Um close-up de uma cápsula luminosa verde com um fundo de foco suave.
 a glowing green capsule floating in a soft-focus green background, smooth and translucent with light reflections
 ```
 
-### No. 173: Prompt de Selfie no Espelho com Bloqueio Facial
+### No. 173: Yüz Kilidi Aynası Selfie Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Salina
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Salina
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma selfie no espelho com preservação estrita do rosto e um estilo moderno de fotografia móvel.
+Katı yüz koruması ve modern bir mobil fotoğrafçılık stili ile bir ayna selfiesi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3589,19 +3589,19 @@ Um prompt para gerar uma selfie no espelho com preservação estrita do rosto e 
 Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a
 ```
 
-### No. 174: Faixa de Retrato Cinematográfico de Jovem Mulher
+### No. 174: Genç Kadının Sinematik Portre Şeridi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Wandering Corner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Wandering Corner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma faixa vertical de retrato cinematográfico com 5 painéis apresentando uma jovem mulher do leste asiático com detalhes visuais específicos.
+Belirli görsel detaylara sahip genç bir Doğu Asyalı kadını içeren, 5 panelli dikey sinematik bir portre şeridi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3609,19 +3609,19 @@ Um prompt para gerar uma faixa vertical de retrato cinematográfico com 5 painé
 5-panel vertical cinematic portrait strip of a beautiful young IEast Asian woman (20–24), warm wheatish skin, long silky dark hair flowing naturally, striking magenta-pink lips, subtle makeup, minimal accessories. She wears an
 ```
 
-### No. 175: Gráfico Comparativo de Modelos de IA
+### No. 175: Yapay Zeka Modeli Karşılaştırma Grafiği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** remix.camera
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** remix.camera
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras comparando as taxas de aceitação de cinco modelos de geração de imagens por IA usando os mesmos prompts.
+Aynı prompt'ları kullanan beş yapay zeka görüntü oluşturma modelinin kabul oranlarını karşılaştıran bir çubuk grafik.
 
 #### Prompt
 
@@ -3629,19 +3629,19 @@ Um gráfico de barras comparando as taxas de aceitação de cinco modelos de ger
 A clean, modern bar chart comparing AI image generation models with green, red, black, blue, and purple bars, showing acceptance rates for Seedream 4.5, Seedream V5, Nano Banana 2, Grok, and GPT Image 2 Medium, with text labels and percentages, on a white background
 ```
 
-### No. 176: Fotografia Noturna na Água
+### No. 176: Gece Su Altı Fotoğraf Çekimi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** remix.camera
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** remix.camera
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em maiô escuro posa ao lado de uma piscina sob luzes azuis e rosas em uma sessão de fotos de alta moda.
+Yüksek moda bir fotoğraf çekiminde, mavi ve pembe ışıklar altında bir havuz kenarında koyu renk bir mayo ile poz veren bir kadın.
 
 #### Prompt
 
@@ -3649,19 +3649,19 @@ Uma mulher em maiô escuro posa ao lado de uma piscina sob luzes azuis e rosas e
 A woman in a black swimsuit sitting by a pool at night, illuminated by blue light, with neon pink accents, high fashion photoshoot style, cinematic lighting, wet hair, elegant pose, close-up shot
 ```
 
-### No. 177: Moodboard de Personagem Inspirado em Anime de Kinza
+### No. 177: Kinza'nın Anime Esinli Karakter Ruh Hali Panosu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt detalhado para gerar um pôster moodboard no estilo anime apresentando uma mulher sul-asiática com cabelos longos e pretos.
+Uzun siyah saçlı Güney Asyalı bir kadını içeren, anime tarzında bir ruh hali panosu posteri oluşturmak için detaylı bir prompt.
 
 #### Prompt
 
@@ -3669,19 +3669,19 @@ Um prompt detalhado para gerar um pôster moodboard no estilo anime apresentando
 An ultra-detailed anime-inspired character moodboard poster of a beautiful young South Asian woman named "Kinza". She has long voluminous black hair flowing naturally, elegant facial features, expressive deep eyes, a soft confident
 ```
 
-### No. 178: Retrato Noturno de uma Mulher na Rua
+### No. 178: Bir Kadının Gece Sokak Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Eesha
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Eesha
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato de rua noturno fotorrealista de uma jovem com textura de pele e maquiagem detalhadas.
+Detaylı cilt dokusu ve makyajıyla genç bir kadının fotoğraf gerçekçiliğinde gece sokak portresi.
 
 #### Prompt
 
@@ -3689,19 +3689,19 @@ Um retrato de rua noturno fotorrealista de uma jovem com textura de pele e maqui
 RAW photorealistic night street portrait of a beautiful young woman with long straight silky black hair (middle part), glowing natural skin texture with visible pores and imperfections, soft clean Douyin glam makeup, calm slightly intimidating
 ```
 
-### No. 179: Minha Configuração Hermes
+### No. 179: Benim Hermes Kurulumum
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Chris Tabasco - AI Evolution Polska
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Chris Tabasco - AI Evolution Polska
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem apresenta sua configuração de assistente pessoal com IA, com um robô e um aplicativo de smartphone.
+Bir adam, robot ve akıllı telefon uygulamasıyla birlikte yapay zeka destekli kişisel asistan kurulumunu sergiliyor.
 
 #### Prompt
 
@@ -3709,19 +3709,19 @@ Um homem apresenta sua configuração de assistente pessoal com IA, com um robô
 A man in a black t-shirt with AI Evolution Labs logo stands in a futuristic tech lab, holding a smartphone displaying a messaging app called HERMES, next to a sleek black robot, with glowing blue lights and digital interfaces in the background, text overlay 'My Hermes Setup' and 'My personal assistant'
 ```
 
-### No. 180: Mulher na varanda à noite
+### No. 180: Gece vakti balkonda bir kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sophia | AI Artist ✨
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher posa em uma varanda com vista para uma paisagem urbana vibrante à noite.
+Bir kadın, gecenin karanlığında canlı bir şehir manzarasına bakan bir balkonda poz veriyor.
 
 #### Prompt
 
@@ -3729,19 +3729,19 @@ Uma mulher posa em uma varanda com vista para uma paisagem urbana vibrante à no
 a woman with blonde hair standing on a balcony at night, wearing a black crop top and gray shorts, looking back over her shoulder, city skyline with illuminated buildings in the background, warm lighting from the building interior, high detail, realistic, 4k
 ```
 
-### No. 181: Arranhão de Filme Vintage
+### No. 181: Vintage film çizik efekti
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Reese
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Reese
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um quadro em preto e branco granuloso mostrando danos no filme e uma linha curva, evocando a estética de filmes antigos.
+Film hasarını ve kavisli bir çizgiyi gösteren, eski film estetiğini çağrıştıran grenli bir siyah beyaz kare.
 
 #### Prompt
 
@@ -3749,19 +3749,19 @@ Um quadro em preto e branco granuloso mostrando danos no filme e uma linha curva
 grainy black and white film frame with scratches and a curved line, vintage film effect
 ```
 
-### No. 182: Rotunda do Arquivo Celestial
+### No. 182: Göksel Arşiv Rotundası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** sayobonita
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** sayobonita
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma majestosa biblioteca flutuante suspensa no céu, com arquitetura ornamentada e luz brilhante emanando de dentro.
+Gökyüzünde asılı duran, süslü mimarisi ve içeriden yayılan ışığıyla görkemli bir yüzen kütüphane.
 
 #### Prompt
 
@@ -3769,19 +3769,19 @@ Uma majestosa biblioteca flutuante suspensa no céu, com arquitetura ornamentada
 a floating architectural marvel with a grand dome, intricate balconies, and a central library, surrounded by lush greenery, in a fantasy style, detailed, cinematic lighting
 ```
 
-### No. 183: Colagem de Retrato de Estúdio Ultra Fotorrealista
+### No. 183: Ultra Foto-Gerçekçi Stüdyo Portresi Kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sharon Riley
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sharon Riley
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma colagem de retrato de estúdio ultra fotorrealista em 8K de uma mulher com maquiagem detalhada e um vestido de bouclê texturizado.
+Detaylı makyajı ve dokulu bukle bir elbisesi olan bir kadının ultra foto-gerçekçi 8K stüdyo portresi kolajı.
 
 #### Prompt
 
@@ -3789,19 +3789,19 @@ Uma colagem de retrato de estúdio ultra fotorrealista em 8K de uma mulher com m
 Ultra-photorealistic 8K studio portrait collage of a woman with long, voluminous loose waves, natural glass-skin makeup, flushed cheeks, glossy pink lips, and defined lashes. She wears a tight bodycon mini dress made of soft textured boucle
 ```
 
-### No. 184: Recriação de Cena Noturna a partir de Imagem de Referência
+### No. 184: Referans Görselden Gece Hayatı Sahnesi Yeniden Oluşturma
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** remix.camera
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** remix.camera
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para recriar uma cena noturna espontânea usando uma imagem de referência sem alterar o rosto.
+Yüzü değiştirmeden, bir referans görsel kullanarak doğal bir gece hayatı sahnesini yeniden oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -3809,19 +3809,19 @@ Um prompt para recriar uma cena noturna espontânea usando uma imagem de referê
 Using the person in the uploaded reference image (DO NOT TOUCH FACE), recreate this scene: candid nightlife photo of two women standing close together indoors in a dimly lit apartment or party setting, photographed with a direct
 ```
 
-### No. 185: Sala de Jogos Retrô
+### No. 185: Retro Oyun Odası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kris Kashtanova
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kris Kashtanova
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma sala de jogos retrô aconchegante com um computador vintage e um retrato em preto e branco de uma mulher.
+Vintage bir bilgisayar kurulumu ve bir kadının siyah beyaz portresinin bulunduğu samimi bir retro oyun odası.
 
 #### Prompt
 
@@ -3829,19 +3829,19 @@ Uma sala de jogos retrô aconchegante com um computador vintage e um retrato em 
 a retro gaming room with a vintage computer, lava lamp, posters, and a cat, with a black and white circular portrait of a woman on the right
 ```
 
-### No. 186: Modelo de Moda com Mudanças Rápidas de Traje
+### No. 186: Moda Modelinin Hızlı Kıyafet Değişimleri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Dheepan Ratnam
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dheepan Ratnam
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt de vídeo para uma modelo de moda alternando rapidamente por 20 estilos diferentes em 10 segundos com cortes precisos.
+Bir moda modelinin 10 saniyede 20 farklı stili keskin geçişlerle hızla değiştirdiği bir video için prompt.
 
 #### Prompt
 
@@ -3849,19 +3849,19 @@ Um prompt de vídeo para uma modelo de moda alternando rapidamente por 20 estilo
 A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts
 ```
 
-### No. 187: Jovem atlético de frente para a câmera
+### No. 187: Kameraya bakan atletik genç adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Picts by AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo um homem jovem adulto com físico atlético, expressão séria e cabelo curto.
+Atletik bir vücut yapısına, ciddi bir ifadeye ve kısa saçlara sahip genç bir yetişkin erkeği tanımlayan bir prompt.
 
 #### Prompt
 
@@ -3869,19 +3869,19 @@ Um prompt descrevendo um homem jovem adulto com físico atlético, expressão s�
 A young adult male with an athletic build stands on the left side of the frame, facing the camera with a calm, serious expression, a closed neutral mouth, and a direct gaze. His hair is short on the sides and about two
 ```
 
-### No. 188: Copa do Mundo FIFA 2026
+### No. 188: 2026 FIFA Dünya Kupası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kaan
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kaan
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma obra de arte digital vibrante apresentando a Estátua da Liberdade segurando o troféu da Copa do Mundo FIFA em um estádio cercado por bandeiras nacionais.
+Özgürlük Heykeli'nin bir stadyumda, ulusal bayraklarla çevrili halde FIFA Dünya Kupası kupasını tuttuğu canlı bir dijital sanat eseri.
 
 #### Prompt
 
@@ -3889,19 +3889,19 @@ Uma obra de arte digital vibrante apresentando a Estátua da Liberdade segurando
 FIFA World Cup 2026 poster with Statue of Liberty holding the trophy, surrounded by national flags, in a stadium with a soccer ball, vibrant colors, digital art
 ```
 
-### No. 189: Storyboard do Cavaleiro da Monção
+### No. 189: Muson Süvarisi Senaryosu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Adithya Thatipalli
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Adithya Thatipalli
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma sequência de storyboard mostrando um menino andando alegremente em um barco de papel por uma vila inundada durante a temporada de monções.
+Muson mevsiminde, yağmurlu ve su basmış bir köyde bir çocuğun keyifle kağıttan bir botla yolculuğunu gösteren bir senaryo dizisi.
 
 #### Prompt
 
@@ -3909,19 +3909,19 @@ Uma sequência de storyboard mostrando um menino andando alegremente em um barco
 A young Indian boy makes a paper boat during heavy monsoon rain, rides it through flooded village lanes, with dynamic camera angles and detailed rain physics, in the style of Indian anime storyboard art
 ```
 
-### No. 190: Retrato Espontâneo em Ângulo Baixo de um Homem
+### No. 190: Bir Adamın Alçak Açılı Doğal Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Aijaz
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aijaz
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma fotografia espontânea nítida, em ângulo baixo, de um homem ao ar livre sob luz solar intensa.
+Sert gün ışığında, açık havada bir adamın keskin, alçak açılı ve doğal bir fotoğrafı için prompt.
 
 #### Prompt
 
@@ -3929,19 +3929,19 @@ Um prompt para uma fotografia espontânea nítida, em ângulo baixo, de um homem
 A sharp, low-angle candid photograph of a man use image for face reference outdoors under bright, harsh daylight, looking slightly to the left. He is wearing a sharp navy blue tailored blazer over a dark t-shirt, modern rimless
 ```
 
-### No. 191: Comparação de Edição de Vídeo por IA
+### No. 191: Yapay Zeka Video Düzenleme Karşılaştırması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Wes Roth
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Wes Roth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico de barras comparando ferramentas de edição de vídeo por IA por pontuação ELO em preferência geral e seguimento de instruções.
+Yapay zeka video düzenleme araçlarını genel tercih ve talimatlara uyma açısından ELO skoruyla karşılaştıran bir çubuk grafik.
 
 #### Prompt
 
@@ -3949,19 +3949,19 @@ Um gráfico de barras comparando ferramentas de edição de vídeo por IA por po
 A bar chart comparing AI video editing tools with ELO scores, showing Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, with categories for Overall Preference and Instruction Following, in a clean modern style with blue, black, gray, and white bars, labeled data points, and a legend at the top.
 ```
 
-### No. 192: Retrato com Câmera Vintage
+### No. 192: Vintage Kamera Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Altair
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Altair
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma visão detalhada de uma câmera de madeira antiga com componentes de latão e fole, sobre um fundo neutro.
+Pirinç bileşenleri ve körüklü antika ahşap bir kameranın nötr bir fon karşısında detaylı görünümü.
 
 #### Prompt
 
@@ -3969,19 +3969,19 @@ Uma visão detalhada de uma câmera de madeira antiga com componentes de latão 
 a vintage wooden large format camera with brass lens and bellows, mounted on a tripod, studio lighting, detailed texture, realistic rendering
 ```
 
-### No. 193: Ferramenta de Vídeo Gemini Omni
+### No. 193: Gemini Omni Video Aracı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Signal Lab
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Signal Lab
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma interface digital futurista que apresenta uma ferramenta de mídia com IA que converte entradas em conteúdo de vídeo.
+Girdileri video içeriğine dönüştüren bir yapay zeka medya aracını sergileyen fütüristik bir dijital arayüz.
 
 #### Prompt
 
@@ -3989,19 +3989,19 @@ Uma interface digital futurista que apresenta uma ferramenta de mídia com IA qu
 dark futuristic interface with grid overlay, glowing text 'Gemini Omni turns inputs into video', multiple screen panels showing AI media content, tech-themed design, neon green accents, sleek modern UI, digital display elements
 ```
 
-### No. 194: Transmissão de Futebol em Praça Histórica Europeia
+### No. 194: Tarihi Avrupa Meydanında Futbol Yayını
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma cena de vídeo retratando uma transmissão pública de partida de futebol com um casal em foco.
+Bir halka açık futbol maçı yayını sahnesini ve odaklanmış bir çifti tasvir eden bir video sahnesi için prompt.
 
 #### Prompt
 
@@ -4009,19 +4009,19 @@ Um prompt para uma cena de vídeo retratando uma transmissão pública de partid
 A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man
 ```
 
-### No. 195: Mulher ajoelhada de meia-calça
+### No. 195: çoraplı diz çökmüş kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Pinodi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pinodi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de blusa listrada e saia preta está ajoelhada em um piso de madeira, usando meia-calça transparente com alças cruzadas.
+Çizgili bir bluz ve siyah etek giyen bir kadın, çapraz kayışlı şeffaf çoraplarla ahşap bir zeminde diz çökmüş.
 
 #### Prompt
 
@@ -4029,19 +4029,19 @@ Uma mulher de blusa listrada e saia preta está ajoelhada em um piso de madeira,
 a woman with long black hair kneeling on a wooden floor, wearing a white and black striped blouse, a black mini skirt, and black sheer stockings with crisscross straps, in front of white closet doors, studio lighting, photorealistic
 ```
 
-### No. 196: Descrição para Retrato de Estúdio em Preto e Branco
+### No. 196: Siyah Beyaz Stüdyo Portresi İsteği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alex Prompts
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alex Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para criar um retrato de estúdio em preto e branco com um plano médio na altura dos olhos, da cintura para cima.
+Belden yukarı, göz hizasında orta çekimde siyah beyaz bir stüdyo portresi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -4049,19 +4049,19 @@ Uma descrição para criar um retrato de estúdio em preto e branco com um plano
 A stunning black and white studio portrait of [uploaded person]. Eye-level medium shot, framed from the waist up. The subject is standing with his
 ```
 
-### No. 197: Tributo em Mural ao Messi por Artista de Rua
+### No. 197: Sokak Sanatçısından Messi Duvar Resmi Övgüsü
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Hendry Lim
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hendry Lim
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma fotografia cinematográfica hiper-realista de um mural finalizado do Messi com o artista, configurada em proporção quadrada.
+Bir meydanda, sanatçısıyla birlikte bitmiş bir Messi duvar resminin hiper-gerçekçi sinematik fotoğrafı, kare en-boy oranında.
 
 #### Prompt
 
@@ -4069,19 +4069,19 @@ Uma fotografia cinematográfica hiper-realista de um mural finalizado do Messi c
 THE DEVOTED (Finished Messi Mural + Artist) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L
 ```
 
-### No. 198: Pintura de Retrato Surrealista com Realismo Cinematográfico
+### No. 198: Sinematik Gerçekçilikle Sürrealist Portre Resmi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Wandering Corner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Wandering Corner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para gerar retratos surrealistas ultra-detalhados que misturam elementos clássicos e de fantasia.
+Klasik ve fantezi unsurlarını harmanlayan ultra detaylı sürrealist portreler oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -4089,19 +4089,19 @@ Uma descrição para gerar retratos surrealistas ultra-detalhados que misturam e
 Ultra-detailed surrealist portrait painting blending classical romanticism, dreamlike naturalism, and cinematic fantasy realism. Human subjects rendered with graceful realism and poetic elegance, featuring luminous skin,
 ```
 
-### No. 199: Grade de Arte Voxel para Histórias Clássicas e Mangá
+### No. 199: Klasik Hikayeler ve Manga için Voxel Sanatı Izgarası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Gadgetify
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Gadgetify
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para gerar uma grade 2x2 de cenas de arte voxel de histórias de domínio público e mangás famosos.
+Kamu malı hikayelerden ve ünlü mangalardan sahneler içeren 2x2'lik bir voxel sanatı ızgarası oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -4109,19 +4109,19 @@ Uma descrição para gerar uma grade 2x2 de cenas de arte voxel de histórias de
 2x2 grid, 16:9, do this for Shahnameh and 3 other non-copyrited public space stories: 2x2 grid, do this for 4 famous manga scenes: Function Render_Voxel_Art ($ Subject)
 ```
 
-### No. 200: Mulher em camisa de futebol
+### No. 200: futbol forması giyen kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher usando uma camisa de futebol vermelha da Espanha posa com uma bola de futebol em um fundo branco.
+Kırmızı İspanyol futbol forması giyen bir kadın, beyaz bir fon önünde bir futbol topuyla poz veriyor.
 
 #### Prompt
 
@@ -4129,19 +4129,19 @@ Uma mulher usando uma camisa de futebol vermelha da Espanha posa com uma bola de
 a woman in a red Spanish football jersey sitting on the floor with a soccer ball, blonde hair in a ponytail, looking at the camera, studio lighting, white background
 ```
 
-### No. 201: Arqueiro Encapuzado Puxando o Arco na Chuva
+### No. 201: Yağmurda Yayını Çeken Kapüşonlu Okçu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Ahmad Faraz
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ahmad Faraz
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato cinematográfico hiper-realista de um arqueiro encapuzado na chuva no momento de puxar um arco.
+Yağmur altında, bir yayı çekme anında hiper-gerçekçi sinematik bir portre.
 
 #### Prompt
 
@@ -4149,19 +4149,19 @@ Um retrato cinematográfico hiper-realista de um arqueiro encapuzado na chuva no
 A hyper-realistic cinematic close-up portrait of a hooded archer in the rain, caught at the peak moment of drawing a bow. The composition is tight and intense — the taut bowstring runs vertically down the exact center of the frame, bisecting
 ```
 
-### No. 202: Cena de Estúdio de Moda de Futebol Profissional
+### No. 202: Profesyonel Futbol Moda Stüdyo Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para uma cena de estúdio de moda de futebol profissional com um fundo branco limpo e estilo editorial esportivo minimalista.
+Temiz beyaz bir fon ve minimalist spor editoryal stiliyle profesyonel bir futbol moda stüdyo sahnesi için bir prompt.
 
 #### Prompt
 
@@ -4172,19 +4172,19 @@ Uma descrição para uma cena de estúdio de moda de futebol profissional com um
     "background": "clean seamless white backdrop with minimalist sports editorial styling, premium commercial photoshoot environment, distraction-free composition emphasizing the
 ```
 
-### No. 203: Cena Editorial Surreal de um Mar de Papel Cinético
+### No. 203: Kinetik Kağıt Denizi Sürreal Editoryal Çekimi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** timedoctor.eth
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cena surreal de efeito prático de alto orçamento com uma protagonista no centro de um mar massivo e rodopiante de papel vibrante e dobrado, com iluminação cinematográfica dramática.
+Protagonistin devasa, dalgalanan ve katlanan canlı renklerdeki bir kağıt denizinin ortasında yer aldığı, dramatik sinematik aydınlatmalı sürreal, yüksek bütçeli bir pratik efekt çekimi.
 
 #### Prompt
 
@@ -4192,19 +4192,19 @@ Uma cena surreal de efeito prático de alto orçamento com uma protagonista no c
 A high-end editorial, high-budget practical effect surrealism shot. The Grand Symmetrical Centering: The Protagonist stands perfectly centered within a massive, kinetic sea of swirling, folding paper. The paper is vibrant, textured, and moves in slow, graceful waves. The lighting is dramatic, cinematic, with strong directional light creating deep shadows and highlights on the paper folds and the protagonist's face. The atmosphere is ethereal and awe-inspiring.
 ```
 
-### No. 204: Professor de matemática ensinando
+### No. 204: Matematik Profesörü Ders Anlatıyor
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Virginio Gallardo
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Virginio Gallardo
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem de terno escreve equações trigonométricas em um quadro-negro em uma sala de aula.
+Takım elbiseli bir adam, bir sınıfta kara tahtaya trigonometrik denklemler yazıyor.
 
 #### Prompt
 
@@ -4212,19 +4212,19 @@ Um homem de terno escreve equações trigonométricas em um quadro-negro em uma 
 a man in a suit writing mathematical equations on a chalkboard, realistic classroom setting, detailed facial features, natural lighting
 ```
 
-### No. 205: Artista em Camisa de Futebol
+### No. 205: Futbol Forması Giyen Sanatçı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Giulia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher usando uma camisa de futebol dos EUA pinta em um estúdio brilhante e cheio de plantas.
+USA futbol forması giyen bir kadın, aydınlık, bitkilerle dolu bir stüdyoda resim yapıyor.
 
 #### Prompt
 
@@ -4232,19 +4232,19 @@ Uma mulher usando uma camisa de futebol dos EUA pinta em um estúdio brilhante e
 a woman in a blue USA soccer jersey painting in an art studio, holding a paintbrush and palette, sitting on a stool, natural light from window, plants in background
 ```
 
-### No. 206: Camaleão Gemini Omni
+### No. 206: Gemini Omni Bukalemun
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Tanvir
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Tanvir
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um close-up da cauda azul enrolada de um camaleão com o texto 'Gemini Omni' sobreposto à imagem.
+Kıvrılmış mavi bir bukalemun kuyruğunun yakın çekimi ve görselin üzerine yerleştirilmiş 'Gemini Omni' metni.
 
 #### Prompt
 
@@ -4252,19 +4252,19 @@ Um close-up da cauda azul enrolada de um camaleão com o texto 'Gemini Omni' sob
 close-up of a coiled blue chameleon tail with intricate scale patterns, natural lighting, green foliage background, text 'Gemini Omni' overlaid in white font
 ```
 
-### No. 207: Plataforma de IA GlobalGPT
+### No. 207: GlobalGPT AI Platformu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Theinfralab
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Theinfralab
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma captura de tela do site da GlobalGPT mostrando suas ferramentas e modelos de IA com um fundo vibrante e colorido.
+GlobalGPT web sitesinin bir ekran görüntüsü, canlı ve renkli bir arka planla birlikte AI araçlarını ve modellerini sergiliyor.
 
 #### Prompt
 
@@ -4272,19 +4272,19 @@ Uma captura de tela do site da GlobalGPT mostrando suas ferramentas e modelos de
 A vibrant, colorful background with a computer screen displaying the GlobalGPT website, featuring AI tools and models, with a focus on image, chat, video, agents, and search options. The page highlights 'Access 100+ Powerful AI Models - All in One Place' and shows various AI model selections like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast. There are navigation menus for Home, Models & Tools, Image, Video, Audio, My Tools, and other AI tools. The interface includes a 'Compare plans' button, 'Upgrade Plan' option, and a promotional banner celebrating 2 years with GlobalGPT and offering up to 50% off. The bottom section showcases cutting-edge video and image models with thumbnail previews of different content types. The overall design is modern and sleek, with a mix of white, blue, and orange hues, and a dynamic, flowing background pattern in purple, orange, and pink.
 ```
 
-### No. 208: Logotipo do Google I/O
+### No. 208: Google I/O Logosu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Google
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Google
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um logotipo vibrante e colorido em arco-íris representando o Google I/O, com símbolos tecnológicos e colchetes.
+Teknik semboller ve köşeli parantezlerle birlikte Google I/O'yu temsil eden canlı, gökkuşağı renklerinde bir logo.
 
 #### Prompt
 
@@ -4292,19 +4292,19 @@ Um logotipo vibrante e colorido em arco-íris representando o Google I/O, com s�
 a colorful gradient logo featuring a stylized Android robot, a globe, a rectangle, a circle, a diamond, and a cursor, all enclosed in curly braces with a forward slash in the middle, on a white background
 ```
 
-### No. 209: Gráfico de Boas-vindas de Volta
+### No. 209: Hoş Geldiniz Grafiği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Google
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Google
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico limpo e moderno com o texto 'Bem-vindo de volta' e uma forma de diamante vibrante e multicolorida centralizada sobre a palavra 'bem-vindo'.
+Temiz ve modern bir grafik, 'Hoş geldiniz' metni ve 'welcome' kelimesinin üzerinde merkezlenmiş canlı, çok renkli bir elmas şekli içeriyor.
 
 #### Prompt
 
@@ -4312,19 +4312,19 @@ Um gráfico limpo e moderno com o texto 'Bem-vindo de volta' e uma forma de diam
 Welcome back text with a colorful gradient diamond shape overlapping the word 'welcome', on a white background
 ```
 
-### No. 210: Formas Geométricas Abstratas
+### No. 210: Soyut Geometrik Şekiller
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Google
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Google
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Quatro conjuntos distintos de formas geométricas texturizadas exibidas em formato de grade.
+Dört farklı dokulu geometrik şekil seti, ızgara formatında sergileniyor.
 
 #### Prompt
 
@@ -4332,19 +4332,19 @@ Quatro conjuntos distintos de formas geométricas texturizadas exibidas em forma
 four sets of abstract geometric shapes with different textures and patterns, including purple and orange, cosmic galaxy, fossilized bones, and pink and black swirls, arranged in a grid on white background
 ```
 
-### No. 211: Transformações de Material de Pavão
+### No. 211: Tavuskuşu Malzeme Dönüşümleri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Google Flow
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Google Flow
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um pavão mostrado em quatro formas materiais diferentes: natural, papel, inflável e vidro com vida aquática dentro.
+Bir tavuskuşu, dört farklı malzeme formunda gösteriliyor: doğal, kağıt, şişme ve içinde su yaşamı olan cam.
 
 #### Prompt
 
@@ -4352,19 +4352,19 @@ Um pavão mostrado em quatro formas materiais diferentes: natural, papel, inflá
 A peacock made of different materials: real feathers, recycled paper tickets, inflatable plastic, and glass with fish inside, all in a forest background
 ```
 
-### No. 212: Retrato Editorial de Moda de Luxo Fotorealista
+### No. 212: Fotoğraf Gerçekçiliğinde Lüks Moda Editoryal Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato editorial de moda de luxo fotorealista de uma mulher usando imagens de referência para rosto e cor do cabelo.
+Yüz ve saç rengi için referans görüntüler kullanılarak bir kadının fotoğraf gerçekçiliğinde lüks moda editoryal portresi.
 
 #### Prompt
 
@@ -4372,19 +4372,19 @@ Um retrato editorial de moda de luxo fotorealista de uma mulher usando imagens d
 Photorealistic luxury fashion editorial portrait of a woman, used reference image face, used reference image color hair
 ```
 
-### No. 213: Cena de Fotografia com Flash em Corredor de Hotel Escuro
+### No. 213: Loş Otel Koridoru Flaş Fotoğrafçılığı Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma cena de vídeo ambientada em um corredor de hotel escuro à noite com estética de fotografia com flash.
+Flaş fotoğrafçılığı estetiğiyle, gece vakti loş bir otel koridorunda geçen bir video sahnesi için bir istem.
 
 #### Prompt
 
@@ -4397,19 +4397,19 @@ Um prompt para uma cena de vídeo ambientada em um corredor de hotel escuro à n
 }
 ```
 
-### No. 214: Pôster editorial de moda com Nano Banana Pro
+### No. 214: Nano Banana Pro ile moda editoryal afişi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ΛRMIN | AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ΛRMIN | AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um anúncio de moda dinâmico em 3D com efeito pop-out em alta resolução, filmado em película analógica.
+Analog filmde çekilmiş, yüksek çözünürlüklü, dinamik, 3B çıkıntılı bir moda reklamı oluşturmak için bir istem.
 
 #### Prompt
 
@@ -4417,19 +4417,19 @@ Um prompt para gerar um anúncio de moda dinâmico em 3D com efeito pop-out em a
 A precise, single full-page, high-resolution photographic print of a dynamic, 3D pop-out [luxury/fashion] advertisement for [BRAND_NAME], shot on high-fidelity analog film. The entire frame, from edge to edge, is filled by
 ```
 
-### No. 215: Prompt de vídeo colagem para Instagram de sereia ruiva
+### No. 215: Kızıl saçlı denizkızı Instagram kolaj video istemi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma colagem fotorealística vertical de história do Instagram de uma mulher ruiva consistente em cosplay de sereia.
+Denizkızı kıyafeti giymiş, tutarlı kızıl saçlı bir kadının fotoğraf gerçekçiliğinde dikey bir Instagram hikayesi kolajını oluşturmak için bir istem.
 
 #### Prompt
 
@@ -4437,19 +4437,19 @@ Um prompt para gerar uma colagem fotorealística vertical de história do Instag
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Red-haired siren cosplay-inspired night-out aesthetic, oceanic
 ```
 
-### No. 216: Interface de Software de Edição de Vídeo
+### No. 216: Video Düzenleme Yazılımı Arayüzü
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Curious Refuge
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Curious Refuge
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma captura de tela de um aplicativo de edição de vídeo com opções de upload e edições de exemplo exibidas.
+Yükleme seçenekleri ve örnek düzenlemelerin görüntülendiği bir video düzenleme uygulamasının ekran görüntüsü.
 
 #### Prompt
 
@@ -4457,19 +4457,19 @@ Uma captura de tela de um aplicativo de edição de vídeo com opções de uploa
 A dark-themed video editing software interface with a central upload area showing a teddy bear in a car, a man's face in a circular frame on the right, and feature options below, all with a green border and modern UI design.
 ```
 
-### No. 217: Reflexos no Espelho
+### No. 217: Ayna Yansımaları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sophia | AI Artist ✨
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em um maiô roxo está em uma sala espelhada criando múltiplos reflexos.
+Mor bir mayo giyen bir kadın, çoklu yansımalar yaratan aynalı bir odada duruyor.
 
 #### Prompt
 
@@ -4477,19 +4477,19 @@ Uma mulher em um maiô roxo está em uma sala espelhada criando múltiplos refle
 a woman in a shiny purple swimsuit with a knot front, wearing pink sunglasses, standing in a mirrored room with multiple reflections, wet skin, studio lighting, high detail, photorealistic
 ```
 
-### No. 218: Sucesso de ganhos no YouTube
+### No. 218: YouTube Kazanç Başarısı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Noah⚡️📈┃ YouTube Strategist
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Noah⚡️📈┃ YouTube Strategist
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um gráfico mostrando o YouTube e um símbolo de estrela se combinando para representar US$ 88K em ganhos com um gráfico verde em ascensão.
+YouTube ve bir yıldız sembolünün 88K$ kazancı temsil etmek için birleştiğini ve yükselen yeşil bir grafik gösteren bir grafik.
 
 #### Prompt
 
@@ -4497,19 +4497,19 @@ Um gráfico mostrando o YouTube e um símbolo de estrela se combinando para repr
 YouTube logo plus a glowing star symbol equals $88K, with a green upward trending graph on a wooden surface under a spotlight
 ```
 
-### No. 219: Mulher na Academia Keor
+### No. 219: Keor Spor Salonunda Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** KeorUnreal
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em forma posa com confiança em uma academia com uma placa de néon atrás dela.
+Formda bir kadın, arkasında neon tabela olan bir spor salonunda kendinden emin bir şekilde poz veriyor.
 
 #### Prompt
 
@@ -4517,19 +4517,19 @@ Uma mulher em forma posa com confiança em uma academia com uma placa de néon a
 a confident woman in a gym, wearing a pink sports bra and white leggings, giving a thumbs up, neon sign 'Keor Gym' in the background, fitness equipment around, bright lighting, photorealistic
 ```
 
-### No. 220: Prompt de Estrutura Facial de Madelyn Cline
+### No. 220: Madelyn Cline Yüz Yapısı İstemi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Pinodi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pinodi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado especificando a biometria e estrutura facial para gerar uma semelhança de Madelyn Cline.
+Madelyn Cline benzerliğini oluşturmak için yüz biyometriklerini ve yapısını belirten yapılandırılmış bir istem.
 
 #### Prompt
 
@@ -4544,19 +4544,19 @@ Um prompt estruturado especificando a biometria e estrutura facial para gerar um
 }
 ```
 
-### No. 221: Imagem Nano Banana para Sincronia Labial Higgsfield
+### No. 221: Nano Banana'dan Görüntüyü Higgsfield Dudak Senkronizasyonu için Kullanma
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Darrin McBreen
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Darrin McBreen
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Crie uma imagem no Nano Banana para usar como quadro inicial de um vídeo de sincronia labial no Higgsfield.
+Higgsfield'da bir dudak senkronizasyon videosu için başlangıç karesi olarak kullanmak üzere Nano Banana'da bir görüntü oluşturun.
 
 #### Prompt
 
@@ -4564,19 +4564,19 @@ Crie uma imagem no Nano Banana para usar como quadro inicial de um vídeo de sin
 Make an image in Nano Banana and use it as the start frame in Higgsfield lip sync. You'll find it in the video menu tab. There you can also upload the audio portion of the song you want.
 ```
 
-### No. 222: Rainha da Maçã Carmesim
+### No. 222: Kızıl Elma'nın Kraliçesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 紫ちゃん (⁠♡⁠ω⁠♡⁠ ⁠)⁠ ⁠~⁠♪💜
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 紫ちゃん (⁠♡⁠ω⁠♡⁠ ⁠)⁠ ⁠~⁠♪💜
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher majestosa com cabelo roxo sentada sobre uma gigantesca maçã de gema vermelha em uma catedral gótica repleta de cristais e luz de velas.
+Mor saçlı asil bir kadın, kristaller ve mum ışıklarıyla dolu gotik bir katedralde dev bir kırmızı değerli taş elmanın üzerinde oturuyor.
 
 #### Prompt
 
@@ -4584,19 +4584,19 @@ Uma mulher majestosa com cabelo roxo sentada sobre uma gigantesca maçã de gema
 a fantasy queen with long purple hair, wearing a red and gold crown adorned with roses, sitting on a giant red gemstone apple, dressed in an elaborate red gown with intricate jewelry, in a dark gothic cathedral with glowing crystals and candles, cinematic lighting, highly detailed, 8k
 ```
 
-### No. 223: Ferramentas de IA GlobalGPT
+### No. 223: GlobalGPT Yapay Zeka Araçları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Riya Ai
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Riya Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma captura de tela promocional do site GlobalGPT apresentando modelos de IA e uma oferta de desconto.
+GlobalGPT web sitesinin, yapay zeka modellerini ve bir indirim teklifini gösteren tanıtım ekran görüntüsü.
 
 #### Prompt
 
@@ -4604,19 +4604,19 @@ Uma captura de tela promocional do site GlobalGPT apresentando modelos de IA e u
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, with a banner celebrating 2 years and offering 50% off, displayed on a computer screen.
 ```
 
-### No. 224: Modelos de Jaquetas Puffer
+### No. 224: Püf Noktası Mont Modelleri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ErwanXR ■●■
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ErwanXR ■●■
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma imagem dividida de uma modelo com jaquetas puffer pretas e vermelhas contra fundos contrastantes.
+Zıt arka planlar önünde siyah ve kırmızı püf noktası montlar giyen bir modelin bölünmüş görüntüsü.
 
 #### Prompt
 
@@ -4624,19 +4624,19 @@ Uma imagem dividida de uma modelo com jaquetas puffer pretas e vermelhas contra 
 a model wearing a black puffer jacket on a dark background, and the same model wearing a red puffer jacket on a white background, high fashion photography, dramatic lighting, studio shot
 ```
 
-### No. 225: Sucesso de moda de vanguarda
+### No. 225: Avangart moda şaheseri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ErwanXR ■●■
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ErwanXR ■●■
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um vídeo de moda de alta energia com visuais e design de som agressivos, apresentando uma modelo feminina dominante em roupas futuristas em quatro cenas cinematográficas distintas.
+Agresif görseller ve ses tasarımıyla yüksek tempolu bir moda videosu; dört farklı sinematik sahnede, fütüristik kıyafetler içinde baskın bir kadın modeli yer alıyor.
 
 #### Prompt
 
@@ -4644,19 +4644,19 @@ Um vídeo de moda de alta energia com visuais e design de som agressivos, aprese
 High-octane avant-garde fashion banger, 12s. Absolute musical silence. Audio track is strictly raw high-fidelity A SMR: aggressive fabric cracks, heavy wind swooshes, and bone-dry finger snaps acting as audio impact triggers. No music. Model & Attitude: One consistent female model with fierce runway aggression, immense charisma, and sharp, high-energy poses. She dominates the camera. Every single finger snap triggers an explosive camera shake, heavy directional motion blur, and a violent whip-pan hard cut. The Eclectic Visual Shatter (Cinematic Transitions): * Scene 1: Medium shot. Hyper-bright overexposed white studio. Model in a high-gloss crimson red puffer jacket, delivering a fierce, fast-paced performance. Instant violent snap cut. * Scene 2: Dynamic low-angle shot. Deep Rembrandt chiaroscuro lighting. Model in an ornate emerald green velvet Baroque gown, spinning with high velocity, canvas textures flying. * Scene 3: Extreme wide-to-macro camera push. Surreal open-air liquid mercury desert under a shifting chrome sky. Model in a fluid chrome dress, completely locked in a high-fashion frozen pose while the camera orbits aggressively around her. * Scene 4: Saccadic close-up tracking. High-tech Y3K sanctuary, deep cobalt blue grading. Model wears an armored body suit sculpted by volumetric laser beams, shifting geometric poses at stroboscopic speed. Cinematography: Hyper-aggressive camera tracking, intense lens pushes, sudden 90-degree Dutch angles, flawless facial continuity. 8k resolution, raw visual adrenaline, pure scroll-stopper.
 ```
 
-### No. 226: Instrução para Retrato de Mulher ao Lado de Aquário
+### No. 226: Akvaryum Yanındaki Kadın Portre Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Anaya Ai
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anaya Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para gerar um retrato ultra realista de uma mulher com características faciais consistentes ao lado de um aquário doméstico.
+Tutarlı yüz özelliklerine sahip bir kadının, ev akvaryumu yanında ultra gerçekçi bir portresini oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -4664,19 +4664,19 @@ Uma instrução para gerar um retrato ultra realista de uma mulher com caracter�
 Ultra-realistic portrait of a beautiful young woman standing beside a large illuminated home aquarium, maintaining the same facial features, face shape, eye structure, hairstyle, and overall facial identity as the reference image. Long, voluminous dark
 ```
 
-### No. 227: Celebração de torcedora da Copa do Mundo FIFA
+### No. 227: FIFA Dünya Kupası hayran kutlaması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** latix.ai
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** latix.ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma torcedora alegre celebra em uma partida da Copa do Mundo FIFA, segurando uma cerveja em um estádio lotado.
+Neşeli bir kadın hayran, dolu bir stadyumda elinde bir bira tutarak bir FIFA Dünya Kupası maçında kutlama yapıyor.
 
 #### Prompt
 
@@ -4684,19 +4684,19 @@ Uma torcedora alegre celebra em uma partida da Copa do Mundo FIFA, segurando uma
 a woman wearing a USA beanie and jacket, smiling and holding a beer, in a crowded stadium during a FIFA World Cup match, with the field and scoreboard visible in the background, vibrant lighting, realistic details
 ```
 
-### No. 228: Observação de Campo de Cena Cotidiana Anotada
+### No. 228: Açıklamalı Günlük Sahne Alan Gözlemi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alexandra Aisling
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alexandra Aisling
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução de vídeo que retrata um momento cotidiano de uma pessoa como uma observação de campo de um pesquisador, pesadamente anotada, com notas marginais flutuantes em vários estilos de caligrafia.
+Bir kişinin günlük anını, çeşitli el yazısı stilleriyle yazılmış yüzen kenar notlarıyla ağır şekilde açıklamalı bir araştırmacının gözlemi olarak betimleyen bir video prompt'u.
 
 #### Prompt
 
@@ -4704,19 +4704,19 @@ Uma instrução de vídeo que retrata um momento cotidiano de uma pessoa como um
 A [PERSON'S] daily scene [SPECIFIC MOMENT: morning coffee, commute, dinner]rendered as a heavily annotated field-researcher's observation. Floating margin notes in different handwriting styles accumulate
 ```
 
-### No. 229: Tomada Cinematográfica de Mulher Colocando Capacete de Piloto
+### No. 229: Pilot Kaskı Takan Kadının Sinematik Çekimi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Saki H. 咲希
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Saki H. 咲希
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução cinematográfica para uma tomada de corpo inteiro de uma mulher colocando um capacete de piloto.
+Bir kadının pilot kaskı taktığı tam vücut çekimi için sinematik bir prompt.
 
 #### Prompt
 
@@ -4724,19 +4724,19 @@ Uma instrução cinematográfica para uma tomada de corpo inteiro de uma mulher 
 A cinematic, dutch angle, full body shot of a young woman as in <<<image_1>>> cooly walking in profile, using both hands to put on an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed,
 ```
 
-### No. 230: Colcha com Retrato de Messi
+### No. 230: Messi Portreli Yorgan
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Hendry Lim
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hendry Lim
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma senhora idosa exibe uma colcha artesanal com um retrato de Lionel Messi, confeccionada a partir de vários retalhos de tecido em uma casa com iluminação aconchegante.
+Yaşlı bir kadın, sıcak bir şekilde aydınlatılmış bir evde, Lionel Messi'nin portresini çeşitli kumaş parçalarından işleyerek yapılmış el yapımı bir yorgan sergiliyor.
 
 #### Prompt
 
@@ -4744,19 +4744,19 @@ Uma senhora idosa exibe uma colcha artesanal com um retrato de Lionel Messi, con
 an elderly woman proudly holding a handmade patchwork quilt featuring a portrait of Lionel Messi, crafted from denim and fabric scraps, in a cozy vintage home with framed photos and lace curtains, warm natural lighting, realistic photography style
 ```
 
-### No. 231: Instrução para Retrato Instantâneo Candidato Estilo Y2K
+### No. 231: Y2K Doğal Anlık Portre Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Virena
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Virena
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução estruturada para gerar um retrato instantâneo com flash no estilo Y2K de uma garota universitária descolada e despretensiosa.
+Zarif ve rahat bir üniversite kızının Y2K tarzında doğal bir flaşlı portresini oluşturmak için yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -4773,19 +4773,19 @@ Uma instrução estruturada para gerar um retrato instantâneo com flash no esti
 }
 ```
 
-### No. 232: Vista Aérea com Tilt Shift da Tower Bridge ao Crepúsculo
+### No. 232: Havadan Tilt Shift Tower Bridge Alacakaranlık
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** NUSRAT
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** NUSRAT
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma vista aérea hiper-realista em 4K com efeito tilt-shift da Tower Bridge em Londres ao crepúsculo, com iluminação quente e atmosfera serena.
+Londra'da Tower Bridge'in alacakaranlıkta, sıcak ışıklandırmayla ve huzurlu bir atmosferde çekilmiş hiper gerçekçi, 4K tilt-shift hava görüntüsü.
 
 #### Prompt
 
@@ -4795,17 +4795,17 @@ Uma vista aérea hiper-realista em 4K com efeito tilt-shift da Tower Bridge em L
 
 ### No. 233: Apple Intelligence vs CapCut
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Mehwish kiran
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Mehwish kiran
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma comparação dos logos do Apple Intelligence e do aplicativo CapCut com um símbolo do CapCut riscado.
+Apple Intelligence ve CapCut uygulama logolarının, üzeri çizili bir CapCut sembolüyle karşılaştırıldığı bir görsel.
 
 #### Prompt
 
@@ -4813,19 +4813,19 @@ Uma comparação dos logos do Apple Intelligence e do aplicativo CapCut com um s
 A split screen with the Apple Intelligence logo on the left and the CapCut logo crossed out with a red X on the right, black background, minimalist design
 ```
 
-### No. 234: Fotografia de Retrato de Moda Ultra Realista
+### No. 234: Ultra Gerçekçi Moda Portre Fotoğrafçılığı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Ai Bella
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ai Bella
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para um retrato de moda cinematográfico e ultra realista em um estúdio minimalista.
+Minimalist bir stüdyoda sinematik, ultra gerçekçi bir moda portresi için bir prompt.
 
 #### Prompt
 
@@ -4833,19 +4833,19 @@ Uma instrução para um retrato de moda cinematográfico e ultra realista em um 
 Ultra-realistic fashion portrait photography, UHD 18K, vertical aspect ratio 2:3, cinematic editorial masterpiece. A young women sits casually on a simple chair in the middle of a minimalist studio entirely covered in intense,
 ```
 
-### No. 235: Retrato Masculino Cinematográfico com Referência Facial
+### No. 235: Yüz Referanslı Sinematik Erkek Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Professor
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Professor
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para gerar um retrato masculino cinematográfico que preserve as características e semelhança facial de uma imagem enviada.
+Yüklenen bir görselden yüz özelliklerini ve benzerliği koruyarak sinematik bir erkek portresi oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -4853,19 +4853,19 @@ Uma instrução para gerar um retrato masculino cinematográfico que preserve as
 Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity. Create a cinematic aesthetic male portrait
 ```
 
-### No. 236: Hacker e Cúmplice
+### No. 236: Hacker ve Suç Ortağı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** FHM AI Autopsy Dossier
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** FHM AI Autopsy Dossier
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um hacker em um moletom preto trabalha em um laptop enquanto uma mulher loira observa atentamente em uma sala com pouca luz e chuva do lado de fora.
+Siyah bir kapüşonlu giysi içindeki bir hacker, dışarıda yağmur yağarken loş bir odada bir dizüstü bilgisayarda çalışırken sarışın bir kadın dikkatle izliyor.
 
 #### Prompt
 
@@ -4873,19 +4873,19 @@ Um hacker em um moletom preto trabalha em um laptop enquanto uma mulher loira ob
 a man in a black hoodie and mask with glowing blue eyes typing on a laptop, a blonde woman standing beside him looking at the screen, rainy window in background, cinematic lighting, dramatic atmosphere
 ```
 
-### No. 237: Sessão de Fotos Noturna na Água
+### No. 237: Gece Havuz Fotoğraf Çekimi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** remix.camera
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** remix.camera
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em um maiô escuro posa ao lado de uma piscina sob iluminação azul para uma sessão de fotos de moda.
+Koyu renkli bir mayoyla mavi ışıklandırma altında bir havuz kenarında poz veren bir kadın, moda fotoğraf çekimi için hazırlanıyor.
 
 #### Prompt
 
@@ -4893,19 +4893,19 @@ Uma mulher em um maiô escuro posa ao lado de uma piscina sob iluminação azul 
 A woman in a black swimsuit sitting by a pool at night, illuminated by blue light, with a moody and revealing fashion aesthetic
 ```
 
-### No. 238: Editor de Vídeo por IA Gratuito do Google
+### No. 238: Google'ın Ücretsiz Yapay Zeka Düzenleyicisi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Waseem Ai
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Waseem Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma imagem promocional anunciando um editor de vídeo por IA gratuito do Google, destacando seus recursos e facilidade de uso.
+Google tarafından sunulan ücretsiz bir yapay zeka video düzenleyicisini, özelliklerini ve kullanım kolaylığını vurgulayan tanıtım görseli.
 
 #### Prompt
 
@@ -4913,19 +4913,19 @@ Uma imagem promocional anunciando um editor de vídeo por IA gratuito do Google,
 A man with glasses pointing at a laptop screen showing Google Gemini Omni AI Video Editor, with text 'R.I.P. CAPCUT? Google just dropped a FREE AI VIDEO EDITOR!', featuring before/after video editing examples, neon buttons for features like remove objects, change backgrounds, add effects, trim scenes, enhance quality, and a rocket launching, vibrant colors, bold typography, digital art style
 ```
 
-### No. 239: Confronto de Artes Marciais
+### No. 239: Dövüş Sanatları Karşılaşması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sparkful
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sparkful
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma sequência de luta dramática se desenrola em um restaurante chinês com pouca iluminação, lanternas vermelhas e fumaça, enquanto um mestre das artes marciais enfrenta dois oponentes.
+Kırmızı fenerler ve dumanla dolu loş bir Çin restoranında, bir dövüş sanatları ustasının iki rakiple mücadelesini konu alan dramatik bir dövüş sahnesi.
 
 #### Prompt
 
@@ -4933,19 +4933,19 @@ Uma sequência de luta dramática se desenrola em um restaurante chinês com pou
 a martial arts fight scene in a traditional Chinese restaurant, featuring a bald man in a red silk robe fighting two men in vests, with red lanterns and smoke in the background, cinematic lighting, dynamic action poses, close-up of the master's face, 4k detailed, epic atmosphere
 ```
 
-### No. 240: Pessoa usando smartphone
+### No. 240: akıllı telefon kullanan kişi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Mohammed Siraj
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Mohammed Siraj
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma pessoa segura um smartphone, vendo um vídeo de mídia social na tela.
+Bir kişi, ekranında bir sosyal medya videosu izlerken bir akıllı telefon tutuyor.
 
 #### Prompt
 
@@ -4953,19 +4953,19 @@ Uma pessoa segura um smartphone, vendo um vídeo de mídia social na tela.
 a close-up of hands holding a smartphone displaying a social media video, realistic lighting, detailed skin texture, modern phone design, indoor setting
 ```
 
-### No. 241: Mulher no banheiro
+### No. 241: banyodaki kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** J⭕DIE
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** J⭕DIE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher com a pele molhada senta-se na bancada do banheiro, sorrindo enquanto toca o cabelo.
+Islak tenli bir kadın, banyo tezgahına oturmuş, saçına dokunurken gülümsüyor.
 
 #### Prompt
 
@@ -4973,19 +4973,19 @@ Uma mulher com a pele molhada senta-se na bancada do banheiro, sorrindo enquanto
 a woman with red hair sitting on a bathroom counter, wearing a yellow tank top and white shorts, smiling at the camera, wet skin, surrounded by beauty products, bright natural lighting, realistic photo
 ```
 
-### No. 242: Mulher em maiô listrado
+### No. 242: çizgili mayolu kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** KeorUnreal
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher em um maiô listrado vermelho e preto senta-se em uma cama, mostrando a língua de forma brincalhona em um quarto de hotel.
+Kırmızı ve siyah çizgili mayolu bir kadın, bir otel odasında yatağa oturmuş, şakacı bir şekilde dilini çıkarıyor.
 
 #### Prompt
 
@@ -4993,19 +4993,19 @@ Uma mulher em um maiô listrado vermelho e preto senta-se em uma cama, mostrando
 a woman in a red and black striped one-piece swimsuit with a bow, sitting on a bed in a hotel room, making a playful face, long brown hair, white hair clip, realistic lighting, high detail
 ```
 
-### No. 243: Brinquedo Transformável Chevrolet
+### No. 243: Chevrolet dönüşen oyuncak
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** nehal mujawar
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** nehal mujawar
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma pessoa segura um cubo preto que se transforma em um modelo de carro Chevrolet.
+Bir kişi, bir Chevrolet araba modeline dönüşen siyah bir küp tutuyor.
 
 #### Prompt
 
@@ -5013,19 +5013,19 @@ Uma pessoa segura um cubo preto que se transforma em um modelo de carro Chevrole
 a black cube-shaped toy car with Chevrolet logo being held and manipulated by hands, transforming from a cube to a car shape, realistic lighting, high detail, product photography
 ```
 
-### No. 244: Grade de Asanas de Ioga com Cascas de Banana
+### No. 244: Muz Kabuğu Yoga Pozları Izgarası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Gadgetify
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Gadgetify
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma grade 2x2 de poses de ioga feitas com cascas de banana e segmentos de frutas.
+Muz kabukları ve meyve dilimlerinden oluşturulmuş yoga pozlarının 2x2'lik bir ızgarası.
 
 #### Prompt
 
@@ -5033,19 +5033,19 @@ Uma grade 2x2 de poses de ioga feitas com cascas de banana e segmentos de frutas
 A 2x2 grid of different yoga asanas created from arranged banana peels and fruit Structure: [Panel: RANDOM yoga pose; banana peel limb positions, fruit body segments, peel flexibility showing stretch, brown
 ```
 
-### No. 245: Cripta Botânica Brutalista de Outono
+### No. 245: Sonbahar Haute Macabre Brutalist Botanik Kasası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** timedoctor.eth
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma foto editorial hiper-realista de uma protagonista em uma cripta botânica brutalista de concreto, cavernosa e cheia de poeira.
+Toz dolu, mağaramsı bir brutalist beton botanik kasasında bir kahramanın hiper-gerçekçi editoryal fotoğrafı.
 
 #### Prompt
 
@@ -5053,19 +5053,19 @@ Uma foto editorial hiper-realista de uma protagonista em uma cripta botânica br
 A hyper-realistic, medium-format editorial photograph of The Protagonist standing in a cavernous, dust-filled brutalist concrete botanical vault. The Protagonist
 ```
 
-### No. 246: Conjunto de Dados de Retratos de Moda de Celebridades
+### No. 246: Ünlü Moda Portreleri Veri Seti
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Anaya
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anaya
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt de conjunto de dados estruturado para gerar retratos de moda de celebridades e edições estéticas.
+Ünlü moda portreleri ve estetik düzenlemeler oluşturmak için yapılandırılmış bir veri seti isteği.
 
 #### Prompt
 
@@ -5077,19 +5077,19 @@ Um prompt de conjunto de dados estruturado para gerar retratos de moda de celebr
 }
 ```
 
-### No. 247: Homem no corredor do escritório
+### No. 247: Ofis koridorundaki adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** AI Sparks
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AI Sparks
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem com uma roupa estilosa caminha com confiança por um corredor de escritório moderno.
+Şık bir kıyafet giyen bir adam, modern bir ofis koridorundan kendinden emin adımlarla yürüyor.
 
 #### Prompt
 
@@ -5097,19 +5097,19 @@ Um homem com uma roupa estilosa caminha com confiança por um corredor de escrit
 a man walking in an office hallway, wearing a maroon bomber jacket, black t-shirt, blue jeans, and white sneakers, smiling at the camera, modern office interior with glass walls and plants, bright lighting, photorealistic
 ```
 
-### No. 248: Cachorro com capacete cerebral
+### No. 248: beyin kasklı köpek
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** __SWFX__
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** __SWFX__
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um dogue alemão usa um capacete futurista com um cérebro dentro de uma cúpula de vidro, babando perto de uma porta.
+Bir Danua, içinde cam bir kubbenin içinde beyin olan fütüristik bir kask takıyor ve bir kapının yanında salyalar akıtıyor.
 
 #### Prompt
 
@@ -5117,19 +5117,19 @@ Um dogue alemão usa um capacete futurista com um cérebro dentro de uma cúpula
 a gray great dane dog wearing a metal helmet with a glass dome containing a brain in green liquid, standing by a white door with keys, drooling, realistic lighting, cinematic shot
 ```
 
-### No. 249: Homem com modelo de carro vintage
+### No. 249: Vintage araba modeli olan adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** WeWant Mars
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** WeWant Mars
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem de terno senta-se a uma mesa desordenada com um modelo de carro vintage e gatos usando cartolas em um estudo aconchegante cheio de livros e gadgets antigos.
+Takım elbiseli bir adam, kitaplar ve eski gadget'larla dolu, samimi bir çalışma odasında, vintage bir araba modeli ve silindir şapkalı kedilerin bulunduğu dağınık bir masada oturuyor.
 
 #### Prompt
 
@@ -5137,19 +5137,19 @@ Um homem de terno senta-se a uma mesa desordenada com um modelo de carro vintage
 a man in a suit and sunglasses sitting at a desk with a vintage car model, cats wearing top hats, books, typewriter, and old radio in a dimly lit study, cinematic lighting, hyper-detailed, 8k
 ```
 
-### No. 250: Ilustração de pixel art de IA
+### No. 250: Yapay Zeka piksel sanatı illüstrasyonu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** TheVortiq
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TheVortiq
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma representação em pixel art das letras IA usando quadrados pretos e brancos em um fundo de grade com texto sobre inteligência artificial.
+Yapay zeka hakkında metin içeren, ızgara fon üzerinde siyah ve beyaz kareler kullanılarak oluşturulmuş, AI harflerinin piksel sanatı temsili.
 
 #### Prompt
 
@@ -5157,19 +5157,19 @@ Uma representação em pixel art das letras IA usando quadrados pretos e brancos
 pixel art style illustration of the word 'AI' made from black and white squares, with a grid background and text at the top reading 'MULTIMODAL MODEL [V3]', in a minimalist design with a dark gradient bottom section
 ```
 
-### No. 251: Colagem de Faixa de Fotos Vertical de Mulher do Leste Asiático
+### No. 251: Doğu Asyalı Kadının Dikey Fotoğraf Şeridi Kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma colagem vertical de faixa de fotos com quatro retratos em close-up de uma mulher do Leste Asiático contra um fundo cinza claro.
+Açık gri bir fon önünde, Doğu Asyalı bir kadına ait dört yakın plan portreden oluşan dikey bir fotoğraf şeridi kolajı oluşturmak için bir istek.
 
 #### Prompt
 
@@ -5177,19 +5177,19 @@ Um prompt para gerar uma colagem vertical de faixa de fotos com quatro retratos 
 A vertical photo strip collage featuring four distinct, close-up portraits of a beautiful East Asian woman with long, wavy black hair, set against a clean, minimal light grey background.
 ```
 
-### No. 252: Mulher em colagem de moda
+### No. 252: moda kolajında kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Asher Crowe 🪺
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Asher Crowe 🪺
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma grade de nove imagens no estilo de mídia social mostrando uma mulher com diferentes roupas, legendas em russo e números de engajamento.
+Rusça altyazılar ve etkileşim sayılarıyla, farklı kıyafetler içindeki bir kadını gösteren dokuz sosyal medya tarzı görselden oluşan bir ızgara.
 
 #### Prompt
 
@@ -5197,19 +5197,19 @@ Uma grade de nove imagens no estilo de mídia social mostrando uma mulher com di
 a collage of nine images featuring a woman in various outfits and poses, each with Russian text overlays and view counts, styled like social media video thumbnails
 ```
 
-### No. 253: Construa um mundo de estilo facial a partir de um perfil frontal
+### No. 253: Ön profilden bir yüz tarzı dünyası oluştur
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Draven
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Draven
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um mundo de influenciador de estilo de vida baseado em uma imagem de referência facial.
+Bir yüz referans görseline dayalı olarak bir yaşam tarzı influencer dünyası oluşturmak için bir istek.
 
 #### Prompt
 
@@ -5217,19 +5217,19 @@ Um prompt para gerar um mundo de influenciador de estilo de vida baseado em uma 
 build a face style world for this face front profile
 ```
 
-### No. 254: Colagem de Aventura no Deserto
+### No. 254: Çöl Macerası Kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Shakil Islam
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Shakil Islam
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cena dramática do deserto apresentando um carro futurista, um homem e uma cobra gigante em uma colagem cinematográfica.
+Fütüristik bir araba, bir adam ve dev bir yılanın yer aldığı, sinematik bir kolaj oluşturan dramatik bir çöl sahnesi.
 
 #### Prompt
 
@@ -5237,19 +5237,19 @@ Uma cena dramática do deserto apresentando um carro futurista, um homem e uma c
 a cinematic desert landscape at sunset with a futuristic car driving through sand dunes, a man standing in the desert, a giant snake emerging from the sand, and a car interior with a person driving, all in a collage format with a golden hour lighting style
 ```
 
-### No. 255: Jogador de Futebol em Celebração
+### No. 255: Futbolcu Kutlaması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Parves Hossen
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Parves Hossen
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um jogador de futebol com a camisa do Manchester City sorri no campo durante uma partida.
+Manchester City forması giyen bir futbolcu, maç sırasında sahada gülümsüyor.
 
 #### Prompt
 
@@ -5257,19 +5257,19 @@ Um jogador de futebol com a camisa do Manchester City sorri no campo durante uma
 a smiling football player in a light blue Manchester City jersey standing on a stadium field, with fans cheering and a scoreboard showing halftime, realistic lighting, detailed textures, 8k resolution
 ```
 
-### No. 256: Nexo do Meridiano Celestial
+### No. 256: Göksel Meridyen Bağlantısı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um majestoso observatório steampunk repleto de instrumentos astronômicos dourados e estudiosos trabalhando.
+Altın astronomik aletlerle dolu, çalışan bilim insanlarının bulunduğu görkemli bir buharlı punk gözlemevi.
 
 #### Prompt
 
@@ -5277,19 +5277,19 @@ Um majestoso observatório steampunk repleto de instrumentos astronômicos doura
 a grand steampunk observatory with golden mechanical instruments, arched ceilings, stained glass windows, and people working at control panels, cinematic lighting, intricate details, 8k
 ```
 
-### No. 257: Prompt para Foto de Moda Dinâmica
+### No. 257: Dinamik Moda Fotoğrafı İsteği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Singular Lab News ∞
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Singular Lab News ∞
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt simples para gerar fotografia de moda dinâmica de uma mulher.
+Bir kadının dinamik moda fotoğraflarını oluşturmak için basit bir istek.
 
 #### Prompt
 
@@ -5297,19 +5297,19 @@ Um prompt simples para gerar fotografia de moda dinâmica de uma mulher.
 dynamic fashion photo of a woman
 ```
 
-### No. 258: Transporte da Cidade Futurista
+### No. 258: Fütüristik Şehir Ulaşımı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um veículo autônomo elegante viaja por uma cidade futurista com tecnologia avançada e arquitetura ecológica.
+Şık bir otonom araç, ileri teknoloji ve çevre dostu mimariye sahip fütüristik bir şehirde yol alıyor.
 
 #### Prompt
 
@@ -5317,19 +5317,19 @@ Um veículo autônomo elegante viaja por uma cidade futurista com tecnologia ava
 futuristic self-driving pod with people inside, moving on a glowing elevated track in a high-tech city with green skyscrapers and holographic displays, cinematic lighting, 8k
 ```
 
-### No. 259: Distrito do Mercado Flutuante
+### No. 259: Yüzen Pazar Bölgesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um mundo em miniatura artesanal de comércio bioluminescente, arquitetura botânica e conectividade orgânica.
+Biyolüminesans ticaret, botanik mimari ve organik bağlantılılıkla dolu, el yapımı minyatür bir dünya.
 
 #### Prompt
 
@@ -5337,19 +5337,19 @@ Um mundo em miniatura artesanal de comércio bioluminescente, arquitetura botân
 a floating island market with bioluminescent plants, glowing flowers, and intricate organic architecture, viewed from above, fantasy art style, detailed miniature world, soft lighting, magical atmosphere
 ```
 
-### No. 260: Tênis Arco-Íris em Movimento
+### No. 260: Hareketli Gökkuşağı Sneaker'ı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Insomnia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Insomnia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um tênis colorido com sola translúcida flutua contra um fundo azul escuro e laranja, exibindo movimento dinâmico e cores vívidas.
+Şeffaf tabanlı renkli bir sneaker, dinamik hareket ve canlı renkler sergileyerek koyu mavi ve turuncu bir fon önünde süzülüyor.
 
 #### Prompt
 
@@ -5357,19 +5357,19 @@ Um tênis colorido com sola translúcida flutua contra um fundo azul escuro e la
 a vibrant rainbow-colored sneaker with a transparent blue sole, floating against a dark blue background with orange side panels, high detail, studio lighting, product photography
 ```
 
-### No. 261: Mulher ciclando emoções em sequência não natural
+### No. 261: Kadın bisiklet sürerken doğal olmayan duygu dizisi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alin Cristian Tiganus (eyes2AI)
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alin Cristian Tiganus (eyes2AI)
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um vídeo de uma mulher percorrendo uma sequência de emoções a partir de uma imagem de referência, de forma contínua mas não natural.
+Bir referans görselden yola çıkarak, bir kadının doğal olmayan ancak sürekli bir dizilimde duygular arasında geçiş yaptığı bir video oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -5377,19 +5377,19 @@ Um prompt para gerar um vídeo de uma mulher percorrendo uma sequência de emoç
 Make the woman go through all the emotions in image 2 in an unnatural sequence but continuous shot. Don't include image 2 in the video
 ```
 
-### No. 262: Colagem de Produtos de Beleza
+### No. 262: Güzellik Ürünü Kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Amira Zairi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Amira Zairi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma colagem estilosa de anúncios de skincare de luxo, apresentando modelos e produtos de beleza premium.
+Modeller ve premium güzellik ürünleri içeren lüks cilt bakım reklamlarının şık bir kolajı.
 
 #### Prompt
 
@@ -5397,19 +5397,19 @@ Uma colagem estilosa de anúncios de skincare de luxo, apresentando modelos e pr
 A collage of six high-end beauty product advertisements featuring models posing with skincare products, each in a clean studio setting with soft lighting and pastel color schemes, showcasing brands like Laneige, Summer Fridays, Pure Beauty, Sol de Janeiro, Glow Recipe, and Tatcha, all presented in a minimalist and elegant style with white backgrounds and professional photography.
 ```
 
-### No. 263: Luzes Suaves e Aconchegantes com Celebridades
+### No. 263: Ünlülerle Rahat Yumuşak Işıklar
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt de vídeo com iluminação suave, roupas aconchegantes e uma atmosfera descontraída com as celebridades Sabrina Carpenter, Jenna Ortega e Sadie Sink.
+Yumuşak aydınlatma, rahat kıyafetler ve Sabrina Carpenter, Jenna Ortega ve Sadie Sink ile rahatlatıcı bir atmosfer içeren bir video prompt'u.
 
 #### Prompt
 
@@ -5417,19 +5417,19 @@ Um prompt de vídeo com iluminação suave, roupas aconchegantes e uma atmosfera
 Soft lights, cozy clothes, and absolutely no rush to be anywhere. Sabrina carpenter, Jenna Ortega, Sadie sink
 ```
 
-### No. 264: Cena de Sala de Estar Moderna e Clara
+### No. 264: Aydınlık Modern Oturma Odası Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo uma sala de estar moderna e clara, com detalhes de interiores contemporâneos mínimos.
+Aydınlık, modern, minimal ve çağdaş iç detaylara sahip bir oturma odasını tanımlayan bir prompt.
 
 #### Prompt
 
@@ -5442,19 +5442,19 @@ Um prompt descrevendo uma sala de estar moderna e clara, com detalhes de interio
 }
 ```
 
-### No. 265: Embaixador do Google Gemini
+### No. 265: Google Gemini Elçisi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Shubh Umre
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Shubh Umre
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um embaixador estudantil compartilha sua experiência do primeiro mês com o Google Gemini, destacando conquistas em educação em IA e construção de comunidade.
+Bir öğrenci elçisi, Google Gemini ile ilk ay deneyimini paylaşıyor ve yapay zeka eğitimi ve topluluk oluşturmadaki başarıları vurguluyor.
 
 #### Prompt
 
@@ -5462,19 +5462,19 @@ Um embaixador estudantil compartilha sua experiência do primeiro mês com o Goo
 A young man in a hoodie stands confidently in front of a vibrant blue and purple background with abstract digital elements. The image features the Google Gemini logo at the top, text reading 'My First Month as a Google Gemini Student Ambassador,' and several colorful boxes highlighting achievements like hosting events, introducing AI tools, and building a community. A quote at the bottom reads, 'Every session is not just about teaching AI, but about building a community that learns and grows together.' The Baderia Global Institute of Engineering and Management logo is in the corner. The overall style is modern, tech-inspired, and professional, with a focus on learning, leadership, and innovation.
 ```
 
-### No. 266: Interface da Galeria de Prompts de IA
+### No. 266: Yapay Zeka Prompt Galeri Arayüzü
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 小海豚笔记 (AI & 副业探索)
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 小海豚笔记 (AI & 副业探索)
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma captura de tela de uma galeria de prompts de IA com vários exemplos de imagens e texto em chinês sobre um fundo escuro.
+Koyu bir fon üzerinde çeşitli görsel örnekleri ve Çince metinler içeren bir yapay zeka prompt galerisinin ekran görüntüsü.
 
 #### Prompt
 
@@ -5482,19 +5482,19 @@ Uma captura de tela de uma galeria de prompts de IA com vários exemplos de imag
 A dark-themed AI prompt gallery interface with a grid of image examples, including portraits, cityscapes, and futuristic designs, featuring Chinese text and a modern UI layout
 ```
 
-### No. 267: Grão de Café se Transforma Magicamente em uma Cafeteria
+### No. 267: Kahve Çekirdeği Büyüyle Bir Kafeye Dönüşüyor
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Mr Das
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Mr Das
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um vídeo cinematográfico onde um único grão de café brilhante gira e se transforma magicamente em uma cafeteria totalmente mobiliada.
+Tek bir ışıldayan kahve çekirdeğinin dönerek büyülü bir şekilde tam donanımlı bir kafeye dönüştüğü sinematik bir video.
 
 #### Prompt
 
@@ -5502,19 +5502,19 @@ Um vídeo cinematográfico onde um único grão de café brilhante gira e se tra
 A cinematic 10-second magical transformation video starting with a single glowing roasted coffee bean suspended in a dark empty space under a dramatic spotlight. The bean smoothly rotates, and as it turns, it begins to emit a warm amber light. From this light, a fully furnished, cozy café materializes around it in a seamless, magical transformation. The final shot is a wide-angle view of the completed café with soft lighting and steam rising from coffee cups, all within the 10-second duration.
 ```
 
-### No. 268: Criação de Imagem de Referência Facial de Alta Precisão
+### No. 268: Yüksek Hassasiyetli Yüz Referans Görseli Oluşturma
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kashberg
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kashberg
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma imagem usando uma referência facial anexada, com preservação precisa da estrutura e identidade, em um ambiente de estúdio de luxo.
+Ekli bir yüz referansı kullanarak, lüks bir stüdyo ortamında yapısal ve kimlik korumasıyla hassas bir görsel oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -5522,19 +5522,19 @@ Um prompt para gerar uma imagem usando uma referência facial anexada, com prese
 Create image: use the attached image as the main facial reference with high precision while preserving exact facial structure, recognizable identity, facial proportions, skin tone, and natural asymmetry. A dramatic luxury executive studio
 ```
 
-### No. 269: Retrato de Mulher Confiante em Terno Branco
+### No. 269: Beyaz Takım Elbiseli Özgüvenli Kadın Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para retrato de estúdio de uma mulher sorridente em um terno branco, contra um fundo minimalista.
+Minimalist bir fon önünde beyaz takım elbise giymiş gülümseyen bir kadın için bir stüdyo portresi prompt'u.
 
 #### Prompt
 
@@ -5542,19 +5542,19 @@ Um prompt para retrato de estúdio de uma mulher sorridente em um terno branco, 
 A full-length studio portrait of a confident, smiling woman with long, wavy brown hair, posing against a clean, minimalist white background. She is elegantly dressed in a tailored white pantsuit.
 ```
 
-### No. 270: Guerreira de fantasia no penhasco
+### No. 270: Uçurumdaki fantezi savaşçısı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** TRZ. 充足
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TRZ. 充足
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma guerreira de fantasia sombria está em um penhasco enevoado, com vista para uma paisagem tempestuosa.
+Karanlık bir fantezi savaşçısı, fırtınalı bir manzaraya bakan sisli bir uçurumun üzerinde duruyor.
 
 #### Prompt
 
@@ -5562,19 +5562,19 @@ Uma guerreira de fantasia sombria está em um penhasco enevoado, com vista para 
 a dark fantasy warrior standing on a misty cliff, wearing a long black cloak and holding a sword, with a stormy sky and distant mountains in the background
 ```
 
-### No. 271: Vaca no parque de diversões
+### No. 271: Lunaparktaki inek
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** fifikse
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** fifikse
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher alegre tira uma selfie com uma vaca em um parque de diversões caprichoso, repleto de brinquedos e atrações coloridas.
+Neşeli bir kadın, renkli oyuncaklar ve atraksiyonlarla dolu büyülü bir eğlence parkında bir inekle selfie çekiyor.
 
 #### Prompt
 
@@ -5582,19 +5582,19 @@ Uma mulher alegre tira uma selfie com uma vaca em um parque de diversões capric
 a woman in a pink hoodie taking a selfie with a cow at a colorful amusement park, cows riding a roller coaster in the background, vibrant neon lights, cotton candy, fisheye lens effect, hyperrealistic, 8k
 ```
 
-### No. 272: Jovem casual com roupa escura
+### No. 272: Koyu giysili genç adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Zar⭕on
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zar⭕on
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um vídeo de um rapaz de 20 anos sentado casualmente, com rosto e penteado consistentes, vestido com trajes e acessórios escuros específicos.
+Tutarlı yüz ve saç modeline sahip, belirli koyu giyim ve aksesuarlarla giyinmiş, rahatça oturmuş 20 yaşında bir gencin videosunu oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -5602,19 +5602,19 @@ Um prompt para gerar um vídeo de um rapaz de 20 anos sentado casualmente, com r
 Keeping the same face and hairstyle of 20 years old boy with dark, wearing a black buffer shirt, black cargo lose jeans. brown-white sneakers, bracelet, chain, wristwatch, Sunglasses on eyes, sitting casually
 ```
 
-### No. 273: Retrato de Estúdio Detalhado de Mulher Confiante
+### No. 273: Özgüvenli Kadının Detaylı Stüdyo Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** J⭕DIE
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** J⭕DIE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato de corpo inteiro, altamente detalhado, feito em estúdio, de uma jovem mulher confiante.
+Özgüvenli genç bir kadının son derece detaylı, tam boy stüdyo portresini oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -5622,19 +5622,19 @@ Um prompt para gerar um retrato de corpo inteiro, altamente detalhado, feito em 
 A highly detailed full-body studio portrait of a confident young woman
 ```
 
-### No. 274: Retrato Foto-realista de uma Mulher Ruiva
+### No. 274: Kızıl Saçlı Bir Kadının Fotoğraf Gerçekçiliğinde Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sadie 🥀
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sadie 🥀
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt detalhado para gerar um retrato foto-realista de uma jovem mulher com cabelo ruivo, sardas e olhos azuis.
+Kızıl saçlı, çilli ve mavi gözlü genç bir kadının fotoğraf gerçekçiliğinde portresini oluşturmak için detaylı bir prompt.
 
 #### Prompt
 
@@ -5642,19 +5642,19 @@ Um prompt detalhado para gerar um retrato foto-realista de uma jovem mulher com 
 A highly detailed photorealistic portrait of a beautiful young woman with vibrant red hair, fair skin covered in freckles, striking blue eyes, and a warm
 ```
 
-### No. 275: Beleza sardenta com olhos dourados
+### No. 275: Çilli güzellik altın gözlerle
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kaan
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kaan
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher com sardas e sombra de olhos dourada e cintilante olha para baixo em um retrato suavemente iluminado.
+Hafif aydınlatılmış bir portrede çilleri ve parıldayan altın renkli göz farı olan bir kadın aşağıya doğru bakıyor.
 
 #### Prompt
 
@@ -5662,19 +5662,19 @@ Uma mulher com sardas e sombra de olhos dourada e cintilante olha para baixo em 
 a close-up portrait of a young woman with freckles and golden eyeshadow, soft lighting, dark background, elegant makeup, realistic skin texture, gold necklace, wavy hair
 ```
 
-### No. 276: Mulher ruiva com máscara de raposa
+### No. 276: Tilki Maskeli Kızıl Saçlı Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Lex
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Lex
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher com cabelo vermelho vibrante e um quimono verde segura uma máscara branca de raposa em um cenário tradicional japonês.
+Canlı kızıl saçlı ve yeşil kimono giymiş bir kadın, geleneksel bir Japon ortamında beyaz bir tilki maskesi tutuyor.
 
 #### Prompt
 
@@ -5682,19 +5682,19 @@ Uma mulher com cabelo vermelho vibrante e um quimono verde segura uma máscara b
 a woman with long red hair wearing a green kimono, holding a white fox mask, standing in a traditional Japanese setting, photorealistic, detailed, cinematic lighting
 ```
 
-### No. 277: Banimento de Memória na Reinicialização do Sistema
+### No. 277: Sistem Yeniden Başlatma Hafıza Yasağı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** NftGeneration2
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** NftGeneration2
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cena futurista e sombria com feixes de luz brilhantes e uma arma, exibindo o texto 'SYSTEM REBOOT MEMORY BAN' em verde-azulado.
+Turkuaz renkte 'SİSTEM YENİDEN BAŞLATMA HAFIZA YASAĞI' metnini gösteren, parıldayan ışık huzmeleri ve bir silahın olduğu karanlık, fütüristik bir sahne.
 
 #### Prompt
 
@@ -5702,19 +5702,19 @@ Uma cena futurista e sombria com feixes de luz brilhantes e uma arma, exibindo o
 dark sci-fi scene with glowing blue and orange light beams, futuristic weapon in foreground, text overlay 'SYSTEM REBOOT MEMORY BAN', cinematic lighting, high contrast, cyberpunk aesthetic
 ```
 
-### No. 278: Distrito do Mercado Flutuante
+### No. 278: Yüzen Pazar Bölgesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** sayobonita
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** sayobonita
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cidade insular flutuante e caprichosa com estruturas brilhantes e cúpulas em forma de flor em um céu onírico.
+Rüya gibi bir gökyüzünde parıldayan yapılar ve çiçek şeklinde kubbelerle bezenmiş, tuhaf bir yüzen ada şehri.
 
 #### Prompt
 
@@ -5722,19 +5722,19 @@ Uma cidade insular flutuante e caprichosa com estruturas brilhantes e cúpulas e
 a floating island city with bioluminescent architecture, giant flower domes, and glowing pathways, viewed from above, fantasy art style, intricate details, soft lighting, magical atmosphere
 ```
 
-### No. 279: Retrato de Estúdio Foto-realista de uma Mulher
+### No. 279: Bir Kadının Foto-Gerçekçi Stüdyo Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** KeorUnreal
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato de estúdio foto-realista de uma jovem com cabelo castanho claro, longo e ondulado, e pele clara.
+Uzun, dalgalı açık kahverengi saçları ve açık tenli genç bir kadının foto-gerçekçi stüdyo portresini oluşturmak için bir komut.
 
 #### Prompt
 
@@ -5743,19 +5743,19 @@ Um prompt para gerar um retrato de estúdio foto-realista de uma jovem com cabel
   "image_description": "A highly detailed, photorealistic studio portrait of a stunning young woman with long, wavy light brown hair, fair skin with subtle"
 ```
 
-### No. 280: Criando um vídeo com IA
+### No. 280: Bir Yapay Zeka Videosu Oluşturmak
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Lunari
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Lunari
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um close-up do braço de uma pessoa se movendo na frente de uma mesa de computador com monitores exibindo texto.
+Metinler görüntüleyen monitörlerin bulunduğu bir bilgisayar masasının önünde hareket eden bir kişinin kolunun yakın çekimi.
 
 #### Prompt
 
@@ -5763,19 +5763,19 @@ Um close-up do braço de uma pessoa se movendo na frente de uma mesa de computad
 a person's arm in motion, blurred, with a computer setup in the background, text overlay 'Creating an'
 ```
 
-### No. 281: Homem Musculoso com Cabelo para Trás
+### No. 281: Sırtına Yatırılmış Saçlı Kaslı Adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Picts by AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um vídeo de um homem musculoso, centralizado, com cabelo escuro penteado para trás e um fio solto.
+Koyu renk, sırtına yatırılmış saçları ve bir tutam kıvrımı olan, kadrajda ortalanmış kaslı bir adamın videosunu oluşturmak için bir komut.
 
 #### Prompt
 
@@ -5783,19 +5783,19 @@ Um prompt para gerar um vídeo de um homem musculoso, centralizado, com cabelo e
 An extremely muscular man stands confidently centered, facing the camera straight on, featuring dark, glossy, slicked-back hair with a single stray curl resting naturally on his right forehead, alongside a short
 ```
 
-### No. 282: Mulher de Vestido Vermelho
+### No. 282: Kırmızı Elbiseli Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher com um vestido vermelho cintilante senta-se elegantemente em um carro à noite.
+Parıltılı kırmızı bir elbise giyen bir kadın, geceleyin bir arabanın içinde zarifçe oturuyor.
 
 #### Prompt
 
@@ -5803,19 +5803,19 @@ Uma mulher com um vestido vermelho cintilante senta-se elegantemente em um carro
 a woman in a red strapless ball gown sitting in the back of a car at dusk, glowing with sparkles, soft lighting, cinematic style
 ```
 
-### No. 283: Renderização Foto-realista do Troféu da FIFA 2026
+### No. 283: FIFA 2026 Kupası Foto-Gerçekçi Render
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Shams
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Shams
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma renderização foto-realista do troféu da Copa do Mundo FIFA 2026.
+FIFA 2026 Dünya Kupası kupa modelinin foto-gerçekçi bir ürün render'ını oluşturmak için bir komut.
 
 #### Prompt
 
@@ -5823,19 +5823,19 @@ Um prompt para gerar uma renderização foto-realista do troféu da Copa do Mund
 A highly detailed, photorealistic product render of the FIFA 2026 World Cup trophy
 ```
 
-### No. 284: Retrato de Moda Cinematográfico nas Escadas do Metrô
+### No. 284: Metro Merdivenlerinde Sinematik Moda Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Anissa
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anissa
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato de moda cinematográfico de uma mulher elegante sentada em uma escadaria subterrânea de metrô.
+Yer altı metro merdivenlerinde oturan zarif bir kadının sinematik bir moda portresi.
 
 #### Prompt
 
@@ -5843,19 +5843,19 @@ Um retrato de moda cinematográfico de uma mulher elegante sentada em uma escada
 Ultra-cinematic full-body fashion portrait of a young elegant woman sitting gracefully on the upper section of an underground subway staircase. Her body leans naturally against the stairs, with both arms extended and resting elegantly on the
 ```
 
-### No. 285: Retrato de Estúdio Clássico em Preto e Branco de um Homem
+### No. 285: Klasik Siyah Beyaz Erkek Stüdyo Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato profissional em preto e branco de um homem com traços marcantes e roupas simples.
+Keskin hatlara ve sade giyime sahip bir erkeğin profesyonel siyah beyaz portresini oluşturmak için bir komut.
 
 #### Prompt
 
@@ -5863,19 +5863,19 @@ Um prompt para gerar um retrato profissional em preto e branco de um homem com t
 A professional black and white studio portrait of a handsome man with sharp, masculine features, short dark curly hair, and light stubble. He is wearing a simple black t-shirt and dark pants.
 ```
 
-### No. 286: Memes de geração por IA
+### No. 286: Yapay Zeka Üretimi Mizah
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Jack Roberts
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jack Roberts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma colagem humorística comparando a geração de imagens por IA com objetos e pessoas do mundo real.
+Yapay zeka görüntü oluşturmayı gerçek dünyadaki nesneler ve insanlarla karşılaştıran komik bir kolaj.
 
 #### Prompt
 
@@ -5883,19 +5883,19 @@ Uma colagem humorística comparando a geração de imagens por IA com objetos e 
 a collage of three images: a toy car on a messy desk, a colorful abstract sculpture at night, and a man in a hoodie speaking into a microphone with text 'so Google', all in a meme format
 ```
 
-### No. 287: Dê uma Pausa
+### No. 287: Mola Ver
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** TechieSA
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TechieSA
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um anúncio criativo mostrando um homem dormindo enquanto segura uma barra de KitKat que parece estar se partindo ao meio.
+Yarıya bölünüyormuş gibi görünen bir KitKat çikolatasını tutarken uyuyan bir adamı gösteren yaratıcı bir reklam.
 
 #### Prompt
 
@@ -5903,19 +5903,19 @@ Um anúncio criativo mostrando um homem dormindo enquanto segura uma barra de Ki
 A cartoon man sleeping while holding a KitKat bar, with the bar breaking in half and the man's hands drawn as if he's breaking it, white background, minimalist style
 ```
 
-### No. 288: Creme e Serenidade
+### No. 288: Krem ve Dinginlik
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Amira Zairi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Amira Zairi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher relaxa ao lado de um pote de creme para a pele em um ambiente sereno e minimalista.
+Bir kadın, minimalist ve huzurlu bir ortamda, bir cilt bakım kremi kavanozunun yanında dinleniyor.
 
 #### Prompt
 
@@ -5923,19 +5923,19 @@ Uma mulher relaxa ao lado de um pote de creme para a pele em um ambiente sereno 
 A woman in a light green silk outfit lying on a white surface next to a large jar of Protini Polypeptide Cream, soft lighting, clean minimalist background, product photography style
 ```
 
-### No. 289: Lista de cursos gratuitos de IA
+### No. 289: Ücretsiz Yapay Zeka Kursları Listesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Siddhant Garg
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Siddhant Garg
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma lista numerada de 17 cursos gratuitos de IA com links clicáveis, exibida em um formato de tabela limpo e organizado.
+Temiz ve düzenli bir tablo formatında, tıklanabilir bağlantılarla sunulan 17 maddelik ücretsiz yapay zeka kursları listesi.
 
 #### Prompt
 
@@ -5943,19 +5943,19 @@ Uma lista numerada de 17 cursos gratuitos de IA com links clicáveis, exibida em
 A clean, minimalist list of 17 free AI courses with titles and short descriptions, each followed by a blue hyperlink URL. The text is black on a white background, formatted in a table with numbered rows and thin gray lines separating entries. The title 'Free AI courses' is at the top in bold, large font. The overall style is professional and educational, resembling a digital resource guide or tutorial slide.
 ```
 
-### No. 290: Exposição de Pintura de Luz ao Crepúsculo
+### No. 290: Alacakaranlık Işık Boyama Sergisi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Олександр Цюцьмаць
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Олександр Цюцьмаць
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um tríptico de monitores mostra uma escultura de pintura de luz contra o horizonte de uma cidade ao anoitecer.
+Üçlü bir monitör dizisi, alacakaranlıkta bir şehir silüeti önünde yer alan bir ışık boyama heykelini gösteriyor.
 
 #### Prompt
 
@@ -5963,19 +5963,19 @@ Um tríptico de monitores mostra uma escultura de pintura de luz contra o horizo
 three identical computer monitors displaying a long-exposure photo of a light painting sculpture on a rooftop at dusk, with a cityscape and mountains in the background, cinematic lighting, ultra-realistic, 8K
 ```
 
-### No. 291: Retrato de Estilo de Vida Coreano Onírico (Selfie de Cima)
+### No. 291: Büyülü Kore Yaşam Tarzı Portresi Üstten Selfie
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** simply
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** simply
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para editar uma foto em um retrato onírico de estilo de vida coreano de uma jovem mulher, na perspectiva de uma selfie tirada de cima.
+Bir fotoğrafı, genç bir kadının üstten selfie perspektifinden büyülü bir Kore yaşam tarzı portresine dönüştürmek için bir düzenleme prompt'u.
 
 #### Prompt
 
@@ -5983,19 +5983,19 @@ Um prompt para editar uma foto em um retrato onírico de estilo de vida coreano 
 Edit this photo and don't change the face, portrait 9:16. A dreamy Korean lifestyle portrait of a young woman lying on white bedsheets, captured from an overhead selfie perspective. She wears an oversized off-shoulder dark brown mohair knit sweater
 ```
 
-### No. 292: Mulher à Beira da Piscina
+### No. 292: Havuz Başındaki Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Giulia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de maiô amarelo posa à beira da piscina sob a luz do sol forte.
+Sarı bir mayo giyen bir kadın, parlak güneş ışığı altında havuz kenarında poz veriyor.
 
 #### Prompt
 
@@ -6003,19 +6003,19 @@ Uma mulher de maiô amarelo posa à beira da piscina sob a luz do sol forte.
 a woman in a yellow one-piece swimsuit with a front tie, lying by a pool, sunlight casting shadows, high detail, realistic lighting
 ```
 
-### No. 293: Mulher de Camisa Cinza
+### No. 293: Gri Tişörtlü Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** VogueGen
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** VogueGen
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de camisa cinza a puxa para baixo para revelar os seios enquanto toca o queixo.
+Gri bir tişört giyen bir kadın, çenesine dokunurken tişörtünü aşağı çekerek göğüslerini açığa çıkarıyor.
 
 #### Prompt
 
@@ -6023,19 +6023,19 @@ Uma mulher de camisa cinza a puxa para baixo para revelar os seios enquanto toca
 close-up of a woman in a gray shirt, pulling it down to reveal her breasts, with one hand on her chin and the other on her chest, soft lighting, realistic skin texture, pink background
 ```
 
-### No. 294: Homem com Logos de Tecnologia
+### No. 294: Teknoloji Logoları Önündeki Adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Aziz Nizom
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aziz Nizom
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem está em frente a um fundo gradiente com três logos distintos, incluindo Higgsfield Nano Banana Pro e duas variações do logo do Google.
+Bir adam, Higgsfield Nano Banana Pro ve iki farklı Google logosu varyasyonu da dahil olmak üzere üç farklı logonun yer aldığı bir degrade arka plan önünde duruyor.
 
 #### Prompt
 
@@ -6043,19 +6043,19 @@ Um homem está em frente a um fundo gradiente com três logos distintos, incluin
 a man with a beard wearing a black t-shirt, standing in front of a gradient background with three logos: Higgsfield Nano Banana Pro, Google, and Google Nano Banana, all clearly visible and well-lit
 ```
 
-### No. 295: Edição de vídeo Google Omni
+### No. 295: Google Omni video düzenlemesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Neurain
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Neurain
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma comparação lado a lado de um vídeo editado por IA mostrando um homem com um leão versus o clipe original.
+Bir aslanla birlikte bir adamı gösteren AI ile düzenlenmiş bir videonun orijinal klipe karşı yan yana karşılaştırması.
 
 #### Prompt
 
@@ -6063,19 +6063,19 @@ Uma comparação lado a lado de um vídeo editado por IA mostrando um homem com 
 A man with blonde hair sits on a green couch next to a lion, in a split-screen comparison showing an edited version with the lion and the original without it, under the text 'AI Video Editing Google Omni'
 ```
 
-### No. 296: Desenvolvimentos em IA 49
+### No. 296: AI Gelişmeleri 49
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Harun SEYHAN
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Harun SEYHAN
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem apresenta os últimos desenvolvimentos em IA em um ambiente aconchegante de home office, com branding de tecnologia proeminente.
+Bir adam, belirgin teknoloji markalarının bulunduğu samimi bir ev ofisi ortamında en son AI gelişmelerini sunuyor.
 
 #### Prompt
 
@@ -6083,19 +6083,19 @@ Um homem apresenta os últimos desenvolvimentos em IA em um ambiente aconchegant
 A man with glasses and a beard speaking in a cozy room with a fireplace, surrounded by AI logos like Claude, Grok, and OpenAI, with text overlays 'YAPAY ZEKA', 'Gelişmeleri-49', and a subscribe button, styled as a YouTube thumbnail.
 ```
 
-### No. 297: Mulher de Vestido de Lantejoulas
+### No. 297: Pul Elbiseli Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Pinodi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pinodi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher posa confiantemente em um vestido preto cintilante de lantejoulas dentro de um elevador metálico e elegante.
+Bir kadın, parıltılı siyah pullu bir elbise içinde, şık, metalik bir asansörde kendinden emin bir şekilde poz veriyor.
 
 #### Prompt
 
@@ -6103,19 +6103,19 @@ Uma mulher posa confiantemente em um vestido preto cintilante de lantejoulas den
 a woman in a black sequined dress standing in an elevator, looking at the camera, with her reflection visible in the mirror, wearing high heels and a matching handbag, modern metallic interior, studio lighting
 ```
 
-### No. 298: Duas Mulheres na Praia Olhando para o Celular
+### No. 298: Plajda Telefona Bakan İki Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** J⭕DIE
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** J⭕DIE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt descrevendo duas jovens mulheres em uma praia ensolarada sorrindo enquanto olham para um telefone celular.
+Güneşli bir plajda, bir cep telefonuna bakarken gülümseyen iki genç kadını tanımlayan bir prompt.
 
 #### Prompt
 
@@ -6123,19 +6123,19 @@ Um prompt descrevendo duas jovens mulheres em uma praia ensolarada sorrindo enqu
 Two young women are sitting closely together on a white blanket spread across a sunny sandy beach, smiling warmly as they both look down at a
 ```
 
-### No. 299: Homem no quarto de hotel
+### No. 299: Otel Odasındaki Adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** The maestro
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** The maestro
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um jovem homem está em um quarto de hotel, olhando diretamente para a câmera com uma expressão calma.
+Genç bir adam, bir otel odasında doğrudan kameraya bakarak sakin bir ifadeyle duruyor.
 
 #### Prompt
 
@@ -6143,19 +6143,19 @@ Um jovem homem está em um quarto de hotel, olhando diretamente para a câmera c
 a young man with brown hair and green eyes, wearing a gray t-shirt with a lapel microphone, standing in a hotel room with a TV and bed in the background, soft natural lighting
 ```
 
-### No. 300: Captura de Tela do Site GlobalGPT
+### No. 300: GlobalGPT Web Sitesi Ekran Görüntüsü
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Nayeem Sheikh
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nayeem Sheikh
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma captura de tela vibrante do site GlobalGPT, mostrando ferramentas de IA e uma oferta promocional.
+AI araçlarını ve bir promosyon teklifini sergileyen GlobalGPT web sitesinin canlı bir ekran görüntüsü.
 
 #### Prompt
 
@@ -6163,19 +6163,19 @@ Uma captura de tela vibrante do site GlobalGPT, mostrando ferramentas de IA e um
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
 ```
 
-### No. 301: Mulher de Vestido Branco
+### No. 301: Beyaz Elbiseli Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** KeorUnreal
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de vestido branco e óculos posa elegantemente em um sofá roxo em uma sala de estar estilosa.
+Beyaz bir elbise ve gözlük giyen bir kadın, şık bir oturma odasında mor bir kanepede zarif bir şekilde poz veriyor.
 
 #### Prompt
 
@@ -6183,19 +6183,19 @@ Uma mulher de vestido branco e óculos posa elegantemente em um sofá roxo em um
 a beautiful woman with blonde hair and glasses, wearing a white satin dress and high heels, sitting on a purple couch in a modern living room, with a painting of an anime character on the wall, cinematic lighting, photorealistic
 ```
 
-### No. 302: Boulevards de Paris em Açúcar de Rocha
+### No. 302: Kaya Şekeri Paris Bulvarları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** マグマグ
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** マグマグ
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt poético para um vídeo dos boulevards parisienses se transformando através das estações, como açúcar dissolvendo.
+Paris bulvarlarının mevsimler boyunca eriyen şeker gibi dönüşümünü gösteren şiirsel bir video prompt'u.
 
 #### Prompt
 
@@ -6203,19 +6203,19 @@ Um prompt poético para um vídeo dos boulevards parisienses se transformando at
 Rock-sugar boulevards dissolving into syrup, the color deepening from winter grey to spring blossom to the amber of fallen leaves — ten seconds, Gemini Omni.
 ```
 
-### No. 303: Bebê Dormindo em Renda
+### No. 303: Dantelde Uyuyan Bebek
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** SabiBoI Joshua✍🏿.
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** SabiBoI Joshua✍🏿.
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um recém-nascido dorme tranquilamente, vestido com uma delicada roupa branca de renda e adornado com uma tiara de pérolas.
+Yeni doğmuş bir bebek, narin beyaz bir dantel kıyafet giymiş ve inci bir saç bandı takmış halde huzur içinde uyuyor.
 
 #### Prompt
 
@@ -6223,19 +6223,19 @@ Um recém-nascido dorme tranquilamente, vestido com uma delicada roupa branca de
 a sleeping newborn baby with dark skin, wearing a white lace dress and a pearl-embellished headband, lying on a soft white textured surface, soft lighting, photorealistic, 8k
 ```
 
-### No. 304: Mural Dividido Messi vs Mahrez no Dia do Jogo
+### No. 304: Messi vs Mahrez Bölünmüş Duvar Resmi Maç Günü
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Hendry Lim
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hendry Lim
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma fotografia cinematográfica hiper-realista de um mural dividido com Messi e Mahrez, em formato quadrado.
+Bir kare en-boy oranında, Messi ve Mahrez'in yer aldığı bölünmüş bir duvar resminin hiper-gerçekçi, sinematik bir fotoğrafı.
 
 #### Prompt
 
@@ -6243,19 +6243,19 @@ Uma fotografia cinematográfica hiper-realista de um mural dividido com Messi e 
 "MATCHDAY: MESSI vs MAHREZ" (Split Mural) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L lens, ISO 320
 ```
 
-### No. 305: Descrição de Jovem Mulher do Leste Asiático
+### No. 305: Genç Doğu Asyalı Kadın Konu Açıklaması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Iqra Saifi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Iqra Saifi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado descrevendo uma jovem mulher do Leste Asiático com uma expressão calma e intensa e uma pose virada.
+Sakin ve yoğun bir ifadeye sahip, dönük bir poz veren genç bir Doğu Asyalı kadını tanımlayan yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -6266,19 +6266,19 @@ Um prompt estruturado descrevendo uma jovem mulher do Leste Asiático com uma ex
       "pose": "Torso turned away from the camera, head"
 ```
 
-### No. 306: Geração de Imagem de Cena de Aniversário Foto-realista
+### No. 306: Fotoğraf Gerçekçiliğinde Doğum Günü Sahnesi Görsel Oluşturma
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução em JSON para gerar uma imagem foto-realista de uma cena espontânea de aniversário com chamas e confetes.
+Alevler ve konfeti ile birlikte doğal bir doğum günü sahnesinin fotoğraf gerçekçiliğinde görselini oluşturmak için bir JSON prompt'u.
 
 #### Prompt
 
@@ -6290,19 +6290,19 @@ Uma instrução em JSON para gerar uma imagem foto-realista de uma cena espontâ
 }
 ```
 
-### No. 307: Selfie de Casal em Moda de Rua Vista de Cima
+### No. 307: Yukarıdan Çift Selfiesi Sokak Modası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma selfie ultra-foto-realista vista de cima de um casal estiloso sob um teto de concreto, com uma estética espontânea de moda de rua.
+Beton bir tavan altında, doğal sokak modası estetiğine sahip, şık bir çiftin ultra fotoğraf gerçekçiliğinde yukarıdan çekilmiş selfiesi.
 
 #### Prompt
 
@@ -6310,19 +6310,19 @@ Uma selfie ultra-foto-realista vista de cima de um casal estiloso sob um teto de
 Ultra-photorealistic top-down couple selfie taken from above, stylish street-fashion aesthetic, cool candid vibe. A fashionable young couple stands close together under a textured concrete ceiling, looking up at the camera in a playful,
 ```
 
-### No. 308: Selfie Romântica de Casal em Evento Noturno
+### No. 308: Romantik Çift Gece Etkinliği Selfiesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para uma foto espontânea ultra-foto-realista e calorosa de um casal em um evento noturno.
+Bir gece etkinliğindeki bir çiftin ultra fotoğraf gerçekçiliğinde, sıcak ve doğal bir fotoğrafı için bir prompt.
 
 #### Prompt
 
@@ -6330,19 +6330,19 @@ Uma instrução para uma foto espontânea ultra-foto-realista e calorosa de um c
 Ultra-photorealistic romantic couple night-event selfie, real photograph, not illustration. Warm candid Instagram editorial aesthetic. Create a single close-up lifestyle photo of a handsome young man and a beautiful young woman together.
 ```
 
-### No. 309: Colagem de selfie de princesa oceânica tropical inspirada em Moana
+### No. 309: Moana'dan ilham alan tropikal okyanus prensesi selfie kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma colagem foto-realista vertical para Instagram Story com seis quadros espontâneos apresentando uma jovem mulher consistente com uma estética de princesa oceânica tropical.
+Tropikal okyanus prensesi estetiğine sahip tutarlı bir genç kadını içeren altı doğal kareyi gösteren, fotoğraf gerçekçiliğinde dikey bir Instagram Story kolajı.
 
 #### Prompt
 
@@ -6350,19 +6350,19 @@ Uma colagem foto-realista vertical para Instagram Story com seis quadros espont�
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Moana-inspired tropical ocean princess night-out aesthetic
 ```
 
-### No. 310: Vistas da Ficha de Personagem: Operativo de Recuperação de Arquivo
+### No. 310: Arşiv Kurtarma Operatifi Karakter Sayfası Görünümleri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Cortex Visual ・ AI Movies
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Cortex Visual ・ AI Movies
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para gerar uma ficha de personagem de corpo inteiro com vistas frontal, lateral e traseira de um operativo de ficção científica em armadura tática.
+Taktik zırh giymiş bir bilim kurgu operatifinin ön, yan ve arka görünümlerini içeren tam vücut karakter sayfası oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -6370,19 +6370,19 @@ Uma instrução para gerar uma ficha de personagem de corpo inteiro com vistas f
 full body character sheet, front view, side view, back view, Archive Recovery Operative, realistic sci fi, white and dark gray tactical armor
 ```
 
-### No. 311: Seis Cachorros Brancos com Contornos Pretos
+### No. 311: Siyah Dış Çizgili Altı Beyaz Köpek
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Heather Green
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Heather Green
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma coleção de seis cachorros brancos com contornos pretos em negrito sobre um fundo branco liso.
+Düz beyaz bir arka plan üzerinde, kalın siyah dış çizgileri olan altı beyaz köpekten oluşan bir koleksiyon.
 
 #### Prompt
 
@@ -6390,19 +6390,19 @@ Uma coleção de seis cachorros brancos com contornos pretos em negrito sobre um
 A collection of six white dogs with bold black outlines are scattered across a plain, bright white background, evenly spaced to create a balanced composition. Each dog is depicted in a different playful
 ```
 
-### No. 312: Personagem de Sailor Moon em Pose Casual
+### No. 312: Gündelik Pozdaki Sailor Moon Karakteri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Noname Oasis
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Noname Oasis
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma jovem mulher realista vestida como Sailor Moon, com cabelo loiro-areia em coques decorados, posando em um banco de concreto sob uma brisa suave.
+Süslenmiş topuzlarda kumral saçlı, Sailor Moon kıyafetleri giymiş, hafif bir esintide beton bir bankta poz veren gerçekçi bir genç kadın.
 
 #### Prompt
 
@@ -6410,19 +6410,19 @@ Uma jovem mulher realista vestida como Sailor Moon, com cabelo loiro-areia em co
 young woman dressed as Sailor Moon, incredibly lifelike thin clinging fabrics, her sandy-blonde hair in Usagi's signature decorated chignons, she is posing casually on a simple concrete bench in a soft breeze
 ```
 
-### No. 313: Retrato Artístico a partir de Foto de Referência
+### No. 313: Fotoğraf Müzesinden Sanatsal Portre
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Aiza
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aiza
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para gerar um retrato artístico removendo fundos, roupas e penteados, preservando as características faciais.
+Arka planları, kıyafetleri ve saç stillerini kaldırırken yüz özelliklerini koruyarak sanatsal bir portre oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -6430,19 +6430,19 @@ Uma instrução para gerar um retrato artístico removendo fundos, roupas e pent
 Using the person in the uploaded photo as our muse, we're removing all backgrounds, clothes, and hairstyles. The goal is to create an artistic piece while keeping all the original facial features and characteristics intact.
 ```
 
-### No. 314: Fuga de Roubo a Museu
+### No. 314: Müze Soygunu Kaçışı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Digital Art Sensei
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Digital Art Sensei
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um ladrão desce por uma corda em um grande salão de museu repleto de artefatos antigos sob um único feixe de luz.
+Bir hırsız, tek bir ışık hüzmesinin altında, antik eserlerle dolu görkemli bir müze salonunda bir ip üzerinden aşağı iniyor.
 
 #### Prompt
 
@@ -6450,19 +6450,19 @@ Um ladrão desce por uma corda em um grande salão de museu repleto de artefatos
 a masked thief in black gear rappelling down from a skylight in a dimly lit museum gallery with ancient statues on pedestals, dramatic lighting from above, cinematic atmosphere
 ```
 
-### No. 315: Guerreira de cabelo rosa em ruínas
+### No. 315: Harabelerdeki pembe saçlı savaşçı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** shawn_maybush
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** shawn_maybush
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma garota de cabelo rosa está desafiadoramente em uma cidade arrasada pela guerra e encharcada pela chuva, encarando um gigante com pernas tatuadas.
+Pembe saçlı bir kız, yağmurla ıslanmış, savaşla harap olmuş bir şehirde, dövmeli bacakları olan devasa bir devle yüzleşmek için meydan okuyarak duruyor.
 
 #### Prompt
 
@@ -6470,19 +6470,19 @@ Uma garota de cabelo rosa está desafiadoramente em uma cidade arrasada pela gue
 a young girl with pink hair in a black school uniform holding a katana with a pink ribbon, standing between the massive legs of a giant figure covered in kanji tattoos, in a rain-soaked, destroyed city street at night, cinematic lighting, hyper-detailed, 8k
 ```
 
-### No. 316: Retrato Foto-realista de Sadie Sink
+### No. 316: Sadie Sink'in Fotoğraf Gerçekçiliğinde Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sadie 🥀
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sadie 🥀
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução detalhada para um retrato foto-realista de Sadie Sink com gotas de água na pele bronzeada, sentada em um sofá branco moderno.
+Bronzlaşmış teninde su damlacıkları olan, modern beyaz bir kanepede oturan Sadie Sink'in fotoğraf gerçekçiliğinde portresi için detaylı bir prompt.
 
 #### Prompt
 
@@ -6490,19 +6490,19 @@ Uma instrução detalhada para um retrato foto-realista de Sadie Sink com gotas 
 A highly detailed, photorealistic portrait of a stunning young woman [Sadie Sink] with flawless tanned skin covered in glistening water droplets, sitting confidently on a white modern couch. She has long, straight
 ```
 
-### No. 317: Instrução de Detalhes para Personagem Feminina
+### No. 317: Kadın Özne Detayları Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Virena
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Virena
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução estruturada detalhando a aparência de uma jovem mulher para geração de vídeo.
+Video oluşturma için genç bir kadının görünümünü detaylandıran yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -6520,19 +6520,19 @@ Uma instrução estruturada detalhando a aparência de uma jovem mulher para ger
 }
 ```
 
-### No. 318: Esboço Minimalista em Cartolina Cinza Escuro
+### No. 318: Koyu Gri Kartonda Minimalist Eskiz
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Shirley Auspice
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Shirley Auspice
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma instrução para criar um esboço minimalista com linhas ousadas e expressivas e energia caligráfica em cartolina cinza escuro.
+Koyu gri kartonda, kalın, ifadeli çizgiler ve kaligrafik bir enerjiyle minimalist bir eskiz oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -6540,19 +6540,19 @@ Uma instrução para criar um esboço minimalista com linhas ousadas e expressiv
 Create a minimalist sketch on dark, cool-toned gray cardstock using a bold, expressive style. The lines are fluid and minimal, freely outlining the form with a wild, calligraphic energy. There is no shading or tonal gradation—only extensive
 ```
 
-### No. 319: Demonstração de Animação Paralaxe
+### No. 319: Paralaks Animasyonu Tanıtımı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kuroyami
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kuroyami
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um computador exibindo uma animação de paralaxe no monitor, com uma mão interagindo com o mouse.
+Bir elin fare ile etkileşimde bulunduğu, monitörde paralaks animasyonu sergileyen bir bilgisayar kurulumu.
 
 #### Prompt
 
@@ -6560,19 +6560,19 @@ Um computador exibindo uma animação de paralaxe no monitor, com uma mão inter
 A modern desk setup with a sleek monitor displaying a serene architectural scene by water, a white keyboard, a hand using a mouse, and text overlay 'Claude Design Nano Banana GPT Image 2 Parallax Animations', soft lighting, realistic style
 ```
 
-### No. 320: Torcedora espanhola de futebol
+### No. 320: İspanyol futbol taraftarı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Giulia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma jovem mulher vestindo as cores da seleção espanhola relaxa em um tapete enquanto assiste a uma partida de futebol na TV.
+İspanya milli takımı renklerinde giyinmiş genç bir kadın, televizyonda bir futbol maçı izlerken bir kilimin üzerinde dinleniyor.
 
 #### Prompt
 
@@ -6580,19 +6580,19 @@ Uma jovem mulher vestindo as cores da seleção espanhola relaxa em um tapete en
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
 ```
 
-### No. 321: Homem na Estrada do Deserto
+### No. 321: Çöl Yolundaki Adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Hassan👑
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hassan👑
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem está em uma estrada rachada do deserto sob um céu de pôr do sol vibrante, segurando seu casaco com uma expressão séria.
+Çatlamış bir çöl yolunda, canlı bir gün batımı gökyüzü altında, ceketini tutan ve ciddi bir ifadeye sahip bir adam.
 
 #### Prompt
 
@@ -6600,19 +6600,19 @@ Um homem está em uma estrada rachada do deserto sob um céu de pôr do sol vibr
 a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
 ```
 
-### No. 322: Cidade em Seus Olhos
+### No. 322: Gözlerindeki Şehir
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** AI Sparks
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AI Sparks
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Os óculos escuros de uma mulher refletem uma paisagem urbana futurista verde brilhante, criando um contraste visual marcante com seus traços suaves e casaco de pele branco.
+Bir kadının güneş gözlükleri, yumuşak özellikleri ve beyaz kürk mantosuyla çarpıcı bir görsel kontrast oluşturan, ışıldayan yeşil bir fütüristik şehir manzarasını yansıtıyor.
 
 #### Prompt
 
@@ -6620,19 +6620,19 @@ Os óculos escuros de uma mulher refletem uma paisagem urbana futurista verde br
 a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
 ```
 
-### No. 323: Retrato Vintage de Messi de Terno
+### No. 323: Takım Elbiseli Messi'nin Vintage Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para criar um pôster de ilustração em estilo vintage de Lionel Messi usando um terno azul escuro afiado e gravata borboleta.
+Lionel Messi'nin keskin koyu mavi bir takım elbise ve papyonla giyindiği vintage tarzı bir illüstrasyon poster oluşturmak için bir istem.
 
 #### Prompt
 
@@ -6640,19 +6640,19 @@ Um prompt para criar um pôster de ilustração em estilo vintage de Lionel Mess
 A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
 ```
 
-### No. 324: Retrato Ultra Fotorrealista de uma Mulher
+### No. 324: Bir Kadının Ultra Fotoğraf Gerçekçi Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Jarvis AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jarvis AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt detalhado para gerar um retrato ultra fotorrealista de uma mulher com características faciais específicas.
+Belirli yüz özelliklerine sahip bir kadının ultra fotoğraf gerçekçi portresini oluşturmak için detaylı bir istem.
 
 #### Prompt
 
@@ -6660,19 +6660,19 @@ Um prompt detalhado para gerar um retrato ultra fotorrealista de uma mulher com 
 Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
 ```
 
-### No. 325: Envolver Vídeo em Realismo ou Realismo Fotográfico
+### No. 325: Videoyu Gerçekçilik veya Fotoğrafik Gerçekçilik ile Sarma
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Martin Nebelong
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Martin Nebelong
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para aprimorar o realismo de vídeo envolvendo-o em qualidades fotográficas ou realistas.
+Bir videonun gerçekçiliğini, onu fotoğrafik veya gerçekçi niteliklerle sarmalayarak geliştirmek için bir istem.
 
 #### Prompt
 
@@ -6680,19 +6680,19 @@ Um prompt para aprimorar o realismo de vídeo envolvendo-o em qualidades fotogr�
 "Wrap the video in realism" or "Wrap the video in the realism of the photograph"
 ```
 
-### No. 326: Retrato de Alta Costura com Bola de Futebol
+### No. 326: Futbol Toplu Yüksek Moda Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kashberg
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kashberg
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato editorial fotorrealista de uma jovem asiática segurando uma bola de futebol Adidas, usando um rosto e penteado específicos.
+Belirli bir yüz ve saç modeli kullanılarak, Adidas futbol topu tutan genç bir Asyalı kadının fotoğraf gerçekçiliğinde editoryal portresi.
 
 #### Prompt
 
@@ -6703,19 +6703,19 @@ pose: looking to camera from her shoulder
 shoot tecnic: 3/4 body
 ```
 
-### No. 327: Mulher no Campo de Tulipas
+### No. 327: Lale tarlasındaki kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher está em um campo vibrante de tulipas cor-de-rosa durante um pôr do sol dourado, seu rosto iluminado pelo brilho quente.
+Altın renkli bir gün batımında, pembe lalelerle dolu canlı bir tarlada duran, yüzü sıcak bir ışıkla aydınlanmış bir kadın.
 
 #### Prompt
 
@@ -6723,19 +6723,19 @@ Uma mulher está em um campo vibrante de tulipas cor-de-rosa durante um pôr do 
 a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
 ```
 
-### No. 328: Ilustração de Boa Sorte
+### No. 328: İyi Şanslar İllüstrasyonu
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** TechieSA
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TechieSA
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um desenho animado humorístico de um homem acidentalmente batendo na própria mão com um martelo, com o texto 'Boa Sorte' e o logotipo da IKEA.
+Bir adamın eline yanlışlıkla çekiçle vurduğu, 'İyi Şanslar' yazısı ve IKEA logosunun bulunduğu komik bir karikatür.
 
 #### Prompt
 
@@ -6743,19 +6743,19 @@ Um desenho animado humorístico de um homem acidentalmente batendo na própria m
 A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
 ```
 
-### No. 329: Prompt de Imagem Nano Banana Pro
+### No. 329: Nano Muz Pro Görsel İstemi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt JSON estruturado para gerar imagens com identidade e aparência específicas do assunto.
+Belirli bir özne kimliği ve görünümü için görsel oluşturmaya yönelik yapılandırılmış bir JSON istemi.
 
 #### Prompt
 
@@ -6770,19 +6770,19 @@ Um prompt JSON estruturado para gerar imagens com identidade e aparência espec�
         "expression": "Soft natural smile with calm dreamy eyes, warm"
 ```
 
-### No. 330: Veículo Federal Futurista
+### No. 330: Fütüristik Federal Araç
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um veículo militar fortemente blindado está parado em uma cidade futurista encharcada pela chuva, com soldados e edifícios imponentes.
+Ağır zırhlı bir askeri araç, askerler ve yükselen binalarla dolu, yağmur altındaki fütüristik bir şehirde duruyor.
 
 #### Prompt
 
@@ -6790,19 +6790,19 @@ Um veículo militar fortemente blindado está parado em uma cidade futurista enc
 futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
 ```
 
-### No. 331: Aquedutos Acima da Névoa
+### No. 331: Sisin Üzerindeki Su Kemeri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cidade de madeira fantástica construída acima de um desfiladeiro fluvial enevoado, com lanternas brilhantes e pontes intrincadas.
+Sisli bir nehir kanyonunun üzerinde, ışıldayan fenerler ve karmaşık köprülerle inşa edilmiş fantastik bir ahşap şehir.
 
 #### Prompt
 
@@ -6810,19 +6810,19 @@ Uma cidade de madeira fantástica construída acima de um desfiladeiro fluvial e
 a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
 ```
 
-### No. 332: Foto Estilo Paparazzi da Namorada Bilionária
+### No. 332: Paparazzi Tarzı Milyarder Kız Arkadaş Fotoğrafı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝗦𝗮𝗻𝗶𝗮
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 𝗦𝗮𝗻𝗶𝗮
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma fotografia editorial hiper-realista no estilo paparazzi de uma namorada bilionária saindo de um hotel de luxo.
+Bir lüks otelden çıkan milyarder kız arkadaşın hiper-gerçekçi, paparazzi tarzı editoryal fotoğrafı.
 
 #### Prompt
 
@@ -6830,19 +6830,19 @@ Uma fotografia editorial hiper-realista no estilo paparazzi de uma namorada bili
 A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
 ```
 
-### No. 333: Relaxamento em resort de praia
+### No. 333: Plaj tatil köyünde dinlenme
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sophia | AI Artist ✨
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de biquíni floral relaxa em uma espreguiçadeira em um resort tropical com coqueiros e bangalôs de telhado de palha ao fundo.
+Çiçekli bir bikini giyen bir kadın, arka planda palmiye ağaçları ve sazdan çatılı bungalovlar bulunan tropikal bir tatil köyünde şezlongda uzanıyor.
 
 #### Prompt
 
@@ -6850,19 +6850,19 @@ Uma mulher de biquíni floral relaxa em uma espreguiçadeira em um resort tropic
 a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
 ```
 
-### No. 334: Santuário Fúngico Luminoso
+### No. 334: Işıldayan Mantar Sığınağı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artingent
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Artingent
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um mundo biopunk artístico em miniatura onde alquimistas cultivam fungos luminescentes e preparam remédios botânicos em um reino flutuante circular, artesanal e atmosférico.
+Simyacıların ışıldayan mantarlar yetiştirdiği ve botanik ilaçlar hazırladığı, el yapımı, atmosferik, dairesel bir yüzen alemdeki minyatür sanatsal biyopunk dünyası.
 
 #### Prompt
 
@@ -6870,19 +6870,19 @@ Um mundo biopunk artístico em miniatura onde alquimistas cultivam fungos lumine
 a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
 ```
 
-### No. 335: Descrição para Retrato Botânico Melancólico
+### No. 335: Botanik Melankoli Portre Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** timedoctor.eth
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para um retrato hiper-realista apresentando um protagonista em uma calma consequência contra uma parede densa.
+Yoğun bir duvara karşı, sakin bir sonrasında bir kahramanı betimleyen hiper-gerçekçi bir portre prompt'u.
 
 #### Prompt
 
@@ -6890,19 +6890,19 @@ Uma descrição para um retrato hiper-realista apresentando um protagonista em u
 A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
 ```
 
-### No. 336: Close-Up de Réptil Azul
+### No. 336: Mavi Sürüngen Yakın Çekim
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Flyover Base
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Flyover Base
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um close-up de uma criatura reptiliana azul com olhos amarelos marcantes em um cenário fantástico.
+Fantastik bir ortamda, çarpıcı sarı gözlere sahip mavi bir sürüngen yaratığın yakın çekimi.
 
 #### Prompt
 
@@ -6910,19 +6910,19 @@ Um close-up de uma criatura reptiliana azul com olhos amarelos marcantes em um c
 close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
 ```
 
-### No. 337: Retrato Cinematográfico em Escadas Urbanas
+### No. 337: Kentsel Merdivenlerde Sinematik Portre
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Heisenberg
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Heisenberg
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato cinematográfico ultra-realista de um jovem de óculos sentado em escadas de concreto à noite, com roupa totalmente preta.
+Gece vakti, beton merdivenlerde oturan, gözlüklü, tamamen siyah kıyafetli genç bir adamın ultra-gerçekçi sinematik portresi.
 
 #### Prompt
 
@@ -6930,19 +6930,19 @@ Um retrato cinematográfico ultra-realista de um jovem de óculos sentado em esc
 Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
 ```
 
-### No. 338: Retrato de Estúdio de Criança com Camisa de Futebol
+### No. 338: Futbol Forması Giyen Çocuk Stüdyo Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Aijaz
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aijaz
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para gerar um retrato profissional de estúdio de uma criança pequena vestindo uma camisa de futebol internacional.
+Uluslararası bir futbol forması giyen küçük bir çocuğun profesyonel bir stüdyo portresini oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -6950,19 +6950,19 @@ Uma descrição para gerar um retrato profissional de estúdio de uma criança p
 Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
 ```
 
-### No. 339: Aquedutos Acima da Névoa
+### No. 339: Sisin Üzerindeki Su Kemeri
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** sayobonita
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** sayobonita
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cidade flutuante fantástica com aquedutos e pontes de madeira sobre águas nebulosas ao anoitecer.
+Alacakaranlıkta, sisli suların üzerinde ahşap su kemerleri ve köprülerle donatılmış fantastik bir yüzen şehir.
 
 #### Prompt
 
@@ -6970,19 +6970,19 @@ Uma cidade flutuante fantástica com aquedutos e pontes de madeira sobre águas 
 a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
 ```
 
-### No. 340: Foto Realista de Miniatura de Si Mesmo
+### No. 340: Mini Oyuncak Kendi Gerçekçi Fotoğrafı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ATHARI_ALF
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ATHARI_ALF
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para criar uma foto realista de uma pessoa segurando uma miniatura de si mesma.
+Bir kişinin, kendisinin minyatür bir oyuncak versiyonunu tuttuğu gerçekçi bir fotoğraf oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -6990,19 +6990,19 @@ Uma descrição para criar uma foto realista de uma pessoa segurando uma miniatu
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
 ```
 
-### No. 341: Foto Realista de Miniatura de Si Mesmo
+### No. 341: Mini Oyuncak Kendi Gerçekçi Fotoğrafı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ATHARI_ALF
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ATHARI_ALF
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para criar uma foto realista de uma pessoa segurando uma miniatura no estilo Pixar de si mesma.
+Bir kişinin, kendisinin küçük bir Pixar tarzı oyuncak versiyonunu tuttuğu gerçekçi bir fotoğraf oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -7010,19 +7010,19 @@ Uma descrição para criar uma foto realista de uma pessoa segurando uma miniatu
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
 ```
 
-### No. 342: Composição esportiva cinematográfica hiper-realista de Messi
+### No. 342: Hiper-gerçekçi Messi sinematik spor kompoziti
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Hendry Lim
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hendry Lim
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma composição fotográfica esportiva cinematográfica hiper-realista apresentando Messi em um retrato heroico e um trio em ação, capturada com uma Canon.
+Canon ile çekilmiş, Messi'nin kahraman portresi ve aksiyon üçlüsü içeren hiper-gerçekçi, sinematik bir spor fotoğraf kompoziti.
 
 #### Prompt
 
@@ -7032,19 +7032,19 @@ Aspect ratio: 3:4 (vertical)
 A hyper-realistic cinematic sports photograph composite, shot on Canon
 ```
 
-### No. 343: Selfie no Espelho em Sala com Painéis de Madeira
+### No. 343: Ahşap Kaplamalı Odada Ayna Selfiesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sadie 🥀
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sadie 🥀
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para gerar um vídeo de uma jovem com cabelo castanho escuro tirando uma selfie confiante em um ambiente elegante.
+Zarif bir ortamda, koyu kahverengi saçlı genç bir kadının kendinden emin bir selfie çektiği bir video oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -7052,19 +7052,19 @@ Uma descrição para gerar um vídeo de uma jovem com cabelo castanho escuro tir
 A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
 ```
 
-### No. 344: Homem Apoiado em Parede de Pedra Granito
+### No. 344: Granit Taş Duvarına Yaslanan Adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Picts by AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para gerar um vídeo de um homem bonito e em forma apoiado confiantemente contra uma parede de pedra granito desgastada.
+Yıpranmış bir granit taş duvarına kendinden emin bir şekilde yaslanan, yakışıklı ve fit bir adamın videosunu oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -7072,19 +7072,19 @@ Uma descrição para gerar um vídeo de um homem bonito e em forma apoiado confi
 A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
 ```
 
-### No. 345: Ferramentas de IA do Google 2026
+### No. 345: Google Yapay Zeka Araçları 2026
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Omor Faruk
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Omor Faruk
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma lista ilustrada de 22 ferramentas de IA do Google com um mascote robótico futurista e elementos digitais.
+Fütüristik bir robot maskotu ve dijital unsurlarla birlikte, 22 Google Yapay Zeka aracının resimli bir listesi.
 
 #### Prompt
 
@@ -7092,19 +7092,19 @@ Uma lista ilustrada de 22 ferramentas de IA do Google com um mascote robótico f
 A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
 ```
 
-### No. 346: Cena de Estúdio de Moda de Alto Padrão
+### No. 346: Yüksek Kaliteli Moda Stüdyosu Sahnesi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma descrição para uma cena de estúdio de moda minimalista com um fundo branco limpo.
+Temiz beyaz bir fonla minimalist bir moda stüdyosu sahnesi için bir prompt.
 
 #### Prompt
 
@@ -7117,19 +7117,19 @@ Uma descrição para uma cena de estúdio de moda minimalista com um fundo branc
 }
 ```
 
-### No. 347: Avião acima das nuvens
+### No. 347: Bulutların Üzerinde Uçak
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** İbrahim Feyzullayev
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** İbrahim Feyzullayev
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um avião comercial voa acima de um mar de nuvens durante um pôr do sol dourado.
+Altın renkli bir gün batımında, bir yolcu uçağı bulutların oluşturduğu bir denizin üzerinde uçuyor.
 
 #### Prompt
 
@@ -7137,19 +7137,19 @@ Um avião comercial voa acima de um mar de nuvens durante um pôr do sol dourado
 a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
 ```
 
-### No. 348: Demonstração de Vídeo do Gemini Omni
+### No. 348: Gemini Omni Video Tanıtımı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Signal Lab
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Signal Lab
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma interface digital futurista que mostra o modelo de IA Gemini Omni, da Google, convertendo entradas em conteúdo de vídeo.
+Google'ın Gemini Omni AI modelinin girdileri video içeriğine dönüştürdüğünü gösteren fütüristik bir dijital arayüz.
 
 #### Prompt
 
@@ -7157,19 +7157,19 @@ Uma interface digital futurista que mostra o modelo de IA Gemini Omni, da Google
 dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
 ```
 
-### No. 349: Foto de Brinquedo Miniatura no Estilo Pixar
+### No. 349: Minik Oyuncak Kendi Pixar Tarzı Fotoğraf
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝓨𝓞𝓤𝓢𝓔𝓕
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma foto realista de uma pessoa segurando uma miniatura no estilo Pixar de si mesma.
+Bir kişinin, kendisinin minik Pixar tarzı oyuncak versiyonunu tuttuğu gerçekçi bir fotoğraf.
 
 #### Prompt
 
@@ -7177,19 +7177,19 @@ Uma foto realista de uma pessoa segurando uma miniatura no estilo Pixar de si me
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
 ```
 
-### No. 350: colagem de mulher com microfone
+### No. 350: mikrofonlu kadın kolajı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Victoria Chimnaza Sunday.
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Victoria Chimnaza Sunday.
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-uma mulher segurando um microfone rosa aparece em múltiplos quadros sobrepostos em uma sala moderna com estantes de livros.
+Pembe bir mikrofon tutan bir kadın, kitaplıklı modern bir odada birden fazla üst üste binen karede görünüyor.
 
 #### Prompt
 
@@ -7197,19 +7197,19 @@ uma mulher segurando um microfone rosa aparece em múltiplos quadros sobrepostos
 a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
 ```
 
-### No. 351: Pôster da Partida Brasil vs Alemanha da Copa do Mundo
+### No. 351: Dünya Kupası Brezilya vs Almanya Maç Afişi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Jahan Zaib
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jahan Zaib
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt cinematográfico detalhado para um pôster esportivo vertical que retrata um lendário confronto entre Brasil e Alemanha na Copa do Mundo.
+Efsanevi bir Brezilya vs Almanya Dünya Kupası maçını betimleyen dikey bir spor afişi için detaylı, sinematik bir istek.
 
 #### Prompt
 
@@ -7217,19 +7217,19 @@ Um prompt cinematográfico detalhado para um pôster esportivo vertical que retr
 Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
 ```
 
-### No. 352: Loira de Top Gráfico
+### No. 352: Grafikli Üstlü Sarışın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de top colorido e jeans posa contra uma parede neutra.
+Renkli bir crop top ve kot pantolon giyen bir kadın, nötr bir duvara karşı poz veriyor.
 
 #### Prompt
 
@@ -7237,19 +7237,19 @@ Uma mulher de top colorido e jeans posa contra uma parede neutra.
 a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
 ```
 
-### No. 353: Retrato Metade Rosto, Metade Bola de Futebol
+### No. 353: Yarı Yüz Yarı Futbol Topu Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Shams
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Shams
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato fotorrealista que funde o rosto de um jogador com metade de uma bola de futebol.
+Bir oyuncunun yüzünü yarım bir futbol topuyla birleştiren foto-gerçekçi bir portre.
 
 #### Prompt
 
@@ -7257,19 +7257,19 @@ Um retrato fotorrealista que funde o rosto de um jogador com metade de uma bola 
 Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
 ```
 
-### No. 354: Prompt de Cena de Moda em Estúdio Minimalista
+### No. 354: Minimal Stüdyo Moda Sahnesi İsteği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado para gerar um vídeo de moda editorial limpo, em um ambiente de estúdio interno minimalista.
+Minimal bir kapalı stüdyo ortamında temiz, editoryal bir moda videosu oluşturmak için yapılandırılmış bir istek.
 
 #### Prompt
 
@@ -7283,19 +7283,19 @@ Um prompt estruturado para gerar um vídeo de moda editorial limpo, em um ambien
 }
 ```
 
-### No. 355: Cartas do Golem de Cristal
+### No. 355: Kristal Golem Kartları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Nick
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nick
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Duas cartas digitais no estilo Pokémon que mostram a evolução de uma criatura golem de cristal, com estatísticas e habilidades detalhadas.
+Detaylı istatistik ve yeteneklerle bir kristal golem yaratığının evrimini gösteren iki dijital Pokémon tarzı kart.
 
 #### Prompt
 
@@ -7303,19 +7303,19 @@ Duas cartas digitais no estilo Pokémon que mostram a evolução de uma criatura
 Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
 ```
 
-### No. 356: Prompt de Pôster Vintage Flower Power
+### No. 356: Vintage Çiçek Gücü Afiş İsteği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minuit
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minuit
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para criar um pôster psicodélico hippie dos anos 1960-1970 com o slogan FAÇA AMOR, NÃO FAÇA GUERRA.
+Savaşma Seviş sloganlı, psychedelic 1960'lar-1970'ler hippi afişi oluşturmak için bir istek.
 
 #### Prompt
 
@@ -7323,19 +7323,19 @@ Um prompt para criar um pôster psicodélico hippie dos anos 1960-1970 com o slo
 Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
 ```
 
-### No. 357: Retrato em Fantasia de Enfermeira
+### No. 357: hemşire kostümlü portre
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** glena Jenner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** glena Jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher vestida como enfermeira posa enquanto calça luvas azuis.
+Hemşire kostümü giyen bir kadın, mavi eldivenleri giyerken poz veriyor.
 
 #### Prompt
 
@@ -7343,19 +7343,19 @@ Uma mulher vestida como enfermeira posa enquanto calça luvas azuis.
 a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
 ```
 
-### No. 358: Mulher de Camisa Laranja
+### No. 358: turuncu formadaki kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Giulia
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de camisa da seleção holandesa de futebol posa de forma descontraída contra um fundo vermelho, fazendo uma moldura com as mãos.
+Hollanda futbol forması giyen bir kadın, kırmızı bir fonda oyunculukla poz veriyor ve elleriyle çerçeveleme hareketi yapıyor.
 
 #### Prompt
 
@@ -7363,19 +7363,19 @@ Uma mulher de camisa da seleção holandesa de futebol posa de forma descontraí
 a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
 ```
 
-### No. 359: Robô Artista Pintando
+### No. 359: Robot Ressam Tablo Yapıyor
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** NewsTongue
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** NewsTongue
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um robô artista pinta uma versão moderna de Noite Estrelada com 'REVE 2.0' na tela, em um estúdio vintage.
+Bir robot ressam, vintage bir stüdyoda, tuval üzerinde 'REVE 2.0' yazan modern bir Yıldızlı Gece versiyonu çiziyor.
 
 #### Prompt
 
@@ -7383,19 +7383,19 @@ Um robô artista pinta uma versão moderna de Noite Estrelada com 'REVE 2.0' na 
 a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
 ```
 
-### No. 360: Prompt de Retrato Cinematográfico de Lutador Marcado pela Batalha
+### No. 360: Savaş Yorgunu Dövüşçü Sinematik Portre İsteği
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Ahmad Faraz
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ahmad Faraz
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato hiper-realista em close-up de um lutador masculino exausto e sem camisa.
+Yorgun, üstsüz bir erkek dövüşçünün hiper-gerçekçi yakın plan portresini oluşturmak için bir istek.
 
 #### Prompt
 
@@ -7403,19 +7403,19 @@ Um prompt para gerar um retrato hiper-realista em close-up de um lutador masculi
 A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
 ```
 
-### No. 361: Mulher em um Iate
+### No. 361: Yatta Kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sophia | AI Artist ✨
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher de maiô azul está em um iate, olhando por cima do ombro com o oceano ao fundo.
+Mavi mayolu bir kadın, arkasında okyanusla bir yatta duruyor ve omzunun üzerinden bakıyor.
 
 #### Prompt
 
@@ -7423,19 +7423,19 @@ Uma mulher de maiô azul está em um iate, olhando por cima do ombro com o ocean
 a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
 ```
 
-### No. 362: Deusa de Porcelana
+### No. 362: Porselen Tanrıça
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** timedoctor.eth
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher emerge de uma porcelana quebrada com reparos dourados, simbolizando a beleza na imperfeição.
+Kırık porselenden altın tamirlerle çıkan bir kadın, kırılmışlıktaki güzelliği simgeliyor.
 
 #### Prompt
 
@@ -7443,19 +7443,19 @@ Uma mulher emerge de uma porcelana quebrada com reparos dourados, simbolizando a
 a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
 ```
 
-### No. 363: Reflexo na Barbearia
+### No. 363: Berber Dükkanı Yansıması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Hassan👑
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hassan👑
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem tatuado está sentado na cadeira de barbeiro, seu reflexo visível no espelho enquanto o barbeiro fica atrás dele em um ambiente de barbearia clássico.
+Dövmeli bir adam berber koltuğunda oturuyor, klasik bir berber dükkanı ortamında berber arkasında dururken onun yansıması aynada görünüyor.
 
 #### Prompt
 
@@ -7463,19 +7463,19 @@ Um homem tatuado está sentado na cadeira de barbeiro, seu reflexo visível no e
 a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
 ```
 
-### No. 364: Prompt de Rosto em Formato de Coração de Sydney Sweeney
+### No. 364: Sydney Sweeney Kalp Şeklinde Yüz Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Pinodi
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pinodi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt estruturado para gerar vídeo de Sydney Sweeney com um rosto em formato de coração.
+Sydney Sweeney'nin kalp şeklinde bir yüze sahip olduğu bir video oluşturmak için yapılandırılmış bir prompt.
 
 #### Prompt
 
@@ -7490,19 +7490,19 @@ Um prompt estruturado para gerar vídeo de Sydney Sweeney com um rosto em format
 }
 ```
 
-### No. 365: Prompt de Moda com Esportilho de Veludo Preto
+### No. 365: Siyah Kadife Korsaj Moda Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt de moda detalhado especificando um top esportilho de veludo preto com detalhes em corrente prateada e cabelos longos, escuros e ondulados.
+Gümüş zincir detaylı siyah kadife korsaj üst ve uzun koyu dalgalı saçları belirten detaylı bir moda prompt'u.
 
 #### Prompt
 
@@ -7513,19 +7513,19 @@ Um prompt de moda detalhado especificando um top esportilho de veludo preto com 
 }
 ```
 
-### No. 366: Rosto de Pedra com Relógio Derretendo
+### No. 366: Eriyen Saatli Taş Yüz
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Jason Heaton
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jason Heaton
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma imagem surreal de um rosto de pedra com um relógio derretendo em uma escadaria escura e em espiral.
+Karanlık, sarmal bir merdiven boşluğunda, eriyen bir saat bulunan sürreal bir taş yüz görüntüsü.
 
 #### Prompt
 
@@ -7533,19 +7533,19 @@ Uma imagem surreal de um rosto de pedra com um relógio derretendo em uma escada
 a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
 ```
 
-### No. 367: Retrato de Moda Editorial com Vestido Marfim
+### No. 367: Fildişi Elbiseli Editoryal Moda Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para um retrato de moda editorial com uma modelo confiante usando um vestido de cetim marfim estruturado.
+Yapılandırılmış fildişi saten slip elbise giyen kendinden emin bir modelin yer aldığı editoryal bir moda portresi için bir prompt.
 
 #### Prompt
 
@@ -7556,19 +7556,19 @@ Um prompt para um retrato de moda editorial com uma modelo confiante usando um v
 }
 ```
 
-### No. 368: Homem em Estrutura de Madeira
+### No. 368: Ahşap Yapıdaki Adam
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Khlaseek designer
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Khlaseek designer
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem está confiante em um edifício de madeira iluminado pelo sol, vestindo um blazer e uma camisa escuros.
+Bir adam, güneş ışığı alan ahşap bir binada, koyu renk bir blazer ve gömlek giyerek kendinden emin bir şekilde duruyor.
 
 #### Prompt
 
@@ -7576,19 +7576,19 @@ Um homem está confiante em um edifício de madeira iluminado pelo sol, vestindo
 a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
 ```
 
-### No. 369: Editorial de Movimentos de Dança em Estúdio Carmesim
+### No. 369: Kırmızı Stüdyo Dans Hareketi Editoryalı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma grade 3x3 de uma mulher de espartilho de veludo preto executando movimentos de dança espontâneos em um estúdio carmesim.
+Kırmızı bir stüdyoda, siyah kadife korsaj giyen bir kadının doğal dans hareketleri yaptığı 3x3'lük bir ızgara oluşturmak için bir prompt.
 
 #### Prompt
 
@@ -7599,19 +7599,19 @@ Um prompt para gerar uma grade 3x3 de uma mulher de espartilho de veludo preto e
 }
 ```
 
-### No. 370: Grade Editorial de Movimentos de Dança em Alta Moda
+### No. 370: Yüksek Moda Dans Hareketi Editoryal Izgarası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Özge Döner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Özge Döner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para uma grade de folha de contatos 3x3 apresentando a mesma mulher em um estúdio carmesim, executando movimentos de dança de alta moda.
+Kırmızı bir stüdyoda, aynı kadının yüksek moda dans hareketleri yaptığı 3x3 kontakt sayfası ızgarası için bir prompt.
 
 #### Prompt
 
@@ -7622,19 +7622,19 @@ Um prompt para uma grade de folha de contatos 3x3 apresentando a mesma mulher em
 }
 ```
 
-### No. 371: Orbes brilhantes na escuridão
+### No. 371: Karanlıkta parlayan küreler
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** N Creates AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** N Creates AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma cena escura com dois orbes suaves e quentes brilhando, criando um efeito visual minimalista e abstrato.
+Minimalist ve soyut bir görsel efekt yaratan, yumuşak, sıcak parlayan iki kürenin yer aldığı karanlık bir sahne.
 
 #### Prompt
 
@@ -7642,19 +7642,19 @@ Uma cena escura com dois orbes suaves e quentes brilhando, criando um efeito vis
 dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
 ```
 
-### No. 372: Dioramas de Figuras de Anime
+### No. 372: Anime Figür Dioramaları
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Gadgetify
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Gadgetify
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Quatro cenas de figuras de ação de anime de alta detalhe, mostrando batalhas icônicas de Dragon Ball, Naruto, One Piece e Bleach.
+Dragon Ball, Naruto, One Piece ve Bleach'tan ikonik savaşları sergileyen dört yüksek detaylı anime aksiyon figürü sahnesi.
 
 #### Prompt
 
@@ -7662,19 +7662,19 @@ Quatro cenas de figuras de ação de anime de alta detalhe, mostrando batalhas i
 four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
 ```
 
-### No. 373: Sydney Sweeney Italiana Comendo - Gravação Amadora
+### No. 373: İtalyan Sydney Sweeney Yemek Yerken Amatör Çekim
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** KeorUnreal
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para um vídeo amador sutil, desfocado e de baixa qualidade, feito com iPhone, de Sydney Sweeney comendo.
+Sydney Sweeney'nin yemek yerken çekilmiş, hafif bulanık, düşük kaliteli amatör bir iPhone videosu için bir prompt.
 
 #### Prompt
 
@@ -7682,19 +7682,19 @@ Um prompt para um vídeo amador sutil, desfocado e de baixa qualidade, feito com
 Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
 ```
 
-### No. 374: Iluminação Gemini Omni AI
+### No. 374: Gemini Omni Yapay Zeka Aydınlatması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** CHRIS FIRST
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** CHRIS FIRST
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um homem de camiseta branca e boné segura um microfone com sobreposição de texto promovendo a Iluminação de Estúdio Gemini Omni AI.
+Beyaz tişört ve şapka giyen bir adam, Gemini Omni Yapay Zeka Stüdyo Aydınlatması'nı tanıtan metin katmanıyla bir mikrofon tutuyor.
 
 #### Prompt
 
@@ -7702,19 +7702,19 @@ Um homem de camiseta branca e boné segura um microfone com sobreposição de te
 a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
 ```
 
-### No. 375: Substituição de Fundo para Criador de Conteúdo Profissional
+### No. 375: Profesyonel İçerik Üreticisi Arka Plan Değiştirme
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** CHRIS FIRST
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** CHRIS FIRST
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Substitua o fundo por uma configuração de mesa de alto padrão para um influenciador de tecnologia.
+Arka planı, bir teknoloji influencer'ı için yüksek kaliteli bir masa düzeniyle değiştirin.
 
 #### Prompt
 
@@ -7722,19 +7722,19 @@ Substitua o fundo por uma configuração de mesa de alto padrão para um influen
 Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
 ```
 
-### No. 376: Prompt de Substituição de Fundo para Influenciador de Bem-Estar
+### No. 376: Wellness Influencer Arka Plan Değiştirme Prompt'u
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** CHRIS FIRST
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** CHRIS FIRST
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para substituir o fundo de um sujeito por um cenário profissional de influenciador de beleza e estilo de vida, com um interior limpo e iluminação quente.
+Bir öznenin arka planını, temiz bir iç mekan ve sıcak aydınlatma içeren profesyonel bir güzellik ve yaşam tarzı influencer arka planıyla değiştirmek için bir prompt.
 
 #### Prompt
 
@@ -7742,19 +7742,19 @@ Um prompt para substituir o fundo de um sujeito por um cenário profissional de 
 Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
 ```
 
-### No. 377: Substituição de Fundo para Estúdio de Cinema Profissional
+### No. 377: Profesyonel Film Stüdyosu Arka Plan Değiştirme
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** CHRIS FIRST
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** CHRIS FIRST
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para substituir o fundo de um sujeito por um ambiente de estúdio de cinema profissional, suave e desfocado.
+Bir öznenin arka planını yumuşak, odak dışı profesyonel bir film stüdyosu ortamıyla değiştirmek için bir prompt.
 
 #### Prompt
 
@@ -7762,19 +7762,19 @@ Um prompt para substituir o fundo de um sujeito por um ambiente de estúdio de c
 Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
 ```
 
-### No. 378: Guerreira da Cidade Chuvosa
+### No. 378: Yağmurlu Şehir Savaşçısı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** shawn_maybush
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** shawn_maybush
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma garota em uniforme escolar empunha uma espada em uma paisagem urbana futurista encharcada pela chuva.
+Okul üniformalı bir kız, yağmurla ıslanmış, fütüristik bir şehir manzarasında bir kılıç kuşanmış.
 
 #### Prompt
 
@@ -7782,19 +7782,19 @@ Uma garota em uniforme escolar empunha uma espada em uma paisagem urbana futuris
 a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
 ```
 
-### No. 379: Celebração da Vitória com Coca-Cola
+### No. 379: Coca-Cola Zafer Kutlaması
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** SaaS Junction ✦ Daily AI News & Prompts
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** SaaS Junction ✦ Daily AI News & Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um troféu feito de latas de Coca-Cola celebra a vitória com confetes e faíscas.
+Coca-Cola kutularından yapılmış bir kupa, konfeti ve kıvılcımlarla zaferi kutluyor.
 
 #### Prompt
 
@@ -7802,19 +7802,19 @@ Um troféu feito de latas de Coca-Cola celebra a vitória com confetes e faísca
 A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
 ```
 
-### No. 380: Troféu da Copa do Mundo em LEGO
+### No. 380: LEGO Dünya Kupası Kupası
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** SaaS Junction ✦ Daily AI News & Prompts
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** SaaS Junction ✦ Daily AI News & Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um troféu da Copa do Mundo dourado feito de LEGO, com confetes e brilhos, promovendo uma campanha de construção de sonhos.
+Konfeti ve ışıltılarla altın bir LEGO Dünya Kupası kupası, bir hayal kurma kampanyasını tanıtıyor.
 
 #### Prompt
 
@@ -7822,19 +7822,19 @@ Um troféu da Copa do Mundo dourado feito de LEGO, com confetes e brilhos, promo
 A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
 ```
 
-### No. 381: Montando um Dragão Azul
+### No. 381: Mavi Ejderha Sürüşü
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Rendar AI
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Rendar AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um cavaleiro sobrevoa uma ilha tropical montado em um majestoso dragão azul, com cachoeiras e águas turquesa abaixo.
+Bir sürücü, şelaleler ve turkuaz suların bulunduğu tropik bir adanın üzerinde görkemli bir mavi ejderhanın üzerinde süzülüyor.
 
 #### Prompt
 
@@ -7842,19 +7842,19 @@ Um cavaleiro sobrevoa uma ilha tropical montado em um majestoso dragão azul, co
 first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
 ```
 
-### No. 382: Esboço a Lápis de Grafite - Retrato Duplo
+### No. 382: Grafit Kalem Eskiz Çift Portre
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Minahil
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um esboço detalhado a lápis de grafite de um homem e uma mulher lado a lado em papel vintage.
+Vintage kağıt üzerinde yan yana duran bir erkek ve bir kadının detaylı grafit kalem eskizi.
 
 #### Prompt
 
@@ -7862,19 +7862,19 @@ Um esboço detalhado a lápis de grafite de um homem e uma mulher lado a lado em
 A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
 ```
 
-### No. 383: Retrato Cinematográfico de Cowboy Fora da Lei
+### No. 383: Kanun Kaçağı Kovboy Sinematik Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** WeWant Mars
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** WeWant Mars
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um retrato cinematográfico de um cowboy fora da lei de aspecto rústico, ao pôr do sol, em uma passarela de madeira empoeirada do Velho Oeste.
+Tozlu bir Eski Batı tahta kaldırımında gün batımında, sert görünümlü bir kanun kaçağı kovboyun sinematik portresi.
 
 #### Prompt
 
@@ -7882,19 +7882,19 @@ Um retrato cinematográfico de um cowboy fora da lei de aspecto rústico, ao pô
 A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
 ```
 
-### No. 384: mulher na cama à noite
+### No. 384: gece yatağındaki kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Niharika Nm
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Niharika Nm
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher relaxa na cama sob um cobertor rosa, iluminada pelo brilho quente de uma luminária de cabeceira.
+Pembe bir battaniyenin altında, yatak başı lambasının sıcak ışığıyla aydınlanan bir kadın yatakta dinleniyor.
 
 #### Prompt
 
@@ -7902,19 +7902,19 @@ Uma mulher relaxa na cama sob um cobertor rosa, iluminada pelo brilho quente de 
 a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
 ```
 
-### No. 385: Lançamento do Pixel Drop
+### No. 385: Pixel Drop Lansmanı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** AIVAnet
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AIVAnet
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma imagem promocional para o recurso Pixel Drop do Google, com reações na tela.
+Google'ın Pixel Drop özelliği için ekran tepkileri içeren tanıtım görseli.
 
 #### Prompt
 
@@ -7922,19 +7922,19 @@ Uma imagem promocional para o recurso Pixel Drop do Google, com reações na tel
 A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
 ```
 
-### No. 386: Design Gráfico Retrô 'Good Vibes High Tides'
+### No. 386: İyi Enerjiler Yüksek Dalgalar Retro Grafik Tasarım
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Heather Green
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Heather Green
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para criar um gráfico circular em estilo retrô com imagens de pôr do sol no oceano e texto com efeito desgastado.
+Okyanus gün batımı görselleri ve yıpranmış metinle dairesel, retro tarzı bir grafik oluşturmak için bir istem.
 
 #### Prompt
 
@@ -7942,19 +7942,19 @@ Um prompt para criar um gráfico circular em estilo retrô com imagens de pôr d
 A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
 ```
 
-### No. 387: Referência de Identidade para Retrato Editorial de Alta Moda
+### No. 387: Yüksek Moda Editoryal Portre Kimlik Referansı
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Soaima
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Soaima
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar um retrato ultra-realista que preserva a identidade facial exata de uma foto de referência.
+Bir referans fotoğrafından kesin yüz kimliğini koruyan ultra gerçekçi bir portre oluşturmak için bir istem.
 
 #### Prompt
 
@@ -7962,19 +7962,19 @@ Um prompt para gerar um retrato ultra-realista que preserva a identidade facial 
 Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
 ```
 
-### No. 388: Retrato de Moda em Monocromático de uma Musa Minimalista
+### No. 388: Minimalist Bir Müzenin Tek Renkli Moda Portresi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Virena
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Virena
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para retrato de arte refinada em monocromático de uma mulher elegante com características faciais específicas.
+Belirli yüz hatlarına sahip zarif bir kadın için güzel sanatlar tek renkli portre istemi.
 
 #### Prompt
 
@@ -7982,19 +7982,19 @@ Um prompt para retrato de arte refinada em monocromático de uma mulher elegante
 Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
 ```
 
-### No. 389: Conjunto Floral Elegante
+### No. 389: Zarif Çiçekli Kombin
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Wandering Corner
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Wandering Corner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher posa em um conjunto estiloso de estampa floral bege, com saia assimétrica e top de alça caída.
+Bir kadın, yüksek-alçak etekli ve omuz açık üstlü şık bir bej çiçekli kıyafetle poz veriyor.
 
 #### Prompt
 
@@ -8002,19 +8002,19 @@ Uma mulher posa em um conjunto estiloso de estampa floral bege, com saia assimé
 a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
 ```
 
-### No. 390: Prompt para retrato ultra-realista em smartphone
+### No. 390: Ultra gerçekçi akıllı telefon portresi istemi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Aiza
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aiza
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para gerar uma foto espontânea de smartphone de uma jovem com cabelo ondulado e óculos.
+Dalgalı saçlı ve gözlüklü genç bir kadının doğal bir akıllı telefon fotoğrafını oluşturmak için bir istem.
 
 #### Prompt
 
@@ -8022,19 +8022,19 @@ Um prompt para gerar uma foto espontânea de smartphone de uma jovem com cabelo 
 Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
 ```
 
-### No. 391: Prompt para Retrato Ultra Realista em Aquarela
+### No. 391: Ultra Gerçekçi Suluboya Portre İstemi
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Anaya Ai
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anaya Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Um prompt para criar um retrato em alta definição com realismo de aquarela, com preservação estrita da identidade a partir de uma imagem de referência.
+Bir referans görselinden katı kimlik korumasıyla yüksek çözünürlüklü, suluboya gerçekçiliğinde bir portre oluşturmak için bir istem.
 
 #### Prompt
 
@@ -8042,19 +8042,19 @@ Um prompt para criar um retrato em alta definição com realismo de aquarela, co
 Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
 ```
 
-### No. 392: mulher em traje casual
+### No. 392: Gündelik kıyafetli kadın
 
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Zara
-- **Idioma:** `pt-BR`
-- **Video:** [Ver]()
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zara
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Aciklama
 
-Uma mulher posa com confiança em uma regata preta e calças creme, sentada em um banquinho branco contra um fundo simples.
+Siyah bir atlet ve krem pantolon giyen bir kadın, sade bir fon önünde beyaz bir taburede oturarak kendinden emin bir şekilde poz veriyor.
 
 #### Prompt
 
@@ -8062,7 +8062,7 @@ Uma mulher posa com confiança em uma regata preta e calças creme, sentada em u
 a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
-Este README e gerado automaticamente a partir de `data/prompts_by_locale`.
+Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.
 
 ## More Atlas Cloud Tools
 

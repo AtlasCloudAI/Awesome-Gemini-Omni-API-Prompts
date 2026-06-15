@@ -8,25 +8,25 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
-Uma colecao curada de exemplos de prompts Gemini Omni com previews de video OSS incorporados.
+Una coleccion curada de ejemplos de prompts para Gemini Omni con vista previa de video OSS integrada.
 
-Este repositorio organiza exemplos publicos de video do Gemini Omni. Cada entrada inclui um video de previa e um prompt localizado.
+Este repositorio organiza ejemplos publicos de video de Gemini Omni. Cada entrada incluye un video de vista previa y un prompt localizado.
 
-- **Atual:** Português
-- **Outros Idiomas:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [Tiếng Việt](./README_vi-VN.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Türkçe](./README_tr-TR.md)
+- **Actual:** Español
+- **Otros Idiomas:** [English](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/README.md) | [简体中文](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_zh.md) | [繁體中文](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_zh-TW.md) | [日本語](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_ja-JP.md) | [한국어](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_ko-KR.md) | [ไทย](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_th-TH.md) | [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_vi-VN.md) | [हिन्दी](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_hi-IN.md) | [Español (Latinoamérica)](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_es-419.md) | [Deutsch](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_de-DE.md) | [Français](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_fr-FR.md) | [Italiano](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_it-IT.md) | [Português (Brasil)](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_pt-BR.md) | [Português](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_pt-PT.md) | [Türkçe](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_tr-TR.md)
 
 ## 🤔 What is Gemini Omni?
 
 Gemini Omni is Google's multimodal video model — text-to-video, image-to-video and reference-to-video with native, synchronized audio. On Atlas Cloud it runs as `google/gemini-omni-flash/*`. Every preview below was generated through Atlas Cloud from the listed prompt.
 
-## 📊 Estatisticas
+## 📊 Estadisticas
 
-| Metrica | Quantidade |
+| Metrica | Cantidad |
 | --- | ---: |
-| Total de Prompts | 392 |
-| Categorias | 8 |
-| Videos de Previa | 154 |
-| Ultima Atualizacao | 15/06/2026 |
+| Prompts Totales | 392 |
+| Categorias | 10 |
+| Videos de Vista Previa | 154 |
+| Ultima Actualizacion | 15/06/2026 |
 
 ### 🧩 Supported Models
 
@@ -45,7 +45,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 **[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**
 
-## 🏷️ Navegar por Categoria
+## 🏷️ Explorar por Categoria
 
 - [Transform & Stylization](#category-1)
 - [Action & Motion](#category-2)
@@ -53,10 +53,12 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 - [Text & Sequences](#category-4)
 - [Multi-Input & Reference](#category-5)
 - [Atlas Generated T2V](#category-6)
-- [Atlas Generated I2V](#category-7)
-- [Twitter Community](#category-8)
+- [Atlas Generado I2V](#category-7)
+- [Atlas Generated I2V](#category-8)
+- [I2V Generado por Atlas](#category-9)
+- [Twitter Community](#category-10)
 
-## Todos os Prompts
+## Todos los Prompts
 
 <a id="category-1"></a>
 
@@ -65,14 +67,14 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 ### No. 1: Mirror: Liquid Metal Ripple
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_001
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
 
@@ -85,14 +87,14 @@ When the person touches the mirror, make the mirror ripple beautifully like liqu
 ### No. 2: Mirror: Line Art Transformation
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_002
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Mirror touch transforms the subject into a detailed monochrome line drawing.
 
@@ -105,14 +107,14 @@ When the person touches the mirror, the person transforms into a detailed monoch
 ### No. 3: Mirror: Puppet Transformation
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_003
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
 
@@ -125,14 +127,14 @@ When the person touches the mirror, the person suddenly transforms into a cute f
 ### No. 4: Mirror: Holograph Transformation
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_004
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
 
@@ -145,14 +147,14 @@ When the person touches the mirror, the person instantly transform into a vintag
 ### No. 5: Mirror: Voxel World
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_005
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Mirror touch turns the whole room into chunky 3D voxel art.
 
@@ -165,14 +167,14 @@ When the person touches the mirror, the entire environment turns into 3d voxel a
 ### No. 6: Butterfly to Bee
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_015
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Morph the butterfly into a bee.
 
@@ -185,14 +187,14 @@ Change the butterfly to a bee.
 ### No. 7: Bee to Fireflies
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_016
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Morph the bee into a small swarm of fireflies.
 
@@ -205,14 +207,14 @@ Change the bee into a small swarm of fireflies.
 ### No. 8: Spaceships: White Origami
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_023
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Transform the ships so they look like folded white origami paper.
 
@@ -225,14 +227,14 @@ Change the ships to be made from white origami paper.
 ### No. 9: Astronaut to Sea Anemone
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_024
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Transform the astronaut into a sea anemone.
 
@@ -245,14 +247,14 @@ Change the astronaut to a sea anemone.
 ### No. 10: Small Ships to Stingrays
 
 - **Categoria:** `Transform & Stylization`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_025
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Transform the small ships into stingrays.
 
@@ -269,14 +271,14 @@ Change the small ships to stingrays.
 ### No. 11: Hand Hole Super Zoom
 
 - **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_006
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
 
@@ -289,14 +291,14 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 ### No. 12: Animal Toy Sound Interaction
 
 - **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_007
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Touching each toy animal triggers the matching animal sound.
 
@@ -309,14 +311,14 @@ When the finger in <video> touches the animal toy play the sound the animal make
 ### No. 13: Apartments Lights Sync to Music
 
 - **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_008
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Apartment lights switch on rhythmically in sync with the soundtrack.
 
@@ -329,14 +331,14 @@ The lights of the apartments start turning on in sync with the music.
 ### No. 14: Marble Chain Reaction
 
 - **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_013
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 A marble races across a chain-reaction track in one continuous smooth shot.
 
@@ -349,14 +351,14 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 ### No. 15: Building Lights Prompt Guide Variant
 
 - **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_017
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Building lights pulse and switch on in sync with the soundtrack.
 
@@ -369,14 +371,14 @@ The lights of the buildings start turning on in sync with the music.
 ### No. 16: Skateboard Motion Effects
 
 - **Categoria:** `Action & Motion`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_019
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Keep the scene unchanged while adding animated motion effects from the skateboard.
 
@@ -393,14 +395,14 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 ### No. 17: Violinist Input Base Shot
 
 - **Categoria:** `Camera & Perspective`
-- **Fonte:** `Google Blog | DeepMind Sequence`
+- **Fuente:** `Google Blog | DeepMind Sequence`
 - **Autor:** omni_009
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Base clip of a violinist playing, used as the starting point for later edits.
 
@@ -413,14 +415,14 @@ A video of a violinist playing a song.
 ### No. 18: Violinist: Transport to New Environment
 
 - **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_010
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Move the violinist performance into a new referenced environment.
 
@@ -433,14 +435,14 @@ Transport the violinist to the image environment
 ### No. 19: Violinist: Invisible Violin
 
 - **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_011
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Remove the violin while preserving the original performance.
 
@@ -453,14 +455,14 @@ Make the violin invisible
 ### No. 20: Violinist: Over-the-Shoulder Angle
 
 - **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Official`
+- **Fuente:** `DeepMind Official`
 - **Autor:** omni_012
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Reframe the performance from an over-the-shoulder camera angle.
 
@@ -473,14 +475,14 @@ Change the camera angle to be over the violinist's shoulder.
 ### No. 21: Camera Tilt: Shoes to Medium Shot
 
 - **Categoria:** `Camera & Perspective`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_020
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Start close on the shoes, tilt up quickly, then widen the framing.
 
@@ -497,14 +499,14 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 ### No. 22: Alphabet Items Sequence
 
 - **Categoria:** `Text & Sequences`
-- **Fonte:** `Google Blog | DeepMind Sequence`
+- **Fuente:** `Google Blog | DeepMind Sequence`
 - **Autor:** omni_014
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Show all 26 letters through unusual table-top objects with matching lower-thirds.
 
@@ -517,14 +519,14 @@ The video shows items of the alphabet. An unusual item starting with each letter
 ### No. 23: Word-by-Word Text Sync
 
 - **Categoria:** `Text & Sequences`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_018
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Display one animated word at a time with rhythmic pacing.
 
@@ -541,14 +543,14 @@ word by word, one word on a the screen at a time: did, you, know, that, this, mo
 ### No. 24: Birds Shape With Audio
 
 - **Categoria:** `Multi-Input & Reference`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_021
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
 
@@ -561,14 +563,14 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 ### No. 25: Storyboard: Show Me in This Story
 
 - **Categoria:** `Multi-Input & Reference`
-- **Fonte:** `DeepMind Prompt Guide`
+- **Fuente:** `DeepMind Prompt Guide`
 - **Autor:** omni_022
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
 Turn storyboard panels into a 10-second cinematic sequence in exact order.
 
@@ -582,399 +584,399 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ### Atlas Generated T2V (33)
 
-### No. 26: Golden Deer
+### No. 26: Ciervo Dorado
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 026
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single dro...
+Cinematografía forestal macro ultrarealista, profundidad de campo reducida, iluminación ambiental 4K. Una estatua de ciervo de porcelana blancaweathered permanece congelada en un bosque musgoso y húmedo. Una sola gota de miel dorada brillante cae en el ojo del ciervo. La porcelana se agrieta hacia afuera y se transforma en cálido pelaje vivo y músculo. El ciervo exhala niebla fría, baja la cabeza y luego salta a través del bosque, dispersando partículas brillantes. Diseño de sonido cinematográfico rico, movimiento de cámara contenido hacia adelante, épico emocionalmente.
 
 #### Prompt
 
 ```text
-Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single drop of glowing golden honey falls into the deer eye. The porcelain cracks outward and transforms into warm living fur and muscle. The deer exhales cold mist, lowers its head, then leaps through the forest, scattering glowing particles. Rich cinematic sound design, restrained camera push-in, emotionally epic.
+Cinematografía forestal macro ultrarealista, profundidad de campo reducida, iluminación ambiental 4K. Una estatua de ciervo de porcelana blancaweathered permanece congelada en un bosque musgoso y húmedo. Una sola gota de miel dorada brillante cae en el ojo del ciervo. La porcelana se agrieta hacia afuera y se transforma en cálido pelaje vivo y músculo. El ciervo exhala niebla fría, baja la cabeza y luego salta a través del bosque, dispersando partículas brillantes. Diseño de sonido cinematográfico rico, movimiento de cámara contenido hacia adelante, épico emocionalmente.
 ```
 
-### No. 27: Perfume Ice
+### No. 27: Hielo de Perfume
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 027
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fracture...
+Cinematografía comercial de lujo, reflejos de vidrio pulido, cámara lenta, lente macro de 100mm. Una botella de perfume de cristal negro se encuentra sobre un lago congelado en la hora azul. Grietas diminutas se extienden por el hielo en sincronía con un pulso de graves profundos. La botella gira elegantemente mientras el vapor plateado florece a su alrededor. En el beat final, el hielo estalla en fragmentos brillantes suspendidos y el bloqueo del logotipo aparece en luz limpia.
 
 #### Prompt
 
 ```text
-Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fractures spread across the ice in sync with a low bass pulse. The bottle rotates elegantly as silver vapor blooms around it. On the final beat, the ice bursts into suspended glittering shards and the logo lockup appears in clean light.
+Cinematografía comercial de lujo, reflejos de vidrio pulido, cámara lenta, lente macro de 100mm. Una botella de perfume de cristal negro se encuentra sobre un lago congelado en la hora azul. Grietas diminutas se extienden por el hielo en sincronía con un pulso de graves profundos. La botella gira elegantemente mientras el vapor plateado florece a su alrededor. En el beat final, el hielo estalla en fragmentos brillantes suspendidos y el bloqueo del logotipo aparece en luz limpia.
 ```
 
 ### No. 28: Mini Chef Ramen
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 028
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth...
+Comercial de comida juguetón con fotografía cinematográfica en miniatura. Un pequeño chef corre a lo largo del borde de un tazón de ramen humeante, salta sobre fideos elásticos y surfea una ola de caldo rico hacia un huevo pasado por agua brillante. El vapor atraviesa el marco, las semillas de sésamo caen en cámara lenta y la toma final aterriza en un ángulo heroico perfecto.
 
 #### Prompt
 
 ```text
-Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth toward a glowing soft-boiled egg. Steam rolls through the frame, sesame seeds fall in slow motion, and the final shot lands on a perfect hero angle.
+Comercial de comida juguetón con fotografía cinematográfica en miniatura. Un pequeño chef corre a lo largo del borde de un tazón de ramen humeante, salta sobre fideos elásticos y surfea una ola de caldo rico hacia un huevo pasado por agua brillante. El vapor atraviesa el marco, las semillas de sésamo caen en cámara lenta y la toma final aterriza en un ángulo heroico perfecto.
 ```
 
-### No. 29: Aurora Astronaut
+### No. 29: Astronauta Aurora
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 029
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the sc...
+Paisaje épico de ciencia ficción, toma amplia estilo IMAX, atmósfera nítida. Un astronauta camina solo a través de salares similares a espejos bajo una aurora verde vívida. La reflexión duplica la escena perfectamente. La cámara comienza baja detrás de las botas, luego se eleva en una órbita graceful mientras la aurora se retuerce en espirales en forma de cinta sobre la cabeza. Termina en un marco amplio contemplativo.
 
 #### Prompt
 
 ```text
-Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the scene perfectly. The camera begins low behind the boots, then rises into a graceful orbit as the aurora twists into ribbon-like spirals overhead. Finish on a contemplative wide frame.
+Paisaje épico de ciencia ficción, toma amplia estilo IMAX, atmósfera nítida. Un astronauta camina solo a través de salares similares a espejos bajo una aurora verde vívida. La reflexión duplica la escena perfectamente. La cámara comienza baja detrás de las botas, luego se eleva en una órbita graceful mientras la aurora se retuerce en espirales en forma de cinta sobre la cabeza. Termina en un marco amplio contemplativo.
 ```
 
-### No. 30: Opera Stage Transformation
+### No. 30: Transformación del Escenario de Ópera
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 034
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use cam...
+Reemplaza a la chica en @video1 con una actriz de ópera china (Huadan), establece la escena en un escenario exquisito, referencia los movimientos de cámara y efectos de transición de @video1, usa trabajo de cámara para coincidir con los movimientos del personaje, estética máxima del escenario, mejora el impacto visual.
 
 #### Prompt
 
 ```text
-Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use camera work to match the character's movements, ultimate stage aesthetics, enhance visual impact.
+Reemplaza a la chica en @video1 con una actriz de ópera china (Huadan), establece la escena en un escenario exquisito, referencia los movimientos de cámara y efectos de transición de @video1, usa trabajo de cámara para coincidir con los movimientos del personaje, estética máxima del escenario, mejora el impacto visual.
 ```
 
-### No. 31: One-Take Seamless Transition
+### No. 31: Transición Continua en Una Toma
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 035
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera...
+Referencia todas las transiciones y movimientos de cámara de @video1, una toma continua. El cuadro comienza con un juego de ajedrez, la cámara se mueve hacia la izquierda, mostrando arena amarilla en el suelo, la cámara se mueve hacia arriba hacia una playa con huellas, una chica con ropa blanca simple camina hacia la playa, la cámara corta a vista aérea desde arriba, el agua del mar lavando (sin personas que aparezcan), transición degradada perfecta, las olas de lavado se convierten en cortinas fluidas, la cámara se aleja, mostrando primer plano del rostro de la chica, una toma continua.
 
 #### Prompt
 
 ```text
-Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera moves up to a beach with footprints, a girl in white plain clothes walks away on the beach, camera cuts to aerial overhead view, seawater washing (no people appearing), seamless gradient transition, the washing waves become flowing curtains, camera pulls back, showing close-up of the girl's face, one continuous take.
+Referencia todas las transiciones y movimientos de cámara de @video1, una toma continua. El cuadro comienza con un juego de ajedrez, la cámara se mueve hacia la izquierda, mostrando arena amarilla en el suelo, la cámara se mueve hacia arriba hacia una playa con huellas, una chica con ropa blanca simple camina hacia la playa, la cámara corta a vista aérea desde arriba, el agua del mar lavando (sin personas que aparezcan), transición degradada perfecta, las olas de lavado se convierten en cortinas fluidas, la cámara se aleja, mostrando primer plano del rostro de la chica, una toma continua.
 ```
 
-### No. 32: Coffee Morning Campaign
+### No. 32: Campaña de Café Matutino
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 036
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement...
+Extiende @video1 por 15 segundos. 1-5 segundos: La luz y las sombras se deslizan lentamente a través de las persianas sobre la mesa de madera y el cuerpo de la taza, las ramas se balancean con un ligero movimiento similar a la respiración...
 
 #### Prompt
 
 ```text
-Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement. 6-10 seconds: A coffee bean gently falls from the top of the screen, camera pushes toward the coffee bean until the screen goes black. 11-15 seconds: English text gradually appears first line 'Lucky Coffee', second line 'Breakfast', third line 'AM 7:00-10:00'.
+Extiende @video1 por 15 segundos. 1-5 segundos: La luz y las sombras se deslizan lentamente a través de las persianas sobre la mesa de madera y el cuerpo de la taza, las ramas se balancean con un ligero movimiento similar a la respiración. 6-10 segundos: Un grano de café cae suavemente desde la parte superior de la pantalla, la cámara se acerca al grano de café hasta que la pantalla se oscurece. 11-15 segundos: El texto en inglés aparece gradualmente primera línea 'Lucky Coffee', segunda línea 'Breakfast', tercera línea 'AM 7:00-10:00'.
 ```
 
-### No. 33: Sunflower Skateboard Story
+### No. 33: Historia de Skateboard con Girasoles
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 037
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies pok...
+Extiende hacia adelante por 10s. En la cálida luz de la tarde, la cámara comienza desde la fila de toldos ondeando con la brisa en la esquina de la calle, se mueve lentamente hacia abajo hacia algunas pequeñas margaritas asomándose en la base de la pared...
 
 #### Prompt
 
 ```text
-Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies poking out at the base of the wall. Then the protagonist's red skateboard shoes appear in the frame. He is crouching in front of a street flower stand, smiling and gathering a large bunch of sunflowers into his arms, petals brushing against his white T-shirt. As he turns to step on the skateboard, the flower stand owner laughingly shouts 'Watch out for flying petals!' He waves at the owner, then starts skating. A few golden petals have already broken free from the bouquet first, falling onto the skateboard deck.
+Extiende hacia adelante por 10s. En la cálida luz de la tarde, la cámara comienza desde la fila de toldos ondeando con la brisa en la esquina de la calle, se mueve lentamente hacia abajo hacia algunas pequeñas margaritas asomándose en la base de la pared. Luego aparecen en el cuadro los zapatos de skate rojos del protagonista. Él está agachado frente a un puesto de flores de calle, sonriendo y recogiendo un gran ramo de girasoles en sus brazos, los pétalos rozando su camiseta blanca. Cuando se da la vuelta para subirse al skate, el dueño del puesto de flores grita riendo '¡Cuidado con los pétalos que vuelan!'. Él saluda al dueño, luego comienza a patinar. Algunos pétalos dorados ya se han soltado del ramo primero, cayendo sobre la tabla del skate.
 ```
 
-### No. 34: Titanic Dark Twist
+### No. 34: Giro Oscuro del Titanic
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 038
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist...
+Invierte la trama en @video1. Los ojos del hombre cambian instantáneamente de suaves a fríos y despiadados. En el momento en que Rose no tiene defensa, él empuja violentamente a la protagonista femenina...
 
 #### Prompt
 
 ```text
-Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist off the bridge, pushing her into the water. The action is decisive and resolute, with long-premeditated determination, without any hesitation, completely subverting the original affectionate character setting. The moment the female protagonist falls into the water, there is no scream, only disbelieving eyes. She looks up and roars at the male protagonist: 'You've been lying to me from the beginning!' The male protagonist stands on the bridge, a cold smile on his face, saying in a low voice to the water: 'This is what you owe my family.'
+Invierte la trama en @video1. Los ojos del hombre cambian instantáneamente de suaves a fríos y despiadados. En el momento en que Rose no tiene defensa, él empuja violentamente a la protagonista femenina del puente, empujándola al agua. La acción es decisiva y resuelta, con determinación largamente premeditada, sin ninguna duda, invirtiendo completamente la configuración original del personaje afectuoso. En el momento en que la protagonista femenina cae al agua, no hay grito, solo ojos incrédulos. Ella mira hacia arriba y ruge al protagonista masculino: '¡Has estado mintiéndome desde el principio!' El protagonista masculino está de pie en el puente, una sonrisa fría en su rostro, diciendo en voz baja al agua: 'Esto es lo que le debes a mi familia.'
 ```
 
-### No. 35: Anime Chess Battle Storyboard
+### No. 35: Storyboard de Batalla de Ajedrez Anime
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 039
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female p...
+Segmento de combate anime de estilo de batalla intelectual de 8 segundos, apropiado para el tema de la venganza. 0-3 segundos: La protagonista femenina en la imagen del storyboard 1 se da la vuelta y se sienta, la cámara gira, la protagonista femenina...
 
 #### Prompt
 
 ```text
-8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female protagonist places a chess piece and says 'You lost', reference storyboard image 2. 3-4 seconds: Quick pan camera, turn to opposite man's face close-up, reference storyboard image 3, man gritting teeth, very dissatisfied with the result. 4-6 seconds: Cut camera, overhead shot, woman places a chess piece, people opposite are amazed, reference storyboard image 4. 6-8 seconds: Camera rapidly pans down, screen goes black for transition, then screen gradually brightens, dimly lit room, woman looks at the moonlight outside the window and quietly says 'We'll see', reference storyboard image 5.
+Segmento de combate anime de estilo de batalla intelectual de 8 segundos, apropiado para el tema de la venganza. 0-3 segundos: La protagonista femenina en la imagen del storyboard 1 se da la vuelta y se sienta, la cámara gira, la protagonista femenina coloca una pieza de ajedrez y dice 'Perdiste', referencia imagen del storyboard 2. 3-4 segundos: Movimiento rápido de cámara, gira hacia el primer plano del rostro del hombre opuesto, referencia imagen del storyboard 3, el hombre aprieta los dientes, muy insatisfecho con el resultado. 4-6 segundos: Corte de cámara, toma desde arriba, la mujer coloca una pieza de ajedrez, las personas opuestas están asombradas, referencia imagen del storyboard 4. 6-8 segundos: La cámara se mueve rápidamente hacia abajo, la pantalla se oscurece para la transición, luego la pantalla se ilumina gradualmente, habitación con poca luz, la mujer mira la luz de la luna fuera de la ventana y dice tranquilamente 'Ya veremos', referencia imagen del storyboard 5.
 ```
 
-### No. 36: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
+### No. 36: Video Cinematográfico de Guerra de 1 Minuto en 5 Minutos, estructura multi-toma
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 040
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sun...
+Directrices de estilo consistentes para todas las tomas: footage de guerra cinematográfico realista en una aldea del desierto moderno de Oriente Medio; paleta dominante de amarillo arenoso y marrón gris; sol del mediodía harsh...
 
 #### Prompt
 
 ```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+Directrices de estilo consistentes para todas las tomas: footage de guerra cinematográfico realista en una aldea del desierto moderno de Oriente Medio; paleta dominante de amarillo arenoso y marrón gris; luz solar dura del mediodía con sombras duras; polvo flotante y humo de pólvora; vibración sutil de cámara en mano; encuadre de ángulo bajo y a nivel del suelo para maximizar la tensión y el realismo; equipo de infantería moderno sin identificadores nacionales visibles; atmósfera contenida, tensa y brutal. Toma 1: Un escuadrón de infantería moderno avanza por callejones estrechos entre casas de adobe bajas y paredes de concreto dañadas. La cámara rastrea desde atrás a nivel de rodilla, empujando hacia adelante mientras los soldados se abrazan a las paredes y apuntan hacia una esquina invisible. El viento, los clics metálicos lejanos y el polvo flotante establecen el temor. Toma 2: Un combate cuerpo a cuerpo eruptivo surge en la esquina del callejón. Los soldados se tiran y se presionan contra la pared mientras los impactos de balas en la mampostería levantan escombros. Movimiento rápido de cámara lateral con temblor controlado, destellos de boca intermitentes y siluetas en ventanas rotas aumentan la claustrofobia y la urgencia. Toma 3: El escuadrón recupera formación y entra en un edificio medio derrumbado. Toma de seguimiento desde sobre el hombro hacia el interior donde shafts de luz solar atraviesan paredes breached. Las partículas de polvo flotan en los haces; las señales de mano reemplazan el habla; los disparos lejanos resuenan. El tono cambia del caos al silencio de hiper-alerta. Toma 4: Desde un techo dañado, el escuadrón asegura un punto alto sobre la cuadrícula de la aldea. Retroceso lento en contraluz, soldados en silueta con rifles aún entrenados en amenazas desconocidas. El polvo gira en luz cálida; no hay victoria o derrota clara. Termina en tensión no resuelta.
 ```
 
-### No. 37: Aerial Shot of Burning Military Vehicle in Urban Warfare
+### No. 37: Toma Aérea de Vehículo Militar Ardiendo en Guerra Urbana
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 041
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overc...
+Una secuencia cinematográfica de dron sobre una intersección de ciudad devastada por la guerra. En el centro, un vehículo blindado destruido arde continuamente, emitiendo humo negro espeso que asciende hacia un cielo nublado...
 
 #### Prompt
 
 ```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+Una secuencia cinematográfica de dron sobre una intersección de ciudad devastada por la guerra. En el centro, un vehículo blindado destruido arde continuamente, emitiendo humo negro espeso que asciende hacia un cielo nublado. Las calles están littered de escombros, metal retorcido y concreto roto; los edificios cercanos muestran ventanas voladas, fachadas chamuscadas y daños estructurales. Comienza con una toma aérea establishing alta, luego desciende lentamente hacia una órbita media-alta mientras preserva la escala espacial y el detalle de la destrucción. Mantén la gradación de color desaturada con realismo documental, agrega grano de película sutil, y asegura fuego físicamente creíble, turbulencia de humo, distorsión de calor y polvo en el aire.
 ```
 
-### No. 38: Quick Test of Female Controlling Plane in Complex Action Scene
+### No. 38: Prueba Rápida de Mujer Controlando Avión en Escena de Acción Compleja
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 042
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through...
+Crea una secuencia de desastre-acción de alta presión: durante un vuelo turbulento, una mujer corre hacia la cabina y descubre que ambos pilotos han desaparecido. Toma 1: cámara en mano siguiendo a través de un caos de cabina con pasajeros aterrorizados, máscaras de oxígeno balanceándose y luces de emergencia parpadeando.
 
 #### Prompt
 
 ```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+Crea una secuencia de desastre-acción de alta presión: durante un vuelo turbulento, una mujer corre hacia la cabina y descubre que ambos pilotos han desaparecido. Toma 1: cámara en mano siguiendo a través de un caos de cabina con pasajeros aterrorizados, máscaras de oxígeno balanceándose y luces de emergencia parpadeando. Toma 2: primer plano de la cabina con montaje de controles temblorosos, indicadores de advertencia y su expresión concentrada mientras toma el comando. Toma 3: plano general exterior del avión descendiendo a través de nubes pesadas antes de la recuperación. Toma 4: de vuelta dentro de la cabina, ella estabiliza el avión con movimientos determinados y precisos. Mantén el ritmo rápido, las apuestas claras y el montaje ajustado.
 ```
 
-### No. 39: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
+### No. 39: Escena de Tormenta de Arena en el Desierto Estilo IMAX con Estética Denis Villeneuve
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 043
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while...
+Estilo: IMAX 70mm, realismo épico inspirado en Denis Villeneuve, alto contraste, baja saturación. Estructura multi-toma. Plano extremadamente amplio: una pared de arena colosal consume el horizonte mientras una convoy blindado corre a través del desierto abierto. Enfatiza la escala aterradora y la fragilidad humana.
 
 #### Prompt
 
 ```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+Estilo: IMAX 70mm, realismo épico inspirado en Denis Villeneuve, alto contraste, baja saturación. Estructura multi-toma. Plano extremadamente amplio: una pared de arena colosal consume el horizonte mientras un convoy blindado corre a través del desierto abierto. Enfatiza la escala aterradora y la fragilidad humana. POV de cabina: vibración violenta dentro del vehículo principal, arena golpeando el parabrisas, luces de advertencia rojas pulsando, órdenes gritadas urgentes. Clímax en cámara lenta: el rover principal despega de una duna, silueteado contra un frente de tormenta oscuro; relámpagos parpadean dentro de la nube de polvo; escombros pasan frente al lente; corte duro a negro en el impacto. Mantén las transiciones limpias y la escalada continua.
 ```
 
-### No. 40: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
+### No. 40: Escena de Pelea Multi-Toma Generada con Solo 3 Imágenes de Referencia y Prompt Simple
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 044
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots...
+Un duelo de artes marciales realista entre dos mujeres en un entorno urbano nocturno moderno. Construye con clara variación de tomas: plano general para establecer espaciado e intención, tomas medias de seguimiento para el tempo del intercambio, insertos en primer plano para impacto, respiración y trabajo de pies.
 
 #### Prompt
 
 ```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+Un duelo de artes marciales realista entre dos mujeres en un entorno urbano nocturno moderno. Construye con clara variación de tomas: plano general para establecer espaciado e intención, tomas medias de seguimiento para el tempo del intercambio, insertos en primer plano para impacto, respiración y trabajo de pies. Incluye movimientos circulares de ángulo bajo, contracabezales y movimientos rápidos de cámara lateral para preservar la claridad direccional. Los movimientos deben seguir transferencia de peso realista, momentum y recuperación. Usa iluminación práctica de calle, reflejos de neón, ligero brillo de pavimento mojado y textura cinematográfica áspera.
 ```
 
-### No. 41: One Punch Man Animation Surpassing Original Quality
+### No. 41: Animación de One Punch Man Superando la Calidad Original
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 045
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls,...
+Produce una secuencia de batalla de anime premium inspirada en la energía y puesta en escena de One Punch Man. Requiere animación fluida de alta velocidad, líneas de velocidad fuertes, marcos de impacto, alejamientos dramáticos de lente y sincronización de efectos explosivos.
 
 #### Prompt
 
 ```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+Produce una secuencia de batalla de anime premium inspirada en la energía y puesta en escena de One Punch Man. Requiere animación fluida de alta velocidad, líneas de velocidad fuertes, marcos de impacto, alejamientos dramáticos de lente y sincronización de efectos explosivos. Usa progresión: configuración de campo de batalla en plano general, intercambios de combate en rango medio, golpe final en primer plano, luego los escombros y el polvo se asientan. La destrucción del fondo debe incluir estructuras agrietadas, fragmentos volando, capas de humo y distorsión de onda de choque. Las siluetas de los personajes permanecen nítidas a través del desenfoque de movimiento, con fuerte separación luz-sombra y composición teatral.
 ```
 
-### No. 42: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
+### No. 42: Escena de Animación de Nutria Entrando en un Mecha Gigante con Tomas Mecánicas Detalladas
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 046
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. ...
+Secuencia de anime mecha: un piloto de nutria antropomórfica se prepara para abordar un mecha de combate gigante. Toma 1: revelación amplia del hangar con silueta del mecha retroiluminada, vapor y balizas de advertencia. ...
 
 #### Prompt
 
 ```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+Secuencia de anime mecha: un piloto de nutria antropomórfica se prepara para abordar un mecha de combate gigante. Toma 1: revelación amplia del hangar con silueta del mecha retroiluminada,蒸汽 y balizas de advertencia. Toma 2: montaje mecánico de engranajes girando, hidráulicas extendiéndose, líneas de energía activándose y escotilla del cockpit desbloqueándose. Toma 3: la nutria sube al cockpit, con primeros planos de ojos enfocados y gestos de control. Toma 4: la escotilla se sella, las luces del HUD se encienden, la visera del mecha se ilumina y la nutria da un pulgar hacia arriba confiado. Enfatizar detalle mecánico denso, lógica de movimiento de máquina coherente y ritmo cinematográfico de anime.
 ```
 
-### No. 43: South Indian Cinema Alien Scene Generated from Single Prompt
+### No. 43: Escena de Cine del Sur de la India de Extraterrestre Generada a partir de una Sola Indicación
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 047
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing....
+Crear una escena de acción de invasión extraterrestre en el estilo del cine comercial del sur de la India. Los visuales deben presentar colores saturados, retroiluminación dramática, cámara lenta estilizada y encuadre heroico....
 
 #### Prompt
 
 ```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+Crear una escena de acción de invasión extraterrestre en el estilo del cine comercial del sur de la India. Los visuales deben presentar colores saturados, retroiluminación dramática, cámara lenta estilizada y encuadre heroico. Abre con una revelación de plaza urbana a gran escala mientras naves extraterrestres descienden, luego corta a la entrada del héroe en ángulo bajo con detalles de costume azotados por el viento. Muévete hacia la confrontación multi-ángulo: tomas amplias para escala, medianas para coreografía de combos, primeros planos para intensidad emocional y picos de impacto. Mezcla polvo, chispas, humo y destellos de lente para una presentación teatral de alta energía mientras mantienes el movimiento legible.
 ```
 
-### No. 44: Ground Combat Shot of Soldiers Traversing Desert Terrain
+### No. 44: Toma de Combate Terrestre de Soldados Atravesando Terreno Desértico
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 048
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and form...
+Metraje de guerra a nivel del suelo con realismo documental: un escuadrón de soldados avanza a través de una zona de combate desértica. Mantener la cámara baja y cerca de las botas, balanceo del equipo, detalles de las armas y cambios de formación mientras se mueven sobre arena suelta y escombros....
 
 #### Prompt
 
 ```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+Metraje de guerra a nivel del suelo con realismo documental: un escuadrón de soldados avanza a través de una zona de combate desértica. Mantener la cámara baja y cerca de las botas, balanceo del equipo, detalles de las armas y cambios de formación mientras se mueven sobre arena suelta y escombros. Luz solar intensa, distorsión térmica visible, polvo suspendido y disparos intermitentes distantes deben dar forma a la atmósfera. Usar movimiento controlado de cámara en mano con profundidad de campo shallow, claridad en primer plano y ligero suavizado del fondo. La paleta de colores se mantiene en beige arenoso y marrón muted, enfatizando disciplina táctica y tensión persistente.
 ```
 
-### No. 45: Hyper-Energetic Japanese Promo Poster
+### No. 45: Póster Promocional Japonés Hiper-Energético
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 049
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poster.
+Ejemplo de indicación estructurada de texto a video para Póster Promocional Japonés Hiper-Energético.
 
 #### Prompt
 
@@ -982,79 +984,79 @@ Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poste
 { "type": "Japanese promotional landing page poster", "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic", "layout": { "top_section": { "background": "night sky, fireworks, ferris wheel, roller coaster", "subjects": "4 young adults cheering, raising fists, dynamic lighting", "typography": [ "{argument name=\"main headline\" default=\"究極の楽しい!!\"}", "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}", "この一枚が、あなたの人生を最高に塗り替える!!" ], "badges": [ "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!" ] }, "middle_section": { "title": "究極の楽しい体験を実現する5つの超快楽ポイント", "points_count": 5, "points": [ {"number": 1, "label": "爆笑覚醒", "image": "people laughing"}, {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"}, {"number": 3, "label": "感動の渦", "image": "fireworks explosion"}, {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"}, {"number": 5, "label": "無限リピート", "image": "group of people cheering"} ] }, "bonus_section": { "title": "今だけ！超豪華 5大特典付き!!!", "items_count": 5, "items": [ "① 限定デザインポスター", "② 楽しい名言ブックレット(PDF)", "③ 超楽しいプレイリスト(MP3)", "④ スマホ壁紙セット", "⑤ 楽しいシークレット映像" ] }, "bottom_section": { "product_info": { "name": "究極の楽しいポスター", "variants_count": 3, "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."] }, "pricing": { "label": "魂の価格", "amount": "{argument name=\"price\" default=\"¥2,980\"}", "shipping": "送料無料" } }, "footer": { "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}", "background_color": "magenta" } } }
 ```
 
-### No. 46: 逼真的海岸跑车摄影
+### No. 46: Fotografía realista de coche deportivo en la costa
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 050
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {arg...
+Una fotografía automotriz fotorrealista de alta resolución de un {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} estacionado en una {argument name="setting" default="coastal road overlooking the ocean"}. El coche deportivo está posicionado en un ligero ángulo, mostrando sus elegantes curvas aerodinámicas, la fascia frontal agresiva, los faros LED distintivos y las llantas de aleación plateadas con tapas centrales amarillas. El icónico escudo amarillo es visible en el guardabarros frontal. El fondo presenta un mar azul profundo, una baja baranda de piedra y una costa rocosa distante cubierta de vegetación verde exuberante y edificios dispersos bajo un cielo azul despejado. La iluminación es un {argument name="lighting" default="bright sunny day"}, proyectando sombras nítidas y realistas sobre el asfalto y creando reflejos brillantes sobre la pintura brillante del coche.
 
 #### Prompt
 
 ```text
-A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {argument name="setting" default="coastal road overlooking the ocean"}. The sports car is positioned at a slight angle, showcasing its sleek aerodynamic curves, aggressive front fascia, distinct LED headlights, and silver alloy wheels with yellow center caps. The iconic yellow shield logo is visible on the front fender. The background features a deep blue sea, a low stone guardrail, and a distant rocky coastline covered in lush green vegetation and scattered buildings under a clear blue sky. The lighting is a {argument name="lighting" default="bright sunny day"}, casting sharp, realistic shadows on the asphalt and creating brilliant reflections on the car's glossy paint.
+
 ```
 
-### No. 47: 动漫风狐狸少女求抱抱
+### No. 47: Chica zorro estilo anime pidiendo un abrazo
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 051
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark bro...
+Una ilustración estilo anime de una linda chica con {argument name="animal ears" default="fluffy dark brown fox ears"} y el cabello largo y fluido de {argument name="hair color" default="dark brown"}. Ella lleva puesto un {argument name="clothing" default="red and white floral kimono with fur trim"} detallado y un accesorio floral para el cabello con borlas rojas. Ella tiene una {argument name="expression" default="bright happy smile with a slight blush"} y ojos ámbar cálidos, extendiendo ambas manos hacia el espectador en un abrazo de bienvenida. La perspectiva presenta un fuerte acortamiento en sus manos, que están ligeramente desenfocadas. La escena está establecida con {argument name="environment" default="falling snow against a bright white background"}, iluminada por una iluminación suave, cálida y etérea.
 
 #### Prompt
 
 ```text
-An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark brown"} hair. She is wearing a detailed {argument name="clothing" default="red and white floral kimono with fur trim"} and a floral hair accessory with red tassels. She has a {argument name="expression" default="bright happy smile with a slight blush"} and warm amber eyes, reaching both hands forward towards the viewer in a welcoming hug. The perspective features strong foreshortening on her hands, which are slightly out of focus. The scene is set with {argument name="environment" default="falling snow against a bright white background"}, illuminated by soft, warm, ethereal lighting.
+
 ```
 
-### No. 48: 优雅酒吧咖啡桌旁的女性
+### No. 48: Mujer elegante junto a la mesa del bar
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 052
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward wi...
+Una fotografía vertical fotorrealista y espontánea de una mujer sentada en una mesa de madera rustica en el elegante interior de un bar-cafetería de alta gama. Ella está centrada en primer plano, inclinándose hacia adelante con un codo sobre la mesa y su mano sosteniendo su barbilla, transmitiendo una sensación relajada, íntima y editorial de estilo de vida. Tiene el cabello castaño oscuro largo y ondeado partiendose cerca del medio, cayendo sobre ambos hombros, y usa una ajustada camiseta blanca de manga larga con escote en V. En la mesa frente a ella hay exactamente 3 objetos visibles: 1 cóctel color melocotón en una copa ancha coupe a la izquierda, 1 taza de cerámica floral azul y blanca en el centro-derecha, y 1 pequeño florero de vidrio transparente con tallos secos escasos en el extremo derecho. Detrás de ella hay un bar sofisticadamente iluminado con acabados de mármol o piedra, detalles clásicos ornamentados en el techo, estantes de botellas de licor y cristalería, iluminación de barra trasera brillante y un bartender con camisa blanca y delantal oscuro trabajando en suave desenfoque. Incluye taburetes oscuros a lo largo del mostrador y una rica paleta de colores ámbar, crema y marrón. Usa poca profundidad de campo, luz natural interior suave mezclada con iluminación cálida del bar, textura realista de piel y tela, tonos sutiles de película, fotografía de hospitalidad de lujo de alta detalle, tomada a la altura de los ojos con un teléfono inteligente o lente de retrato, composición vertical, atmósfera acogedora de cafetería parisina meets bar de hotel.
 
 #### Prompt
 
 ```text
-A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward with one elbow on the table and her hand supporting her chin, giving a relaxed, intimate, editorial lifestyle feel. She has long, dark brown wavy hair parted near the middle, falling over both shoulders, and wears a fitted white ribbed long-sleeve scoop-neck top. On the table in front of her are exactly 3 visible objects: 1 peach-colored cocktail in a wide coupe glass on the left, 1 blue-and-white floral ceramic mug in the center-right, and 1 small clear glass bottle vase holding sparse dried stems on the far right. Behind her is a warmly lit, sophisticated bar with marble or stone finishes, ornate classical ceiling details, shelves of liquor bottles and glassware, glowing backbar lighting, and a bartender in a white shirt and dark apron working in soft focus. Include dark bar stools along the counter and a rich amber, cream, and brown color palette. Use shallow depth of field, soft natural indoor light mixed with warm bar lighting, realistic skin and fabric texture, subtle filmic tones, high-detail luxury hospitality photography, shot at eye level with a smartphone or portrait lens, vertical composition, cozy Parisian cafe meets hotel bar atmosphere.
+
 ```
 
-### No. 49: 可爱的四格校园社团漫画
+### No. 49: Manga cute de 4 paneles del club escolar
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 053
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Structured text-to-video prompt example for 可爱的四格校园社团漫画.
+Ejemplo de prompt de texto a video estructurado para 可爱的四格校园社团漫画.
 
 #### Prompt
 
@@ -1062,99 +1064,99 @@ Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 {"type":"4-panel manga comic page","style":"clean modern Japanese school-life anime, soft pastel colors, crisp line art, light cel shading, printed manga layout with white gutters and black panel borders, cute slice-of-life atmosphere","format":"vertical full page","theme":"high school club meeting about what activity to do next, ending with a cheerful compromise","text":{"title_top":"{argument name=\"headline text\" default=\"わたしたちの部活日和 🌸\"}","ending_note":"おしまい"},"characters":[{"id":"girl1","appearance":"short pink bob hair with a small ahoge, school uniform with cream cardigan and red ribbon, expressive and energetic"},{"id":"girl2","appearance":"long straight navy-blue hair, calm demeanor, school uniform"},{"id":"girl3","appearance":"short blonde bob, soft cheerful expression, school uniform with red ribbon"},{"id":"girl4","appearance":"long purple hair in a low ponytail, composed and thoughtful, school uniform with grayish top"}],"layout":{"panels":[{"position":"top","count":1,"setting":"club room table by a window, four girls seated with 4 small colorful mugs on the table","speech_bubbles":["部活ミーティング","お菓子作りはどうですか？","いいですね〜！","次の部活は何をするか決めましょうか"]},{"position":"upper-middle","count":1,"setting":"fantasy thought panel with pink sparkly background and floating desserts above the girls","items":{"count":5,"labels":["chocolate cake slice","round cookies","checker cookies","mont blanc cupcake","strawberry shortcake slice"]},"center_text":"わくわく…","speech_bubbles":["クッキーもいいですね！","ケーキとか作ってみたいですね〜"]},{"position":"lower-middle","count":1,"setting":"mood shifts to a dark blue vertical-line background showing practical concerns","speech_bubbles":["材料費もなかなかかかりそう…","時間もかかりそうですし…","部室にオーブンないですしね…","うーん…","はぁ〜"]},{"position":"bottom","count":1,"setting":"bright warm yellow resolution panel with celebratory flower marks","speech_bubbles":["それがいちばん楽しそうっ!!","じゃあ、みんなでお菓子を買ってお茶会にしましょう！","方向転換もきらら部の得意技です♪"]}],"character_count":4,"drink_count":4,"dessert_count":5,"panel_count":4},"composition":"all four girls appear in every panel, medium group shots, readable Japanese speech bubbles, comedic pacing from suggestion to excitement to hesitation to happy conclusion","quality":"polished manga page suitable for social media sharing or a sample of Japanese text rendering"}
 ```
 
-### No. 50: 蒙娜丽莎审查版油画
+### No. 50: Versión censurada de la Mona Lisa al óleo
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 054
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent ...
+Una parodia fiel de la Mona Lisa al óleo en el estilo de una obra maestra de museo del Alto Renacimiento, retrato sentado desde la cintura hacia arriba con las manos cruzadas, vestido marrón oscuro, velo translúcido, iluminación suave dorada-marrón sfumato y el clásico paisaje brumoso con senderos sinuosos, agua y colinas rocosas en el fondo. Reemplazar toda el área del rostro con un solo bloque censor rectangular plano en {argument name="censor color" default="medium brown"}, centrado sobre la cabeza y cubriendo desde la frente hasta la barbilla, con bordes duros limpios que contrastan contra la superficie pictórica. Mantener el cabello visible alrededor del bloque, incluyendo cabello castaño claro peinado con separación en la parte superior y cayendo sobre los hombros. Preservar el aspecto de barniz envejecido, paleta terrestre apagada, textura sutil similar al craquelado y composición de calidad museística solemne. Encuadre vertical, sujeto centrado, proporciones realistas, pincelada de viejo maestro, sombreado dramático pero suave.
 
 #### Prompt
 
 ```text
-A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent veil, soft golden-brown sfumato lighting, and the classic hazy landscape with winding paths, water, and rocky hills in the background. Replace the entire face area with a single flat rectangular censor block in {argument name="censor color" default="medium brown"}, centered over the head and covering from forehead to chin, with clean hard edges that contrast against the painterly surface. Keep the hair visible around the block, including light brown hair parted at the top and falling over the shoulders. Preserve the aged varnish look, muted earthy palette, subtle craquelure-like texture, and solemn museum-quality composition. Vertical framing, centered subject, realistic proportions, old master brushwork, dramatic but soft shading.
+
 ```
 
-### No. 51: 两位女性在复古商店购物
+### No. 51: Dos mujeres comprando en una tienda vintage
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 055
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the l...
+Una fotografía fotorrealista espontánea de dos mujeres asiáticas comprando juntas dentro de una {argument name="store type" default="vintage clothing store"} densamente llena. La mujer de la izquierda tiene el cabello castaño recogido y lleva puesto un {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, llevando un bolso bandolera color crema. Está sosteniendo una {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} en una percha de madera. La mujer de la derecha tiene el cabello en un moño desordenado y lleva puesto un {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, mirando admirativamente la chaqueta. Están de pie en un pasillo estrecho flanqueado por estantes rebosantes de prendas coloridas, con más ropa colgando del techo. La escena presenta {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
 
 #### Prompt
 
 ```text
-A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the left has brown hair tied back and is wearing a {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, carrying a cream shoulder bag. She is holding up a {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} on a wooden hanger. The woman on the right has her hair in a messy bun and is wearing a {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, looking admiringly at the jacket. They are standing in a narrow aisle flanked by overflowing racks of colorful garments, with more clothes hanging from the ceiling. The scene features {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
+
 ```
 
-### No. 52: 日语 AI 编程培训横幅
+### No. 52: Banner de capacitación de programación de IA en japonés
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 056
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified prom...
+Crear un banner corporativo de capacitación en japonés limpio en un formato horizontal ancho de encabezado web con fondo blanco y marca de azul marino profundo. El diseño es un solo banner promocional unificado para un curso de programación de IA. A la izquierda, coloque un pequeño titular en texto japonés en negrita que diga "AIを使いこなす開発者へ" sobre un título dominante muy grande que diga "{argument name="main title" default="ClaudeCode研修"}" en letras de color azul marino oscuro sans-serif pesadas, con "ClaudeCode" especialmente grande y la palabra japonesa final adjunta a la derecha en el mismo estilo. Debajo del título, agregue una barra horizontal azul degradada larga de azul medio a azul muy claro que contenga texto japonés en negrita blanco: "{argument name="subheadline text" default="AI時代の開発を、あなたの武器に。"}". A lo largo de la parte inferior izquierda, organice exactamente 3 insignias de ícono circulares de azul marino en una fila horizontal, cada una con un título corto de dos líneas en japonés a la derecha del ícono. La insignia 1 muestra un símbolo de código </> y el texto "Claude Codeの 基本から実践まで". La insignia 2 muestra una bombilla y el texto "業務効率を高める AI活用スキル". La insignia 3 muestra un gráfico de barras ascendente y el texto "すぐに使える 実践的な内容". En la mitad derecha, coloque un hombre de negocios japonés confiado desde la cintura hacia arriba con los brazos cruzados, usando un traje azul marino oscuro, camisa blanca y corbata a rayas azules, mirando hacia adelante; su rostro está intencionalmente desenfocado o anonimizado. Detrás de él, agregue formas geométricas diagonales superpuestas de azul marino y azul que se extienden desde la parte superior derecha e inferior derecha, además de un panel tecnológico de azul oscuro con líneas de código tenues y un símbolo de llaves rizadas brillante {}. Use un estilo de publicidad de seminario B2B pulido, tipografía nítida, fuerte espacio negativo, degradados sutiles, alto contraste y una atmósfera profesional de capacitación de IA/ingeniería.
 
 #### Prompt
 
 ```text
-Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified promotional banner for an AI programming course. On the left, place a small headline in bold Japanese text reading "AIを使いこなす開発者へ" above a very large dominant title reading "{argument name="main title" default="ClaudeCode研修"}" in heavy sans-serif dark navy lettering, with "ClaudeCode" especially large and the final Japanese word attached on the right in the same style. Beneath the title, add a long horizontal blue gradient bar from medium blue to very light blue containing white bold Japanese text: "{argument name="subheadline text" default="AI時代の開発を、あなたの武器に。"}". Along the bottom left, arrange exactly 3 circular navy icon badges in a horizontal row, each with a short two-line caption in Japanese to the right of the icon. Badge 1 shows a code symbol </> and the text "Claude Codeの 基本から実践まで". Badge 2 shows a light bulb and the text "業務効率を高める AI活用スキル". Badge 3 shows an upward bar chart and the text "すぐに使える 実践的な内容". On the right half, place a confident Japanese businessman from the waist up with arms crossed, wearing a dark navy suit, white shirt, and blue striped tie, facing forward; his face is intentionally soft-focused or anonymized. Behind him, add layered geometric navy and blue diagonal shapes sweeping in from the top right and bottom right, plus a dark blue tech-themed panel with faint code lines and a glowing curly-braces symbol {}. Use a polished B2B seminar advertisement style, crisp typography, strong negative space, subtle gradients, high contrast, and a professional AI/engineering training atmosphere.
+
 ```
 
-### No. 53: 动漫日落电影海报
+### No. 53: Póster de película de anime al atardecer
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 057
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth dr...
+Un póster de película de anime impresionante al atardecer de hora dorada, composición teatral vertical de una hoja, pintado en el estilo cinematográfico pulido de un drama juvenil inspirado en Makoto Shinkai.
 
 #### Prompt
 
 ```text
-A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth drama. The scene overlooks a Japanese coastal hillside town descending toward a glowing bay, with the sun low on the horizon and its reflection stretching across calm water. The sky dominates most of the image: a vast deep-blue to lavender twilight gradient filled with countless stars, wispy pink and peach clouds, and one especially bright star near the upper right. In the foreground on the right, a teenage schoolgirl stands in three-quarter side profile facing left toward the sea, shown from mid-thigh up, with shoulder-length dark hair blowing in the breeze, a short-sleeved white sailor-style school blouse, a red ribbon at the collar, and a navy pleated skirt; her expression is contemplative and wistful. Farther down the steep stone stair street in the center-left, a teenage schoolboy stands with his back to the viewer, wearing a short-sleeved white shirt and dark trousers, also looking toward the sunset and ocean. At the lower right, include 1 black cat sitting on a wall or rooftop edge in silhouette, looking toward the town. At the lower left, include 1 old-fashioned streetlamp and a dense cluster of blooming hydrangeas in blue and violet along a stone wall. The town below is packed with tiled rooftops, narrow streets, warm window lights, and layered houses, with distant mountains framing the bay. Use dramatic rim light, luminous atmospheric perspective, sparkling highlights, delicate cloud detail, and emotional, nostalgic color grading in indigo, ultramarine, pink, peach, and gold. Design it explicitly as a Japanese animated film poster with elegant typography integrated into the artwork: large hand-brushed Japanese title text across the upper-left to center reading {argument name="title text" default="星をつなぐ約束のうた"}, smaller English subtitle beneath it reading {argument name="English subtitle" default="The Song of Promises"}, a small award-laurel line in Japanese at the top left, 1 vertical Japanese tagline along the upper-right edge, 4 cast names in Japanese centered near the bottom, a release date at the lower left reading {argument name="release date" default="8.23"} with "ROADSHOW" below, 1 pink Japanese tagline across the lower center, and a website/social handle at the lower right. Ultra-detailed anime key visual, romantic and melancholic, premium feature-film poster finish.
+Un póster de película de anime impresionante al atardecer de hora dorada, composición teatral vertical de una hoja, pintado en el estilo cinematográfico pulido de un drama juvenil inspirado en Makoto Shinkai. La escena mira hacia una ciudad costera japonesa en una colina que desciende hacia una bahía brillante, con el sol bajo en el horizonte y su reflejo extendiéndose sobre agua calma. El cielo domina la mayor parte de la imagen: un vasto gradiente crepuscular de azul profundo a lavanda lleno de innumerables estrellas, nubes rosadas y melocotón esponjosas, y una estrella especialmente brillante cerca de la parte superior derecha. En primer plano a la derecha, una adolescente escolar está de perfil tres cuartos mirando hacia el mar hacia la izquierda, mostrada desde la mitad del muslo hacia arriba, con cabello oscuro hasta los hombros ondeando con la brisa, una blusa escolar blanca de estilo marinero de manga corta, un cinta roja en el cuello y una falda plisada azul marino; su expresión es contemplativa y melancólica. Más abajo en la calle empinada de escaleras de piedra en el centro-izquierda, un adolescente escolar está de espalda al espectador, usando una camisa blanca de manga corta y pantalones oscuros, también mirando hacia el atardecer y el océano. En la parte inferior derecha, incluya 1 gato negro sentado en un muro o borde del techo en silueta, mirando hacia la ciudad. En la parte inferior izquierda, incluya 1 farola antigua y un grupo denso de hortensias en flor en azul y violeta a lo largo de un muro de piedra. La ciudad abajo está llena de techos de tejas, calles estrechas, luces de ventanas cálidas y casas superpuestas, con montañas distantes enmarcando la bahía. Use luz de borde dramática, perspectiva atmosférica luminosa, destellos brillantes, detalle delicado de nubes y gradación de color emocional y nostálgica en índigo, ultramarino, rosa, melocotón y oro. Diseñarlo explícitamente como un póster de película de animación japonesa con tipografía elegante integrada en la obra de arte: texto de título japonés grande pintado a mano a través de la parte superior izquierda al centro que dice {argument name="title text" default="星をつなぐ約束のうた"}, subtítulo en inglés más pequeño debajo que dice {argument name="English subtitle" default="The Song of Promises"}, una pequeña línea de laurel de premio en japonés en la parte superior izquierda, 1 etiqueta vertical en japonés a lo largo del borde superior derecho, 4 nombres de elenco en japonés centrados cerca de la parte inferior, una fecha de lanzamiento en la parte inferior izquierda que dice {argument name="release date" default="8.23"} con "ROADSHOW" debajo, 1 etiqueta rosa en japonés a través del centro inferior, y un sitio web/manejador de redes sociales en la parte inferior derecha. Visual clave de anime ultra detallado, romántico y melancólico, acabado de póster de película de calidad premium.
 ```
 
-### No. 54: 2x2 日式横幅广告网格
+### No. 54: Cuadrícula de anuncios de banner japonés 2x2
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 058
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Structured text-to-video prompt example for 2x2 日式横幅广告网格.
+Ejemplo de prompt de texto a video estructurado para cuadrícula de anuncios de banner japonés 2x2.
 
 #### Prompt
 
@@ -1162,19 +1164,19 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 { "type": "2x2 grid of Japanese banner advertisements", "quadrants": [ { "position": "top-left", "theme": "skincare product launch", "visuals": "portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles", "text_elements": { "main_copy": "{argument name=\"skincare catchphrase\" default=\"透明感、満ちる。\"}", "sub_copy": "肌が変わると、毎日が変わる。", "brand_name": "SUIREN", "badge": "6.1 NEW Debut" } }, { "position": "top-right", "theme": "European summer travel campaign", "visuals": "back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple", "text_elements": { "english_copy": "Find your Journey", "main_copy": "{argument name=\"travel catchphrase\" default=\"心が動く旅へ。\"}", "badge": "yellow circle with '今だけ！最大20%OFF'", "footer": "blue banner with '初夏のヨーロッパキャンペーン'" } }, { "position": "bottom-left", "theme": "traditional Japanese soup stock", "visuals": "close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi", "text_elements": { "main_copy": "{argument name=\"food catchphrase\" default=\"毎日のごはんを、もっと美味しく。\"}", "product_name": "日々のだし", "sub_copy": "素材のうまみを、まるごと。" } }, { "position": "bottom-right", "theme": "investment app", "visuals": "smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'", "text_elements": { "brand_name": "{argument name=\"finance app name\" default=\"MoneyPath\"}", "main_copy": "未来の自分のために、{argument name=\"finance catchphrase\" default=\"今はじめる資産形成\"}", "badge": "blue circle with '1,000円分のポイントプレゼント！'", "footer": "blue banner with 4 icons and feature text" } } ] }
 ```
 
-### No. 55: 长条伸展虎斑猫
+### No. 55: Gato atigrado estirado vertical
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 059
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an ab...
+Una ilustración minimalista whimsy de un {argument name="cat breed" default="brown tabby kitten"} de pie erguido en el centro exacto de un lienzo vertical muy alto, con un cuerpo absurdamente alargado en forma de fideo estirado desde cerca de la parte superior hasta cerca de la parte inferior de la imagen.
 
 #### Prompt
 
@@ -1182,163 +1184,147 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an absurdly elongated, noodle-like body stretched from near the top to near the bottom of the image. The cat has a small round face with large glossy eyes, a tiny open smiling mouth, upright ears, and both front paws raised straight overhead in a cheering pose, showing 2 visible pink paw pads. Its fur is soft and detailed, with a white muzzle, chest, belly, and inner legs, and brown-and-black tabby stripes along the sides, head, arms, and tail. The body is extremely thin and vertically extended, creating a comical exaggerated proportion, while the hind paws remain tiny and close together at the bottom. Add 1 curved striped tail extending to the lower right side. Above the head, place the playful hand-drawn text "{argument name="caption text" default="nyoooon~"}" in a rounded dark brown font, arched like a semicircle, with 6 short motion lines around the raised paws and text to emphasize stretching. Use a clean off-white or warm light beige background with no scenery, only a faint soft oval shadow beneath the feet. Cute, polished digital illustration style, centered composition, high detail in fur, humorous Japanese sticker or social-media mascot vibe, lots of negative space, extra-tall aspect ratio.
 ```
 
-### No. 56: 照片级写实躺姿肖像
+### No. 56: Retrato realista fotográfico en posición reclinada
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 060
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" ...
+Un retrato altamente detallado y fotorrealista de un {argument name="subject description" default="beautiful young Asian woman"} reclinándose con gracia en un {argument name="furniture" ...
 
 #### Prompt
 
 ```text
-A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" default="white modern sofa"}. She is wearing a {argument name="clothing" default="short white silk slip dress"} with thin straps, her {argument name="hair style" default="long wavy dark brown hair"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name="lighting style" default="soft natural sunlight streaming through a window"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.
+A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" default="white modern sofa"}. She is wearing a {argument name="clothes" default="short white silk slip dress"} with thin straps, her {argument name="hair style" default="long wavy dark brown hair"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name="lighting style" default="soft natural sunlight streaming through a window"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.
 ```
 
-### No. 57: Landscape Transition Music Video
+### No. 57: Video Musical de Transición de Paisaje
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 082
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-@image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
+@image1 @image2 @image3 @image4 @image5 @image6 imágenes de escenas de paisaje, haz referencia al ritmo de la pantalla, estilo visual de transición y ritmo musical de @video para sincronización de ritmo.
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
+@image1 @image2 @image3 @image4 @image5 @image6 imágenes de escenas de paisaje, haz referencia al ritmo de la pantalla, estilo visual de transición y ritmo musical de @video para sincronización de ritmo.
 ```
 
-### No. 58: Parkour Chase Sequence
+### No. 58: Secuencia de Persecución Parkour
 
 - **Categoria:** `Atlas Generated T2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 083
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlook...
+@image1 @image2 @image3 @image4 @image5, un plano secuencia continuo, siguiendo al corredor desde la calle subiendo escaleras, por pasillos, entrando al tejado, finalmente contemplando...
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlooking the city.
+@image1 @image2 @image3 @image4 @image5, un plano secuencia continuo, siguiendo al corredor desde la calle subiendo escaleras, por pasillos, entrando al tejado, finalmente contemplando la ciudad.
 ```
 
 <a id="category-7"></a>
 
-### Atlas Generated I2V (44)
+### Atlas Generado I2V (2)
 
-### No. 59: Storyboard Cinematic
+### No. 59: Guión Gráfico Cinematográfico
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
 - **Autor:** Atlas Generated 030
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
+Muéstrame en esta historia. Sigue la historia exactamente en orden comenzando desde arriba a la izquierda. Historia completa en 10 segundos. Cinematográfico.
 
 #### Prompt
 
 ```text
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
+Muéstrame en esta historia. Sigue la historia exactamente en orden comenzando desde arriba a la izquierda. Historia completa en 10 segundos. Cinematográfico.
 ```
 
-### No. 60: Burger Assembly
+### No. 60: Montaje de Hamburguesa
 
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Categoria:** `Atlas Generado I2V`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
 - **Autor:** Atlas Generated 031
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one...
+Anuncio premium de comida con movimiento cinético de cámara. Usa la referencia de ingredientes para construir una hamburguesa gourmet en el aire. Piezas de lechuga, tomate, cebolla, queso, carne y pan levitan una...
 
 #### Prompt
 
 ```text
-Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one by one, rotate elegantly, then snap together into a perfect hero burger with floating crumbs and dramatic studio lighting.
+Anuncio premium de comida con movimiento cinético de cámara. Usa la referencia de ingredientes para construir una hamburguesa gourmet en el aire. Las piezas de lechuga, tomate, cebolla, queso, carne y pan levitan una por una, rotan elegantemente y luego se unen en una hamburguesa perfecta con migas flotantes e iluminación de estudio dramática.
 ```
 
-### No. 61: Paper Typography
+<a id="category-8"></a>
+
+### Atlas Generated I2V (41)
+
+### No. 61: Tipografía de Papel
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 032
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast rea...
-
-#### Prompt
-
-```text
-Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast realistic shadows, and slide across the screen with elegant camera parallax.
-```
-
-### No. 62: Logo Reveal
-
-- **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
-- **Autor:** Atlas Generated 033
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4" controls muted playsinline width="720"></video>
-
-#### Descricao
-
-High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric ...
+Animación de gráficos en movimiento impulsada por la composición de referencia. Convierte la obra de texto de referencia en una secuencia de títulos de papel artesanal. Las letras aparecen rítmicamente, proyectan sombras realistas y se deslizan por la pantalla con un elegante paralaje de cámara.
 
 #### Prompt
 
 ```text
-High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric light beams while the camera pushes in for a polished technology brand reveal.
+Animación de gráficos en movimiento impulsada por la composición de referencia. Convierte la obra de texto de referencia en una secuencia de títulos de papel artesanal. Las letras aparecen rítmicamente, proyectan sombras realistas y se deslizan por la pantalla con un elegante paralaje de cámara.
 ```
 
-### No. 63: Elegant Laundry Scene
+### No. 62: Escena elegante de lavandería
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 061
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
+Toma de cámara fija, una niña cuelga elegantemente la ropa para secar, después de terminar saca otra pieza de la cesta y agita la ropa vigorosamente.
 
 #### Prompt
 
@@ -1346,699 +1332,699 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
 ```
 
-### No. 64: Interactive Painting Character
+### No. 63: Personaje de Pintura Interactiva
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 062
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and t...
+El personaje en la pintura tiene una expresión culpable, los ojos mirando a izquierda y derecha, luego asoma la cabeza fuera del marco, extiende rápidamente su mano fuera del marco para agarrar una cola y se...
 
 #### Prompt
 
 ```text
-The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and takes a sip, then shows a satisfied expression. At this moment, footsteps are heard, and the character in the painting quickly puts the cola back in place. Then a Western cowboy picks up the cola from the cup and walks away. Finally, the camera pushes forward and the screen gradually becomes pure black background with only top lighting illuminating the canned cola. At the bottom of the screen, artistic subtitles and voiceover appear: 'Yikou Cola, a must-try!'
+El personaje en la pintura tiene una expresión culpable, los ojos mirando a izquierda y derecha, luego asoma la cabeza fuera del marco, extiende rápidamente su mano fuera del marco para agarrar una cola y toma un sorbo, luego muestra una expresión satisfecha. En este momento, se escuchan pasos, y el personaje en la pintura vuelve a colocar rápidamente la cola en su lugar. Luego un vaquero occidental toma la cola de la taza y se aleja. Finalmente, la cámara avanza y la pantalla se vuelve gradualmente negro puro con solo iluminación superior iluminando la lata de cola. En la parte inferior de la pantalla, aparecen subtítulos artísticos y voz en off: 'Yikou Cola, ¡una experiencia imprescindible!'
 ```
 
-### No. 65: Victorian Street Scene
+### No. 64: Escena Callejera Victoriana
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 063
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th ce...
+La cámara se aleja ligeramente (revelando la vista completa de la calle) y sigue a la protagonista femenina moviéndose. El viento sopla el dobladillo de su vestido mientras camina por las calles del siglo XIX...
 
 #### Prompt
 
 ```text
-Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th century London. As she walks, a steam car drives by from the right side of the street, passing quickly by her side. The wind lifts the hem of her dress, and she looks shocked and quickly uses both hands to hold down her skirt. Background sound effects include footsteps, crowd sounds, car sounds, etc.
+La cámara se aleja ligeramente (revelando la vista completa de la calle) y sigue a la protagonista femenina moviéndose. El viento sopla el dobladillo de su vestido mientras camina por las calles del Londres del siglo XIX. Mientras camina, un automóvil de vapor pasa conduciendo desde el lado derecho de la calle, pasando rápidamente a su lado. El viento levanta el dobladillo de su vestido, y ella parece shockada y rápidamente usa ambas manos para sostener su falda. Los efectos de sonido de fondo incluyen pasos, sonidos de multitudes, sonidos de automóviles, etc.
 ```
 
-### No. 66: Magnetic Bow Product Showcase
+### No. 65: Exhibición de Producto de Lazo Magnético
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 064
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover...
+0-2 segundos: Corte rápido de cuatro paneles, rojo, rosa, púrpura, cuatro lazos de mariposa de print leopardo se congelan en secuencia, primer plano del brillo de satén y la marca 'chéri'. Voz en off...
 
 #### Prompt
 
 ```text
-0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover 'Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 seconds: Close-up of silver magnetic clasp 'click' snapping together, then gently pulling apart, showing silky texture and convenience. Voiceover '단 1초 만에 잠그고, 최고의 스타일을 완성하세요!' 7-12 seconds: Quick scene switching: burgundy style pinned on coat collar, commuter vibe maxed out; pink style tied in ponytail, sweet girl going out; purple style tied on bag strap, niche and sophisticated; leopard print style hung on suit collar, spicy girl aura fully open. Voiceover '코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!' 13-15 seconds: Four butterfly bows displayed side by side, brand name 'chéri, 당신에게 즉각적인 아름다움을 선사합니다!'
+0-2 segundos: Corte rápido de cuatro paneles, rojo, rosa, púrpura, cuatro lazos de mariposa de print leopardo se congelan en secuencia, primer plano del brillo de satén y la marca 'chéri'. Voz en off '¡Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 segundos: Primer plano de la hebilla magnética plateada 'clic' uniéndose, luego separándose suavemente, mostrando textura sedosa y conveniencia. Voz en off '¡단 1초 만에 잠그고, 최고의 스타일을 완성하세요!' 7-12 segundos: Cambio rápido de escena: estilo borgoña sujeto en el cuello del abrigo, vibra de commute al máximo; estilo rosa atado en cola de caballo, chica dulce saliendo; estilo púrpura atado en la correa del bolso, nicho y sofisticado; estilo print leopardo colgado en el cuello del traje, aura de chica picante completamente abierta. Voz en off '¡코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!' 13-15 segundos: Cuatro lazos de mariposa exhibidos uno al lado del otro, nombre de marca 'chéri, ¡te ofrece belleza instantánea!'
 ```
 
-### No. 67: Horror First-Person Exploration
+### No. 66: Exploración de Horror en Primera Persona
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 065
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @i...
+Usa @image1 como el primer cuadro de la pantalla, perspectiva en primera persona, referencia el efecto de movimiento de cámara de @video1, escena superior referencia @image2, escena izquierda referencia @i...
 
 #### Prompt
 
 ```text
-Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @image3, right scene references @image4.
+Usa @image1 como el primer cuadro de la pantalla, perspectiva en primera persona, referencia el efecto de movimiento de cámara de @video1, escena superior referencia @image2, escena izquierda referencia @image3, escena derecha referencia @image4.
 ```
 
-### No. 68: Martial Arts Combat Scene
+### No. 67: Escena de Combate de Artes Marciales
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 066
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
+Referencia @image1 @image2 personaje con lanza larga, @image3 @image4 personaje con espadas duales, imita los movimientos de @video1, luchando en el bosque de arces de @image5.
 
 #### Prompt
 
 ```text
-Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
+Referencia @image1 @image2 personaje con lanza larga, @image3 @image4 personaje con espadas duales, imita los movimientos de @video1, luchando en el bosque de arces de @image5.
 ```
 
-### No. 69: Car Commercial Cinematography
+### No. 68: Cinematografía de Comercial de Coche
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 067
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
+Referencia los movimientos de cámara y el ritmo de transición de escena del video 1, replica usando el supercoche rojo de la imagen 1.
 
 #### Prompt
 
 ```text
-Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
+Referencia los movimientos de cámara y el ritmo de transición de escena del video 1, replica usando el supercoche rojo de la imagen 1.
 ```
 
-### No. 70: Abstract Instant Noodles
+### No. 69: Fideos Instantáneos Abstractos
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 068
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
+El personaje de @image1 referencia los movimientos y cambios de expresión facial en @video1, mostrando comportamiento abstracto de comer fideos instantáneos.
 
 #### Prompt
 
 ```text
-The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
+El personaje de @image1 referencia los movimientos y cambios de expresión facial en @video1, mostrando comportamiento abstracto de comer fideos instantáneos.
 ```
 
-### No. 71: Childhood Seasons Documentary
+### No. 70: Documental de las Estaciones de la Infancia
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 069
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second he...
+Referencia el guión del storyboard del documental de @image1, referencia las divisiones de plano, tipos de plano, movimientos de cámara, elementos visuales y texto de @image1, crea una apertura curativa de 15 segundos sobre 'Las Cuatro Estaciones de la Infancia'.
 
 #### Prompt
 
 ```text
-Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second healing opening about 'Childhood Four Seasons'.
+Referencia el guión del storyboard del documental de @image1, referencia las divisiones de plano, tipos de plano, movimientos de cámara, elementos visuales y texto de @image1, crea una apertura curativa de 15 segundos sobre 'Las Cuatro Estaciones de la Infancia'.
 ```
 
-### No. 72: Donkey Motorcycle Stunt Ad
+### No. 71: Anuncio de Stunt de Burro en Motocicleta
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 070
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle...
+Extiende video de 15s, referencia la imagen del burro montando motocicleta de @image1 y @image2, complementa un anuncio creativo. Escena 1: Cámara fija lateral, el burro monta motocicleta saliendo del gallinero, los pollos al lado se asustan. Escena 2: El burro monta motocicleta circulando en terreno arenoso, primer plano de la llanta de la motocicleta, luego corte a toma área superior de la cabeza del burro montando motocicleta haciendo acrobacias circulares, levantando humo. Escena 3: El fondo es toma de montaña nevada, el burro monta la bicicleta saltando desde la ladera, el eslogan publicitario aparece detrás del sujeto, a través de la forma de enmascaramiento (cuando el burro y la motocicleta pasan volando) 'Inspire Creativity, Enrich Life' aparece en el medio, finalmente cuando la motocicleta pasa volando, levantando una nube de polvo.
 
 #### Prompt
 
 ```text
-Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle rushing out of the barn, chickens beside are startled. Scene 2: Donkey rides motorcycle circling in sandy ground, first close-up of motorcycle tire, then cut to mid-air overhead shot of donkey riding motorcycle doing circling stunts, raising smoke. Scene 3: Background is snowy mountain shot, donkey rides the bike leaping from the hillside, advertising slogan appears behind the subject, through masking form (when donkey and motorcycle fly past) 'Inspire Creativity, Enrich Life' appears in the middle, finally as the motorcycle flies past, raising a cloud of dust.
+Extiende video de 15s, referencia la imagen del burro montando motocicleta de @image1 y @image2, complementa un anuncio creativo. Escena 1: Cámara fija lateral, el burro monta motocicleta saliendo del gallinero, los pollos al lado se asustan. Escena 2: El burro monta motocicleta circulando en terreno arenoso, primer plano de la llanta de la motocicleta, luego corte a toma área superior de la cabeza del burro montando motocicleta haciendo acrobacias circulares, levantando humo. Escena 3: El fondo es toma de montaña nevada, el burro monta la bicicleta saltando desde la ladera, el eslogan publicitario aparece detrás del sujeto, a través de la forma de enmascaramiento (cuando el burro y la motocicleta pasan volando) 'Inspire Creativity, Enrich Life' aparece en el medio, finalmente cuando la motocicleta pasa volando, levantando una nube de polvo.
 ```
 
-### No. 73: Office Building Documentary
+### No. 72: Documental de Edificio de Oficinas
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 071
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual...
+Basado en las fotos promocionales del edificio de oficinas proporcionado, genera un documental inmobiliario cinemático realista de 15 segundos, usando pantalla panorámica 2.35:1, 24fps, estilo visual delicado...
 
 #### Prompt
 
 ```text
-Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual style. The narrator's voice tone references @video1, filming 'Office Building Ecology', presenting the operations of different enterprises in the building, combined with narration explaining how the office building becomes a vibrant commercial ecosystem.
+Basado en las fotos promocionales del edificio de oficinas proporcionado, genera un documental inmobiliario cinemático realista de 15 segundos, usando pantalla panorámica 2.35:1, 24fps, estilo visual delicado. El tono de voz del narrador referencia @video1, filmando 'Ecología del Edificio de Oficinas', presentando las operaciones de diferentes empresas en el edificio, combinado con narración explicando cómo el edificio de oficinas se convierte en un ecosistema comercial vibrante.
 ```
 
-### No. 74: 迦梨女神神话写实主义视频提示词，适用于 Seedance 2.0
+### No. 73: Indicación de Video Mitológico Realista de la Diosa Kali, aplicable a Seedance 2.0
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 072
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
+Noche, calles indias envueltas en niebla. Una mujer misteriosa vestida con un sari de color rojo oscuro camina tranquilamente. Su sombra revela lentamente múltiples brazos a ambos lados. Sus ojos emite una luz tenue. Cuando pasa, los perros y los animales se inclinan en reverencia. Un relámpago revela que ella es la diosa Kali disfrazada. Mitológico realismo extremo cinematográfico, atmósfera misteriosa.
 
 #### Prompt
 
 ```text
-夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
+Noche, calles indias envueltas en niebla. Una mujer misteriosa vestida con un sari de color rojo oscuro camina tranquilamente. Su sombra revela lentamente múltiples brazos a ambos lados. Sus ojos emite una luz tenue. Cuando pasa, los perros y los animales se inclinan en reverencia. Un relámpago revela que ella es la diosa Kali disfrazada. Mitológico realismo extremo cinematográfico, atmósfera misteriosa.
 ```
 
-### No. 75: 高速魔法森林之旅
+### No. 74: Viaje Mágico de Alta Velocidad por el Bosque
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 073
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
+Animación 3D dinámica de alta calidad de un viaje mágico de alta velocidad por el bosque. Un grupo de jinetes vestidos con elaborados disfraces fantásticos, montando criaturas mágicas brillantes, incluyendo un lobo fantasmal brillante, un ciervo de cristal centelleante, un búho幻影巨大 y un leopardo fantasmal. Están galopando a través de un bosque encantador lleno de cristales brillantes gigantes. La escena está llena de niebla voluminosa, iluminación dramática, rastros de partículas mágicas. Movimientos de cámara dinámicos y rápidos crean una fuerte sensación de impulso hacia adelante. Transiciones de video fluidas, 15 segundos de ritmo rápido, y secuencias visuales dinámicas.
 
 #### Prompt
 
 ```text
-高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
+Animación 3D dinámica de alta calidad de un viaje mágico de alta velocidad por el bosque. Un grupo de jinetes vestidos con elaborados disfraces fantásticos, montando criaturas mágicas brillantes, incluyendo un lobo fantasmal brillante, un ciervo de cristal centelleante, un búho幻影巨大 y un leopardo fantasmal. Están galopando a través de un bosque encantador lleno de cristales brillantes gigantes. La escena está llena de niebla voluminosa, iluminación dramática, rastros de partículas mágicas. Movimientos de cámara dinámicos y rápidos crean una fuerte sensación de impulso hacia adelante. Transiciones de video fluidas, 15 segundos de ritmo rápido, y secuencias visuales dinámicas.
 ```
 
-### No. 76: 总监级运镜提示词
+### No. 75: Indicaciones de movimiento de cámara de nivel director
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 074
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-@Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
+@Image1@Image2@Image3, un plano secuencia continuo, siguiendo a un corredor desde la calle subiendo las escaleras, atravesando pasillos, entrando al techo, y finalmente contemplando toda la ciudad.
 
 #### Prompt
 
 ```text
-@Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
+@Image1@Image2@Image3, un plano secuencia continuo, siguiendo a un corredor desde la calle subiendo las escaleras, atravesando pasillos, entrando al techo, y finalmente contemplando toda la ciudad.
 ```
 
-### No. 77: 电影级拉力赛车场景
+### No. 76: Escena de carrera de rally de nivel cinematográfico
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 075
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
+Una escena de carrera cinematográfica. En Europa a principios de los años 2000, nevando, acción cinematográfica, un auto de rally antiguo.
 
 #### Prompt
 
 ```text
-一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
+Una escena de carrera cinematográfica. En Europa a principios de los años 2000, nevando, acción cinematográfica, un auto de rally antiguo.
 ```
 
-### No. 78: 邵氏风格打斗场面
+### No. 77: Escena de combate al estilo Shaw
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 076
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
+Crear una escena de combate entre dos personas, buscando presentar el estilo de las películas Shaw. La acción debe ser fluida e intensa, manteniendo la consistencia de los personajes.
 
 #### Prompt
 
 ```text
-创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
+Crear una escena de combate entre dos personas, buscando presentar el estilo de las películas Shaw. La acción debe ser fluida e intensa, manteniendo la consistencia de los personajes.
 ```
 
-### No. 79: 阿努比斯挠痒痒场景
+### No. 78: Escena de cosquillas de Anubis
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 077
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis)...
+En una escena con estilo de animación 3D china moderna, el poderoso dios Anubis está sentado en su trono con las manos en la cabeza. Una persona se acerca a él. Anubis le dice a esa persona con un tono casual y aburrido que necesita hacerlo reír. Esa persona sonríe ampliamente y estira la mano para hacer cosquillas en las axilas de Anubis, lo cual hace que Anubis se vea muy confundido. La cámara se acerca, mostrando un primer plano de los dedos de esa persona moviéndose en las axilas de Anubis...
 
 #### Prompt
 
 ```text
-在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis) 腋窝里摆动的手指。阿努比斯 (Anubis) 立刻咧嘴一笑，闭上眼睛，发出一声低沉、压抑的笑声，因为他怕痒。那个人继续挠阿努比斯 (Anubis) 的腋窝，阿努比斯 (Anubis) 闭着眼睛不停地咯咯笑，然后抱住自己以保护腋窝。笑了好几声后，阿努比斯 (Anubis) 告诉那个人他做得很好，可以离开了。
+En una escena con estilo de animación 3D china moderna, el poderoso dios Anubis está sentado en su trono con las manos en la cabeza. Una persona se acerca a él. Anubis le dice a esa persona con un tono casual y aburrido que necesita hacerlo reír. Esa persona sonríe ampliamente y estira la mano para hacer cosquillas en las axilas de Anubis, lo cual hace que Anubis se vea muy confundido. La cámara se acerca, mostrando un primer plano de los dedos de esa persona moviéndose en las axilas de Anubis. Anubis inmediatamente sonríe, cierra los ojos y deja escapar una risa baja y ahogada, porque le hacen cosquillas. Esa persona continúa haciendo cosquillas en las axilas de Anubis, y Anubis no para de reír con los ojos cerrados, luego se abraza a sí mismo para proteger sus axilas. Después de varias risas, Anubis le dice a esa persona que lo hizo muy bien y que puede irse.
 ```
 
-### No. 80: Turbulent Sea Galleon 电影级提示词
+### No. 79: Turbulent Sea Galleon Indicación de nivel cinematográfico
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 078
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰...
+Una luna nueva emite una luz pálida, sobre un mar verde esmeralda tormentoso. Un imponente galeón del siglo XVIII navega rompiendo las olas, con las velas hinchadas. La cámara se lanza en picado desde las nubes de tormenta como un halcón, rozando la superficie del mar agitado. La popa ornamentada del barco se vuelve enorme, con exquisitas ventanas de vitrales enmarcando el camarote del capitán. Mientras el barco se sacude violentamente, la cámara atraviesa sin problemas un cristal, entrando en un camarín inesperadamente tranquilo con velas parpadeantes. Un loro multicolores duerme plácidamente en una percha de bronce suspendida, sin perturbaciones de la tormenta...
 
 #### Prompt
 
 ```text
-一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰。镜头滑过这只鸟，然后无缝地穿过一个侧舷窗离开。它高高地掠过夜空，巨大的船只在水面上缩小成一个玩具。海浪拍打的声音逐渐消失，归于寂静。
+Una luna nueva emite una luz pálida, sobre un mar verde esmeralda tormentoso. Un imponente galeón del siglo XVIII navega rompiendo las olas, con las velas hinchadas. La cámara se lanza en picado desde las nubes de tormenta como un halcón, rozando la superficie del mar agitado. La popa ornamentada del barco se vuelve enorme, con exquisitas ventanas de vitrales enmarcando el camarote del capitán. Mientras el barco se sacude violentamente, la cámara atraviesa sin problemas un cristal, entrando en un camarín inesperadamente tranquilo con velas parpadeantes. Un loro multicolores duerme plácidamente en una percha de bronce suspendida, sin perturbaciones de la tormenta. La cámara se desliza junto al ave y sale sin problemas por una escotilla lateral. Se eleva alto en el cielo nocturno, con el enorme barco reduciéndose a un juguete sobre la superficie del agua. El sonido de las olas golpeando se desvanece en silencio.
 ```
 
-### No. 81: 赛博朋克电影：夜间追逐与武士刀格斗
+### No. 80: Película Cyberpunk: Persecución Nocturna y Combate con Katana
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 079
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，...
+Ella muestra las artes marciales más impresionantes. Grita con acento macedonio: "Esto es See dance 2.0, solo usa el primer fotograma." Persecución cinematográfica en una noche lluviosa de Tokio cyberpunk: un Nissan GT-R Nismo negro mate corre a 200 km/h por calles neon mojadas, las ruedas salpican agua, los faros cortan la lluvia torrencial. Cherry Blackcloud (20 años, rasgos macedonios, coleta alta negra ondeando, flequillo recto, ojo derecho cibernético azul hielo brillante) tiene un estilo de conducción agresivo - chaqueta de cuero negra McQueen completamente cerrada, usada directamente sobre piel expuesta, falda corta de cuero negra, cremalleras plateadas visibles, piernas descubiertas, botas negras platformadas pesadas en los pedales, katana atada al asiento del pasajero. La cámara comienza como un plano de seguimiento gran angular al lado del GT-R, luego se introduce rápidamente, atravesando el parabrisas empañado por la lluvia, primer plano de la cara concentrada de Cherry (ojo izquierdo marrón oscuro ardiendo, ojo derecho emitiendo luz azul cian). Ella mira el espejo retrovisor - drones perseguidores se acercan con láser rojo. Cherry (acento macedonio pesado, grave y autoritario, ahogando el rugido del motor): "Creen que pueden atraparme." Ella reduce de marcha bruscamente, la parte trasera del GT-R se balancea, luego completa un derrape perfecto de 180 grados - neumáticos chillando, salpicaduras de agua. El mango de la katana brilla con la luz tenue del tablero azul cian. Ella extiende la mano, agarra la katana durante el derrape, abre la puerta del conductor mientras se desliza, se asoma hacia la lluvia, trazando un arco preciso - la hoja de la katana emite luz azul cian, dividiendo el drone líder en dos entre chispas y metal fundido. Cherry (sonriendo con sarcasmo, voz穿透风雨): "Hoy no." Ella cierra la puerta de un golpe, pisa el acelerador - el GT-R se lanza hacia adelante, reflejos de neones trazan líneas sobre la pintura negra mojada. La cámara se aleja rápidamente en plano gran angular: el auto desaparece en la noche lluviosa, los drones explotan en esferas de fuego naranja detrás. Último fotograma: el ojo cibernético de Cherry parpadea, ella desaparece en la esquina. Fundido a negro. Estilo y especificaciones técnicas de Seedance 2.0: Estilo de acción好莱坞 cinematográfico de nivel de película, imagen de nivel de cine ARRI Alexa, tonos naranja-azul, lluvia realista realista, reflejos húmedos en gotas de lluvia y automóviles negros y cuero, alto rango dinámico, 60fps, flares de lente dramáticos de neones y explosiones, grano de película fino, sin artefactos, coreografía de acrobacias reales intensas, cinematografía dinámica (seguimiento, introducción, demostración de derrape de 180 grados, alejamiento rápido).
 
 #### Prompt
 
 ```text
-她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，赛博格冰蓝色右眼发光）驾驶风格激进——黑色 McQueen 皮夹克完全拉链，直接穿在裸露的皮肤上，短款黑色皮裙，银色拉链清晰可见，双腿裸露，脚踩厚重的黑色厚底靴，放在踏板上，武士刀绑在乘客座位上。镜头开始是 GT-R 旁边的广角跟踪镜头，然后快速推入，穿过雨水模糊的挡风玻璃，特写 Cherry 专注的脸（左眼深棕色燃烧，右眼发出青色光芒）。她瞥了一眼后视镜——追击的无人机带着红色激光逼近。Cherry（浓重的马其顿口音，低沉而威严，盖过引擎轰鸣声）：“他们以为能把我困住。”她猛地降档，GT-R 车尾甩动，然后完美地完成 180 度漂移——轮胎尖叫，水花四溅。武士刀刀柄在青色仪表盘的微光中闪烁。她伸手过去，在漂移中抓住武士刀，侧滑时打开驾驶员车门，探出身子进入雨中，划出一道精确的弧线——武士刀刀刃发出青色光芒，在火花和熔融金属的飞溅中将领头无人机一分为二。Cherry（嘲讽地笑，声音穿透风雨）：“今天不行。”她猛地关上车门，踩下油门——GT-R 疾驰向前，霓虹灯的倒影在湿漉漉的黑色车漆上划过。镜头快速拉回广角：汽车消失在雨夜中，无人机在身后爆炸成橙色火球。最后一帧：Cherry 的赛博眼闪烁了一下，她消失在拐角处。渐隐至黑。Seedance 2.0 的风格与技术说明：电影级写实好莱坞动作大片风格，ARRI Alexa 电影级画面，青橙色调，逼真的大雨，雨滴和黑色汽车及皮革上的湿润反光，高动态范围，60fps，霓虹灯和爆炸产生的戏剧性变形镜头光晕，细微的胶片颗粒，无伪影，激烈的实景特技编排，动态摄影（跟踪、推入、180 度漂移展示、快速拉回）。
+Ella muestra las artes marciales más impresionantes. Grita con acento macedonio: "Esto es See dance 2.0, solo usa el primer fotograma." Persecución cinematográfica en una noche lluviosa de Tokio cyberpunk: un Nissan GT-R Nismo negro mate corre a 200 km/h por calles neon mojadas, las ruedas salpican agua, los faros cortan la lluvia torrencial. Cherry Blackcloud (20 años, rasgos macedonios, coleta alta negra ondeando, flequillo recto, ojo derecho cibernético azul hielo brillante) tiene un estilo de conducción agresivo - chaqueta de cuero negra McQueen completamente cerrada, usada directamente sobre piel expuesta, falda corta de cuero negra, cremalleras plateadas visibles, piernas descubiertas, botas negras platformadas pesadas en los pedales, katana atada al asiento del pasajero. La cámara comienza como un plano de seguimiento gran angular al lado del GT-R, luego se introduce rápidamente, atravesando el parabrisas empañado por la lluvia, primer plano de la cara concentrada de Cherry (ojo izquierdo marrón oscuro ardiendo, ojo derecho emitiendo luz azul cian). Ella mira el espejo retrovisor - drones perseguidores se acercan con láser rojo. Cherry (acento macedonio pesado, grave y autoritario, ahogando el rugido del motor): "Creen que pueden atraparme." Ella reduce de marcha bruscamente, la parte trasera del GT-R se balancea, luego completa un derrape perfecto de 180 grados - neumáticos chillando, salpicaduras de agua. El mango de la katana brilla con la luz tenue del tablero azul cian. Ella extiende la mano, agarra la katana durante el derrape, abre la puerta del conductor mientras se desliza, se asoma hacia la lluvia, trazando un arco preciso - la hoja de la katana emite luz azul cian, dividiendo el drone líder en dos entre chispas y metal fundido. Cherry (sonriendo con sarcasmo, voz穿透风雨): "Hoy no." Ella cierra la puerta de un golpe, pisa el acelerador - el GT-R se lanza hacia adelante, reflejos de neones trazan líneas sobre la pintura negra mojada. La cámara se aleja rápidamente en plano gran angular: el auto desaparece en la noche lluviosa, los drones explotan en esferas de fuego naranja detrás. Último fotograma: el ojo cibernético de Cherry parpadea, ella desaparece en la esquina. Fundido a negro. Estilo y especificaciones técnicas de Seedance 2.0: Estilo de acción cinematográfica de nivel de película, imagen de nivel de cine ARRI Alexa, tonos naranja-azul, lluvia realista realista, reflejos húmedos en gotas de lluvia y automóviles negros y cuero, alto rango dinámico, 60fps, flares de lente dramáticos de neones y explosiones, grano de película fino, sin artefactos, coreografía de acrobacias reales intensas, cinematografía dinámica (seguimiento, introducción, demostración de derrape de 180 grados, alejamiento rápido).
 ```
 
-### No. 82: 星际巡洋舰追逐与零重力内部场景
+### No. 81: Persecución de Crucero Estelar y Escena de Gravedad Cero Interior
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 080
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。...
+Un panorama interestelar vibrante, enmarcado por nebulosas púrpuras giratorias. Un Crucero Estelar plateado y aerodinámico navega silenciosamente en el vacío cósmico. La cámara avanza a velocidad de la luz, superando rápidamente la nave. Las estructuras geométricas luminosas del Crucero se vuelven enormes, revelando una ventana de observación panorámica. La cámara se sincroniza con la increíble velocidad de la nave, atravesando sin problemas el aluminio transparente. En el tranquilo salón de gravedad cero, un niño flota en el aire, dibujando suavemente en una tableta digital bajo la luz ambiental de las estrellas. La cámara flota junto al niño, atravesando la ventana de observación opuesta.
 
 #### Prompt
 
 ```text
-一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。它向上掠过，展现出飞船在群星映衬下逐渐缩小的宏伟规模。一声深沉的次低音嗡鸣声逐渐消失，归于寂静。
+Un panorama interestelar vibrante, enmarcado por nebulosas púrpuras giratorias. Un Crucero Estelar plateado y aerodinámico navega silenciosamente en el vacío cósmico. La cámara avanza a velocidad de la luz, superando rápidamente la nave. Las estructuras geométricas luminosas del Crucero se vuelven enormes, revelando una ventana de observación panorámica. La cámara se sincroniza con la increíble velocidad de la nave, atravesando sin problemas el aluminio transparente. En el tranquilo salón de gravedad cero, un niño flota en el aire, dibujando suavemente en una tableta digital bajo la luz ambiental de las estrellas. La cámara flota junto al niño, atravesando la ventana de observación opuesta. Se eleva hacia arriba, mostrando la escala majestuosa de la nave reduciéndose contra las estrellas. Un profundo zumbido de subgraves se desvanece gradualmente hacia el silencio.
 ```
 
-### No. 83: 多角色机舱对话场景
+### No. 82: Escena de Diálogo de Múltiples Personajes en Cabina
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 081
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image...
+Los números en 【@Image 1】 representan números de fila. Estos números son solo de referencia y deben eliminarse en el video. Todo el contenido de referencia debe preservar el 100% de su estilo artístico y características de personajes. Personajes de diferentes estilos artísticos entran y se sientan en sus asientos. 【@Image 2】 se sienta en el asiento izquierdo de la fila 1, ella dice felizmente: "Mi asiento es 1A." 【@Image 3】 se sienta en el asiento derecho de la fila 2, ella dice tristemente en japonés: "Mi asiento es 2C." 【@Image...
 
 #### Prompt
 
 ```text
-【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image 4】坐在第 3 排的右边座位上，她用普通话害怕地说：“我的座位是 3B。” 【@Image 5】坐在第 4 排的左边座位上，她用西班牙语生气地说：“我的座位是 4D。” 【@Image 6】坐在第 5 排的左边座位上，她用粤语厌恶地说：“我的座位是 5A。” 【@Image 7】坐在第 6 排的右边座位上，她用韩语疯狂地喊道：“我的座位是 6D。” 固定机位。一个连续镜头，角色们依次走进来并入座。
+Los números en 【@Image 1】 representan números de fila. Estos números son solo de referencia y deben eliminarse en el video. Todo el contenido de referencia debe preservar el 100% de su estilo artístico y características de personajes. Personajes de diferentes estilos artísticos entran y se sientan en sus asientos. 【@Image 2】 se sienta en el asiento izquierdo de la fila 1, ella dice felizmente: "Mi asiento es 1A." 【@Image 3】 se sienta en el asiento derecho de la fila 2, ella dice tristemente en japonés: "Mi asiento es 2C." 【@Image 4】 se sienta en el asiento derecho de la fila 3, ella dice con miedo en mandarín: "Mi asiento es 3B." 【@Image 5】 se sienta en el asiento izquierdo de la fila 4, ella dice con enfado en español: "Mi asiento es 4D." 【@Image 6】 se sienta en el asiento izquierdo de la fila 5, ella dice con disgusto en cantonés: "Mi asiento es 5A." 【@Image 7】 se sienta en el asiento derecho de la fila 6, ella grita locamente en coreano: "Mi asiento es 6D." Cámara fija. Un plano continuo donde los personajes entran uno por uno y se sientan.
 ```
 
-### No. 84: 高端商业广告：AURORA FIZZ
+### No. 83: Anuncio Comercial de Alta Gamma: AURORA FIZZ
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 084
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核...
+Anuncio Comercial de Alta Gamma — AURORA FIZZ 00: 00 – 00: 02 | Entrada Relámpago Acción: La lata de AURORA FIZZ vuela desde arriba hacia el marco, girando rápidamente alrededor del eje vertical. Efectos Visuales: Desenfoque de movimiento nítido. Los patrones de cítricos dorados se transforman en rayos de luz brillantes. La lata se detiene con precisión en el centro del marco — la etiqueta perfectamente orientada a la cámara. 00: 02 – 00: 04 | Revelación Explosiva Acción: La lata se divide en tres secciones horizontales (anillo superior, cuerpo principal, anillo inferior). Efectos Visuals: Un chisporroteo crujido. Vapor frío brota hacia afuera. Entre las secciones flotantes de la lata, rodajas vibrantes de limón y lima aparecen de la nada — acompañadas de burbujas brillantes que aparecen del aire. 00: 04 – 00: 07 | Momento de Ascensión de Burbujas Acción: El tiempo se congela — elegancia suspendida. Efectos Visuales: Las rodajas de cítricos giran lentamente en gravedad cero, corrientes de burbujas ascienden a través del espacio líquido invisible. La cámara se desliza suavemente con un movimiento cinematográfico en rail. Los reflejos brillan en las gotas de condensación — cada burbuja captura la luz como un diamante. 00: 07 – 00: 08 | Sello Energético Acción: La lata se ensambla instantáneamente como un imán. Efectos Visuales: Un crujido limpio de «pshh». Los cítricos y las burbujas quedan sellados instantáneamente dentro. Una ráfaga de niebla fresca se expande hacia afuera. 00: 08 – 00: 10 | Salida Refrescante Acción: La lata gira a máxima velocidad, saliendo del marco hacia arriba. Efectos Visuales: El fondo se transforma en un gradiente brillante y refrescante — listo para un bucle perfecto.
 
 #### Prompt
 
 ```text
-高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核心主体、底部环）。 视觉效果： 发出清脆的嘶嘶声。冰冷的蒸汽向外溢出。 在浮动的罐身段之间，鲜艳的柠檬和青柠切片凭空出现 — 伴随着凭空形成的闪亮气泡。 00: 04 – 00: 07 | 气泡升腾时刻 动作： 时间凝固 — 悬浮的优雅。 视觉效果： 柑橘切片在失重状态下缓慢旋转，气泡流在无形的液体空间中向上升腾。 镜头以流畅的电影运镜轨道滑过。 亮点在冷凝水珠上闪烁 — 每个气泡都像钻石一样捕捉着光线。 00: 07 – 00: 08 | 能量封存 动作： 罐身像磁铁般瞬间合拢。 视觉效果： 发出清脆的“噗嗤”声。 柑橘和气泡瞬间被封存在内。 一股清新的雾气脉冲向外散发。 00: 08 – 00: 10 | 清爽退场 动作： 罐身旋转至最高速度，向上飞出画面。 视觉效果： 背景变为明亮清爽的渐变色 — 准备无缝循环。
+Anuncio Comercial de Alta Gamma — AURORA FIZZ 00: 00 – 00: 02 | Entrada Relámpago Acción: La lata de AURORA FIZZ vuela desde arriba hacia el marco, girando rápidamente alrededor del eje vertical. Efectos Visuales: Desenfoque de movimiento nítido. Los patrones de cítricos dorados se transforman en rayos de luz brillantes. La lata se detiene con precisión en el centro del marco — la etiqueta perfectamente orientada a la cámara. 00: 02 – 00: 04 | Revelación Explosiva Acción: La lata se divide en tres secciones horizontales (anillo superior, cuerpo principal, anillo inferior). Efectos Visuals: Un chisporroteo crujido. Vapor frío brota hacia afuera. Entre las secciones flotantes de la lata, rodajas vibrantes de limón y lima aparecen de la nada — acompañadas de burbujas brillantes que aparecen del aire. 00: 04 – 00: 07 | Momento de Ascensión de Burbujas Acción: El tiempo se congela — elegancia suspendida. Efectos Visuales: Las rodajas de cítricos giran lentamente en gravedad cero, corrientes de burbujas ascienden a través del espacio líquido invisible. La cámara se desliza suavemente con un movimiento cinematográfico en rail. Los reflejos brillan en las gotas de condensación — cada burbuja captura la luz como un diamante. 00: 07 – 00: 08 | Sello Energético Acción: La lata se ensambla instantáneamente como un imán. Efectos Visuales: Un crujido limpio de «pshh». Los cítricos y las burbujas quedan sellados instantáneamente dentro. Una ráfaga de niebla fresca se expande hacia afuera. 00: 08 – 00: 10 | Salida Refrescante Acción: La lata gira a máxima velocidad, saliendo del marco hacia arriba. Efectos Visuales: El fondo se transforma en un gradiente brillante y refrescante — listo para un bucle perfecto.
 ```
 
-### No. 85: 惊涛骇浪中的沉船电影场景
+### No. 84: Escena Cinematográfica de Naufragio en Olas Tempestuosas
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 085
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
+Perspectiva en primera persona: el barco se balancea en mares tempestuosos; corte a: primer plano del capitán con expresión tensa frente al timón; corte a: primer plano de las manos del capitán agarrando el timón; corte a: vista panorámica del barco navegando solo en mares tempestuosos, el rumbo cambia lentamente. Corte a: personas aterrorizadas en la cubierta aferrándose a las barandillas, gritando, plano medio. Corte a: el mástil cruje, luego un chasquido repentino y se parte violentamente; corte a: vista lateral del casco chocando contra las rocas, rompiéndose catastróficamente. A medida que el barco se desintegra, la tripulación es lanzada al aire por la inercia, cayendo al mar.
 
 #### Prompt
 
 ```text
-第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
+Perspectiva en primera persona: el barco se balancea en mares tempestuosos; corte a: primer plano del capitán con expresión tensa frente al timón; corte a: primer plano de las manos del capitán agarrando el timón; corte a: vista panorámica del barco navegando solo en mares tempestuosos, el rumbo cambia lentamente. Corte a: personas aterrorizadas en la cubierta aferrándose a las barandillas, gritando, plano medio. Corte a: el mástil cruje, luego un chasquido repentino y se parte violentamente; corte a: vista lateral del casco chocando contra las rocas, rompiéndose catastróficamente. A medida que el barco se desintegra, la tripulación es lanzada al aire por la inercia, cayendo al mar.
 ```
 
-### No. 86: 贫民窟里的 BMX 骑手
+### No. 85: Jinete BMX en la favela
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 086
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。...
+Una mujer brasileña de veintitantos años con cabello rizado oscuro recogido bajo un sombrero de pescador blanco estructurado, vestida con una chaqueta de trabajo oversized negra a juego, pantalones negros holgados y botas blancas gruesas, conduce una bicicleta BMX de cromo brillante a través de una comunidad densamente poblada estilo favela en una ladera con callejones estrechos de piedra y paredes pintadas. En el segundo 2, ella sube un tramo de escaleras, subiendo sesenta escalones de piedra en diez contactos consecutivos de neumáticos, su ritmo claramente visible a través de la vibración de la cámara, su cuerpo absorbiendo los impactos con una facilidad experta. Al llegar arriba, inmediatamente realiza un ride junto a la pared pintada, con las ruedas funcionando verticalmente sobre el mural, las escaleras visibles debajo en un plano amplio. La cámara la persigue desde abajo durante la escalada, luego cambia a un ángulo fijo lateral para el ride junto a la pared, los colores del mural se vuelven borrosos a alta velocidad. Transiciona del ride junto a la pared al espacio entre dos tejados, saltando a alta velocidad y continuando hacia abajo, la cámara captura desde arriba la bicicleta de cromo zigzagueando por la geometría de los callejones. Rojo burdeos oscuro, BMX cromado, paredes de favela pintadas, escalada vertical de escaleras, ritmo de subir escaleras, ride junto a mural, transición entre tejados, descenso en ladera en drone, grano cinematográfico, 4K.
 
 #### Prompt
 
 ```text
-一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。到达顶部后，她立即沿着彩绘墙面进行了一次贴墙骑行，车轮垂直地在壁画上运行，下方宽阔的镜头中可见楼梯。摄像机在攀爬过程中从下方追逐，然后切换到侧面固定角度拍摄贴墙骑行，壁画的色彩在高速中变得模糊。她从贴墙骑行过渡到两个屋顶之间的空隙，高速越过，并继续下降，摄像机从上方捕捉到铬色自行车穿梭于小巷几何结构中的画面。深勃艮第色、铬色 BMX、彩绘贫民窟墙壁、楼梯垂直攀爬、爬楼节奏、壁画贴墙骑行、屋顶间隙过渡、山坡下降航拍、电影颗粒感、4K。
+Una mujer brasileña de veintitantos años con cabello rizado oscuro recogido bajo un sombrero de pescador blanco estructurado, vestida con una chaqueta de trabajo oversized negra a juego, pantalones negros holgados y botas blancas gruesas, conduce una bicicleta BMX de cromo brillante a través de una comunidad densamente poblada estilo favela en una ladera con callejones estrechos de piedra y paredes pintadas. En el segundo 2, ella sube un tramo de escaleras, subiendo sesenta escalones de piedra en diez contactos consecutivos de neumáticos, su ritmo claramente visible a través de la vibración de la cámara, su cuerpo absorbiendo los impactos con una facilidad experta. Al llegar arriba, inmediatamente realiza un ride junto a la pared pintada, con las ruedas funcionando verticalmente sobre el mural, las escaleras visibles debajo en un plano amplio. La cámara la persigue desde abajo durante la escalada, luego cambia a un ángulo fijo lateral para el ride junto a la pared, los colores del mural se vuelven borrosos a alta velocidad. Transiciona del ride junto a la pared al espacio entre dos tejados, saltando a alta velocidad y continuando hacia abajo, la cámara captura desde arriba la bicicleta de cromo zigzagueando por la geometría de los callejones. Rojo burdeos oscuro, BMX cromado, paredes de favela pintadas, escalada vertical de escaleras, ritmo de subir escaleras, ride junto a mural, transición entre tejados, descenso en ladera en drone, grano cinematográfico, 4K.
 ```
 
-### No. 87: 乐高探险家被北极熊追赶
+### No. 86: Explorador Lego perseguido por un oso polar
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 087
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
+Un minifigura de explorador Lego conduce un mini snowmobile a toda velocidad a través de un paisaje nevado, perseguido por un enorme oso polar rugiente, la nieve salpica dramáticamente, el aire está lleno de una niebla helada, contraluz cinematográfico intenso,镜头倾斜 dinámico, estilo de acción de gran película, movimiento exagerado estilo cómic, textura de plástico Lego clara, tonos fríos dramáticos.
 
 #### Prompt
 
 ```text
-乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
+Un minifigura de explorador Lego conduce un mini snowmobile a toda velocidad a través de un paisaje nevado, perseguido por un enorme oso polar rugiente, la nieve salpica dramáticamente, el aire está lleno de una niebla helada, contraluz cinematográfico intenso,镜头倾斜 dinámico, estilo de acción de gran película, movimiento exagerado estilo cómic, textura de plástico Lego clara, tonos fríos dramáticos.
 ```
 
-### No. 88: Seedance 2.0 提示词，用于幽默动漫场景
+### No. 87: Seedance 2.0 para escena de anime humorística
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 088
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
+Crear una escena de anime: un dragón musculoso se alza amenazante ante un caballero humano. El caballero sacude un plumero y le hace cosquillas en el vientre al dragón. El dragón, que tiene miedo a las cosquillas, inmediatamente suelta una sonora carcajada con una voz profunda. Al final de la escena, el caballero está haciendo cosquillas en el vientre del dragón con el plumero, mientras el dragón soníe tontamente y suelta carcajadas.
 
 #### Prompt
 
 ```text
-创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
+Crear una escena de anime: un dragón musculoso se alza amenazante ante un caballero humano. El caballero sacude un plumero y le hace cosquillas en el vientre al dragón. El dragón, que tiene miedo a las cosquillas, inmediatamente suelta una sonora carcajada con una voz profunda. Al final de la escena, el caballero está haciendo cosquillas en el vientre del dragón con el plumero, mientras el dragón soníe tontamente y suelta carcajadas.
 ```
 
-### No. 89: 逃离巨型怪物（奥术风格）
+### No. 88: Escapar de un monstruo gigante (estilo arcanista)
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 089
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
+Generar un video de una escena de carrera, con un monstruo gigante de 100 pisos de altura persiguiendo desde atrás, usando estilo arcanista.
 
 #### Prompt
 
 ```text
-生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
+Generar un video de una escena de carrera, con un monstruo gigante de 100 pisos de altura persiguiendo desde atrás, usando estilo arcanista.
 ```
 
-### No. 90: 未来感十足的兰博基尼组装商业广告提示
+### No. 89: Indicación de publicidad comercial de ensamblaje de Lamborghini con sensación futurista
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 090
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在...
+En un展厅 digital oscuro y brillante, se desarrolla una épica secuencia de ensamblaje de automóviles del futuro. Un Lamborghini blanco de alto rendimiento comienza a tomar forma en el centro de un escenario negro reflectante. El entorno es minimalista, limpio y dramático, con potentes reflectores que atraviesan la oscuridad y brillan en el suelo pulido. La secuencia comienza con primeros planos de piezas mecánicas brillantes flotando en el aire. Las piezas del motor aparecen primero, los pistones y engranajes giran lentamente, como si flotaran en estado de gravedad cero. Cada pieza se mueve suavemente hacia su posición, emitiendo clics mecánicos precisos al conectarse...
 
 #### Prompt
 
 ```text
-在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在一起。变速器部件滑入，电子设备亮起柔和的蓝色能量，发光的电缆穿过底盘。 随着更多部件的组装，摄像机缓慢地围绕着结构移动。碳纤维车身面板下降并与车架完美对齐。车轮轻轻旋转，然后锁定在车轴上。仪表盘灯亮起，显示出优雅的数字显示。 明亮的闪光标志着每个连接的完成。当车辆成形时，微妙的全息网格和 UI 线条短暂出现。灯光强调了光亮的白色表面和锐利的空气动力学曲线。 当最后一块面板锁定到位时，前灯发出强大的白色光芒。发动机启动，发出深沉、电影般的轰鸣声。 摄像机后拉，开始围绕已完成的兰博基尼进行平稳的 360 度环绕拍摄，在戏剧性的灯光下展现出整辆车。反射在地面上荡漾，光束扫过车身，突显出每一个轮廓。 电影级灯光，时尚的产品展示，高对比度反射，未来主义氛围，超详细的机械组装，史诗般的揭示，戏剧性的摄像机运动，高端汽车广告风格。
+En un展厅 digital oscuro y brillante, se desarrolla una épica secuencia de ensamblaje de automóviles del futuro. Un Lamborghini blanco de alto rendimiento comienza a tomar forma en el centro de un escenario negro reflectante. El entorno es minimalista, limpio y dramático, con potentes reflectores que atraviesan la oscuridad y brillan en el suelo pulido. La secuencia comienza con primeros planos de piezas mecánicas brillantes flotando en el aire. Las piezas del motor aparecen primero, los pistones y engranajes giran lentamente, como si flotaran en estado de gravedad cero. Cada pieza se mueve suavemente hacia su posición, emitiendo clics mecánicos precisos al conectarse. Las piezas de la transmisión se deslizan, la electrónica brilla con una energía azul suave, los cables luminosos atraviesan el chasis. A medida que se ensamblan más piezas, la cámara gira lentamente alrededor de la estructura. Los paneles de la fibra de carbono descienden y se alinean perfectamente con el bastidor. Las ruedas giran suavemente y luego se bloquean en los ejes. Las luces del tablero se iluminan, mostrando pantallas digitales elegantes. Los destellos brillantes marcan la conexión de cada pieza. Cuando el vehículo toma forma, líneas de UI y mallas holográficas sutiles aparecen brevemente. La luz enfatiza las superficies blancas brillantes y las curvas aerodinámicas afiladas. Cuando el último panel se bloquea en su lugar, los faros emitien una potente luz blanca. El motor arranca, emitiendo un rugido profundo y cinematográfico. La cámara se aleja y comienza una rotación suave de 360 grados alrededor del Lamborghini completado, mostrando todo el vehículo bajo una iluminación dramática. Las ondas de reflexión se forman en el suelo, los haces de luz barren la carrocería, resaltando cada contorno. Iluminación de nivel de cine, exhibición de productos elegante, reflejos de alto contraste, atmósfera futurista, ensamblaje mecánico ultra detallado, revelación épica, movimientos de cámara dramáticos, estilo de publicidad de automóviles de alta gama.
 ```
 
-### No. 91: 巨龙围攻古堡
+### No. 90: Dragón gigante asediando el castillo antiguo
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 091
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
+Un antiguo castillo de piedra se encuentra en un acantilado, con nubes oscuras, y un dragón gigante revolotea sobre él. El dragón se lanza hacia el castillo, escupiendo llamas ardientes, mientras los soldados disparan flechas y las catapultas lanzan proyectiles en llamas. Filmado desde un ángulo bajo del castillo.
 
 #### Prompt
 
 ```text
-一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
+Un antiguo castillo de piedra se encuentra en un acantilado, con nubes oscuras, y un dragón gigante revolotea sobre él. El dragón se lanza hacia el castillo, escupiendo llamas ardientes, mientras los soldados disparan flechas y las catapultas lanzan proyectiles en llamas. Filmado desde un ángulo bajo del castillo.
 ```
 
-### No. 92: Seedance 2.0 低空飞行器飞行视频提示
+### No. 91: Indicación de video de vuelo de aerodino de baja altitud Seedance 2.0
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 092
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
+Perspectiva en primera persona pilotando una avioneta a baja altitud, sobrevuela montañas, bosques o líneas costeras — fuerte ruido del viento y experiencia visual inmersiva, tomas de movimiento rápido hacia adelante, movimientos de cámara dinámicos, luz dorada dramática a contraluz, gradación de color de nivel de cine, atmósfera emocionante y estimulante, movimiento ultra fluido, resolución 4K, altamente detallado, sin superposiciones de texto.
 
 #### Prompt
 
 ```text
-第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
+Perspectiva en primera persona pilotando una avioneta a baja altitud, sobrevuela montañas, bosques o líneas costeras — fuerte ruido del viento y experiencia visual inmersiva, tomas de movimiento rápido hacia adelante, movimientos de cámara dinámicos, luz dorada dramática a contraluz, gradación de color de nivel de cine, atmósfera emocionante y estimulante, movimiento ultra fluido, resolución 4K, altamente detallado, sin superposiciones de texto.
 ```
 
-### No. 93: 暖心森林喜剧视频提示
+### No. 92: Indicación de video de comedia cálida en el bosque
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 093
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
+Formato: 15 segundos / 6 tomas / Comedia cálida en el bosque / Diálogo breve Estilo: Animación de bosque cinematográfica surrealista, cálido atardecer dorado filtrándose a través de las grietas de la corteza, interior del tronco cubierto de musgo, acogedor y cómodo
 
 #### Prompt
 
 ```text
-格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
+Formato: 15 segundos / 6 tomas / Comedia cálida en el bosque / Diálogo breve Estilo: Animación de bosque cinematográfica surrealista, cálido atardecer dorado filtrándose a través de las grietas de la corteza, interior del tronco cubierto de musgo, acogedor y cómodo
 ```
 
-### No. 94: 马赛村庄的混乱
+### No. 93: Caos en la aldea Massai
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 094
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
+Un enorme babuino blindado irrumpe en una aldea Massai en llamas, agarra a un guerrero Massai y lo arroja a una choza en llamas. Los guerreros Massai huyen despavoridos entre un mar de fuego y escombros.
 
 #### Prompt
 
 ```text
-一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
+Un enorme babuino blindado irrumpe en una aldea Massai en llamas, agarra a un guerrero Massai y lo arroja a una choza en llamas. Los guerreros Massai huyen despavoridos entre un mar de fuego y escombros.
 ```
 
-### No. 95: 重庆的哥斯拉巨型白虎斑猫
+### No. 94: Godzilla Cat atigrado blanco gigante en Chongqing
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 095
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：...
+【Estilo】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【Duración】15 segundos 【Escena】Hongyadong en Chongqing o una intersección繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。
 
 #### Prompt
 
 ```text
-【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。
+【Estilo】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【Duración】15 segundos 【Escena】Hongyadong en Chongqing o una intersección繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。
 ```
 
-### No. 96: 持续一镜到底的灾难片写实主义
+### No. 95: Desastre cinematográfico realista en un solo plano
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 096
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到...
+Un técnico de emergencias solitario con un chaleco salvavidas naranja de pie en el techo destruido de un museo en una capital europea inundada, con nubes oscuras sobre él, abajo hay estatuas rotas y escombros flotantes, tonos azules y grises fríos, realismo catastrófico cinematográfico, superficies mojadas, fuerte sensación de proporción, textura de película de 35 mm. Realismo catastrófico cinematográfico, plano secuencia. La镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。Él ve una bengala de rescate a lo lejos y comienza a correr. La cámara lo sigue de cerca, corre a través del techo derrumbado, salta por tragaluces rotos, se desliza por una cúpula de vidrio inclinada, agarra una cuerda oscilante. Abajo, las oscuras inundaciones fluyen violentamente entre calles llenas de automóviles flotantes y estatuas. Él aterriza en la parte superior de un tranvía parcialmente inundado y continúa avanzando, justo cuando una ola gigante rompe detrás de él, llega a una plataforma de rescate. Tonos apocalípticos grises y azules fríos, efectos de agua surrealistas, viento, salpicaduras, sensación de urgencia de cámara en mano, plano secuencia, sin cortes.
 
 #### Prompt
 
 ```text
-一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到远处有一枚救援信号弹，然后开始奔跑。镜头紧随其后，他冲过坍塌的屋顶，跳过破碎的天窗，滑下一个倾斜的玻璃穹顶，抓住一根摇晃的缆绳。下方，黑暗的洪水在布满漂浮汽车和雕像的街道中汹涌。他落在部分被淹没的有轨电车车顶上，继续前进，就在一个巨浪在他身后拍打而过时，他到达了一个救援信标平台。冷峻的灰蓝色末日色调，超现实的水物理效果，风，水花，手持镜头的紧迫感，一镜到底，无剪辑。
+Un técnico de emergencias solitario con un chaleco salvavidas naranja de pie en el techo destruido de un museo en una capital europea inundada, con nubes oscuras sobre él, abajo hay estatuas rotas y escombros flotantes, tonos azules y grises fríos, realismo catastrófico cinematográfico, superficies mojadas, fuerte sensación de proporción, textura de película de 35 mm. Realismo catastrófico cinematográfico, plano secuencia. La镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。Él ve una bengala de rescate a lo lejos y comienza a correr. La cámara lo sigue de cerca, corre a través del techo derrumbado, salta por tragaluces rotos, se desliza por una cúpula de vidrio inclinada, agarra una cuerda oscilante. Abajo, las oscuras inundaciones fluyen violentamente entre calles llenas de automóviles flotantes y estatuas. Él aterriza en la parte superior de un tranvía parcialmente inundado y continúa avanzando, justo cuando una ola gigante rompe detrás de él, llega a una plataforma de rescate. Tonos apocalípticos grises y azules fríos, efectos de agua surrealistas, viento, salpicaduras, sensación de urgencia de cámara en mano, plano secuencia, sin cortes.
 ```
 
-### No. 97: 充满活力的橙味汽水广告拍摄
+### No. 96: Publicidad vibrante de refresco de naranja
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 097
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
+Una lata vibrante de refresco de naranja rodeada de rodajas de cítricos que salpican y gotas de agua brillantes, en cámara lenta, iluminación brillante y vibrante, fotografía comercial de alta detalle.
 
 #### Prompt
 
 ```text
-一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
+Una lata vibrante de refresco de naranja rodeada de rodajas de cítricos que salpican y gotas de agua brillantes, en cámara lenta, iluminación brillante y vibrante, fotografía comercial de alta detalle.
 ```
 
-### No. 98: Seedance 2.0 全球女性通用机甲变身视频提示词
+### No. 97: Seedance 2.0 Prompt de video de transformación de armadura mecánica femenina universal global
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 098
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，...
+Prompt de escena central @94d74b42-17ec-45d3-ab60-487c3a1700cb Completar 10 conjuntos de transformaciones de armadura femenina global en 12 segundos. Sin gafas en todo momento, casco de armadura completa + armas, apariencia de general puramente femenino. Todas las transiciones incluyen efectos de partículas brillantes. Estilo unificado:的高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，...
 
 #### Prompt
 
@@ -2046,19 +2032,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，身姿挺拔，东方战神女将气场全开。 1-2 秒：日本战国女武士铠甲 + 鹿角胴丸头盔，手持武士刀，转身甩动披风扫过镜头，层叠铠甲片精致，冷冽锋芒，杀气十足。 2-3 秒：欧洲中世纪女骑士全身板甲 + 十字面罩头盔，手持骑士长剑，手掌遮挡镜头并移开完成变身，银色铠甲泛着冷光，庄严而有力。 3-4 秒：古罗马女指挥官肌肉胸甲 + 红色羽毛军团头盔，手持短剑和圆盾，双臂合拢完成变身，金属肩甲和披风飞扬，威武、果断、极具统帅力。 4-5 秒：北欧维京女战士毛皮与铁甲 + 符文战盔，手持战斧和圆盾，低头调整护腕后抬头完成变身，狂野、冷峻、气势逼人。 5-6 秒：波斯萨珊风格女将军鱼鳞甲 + 珠宝链甲王冠，手持弯刀，转身回正完成变身，铠甲表面细腻奢华，兼具异域王族与将军气质。 6-7 秒：蒙古草原女战士皮甲与铁片甲 + 羽毛战盔，手持复合弓箭，轻触额头盔甲完成变身，动作迅捷利落，英武而机动。 7-8 秒：印度王朝女战士鎏金纹饰铠甲 + 珠串王冠战盔，手持长矛，轻抚披风下摆完成变身，华丽而神秘，高贵却不失武者之魂。 8-9 秒：阿拉伯女指挥官月纹链甲 + 面纱金属头饰，手持新月弯刀，手掌遮挡镜头并移开完成变身，神秘、高贵、眼神锐利，异域史诗感极强。 9-10 秒：斯巴达女战士青铜铠甲 + 马鬃头盔，手持长矛和圆盾，甩动披风遮挡身体完成变身，身姿挺拔，力量感爆发，战场存在感十足。 10-11 秒：幻想帝国女王重甲 + 王冠式龙纹头盔，手持皇家巨剑，侧身遮挡镜头完成变身，黑金重甲层叠，如同终极女王降临。 11-12 秒：转身甩动披风，最终回到中国红金明光铠 + 鎏金战盔 + 鎏金长矛，金光爆发中定格，镜头凝固，东方战神女将最终封神。
 ```
 
-### No. 99: 办公室神龙
+### No. 98: Dragón de oficina
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 099
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
+Edición rápida: Un dragón de oficina 超逼真的 atraviesa a gran velocidad múltiples habitaciones de oficina, volando entre人群, pasando por escritorios, rodeando a las personas, en una oficina de cubículos concurrida. Aterriza en el escritorio frente a una persona y arroja fuego a ese hombre. El dragón dice: "Estás despedido".
 
 #### Prompt
 
@@ -2066,19 +2052,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
 ```
 
-### No. 100: 斋月至开斋节无限缩放超延时摄影
+### No. 99: Hyperlapse con zoom infinito del Ramadán al Eid
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 100
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（...
+A través de un arte de papel recortado altamente detallado, hyperlapse sin costuras con zoom infinito capturando el viaje de la celebración del Ramadán al Eid. La escena comienza en el momento de la comida previo al ayuno (suhoor), con una luna creciente brillante colgando en un vecindario tranquilo, suaves sombras de linternas balanceándose. La cámara se acerca a una ventana de casa donde una familia está preparando la comida previo al ayuno, luego hace una transición fluida a un hyperlapse del ritmo rápido del ayuno diario: personas trabajando, rezando, esperando el iftar. La cámara continúa acercándose, al atardecer, las calles están llenas de vendedores de comida y multitudes, luego transiciona al tráfico caótico de regreso a casa por Eid (mudik), automóviles y motocicletas congestionados moviéndose en dinámico hyperlapse. La cámara se acerca a una ventana del auto, transicionando a escenas rurales tranquilos (kampung), niños jugando, personas preparando para el Eid. La cámara continúa acercándose a una mezquita, personas realizando la oración del Eid (sholat Ied) al amanecer en campos abiertos. La cámara se acerca sin costuras al momento de estrecharse de manos, transicionando a reuniones familiares emotivas, acompañadas de "maaf-maafan" (pedir perdón mutuamente). La cámara continúa acercándose a una mesa llena de arroz envuelto en hojas de palma (ketupat), pollo en leche de coco (opor ayam) y platos tradicionales, una gran familia reunida, disfrutando de la comida juntos. Finalmente, la cámara se acerca a un ketupat y luego transiciona de vuelta a la luna creciente en el cielo, completando el ciclo. Texturas de papel cortado a mano, profundidad estratificada, sombras suaves, colores festivos vibrantes, transiciones infinitas fluidas, iluminación cinematográfica, ultra alto detalle, 15 segundos.
 
 #### Prompt
 
@@ -2086,19 +2072,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（mudik），拥挤的汽车和摩托车以动态超延时摄影的方式移动。 镜头拉近一扇车窗，过渡到宁静的乡村景象（kampung），孩子们玩耍，人们为开斋节做准备。镜头继续拉近一座清真寺，人们在日出时分在开阔的田野上进行开斋节祈祷（sholat Ied）。 镜头无缝拉近握手瞬间，过渡到充满情感的家庭团聚，伴随着“maaf-maafan”（互相请求原谅）。镜头继续拉近一张摆满了马来粽（ketupat）、椰浆鸡（opor ayam）和传统菜肴的餐桌，大家庭欢聚一堂，其乐融融地用餐。 最后，镜头拉近一个马来粽，然后过渡回天空中的弯月，完成整个循环。手剪纸纹理、分层深度、柔和阴影、鲜艳的节日色彩、流畅的无限过渡、电影级灯光、超高细节，15 秒。
 ```
 
-### No. 101: 怒海狂龙
+### No. 100: Dragón furioso del mar
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 101
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
+Un dragón rojo furioso (elemental) emerge del mar a gran velocidad, volando en espiral sobre el barco, generando enormes olas. La cámara dinámica sigue al dragón a través de la tormenta, alejándose entre olas gigantes.
 
 #### Prompt
 
@@ -2106,43 +2092,67 @@ Based on the provided office building promotional photos, generate a 15-second c
 一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
 ```
 
-### No. 102: 女性角色装甲组装与飞行
+### No. 101: Ensamblaje de armadura y vuelo de personaje femenino
 
 - **Categoria:** `Atlas Generated I2V`
-- **Fonte:** `Gemini Omni Flash | prompts-hub generated`
+- **Fuente:** `Gemini Omni Flash | prompts-hub generated`
 - **Autor:** Atlas Generated 102
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，...
+Plano 1 (8 segundos) Un personaje femenino poderoso. Plano gran angular de calidad cinematográfica, ella planea sobre un mar de nubes doradas, la luz cálida anaranjada del atardecer ilumina la niebla, una escena espectacular y dramática. El viento sopla su cabello y ropa, mostrando un alto nivel de realismo físico. Desde todas las direcciones llegan a alta velocidad piezas de armadura mecánica futurista y aerodinámica —pechera, hombreras, brazales, grebas y un casco brillante— arrastrando rastros de luz brillante y gases de escape azules de los motores. Cada pieza se adhiere magnéticamente y se bloquea en su cuerpo con una precisión mecánica satisfactoria e inercia visible, las superficies de cromo y fibra de carbono mate reflejan la luz dorada del sol. A medida que se completa el ensamblaje, la cámara gira dinámicamente alrededor de ella, terminando finalmente con un primer plano, una máscara digital se desliza por su cara, sus ojos brillan con energía azul, lista para liberar una onda de luz que dispersa las nubes circundantes. Texturas de alta fidelidad, rasguños mínimos en el metal, desenfoque de movimiento realista y destellos de lente cinematográficos. Plano 2 (4 segundos) El personaje continúa volando, atravesando las nubes, su nuevo traje de batalla futurista emite un brillo de energía interior. La cámara mantiene el punto de vista heroico de ángulo bajo, capturando las sombras de contacto complejas entre las placas de la armadura. Cuando rompe la barrera del sonido, cristales de hielo y partículas de polvo se arrastran detrás de ella, el cielo cambia de dorado a púrpura crepuscular profundo. Los efectos físicos reales del viento contra la superficie dura del traje son claramente visibles. El último plano es su mano extendida hacia el sol, ondas de energía ondulando a través del brazal.
 
 #### Prompt
 
 ```text
-镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，逐一磁性吸附并锁定在她的身体上，镀铬和哑光碳纤维表面反射着金色的阳光。随着组装完成，摄像机动态地围绕她旋转，最终以特写镜头结束，一个数字面罩在她脸上滑下，她的眼睛闪烁着蓝色能量，蓄势待发，释放出一道光波，将周围的云层冲散。高保真纹理、金属上的微小划痕、逼真的运动模糊和电影般的镜头光晕。 镜头 2（4 秒）角色继续飞行，穿梭于云层之中，她全新的未来战衣散发着内在的能量光芒。摄像机保持低角度的英雄视角，捕捉装甲板之间复杂的接触阴影。她突破音障时，冰晶和尘埃粒子在她身后拖曳，天空从金色变为深邃的暮光紫色。风阻对战衣坚硬表面的真实物理效果清晰可见。最后一个镜头是她的手伸向太阳，能量涟漪在臂铠上荡漾。
+Plano 1 (8 segundos) Un personaje femenino poderoso. Plano gran angular de calidad cinematográfica, ella planea sobre un mar de nubes doradas, la luz cálida anaranjada del atardecer ilumina la niebla, una escena espectacular y dramática. El viento sopla su cabello y ropa, mostrando un alto nivel de realismo físico. Desde todas las direcciones llegan a alta velocidad piezas de armadura mecánica futurista y aerodinámica —pechera, hombreras, brazales, grebas y un casco brillante— arrastrando rastros de luz brillante y gases de escape azules de los motores. Cada pieza se adhiere magnéticamente y se bloquea en su cuerpo con una precisión mecánica satisfactoria e inercia visible, las superficies de cromo y fibra de carbono mate reflejan la luz dorada del sol. A medida que se completa el ensamblaje, la cámara gira dinámicamente alrededor de ella, terminando finalmente con un primer plano, una máscara digital se desliza por su cara, sus ojos brillan con energía azul, lista para liberar una onda de luz que dispersa las nubes circundantes. Texturas de alta fidelidad, rasguños mínimos en el metal, desenfoque de movimiento realista y destellos de lente cinematográficos. Plano 2 (4 segundos) El personaje continúa volando, atravesando las nubes, su nuevo traje de batalla futurista emite un brillo de energía interior. La cámara mantiene el punto de vista heroico de ángulo bajo, capturando las sombras de contacto complejas entre las placas de la armadura. Cuando rompe la barrera del sonido, cristales de hielo y partículas de polvo se arrastran detrás de ella, el cielo cambia de dorado a púrpura crepuscular profundo. Los efectos físicos reales del viento contra la superficie dura del traje son claramente visibles. El último plano es su mano extendida hacia el sol, ondas de energía ondulando a través del brazal.
 ```
 
-<a id="category-8"></a>
+<a id="category-9"></a>
+
+### I2V Generado por Atlas (1)
+
+### No. 102: Revelación de Logo
+
+- **Categoria:** `I2V Generado por Atlas`
+- **Fuente:** `Gemini Omni Flash | generado por prompts-hub`
+- **Autor:** Atlas Generated 033
+- **Idioma:** `es-ES`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Animación de revelación de producto de alta gama. Usa el logo de referencia como sujeto principal. El logo se extruye en cromo brillante, gira lentamente en un estudio oscuro, luego emite haces de luz volumétricos delgados mientras la cámara se acerca para una revelación de marca tecnológica pulida.
+
+#### Prompt
+
+```text
+Animación de revelación de producto de alta gama. Usa el logo de referencia como sujeto principal. El logo se extruye en cromo brillante, gira lentamente en un estudio oscuro, luego emite haces de luz volumétricos delgados mientras la cámara se acerca para una revelación de marca tecnológica pulida.
+```
+
+<a id="category-10"></a>
 
 ### Twitter Community (290)
 
-### No. 103: Fotografia Editorial de Retrato Romântico na Natureza
+### No. 103: Fotografía Editorial de Retrato Romántico en la Naturaleza
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Virena
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um retrato de arte contemporânea no estilo cottagecore moderno, enfatizando uma feminilidade suave e a natureza.
+Una propuesta para un retrato de arte contemporáneo en estilo cottagecore moderno, que enfatiza una suave feminidad y conexión con la naturaleza.
 
 #### Prompt
 
@@ -2157,19 +2167,19 @@ Um prompt para um retrato de arte contemporânea no estilo cottagecore moderno, 
 }
 ```
 
-### No. 104: Celebração do Aniversário de Elon Musk
+### No. 104: Celebración del Cumpleaños de Elon Musk
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** coloringany.com
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Elon Musk posa dentro de um número 54 decorado com flores e balões para o seu aniversário.
+Elon Musk posa dentro de un festivo número 54 decorado con flores y globos para su cumpleaños.
 
 #### Prompt
 
@@ -2177,19 +2187,19 @@ Elon Musk posa dentro de um número 54 decorado com flores e balões para o seu 
 Elon Musk sitting inside a large decorative number 54 filled with white roses, gold and silver balloons, and geometric ornaments, bright studio lighting, celebratory birthday theme
 ```
 
-### No. 105: Mulher alegre no mercado noturno de um festival
+### No. 105: Mujer alegre en mercado nocturno de un festival
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um plano médio vibrante de uma mulher loira sorridente com mechas roxas no cabelo, num mercado ao ar livre ao final da tarde.
+Un plano medio vibrante de una mujer rubia sonriente con mechas púrpuras en un mercado al aire libre al anochecer.
 
 #### Prompt
 
@@ -2197,19 +2207,19 @@ Um plano médio vibrante de uma mulher loira sorridente com mechas roxas no cabe
 A vibrant, medium close-up shot of a cheerful young woman with long, curly blonde hair streaked with subtle hints of purple, smiling broadly at an outdoor festival evening market.
 ```
 
-### No. 106: Mulher loira à janela
+### No. 106: Mujer rubia junto a la ventana
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Pinodi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher loira com uma camisa branca senta-se graciosamente num assento de janela, banhada por uma luz natural suave.
+Una mujer rubia con una camisa blanca se sienta con gracia en el asiento de una ventana, bañada por una luz natural suave.
 
 #### Prompt
 
@@ -2217,19 +2227,19 @@ Uma mulher loira com uma camisa branca senta-se graciosamente num assento de jan
 a beautiful blonde woman sitting on a window seat, wearing a white oversized shirt and sheer white socks, natural light from the window, soft focus background, elegant and serene pose
 ```
 
-### No. 107: Instrução para Transferência de Identidade de Referência de Personagem
+### No. 107: Indicación para Transferencia de Identidad de Referencia de Personaje
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Lore
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução em JSON para transferir a identidade de uma personagem, preservando as características faciais, cabelo, forma dos olhos e tom de pele.
+Una indicación en JSON para transferir la identidad de un personaje preservando rasgos faciales, cabello, forma de los ojos y tono de piel.
 
 #### Prompt
 
@@ -2248,19 +2258,19 @@ Uma instrução em JSON para transferir a identidade de uma personagem, preserva
 }
 ```
 
-### No. 108: Comparação de Gráficos de Futebol Gerados por IA
+### No. 108: Comparación de Gráficos de Fútbol Generados por IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alpha Mom
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma comparação lado a lado de quatro modelos de IA a gerar cenas realistas de um jogo de futebol.
+Una comparación lado a lado de cuatro modelos de IA generando escenas realistas de partidos de fútbol.
 
 #### Prompt
 
@@ -2268,19 +2278,19 @@ Uma comparação lado a lado de quatro modelos de IA a gerar cenas realistas de 
 four panels comparing AI-generated soccer game graphics from Kling 3.0, Gemini Omni Flash, Grok Imagine, and Seedance 2.0, each showing a different player in action on a stadium field with crowd and lighting effects
 ```
 
-### No. 109: princesa num sonho cor-de-rosa
+### No. 109: princesa en sueño rosa
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um vestido lavanda e uma tiara senta-se no meio de algodão-doce cor-de-rosa, num cenário de estúdio onírico e colorido em tons pastel.
+Una mujer con un vestido lavanda y una tiara se sienta rodeada de algodón de azúcar rosa en un entorno de estudio onírico y de colores pastel.
 
 #### Prompt
 
@@ -2288,19 +2298,19 @@ Uma mulher com um vestido lavanda e uma tiara senta-se no meio de algodão-doce 
 a woman with long blonde hair wearing a silver tiara and a lavender dress, sitting on a pink floor surrounded by fluffy pink cotton candy, soft lighting, studio photography
 ```
 
-### No. 110: Instrução para Cena de Estúdio de Fantasia Onírica
+### No. 110: Indicación para Escena de Estudio de Fantasía Onírica
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução estruturada para gerar uma cena de estúdio de fantasia caprichosa, em tons rosa pastel.
+Una indicación estructurada para generar una escena de estudio de fantasía caprichosa, en tonos rosas pastel.
 
 #### Prompt
 
@@ -2311,19 +2321,19 @@ Uma instrução estruturada para gerar uma cena de estúdio de fantasia capricho
     "background": "soft pastel pink studio environment filled with fluffy cloud-like formations surrounding the subject, seamless pink floor and backdrop blending together, whimsical fairytale"
 ```
 
-### No. 111: Arte Linear Minimalista de Abelha com Texto Gentil
+### No. 111: Arte de Línea Minimalista de Abeja con Texto Amable
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Heather Green
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para uma ilustração minimalista de arte de linha contínua de uma abelha com flores e texto em cursivo.
+Una indicación para una ilustración de arte de línea continua minimalista de una abeja con flores y texto en cursiva.
 
 #### Prompt
 
@@ -2331,19 +2341,19 @@ Uma instrução para uma ilustração minimalista de arte de linha contínua de 
 minimalist, elegant single continuous line art illustration of a bee surrounded by delicate flowers, centered on a clean white background; below the bee, the word 'Kind' in flowing cursive script, balanced composition, thin
 ```
 
-### No. 112: Pintura Cubista de Piratas em Tons Terrosos
+### No. 112: Pintura Cubista de Piratas en Tonos Terrosos
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Ash
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar uma pintura a óleo texturizada de três piratas no estilo Cubista de Picasso, com formas geométricas e tons terrosos escuros.
+Una indicación para generar una pintura al óleo texturizada de tres piratas en el estilo cubista de Picasso, con formas geométricas y tonos terrosos oscuros.
 
 #### Prompt
 
@@ -2351,19 +2361,19 @@ Uma instrução para gerar uma pintura a óleo texturizada de três piratas no e
 Textured oil painting in the Cubist style of Pablo Picasso of 3 pirares, using interlocking geometric shapes. Dark earthy shades.
 ```
 
-### No. 113: Aplicativo de IA para Editorial de Moda
+### No. 113: Aplicación de IA para Editoriales de Moda
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Vladilsav
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma imagem promocional para a aplicação MIU AI, mostrando as suas funcionalidades de editorial de moda e interface do utilizador.
+Una imagen promocional para la aplicación MIU AI que muestra sus funciones de editorial de moda y su interfaz de usuario.
 
 #### Prompt
 
@@ -2371,19 +2381,19 @@ Uma imagem promocional para a aplicação MIU AI, mostrando as suas funcionalida
 A sleek black background with a smartphone displaying the MIU AI app interface, featuring fashion editorial content, K-pop trends, and a 'Content Lab' section. The left side shows the app's logo, tagline 'A fashion editorial in your pocket,' and an App Store listing for 'MIU AI: Photo Video Generator.' The design uses pink and white text on a dark theme, with a modern, high-tech aesthetic. The overall look is clean, sophisticated, and focused on AI-generated fashion content.
 ```
 
-### No. 114: Aldric enfrenta uma criatura sombria numa floresta encharcada pela chuva
+### No. 114: Aldric enfrentándose a una criatura oscura en un bosque lluvioso
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Cortex Visual ・ AI Movies
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para uma cena dramática de um guerreiro a confrontar um monstro que avança, numa floresta morta e lamacenta durante a chuva.
+Una indicación para una escena dramática de un guerrero enfrentándose a un monstruo que carga en un bosque muerto y fangoso durante la lluvia.
 
 #### Prompt
 
@@ -2391,19 +2401,19 @@ Uma instrução para uma cena dramática de um guerreiro a confrontar um monstro
 Aldric standing his ground in a rain-soaked dead forest, sword held firmly with both hands, feet planted in the mud, facing a massive dark humanoid creature charging directly toward him at full speed, monstrous
 ```
 
-### No. 115: Mulher com peito volumoso em fato de banho vermelho apoiada numa escada
+### No. 115: Mujer con pecho voluptuoso en traje de baño rojo apoyada en una escalera
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Justice Studio 2.0
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma foto espontânea de corpo inteiro de uma mulher num fato de banho carmesim, posando contra uma escada de biblioteca de madeira.
+Una foto espontánea de cuerpo completo de una mujer en un traje de baño carmesí posando contra una escalera de biblioteca de madera.
 
 #### Prompt
 
@@ -2411,19 +2421,19 @@ Uma foto espontânea de corpo inteiro de uma mulher num fato de banho carmesim, 
 Candid full-body iPhone photo of a busty mid-30s woman with large heavy breasts in a tiny crimson red one-piece swimsuit, leaning against an old wooden library ladder, one leg raised, hand gripping it. Wet messy dark
 ```
 
-### No. 116: Instrução para retrato Y2K ultra-realista com flash
+### No. 116: Indicación para retrato Y2K ultrarealista con flash
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** simply
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para um retrato de beleza realista e espontâneo, com a energia da fotografia com flash dos anos 2000 (Y2K).
+Una indicación para un retrato de belleza realista y espontáneo, con la energía de la fotografía con flash estilo Y2K.
 
 #### Prompt
 
@@ -2431,19 +2441,19 @@ Uma instrução para um retrato de beleza realista e espontâneo, com a energia 
 Ultra-realistic candid beauty portrait of a glamorous woman captured indoors at night. The atmosphere feels spontaneous, luxurious, and natural, with authentic Y2K flash-photography energy. Photographed at close range using a premium
 ```
 
-### No. 117: Cena de Quarto de Vestir em Apartamento de Luxo Moderno
+### No. 117: Escena de Vestidor en Apartamento de Lujo Moderno
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar uma cena de vídeo ambientada num quarto de vestir de um apartamento de luxo moderno, com um interior limpo e contemporâneo.
+Una indicación para generar una escena de video ambientada en el vestidor de un apartamento de lujo moderno, con un interior limpio y contemporáneo.
 
 #### Prompt
 
@@ -2454,19 +2464,19 @@ Uma instrução para gerar uma cena de vídeo ambientada num quarto de vestir de
     "background": "clean contemporary interior with wardrobe shelves and clothing storage softly blurred in the distance, minimalist modern decor, large feature wall covered with a
 ```
 
-### No. 118: Poster de Mural Alegórico de Dois Ícones do Futebol
+### No. 118: Póster de Mural Alegórico de Dos Íconos del Fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um mural alegórico simétrico detalhado em formato de poster vertical com textura de papel envelhecido, celebrando duas carreiras lendárias do futebol.
+Un mural alegórico simétrico y detallado en formato vertical de póster, con textura de papel envejecido, que celebra las carreras de dos leyendas del fútbol.
 
 #### Prompt
 
@@ -2474,19 +2484,19 @@ Um mural alegórico simétrico detalhado em formato de poster vertical com textu
 A striking vertical art poster rendered in the style of a detailed, symmetrical allegorical mural with an aged paper texture, paying tribute to the unique and parallel careers of two
 ```
 
-### No. 119: Troféus das Nações da Copa do Mundo
+### No. 119: Trofeos de Naciones de la Copa del Mundo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** TechieSA
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma colagem criativa de troféus da Copa do Mundo representando Inglaterra, Argentina, Brasil e França, com ícones nacionais e slogans.
+Un collage creativo de trofeos de la Copa del Mundo que representan a Inglaterra, Argentina, Brasil y Francia, con íconos nacionales y eslóganes.
 
 #### Prompt
 
@@ -2494,19 +2504,19 @@ Uma colagem criativa de troféus da Copa do Mundo representando Inglaterra, Arge
 Four World Cup trophy designs made of national symbols, flags, and cultural elements for England, Argentina, Brazil, and France, each with confetti and vibrant backgrounds, in a 2x2 grid layout
 ```
 
-### No. 120: mulher com marca de beijo
+### No. 120: Mujer con marca de beso
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um vestido vermelho pisca o olho para a câmara com uma marca de batom de beijo no ombro, num cenário costeiro pitoresco.
+Una mujer con un vestido rojo guiña un ojo a la cámara con una marca de beso de lápiz labial en su hombro, sobre un fondo costero escénico.
 
 #### Prompt
 
@@ -2514,19 +2524,19 @@ Uma mulher com um vestido vermelho pisca o olho para a câmara com uma marca de 
 a woman in a red dress winking with a lipstick kiss mark on her shoulder, standing on a cliff overlooking the ocean, sunny day, golden hour lighting, realistic photography
 ```
 
-### No. 121: Cena Costeira com Vista Panorâmica de Colina ao Ar Livre
+### No. 121: Escena costera desde mirador en ladera al aire libre
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado para gerar uma paisagem costeira iluminada pelo sol, a partir de uma perspetiva de encosta.
+Una indicación estructurada para generar un paisaje costero bañado por el sol desde la perspectiva de una ladera.
 
 #### Prompt
 
@@ -2540,19 +2550,19 @@ Um prompt estruturado para gerar uma paisagem costeira iluminada pelo sol, a par
 }
 ```
 
-### No. 122: Homem adulto de frente para a câmara com olhar intenso
+### No. 122: Hombre adulto mirando a cámara con mirada intensa
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Picts by AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que descreve um homem com uma expressão séria, pele bronzeada e barba escura, virado diretamente para a câmara.
+Una indicación que describe a un hombre con expresión seria, piel bronceada y barba oscura, mirando directamente a la cámara.
 
 #### Prompt
 
@@ -2560,19 +2570,19 @@ Um prompt que descreve um homem com uma expressão séria, pele bronzeada e barb
 An adult male stands squarely facing the camera with level shoulders and a centered stance, his intense, serious direct gaze piercing through the frame. He has a warm tan complexion, a full dark beard, and heavily
 ```
 
-### No. 123: Classificações de Texto-para-Vídeo
+### No. 123: Clasificaciones de Texto a Video
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Steren
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um quadro de líderes a exibir classificações de modelos de IA de texto-para-vídeo com pontuações e votos.
+Una tabla de clasificación que muestra el ranking de modelos de IA de texto a video con sus puntuaciones y votos.
 
 #### Prompt
 
@@ -2580,19 +2590,19 @@ Um quadro de líderes a exibir classificações de modelos de IA de texto-para-v
 A screenshot of a text-to-video model ranking leaderboard with a clean, modern UI, white background, and a table listing models like gemini-omni-flash, dreamina-seedance, and happyhorse-1.0, showing rank, score, and votes, with a 'View all' button at the bottom.
 ```
 
-### No. 124: Classificações de Modelos de Texto-para-Vídeo
+### No. 124: Clasificación de modelos de Texto a Video
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Yash Bhalgat
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um quadro de líderes com tema escuro a exibir os principais modelos de IA de texto-para-vídeo com as suas pontuações, votos e classificações.
+Una tabla de clasificación con tema oscuro que muestra los principales modelos de IA de texto a video con sus puntuaciones, votos y posiciones.
 
 #### Prompt
 
@@ -2600,19 +2610,19 @@ Um quadro de líderes com tema escuro a exibir os principais modelos de IA de te
 dark theme interface showing a ranked list of text-to-video AI models with scores and votes
 ```
 
-### No. 125: Gato em Wireframe a Beber Chá
+### No. 125: Gato de alambre bebiendo té
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** TechieSA
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gato geométrico em wireframe desfruta de uma chávena de chá numa mesa com um bule e um pires.
+Un gato geométrico de estructura de alambre disfruta de una taza de té en una mesa con una tetera y un platillo.
 
 #### Prompt
 
@@ -2620,19 +2630,19 @@ Um gato geométrico em wireframe desfruta de uma chávena de chá numa mesa com 
 a wireframe cat drinking tea, geometric low-poly style, blue and white, sitting at a table with teapot and saucer, digital art, 3D render
 ```
 
-### No. 126: Gemini Omni Flash ocupa o 1º lugar
+### No. 126: Gemini Omni Flash ocupa el primer puesto
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alexandre Moufarek
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um quadro de líderes a comparar modelos de IA de texto-para-vídeo, com o Gemini Omni Flash a liderar a classificação.
+Una tabla de clasificación que compara modelos de IA de texto a video, con Gemini Omni Flash liderando el ranking.
 
 #### Prompt
 
@@ -2640,19 +2650,19 @@ Um quadro de líderes a comparar modelos de IA de texto-para-vídeo, com o Gemin
 A bar chart ranking text-to-video AI models with Gemini Omni Flash at #1, featuring a clean, modern design with teal bars and a light background.
 ```
 
-### No. 127: Ahsoka na Sombra
+### No. 127: Ahsoka en la sombra
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ImPaul
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um close-up de Ahsoka Tano com iluminação dramática a destacar o seu rosto e características encobertas pelo capuz.
+Un primer plano de Ahsoka Tano con una iluminación dramática que resalta su rostro y sus rasgos encapuchados.
 
 #### Prompt
 
@@ -2660,19 +2670,19 @@ Um close-up de Ahsoka Tano com iluminação dramática a destacar o seu rosto e 
 Ahsoka Tano, close-up portrait, dramatic lighting, white facial markings, striped hood, dark background, intense gaze, cinematic style
 ```
 
-### No. 128: Benchmark de Texto para Vídeo
+### No. 128: Evaluación comparativa de Texto a Video
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Mikel | AI Engineer
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras comparando pontuações ELO de vários modelos de texto-para-vídeo em preferência geral e seguimento de instruções.
+Un gráfico de barras que compara las puntuaciones ELO de varios modelos de texto a video en preferencia general y seguimiento de instrucciones.
 
 #### Prompt
 
@@ -2680,19 +2690,19 @@ Um gráfico de barras comparando pontuações ELO de vários modelos de texto-pa
 A bar chart comparing text-to-video models on overall preference and instruction following, with blue, black, dark gray, light gray, and white bars, labeled with ELO scores, set against a clean white background with a legend and title.
 ```
 
-### No. 129: Fotografia POV de Dentro de uma Máquina de Lavar
+### No. 129: Foto en POV desde dentro de una lavadora
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Giulia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma fotografia de estilo de vida peculiar e íntima, em ponto de vista, de dentro de uma máquina de lavar a olhar para Sydney Sweeney.
+Una indicación para una fotografía de estilo de vida peculiar e íntima en primera persona, desde dentro de una lavadora mirando a Sydney Sweeney.
 
 #### Prompt
 
@@ -2700,19 +2710,19 @@ Um prompt para uma fotografia de estilo de vida peculiar e íntima, em ponto de 
 A quirky and intimate POV lifestyle photograph taken from the inside of a washing machine looking out at Sydney Sweeney.
 ```
 
-### No. 130: Pose de Halloween do Ghostface
+### No. 130: Pose de Halloween de Ghostface
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um vestido preto segura uma máscara do Ghostface num cenário dramático de porta.
+Una mujer con un vestido negro sostiene una máscara de Ghostface en un escenario dramático de puerta.
 
 #### Prompt
 
@@ -2720,19 +2730,19 @@ Uma mulher com um vestido preto segura uma máscara do Ghostface num cenário dr
 a woman in a black dress holding a Ghostface mask, standing in a doorway with a candle, wearing black lace gloves and stockings, dark background with star effects, cinematic lighting, horror theme
 ```
 
-### No. 131: Retrato Cinematográfico Paquistanês Ultra Realista
+### No. 131: Retrato cinematográfico paquistaní ultra realista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Salina
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um retrato cinematográfico de alta resolução de uma mulher com traje tradicional paquistanês.
+Una indicación para crear un retrato cinematográfico de alta resolución de una mujer con atuendo tradicional paquistaní.
 
 #### Prompt
 
@@ -2740,19 +2750,19 @@ Um prompt para criar um retrato cinematográfico de alta resolução de uma mulh
 Use uploaded photo to create AN ULTRA REALISTIC HIGH RESOLUTION CINEMATIC PORTRAIT. A beautiful woman with long brown hair, haf-updo, wearing a black traditional Pakistani dress (shalwar kameez) with bright maroon scalloped trim
 ```
 
-### No. 132: Mulher com balões no Coliseu
+### No. 132: Mujer con globos en el Coliseo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Maria Pratt
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um vestido lavanda segura um ramo de balões roxos marmoreados em frente ao Coliseu ao pôr do sol.
+Una mujer con un vestido lavanda sostiene un ramo de globos de mármol púrpura frente al Coliseo al atardecer.
 
 #### Prompt
 
@@ -2760,19 +2770,19 @@ Uma mulher com um vestido lavanda segura um ramo de balões roxos marmoreados em
 a woman in a flowing lavender tulle gown holding a large cluster of purple marbled balloons, standing in front of the Colosseum at sunset, cinematic lighting, photorealistic, 8k
 ```
 
-### No. 133: Conceito de Filme Live-Action do Ben 10
+### No. 133: Concepto de película de acción real de Ben 10
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Karan
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que explora uma adaptação cinematográfica em live-action da franquia Ben 10.
+Un prompt que explora una adaptación cinematográfica de acción real de la franquicia Ben 10.
 
 #### Prompt
 
@@ -2780,19 +2790,19 @@ Um prompt que explora uma adaptação cinematográfica em live-action da franqui
 What if Ben 10 had a live action movie
 ```
 
-### No. 134: Gemini Omni Flash ocupa o 1º lugar
+### No. 134: Gemini Omni Flash ocupa el puesto #1
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Tokens on Solana
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras mostrando o Gemini Omni Flash como o modelo de IA de texto para vídeo melhor classificado.
+Un gráfico de barras que muestra a Gemini Omni Flash como el modelo de IA de texto a video mejor clasificado.
 
 #### Prompt
 
@@ -2800,19 +2810,19 @@ Um gráfico de barras mostrando o Gemini Omni Flash como o modelo de IA de texto
 A bar chart comparing text-to-video AI models with scores, highlighting Gemini Omni Flash as ranked #1, clean modern design, light background, Arena AI branding
 ```
 
-### No. 135: Benchmark de Texto para Vídeo
+### No. 135: Benchmark de texto a video
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** testtm
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras comparando modelos de geração de vídeo por IA em termos de preferência e seguimento de instruções.
+Un gráfico de barras que compara modelos de generación de video por IA en preferencia y seguimiento de instrucciones.
 
 #### Prompt
 
@@ -2820,19 +2830,19 @@ Um gráfico de barras comparando modelos de geração de vídeo por IA em termos
 A bar chart comparing text-to-video models on overall preference and instruction following, with blue bars for Gemini Omni Flash, black for Seedance 2.0, dark gray for HappyHorse, light gray for Kling v3 Pro, very light gray for Grok-Imagine-Video, and white for Wan 2.7, showing ELO scores from 800 to 1150, with data labels on each bar, set against a clean white background with a title at the top and descriptive text below.
 ```
 
-### No. 136: Mulher na Piscina com Vista para a Cidade
+### No. 136: Mujer en piscina con vistas a la ciudad
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** J⭕DIE
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma imagem de uma jovem com sardas e cabelo ruivo numa piscina rodeada por vistas da cidade.
+Un prompt para generar una imagen de una mujer joven con pecas y cabello rojo en una piscina rodeada de vistas urbanas.
 
 #### Prompt
 
@@ -2840,19 +2850,19 @@ Um prompt para gerar uma imagem de uma jovem com sardas e cabelo ruivo numa pisc
 A young woman with fair skin covered in light freckles, striking blue eyes, and long, wavy, wet auburn-red hair stands in the pool with breathtaking city views all around.
 ```
 
-### No. 137: Centro de Comando Móvel Futurista
+### No. 137: Centro de mando móvil futurista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que descreve um sofisticado centro de coordenação de campo de batalha com módulos expansíveis e displays holográficos.
+Un prompt que describe un sofisticado centro de coordinación en el campo de batalla con módulos expandibles y pantallas holográficas.
 
 #### Prompt
 
@@ -2861,19 +2871,19 @@ Futuristic Mobile Command Center
 A futuristic mobile command center designed as a sophisticated battlefield coordination hub, featuring expandable operations modules, holographic strategic displays, autonomous communication drones,
 ```
 
-### No. 138: Professora a ajudar aluna
+### No. 138: Profesor ayudando a estudiante
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma professora assiste uma aluna com os seus estudos num cenário de sala de aula iluminada.
+Un profesor ayuda a un estudiante con sus estudios en un aula luminosa.
 
 #### Prompt
 
@@ -2881,19 +2891,19 @@ Uma professora assiste uma aluna com os seus estudos num cenário de sala de aul
 a woman in a red shirt and black pants leaning over a student's desk in a classroom, pointing at an open textbook, the student writing in a notebook, realistic lighting, detailed facial features, classroom setting with desks, windows, and educational posters on the wall
 ```
 
-### No. 139: Prompt para Cena de Sala de Aula Moderna
+### No. 139: Prompt para escena de aula moderna
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado para gerar um vídeo de um ambiente de sala de aula moderno, limpo e organizado.
+Un prompt estructurado para generar un video de un entorno de aula moderno, limpio y organizado.
 
 #### Prompt
 
@@ -2906,19 +2916,19 @@ Um prompt estruturado para gerar um vídeo de um ambiente de sala de aula modern
 }
 ```
 
-### No. 140: Transferência de Rosto para Cena de Iate de Luxo
+### No. 140: Transferencia de rostro a escena de yate de lujo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Jahan Zaib
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para transferir um rosto de uma foto de referência para uma imagem ultra-realista de um iate de luxo, preservando a identidade e características exatas.
+Un prompt para transferir un rostro de una foto de referencia a una imagen ultrarealista de un yate de lujo, preservando la identidad y características exactas.
 
 #### Prompt
 
@@ -2926,19 +2936,19 @@ Um prompt para transferir um rosto de uma foto de referência para uma imagem ul
 use my reference photo, transfer the face from the photo without changing it, preserve exact identity, facial features, body proportions and natural skin tone with 100% similarity. Ultra-realistic luxury yacht photo, vertical 3:4.
 ```
 
-### No. 141: Retrato Dramático em Chamas e Fumo
+### No. 141: Retrato dramático en llamas y humo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alex Prompts
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um retrato amplo e dramático de um sujeito sentado num chão de madeira rodeado por chamas e fumo.
+Un prompt para un retrato amplio y dramático de un sujeto sentado en un suelo de madera rodeado de llamas y humo.
 
 #### Prompt
 
@@ -2946,19 +2956,19 @@ Um prompt para um retrato amplo e dramático de um sujeito sentado num chão de 
 Dramatic wide portrait of IMAGE1 sitting casually on wooden floor completely  surrounded by large roaring flames and thick smoke, wearing a
 ```
 
-### No. 142: Prompt para Retrato Editorial de Moda Streetwear
+### No. 142: Prompt para retrato editorial de moda streetwear
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato editorial de moda streetwear de luxo de uma mulher.
+Un prompt para generar un retrato editorial de moda streetwear de lujo de una mujer.
 
 #### Prompt
 
@@ -2966,19 +2976,19 @@ Um prompt para gerar um retrato editorial de moda streetwear de luxo de uma mulh
 Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an oversized black leather bomber jacket, black oversized
 ```
 
-### No. 143: Perfil do Sheikh Omar Khan
+### No. 143: Perfil del Sheikh Omar Khan
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Natia Kurdadze
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um perfil de redes sociais que exibe um estilo de vida de luxo e conteúdo sobre construção de riqueza.
+Un perfil de redes sociales que muestra un estilo de vida de lujo y contenido sobre creación de riqueza.
 
 #### Prompt
 
@@ -2986,19 +2996,19 @@ Um perfil de redes sociais que exibe um estilo de vida de luxo e conteúdo sobre
 a screenshot of a social media profile page with a dark theme, showing a user named Sheikh Omar Khan, with posts, followers, and a dashboard displaying 8.4K views in the last 30 days, featuring images of a man in traditional Middle Eastern attire in luxurious settings like a private jet, yacht, and mansion, with app download links and promotional text about becoming wealthy
 ```
 
-### No. 144: promoção de bebida energética
+### No. 144: Promoción de bebida energética
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Dhairya
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma colagem dinâmica que mostra uma mulher a promover uma bebida energética num ambiente de fitness.
+Un collage dinámico que muestra a una mujer promocionando una bebida energética en un entorno de fitness.
 
 #### Prompt
 
@@ -3006,19 +3016,19 @@ Uma colagem dinâmica que mostra uma mulher a promover uma bebida energética nu
 a collage of a woman in various workout outfits holding a can of Celius energy drink, posing energetically in a bright gym setting, social media style, vibrant lighting, high detail
 ```
 
-### No. 145: Mulher com Vestido no Elevador
+### No. 145: Mujer con vestido de ascensor
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Pinodi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um vestido preto de lantejoulas posa com confiança num elevador elegante e refletor, com o seu reflexo visível no espelho.
+Una mujer con un vestido negro de lentejuelas posa con confianza en un ascensor elegante y reflectante, con su reflejo visible en el espejo.
 
 #### Prompt
 
@@ -3026,19 +3036,19 @@ Uma mulher com um vestido preto de lantejoulas posa com confiança num elevador 
 a woman with long black hair wearing a black sequined halter dress, standing in a modern elevator with reflective metallic walls, holding her hand to her neck, looking directly at the camera, a studded black handbag on the floor beside her, studio lighting, high fashion photography
 ```
 
-### No. 146: Retrato foto-realista em estádio vazio
+### No. 146: Retrato fotorrealista en estadio vacío
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Justice Studio 2.0
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato foto-realista de uma jovem com pele oliva e cabelo escuro, de pé com confiança num estádio desportivo vazio sob um céu dramático.
+Un retrato fotorrealista de una mujer joven con piel aceitunada y cabello oscuro, de pie con confianza en un estadio deportivo vacío bajo cielos dramáticos.
 
 #### Prompt
 
@@ -3046,19 +3056,19 @@ Um retrato foto-realista de uma jovem com pele oliva e cabelo escuro, de pé com
 A photorealistic portrait of a beautiful young woman with olive skin, shoulder-length wavy dark brown hair, and subtle makeup, standing confidently in a large empty sports stadium under dramatic overcast skies. She wears a fitted
 ```
 
-### No. 147: Close-up subtil e desfocado de amador com iPhone
+### No. 147: Primer plano sutil y borroso de aficionado con iPhone
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** KeorUnreal
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um close-up subtil, desfocado e de baixa qualidade, semelhante a uma gravação amadora feita com iPhone.
+Un prompt para un primer plano sutil, borroso y de baja calidad que se asemeje a un metraje amateur grabado con iPhone.
 
 #### Prompt
 
@@ -3066,19 +3076,19 @@ Um prompt para um close-up subtil, desfocado e de baixa qualidade, semelhante a 
 Subtle blurry low quality close-up amateur iPhone
 ```
 
-### No. 148: Equipa de Edição de Vídeo Futurista
+### No. 148: Equipo de Edición de Video Futurista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Rabia Eddari
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma equipa de profissionais colabora num estúdio de edição de vídeo de alta tecnologia sob uma iluminação dramática.
+Un equipo de profesionales colabora en un estudio de edición de video de alta tecnología bajo una iluminación dramática.
 
 #### Prompt
 
@@ -3086,19 +3096,19 @@ Uma equipa de profissionais colabora num estúdio de edição de vídeo de alta 
 a futuristic video editing studio with a large screen displaying colorful video clips, people in business attire collaborating around workstations, dramatic lighting with blue and purple hues, cinematic atmosphere, high detail, 8k
 ```
 
-### No. 149: Lamborghini Countach concebido na URSS
+### No. 149: Lamborghini Countach diseñado en la URSS
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Riccardo
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que descreve um carro Lamborghini Countach concebido na URSS durante a década de 1950.
+Un prompt que describe un automóvil Lamborghini Countach diseñado en la URSS durante la década de 1950.
 
 #### Prompt
 
@@ -3106,19 +3116,19 @@ Um prompt que descreve um carro Lamborghini Countach concebido na URSS durante a
 Lamborghini Countach zaprojektowane w ZSRR w latach 50
 ```
 
-### No. 150: Cena de Autocuidado em Flat Lay Editorial Vista de Cima com Yoga
+### No. 150: Escena de Cuidado Personal: Vista Superior (Flat Lay) de Yoga
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um flat lay editorial visto de cima de uma mulher num tapete de yoga com café gelado e objetos de autocuidado.
+Una vista superior editorial (flat lay) de una mujer sobre una colchoneta de yoga con café helado y elementos de cuidado personal.
 
 #### Prompt
 
@@ -3129,19 +3139,19 @@ Um flat lay editorial visto de cima de uma mulher num tapete de yoga com café g
 }
 ```
 
-### No. 151: História Alternativa do Trabant da Alemanha de Leste como Corvette
+### No. 151: Historia Alternativa: Trabant de Alemania Oriental Corvette
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Riccardo
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um vídeo de um Chevrolet Corvette redesenhado por engenheiros da Trabant na Alemanha de Leste durante 1957.
+Un prompt para generar un video de un Chevrolet Corvette rediseñado por ingenieros de Trabant en Alemania Oriental durante 1957.
 
 #### Prompt
 
@@ -3149,19 +3159,19 @@ Um prompt para gerar um vídeo de um Chevrolet Corvette redesenhado por engenhei
 Chevrolet Corvette designed in East Germany by Trabant engineers in 1957, retro GDR automotive design, socialist industrial aesthetics, realistic alternate history
 ```
 
-### No. 152: Cerimónia de coroação numa catedral
+### No. 152: Ceremonia de coronación en una catedral
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Dalniery
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um momento régio desenrola-se numa grandiosa catedral enquanto uma coroa é apresentada durante um evento cerimonial.
+Un momento regio se desarrolla en una gran catedral mientras se presenta una corona durante un evento ceremonial.
 
 #### Prompt
 
@@ -3169,19 +3179,19 @@ Um momento régio desenrola-se numa grandiosa catedral enquanto uma coroa é apr
 a dramatic scene in a medieval cathedral with a man in a red robe holding a crown, another man in a fur-lined robe standing nearby, and onlookers in period clothing, cinematic lighting, high detail
 ```
 
-### No. 153: Prompt Editorial de Moda de Alta Costura com Ténis e Gelado
+### No. 153: Prompt Editorial de Alta Moda: Tenis y Helado
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt detalhado para gerar uma imagem editorial de moda de alta costura ultra-fotorrealista, com uma mulher atlética num campo de ténis.
+Un prompt detallado para generar una imagen editorial de alta moda ultra fotorrealista que presenta a una mujer atlética en una cancha de tenis.
 
 #### Prompt
 
@@ -3189,19 +3199,19 @@ Um prompt detalhado para gerar uma imagem editorial de moda de alta costura ultr
 Ultra-photorealistic high-fashion sports editorial, vertical 4:5. A single athletic woman in her mid-20s stands centered on a professional outdoor tennis court, holding an oversized luxury gelato-style waffle cone at chest height
 ```
 
-### No. 154: Prompt de Personagem de Catador Adolescente Magro
+### No. 154: Prompt de Personaje: Adolescente Delgada Recolectora
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kōda
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que descreve uma personagem adolescente magra, catadora, com cabelo em duas tranças de cor ciano.
+Un prompt que describe a un personaje adolescente delgado y recolectora con cabello cian en dos coletas.
 
 #### Prompt
 
@@ -3209,19 +3219,19 @@ Um prompt que descreve uma personagem adolescente magra, catadora, com cabelo em
 CHARACTER = skinny teenage scavenger with cyan twin-tail hair
 ```
 
-### No. 155: Colagem de Selfie para Instagram Story Ultra Fotorrealista
+### No. 155: Collage de Selfie Ultra Fotorrealista para Historia de Instagram
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar uma colagem vertical 3x2 de uma jovem mulher com uma estética de saída à noite inspirada na Cinderela.
+Un prompt para crear un collage vertical 3x2 de una mujer joven con una estética inspirada en Cenicienta para una noche de fiesta.
 
 #### Prompt
 
@@ -3229,19 +3239,19 @@ Um prompt para criar uma colagem vertical 3x2 de uma jovem mulher com uma estét
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Modern Cinderella-inspired night-out aesthetic, dreamy but
 ```
 
-### No. 156: Selfie de iPhone ultra-realista num parque ensolarado
+### No. 156: Selfie ultrarealista de iPhone en un parque soleado
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma selfie de iPhone ultra-realista, tirada de um ângulo alto, de uma mulher confiante a caminhar num parque ensolarado.
+Un prompt para generar un selfie ultrarealista desde un ángulo alto tomado con iPhone de una mujer segura caminando en un parque soleado.
 
 #### Prompt
 
@@ -3249,19 +3259,19 @@ Um prompt para gerar uma selfie de iPhone ultra-realista, tirada de um ângulo a
 Preserve the woman’s face, selfie angle, skin texture, hairstyle, and overall confident sporty energy from the reference image. Create an ultra-realistic iPhone selfie taken from a high angle in a sunny park. She is walking on a park path
 ```
 
-### No. 157: Comparação de Edição de Vídeo com IA
+### No. 157: Comparación de Edición de Video con IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 🚨 AI News | TestingCatalog
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras comparando o desempenho de várias ferramentas de edição de vídeo com IA em duas métricas.
+Un gráfico de barras que compara el rendimiento de varias herramientas de edición de video con IA en dos métricas.
 
 #### Prompt
 
@@ -3269,19 +3279,19 @@ Um gráfico de barras comparando o desempenho de várias ferramentas de edição
 A bar chart comparing Elo scores of AI video editing tools, with categories 'Overall Preference' and 'Instruction Following', showing data for Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, in a clean modern style with blue, black, gray, and white bars on a light background.
 ```
 
-### No. 158: Retrato de Mulher Coreana Fofa com Iluminação Suave
+### No. 158: Retrato de una Mujer Coreana Linda con Iluminación Suave
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt descritivo para um retrato colorido em close-up de uma jovem mulher coreana com um sorriso gentil e olhos expressivos.
+Un prompt descriptivo para un retrato en color de primer plano de una mujer coreana joven con una sonrisa gentil y ojos expresivos.
 
 #### Prompt
 
@@ -3289,19 +3299,19 @@ Um prompt descritivo para um retrato colorido em close-up de uma jovem mulher co
 A vertical, close-up color portrait of a young Korean woman with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks.
 ```
 
-### No. 159: Mulher a ler na cama
+### No. 159: Mujer leyendo en la cama
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Giulia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma jovem mulher lê um livro enquanto está deitada na sua cama, num quarto com iluminação suave e luzes de corda.
+Una mujer joven lee un libro mientras está acostada en su cama en un dormitorio con luz suave y luces de cuerda.
 
 #### Prompt
 
@@ -3309,19 +3319,19 @@ Uma jovem mulher lê um livro enquanto está deitada na sua cama, num quarto com
 a young woman with dark wavy hair lying on a bed in a cozy bedroom, reading a book, soft lighting from string lights, blue bedding, intimate and serene atmosphere
 ```
 
-### No. 160: Logótipo Google Omni
+### No. 160: Logo de Google Omni
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Divyanshu Divy
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um logótipo vibrante e moderno para o Google Omni com um gradiente de arco-íris e uma estrela cintilante.
+Un logo vibrante y moderno para Google Omni con un gradiente arcoíris y una estrella centelleante.
 
 #### Prompt
 
@@ -3329,19 +3339,19 @@ Um logótipo vibrante e moderno para o Google Omni com um gradiente de arco-íri
 Google Omni logo with colorful gradient text, modern design, white background, small star icon
 ```
 
-### No. 161: Plano cinematográfico de uma mulher futurista com capacete
+### No. 161: Plano cinematográfico de una mujer futurista con casco
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Saki H. 咲希
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um plano cinematográfico de corpo inteiro de uma jovem mulher de perfil, segurando um capacete de piloto.
+Un prompt para un plano cinematográfico de cuerpo completo de una mujer joven de perfil sosteniendo un casco de piloto.
 
 #### Prompt
 
@@ -3349,19 +3359,19 @@ Um prompt para um plano cinematográfico de corpo inteiro de uma jovem mulher de
 A cinematic, dutch angle, full body shot of a young woman as in <<<image_1>>> cooly walking in profile, one hand holding an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed, futuristic
 ```
 
-### No. 162: Mapa de Estádio de Futebol em Miniatura Ganha Vida
+### No. 162: Mapa de Estadio de Fútbol en Miniatura Cobra Vida
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alexandra Aisling
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um vídeo de um mapa de estádio em miniatura a transformar-se numa cena vibrante de dia de jogo.
+Un prompt para generar un video de un mapa de estadio en miniatura que se transforma en una escena animada de día de partido.
 
 #### Prompt
 
@@ -3372,16 +3382,16 @@ A football stadium map of [STADIUM], [CITY] spread across a table, transformed i
 ### No. 163: Gemini Omni Flash #1
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Leituras com Ravi 🍁
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um quadro de classificação que ordena modelos de IA de texto para vídeo, com o Gemini Omni Flash no topo.
+Una tabla de clasificación que posiciona modelos de IA de texto a video, con Gemini Omni Flash en la parte superior.
 
 #### Prompt
 
@@ -3389,19 +3399,19 @@ Um quadro de classificação que ordena modelos de IA de texto para vídeo, com 
 A bar chart comparing text-to-video AI models with scores, highlighting Gemini Omni Flash as #1, clean modern design, light background, Arena AI branding
 ```
 
-### No. 164: Mulher jovem foto-realista com cabelo castanho escuro
+### No. 164: Mujer joven fotorrealista con cabello castaño oscuro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sadie 🥀
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma imagem foto-realista de uma jovem mulher com pele clara e cabelo castanho escuro longo e liso.
+Una indicación para generar una imagen fotorrealista de una mujer joven con piel clara y cabello castaño oscuro largo y liso.
 
 #### Prompt
 
@@ -3409,19 +3419,19 @@ Um prompt para gerar uma imagem foto-realista de uma jovem mulher com pele clara
 A highly detailed, photorealistic image of a stunning young woman in her mid-20s with fair skin, long straight dark brown hair with a black
 ```
 
-### No. 165: Retrato Ultra Realista de uma Jovem Mulher
+### No. 165: Retrato Ultra Realista de una Mujer Joven
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Virena
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato íntimo e realista com características detalhadas da pele e dos olhos.
+Una indicación para generar un retrato realista e íntimo con características detalladas de la piel y los ojos.
 
 #### Prompt
 
@@ -3429,19 +3439,19 @@ Um prompt para gerar um retrato íntimo e realista com características detalhad
 Ultra-realistic intimate lifestyle portrait of a young woman with fair warm-toned skin, peach-beige undertones, natural skin texture, and a soft satin glow. She has large dark brown almond-shaped eyes with a calm, slightly wistful expression
 ```
 
-### No. 166: Comparação de Edição de Vídeo por IA
+### No. 166: Comparativa de Edición de Video con IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Nitesh Kushwaha 🗞️🌎
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras comparando o desempenho de várias ferramentas de edição de vídeo por IA baseado em pontuações Elo.
+Un gráfico de barras que compara el rendimiento de varias herramientas de edición de video por IA basándose en puntuaciones Elo.
 
 #### Prompt
 
@@ -3449,19 +3459,19 @@ Um gráfico de barras comparando o desempenho de várias ferramentas de edição
 A bar chart comparing Elo scores of AI video editing tools, with blue, black, dark gray, light gray, and white bars for Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, showing two categories: Overall Preference and Instruction Following, on a clean white background with a title 'Video Editing' and legend.
 ```
 
-### No. 167: Retrato Cinematográfico de uma Mulher do Leste Asiático
+### No. 167: Retrato Cinematográfico de una Mujer del Este de Asia
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** auqib
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um retrato hiper-realista em close-up de uma jovem mulher com uma expressão calma.
+Una indicación para un retrato hiperrealista en primer plano de una mujer joven con una expresión tranquila.
 
 #### Prompt
 
@@ -3469,19 +3479,19 @@ Um prompt para um retrato hiper-realista em close-up de uma jovem mulher com uma
 A cinematic, hyper-realistic close-up portrait of a young East Asian woman with dark hair tied up in a loose, casual bun, with a few stray strands framing her face. She has clear skin, warm brown eyes, and a neutral, calm expression.
 ```
 
-### No. 168: Retrato de moda ultra-realista com t-shirt vermelha
+### No. 168: Retrato de moda ultrarealista con camiseta roja
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** liana
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato de close-up de revista de moda de uma mulher com uma t-shirt vermelha "WHATEVER", usando uma referência para a estrutura do rosto e do corpo.
+Una indicación para generar un retrato de primer plano de revista de moda de una mujer con una camiseta roja que dice "WHATEVER", utilizando una referencia para la estructura del rostro y el cuerpo.
 
 #### Prompt
 
@@ -3489,19 +3499,19 @@ Um prompt para gerar um retrato de close-up de revista de moda de uma mulher com
 Use 100% face and body structure from attached reference to create a Ultra-realistic fashion magazine close-up portrait of a beautiful young woman wearing an oversized premium red t-shirt featuring the bold white caption "WHATEVER" printed across
 ```
 
-### No. 169: Retrato de Beleza Ultra Realista com Flash
+### No. 169: Retrato de Belleza Ultra Realista con Flash
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** simply
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato realista em close-up de uma mulher com flash estilo iPhone num ambiente interior escuro.
+Una indicación para generar un retrato realista en primer plano de una mujer con flash al estilo iPhone en un entorno interior oscuro.
 
 #### Prompt
 
@@ -3509,19 +3519,19 @@ Um prompt para gerar um retrato realista em close-up de uma mulher com flash est
 Ultra-realistic close-up beauty portrait of a stunning young woman, captured with an iPhone / digital camera aesthetic using direct on-camera flash in a dark indoor setting. Glamorous candid beauty shot with soft lens glow, subtle flash bloom
 ```
 
-### No. 170: Retrato de estúdio hiper-realista de um jovem
+### No. 170: Retrato de estudio hiperrealista de un hombre joven
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Nexora
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt detalhado para um retrato de estúdio hiper-realista de corpo inteiro de um jovem confiante sentado num banco de designer.
+Una indicación detallada para un retrato de estudio hiperrealista de cuerpo completo de un hombre joven confiado, sentado en un taburete de diseñador.
 
 #### Prompt
 
@@ -3529,19 +3539,19 @@ Um prompt detalhado para um retrato de estúdio hiper-realista de corpo inteiro 
 Hyper-realistic luxury studio full-body portrait of a confident young man seated on a premium matte-black designer stool. He has neatly styled brown hair, a well-groomed beard and mustache, and is looking directly into the camera with a
 ```
 
-### No. 171: Calígrafo na Tinta
+### No. 171: Calígrafo en Tinta
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ぴょんきち
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem idoso escreve caligrafia com um pincel grande numa sala pouco iluminada, cheia de tinta e papel.
+Un anciano escribe caligrafía con un pincel grande en una habitación con poca luz, llena de tinta y papel.
 
 #### Prompt
 
@@ -3549,19 +3559,19 @@ Um homem idoso escreve caligrafia com um pincel grande numa sala pouco iluminada
 an elderly Japanese calligrapher with white hair, wearing a dark robe, kneeling on the floor and writing with a large brush, surrounded by ink-stained papers and lanterns, warm lighting, cinematic, highly detailed, 8k
 ```
 
-### No. 172: cápsula verde brilhante
+### No. 172: Cápsula verde brillante
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** RELOX Gamer
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um close-up de uma cápsula verde luminosa com um fundo de foco suave.
+Un primer plano de una cápsula luminosa de color verde con un fondo de enfoque suave.
 
 #### Prompt
 
@@ -3569,19 +3579,19 @@ Um close-up de uma cápsula verde luminosa com um fundo de foco suave.
 a glowing green capsule floating in a soft-focus green background, smooth and translucent with light reflections
 ```
 
-### No. 173: Prompt de Selfie no Espelho com Bloqueio de Rosto
+### No. 173: Indicación para Selfie en el Espejo con Bloqueo Facial
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Salina
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma selfie no espelho com preservação estrita do rosto e um estilo moderno de fotografia móvel.
+Una indicación para generar un selfie en el espejo con preservación estricta del rostro y un estilo moderno de fotografía móvil.
 
 #### Prompt
 
@@ -3589,19 +3599,19 @@ Um prompt para gerar uma selfie no espelho com preservação estrita do rosto e 
 Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a
 ```
 
-### No. 174: Faixa de Retrato Cinematográfico de uma Jovem Mulher
+### No. 174: Tira de Retrato Cinematográfico de una Mujer Joven
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Wandering Corner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma faixa vertical de retrato cinematográfico com 5 painéis, apresentando uma jovem mulher do Leste Asiático com detalhes visuais específicos.
+Una indicación para generar una tira vertical de cinco paneles de retrato cinematográfico que presenta a una mujer joven del este de Asia con detalles visuales específicos.
 
 #### Prompt
 
@@ -3609,19 +3619,19 @@ Um prompt para gerar uma faixa vertical de retrato cinematográfico com 5 painé
 5-panel vertical cinematic portrait strip of a beautiful young IEast Asian woman (20–24), warm wheatish skin, long silky dark hair flowing naturally, striking magenta-pink lips, subtle makeup, minimal accessories. She wears an
 ```
 
-### No. 175: Gráfico de Comparação de Modelos de IA
+### No. 175: Gráfico Comparativo de Modelos de IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** remix.camera
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras comparando as taxas de aceitação de cinco modelos de geração de imagens por IA usando os mesmos prompts.
+Un gráfico de barras que compara las tasas de aceptación de cinco modelos de generación de imágenes por IA utilizando las mismas indicaciones.
 
 #### Prompt
 
@@ -3629,19 +3639,19 @@ Um gráfico de barras comparando as taxas de aceitação de cinco modelos de ger
 A clean, modern bar chart comparing AI image generation models with green, red, black, blue, and purple bars, showing acceptance rates for Seedream 4.5, Seedream V5, Nano Banana 2, Grok, and GPT Image 2 Medium, with text labels and percentages, on a white background
 ```
 
-### No. 176: Sessão Fotográfica Noturna na Água
+### No. 176: Sesión de Fotos Nocturna en el Agua
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** remix.camera
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher num fato de banho escuro posa junto a uma piscina sob luzes azuis e cor-de-rosa numa sessão fotográfica de alta moda.
+Una mujer en un traje de baño oscuro posa junto a una piscina bajo luces azules y rosas en una sesión de fotos de alta costura.
 
 #### Prompt
 
@@ -3649,19 +3659,19 @@ Uma mulher num fato de banho escuro posa junto a uma piscina sob luzes azuis e c
 A woman in a black swimsuit sitting by a pool at night, illuminated by blue light, with neon pink accents, high fashion photoshoot style, cinematic lighting, wet hair, elegant pose, close-up shot
 ```
 
-### No. 177: Moodboard de Personagem Inspirado em Anime de Kinza
+### No. 177: Tablero de Inspiración de Personaje con Estilo Anime de Kinza
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt detalhado para gerar um poster de moodboard em estilo anime com uma mulher do Sul da Ásia com cabelo preto longo.
+Una indicación detallada para generar un póster de tablero de inspiración al estilo anime que presenta a una mujer del sur de Asia con cabello negro largo.
 
 #### Prompt
 
@@ -3669,19 +3679,19 @@ Um prompt detalhado para gerar um poster de moodboard em estilo anime com uma mu
 An ultra-detailed anime-inspired character moodboard poster of a beautiful young South Asian woman named "Kinza". She has long voluminous black hair flowing naturally, elegant facial features, expressive deep eyes, a soft confident
 ```
 
-### No. 178: Retrato Noturno de uma Mulher na Rua
+### No. 178: Retrato Callejero Nocturno de una Mujer
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Eesha
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato fotorealista noturno de uma jovem mulher na rua, com textura de pele e maquilhagem detalhadas.
+Un retrato callejero nocturno fotorrealista de una mujer joven con textura de piel y maquillaje detallados.
 
 #### Prompt
 
@@ -3689,19 +3699,19 @@ Um retrato fotorealista noturno de uma jovem mulher na rua, com textura de pele 
 RAW photorealistic night street portrait of a beautiful young woman with long straight silky black hair (middle part), glowing natural skin texture with visible pores and imperfections, soft clean Douyin glam makeup, calm slightly intimidating
 ```
 
-### No. 179: A Minha Configuração Hermes
+### No. 179: Mi Configuración de Hermes
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Chris Tabasco - AI Evolution Polska
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem apresenta a sua configuração de assistente pessoal com IA, incluindo um robô e uma aplicação de telemóvel.
+Un hombre muestra su configuración de asistente personal con IA, que incluye un robot y una aplicación de smartphone.
 
 #### Prompt
 
@@ -3709,19 +3719,19 @@ Um homem apresenta a sua configuração de assistente pessoal com IA, incluindo 
 A man in a black t-shirt with AI Evolution Labs logo stands in a futuristic tech lab, holding a smartphone displaying a messaging app called HERMES, next to a sleek black robot, with glowing blue lights and digital interfaces in the background, text overlay 'My Hermes Setup' and 'My personal assistant'
 ```
 
-### No. 180: Mulher na varanda à noite
+### No. 180: Mujer en el balcón por la noche
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher posa numa varanda com vista para uma paisagem urbana vibrante à noite.
+Una mujer posa en un balcón con vista a un paisaje urbano vibrante por la noche.
 
 #### Prompt
 
@@ -3729,19 +3739,19 @@ Uma mulher posa numa varanda com vista para uma paisagem urbana vibrante à noit
 a woman with blonde hair standing on a balcony at night, wearing a black crop top and gray shorts, looking back over her shoulder, city skyline with illuminated buildings in the background, warm lighting from the building interior, high detail, realistic, 4k
 ```
 
-### No. 181: Risco de filme vintage
+### No. 181: Arañazo de película vintage
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Reese
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um fotograma a preto e branco com grão, mostrando danos de filme e uma linha curva, evocando a estética dos filmes antigos.
+Un fotograma en blanco y negro con grano que muestra daños en la película y una línea curva, evocando la estética del cine antiguo.
 
 #### Prompt
 
@@ -3749,19 +3759,19 @@ Um fotograma a preto e branco com grão, mostrando danos de filme e uma linha cu
 grainy black and white film frame with scratches and a curved line, vintage film effect
 ```
 
-### No. 182: Rotunda do Arquivo Celestial
+### No. 182: Rotonda del Archivo Celestial
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** sayobonita
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma majestosa biblioteca flutuante suspensa no céu, com arquitetura ornamentada e luz a brilhar no seu interior.
+Una majestuosa biblioteca flotante suspendida en el cielo, con arquitectura ornamentada y una luz que brilla desde su interior.
 
 #### Prompt
 
@@ -3769,19 +3779,19 @@ Uma majestosa biblioteca flutuante suspensa no céu, com arquitetura ornamentada
 a floating architectural marvel with a grand dome, intricate balconies, and a central library, surrounded by lush greenery, in a fantasy style, detailed, cinematic lighting
 ```
 
-### No. 183: Colagem de Retrato de Estúdio Ultra Fotorrealista
+### No. 183: Collage de Retrato de Estudio Ultra Fotorrealista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sharon Riley
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma colagem de retrato de estúdio ultra fotorrealista em 8K de uma mulher com maquilhagem detalhada e um vestido texturizado em bouclé.
+Un collage de retrato de estudio ultra fotorrealista en 8K de una mujer con maquillaje detallado y un vestido texturizado de punto bucle.
 
 #### Prompt
 
@@ -3789,19 +3799,19 @@ Uma colagem de retrato de estúdio ultra fotorrealista em 8K de uma mulher com m
 Ultra-photorealistic 8K studio portrait collage of a woman with long, voluminous loose waves, natural glass-skin makeup, flushed cheeks, glossy pink lips, and defined lashes. She wears a tight bodycon mini dress made of soft textured boucle
 ```
 
-### No. 184: Recriação de Cena Noturna a partir de Imagem de Referência
+### No. 184: Recreación de una Escena Nocturna a partir de una Imagen de Referencia
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** remix.camera
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para recriar uma cena noturna espontânea usando uma imagem de referência, sem alterar o rosto.
+Una indicación para recrear una escena cándida de vida nocturna usando una imagen de referencia sin alterar el rostro.
 
 #### Prompt
 
@@ -3809,19 +3819,19 @@ Um prompt para recriar uma cena noturna espontânea usando uma imagem de referê
 Using the person in the uploaded reference image (DO NOT TOUCH FACE), recreate this scene: candid nightlife photo of two women standing close together indoors in a dimly lit apartment or party setting, photographed with a direct
 ```
 
-### No. 185: Sala de Jogos Retro
+### No. 185: Sala de Juegos Retro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kris Kashtanova
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma sala de jogos retro acolhedora, com um computador vintage e um retrato a preto e branco de uma mulher.
+Una acogedora sala de juegos retro con un equipo informático vintage y un retrato en blanco y negro de una mujer.
 
 #### Prompt
 
@@ -3829,19 +3839,19 @@ Uma sala de jogos retro acolhedora, com um computador vintage e um retrato a pre
 a retro gaming room with a vintage computer, lava lamp, posters, and a cat, with a black and white circular portrait of a woman on the right
 ```
 
-### No. 186: Modelo de Moda com Mudanças Rápidas de Traje
+### No. 186: Cambios Rápidos de Atuendo de una Modelo de Moda
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Dheepan Ratnam
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt de vídeo para uma modelo de moda a alternar rapidamente por 20 estilos diferentes em 10 segundos, com cortes nítidos.
+Una indicación de video para una modelo de moda que cambia rápidamente entre 20 estilos diferentes en 10 segundos con cortes bruscos.
 
 #### Prompt
 
@@ -3849,19 +3859,19 @@ Um prompt de vídeo para uma modelo de moda a alternar rapidamente por 20 estilo
 A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts
 ```
 
-### No. 187: Jovem atlético de frente para a câmara
+### No. 187: Joven atlético mirando a cámara
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Picts by AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que descreve um homem jovem adulto com físico atlético, uma expressão séria e cabelo curto.
+Una indicación que describe a un hombre joven adulto con complexión atlética, expresión seria y cabello corto.
 
 #### Prompt
 
@@ -3869,19 +3879,19 @@ Um prompt que descreve um homem jovem adulto com físico atlético, uma express�
 A young adult male with an athletic build stands on the left side of the frame, facing the camera with a calm, serious expression, a closed neutral mouth, and a direct gaze. His hair is short on the sides and about two
 ```
 
-### No. 188: Copa do Mundo FIFA 2026
+### No. 188: Copa Mundial de la FIFA 2026
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kaan
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma obra de arte digital vibrante que apresenta a Estátua da Liberdade a segurar o troféu da Copa do Mundo FIFA num estádio rodeado por bandeiras nacionais.
+Una obra de arte digital vibrante que muestra a la Estatua de la Libertad sosteniendo el trofeo de la Copa Mundial de la FIFA en un estadio rodeado de banderas nacionales.
 
 #### Prompt
 
@@ -3889,19 +3899,19 @@ Uma obra de arte digital vibrante que apresenta a Estátua da Liberdade a segura
 FIFA World Cup 2026 poster with Statue of Liberty holding the trophy, surrounded by national flags, in a stadium with a soccer ball, vibrant colors, digital art
 ```
 
-### No. 189: Storyboard do Cavaleiro da Monção
+### No. 189: Storyboard del Jinete del Monzón
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Adithya Thatipalli
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma sequência de storyboard que mostra um rapaz a andar alegremente num barco de papel por uma aldeia inundada durante a época das monções.
+Una secuencia de storyboard que muestra a un niño montando alegremente en un barco de papel por una aldea inundada durante la temporada de monzones.
 
 #### Prompt
 
@@ -3909,19 +3919,19 @@ Uma sequência de storyboard que mostra um rapaz a andar alegremente num barco d
 A young Indian boy makes a paper boat during heavy monsoon rain, rides it through flooded village lanes, with dynamic camera angles and detailed rain physics, in the style of Indian anime storyboard art
 ```
 
-### No. 190: Retrato Espontâneo de um Homem em Ângulo Baixo
+### No. 190: Retrato Cándido en Contrapicado de un Hombre
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Aijaz
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma fotografia espontânea e nítida, tirada em ângulo baixo, de um homem ao ar livre sob luz solar intensa.
+Una indicación para una fotografía cándida nítida, en contrapicado, de un hombre al aire libre bajo una luz diurna intensa.
 
 #### Prompt
 
@@ -3929,19 +3939,19 @@ Um prompt para uma fotografia espontânea e nítida, tirada em ângulo baixo, de
 A sharp, low-angle candid photograph of a man use image for face reference outdoors under bright, harsh daylight, looking slightly to the left. He is wearing a sharp navy blue tailored blazer over a dark t-shirt, modern rimless
 ```
 
-### No. 191: Comparação de Edição de Vídeo com IA
+### No. 191: Comparativa de Edición de Video con IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Wes Roth
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico de barras que compara ferramentas de edição de vídeo com IA através da pontuação ELO, em preferência geral e seguimento de instruções.
+Un gráfico de barras que compara herramientas de edición de video con IA según su puntuación ELO en preferencia general y seguimiento de instrucciones.
 
 #### Prompt
 
@@ -3949,19 +3959,19 @@ Um gráfico de barras que compara ferramentas de edição de vídeo com IA atrav
 A bar chart comparing AI video editing tools with ELO scores, showing Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, with categories for Overall Preference and Instruction Following, in a clean modern style with blue, black, gray, and white bars, labeled data points, and a legend at the top.
 ```
 
-### No. 192: Retrato com Câmara Vintage
+### No. 192: Retrato con Cámara Vintage
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Altair
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma vista detalhada de uma câmara de madeira antiga com componentes de latão e fole, sobre um fundo neutro.
+Una vista detallada de una cámara antigua de madera con componentes de latón y fuelle, sobre un fondo neutro.
 
 #### Prompt
 
@@ -3969,19 +3979,19 @@ Uma vista detalhada de uma câmara de madeira antiga com componentes de latão e
 a vintage wooden large format camera with brass lens and bellows, mounted on a tripod, studio lighting, detailed texture, realistic rendering
 ```
 
-### No. 193: Ferramenta de Vídeo Gemini Omni
+### No. 193: Herramienta de Video Gemini Omni
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Signal Lab
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma interface digital futurista que apresenta uma ferramenta de IA para media, que converte inputs em conteúdo de vídeo.
+Una interfaz digital futurista que muestra una herramienta de IA para medios que convierte entradas en contenido de video.
 
 #### Prompt
 
@@ -3989,19 +3999,19 @@ Uma interface digital futurista que apresenta uma ferramenta de IA para media, q
 dark futuristic interface with grid overlay, glowing text 'Gemini Omni turns inputs into video', multiple screen panels showing AI media content, tech-themed design, neon green accents, sleek modern UI, digital display elements
 ```
 
-### No. 194: Transmissão de Futebol numa Praça Histórica Europeia
+### No. 194: Transmisión de Fútbol en una Plaza Histórica Europea
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma cena de vídeo que retrata uma transmissão pública de um jogo de futebol, com um casal focado.
+Una indicación para una escena de video que muestra una transmisión pública de un partido de fútbol, con una pareja concentrada.
 
 #### Prompt
 
@@ -4009,19 +4019,19 @@ Um prompt para uma cena de vídeo que retrata uma transmissão pública de um jo
 A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man
 ```
 
-### No. 195: Mulher de joelhos com meias
+### No. 195: Mujer arrodillada con medias
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Pinodi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com uma blusa às riscas e uma saia preta está de joelhos num soalho de madeira, usando meias finas com tiras cruzadas.
+Una mujer con blusa a rayas y falda negra está arrodillada en un suelo de madera, usando medias transparentes con correas entrecruzadas.
 
 #### Prompt
 
@@ -4029,19 +4039,19 @@ Uma mulher com uma blusa às riscas e uma saia preta está de joelhos num soalho
 a woman with long black hair kneeling on a wooden floor, wearing a white and black striped blouse, a black mini skirt, and black sheer stockings with crisscross straps, in front of white closet doors, studio lighting, photorealistic
 ```
 
-### No. 196: Prompt para Retrato de Estúdio a Preto e Branco
+### No. 196: Indicación para retrato de estudio en blanco y negro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alex Prompts
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um retrato de estúdio a preto e branco com um plano médio à altura dos olhos, da cintura para cima.
+Una indicación para crear un retrato de estudio en blanco y negro con un plano medio a la altura de los ojos, de cintura para arriba.
 
 #### Prompt
 
@@ -4049,19 +4059,19 @@ Um prompt para criar um retrato de estúdio a preto e branco com um plano médio
 A stunning black and white studio portrait of [uploaded person]. Eye-level medium shot, framed from the waist up. The subject is standing with his
 ```
 
-### No. 197: Mural de Homenagem a Messi por Artista de Rua
+### No. 197: Mural homenaje a Messi por artista callejero
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Hendry Lim
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma fotografia cinematográfica hiper-realista de um mural finalizado do Messi com o artista, enquadrado num formato quadrado.
+Una fotografía cinematográfica hiperrealista de un mural terminado de Messi con el artista, en formato cuadrado.
 
 #### Prompt
 
@@ -4069,19 +4079,19 @@ Uma fotografia cinematográfica hiper-realista de um mural finalizado do Messi c
 THE DEVOTED (Finished Messi Mural + Artist) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L
 ```
 
-### No. 198: Retrato Surrealista com Realismo Cinematográfico
+### No. 198: Pintura de retrato surrealista con realismo cinematográfico
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Wandering Corner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar retratos surrealistas ultra-detalhados que misturam elementos clássicos e de fantasia.
+Una indicación para generar retratos surrealistas ultra detallados que combinan elementos clásicos y fantásticos.
 
 #### Prompt
 
@@ -4089,19 +4099,19 @@ Um prompt para gerar retratos surrealistas ultra-detalhados que misturam element
 Ultra-detailed surrealist portrait painting blending classical romanticism, dreamlike naturalism, and cinematic fantasy realism. Human subjects rendered with graceful realism and poetic elegance, featuring luminous skin,
 ```
 
-### No. 199: Grelha de Arte Voxel para Histórias Clássicas e Mangá
+### No. 199: Cuadrícula de arte voxel para historias clásicas y manga
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Gadgetify
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma grelha 2x2 de cenas de arte voxel a partir de histórias de domínio público e mangás famosos.
+Una indicación para generar una cuadrícula de 2x2 de escenas de arte voxel basadas en historias de dominio público y manga famoso.
 
 #### Prompt
 
@@ -4109,19 +4119,19 @@ Um prompt para gerar uma grelha 2x2 de cenas de arte voxel a partir de história
 2x2 grid, 16:9, do this for Shahnameh and 3 other non-copyrited public space stories: 2x2 grid, do this for 4 famous manga scenes: Function Render_Voxel_Art ($ Subject)
 ```
 
-### No. 200: Mulher com camisola de futebol
+### No. 200: Mujer en camiseta de fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com uma camisola de futebol vermelha da Espanha posa com uma bola de futebol num fundo branco.
+Una mujer con una camiseta de fútbol roja de España posa con un balón de fútbol sobre un fondo blanco.
 
 #### Prompt
 
@@ -4129,19 +4139,19 @@ Uma mulher com uma camisola de futebol vermelha da Espanha posa com uma bola de 
 a woman in a red Spanish football jersey sitting on the floor with a soccer ball, blonde hair in a ponytail, looking at the camera, studio lighting, white background
 ```
 
-### No. 201: Arqueiro de Capuz a Puxar o Arco na Chuva
+### No. 201: Arquero con capucha tensando el arco bajo la lluvia
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Ahmad Faraz
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato cinematográfico hiper-realista de um arqueiro de capuz na chuva, no momento em que puxa o arco.
+Un retrato cinematográfico hiperrealista de un arquero con capucha bajo la lluvia en el momento de tensar un arco.
 
 #### Prompt
 
@@ -4149,19 +4159,19 @@ Um retrato cinematográfico hiper-realista de um arqueiro de capuz na chuva, no 
 A hyper-realistic cinematic close-up portrait of a hooded archer in the rain, caught at the peak moment of drawing a bow. The composition is tight and intense — the taut bowstring runs vertically down the exact center of the frame, bisecting
 ```
 
-### No. 202: Cena de Estúdio de Moda de Futebol Profissional
+### No. 202: Escena de estudio de moda futbolística profesional
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma cena de estúdio de moda de futebol profissional com um fundo branco limpo e um estilo editorial desportivo minimalista.
+Una indicación para una escena de estudio de moda futbolística profesional con un fondo blanco limpio y un estilo editorial deportivo minimalista.
 
 #### Prompt
 
@@ -4172,19 +4182,19 @@ Um prompt para uma cena de estúdio de moda de futebol profissional com um fundo
     "background": "clean seamless white backdrop with minimalist sports editorial styling, premium commercial photoshoot environment, distraction-free composition emphasizing the
 ```
 
-### No. 203: Cena Editorial Surreal de um Mar Cinético de Papel
+### No. 203: Toma editorial surrealista de mar cinético de papel
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** timedoctor.eth
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cena surreal, de alto orçamento e efeito prático, com um protagonista no centro de um mar massivo e rodopiante de papel vibrante e dobrado, com iluminação cinematográfica dramática.
+Una toma surrealista de efecto práctico de alto presupuesto con el protagonista centrado en un mar masivo y vibrante de papel plegado que gira, con iluminación cinematográfica dramática.
 
 #### Prompt
 
@@ -4192,19 +4202,19 @@ Uma cena surreal, de alto orçamento e efeito prático, com um protagonista no c
 A high-end editorial, high-budget practical effect surrealism shot. The Grand Symmetrical Centering: The Protagonist stands perfectly centered within a massive, kinetic sea of swirling, folding paper. The paper is vibrant, textured, and moves in slow, graceful waves. The lighting is dramatic, cinematic, with strong directional light creating deep shadows and highlights on the paper folds and the protagonist's face. The atmosphere is ethereal and awe-inspiring.
 ```
 
-### No. 204: Professor de matemática a ensinar
+### No. 204: Profesor de matemáticas enseñando
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Virginio Gallardo
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem de fato escreve equações trigonométricas num quadro de giz numa sala de aula.
+Un hombre con traje escribe ecuaciones trigonométricas en una pizarra en un aula.
 
 #### Prompt
 
@@ -4212,19 +4222,19 @@ Um homem de fato escreve equações trigonométricas num quadro de giz numa sala
 a man in a suit writing mathematical equations on a chalkboard, realistic classroom setting, detailed facial features, natural lighting
 ```
 
-### No. 205: Artista com Camisola de Futebol
+### No. 205: Artista en camiseta de fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Giulia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com uma camisola de futebol dos EUA pinta num estúdio luminoso e cheio de plantas.
+Una mujer con una camiseta de fútbol de Estados Unidos pinta en un estudio luminoso lleno de plantas.
 
 #### Prompt
 
@@ -4232,19 +4242,19 @@ Uma mulher com uma camisola de futebol dos EUA pinta num estúdio luminoso e che
 a woman in a blue USA soccer jersey painting in an art studio, holding a paintbrush and palette, sitting on a stool, natural light from window, plants in background
 ```
 
-### No. 206: Camaleão Gemini Omni
+### No. 206: Gemini Omni Camaleón
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Tanvir
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um close-up da cauda enrolada de um camaleão azul com o texto 'Gemini Omni' sobreposto na imagem.
+Un primer plano de la cola enrollada de un camaleón azul con el texto 'Gemini Omni' superpuesto en la imagen.
 
 #### Prompt
 
@@ -4255,16 +4265,16 @@ close-up of a coiled blue chameleon tail with intricate scale patterns, natural 
 ### No. 207: Plataforma de IA GlobalGPT
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Theinfralab
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma captura de ecrã do website da GlobalGPT a exibir as suas ferramentas e modelos de IA com um fundo vibrante e colorido.
+Una captura de pantalla del sitio web de GlobalGPT que muestra sus herramientas y modelos de IA con un fondo vibrante y colorido.
 
 #### Prompt
 
@@ -4272,19 +4282,19 @@ Uma captura de ecrã do website da GlobalGPT a exibir as suas ferramentas e mode
 A vibrant, colorful background with a computer screen displaying the GlobalGPT website, featuring AI tools and models, with a focus on image, chat, video, agents, and search options. The page highlights 'Access 100+ Powerful AI Models - All in One Place' and shows various AI model selections like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast. There are navigation menus for Home, Models & Tools, Image, Video, Audio, My Tools, and other AI tools. The interface includes a 'Compare plans' button, 'Upgrade Plan' option, and a promotional banner celebrating 2 years with GlobalGPT and offering up to 50% off. The bottom section showcases cutting-edge video and image models with thumbnail previews of different content types. The overall design is modern and sleek, with a mix of white, blue, and orange hues, and a dynamic, flowing background pattern in purple, orange, and pink.
 ```
 
-### No. 208: Logótipo do Google I/O
+### No. 208: Logo de Google I/O
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Google
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um logótipo vibrante e colorido como um arco-íris que representa o Google I/O, com símbolos tecnológicos e parênteses.
+Un logo vibrante y multicolor que representa Google I/O con símbolos tecnológicos y corchetes.
 
 #### Prompt
 
@@ -4292,19 +4302,19 @@ Um logótipo vibrante e colorido como um arco-íris que representa o Google I/O,
 a colorful gradient logo featuring a stylized Android robot, a globe, a rectangle, a circle, a diamond, and a cursor, all enclosed in curly braces with a forward slash in the middle, on a white background
 ```
 
-### No. 209: Gráfico de Boas-vindas de Volta
+### No. 209: Gráfico de bienvenida
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Google
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico limpo e moderno com o texto 'Bem-vindo de volta' e uma forma de diamante vibrante e multicolorida centrada sobre a palavra 'bem-vindo'.
+Un gráfico limpio y moderno con el texto 'Bienvenido de nuevo' y una vibrante forma de diamante multicolor centrada sobre la palabra 'bienvenido'.
 
 #### Prompt
 
@@ -4312,19 +4322,19 @@ Um gráfico limpo e moderno com o texto 'Bem-vindo de volta' e uma forma de diam
 Welcome back text with a colorful gradient diamond shape overlapping the word 'welcome', on a white background
 ```
 
-### No. 210: Formas Geométricas Abstratas
+### No. 210: Formas Geométricas Abstractas
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Google
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Quatro conjuntos distintos de formas geométricas texturizadas, apresentados num formato de grelha.
+Cuatro conjuntos distintos de formas geométricas texturizadas mostradas en un formato de cuadrícula.
 
 #### Prompt
 
@@ -4332,19 +4342,19 @@ Quatro conjuntos distintos de formas geométricas texturizadas, apresentados num
 four sets of abstract geometric shapes with different textures and patterns, including purple and orange, cosmic galaxy, fossilized bones, and pink and black swirls, arranged in a grid on white background
 ```
 
-### No. 211: Transformações Materiais do Pavão
+### No. 211: Transformaciones de Material de Pavo Real
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Google Flow
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um pavão apresentado em quatro formas materiais diferentes: natural, papel, insuflável e vidro com vida aquática no interior.
+Un pavo real mostrado en cuatro formas materiales diferentes: natural, papel, inflable y vidrio con vida acuática en su interior.
 
 #### Prompt
 
@@ -4352,19 +4362,19 @@ Um pavão apresentado em quatro formas materiais diferentes: natural, papel, ins
 A peacock made of different materials: real feathers, recycled paper tickets, inflatable plastic, and glass with fish inside, all in a forest background
 ```
 
-### No. 212: Retrato Editorial de Moda de Luxo Fotorealista
+### No. 212: Retrato Editorial de Moda de Lujo Fotorrealista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato editorial de moda de luxo fotorealista de uma mulher, utilizando imagens de referência para o rosto e cor do cabelo.
+Un retrato editorial de moda de lujo fotorrealista de una mujer utilizando imágenes de referencia para el rostro y el color del cabello.
 
 #### Prompt
 
@@ -4372,19 +4382,19 @@ Um retrato editorial de moda de luxo fotorealista de uma mulher, utilizando imag
 Photorealistic luxury fashion editorial portrait of a woman, used reference image face, used reference image color hair
 ```
 
-### No. 213: Cena de Fotografia com Flash em Corredor de Hotel Sombrio
+### No. 213: Escena de Fotografía con Flash en Pasillo de Hotel Oscuro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma cena de vídeo ambientada num corredor de hotel escuro à noite, com estética de fotografia com flash.
+Un prompt para una escena de video ambientada en un pasillo de hotel oscuro por la noche con estética de fotografía con flash.
 
 #### Prompt
 
@@ -4397,19 +4407,19 @@ Um prompt para uma cena de vídeo ambientada num corredor de hotel escuro à noi
 }
 ```
 
-### No. 214: Cartaz editorial de moda com Nano Banana Pro
+### No. 214: Póster editorial de moda con Nano Banana Pro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ΛRMIN | AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um anúncio de moda dinâmico em 3D com efeito pop-out, de alta resolução, captado em película analógica.
+Un prompt para generar un anuncio de moda dinámico en 3D de alta resolución con efecto pop-out, filmado en película analógica.
 
 #### Prompt
 
@@ -4417,19 +4427,19 @@ Um prompt para gerar um anúncio de moda dinâmico em 3D com efeito pop-out, de 
 A precise, single full-page, high-resolution photographic print of a dynamic, 3D pop-out [luxury/fashion] advertisement for [BRAND_NAME], shot on high-fidelity analog film. The entire frame, from edge to edge, is filled by
 ```
 
-### No. 215: Prompt de vídeo colagem Instagram de sereia ruiva
+### No. 215: Prompt para video collage de sirena pelirroja en Instagram
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma colagem fotorealista vertical de história do Instagram de uma mulher ruiva consistente em cosplay de sereia.
+Un prompt para generar un collage vertical fotorrealista de historia de Instagram de una mujer pelirroja consistente en cosplay de sirena.
 
 #### Prompt
 
@@ -4437,19 +4447,19 @@ Um prompt para gerar uma colagem fotorealista vertical de história do Instagram
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Red-haired siren cosplay-inspired night-out aesthetic, oceanic
 ```
 
-### No. 216: Interface de Software de Edição de Vídeo
+### No. 216: Interfaz de Software de Edición de Video
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Curious Refuge
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma captura de ecrã de uma aplicação de edição de vídeo com opções de carregamento e edições de exemplo apresentadas.
+Una captura de pantalla de una aplicación de edición de video con opciones de carga y ediciones de muestra mostradas.
 
 #### Prompt
 
@@ -4457,19 +4467,19 @@ Uma captura de ecrã de uma aplicação de edição de vídeo com opções de ca
 A dark-themed video editing software interface with a central upload area showing a teddy bear in a car, a man's face in a circular frame on the right, and feature options below, all with a green border and modern UI design.
 ```
 
-### No. 217: Reflexos no Espelho
+### No. 217: Reflejos en el Espejo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de fato de banho roxo está numa sala com espelhos, criando múltiplos reflexos.
+Una mujer en traje de baño púrpura de pie en una habitación con espejos creando múltiples reflejos.
 
 #### Prompt
 
@@ -4477,19 +4487,19 @@ Uma mulher de fato de banho roxo está numa sala com espelhos, criando múltiplo
 a woman in a shiny purple swimsuit with a knot front, wearing pink sunglasses, standing in a mirrored room with multiple reflections, wet skin, studio lighting, high detail, photorealistic
 ```
 
-### No. 218: Sucesso de ganhos no YouTube
+### No. 218: Éxito en ganancias de YouTube
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Noah⚡️📈┃ YouTube Strategist
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um gráfico que mostra o YouTube e um símbolo de estrela a combinarem para representar 88 mil dólares em ganhos, com um gráfico verde em ascensão.
+Un gráfico que muestra a YouTube y un símbolo de estrella combinados para representar $88K en ganancias con un gráfico verde en ascenso.
 
 #### Prompt
 
@@ -4497,19 +4507,19 @@ Um gráfico que mostra o YouTube e um símbolo de estrela a combinarem para repr
 YouTube logo plus a glowing star symbol equals $88K, with a green upward trending graph on a wooden surface under a spotlight
 ```
 
-### No. 219: Mulher no Ginásio Keor
+### No. 219: Mujer en el Gimnasio Keor
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** KeorUnreal
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher em forma posa com confiança num ginásio com um letreiro de néon atrás dela.
+Una mujer en forma posa con confianza en un gimnasio con un letrero de neón detrás de ella.
 
 #### Prompt
 
@@ -4517,19 +4527,19 @@ Uma mulher em forma posa com confiança num ginásio com um letreiro de néon at
 a confident woman in a gym, wearing a pink sports bra and white leggings, giving a thumbs up, neon sign 'Keor Gym' in the background, fitness equipment around, bright lighting, photorealistic
 ```
 
-### No. 220: Prompt de Estrutura Facial de Madelyn Cline
+### No. 220: Prompt de Estructura Facial de Madelyn Cline
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Pinodi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado especificando a biometria e estrutura facial para gerar uma semelhança de Madelyn Cline.
+Un prompt estructurado que especifica la biometría y estructura facial para generar un parecido de Madelyn Cline.
 
 #### Prompt
 
@@ -4544,19 +4554,19 @@ Um prompt estruturado especificando a biometria e estrutura facial para gerar um
 }
 ```
 
-### No. 221: Imagem Nano Banana para Sincronização Labial Higgsfield
+### No. 221: De Imagen en Nano Banana a Sincronía de Labios en Higgsfield
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Darrin McBreen
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Cria uma imagem no Nano Banana para usar como frame inicial de um vídeo de sincronização labial no Higgsfield.
+Crea una imagen en Nano Banana para usarla como fotograma inicial de un video de sincronía de labios en Higgsfield.
 
 #### Prompt
 
@@ -4564,19 +4574,19 @@ Cria uma imagem no Nano Banana para usar como frame inicial de um vídeo de sinc
 Make an image in Nano Banana and use it as the start frame in Higgsfield lip sync. You'll find it in the video menu tab. There you can also upload the audio portion of the song you want.
 ```
 
-### No. 222: Rainha da Maçã Carmesim
+### No. 222: Reina de la Manzana Carmesí
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 紫ちゃん (⁠♡⁠ω⁠♡⁠ ⁠)⁠ ⁠~⁠♪💜
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher majestosa com cabelo roxo senta-se no topo de uma maçã gigante de gema vermelha, numa catedral gótica repleta de cristais e luz de velas.
+Una mujer regia con cabello púrpura sentada sobre una gigantesca manzana de gema roja en una catedral gótica llena de cristales y luz de velas.
 
 #### Prompt
 
@@ -4584,19 +4594,19 @@ Uma mulher majestosa com cabelo roxo senta-se no topo de uma maçã gigante de g
 a fantasy queen with long purple hair, wearing a red and gold crown adorned with roses, sitting on a giant red gemstone apple, dressed in an elaborate red gown with intricate jewelry, in a dark gothic cathedral with glowing crystals and candles, cinematic lighting, highly detailed, 8k
 ```
 
-### No. 223: Ferramentas de IA GlobalGPT
+### No. 223: Herramientas de IA GlobalGPT
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Riya Ai
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma captura de ecrã promocional do site GlobalGPT, apresentando modelos de IA e uma oferta de desconto.
+Una captura de pantalla promocional del sitio web de GlobalGPT que presenta modelos de IA y una oferta de descuento.
 
 #### Prompt
 
@@ -4604,19 +4614,19 @@ Uma captura de ecrã promocional do site GlobalGPT, apresentando modelos de IA e
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, with a banner celebrating 2 years and offering 50% off, displayed on a computer screen.
 ```
 
-### No. 224: Modelos de Casacos Puffer
+### No. 224: Modelos de Chaquetas Puffer
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ErwanXR ■●■
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma imagem dividida de uma modelo com casacos puffer pretos e vermelhos contra fundos contrastantes.
+Una imagen dividida de una modelo con chaquetas puffer negra y roja sobre fondos contrastantes.
 
 #### Prompt
 
@@ -4624,19 +4634,19 @@ Uma imagem dividida de uma modelo com casacos puffer pretos e vermelhos contra f
 a model wearing a black puffer jacket on a dark background, and the same model wearing a red puffer jacket on a white background, high fashion photography, dramatic lighting, studio shot
 ```
 
-### No. 225: Sucesso de moda de vanguarda
+### No. 225: Éxito de moda vanguardista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ErwanXR ■●■
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um vídeo de moda de alta energia com visuais e design de som agressivos, apresentando uma modelo feminina dominante em trajes futuristas através de quatro cenas cinematográficas distintas.
+Un video de moda de alta energía con imágenes y diseño de sonido agresivos, protagonizado por una modelo femenina dominante con atuendos futuristas en cuatro escenas cinematográficas distintas.
 
 #### Prompt
 
@@ -4644,19 +4654,19 @@ Um vídeo de moda de alta energia com visuais e design de som agressivos, aprese
 High-octane avant-garde fashion banger, 12s. Absolute musical silence. Audio track is strictly raw high-fidelity A SMR: aggressive fabric cracks, heavy wind swooshes, and bone-dry finger snaps acting as audio impact triggers. No music. Model & Attitude: One consistent female model with fierce runway aggression, immense charisma, and sharp, high-energy poses. She dominates the camera. Every single finger snap triggers an explosive camera shake, heavy directional motion blur, and a violent whip-pan hard cut. The Eclectic Visual Shatter (Cinematic Transitions): * Scene 1: Medium shot. Hyper-bright overexposed white studio. Model in a high-gloss crimson red puffer jacket, delivering a fierce, fast-paced performance. Instant violent snap cut. * Scene 2: Dynamic low-angle shot. Deep Rembrandt chiaroscuro lighting. Model in an ornate emerald green velvet Baroque gown, spinning with high velocity, canvas textures flying. * Scene 3: Extreme wide-to-macro camera push. Surreal open-air liquid mercury desert under a shifting chrome sky. Model in a fluid chrome dress, completely locked in a high-fashion frozen pose while the camera orbits aggressively around her. * Scene 4: Saccadic close-up tracking. High-tech Y3K sanctuary, deep cobalt blue grading. Model wears an armored body suit sculpted by volumetric laser beams, shifting geometric poses at stroboscopic speed. Cinematography: Hyper-aggressive camera tracking, intense lens pushes, sudden 90-degree Dutch angles, flawless facial continuity. 8k resolution, raw visual adrenaline, pure scroll-stopper.
 ```
 
-### No. 226: Prompt para Retrato de Mulher Junto a Aquário
+### No. 226: Prompt para Retrato de Mujer junto a un Acuario
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Anaya Ai
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato ultra realista de uma mulher com características faciais consistentes ao lado de um aquário doméstico.
+Un prompt para generar un retrato ultra realista de una mujer con rasgos faciales consistentes junto a un acuario doméstico.
 
 #### Prompt
 
@@ -4664,19 +4674,19 @@ Um prompt para gerar um retrato ultra realista de uma mulher com característica
 Ultra-realistic portrait of a beautiful young woman standing beside a large illuminated home aquarium, maintaining the same facial features, face shape, eye structure, hairstyle, and overall facial identity as the reference image. Long, voluminous dark
 ```
 
-### No. 227: Celebração de fã da Taça do Mundo FIFA
+### No. 227: Celebración de una aficionada en la Copa Mundial de la FIFA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** latix.ai
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma fã feliz celebra num jogo da Taça do Mundo FIFA, segurando uma cerveja num estádio cheio.
+Una aficionada alegre celebra en un partido de la Copa Mundial de la FIFA, sosteniendo una cerveza en un estadio abarrotado.
 
 #### Prompt
 
@@ -4684,19 +4694,19 @@ Uma fã feliz celebra num jogo da Taça do Mundo FIFA, segurando uma cerveja num
 a woman wearing a USA beanie and jacket, smiling and holding a beer, in a crowded stadium during a FIFA World Cup match, with the field and scoreboard visible in the background, vibrant lighting, realistic details
 ```
 
-### No. 228: Observação de Campo de Cena Diária Anotada
+### No. 228: Observación de Campo de una Escena Cotidiana Anotada
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alexandra Aisling
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt de vídeo que retrata um momento quotidiano de uma pessoa como uma observação de um investigador de campo intensamente anotada, com notas marginais flutuantes em vários estilos de caligrafia.
+Un prompt de video que representa un momento cotidiano de una persona como una observación de campo de un investigador, fuertemente anotada con notas flotantes al margen en diversos estilos de escritura a mano.
 
 #### Prompt
 
@@ -4704,19 +4714,19 @@ Um prompt de vídeo que retrata um momento quotidiano de uma pessoa como uma obs
 A [PERSON'S] daily scene [SPECIFIC MOMENT: morning coffee, commute, dinner]rendered as a heavily annotated field-researcher's observation. Floating margin notes in different handwriting styles accumulate
 ```
 
-### No. 229: Plano Cinematográfico de Mulher a Colocar Capacete de Piloto
+### No. 229: Toma Cinematográfica de Mujer Poniéndose el Casco de Piloto
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Saki H. 咲希
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt cinematográfico para um plano de corpo inteiro de uma mulher a colocar um capacete de piloto.
+Un prompt cinematográfico para una toma de cuerpo completo de una mujer poniéndose un casco de piloto.
 
 #### Prompt
 
@@ -4724,19 +4734,19 @@ Um prompt cinematográfico para um plano de corpo inteiro de uma mulher a coloca
 A cinematic, dutch angle, full body shot of a young woman as in <<<image_1>>> cooly walking in profile, using both hands to put on an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed,
 ```
 
-### No. 230: Colcha com Retrato de Messi
+### No. 230: Edredón con Retrato de Messi
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Hendry Lim
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma idosa exibe uma colcha feita à mão com um retrato de Lionel Messi, confecionada com vários retalhos de tecido numa casa com iluminação acolhedora.
+Una mujer mayor muestra un edredón hecho a mano con un retrato de Lionel Messi, confeccionado con varios retazos de tela en un hogar con iluminación cálida.
 
 #### Prompt
 
@@ -4744,19 +4754,19 @@ Uma idosa exibe uma colcha feita à mão com um retrato de Lionel Messi, confeci
 an elderly woman proudly holding a handmade patchwork quilt featuring a portrait of Lionel Messi, crafted from denim and fabric scraps, in a cozy vintage home with framed photos and lace curtains, warm natural lighting, realistic photography style
 ```
 
-### No. 231: Prompt para Retrato Instantâneo Candidato ao Estilo Y2K
+### No. 231: Prompt para Retrato Candidato Estilo Y2K
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Virena
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado para gerar um retrato instantâneo com flash ao estilo Y2K de uma rapariga universitária descontraidamente cool.
+Un prompt estructurado para generar un retrato candidato con flash al estilo Y2K de una chica universitaria con un aire despreocupado y genial.
 
 #### Prompt
 
@@ -4773,19 +4783,19 @@ Um prompt estruturado para gerar um retrato instantâneo com flash ao estilo Y2K
 }
 ```
 
-### No. 232: Vista Aérea com Tilt Shift da Tower Bridge ao Crepúsculo
+### No. 232: Vista Aérea Tilt Shift del Tower Bridge al Crepúsculo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** NUSRAT
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma vista aérea hiper-realista em 4K com efeito tilt-shift da Tower Bridge em Londres ao crepúsculo, com iluminação quente e atmosfera serena.
+Una vista aérea hiperrealista en 4K con efecto tilt-shift del Tower Bridge en Londres al anochecer, con iluminación cálida y atmósfera serena.
 
 #### Prompt
 
@@ -4796,16 +4806,16 @@ Uma vista aérea hiper-realista em 4K com efeito tilt-shift da Tower Bridge em L
 ### No. 233: Apple Intelligence vs CapCut
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Mehwish kiran
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma comparação dos logótipos da Apple Intelligence e da aplicação CapCut com um símbolo da CapCut riscado.
+Una comparación de los logotipos de Apple Intelligence y la app CapCut con el símbolo de CapCut tachado.
 
 #### Prompt
 
@@ -4813,19 +4823,19 @@ Uma comparação dos logótipos da Apple Intelligence e da aplicação CapCut co
 A split screen with the Apple Intelligence logo on the left and the CapCut logo crossed out with a red X on the right, black background, minimalist design
 ```
 
-### No. 234: Fotografia de Retrato de Moda Ultra Realista
+### No. 234: Fotografía de Retrato de Moda Ultra Realista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Ai Bella
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um retrato de moda cinematográfico e ultra realista num estúdio minimalista.
+Un prompt para un retrato de moda cinematográfico y ultra realista en un estudio minimalista.
 
 #### Prompt
 
@@ -4833,19 +4843,19 @@ Um prompt para um retrato de moda cinematográfico e ultra realista num estúdio
 Ultra-realistic fashion portrait photography, UHD 18K, vertical aspect ratio 2:3, cinematic editorial masterpiece. A young women sits casually on a simple chair in the middle of a minimalist studio entirely covered in intense,
 ```
 
-### No. 235: Retrato Masculino Cinematográfico com Referência Facial
+### No. 235: Retrato Masculino Cinematográfico con Referencia Facial
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Professor
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato masculino cinematográfico que preserve as características e semelhança faciais de uma imagem carregada.
+Un prompt para generar un retrato masculino cinematográfico que preserve las características y el parecido facial de una imagen subida.
 
 #### Prompt
 
@@ -4853,19 +4863,19 @@ Um prompt para gerar um retrato masculino cinematográfico que preserve as carac
 Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity. Create a cinematic aesthetic male portrait
 ```
 
-### No. 236: Hacker e cúmplice
+### No. 236: Hacker y cómplice
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** FHM AI Autopsy Dossier
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um hacker com uma sweatshirt com capuz preta trabalha num portátil enquanto uma mulher loira observa atentamente numa sala com pouca luz e chuva lá fora.
+Un hacker con una sudadera negra trabaja en una laptop mientras una mujer rubia observa atentamente en una habitación con poca luz y lluvia afuera.
 
 #### Prompt
 
@@ -4873,19 +4883,19 @@ Um hacker com uma sweatshirt com capuz preta trabalha num portátil enquanto uma
 a man in a black hoodie and mask with glowing blue eyes typing on a laptop, a blonde woman standing beside him looking at the screen, rainy window in background, cinematic lighting, dramatic atmosphere
 ```
 
-### No. 237: Sessão Fotográfica Noturna na Água
+### No. 237: Sesión de Fotos Nocturna en el Agua
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** remix.camera
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um fato de banho escuro posa junto a uma piscina sob iluminação azul para uma sessão fotográfica de moda.
+Una mujer en un traje de baño oscuro posa junto a una piscina bajo una iluminación azul para una sesión de fotos de moda.
 
 #### Prompt
 
@@ -4893,19 +4903,19 @@ Uma mulher com um fato de banho escuro posa junto a uma piscina sob iluminação
 A woman in a black swimsuit sitting by a pool at night, illuminated by blue light, with a moody and revealing fashion aesthetic
 ```
 
-### No. 238: Editor de Vídeo com IA Gratuito da Google
+### No. 238: Editor de IA Gratuito de Google
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Waseem Ai
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma imagem promocional que anuncia um editor de vídeo com IA gratuito da Google, destacando as suas funcionalidades e facilidade de utilização.
+Una imagen promocional que anuncia un editor de video con IA gratuito de Google, destacando sus características y facilidad de uso.
 
 #### Prompt
 
@@ -4913,19 +4923,19 @@ Uma imagem promocional que anuncia um editor de vídeo com IA gratuito da Google
 A man with glasses pointing at a laptop screen showing Google Gemini Omni AI Video Editor, with text 'R.I.P. CAPCUT? Google just dropped a FREE AI VIDEO EDITOR!', featuring before/after video editing examples, neon buttons for features like remove objects, change backgrounds, add effects, trim scenes, enhance quality, and a rocket launching, vibrant colors, bold typography, digital art style
 ```
 
-### No. 239: Confronto de Artes Marciais
+### No. 239: Enfrentamiento de Artes Marciales
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sparkful
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma sequência de luta dramática desenrola-se num restaurante chinês com pouca luz, lanternas vermelhas e fumo, enquanto um mestre de artes marciais enfrenta dois adversários.
+Una secuencia de lucha dramática se desarrolla en un restaurante chino con poca luz, farolillos rojos y humo, donde un maestro de artes marciales se enfrenta a dos oponentes.
 
 #### Prompt
 
@@ -4933,19 +4943,19 @@ Uma sequência de luta dramática desenrola-se num restaurante chinês com pouca
 a martial arts fight scene in a traditional Chinese restaurant, featuring a bald man in a red silk robe fighting two men in vests, with red lanterns and smoke in the background, cinematic lighting, dynamic action poses, close-up of the master's face, 4k detailed, epic atmosphere
 ```
 
-### No. 240: Pessoa a usar smartphone
+### No. 240: Persona usando un smartphone
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Mohammed Siraj
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma pessoa segura um smartphone, a visualizar um vídeo de uma rede social no ecrã.
+Una persona sostiene un smartphone, viendo un video de redes sociales en la pantalla.
 
 #### Prompt
 
@@ -4953,19 +4963,19 @@ Uma pessoa segura um smartphone, a visualizar um vídeo de uma rede social no ec
 a close-up of hands holding a smartphone displaying a social media video, realistic lighting, detailed skin texture, modern phone design, indoor setting
 ```
 
-### No. 241: Mulher na casa de banho
+### No. 241: Mujer en el baño
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** J⭕DIE
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com a pele molhada senta-se no balcão da casa de banho, a sorrir enquanto toca no seu cabelo.
+Una mujer con la piel húmeda sentada en el lavabo del baño, sonriendo mientras se toca el cabello.
 
 #### Prompt
 
@@ -4973,19 +4983,19 @@ Uma mulher com a pele molhada senta-se no balcão da casa de banho, a sorrir enq
 a woman with red hair sitting on a bathroom counter, wearing a yellow tank top and white shorts, smiling at the camera, wet skin, surrounded by beauty products, bright natural lighting, realistic photo
 ```
 
-### No. 242: Mulher de fato de banho às riscas
+### No. 242: Mujer en traje de baño a rayas
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** KeorUnreal
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de fato de banho às riscas vermelhas e pretas senta-se numa cama, a mostrar a língua de forma brincalhona, num quarto de hotel.
+Una mujer con un traje de baño rojo y negro a rayas sentada en una cama, sacando la lengua juguetonamente en una habitación de hotel.
 
 #### Prompt
 
@@ -4993,19 +5003,19 @@ Uma mulher de fato de banho às riscas vermelhas e pretas senta-se numa cama, a 
 a woman in a red and black striped one-piece swimsuit with a bow, sitting on a bed in a hotel room, making a playful face, long brown hair, white hair clip, realistic lighting, high detail
 ```
 
-### No. 243: Brinquedo transformável Chevrolet
+### No. 243: Juguete transformable Chevrolet
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** nehal mujawar
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma pessoa segura um cubo preto que se transforma num modelo de carro Chevrolet.
+Una persona sostiene un cubo negro que se transforma en un modelo de automóvil Chevrolet.
 
 #### Prompt
 
@@ -5013,19 +5023,19 @@ Uma pessoa segura um cubo preto que se transforma num modelo de carro Chevrolet.
 a black cube-shaped toy car with Chevrolet logo being held and manipulated by hands, transforming from a cube to a car shape, realistic lighting, high detail, product photography
 ```
 
-### No. 244: Grelha de Asanas de Ioga em Casca de Banana
+### No. 244: Cuadrícula de Asanas de Yoga con Cáscaras de Plátano
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Gadgetify
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma grelha 2x2 de poses de ioga feitas a partir de cascas de banana e segmentos de fruta.
+Una cuadrícula de 2x2 con posturas de yoga hechas de cáscaras de plátano y segmentos de fruta.
 
 #### Prompt
 
@@ -5033,19 +5043,19 @@ Uma grelha 2x2 de poses de ioga feitas a partir de cascas de banana e segmentos 
 A 2x2 grid of different yoga asanas created from arranged banana peels and fruit Structure: [Panel: RANDOM yoga pose; banana peel limb positions, fruit body segments, peel flexibility showing stretch, brown
 ```
 
-### No. 245: Cripta Botânica Brutalista de Outono e Alta-Macabra
+### No. 245: Bóveda Botánica Brutalista Macabra y Otoñal
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** timedoctor.eth
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma foto editorial hiper-realista de uma protagonista numa cripta botânica de betão brutalista, cavernosa e cheia de pó.
+Una foto editorial hiperrealista de un protagonista en una bóveda botánica brutalista de hormigón, cavernosa y llena de polvo.
 
 #### Prompt
 
@@ -5053,19 +5063,19 @@ Uma foto editorial hiper-realista de uma protagonista numa cripta botânica de b
 A hyper-realistic, medium-format editorial photograph of The Protagonist standing in a cavernous, dust-filled brutalist concrete botanical vault. The Protagonist
 ```
 
-### No. 246: Conjunto de Dados de Retratos de Moda de Celebridades
+### No. 246: Conjunto de Datos de Retratos de Moda de Celebridades
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Anaya
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução estruturada para gerar retratos de moda de celebridades e edições estéticas.
+Una consigna de conjunto de datos estructurado para generar retratos de moda de celebridades y ediciones estéticas.
 
 #### Prompt
 
@@ -5077,19 +5087,19 @@ Uma instrução estruturada para gerar retratos de moda de celebridades e ediç�
 }
 ```
 
-### No. 247: Homem no corredor de escritório
+### No. 247: Hombre en pasillo de oficina
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** AI Sparks
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem com um *outfit* elegante caminha com confiança por um corredor de escritório moderno.
+Un hombre con un atuendo elegante camina con confianza por un pasillo de oficina moderno.
 
 #### Prompt
 
@@ -5097,19 +5107,19 @@ Um homem com um *outfit* elegante caminha com confiança por um corredor de escr
 a man walking in an office hallway, wearing a maroon bomber jacket, black t-shirt, blue jeans, and white sneakers, smiling at the camera, modern office interior with glass walls and plants, bright lighting, photorealistic
 ```
 
-### No. 248: Cão com capacete cerebral
+### No. 248: perro con casco cerebral
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** __SWFX__
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um dogue alemão usa um capacete futurista com um cérebro dentro de uma cúpula de vidro, babando-se perto de uma porta.
+Un gran danés lleva un casco futurista con un cerebro dentro de una cúpula de cristal, babeando cerca de una puerta.
 
 #### Prompt
 
@@ -5117,19 +5127,19 @@ Um dogue alemão usa um capacete futurista com um cérebro dentro de uma cúpula
 a gray great dane dog wearing a metal helmet with a glass dome containing a brain in green liquid, standing by a white door with keys, drooling, realistic lighting, cinematic shot
 ```
 
-### No. 249: Homem com modelo de carro vintage
+### No. 249: Hombre con modelo de coche vintage
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** WeWant Mars
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem de fato senta-se a uma secretária desarrumada com um modelo de carro vintage e gatos com cartolas num estudo acolhedor cheio de livros e aparelhos antigos.
+Un hombre con traje está sentado en un escritorio desordenado con un modelo de coche vintage y gatos con sombreros de copa en un estudio acogedor lleno de libros y gadgets antiguos.
 
 #### Prompt
 
@@ -5137,19 +5147,19 @@ Um homem de fato senta-se a uma secretária desarrumada com um modelo de carro v
 a man in a suit and sunglasses sitting at a desk with a vintage car model, cats wearing top hats, books, typewriter, and old radio in a dimly lit study, cinematic lighting, hyper-detailed, 8k
 ```
 
-### No. 250: Ilustração de pixel art de IA
+### No. 250: Ilustración de arte pixel AI
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** TheVortiq
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma representação em pixel art das letras IA usando quadrados pretos e brancos num fundo de grelha com texto sobre inteligência artificial.
+Una representación en arte pixel de las letras IA usando cuadrados negros y blancos sobre un fondo de cuadrícula con texto sobre inteligencia artificial.
 
 #### Prompt
 
@@ -5157,19 +5167,19 @@ Uma representação em pixel art das letras IA usando quadrados pretos e brancos
 pixel art style illustration of the word 'AI' made from black and white squares, with a grid background and text at the top reading 'MULTIMODAL MODEL [V3]', in a minimalist design with a dark gradient bottom section
 ```
 
-### No. 251: Colagem em Faixa Vertical de Retratos de Mulher do Leste Asiático
+### No. 251: Collage de Tira Fotográfica Vertical de una Mujer de Asia Oriental
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar uma colagem vertical em faixa com quatro retratos em close-up de uma mulher do Leste Asiático contra um fundo cinza claro.
+Una consigna para generar un collage vertical de tira fotográfica con cuatro retratos de primer plano de una mujer de Asia Oriental sobre un fondo gris claro.
 
 #### Prompt
 
@@ -5177,19 +5187,19 @@ Uma instrução para gerar uma colagem vertical em faixa com quatro retratos em 
 A vertical photo strip collage featuring four distinct, close-up portraits of a beautiful East Asian woman with long, wavy black hair, set against a clean, minimal light grey background.
 ```
 
-### No. 252: Mulher em colagem de moda
+### No. 252: mujer en collage de moda
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Asher Crowe 🪺
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma grelha de nove imagens ao estilo das redes sociais mostrando uma mulher com diferentes *outfits*, legendas em russo e números de interação.
+una cuadrícula de nueve imágenes al estilo de redes sociales que muestran a una mujer con diferentes atuendos con subtítulos en ruso y números de interacción.
 
 #### Prompt
 
@@ -5197,19 +5207,19 @@ Uma grelha de nove imagens ao estilo das redes sociais mostrando uma mulher com 
 a collage of nine images featuring a woman in various outfits and poses, each with Russian text overlays and view counts, styled like social media video thumbnails
 ```
 
-### No. 253: Construir um mundo de estilo facial a partir de um perfil frontal
+### No. 253: Construir un mundo de estilo facial a partir de un perfil frontal
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Draven
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar um mundo de influencer de estilo de vida baseado numa imagem de referência facial.
+Una consigna para generar un mundo de influencer de estilo de vida basado en una imagen de referencia facial.
 
 #### Prompt
 
@@ -5217,19 +5227,19 @@ Uma instrução para gerar um mundo de influencer de estilo de vida baseado numa
 build a face style world for this face front profile
 ```
 
-### No. 254: Colagem de Aventura no Deserto
+### No. 254: Collage de Aventura en el Desierto
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Shakil Islam
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cena dramática no deserto com um carro futurista, um homem e uma serpente gigante numa colagem cinematográfica.
+Una escena desértica dramática que presenta un coche futurista, un hombre y una serpiente gigante en un collage cinematográfico.
 
 #### Prompt
 
@@ -5237,19 +5247,19 @@ Uma cena dramática no deserto com um carro futurista, um homem e uma serpente g
 a cinematic desert landscape at sunset with a futuristic car driving through sand dunes, a man standing in the desert, a giant snake emerging from the sand, and a car interior with a person driving, all in a collage format with a golden hour lighting style
 ```
 
-### No. 255: Celebração de Jogador de Futebol
+### No. 255: Celebración de un Jugador de Fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Parves Hossen
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um jogador de futebol com o equipamento do Manchester City sorri no relvado durante um jogo.
+Un jugador de fútbol con la camiseta del Manchester City sonríe en el campo durante un partido.
 
 #### Prompt
 
@@ -5257,19 +5267,19 @@ Um jogador de futebol com o equipamento do Manchester City sorri no relvado dura
 a smiling football player in a light blue Manchester City jersey standing on a stadium field, with fans cheering and a scoreboard showing halftime, realistic lighting, detailed textures, 8k resolution
 ```
 
-### No. 256: Nexus do Meridiano Celestial
+### No. 256: Nexo del Meridiano Celestial
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um majestoso observatório steampunk repleto de instrumentos astronómicos dourados e estudiosos a trabalhar.
+Un majestuoso observatorio steampunk lleno de instrumentos astronómicos dorados y eruditos trabajando.
 
 #### Prompt
 
@@ -5277,19 +5287,19 @@ Um majestoso observatório steampunk repleto de instrumentos astronómicos doura
 a grand steampunk observatory with golden mechanical instruments, arched ceilings, stained glass windows, and people working at control panels, cinematic lighting, intricate details, 8k
 ```
 
-### No. 257: Prompt para Fotografia de Moda Dinâmica
+### No. 257: Consigna para Fotografía de Moda Dinámica
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Singular Lab News ∞
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução simples para gerar fotografia de moda dinâmica de uma mulher.
+Una consigna simple para generar fotografías de moda dinámicas de una mujer.
 
 #### Prompt
 
@@ -5300,16 +5310,16 @@ dynamic fashion photo of a woman
 ### No. 258: Transporte Urbano Futurista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um veículo autónomo elegante circula por uma cidade futurista com tecnologia avançada e arquitetura ecológica.
+Un vehículo autónomo elegante viaja por una ciudad futurista con tecnología avanzada y arquitectura ecológica.
 
 #### Prompt
 
@@ -5317,19 +5327,19 @@ Um veículo autónomo elegante circula por uma cidade futurista com tecnologia a
 futuristic self-driving pod with people inside, moving on a glowing elevated track in a high-tech city with green skyscrapers and holographic displays, cinematic lighting, 8k
 ```
 
-### No. 259: Distrito do Mercado Flutuante
+### No. 259: Distrito del Mercado Flotante
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um mundo em miniatura artesanal de comércio bioluminescente, arquitetura botânica e conectividade orgânica.
+Un mundo en miniatura artesanal de comercio bioluminiscente, arquitectura botánica y conectividad orgánica.
 
 #### Prompt
 
@@ -5337,19 +5347,19 @@ Um mundo em miniatura artesanal de comércio bioluminescente, arquitetura botân
 a floating island market with bioluminescent plants, glowing flowers, and intricate organic architecture, viewed from above, fantasy art style, detailed miniature world, soft lighting, magical atmosphere
 ```
 
-### No. 260: Sneaker Arco-Íris em Movimento
+### No. 260: Zapatilla Arcoíris en Movimiento
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Insomnia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um ténis colorido com sola translúcida flutua contra um fundo azul escuro e laranja, exibindo movimento dinâmico e cores vívidas.
+Una zapatilla colorida con una suela translúcida flota contra un fondo azul oscuro y naranja, mostrando movimiento dinámico y colores vivos.
 
 #### Prompt
 
@@ -5357,19 +5367,19 @@ Um ténis colorido com sola translúcida flutua contra um fundo azul escuro e la
 a vibrant rainbow-colored sneaker with a transparent blue sole, floating against a dark blue background with orange side panels, high detail, studio lighting, product photography
 ```
 
-### No. 261: Mulher a percorrer emoções em sequência não natural
+### No. 261: Mujer recorriendo emociones en secuencia no natural
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Alin Cristian Tiganus (eyes2AI)
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição para gerar um vídeo de uma mulher a percorrer emoções a partir de uma imagem de referência, numa sequência contínua mas não natural.
+Una descripción para generar un video de una mujer que transita por diferentes emociones a partir de una imagen de referencia, en una secuencia continua pero no natural.
 
 #### Prompt
 
@@ -5377,19 +5387,19 @@ Uma descrição para gerar um vídeo de uma mulher a percorrer emoções a parti
 Make the woman go through all the emotions in image 2 in an unnatural sequence but continuous shot. Don't include image 2 in the video
 ```
 
-### No. 262: Colagem de Produtos de Beleza
+### No. 262: Collage de productos de belleza
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Amira Zairi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma colagem elegante de anúncios de skincare de luxo, com modelos e produtos de beleza premium.
+Un collage elegante de anuncios de skincare de lujo que presenta modelos y productos de belleza premium.
 
 #### Prompt
 
@@ -5397,19 +5407,19 @@ Uma colagem elegante de anúncios de skincare de luxo, com modelos e produtos de
 A collage of six high-end beauty product advertisements featuring models posing with skincare products, each in a clean studio setting with soft lighting and pastel color schemes, showcasing brands like Laneige, Summer Fridays, Pure Beauty, Sol de Janeiro, Glow Recipe, and Tatcha, all presented in a minimalist and elegant style with white backgrounds and professional photography.
 ```
 
-### No. 263: Luzes Suaves e Aconchegantes com Celebridades
+### No. 263: Luces suaves y acogedoras con celebridades
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição para um vídeo com iluminação suave, roupa confortável e uma atmosfera descontraída com as celebridades Sabrina Carpenter, Jenna Ortega e Sadie Sink.
+Una descripción para un video con iluminación suave, atuendo cómodo y un ambiente relajado con las celebridades Sabrina Carpenter, Jenna Ortega y Sadie Sink.
 
 #### Prompt
 
@@ -5417,19 +5427,19 @@ Uma descrição para um vídeo com iluminação suave, roupa confortável e uma 
 Soft lights, cozy clothes, and absolutely no rush to be anywhere. Sabrina carpenter, Jenna Ortega, Sadie sink
 ```
 
-### No. 264: Cena de Sala de Estar Moderna e Clara
+### No. 264: Escena de sala de estar moderna y luminosa
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição de uma sala de estar moderna e clara, com detalhes de interiores contemporâneos mínimos.
+Una descripción de una sala de estar luminosa y moderna con detalles interiores contemporáneos mínimos.
 
 #### Prompt
 
@@ -5442,19 +5452,19 @@ Uma descrição de uma sala de estar moderna e clara, com detalhes de interiores
 }
 ```
 
-### No. 265: Embaixador do Google Gemini
+### No. 265: Embajador de Google Gemini
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Shubh Umre
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um estudante embaixador partilha a sua experiência do primeiro mês com o Google Gemini, destacando conquistas na educação em IA e na construção de comunidade.
+Un estudiante embajador comparte su experiencia del primer mes con Google Gemini, destacando logros en educación sobre IA y creación de comunidad.
 
 #### Prompt
 
@@ -5462,19 +5472,19 @@ Um estudante embaixador partilha a sua experiência do primeiro mês com o Googl
 A young man in a hoodie stands confidently in front of a vibrant blue and purple background with abstract digital elements. The image features the Google Gemini logo at the top, text reading 'My First Month as a Google Gemini Student Ambassador,' and several colorful boxes highlighting achievements like hosting events, introducing AI tools, and building a community. A quote at the bottom reads, 'Every session is not just about teaching AI, but about building a community that learns and grows together.' The Baderia Global Institute of Engineering and Management logo is in the corner. The overall style is modern, tech-inspired, and professional, with a focus on learning, leadership, and innovation.
 ```
 
-### No. 266: Interface da Galeria de Descrições de IA
+### No. 266: Interfaz de galería de prompts de IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 小海豚笔记 (AI & 副业探索)
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma captura de ecrã de uma galeria de descrições de IA com vários exemplos de imagens e texto em chinês, num fundo escuro.
+Una captura de pantalla de una galería de prompts de IA con varios ejemplos de imágenes y texto en chino sobre un fondo oscuro.
 
 #### Prompt
 
@@ -5482,19 +5492,19 @@ Uma captura de ecrã de uma galeria de descrições de IA com vários exemplos d
 A dark-themed AI prompt gallery interface with a grid of image examples, including portraits, cityscapes, and futuristic designs, featuring Chinese text and a modern UI layout
 ```
 
-### No. 267: Grão de Café Transforma-se Magicamente num Café
+### No. 267: Un grano de café se transforma mágicamente en una cafetería
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Mr Das
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um vídeo cinematográfico onde um único grão de café brilhante roda e se transforma magicamente num café totalmente mobilado.
+Un video cinematográfico donde un solo grano de café brillante gira y se transforma mágicamente en una cafetería completamente amueblada.
 
 #### Prompt
 
@@ -5502,19 +5512,19 @@ Um vídeo cinematográfico onde um único grão de café brilhante roda e se tra
 A cinematic 10-second magical transformation video starting with a single glowing roasted coffee bean suspended in a dark empty space under a dramatic spotlight. The bean smoothly rotates, and as it turns, it begins to emit a warm amber light. From this light, a fully furnished, cozy café materializes around it in a seamless, magical transformation. The final shot is a wide-angle view of the completed café with soft lighting and steam rising from coffee cups, all within the 10-second duration.
 ```
 
-### No. 268: Criação de Imagem de Referência Facial de Alta Precisão
+### No. 268: Creación de imagen de referencia facial de alta precisión
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kashberg
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição para gerar uma imagem usando uma referência facial anexada, com preservação precisa da estrutura e identidade, num ambiente de estúdio de luxo.
+Una descripción para generar una imagen usando una referencia facial adjunta, con preservación precisa de la estructura e identidad, en un entorno de estudio de lujo.
 
 #### Prompt
 
@@ -5522,19 +5532,19 @@ Uma descrição para gerar uma imagem usando uma referência facial anexada, com
 Create image: use the attached image as the main facial reference with high precision while preserving exact facial structure, recognizable identity, facial proportions, skin tone, and natural asymmetry. A dramatic luxury executive studio
 ```
 
-### No. 269: Retrato de Mulher Confiante de Fato Branco
+### No. 269: Retrato de mujer segura en traje blanco
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição para um retrato de estúdio de uma mulher sorridente com um fato branco, contra um fundo minimalista.
+Una descripción para un retrato de estudio de una mujer sonriente con un traje blanco sobre un fondo minimalista.
 
 #### Prompt
 
@@ -5542,19 +5552,19 @@ Uma descrição para um retrato de estúdio de uma mulher sorridente com um fato
 A full-length studio portrait of a confident, smiling woman with long, wavy brown hair, posing against a clean, minimalist white background. She is elegantly dressed in a tailored white pantsuit.
 ```
 
-### No. 270: Guerreiro de fantasia num penhasco
+### No. 270: Guerrero de fantasía en un acantilado
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** TRZ. 充足
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um guerreiro de fantasia sombria está num penhasco enevoado, com vista para uma paisagem tempestuosa.
+Un guerrero de fantasía oscura se encuentra en un acantilado brumoso con vista a un paisaje tormentoso.
 
 #### Prompt
 
@@ -5562,19 +5572,19 @@ Um guerreiro de fantasia sombria está num penhasco enevoado, com vista para uma
 a dark fantasy warrior standing on a misty cliff, wearing a long black cloak and holding a sword, with a stormy sky and distant mountains in the background
 ```
 
-### No. 271: Vaca no carnaval
+### No. 271: Vaca en el carnaval
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** fifikse
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher alegre tira uma selfie com uma vaca num parque de diversões caprichoso, cheio de atrações e brinquedos coloridos.
+Una mujer alegre se toma una selfie con una vaca en un parque de atracciones caprichoso lleno de atracciones y juegos coloridos.
 
 #### Prompt
 
@@ -5582,19 +5592,19 @@ Uma mulher alegre tira uma selfie com uma vaca num parque de diversões capricho
 a woman in a pink hoodie taking a selfie with a cow at a colorful amusement park, cows riding a roller coaster in the background, vibrant neon lights, cotton candy, fisheye lens effect, hyperrealistic, 8k
 ```
 
-### No. 272: Jovem casual com roupa escura
+### No. 272: Joven casual con ropa oscura
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Zar⭕on
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição para gerar um vídeo de um rapaz de 20 anos sentado casualmente, com rosto e penteado consistentes, vestido com traje e acessórios escuros específicos.
+Una descripción para generar un video de un chico de 20 años sentado casualmente, con rostro y peinado consistentes, vestido con atuendo y accesorios oscuros específicos.
 
 #### Prompt
 
@@ -5602,19 +5612,19 @@ Uma descrição para gerar um vídeo de um rapaz de 20 anos sentado casualmente,
 Keeping the same face and hairstyle of 20 years old boy with dark, wearing a black buffer shirt, black cargo lose jeans. brown-white sneakers, bracelet, chain, wristwatch, Sunglasses on eyes, sitting casually
 ```
 
-### No. 273: Retrato de Estúdio Detalhado de Mulher Confiante
+### No. 273: Retrato de estudio detallado de una mujer segura
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** J⭕DIE
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição para gerar um retrato de corpo inteiro, altamente detalhado, em estúdio, de uma jovem mulher confiante.
+Una descripción para generar un retrato de estudio de cuerpo completo y altamente detallado de una mujer joven segura de sí misma.
 
 #### Prompt
 
@@ -5622,19 +5632,19 @@ Uma descrição para gerar um retrato de corpo inteiro, altamente detalhado, em 
 A highly detailed full-body studio portrait of a confident young woman
 ```
 
-### No. 274: Retrato Foto-realista de uma Mulher de Cabelo Ruivo
+### No. 274: Retrato fotorrealista de una mujer pelirroja
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sadie 🥀
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma descrição detalhada para gerar um retrato foto-realista de uma jovem com cabelo ruivo, sardas e olhos azuis.
+Una descripción detallada para generar un retrato fotorrealista de una mujer joven con cabello rojo, pecas y ojos azules.
 
 #### Prompt
 
@@ -5642,19 +5652,19 @@ Uma descrição detalhada para gerar um retrato foto-realista de uma jovem com c
 A highly detailed photorealistic portrait of a beautiful young woman with vibrant red hair, fair skin covered in freckles, striking blue eyes, and a warm
 ```
 
-### No. 275: Beleza sardenta com olhos dourados
+### No. 275: Belleza pecosa con ojos dorados
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kaan
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com sardas e sombra de olhos dourada e cintilante olha para baixo num retrato suavemente iluminado.
+Una mujer con pecas y sombra de ojos dorada y brillante mira hacia abajo en un retrato con iluminación suave.
 
 #### Prompt
 
@@ -5662,19 +5672,19 @@ Uma mulher com sardas e sombra de olhos dourada e cintilante olha para baixo num
 a close-up portrait of a young woman with freckles and golden eyeshadow, soft lighting, dark background, elegant makeup, realistic skin texture, gold necklace, wavy hair
 ```
 
-### No. 276: Mulher ruiva com máscara de raposa
+### No. 276: Mujer pelirroja con máscara de zorro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Lex
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com cabelo vermelho vibrante e um quimono verde segura uma máscara branca de raposa num cenário tradicional japonês.
+Una mujer con cabello rojo vibrante y un kimono verde sostiene una máscara blanca de zorro en un entorno tradicional japonés.
 
 #### Prompt
 
@@ -5682,19 +5692,19 @@ Uma mulher com cabelo vermelho vibrante e um quimono verde segura uma máscara b
 a woman with long red hair wearing a green kimono, holding a white fox mask, standing in a traditional Japanese setting, photorealistic, detailed, cinematic lighting
 ```
 
-### No. 277: Banimento de Memória - Reinício do Sistema
+### No. 277: Prohibición de Memoria del Reinicio del Sistema
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** NftGeneration2
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cena futurista e sombria com feixes de luz brilhantes e uma arma, exibindo o texto 'BANIMENTO DE MEMÓRIA - REINÍCIO DO SISTEMA' em cor teal.
+Una escena futurista y oscura con haces de luz brillantes y un arma, mostrando el texto 'PROHIBICIÓN DE MEMORIA DEL REINICIO DEL SISTEMA' en color verde azulado.
 
 #### Prompt
 
@@ -5702,19 +5712,19 @@ Uma cena futurista e sombria com feixes de luz brilhantes e uma arma, exibindo o
 dark sci-fi scene with glowing blue and orange light beams, futuristic weapon in foreground, text overlay 'SYSTEM REBOOT MEMORY BAN', cinematic lighting, high contrast, cyberpunk aesthetic
 ```
 
-### No. 278: Distrito do Mercado Flutuante
+### No. 278: Distrito del Mercado Flotante
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** sayobonita
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cidade insular flutuante e caprichosa, com estruturas luminosas e cúpulas em forma de flor num céu onírico.
+Una ciudad insular flotante y caprichosa con estructuras luminosas y cúpulas con forma de flor en un cielo de ensueño.
 
 #### Prompt
 
@@ -5722,19 +5732,19 @@ Uma cidade insular flutuante e caprichosa, com estruturas luminosas e cúpulas e
 a floating island city with bioluminescent architecture, giant flower domes, and glowing pathways, viewed from above, fantasy art style, intricate details, soft lighting, magical atmosphere
 ```
 
-### No. 279: Retrato de Estúdio Foto-realista de uma Mulher
+### No. 279: Retrato de Estudio Fotorrealista de una Mujer
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** KeorUnreal
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar um retrato de estúdio foto-realista de uma jovem mulher com cabelo castanho claro, longo e ondulado, e pele clara.
+Un prompt para generar un retrato de estudio fotorrealista de una mujer joven con cabello largo y ondulado de color castaño claro y piel clara.
 
 #### Prompt
 
@@ -5743,19 +5753,19 @@ Uma instrução para gerar um retrato de estúdio foto-realista de uma jovem mul
   "image_description": "A highly detailed, photorealistic studio portrait of a stunning young woman with long, wavy light brown hair, fair skin with subtle"
 ```
 
-### No. 280: Criando um Vídeo com IA
+### No. 280: Creando un video de IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Lunari
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um close-up do braço de uma pessoa a mover-se em frente a uma secretária com computador e monitores a exibir texto.
+Un primer plano del brazo de una persona moviéndose frente a un escritorio de computadora con monitores que muestran texto.
 
 #### Prompt
 
@@ -5763,19 +5773,19 @@ Um close-up do braço de uma pessoa a mover-se em frente a uma secretária com c
 a person's arm in motion, blurred, with a computer setup in the background, text overlay 'Creating an'
 ```
 
-### No. 281: Homem Musculado com Cabelo para Trás
+### No. 281: Hombre Musculoso con Cabello Engominado
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Picts by AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar um vídeo de um homem musculado, centrado, com cabelo escuro penteado para trás e um fio solto.
+Un prompt para generar un video de un hombre musculoso centrado, con cabello oscuro engominado hacia atrás y un mechón suelto.
 
 #### Prompt
 
@@ -5783,19 +5793,19 @@ Uma instrução para gerar um vídeo de um homem musculado, centrado, com cabelo
 An extremely muscular man stands confidently centered, facing the camera straight on, featuring dark, glossy, slicked-back hair with a single stray curl resting naturally on his right forehead, alongside a short
 ```
 
-### No. 282: Mulher em Vestido Vermelho
+### No. 282: Mujer con Vestido Rojo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um vestido vermelho cintilante senta-se elegantemente num carro, à noite.
+Una mujer con un vestido rojo brillante se sienta elegantemente en un coche por la noche.
 
 #### Prompt
 
@@ -5803,19 +5813,19 @@ Uma mulher com um vestido vermelho cintilante senta-se elegantemente num carro, 
 a woman in a red strapless ball gown sitting in the back of a car at dusk, glowing with sparkles, soft lighting, cinematic style
 ```
 
-### No. 283: Renderização Foto-realista do Troféu da FIFA 2026
+### No. 283: Render Fotorrealista del Trofeo de la FIFA 2026
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Shams
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar uma renderização foto-realista do troféu da Copa do Mundo FIFA 2026.
+Un prompt para generar un render fotorrealista del producto del trofeo de la Copa Mundial de la FIFA 2026.
 
 #### Prompt
 
@@ -5823,19 +5833,19 @@ Uma instrução para gerar uma renderização foto-realista do troféu da Copa d
 A highly detailed, photorealistic product render of the FIFA 2026 World Cup trophy
 ```
 
-### No. 284: Retrato de Moda Cinematográfico em Escadas de Metro
+### No. 284: Retrato de Moda Cinematográfico en Escaleras del Metro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Anissa
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato de moda cinematográfico de uma mulher elegante sentada numa escadaria subterrânea de metro.
+Un retrato de moda cinematográfico de una mujer elegante sentada en una escalera subterránea del metro.
 
 #### Prompt
 
@@ -5843,19 +5853,19 @@ Um retrato de moda cinematográfico de uma mulher elegante sentada numa escadari
 Ultra-cinematic full-body fashion portrait of a young elegant woman sitting gracefully on the upper section of an underground subway staircase. Her body leans naturally against the stairs, with both arms extended and resting elegantly on the
 ```
 
-### No. 285: Retrato de Estúdio Masculino a Preto e Branco Clássico
+### No. 285: Retrato de Estudio Clásico en Blanco y Negro de un Hombre
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma instrução para gerar um retrato profissional a preto e branco de um homem com traços marcados e roupa simples.
+Un prompt para generar un retrato profesional en blanco y negro de un hombre con rasgos marcados y ropa sencilla.
 
 #### Prompt
 
@@ -5863,19 +5873,19 @@ Uma instrução para gerar um retrato profissional a preto e branco de um homem 
 A professional black and white studio portrait of a handsome man with sharp, masculine features, short dark curly hair, and light stubble. He is wearing a simple black t-shirt and dark pants.
 ```
 
-### No. 286: Memes de Geração por IA
+### No. 286: Memes de generación de IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Jack Roberts
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma colagem humorística que compara a geração de imagens por IA a objetos e pessoas do mundo real.
+Un collage humorístico que compara la generación de imágenes por IA con objetos y personas del mundo real.
 
 #### Prompt
 
@@ -5883,19 +5893,19 @@ Uma colagem humorística que compara a geração de imagens por IA a objetos e p
 a collage of three images: a toy car on a messy desk, a colorful abstract sculpture at night, and a man in a hoodie speaking into a microphone with text 'so Google', all in a meme format
 ```
 
-### No. 287: Faça uma Pausa
+### No. 287: Tómate un Descanso
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** TechieSA
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um anúncio criativo que mostra um homem a dormir enquanto segura uma barra de KitKat que parece estar a partir-se ao meio.
+Un anuncio creativo que muestra a un hombre durmiendo mientras sostiene una barra de KitKat que parece partirse por la mitad.
 
 #### Prompt
 
@@ -5903,19 +5913,19 @@ Um anúncio criativo que mostra um homem a dormir enquanto segura uma barra de K
 A cartoon man sleeping while holding a KitKat bar, with the bar breaking in half and the man's hands drawn as if he's breaking it, white background, minimalist style
 ```
 
-### No. 288: Creme e Serenidade
+### No. 288: Crema y Serenidad
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Amira Zairi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher relaxa ao lado de um frasco de creme para a pele num cenário sereno e minimalista.
+Una mujer se relaja junto a un tarro de crema para el cuidado de la piel en un entorno sereno y minimalista.
 
 #### Prompt
 
@@ -5923,19 +5933,19 @@ Uma mulher relaxa ao lado de um frasco de creme para a pele num cenário sereno 
 A woman in a light green silk outfit lying on a white surface next to a large jar of Protini Polypeptide Cream, soft lighting, clean minimalist background, product photography style
 ```
 
-### No. 289: Lista de Cursos de IA Gratuitos
+### No. 289: Lista de cursos gratuitos de IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Siddhant Garg
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma lista numerada de 17 cursos gratuitos de IA com links clicáveis, apresentada num formato de tabela limpo e organizado.
+Una lista numerada de 17 cursos gratuitos de IA con enlaces clicables, presentada en un formato de tabla limpio y organizado.
 
 #### Prompt
 
@@ -5943,19 +5953,19 @@ Uma lista numerada de 17 cursos gratuitos de IA com links clicáveis, apresentad
 A clean, minimalist list of 17 free AI courses with titles and short descriptions, each followed by a blue hyperlink URL. The text is black on a white background, formatted in a table with numbered rows and thin gray lines separating entries. The title 'Free AI courses' is at the top in bold, large font. The overall style is professional and educational, resembling a digital resource guide or tutorial slide.
 ```
 
-### No. 290: Exposição de Pintura de Luz ao Crepúsculo
+### No. 290: Exposición de Pintura de Luz al Anochecer
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Олександр Цюцьмаць
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um tríptico de monitores exibe uma escultura de pintura de luz contra um horizonte urbano ao anoitecer.
+Un tríptico de monitores muestra una escultura de pintura de luz contra el horizonte de una ciudad al atardecer.
 
 #### Prompt
 
@@ -5963,19 +5973,19 @@ Um tríptico de monitores exibe uma escultura de pintura de luz contra um horizo
 three identical computer monitors displaying a long-exposure photo of a light painting sculpture on a rooftop at dusk, with a cityscape and mountains in the background, cinematic lighting, ultra-realistic, 8K
 ```
 
-### No. 291: Retrato de Estilo de Vida Coreano Onírico (Selfie de Cima)
+### No. 291: Retrato de Estilo de Vida Coreano Soñador desde una Autofoto Cenital
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** simply
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para editar uma foto num retrato de estilo de vida coreano onírico de uma jovem mulher, numa perspetiva de selfie de cima.
+Un prompt para editar una foto y convertirla en un retrato de estilo de vida coreano soñador de una mujer joven desde una perspectiva cenital de autofoto.
 
 #### Prompt
 
@@ -5983,19 +5993,19 @@ Um prompt para editar uma foto num retrato de estilo de vida coreano onírico de
 Edit this photo and don't change the face, portrait 9:16. A dreamy Korean lifestyle portrait of a young woman lying on white bedsheets, captured from an overhead selfie perspective. She wears an oversized off-shoulder dark brown mohair knit sweater
 ```
 
-### No. 292: Mulher junto à piscina
+### No. 292: Mujer Junto a la Piscina
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Giulia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de fato de banho amarelo posa junto à piscina sob a luz solar intensa.
+Una mujer con un traje de baño amarillo posa junto a la piscina bajo la luz brillante del sol.
 
 #### Prompt
 
@@ -6003,19 +6013,19 @@ Uma mulher de fato de banho amarelo posa junto à piscina sob a luz solar intens
 a woman in a yellow one-piece swimsuit with a front tie, lying by a pool, sunlight casting shadows, high detail, realistic lighting
 ```
 
-### No. 293: Mulher de camisola cinzenta
+### No. 293: Mujer con Camiseta Gris
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** VogueGen
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de camisola cinzenta puxa-a para baixo, revelando os seus seios, enquanto toca no queixo.
+Una mujer con una camiseta gris se la baja para mostrar sus pechos mientras se toca la barbilla.
 
 #### Prompt
 
@@ -6023,19 +6033,19 @@ Uma mulher de camisola cinzenta puxa-a para baixo, revelando os seus seios, enqu
 close-up of a woman in a gray shirt, pulling it down to reveal her breasts, with one hand on her chin and the other on her chest, soft lighting, realistic skin texture, pink background
 ```
 
-### No. 294: Homem com logótipos tecnológicos
+### No. 294: Hombre con Logotipos Tecnológicos
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Aziz Nizom
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem está em frente a um fundo gradiente com três logótipos distintos, incluindo Higgsfield Nano Banana Pro e duas variações do logótipo da Google.
+Un hombre está de pie frente a un fondo degradado que presenta tres logotipos distintos, incluyendo Higgsfield Nano Banana Pro y dos variaciones del logotipo de Google.
 
 #### Prompt
 
@@ -6043,19 +6053,19 @@ Um homem está em frente a um fundo gradiente com três logótipos distintos, in
 a man with a beard wearing a black t-shirt, standing in front of a gradient background with three logos: Higgsfield Nano Banana Pro, Google, and Google Nano Banana, all clearly visible and well-lit
 ```
 
-### No. 295: Edição de vídeo Google Omni
+### No. 295: Edición de Video Google Omni
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Neurain
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma comparação lado a lado de um vídeo editado por IA, mostrando um homem com um leão versus o clipe original.
+Una comparación lado a lado de un video editado por IA que muestra a un hombre con un león versus el clip original.
 
 #### Prompt
 
@@ -6063,19 +6073,19 @@ Uma comparação lado a lado de um vídeo editado por IA, mostrando um homem com
 A man with blonde hair sits on a green couch next to a lion, in a split-screen comparison showing an edited version with the lion and the original without it, under the text 'AI Video Editing Google Omni'
 ```
 
-### No. 296: Desenvolvimentos em IA 49
+### No. 296: Desarrollos en IA 49
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Harun SEYHAN
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem apresenta os últimos desenvolvimentos em IA num ambiente acolhedor de escritório em casa, com branding tecnológico proeminente.
+Un hombre presenta los últimos desarrollos en IA en un acogedor estudio en casa con un branding tecnológico prominente.
 
 #### Prompt
 
@@ -6083,19 +6093,19 @@ Um homem apresenta os últimos desenvolvimentos em IA num ambiente acolhedor de 
 A man with glasses and a beard speaking in a cozy room with a fireplace, surrounded by AI logos like Claude, Grok, and OpenAI, with text overlays 'YAPAY ZEKA', 'Gelişmeleri-49', and a subscribe button, styled as a YouTube thumbnail.
 ```
 
-### No. 297: Mulher de vestido de lantejoulas
+### No. 297: Mujer con Vestido de Lentejuelas
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Pinodi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher posa com confiança num vestido preto cintilante de lantejoulas, dentro de um elevador metálico e elegante.
+Una mujer posa con confianza en un vestido negro brillante de lentejuelas dentro de un ascensor metálico y elegante.
 
 #### Prompt
 
@@ -6103,19 +6113,19 @@ Uma mulher posa com confiança num vestido preto cintilante de lantejoulas, dent
 a woman in a black sequined dress standing in an elevator, looking at the camera, with her reflection visible in the mirror, wearing high heels and a matching handbag, modern metallic interior, studio lighting
 ```
 
-### No. 298: Duas Mulheres na Praia a Olhar para o Telemóvel
+### No. 298: Dos Mujeres en la Playa Mirando un Teléfono
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** J⭕DIE
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt que descreve duas jovens mulheres numa praia soalheira a sorrir enquanto olham para um telemóvel.
+Un prompt que describe a dos mujeres jóvenes en una playa soleada sonriendo mientras miran un teléfono móvil.
 
 #### Prompt
 
@@ -6123,19 +6133,19 @@ Um prompt que descreve duas jovens mulheres numa praia soalheira a sorrir enquan
 Two young women are sitting closely together on a white blanket spread across a sunny sandy beach, smiling warmly as they both look down at a
 ```
 
-### No. 299: Homem no quarto de hotel
+### No. 299: Hombre en Habitación de Hotel
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** The maestro
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um jovem está num quarto de hotel, a olhar diretamente para a câmara com uma expressão calma.
+Un hombre joven está de pie en una habitación de hotel, mirando directamente a la cámara con una expresión calmada.
 
 #### Prompt
 
@@ -6143,19 +6153,19 @@ Um jovem está num quarto de hotel, a olhar diretamente para a câmara com uma e
 a young man with brown hair and green eyes, wearing a gray t-shirt with a lapel microphone, standing in a hotel room with a TV and bed in the background, soft natural lighting
 ```
 
-### No. 300: Captura de Ecrã do Website GlobalGPT
+### No. 300: Captura de Pantalla del Sitio Web GlobalGPT
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Nayeem Sheikh
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma captura de ecrã vibrante do website da GlobalGPT a exibir ferramentas de IA e uma oferta promocional.
+Una captura de pantalla vibrante del sitio web de GlobalGPT que muestra herramientas de IA y una oferta promocional.
 
 #### Prompt
 
@@ -6163,19 +6173,19 @@ Uma captura de ecrã vibrante do website da GlobalGPT a exibir ferramentas de IA
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
 ```
 
-### No. 301: Mulher de Vestido Branco
+### No. 301: Mujer con Vestido Blanco
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** KeorUnreal
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de vestido branco e óculos posa elegantemente num sofá roxo numa sala de estar elegante.
+Una mujer con un vestido blanco y gafas posa elegantemente en un sofá morado en un salón con estilo.
 
 #### Prompt
 
@@ -6183,19 +6193,19 @@ Uma mulher de vestido branco e óculos posa elegantemente num sofá roxo numa sa
 a beautiful woman with blonde hair and glasses, wearing a white satin dress and high heels, sitting on a purple couch in a modern living room, with a painting of an anime character on the wall, cinematic lighting, photorealistic
 ```
 
-### No. 302: Boulevards de Paris em Açúcar Pétala
+### No. 302: Bulevares de París de Azúcar de Roca
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** マグマグ
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt poético para um vídeo dos boulevards parisienses a transformarem-se através das estações, como açúcar a dissolver-se.
+Un prompt poético para un video de los bulevares parisinos transformándose a través de las estaciones como azúcar disolviéndose.
 
 #### Prompt
 
@@ -6203,19 +6213,19 @@ Um prompt poético para um vídeo dos boulevards parisienses a transformarem-se 
 Rock-sugar boulevards dissolving into syrup, the color deepening from winter grey to spring blossom to the amber of fallen leaves — ten seconds, Gemini Omni.
 ```
 
-### No. 303: Bebé a Dormir em Renda
+### No. 303: Bebé Durmiendo en Encaje
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** SabiBoI Joshua✍🏿.
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um recém-nascido dorme tranquilamente, vestido com um delicado conjunto de renda branca e adornado com uma tiara de pérolas.
+Un bebé recién nacido duerme plácidamente, vestido con un delicado conjunto blanco de encaje y adornado con una diadema de perlas.
 
 #### Prompt
 
@@ -6223,19 +6233,19 @@ Um recém-nascido dorme tranquilamente, vestido com um delicado conjunto de rend
 a sleeping newborn baby with dark skin, wearing a white lace dress and a pearl-embellished headband, lying on a soft white textured surface, soft lighting, photorealistic, 8k
 ```
 
-### No. 304: Mural Dividido Messi vs Mahrez no Dia do Jogo
+### No. 304: Mural Dividido Messi vs Mahrez en Día de Partido
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Hendry Lim
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma fotografia cinematográfica hiper-realista de um mural dividido com Messi e Mahrez, em formato quadrado.
+Una fotografía cinematográfica hiperrealista de un mural dividido que muestra a Messi y Mahrez en formato cuadrado.
 
 #### Prompt
 
@@ -6243,19 +6253,19 @@ Uma fotografia cinematográfica hiper-realista de um mural dividido com Messi e 
 "MATCHDAY: MESSI vs MAHREZ" (Split Mural) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L lens, ISO 320
 ```
 
-### No. 305: Descrição de uma Jovem Asiática Oriental
+### No. 305: Descripción de una Joven de Asia Oriental
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Iqra Saifi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado descrevendo uma jovem asiática oriental com uma expressão calma e intensa e uma pose virada.
+Un prompt estructurado que describe a una joven de Asia Oriental con una expresión calmada e intensa y una pose girada.
 
 #### Prompt
 
@@ -6266,19 +6276,19 @@ Um prompt estruturado descrevendo uma jovem asiática oriental com uma expressã
       "pose": "Torso turned away from the camera, head"
 ```
 
-### No. 306: Geração de Imagem de Cena de Aniversário Foto-realista
+### No. 306: Generación de Imagen de Escena de Cumpleaños Fotorrealista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt JSON para gerar uma imagem foto-realista de uma cena espontânea de aniversário com chamas e confetes.
+Un prompt JSON para generar una imagen fotorrealista de una escena espontánea de cumpleaños con llamas y confeti.
 
 #### Prompt
 
@@ -6290,19 +6300,19 @@ Um prompt JSON para gerar uma imagem foto-realista de uma cena espontânea de an
 }
 ```
 
-### No. 307: Selfie de Casal em Moda de Rua Vista de Cima
+### No. 307: Selfie de Pareja en Moda Callejera desde Arriba
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma selfie ultra-foto-realista vista de cima de um casal elegante sob um teto de betão, com uma estética espontânea de moda de rua.
+Un selfie ultra fotorrealista desde arriba de una pareja a la moda bajo un techo de hormigón, con una estética espontánea de moda callejera.
 
 #### Prompt
 
@@ -6310,19 +6320,19 @@ Uma selfie ultra-foto-realista vista de cima de um casal elegante sob um teto de
 Ultra-photorealistic top-down couple selfie taken from above, stylish street-fashion aesthetic, cool candid vibe. A fashionable young couple stands close together under a textured concrete ceiling, looking up at the camera in a playful,
 ```
 
-### No. 308: Selfie Romântica de Casal em Evento Noturno
+### No. 308: Selfie Romántico de Pareja en Evento Nocturno
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma foto espontânea ultra-foto-realista e calorosa de um casal num evento noturno.
+Un prompt para una foto espontánea ultra fotorrealista y cálida de una pareja en un evento nocturno.
 
 #### Prompt
 
@@ -6330,19 +6340,19 @@ Um prompt para uma foto espontânea ultra-foto-realista e calorosa de um casal n
 Ultra-photorealistic romantic couple night-event selfie, real photograph, not illustration. Warm candid Instagram editorial aesthetic. Create a single close-up lifestyle photo of a handsome young man and a beautiful young woman together.
 ```
 
-### No. 309: Colagem de selfie de princesa oceânica tropical inspirada em Moana
+### No. 309: Collage de selfie de princesa oceánica tropical inspirado en Moana
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma colagem foto-realista vertical para Instagram Story com seis fotogramas espontâneos que apresentam uma jovem mulher consistente com uma estética de princesa oceânica tropical.
+Un collage vertical fotorrealista para Instagram Story de seis fotogramas espontáneos que presentan a una mujer joven consistente con una estética de princesa oceánica tropical.
 
 #### Prompt
 
@@ -6350,19 +6360,19 @@ Uma colagem foto-realista vertical para Instagram Story com seis fotogramas espo
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Moana-inspired tropical ocean princess night-out aesthetic
 ```
 
-### No. 310: Vistas da Ficha de Personagem de Operativa de Recuperação de Arquivo
+### No. 310: Vistas de la Hoja de Personaje de Operativo de Recuperación de Archivos
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Cortex Visual ・ AI Movies
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma ficha de personagem de corpo inteiro com vistas frontal, lateral e traseira de uma operativa de ficção científica em armadura tática.
+Un prompt para generar una hoja de personaje de cuerpo completo con vistas frontal, lateral y posterior de un operativo de ciencia ficción con armadura táctica.
 
 #### Prompt
 
@@ -6370,19 +6380,19 @@ Um prompt para gerar uma ficha de personagem de corpo inteiro com vistas frontal
 full body character sheet, front view, side view, back view, Archive Recovery Operative, realistic sci fi, white and dark gray tactical armor
 ```
 
-### No. 311: Seis Cães Brancos com Contornos Pretos
+### No. 311: Seis Perros Blancos con Contornos Negros
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Heather Green
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma coleção de seis cães brancos com contornos pretos ousados sobre um fundo branco liso.
+Una colección de seis perros blancos con contornos negros audaces sobre un fondo blanco liso.
 
 #### Prompt
 
@@ -6390,19 +6400,19 @@ Uma coleção de seis cães brancos com contornos pretos ousados sobre um fundo 
 A collection of six white dogs with bold black outlines are scattered across a plain, bright white background, evenly spaced to create a balanced composition. Each dog is depicted in a different playful
 ```
 
-### No. 312: Personagem da Sailor Moon em Pose Casual
+### No. 312: Personaje de Sailor Moon en Pose Casual
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Noname Oasis
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma jovem mulher realista vestida como a Sailor Moon, com cabelo loiro-areia em coques decorados, posando num banco de betão com uma brisa suave.
+Una mujer joven de aspecto realista vestida como Sailor Moon, con cabello rubio arena en moños decorados, posando en un banco de hormigón con una suave brisa.
 
 #### Prompt
 
@@ -6410,19 +6420,19 @@ Uma jovem mulher realista vestida como a Sailor Moon, com cabelo loiro-areia em 
 young woman dressed as Sailor Moon, incredibly lifelike thin clinging fabrics, her sandy-blonde hair in Usagi's signature decorated chignons, she is posing casually on a simple concrete bench in a soft breeze
 ```
 
-### No. 313: Retrato Artístico a partir de Foto de Musa
+### No. 313: Retrato Artístico desde Photo Muse
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Aiza
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato artístico removendo fundos, roupas e penteados, preservando as características faciais.
+Un prompt para generar un retrato artístico eliminando fondos, ropa y peinados mientras se preservan las características faciales.
 
 #### Prompt
 
@@ -6430,19 +6440,19 @@ Um prompt para gerar um retrato artístico removendo fundos, roupas e penteados,
 Using the person in the uploaded photo as our muse, we're removing all backgrounds, clothes, and hairstyles. The goal is to create an artistic piece while keeping all the original facial features and characteristics intact.
 ```
 
-### No. 314: Fuga de Roubo a Museu
+### No. 314: Escape de Robo en Museo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Digital Art Sensei
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um ladrão desce por uma corda através de um salão grandioso de museu repleto de artefactos antigos, iluminado por um único feixe de luz.
+Un ladrón desciende por una cuerda a través de una gran sala de museo llena de artefactos antiguos bajo un único haz de luz.
 
 #### Prompt
 
@@ -6450,19 +6460,19 @@ Um ladrão desce por uma corda através de um salão grandioso de museu repleto 
 a masked thief in black gear rappelling down from a skylight in a dimly lit museum gallery with ancient statues on pedestals, dramatic lighting from above, cinematic atmosphere
 ```
 
-### No. 315: Guerreira de cabelo rosa nas ruínas
+### No. 315: Guerrera de cabello rosa en ruinas
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** shawn_maybush
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma rapariga de cabelo rosa ergue-se desafiante numa cidade devastada pela guerra e encharcada pela chuva, de frente para um gigante imponente com pernas tatuadas.
+Una chica de cabello rosa se yergue desafiante en una ciudad devastada por la guerra y azotada por la lluvia, frente a un gigante de piernas tatuadas.
 
 #### Prompt
 
@@ -6470,19 +6480,19 @@ Uma rapariga de cabelo rosa ergue-se desafiante numa cidade devastada pela guerr
 a young girl with pink hair in a black school uniform holding a katana with a pink ribbon, standing between the massive legs of a giant figure covered in kanji tattoos, in a rain-soaked, destroyed city street at night, cinematic lighting, hyper-detailed, 8k
 ```
 
-### No. 316: Retrato Foto-realista de Sadie Sink
+### No. 316: Retrato Fotorrealista de Sadie Sink
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sadie 🥀
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt detalhado para um retrato foto-realista de Sadie Sink com gotas de água na pele bronzeada, sentada num sofá moderno branco.
+Un prompt detallado para un retrato fotorrealista de Sadie Sink con gotas de agua sobre la piel bronceada, sentada en un sofá blanco moderno.
 
 #### Prompt
 
@@ -6490,19 +6500,19 @@ Um prompt detalhado para um retrato foto-realista de Sadie Sink com gotas de ág
 A highly detailed, photorealistic portrait of a stunning young woman [Sadie Sink] with flawless tanned skin covered in glistening water droplets, sitting confidently on a white modern couch. She has long, straight
 ```
 
-### No. 317: Prompt de Detalhes de uma Figura Feminina
+### No. 317: Prompt de Detalles de Sujeto Femenino
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Virena
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado que detalha a aparência de uma jovem mulher para geração de vídeo.
+Un prompt estructurado que detalla la apariencia de una mujer joven para la generación de vídeo.
 
 #### Prompt
 
@@ -6520,19 +6530,19 @@ Um prompt estruturado que detalha a aparência de uma jovem mulher para geraçã
 }
 ```
 
-### No. 318: Esboço Minimalista em Cartolina Cinza Escuro
+### No. 318: Boceto Minimalista en Cartulina Gris Oscuro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Shirley Auspice
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um esboço minimalista com linhas ousadas e expressivas e energia caligráfica em cartolina cinza escuro.
+Un prompt para crear un boceto minimalista con líneas audaces y expresivas y energía caligráfica sobre cartulina gris oscuro.
 
 #### Prompt
 
@@ -6540,19 +6550,19 @@ Um prompt para criar um esboço minimalista com linhas ousadas e expressivas e e
 Create a minimalist sketch on dark, cool-toned gray cardstock using a bold, expressive style. The lines are fluid and minimal, freely outlining the form with a wild, calligraphic energy. There is no shading or tonal gradation—only extensive
 ```
 
-### No. 319: Demonstração de Animação Parallax
+### No. 319: Demostración de Animación Parallax
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kuroyami
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma configuração de computador a exibir uma animação parallax no monitor, com uma mão a interagir com o rato.
+Una configuración informática que muestra una animación parallax en el monitor, con una mano interactuando con el ratón.
 
 #### Prompt
 
@@ -6560,19 +6570,19 @@ Uma configuração de computador a exibir uma animação parallax no monitor, co
 A modern desk setup with a sleek monitor displaying a serene architectural scene by water, a white keyboard, a hand using a mouse, and text overlay 'Claude Design Nano Banana GPT Image 2 Parallax Animations', soft lighting, realistic style
 ```
 
-### No. 320: Adepta de futebol espanhol
+### No. 320: Aficionada española al fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Giulia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma jovem mulher vestida com as cores da seleção nacional de Espanha relaxa num tapete enquanto assiste a um jogo de futebol na televisão.
+Una joven con los colores de la selección española relajada sobre una alfombra mientras mira un partido de fútbol en la televisión.
 
 #### Prompt
 
@@ -6580,19 +6590,19 @@ Uma jovem mulher vestida com as cores da seleção nacional de Espanha relaxa nu
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
 ```
 
-### No. 321: Homem na Estrada do Deserto
+### No. 321: Hombre en carretera del desierto
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Hassan👑
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem está numa estrada desértica rachada sob um céu de pôr do sol vibrante, segurando o casaco com uma expressão séria.
+Un hombre está de pie en una carretera desierta y agrietada bajo un cielo de atardecer vibrante, sosteniendo su chaqueta con una expresión seria.
 
 #### Prompt
 
@@ -6600,19 +6610,19 @@ Um homem está numa estrada desértica rachada sob um céu de pôr do sol vibran
 a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
 ```
 
-### No. 322: Cidade nos Seus Olhos
+### No. 322: La ciudad en sus ojos
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** AI Sparks
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Os óculos de sol de uma mulher refletem uma paisagem urbana futurista verde brilhante, criando um contraste visual marcante com as suas feições suaves e casaco de pele branco.
+Las gafas de sol de una mujer reflejan un paisaje urbano futurista verde brillante, creando un contraste visual llamativo con sus rasgos suaves y su abrigo de piel blanca.
 
 #### Prompt
 
@@ -6620,19 +6630,19 @@ Os óculos de sol de uma mulher refletem uma paisagem urbana futurista verde bri
 a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
 ```
 
-### No. 323: Retrato Vintage do Messi de Fato
+### No. 323: Retrato vintage de Messi en traje
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um cartaz de ilustração em estilo vintage de Lionel Messi a usar um fato azul-escuro afiado e um laço.
+Un prompt para crear un póster de ilustración estilo vintage de Lionel Messi vistiendo un elegante traje azul marino y pajarita.
 
 #### Prompt
 
@@ -6640,19 +6650,19 @@ Um prompt para criar um cartaz de ilustração em estilo vintage de Lionel Messi
 A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
 ```
 
-### No. 324: Retrato Ultra Foto-realista de uma Mulher
+### No. 324: Retrato ultrafotorrealista de una mujer
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Jarvis AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt detalhado para gerar um retrato ultra foto-realista de uma mulher com características faciais específicas.
+Un prompt detallado para generar un retrato ultrafotorrealista de una mujer con rasgos faciales específicos.
 
 #### Prompt
 
@@ -6660,19 +6670,19 @@ Um prompt detalhado para gerar um retrato ultra foto-realista de uma mulher com 
 Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
 ```
 
-### No. 325: Envolver Vídeo em Realismo ou Realismo Fotográfico
+### No. 325: Envolver video en realismo o realismo fotográfico
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Martin Nebelong
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para melhorar o realismo de vídeo, envolvendo-o em qualidades fotográficas ou realistas.
+Un prompt para mejorar el realismo de un video envolviéndolo en cualidades fotográficas o realistas.
 
 #### Prompt
 
@@ -6680,19 +6690,19 @@ Um prompt para melhorar o realismo de vídeo, envolvendo-o em qualidades fotogr�
 "Wrap the video in realism" or "Wrap the video in the realism of the photograph"
 ```
 
-### No. 326: Retrato de Alta Costura com Bola de Futebol
+### No. 326: Retrato de alta costura con balón de fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Kashberg
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato editorial foto-realista de uma jovem mulher asiática a segurar uma bola de futebol da Adidas, usando um rosto e penteado específicos.
+Un retrato editorial fotorrealista de una joven asiática sosteniendo un balón de fútbol Adidas, utilizando un rostro y peinado específicos.
 
 #### Prompt
 
@@ -6703,19 +6713,19 @@ pose: looking to camera from her shoulder
 shoot tecnic: 3/4 body
 ```
 
-### No. 327: Mulher num Campo de Tulipas
+### No. 327: Mujer en campo de tulipanes
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher está num campo vibrante de tulipas cor-de-rosa durante um pôr do sol dourado, com o rosto iluminado pelo brilho quente.
+Una mujer está de pie en un vibrante campo de tulipanes rosados durante un atardecer dorado, su rostro iluminado por el cálido resplandor.
 
 #### Prompt
 
@@ -6723,19 +6733,19 @@ Uma mulher está num campo vibrante de tulipas cor-de-rosa durante um pôr do so
 a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
 ```
 
-### No. 328: Ilustração de Boa Sorte
+### No. 328: Ilustración de Buena Suerte
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** TechieSA
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma banda desenhada humorística de um homem a acertar acidentalmente na mão com um martelo, com o texto 'Boa Sorte' e o logótipo da IKEA.
+Una caricatura humorística de un hombre que accidentalmente se golpea la mano con un martillo, con el texto 'Buena Suerte' y el logotipo de IKEA.
 
 #### Prompt
 
@@ -6743,19 +6753,19 @@ Uma banda desenhada humorística de um homem a acertar acidentalmente na mão co
 A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
 ```
 
-### No. 329: Prompt de Imagem Nano Banana Pro
+### No. 329: Prompt de imagen Nano Banana Pro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado em JSON para gerar imagens com identidade e aparência específicas do sujeito.
+Un prompt estructurado en JSON para generar imágenes con una identidad y apariencia específica del sujeto.
 
 #### Prompt
 
@@ -6770,19 +6780,19 @@ Um prompt estruturado em JSON para gerar imagens com identidade e aparência esp
         "expression": "Soft natural smile with calm dreamy eyes, warm"
 ```
 
-### No. 330: Veículo Federal Futurista
+### No. 330: Vehículo federal futurista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um veículo militar fortemente blindado permanece numa cidade futurista encharcada pela chuva, com soldados e edifícios imponentes.
+Un vehículo militar fuertemente blindado se encuentra en una ciudad futurista lluviosa, con soldados y edificios imponentes.
 
 #### Prompt
 
@@ -6790,19 +6800,19 @@ Um veículo militar fortemente blindado permanece numa cidade futurista encharca
 futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
 ```
 
-### No. 331: Aquedutos Acima do Nevoeiro
+### No. 331: Acueductos sobre la niebla
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cidade de madeira fantástica construída acima de um desfiladeiro fluvial enevoado, com lanternas brilhantes e pontes intrincadas.
+Una ciudad de madera fantástica construida sobre un cañón fluvial brumoso, con linternas brillantes y puentes intrincados.
 
 #### Prompt
 
@@ -6810,19 +6820,19 @@ Uma cidade de madeira fantástica construída acima de um desfiladeiro fluvial e
 a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
 ```
 
-### No. 332: Fotografia ao Estilo Paparazzi da Namorada Bilionária
+### No. 332: Foto estilo paparazzi de la novia multimillonaria
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 𝗦𝗮𝗻𝗶𝗮
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma fotografia editorial hiper-realista ao estilo paparazzi de uma namorada bilionária a sair de um hotel de luxo.
+Una fotografía editorial hiperrealista al estilo paparazzi de una novia multimillonaria saliendo de un hotel de lujo.
 
 #### Prompt
 
@@ -6830,19 +6840,19 @@ Uma fotografia editorial hiper-realista ao estilo paparazzi de uma namorada bili
 A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
 ```
 
-### No. 333: Relaxamento num resort de praia
+### No. 333: Relajación en un resort de playa
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de biquíni floral relaxa numa espreguiçadeira num resort tropical, com palmeiras e bangalôs de telhado de colmo ao fundo.
+Una mujer en bikini floral descansa en una tumbona en un resort tropical con palmeras y bungalows de techo de paja al fondo.
 
 #### Prompt
 
@@ -6850,19 +6860,19 @@ Uma mulher de biquíni floral relaxa numa espreguiçadeira num resort tropical, 
 a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
 ```
 
-### No. 334: Santuário de Fungos Luminosos
+### No. 334: Santuario de hongos luminosos
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Artingent
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um mundo biopunk artístico em miniatura onde alquimistas cultivam fungos brilhantes e preparam remédios botânicos num reino flutuante circular, artesanal e atmosférico.
+Un mundo artístico biopunk en miniatura donde los alquimistas cultivan hongos brillantes y preparan remedios botánicos en un reino flotante circular, artesanal y atmosférico.
 
 #### Prompt
 
@@ -6870,19 +6880,19 @@ Um mundo biopunk artístico em miniatura onde alquimistas cultivam fungos brilha
 a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
 ```
 
-### No. 335: Prompt de Retrato de Melancolia Botânica
+### No. 335: Propuesta de retrato de melancolía botánica
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** timedoctor.eth
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt de retrato hiper-realista com um protagonista numa calma pós-tempestade, contra uma parede densa.
+Una propuesta de retrato hiperrealista que presenta a un protagonista en una calma posterior contra un muro denso.
 
 #### Prompt
 
@@ -6890,19 +6900,19 @@ Um prompt de retrato hiper-realista com um protagonista numa calma pós-tempesta
 A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
 ```
 
-### No. 336: Close-Up de Réptil Azul
+### No. 336: Primer plano de reptil azul
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Flyover Base
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um close-up de uma criatura reptiliana azul com olhos amarelos marcantes, num cenário fantástico.
+Un primer plano de una criatura reptiliana azul con ojos amarillos llamativos en un entorno fantástico.
 
 #### Prompt
 
@@ -6910,19 +6920,19 @@ Um close-up de uma criatura reptiliana azul com olhos amarelos marcantes, num ce
 close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
 ```
 
-### No. 337: Retrato Cinematográfico em Escadas Urbanas
+### No. 337: Retrato cinematográfico en escaleras urbanas
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Heisenberg
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato cinematográfico ultra-realista de um jovem de óculos sentado em escadas de betão à noite, com um fato totalmente preto.
+Un retrato cinematográfico ultrarrealista de un joven con gafas sentado en escaleras de concreto por la noche, vestido completamente de negro.
 
 #### Prompt
 
@@ -6930,19 +6940,19 @@ Um retrato cinematográfico ultra-realista de um jovem de óculos sentado em esc
 Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
 ```
 
-### No. 338: Retrato de Estúdio de Criança com Camisola de Futebol
+### No. 338: Retrato de estudio de un niño con camiseta de fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Aijaz
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato de estúdio profissional de uma criança pequena a usar uma camisola de futebol internacional.
+Una propuesta para generar un retrato de estudio profesional de un niño pequeño vistiendo una camiseta de fútbol internacional.
 
 #### Prompt
 
@@ -6950,19 +6960,19 @@ Um prompt para gerar um retrato de estúdio profissional de uma criança pequena
 Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
 ```
 
-### No. 339: Aquedutos Acima do Nevoeiro
+### No. 339: Acueductos sobre la niebla
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** sayobonita
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cidade flutuante fantástica com aquedutos e pontes de madeira sobre águas enevoadas ao anoitecer.
+Una ciudad flotante fantástica con acueductos y puentes de madera sobre aguas brumosas al anochecer.
 
 #### Prompt
 
@@ -6970,19 +6980,19 @@ Uma cidade flutuante fantástica com aquedutos e pontes de madeira sobre águas 
 a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
 ```
 
-### No. 340: Foto Realista de um Brinquedo Miniaturizado de Si Mesmo
+### No. 340: Foto realista de un juguete en miniatura de uno mismo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ATHARI_ALF
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar uma foto realista de uma pessoa a segurar uma versão miniatura de si mesma em forma de brinquedo.
+Una propuesta para crear una foto realista de una persona sosteniendo una versión miniatura de juguete de sí misma.
 
 #### Prompt
 
@@ -6990,19 +7000,19 @@ Um prompt para criar uma foto realista de uma pessoa a segurar uma versão minia
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
 ```
 
-### No. 341: Foto Realista de um Brinquedo Miniaturizado de Si Mesmo
+### No. 341: Foto realista de un juguete en miniatura de uno mismo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** ATHARI_ALF
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar uma foto realista de uma pessoa a segurar uma versão minúscula de si mesma, em estilo Pixar.
+Una propuesta para crear una foto realista de una persona sosteniendo una versión miniatura estilo Pixar de sí misma.
 
 #### Prompt
 
@@ -7010,19 +7020,19 @@ Um prompt para criar uma foto realista de uma pessoa a segurar uma versão minú
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
 ```
 
-### No. 342: Composição desportiva cinematográfica hiper-realista do Messi
+### No. 342: Composición deportiva cinematográfica hiperrealista de Messi
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Hendry Lim
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma composição fotográfica desportiva cinematográfica hiper-realista com Messi num retrato heróico e trio de ação, captada com Canon.
+Una composición fotográfica deportiva cinematográfica hiperrealista que presenta a Messi en un retrato heroico y un trío de acción, capturado con Canon.
 
 #### Prompt
 
@@ -7032,19 +7042,19 @@ Aspect ratio: 3:4 (vertical)
 A hyper-realistic cinematic sports photograph composite, shot on Canon
 ```
 
-### No. 343: Selfie no Espelho numa Sala com Painéis de Madeira
+### No. 343: Selfie en el espejo en una habitación con paneles de madera
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sadie 🥀
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um vídeo de uma jovem com cabelo castanho escuro a tirar uma selfie confiante num ambiente elegante.
+Una propuesta para generar un video de una joven con cabello castaño oscuro tomándose una selfie segura en un entorno elegante.
 
 #### Prompt
 
@@ -7052,19 +7062,19 @@ Um prompt para gerar um vídeo de uma jovem com cabelo castanho escuro a tirar u
 A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
 ```
 
-### No. 344: Homem Apoiado numa Parede de Pedra Granito
+### No. 344: Hombre apoyado en un muro de piedra granítica
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Picts by AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um vídeo de um homem bonito e em forma, apoiado com confiança numa parede de pedra granito desgastada.
+Una propuesta para generar un video de un hombre atractivo y en forma, apoyado con confianza contra un muro de piedra granítica desgastado.
 
 #### Prompt
 
@@ -7072,19 +7082,19 @@ Um prompt para gerar um vídeo de um homem bonito e em forma, apoiado com confia
 A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
 ```
 
-### No. 345: Ferramentas de IA da Google 2026
+### No. 345: Herramientas de IA de Google 2026
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Omor Faruk
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma lista ilustrada de 22 ferramentas de IA da Google com uma mascote robótica futurista e elementos digitais.
+Una lista ilustrada de 22 herramientas de IA de Google con una mascota robótica futurista y elementos digitales.
 
 #### Prompt
 
@@ -7092,19 +7102,19 @@ Uma lista ilustrada de 22 ferramentas de IA da Google com uma mascote robótica 
 A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
 ```
 
-### No. 346: Cena de Estúdio de Moda de Alto Padrão
+### No. 346: Escena de estudio de moda de alta gama
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma cena minimalista de estúdio de moda com um fundo branco limpo.
+Una propuesta para una escena minimalista de estudio de moda con un fondo blanco limpio.
 
 #### Prompt
 
@@ -7117,19 +7127,19 @@ Um prompt para uma cena minimalista de estúdio de moda com um fundo branco limp
 }
 ```
 
-### No. 347: Avião sobre as nuvens
+### No. 347: Avión sobre las nubes
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** İbrahim Feyzullayev
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um avião comercial voa sobre um mar de nuvens durante um pôr do sol dourado.
+Un avión comercial vuela sobre un mar de nubes durante un atardecer dorado.
 
 #### Prompt
 
@@ -7137,19 +7147,19 @@ Um avião comercial voa sobre um mar de nuvens durante um pôr do sol dourado.
 a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
 ```
 
-### No. 348: Demonstração de Vídeo Gemini Omni
+### No. 348: Demostración de Video Gemini Omni
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Signal Lab
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma interface digital futurista que mostra o modelo de IA Gemini Omni da Google a converter inputs em conteúdo de vídeo.
+Una interfaz digital futurista que muestra el modelo de IA Gemini Omni de Google convirtiendo entradas en contenido de video.
 
 #### Prompt
 
@@ -7157,19 +7167,19 @@ Uma interface digital futurista que mostra o modelo de IA Gemini Omni da Google 
 dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
 ```
 
-### No. 349: Foto de Brinquedo Miniatura ao Estilo Pixar
+### No. 349: Foto de Juguete Miniaturizado al Estilo Pixar
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** 𝓨𝓞𝓤𝓢𝓔𝓕
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma foto realista de uma pessoa a segurar uma versão miniatura, ao estilo Pixar, de si mesma em forma de brinquedo.
+Una foto realista de una persona sosteniendo una versión juguete miniatura, al estilo Pixar, de sí misma.
 
 #### Prompt
 
@@ -7177,19 +7187,19 @@ Uma foto realista de uma pessoa a segurar uma versão miniatura, ao estilo Pixar
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
 ```
 
-### No. 350: colagem de mulher com microfone
+### No. 350: collage de mujer con micrófono
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Victoria Chimnaza Sunday.
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-uma mulher a segurar um microfone rosa aparece em múltiplos enquadramentos sobrepostos numa sala moderna com estantes de livros.
+Una mujer sosteniendo un micrófono rosa aparece en múltiples marcos superpuestos en una habitación moderna con estanterías.
 
 #### Prompt
 
@@ -7197,19 +7207,19 @@ uma mulher a segurar um microfone rosa aparece em múltiplos enquadramentos sobr
 a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
 ```
 
-### No. 351: Poster do Jogo Brasil vs Alemanha da Taça do Mundo
+### No. 351: Póster del Partido Brasil vs Alemania de la Copa del Mundo
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Jahan Zaib
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt cinematográfico detalhado para um poster desportivo vertical que retrata um confronto lendário entre Brasil e Alemanha na Taça do Mundo.
+Un prompt cinematográfico detallado para un póster deportivo vertical que representa un legendario enfrentamiento entre Brasil y Alemania en la Copa del Mundo.
 
 #### Prompt
 
@@ -7217,19 +7227,19 @@ Um prompt cinematográfico detalhado para um poster desportivo vertical que retr
 Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
 ```
 
-### No. 352: Loiro de Top Gráfico
+### No. 352: Rubia con Top Gráfico
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um *crop top* colorido e jeans posa contra uma parede neutra.
+Una mujer con un crop top colorido y jeans posa contra una pared neutra.
 
 #### Prompt
 
@@ -7237,19 +7247,19 @@ Uma mulher com um *crop top* colorido e jeans posa contra uma parede neutra.
 a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
 ```
 
-### No. 353: Retrato Metade Rosto Metade Bola de Futebol
+### No. 353: Retrato Mitad Rostro Mitad Balón de Fútbol
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Shams
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato fotorrealista que funde metade do rosto de um jogador com metade de uma bola de futebol.
+Un retrato fotorrealista que fusiona la mitad del rostro de un jugador con la mitad de un balón de fútbol.
 
 #### Prompt
 
@@ -7257,19 +7267,19 @@ Um retrato fotorrealista que funde metade do rosto de um jogador com metade de u
 Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
 ```
 
-### No. 354: Prompt para Cena de Moda em Estúdio Minimalista
+### No. 354: Prompt para Escena de Moda en Estudio Minimalista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado para gerar um vídeo de moda editorial e limpo, num cenário de estúdio interior minimalista.
+Un prompt estructurado para generar un video de moda editorial y limpio en un entorno de estudio interior minimalista.
 
 #### Prompt
 
@@ -7283,19 +7293,19 @@ Um prompt estruturado para gerar um vídeo de moda editorial e limpo, num cenár
 }
 ```
 
-### No. 355: Cartas do Golem de Cristal
+### No. 355: Cartas del Golem de Cristal
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Nick
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Duas cartas digitais ao estilo Pokémon que mostram a evolução de uma criatura golem de cristal, com estatísticas e habilidades detalhadas.
+Dos cartas digitales al estilo Pokémon que muestran la evolución de una criatura golem de cristal, con estadísticas y habilidades detalladas.
 
 #### Prompt
 
@@ -7303,19 +7313,19 @@ Duas cartas digitais ao estilo Pokémon que mostram a evolução de uma criatura
 Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
 ```
 
-### No. 356: Prompt para Poster Vintage Flower Power
+### No. 356: Prompt para Póster Vintage Flower Power
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minuit
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um poster psicadélico dos anos 1960-1970 com o slogan FAZER AMOR NÃO GUERRA.
+Un prompt para crear un póster psicodélico hippie de los años 1960-1970 con el eslogan HAZ EL AMOR Y NO LA GUERRA.
 
 #### Prompt
 
@@ -7323,19 +7333,19 @@ Um prompt para criar um poster psicadélico dos anos 1960-1970 com o slogan FAZE
 Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
 ```
 
-### No. 357: Retrato de Fantasia de Enfermeira
+### No. 357: Retrato en disfraz de enfermera
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** glena Jenner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com um fato de enfermeira posa enquanto calça luvas azuis.
+Una mujer con un disfraz de enfermera posa mientras se pone guantes azules.
 
 #### Prompt
 
@@ -7343,19 +7353,19 @@ Uma mulher com um fato de enfermeira posa enquanto calça luvas azuis.
 a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
 ```
 
-### No. 358: Mulher de Camisola Laranja
+### No. 358: Mujer con camiseta naranja
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Giulia
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher com a camisola de futebol dos Países Baixos posa de forma descontraída contra um fundo vermelho, fazendo uma moldura com as mãos.
+Una mujer con la camiseta de fútbol de los Países Bajos posa juguetonamente contra un fondo rojo, haciendo un gesto de enmarcar con las manos.
 
 #### Prompt
 
@@ -7363,19 +7373,19 @@ Uma mulher com a camisola de futebol dos Países Baixos posa de forma descontra�
 a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
 ```
 
-### No. 359: Robô Artista a Pintar
+### No. 359: Robot Artista Pintando
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** NewsTongue
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um robô artista pinta uma versão moderna da Noite Estrelada com 'REVE 2.0' na tela, num estúdio vintage.
+Un robot artista pinta una versión moderna de La Noche Estrellada con 'REVE 2.0' en el lienzo, en un estudio de estilo vintage.
 
 #### Prompt
 
@@ -7383,19 +7393,19 @@ Um robô artista pinta uma versão moderna da Noite Estrelada com 'REVE 2.0' na 
 a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
 ```
 
-### No. 360: Prompt para Retrato Cinematográfico de Lutador Marcado pela Batalha
+### No. 360: Prompt para retrato cinematográfico de un luchador desgastado por la batalla
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Ahmad Faraz
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato hiper-realista em close-up de um lutador masculino exausto e sem camisa.
+Un prompt para generar un retrato hiperrealista en primer plano de un luchador masculino exhausto y sin camiseta.
 
 #### Prompt
 
@@ -7403,19 +7413,19 @@ Um prompt para gerar um retrato hiper-realista em close-up de um lutador masculi
 A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
 ```
 
-### No. 361: Mulher num Iate
+### No. 361: Mujer en un yate
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Sophia | AI Artist ✨
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher de fato de banho azul está num iate, olhando por cima do ombro com o oceano ao fundo.
+Una mujer en traje de baño azul está de pie en un yate, mirando por encima del hombro con el océano detrás de ella.
 
 #### Prompt
 
@@ -7423,19 +7433,19 @@ Uma mulher de fato de banho azul está num iate, olhando por cima do ombro com o
 a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
 ```
 
-### No. 362: Deusa de Porcelana
+### No. 362: Diosa de Porcelana
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** timedoctor.eth
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher emerge de porcelana partida com reparações douradas, simbolizando a beleza na fragilidade.
+Una mujer emerge de una porcelana hecha añicos con reparaciones doradas, simbolizando la belleza en la fragmentación.
 
 #### Prompt
 
@@ -7443,19 +7453,19 @@ Uma mulher emerge de porcelana partida com reparações douradas, simbolizando a
 a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
 ```
 
-### No. 363: Reflexo na Barbearia
+### No. 363: Reflejo en la Barbería
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Hassan👑
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem com tatuagens está sentado numa cadeira de barbeiro, o seu reflexo visível no espelho enquanto o barbeiro está atrás dele num cenário clássico de barbearia.
+Un hombre con tatuajes sentado en la silla de la barbería, su reflejo visible en el espejo mientras el barbero está de pie detrás de él en un entorno de barbería clásico.
 
 #### Prompt
 
@@ -7463,19 +7473,19 @@ Um homem com tatuagens está sentado numa cadeira de barbeiro, o seu reflexo vis
 a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
 ```
 
-### No. 364: Prompt para Rosto em Forma de Coração de Sydney Sweeney
+### No. 364: Prompt de Rostro en Forma de Corazón de Sydney Sweeney
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Pinodi
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt estruturado para gerar vídeo de Sydney Sweeney com um rosto em forma de coração.
+Un prompt estructurado para generar video de Sydney Sweeney con un rostro en forma de corazón.
 
 #### Prompt
 
@@ -7490,19 +7500,19 @@ Um prompt estruturado para gerar vídeo de Sydney Sweeney com um rosto em forma 
 }
 ```
 
-### No. 365: Prompt de Moda com Corset de Veludo Preto
+### No. 365: Prompt de Moda con Corsé de Terciopelo Negro
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt de moda detalhado que especifica um top de corset de veludo preto com detalhes em corrente prateada e cabelo escuro ondulado comprido.
+Un prompt de moda detallado que especifica un top corsé de terciopelo negro con detalles de cadenas plateadas y cabello largo oscuro y ondulado.
 
 #### Prompt
 
@@ -7513,19 +7523,19 @@ Um prompt de moda detalhado que especifica um top de corset de veludo preto com 
 }
 ```
 
-### No. 366: Rosto de Pedra com Relógio a Derreter
+### No. 366: Rostro de Piedra con Reloj Derritiéndose
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Jason Heaton
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma imagem surreal de um rosto de pedra com um relógio a derreter numa escadaria em espiral escura.
+Una imagen surrealista de un rostro de piedra con un reloj derritiéndose en una escalera de caracol oscura.
 
 #### Prompt
 
@@ -7533,19 +7543,19 @@ Uma imagem surreal de um rosto de pedra com um relógio a derreter numa escadari
 a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
 ```
 
-### No. 367: Retrato de Moda Editorial com Vestido Marfim
+### No. 367: Retrato de Moda Editorial con Vestido Marfil
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um retrato de moda editorial com uma modelo confiante num vestido de cós estruturado em cetim marfim.
+Un prompt para un retrato de moda editorial que presenta a una modelo segura con un vestido camisero de satén marfil estructurado.
 
 #### Prompt
 
@@ -7556,19 +7566,19 @@ Um prompt para um retrato de moda editorial com uma modelo confiante num vestido
 }
 ```
 
-### No. 368: Homem em Estrutura de Madeira
+### No. 368: Hombre en Estructura de Madera
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Khlaseek designer
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem está de pé, confiante, num edifício de madeira iluminado pelo sol, vestindo um blazer e uma camisa escuros.
+Un hombre de pie con confianza en un edificio de madera bañado por el sol, vistiendo una chaqueta y camisa oscuras.
 
 #### Prompt
 
@@ -7576,19 +7586,19 @@ Um homem está de pé, confiante, num edifício de madeira iluminado pelo sol, v
 a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
 ```
 
-### No. 369: Editorial de Movimento de Dança em Estúdio Carmesim
+### No. 369: Editorial de Movimiento de Baile en Estudio Carmesí
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma grelha 3x3 de uma mulher com um corset de veludo preto a realizar movimentos de dança espontâneos num estúdio carmesim.
+Un prompt para generar una cuadrícula 3x3 de una mujer con un corsé de terciopelo negro realizando movimientos de baile espontáneos en un estudio carmesí.
 
 #### Prompt
 
@@ -7599,19 +7609,19 @@ Um prompt para gerar uma grelha 3x3 de uma mulher com um corset de veludo preto 
 }
 ```
 
-### No. 370: Grelha Editorial de Movimento de Dança de Alta Costura
+### No. 370: Cuadrícula Editorial de Movimiento de Baile de Alta Moda
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Özge Döner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para uma grelha de folha de contacto 3x3, apresentando a mesma mulher num estúdio carmesim, a realizar movimentos de dança de alta costura.
+Un prompt para una cuadrícula de hoja de contactos 3x3 que presenta a la misma mujer en un estudio carmesí, realizando movimientos de baile de alta moda.
 
 #### Prompt
 
@@ -7622,19 +7632,19 @@ Um prompt para uma grelha de folha de contacto 3x3, apresentando a mesma mulher 
 }
 ```
 
-### No. 371: Orbes brilhantes na escuridão
+### No. 371: Orbes brillantes en la oscuridad
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** N Creates AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma cena escura com dois orbes brilhantes, suaves e quentes, criando um efeito visual minimalista e abstrato.
+Una escena oscura con dos orbes suaves y cálidos que brillan, creando un efecto visual minimalista y abstracto.
 
 #### Prompt
 
@@ -7645,16 +7655,16 @@ dark background with two warm glowing orbs, soft bokeh effect, minimalist abstra
 ### No. 372: Dioramas de Figuras de Anime
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Gadgetify
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Quatro cenas de figuras de ação de anime de alto detalhe, que mostram batalhas icónicas de Dragon Ball, Naruto, One Piece e Bleach.
+Cuatro escenas de figuras de acción de anime de alto detalle que muestran batallas icónicas de Dragon Ball, Naruto, One Piece y Bleach.
 
 #### Prompt
 
@@ -7662,19 +7672,19 @@ Quatro cenas de figuras de ação de anime de alto detalhe, que mostram batalhas
 four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
 ```
 
-### No. 373: Sydney Sweeney Italiana a Comer, Captação Amadora
+### No. 373: Sydney Sweeney Italiana Comiendo - Toma Amateur
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** KeorUnreal
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para um vídeo amador subtil, desfocado e de baixa qualidade, captado com iPhone, de Sydney Sweeney a comer.
+Un prompt para un video amateur sutil, borroso y de baja calidad grabado con iPhone, de Sydney Sweeney comiendo.
 
 #### Prompt
 
@@ -7682,19 +7692,19 @@ Um prompt para um vídeo amador subtil, desfocado e de baixa qualidade, captado 
 Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
 ```
 
-### No. 374: Iluminação Gemini Omni AI
+### No. 374: Iluminación Gemini Omni IA
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** CHRIS FIRST
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um homem de t-shirt branca e boné segura um microfone com sobreposição de texto a promover a Iluminação de Estúdio Gemini Omni AI.
+Un hombre con camiseta blanca y gorra sostiene un micrófono con texto superpuesto promocionando la Iluminación de Estudio Gemini Omni IA.
 
 #### Prompt
 
@@ -7702,19 +7712,19 @@ Um homem de t-shirt branca e boné segura um microfone com sobreposição de tex
 a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
 ```
 
-### No. 375: Substituição de Fundo para Criador de Conteúdo Profissional
+### No. 375: Sustitución de Fondo para Creador de Contenido Profesional
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** CHRIS FIRST
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Substitua o fundo por uma configuração de secretária de alta gama para um influenciador de tecnologia.
+Reemplazar el fondo con una configuración de escritorio de alta gama para un influencer tecnológico.
 
 #### Prompt
 
@@ -7722,19 +7732,19 @@ Substitua o fundo por uma configuração de secretária de alta gama para um inf
 Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
 ```
 
-### No. 376: Prompt de Substituição de Fundo para Influenciador de Bem-Estar
+### No. 376: Prompt de Sustitución de Fondo para Influencer de Bienestar
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** CHRIS FIRST
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para substituir o fundo de um sujeito por um cenário profissional de influenciador de beleza e estilo de vida, com um interior limpo e iluminação quente.
+Un prompt para reemplazar el fondo de un sujeto con un trasfondo profesional para influencer de belleza y estilo de vida, con un interior limpio e iluminación cálida.
 
 #### Prompt
 
@@ -7742,19 +7752,19 @@ Um prompt para substituir o fundo de um sujeito por um cenário profissional de 
 Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
 ```
 
-### No. 377: Substituição de Fundo para Estúdio de Cinema Profissional
+### No. 377: Sustitución de Fondo de Estudio de Cine Profesional
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** CHRIS FIRST
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para substituir o fundo de um sujeito por um ambiente de estúdio de cinema profissional, suave e desfocado.
+Un prompt para reemplazar el fondo de un sujeto con un entorno de estudio de cine profesional, suave y fuera de foco.
 
 #### Prompt
 
@@ -7762,19 +7772,19 @@ Um prompt para substituir o fundo de um sujeito por um ambiente de estúdio de c
 Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
 ```
 
-### No. 378: Guerreira da Cidade Chuvosa
+### No. 378: Guerrera de la ciudad lluviosa
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** shawn_maybush
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma rapariga de uniforme escolar empunha uma espada numa paisagem urbana futurista encharcada pela chuva.
+Una chica con uniforme escolar blande una espada en un paisaje urbano futurista y lluvioso.
 
 #### Prompt
 
@@ -7782,19 +7792,19 @@ Uma rapariga de uniforme escolar empunha uma espada numa paisagem urbana futuris
 a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
 ```
 
-### No. 379: Celebração da Vitória da Coca-Cola
+### No. 379: Celebración de victoria con Coca-Cola
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** SaaS Junction ✦ Daily AI News & Prompts
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um troféu feito de latas de Coca-Cola celebra a vitória com confetes e faíscas.
+Un trofeo elaborado con latas de Coca-Cola celebra la victoria con confeti y chispas.
 
 #### Prompt
 
@@ -7802,19 +7812,19 @@ Um troféu feito de latas de Coca-Cola celebra a vitória com confetes e faísca
 A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
 ```
 
-### No. 380: Taça do Mundo em LEGO
+### No. 380: Trofeo de la Copa del Mundo de LEGO
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** SaaS Junction ✦ Daily AI News & Prompts
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma taça do mundo dourada em LEGO, com confetes e brilhos, promovendo uma campanha de construção de sonhos.
+Un trofeo dorado de la Copa del Mundo hecho de LEGO, con confeti y destellos, promocionando una campaña de construir sueños.
 
 #### Prompt
 
@@ -7822,19 +7832,19 @@ Uma taça do mundo dourada em LEGO, com confetes e brilhos, promovendo uma campa
 A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
 ```
 
-### No. 381: A Cavalgar um Dragão Azul
+### No. 381: Montando un dragón azul
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Rendar AI
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um cavaleiro sobrevoa uma ilha tropical num majestoso dragão azul, com cascatas e águas turquesa abaixo.
+Un jinete vuela sobre una isla tropical montado en un majestuoso dragón azul, con cascadas y aguas turquesas debajo.
 
 #### Prompt
 
@@ -7842,19 +7852,19 @@ Um cavaleiro sobrevoa uma ilha tropical num majestoso dragão azul, com cascatas
 first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
 ```
 
-### No. 382: Esboço a Lápis de Grafite - Retrato Duplo
+### No. 382: Retrato doble a lápiz de grafito
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Minahil
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um esboço detalhado a lápis de grafite de um homem e uma mulher lado a lado, sobre papel vintage.
+Un boceto detallado a lápiz de grafito de un hombre y una mujer uno al lado del otro sobre papel con aspecto vintage.
 
 #### Prompt
 
@@ -7862,19 +7872,19 @@ Um esboço detalhado a lápis de grafite de um homem e uma mulher lado a lado, s
 A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
 ```
 
-### No. 383: Retrato Cinematográfico de Cowboy Fora-da-Lei
+### No. 383: Retrato cinematográfico de un cowboy forajido
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** WeWant Mars
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um retrato cinematográfico de um cowboy fora-da-lei de aspeto rude, ao pôr do sol, numa passagem de madeira empoeirada do Velho Oeste.
+Un retrato cinematográfico de un cowboy forajido y rudo al atardecer en una pasarela de madera polvorienta del Viejo Oeste.
 
 #### Prompt
 
@@ -7882,19 +7892,19 @@ Um retrato cinematográfico de um cowboy fora-da-lei de aspeto rude, ao pôr do 
 A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
 ```
 
-### No. 384: mulher na cama à noite
+### No. 384: Mujer en la cama por la noche
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Niharika Nm
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher relaxa na cama sob um cobertor rosa, iluminada pelo brilho quente de uma lâmpada de cabeceira.
+Una mujer se relaja en la cama bajo una manta rosa, iluminada por la cálida luz de una lámpara de noche.
 
 #### Prompt
 
@@ -7902,19 +7912,19 @@ Uma mulher relaxa na cama sob um cobertor rosa, iluminada pelo brilho quente de 
 a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
 ```
 
-### No. 385: Lançamento do Pixel Drop
+### No. 385: Lanzamiento de Pixel Drop
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** AIVAnet
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma imagem promocional para a funcionalidade Pixel Drop da Google, com reações no ecrã.
+Una imagen promocional para la función Pixel Drop de Google con reacciones en pantalla.
 
 #### Prompt
 
@@ -7922,19 +7932,19 @@ Uma imagem promocional para a funcionalidade Pixel Drop da Google, com reações
 A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
 ```
 
-### No. 386: Design Gráfico Retrô 'Boa Onda, Maré Alta'
+### No. 386: Diseño gráfico retro 'Buenas vibras, mareas altas'
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Heather Green
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um gráfico circular em estilo retrô com imagens de pôr do sol no oceano e texto com efeito desgastado.
+Un prompt para crear un gráfico circular de estilo retro con imágenes de un atardecer en el océano y texto con efecto desgastado.
 
 #### Prompt
 
@@ -7942,19 +7952,19 @@ Um prompt para criar um gráfico circular em estilo retrô com imagens de pôr d
 A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
 ```
 
-### No. 387: Referência de Identidade para Retrato Editorial de Alta Costura
+### No. 387: Referencia de identidad para retrato editorial de alta moda
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Soaima
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar um retrato ultra-realista que preserve a identidade facial exata de uma foto de referência.
+Un prompt para generar un retrato ultra realista que preserve la identidad facial exacta de una foto de referencia.
 
 #### Prompt
 
@@ -7962,19 +7972,19 @@ Um prompt para gerar um retrato ultra-realista que preserve a identidade facial 
 Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
 ```
 
-### No. 388: Retrato de Moda Monocromático de uma Musa Minimalista
+### No. 388: Retrato de moda monocromático de una musa minimalista
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Virena
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para retrato monocromático de arte fina de uma mulher elegante com características faciais específicas.
+Un prompt para un retrato monocromático de bellas artes de una mujer elegante con rasgos faciales específicos.
 
 #### Prompt
 
@@ -7982,19 +7992,19 @@ Um prompt para retrato monocromático de arte fina de uma mulher elegante com ca
 Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
 ```
 
-### No. 389: Conjunto Floral Elegante
+### No. 389: Conjunto floral elegante
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Wandering Corner
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher posa num conjunto elegante de cor bege com estampado floral, com saia assimétrica e top de ombro à mostra.
+Una mujer posa con un atuendo elegante color beige con estampado floral, con una falda de vuelo asimétrico y un top de tirantes caídos.
 
 #### Prompt
 
@@ -8002,19 +8012,19 @@ Uma mulher posa num conjunto elegante de cor bege com estampado floral, com saia
 a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
 ```
 
-### No. 390: Prompt para retrato ultra-realista de smartphone
+### No. 390: Prompt para retrato ultra realista con smartphone
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Aiza
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para gerar uma foto espontânea de smartphone de uma jovem com cabelo ondulado e óculos.
+Un prompt para generar una foto espontánea con smartphone de una mujer joven con cabello ondulado y gafas.
 
 #### Prompt
 
@@ -8022,19 +8032,19 @@ Um prompt para gerar uma foto espontânea de smartphone de uma jovem com cabelo 
 Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
 ```
 
-### No. 391: Prompt para Retrato Ultra Realista em Aguarela
+### No. 391: Prompt para retrato ultra realista en acuarela
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Anaya Ai
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Um prompt para criar um retrato em alta definição com realismo de aguarela, com preservação estrita da identidade a partir de uma imagem de referência.
+Un prompt para crear un retrato de alta definición con realismo de acuarela y una preservación estricta de la identidad a partir de una imagen de referencia.
 
 #### Prompt
 
@@ -8042,19 +8052,19 @@ Um prompt para criar um retrato em alta definição com realismo de aguarela, co
 Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
 ```
 
-### No. 392: mulher em traje casual
+### No. 392: Mujer con ropa casual
 
 - **Categoria:** `Twitter Community`
-- **Fonte:** `x`
+- **Fuente:** `x`
 - **Autor:** Zara
-- **Idioma:** `pt-PT`
+- **Idioma:** `es-ES`
 - **Video:** [Ver]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Descricao
+#### Descripcion
 
-Uma mulher posa com confiança num top preto e calças creme, sentada num banco branco contra um fundo liso.
+Una mujer posa con confianza en una camiseta negra y pantalones color crema, sentada en un taburete blanco contra un fondo liso.
 
 #### Prompt
 
@@ -8062,7 +8072,7 @@ Uma mulher posa com confiança num top preto e calças creme, sentada num banco 
 a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
-Este README e gerado automaticamente a partir de `data/prompts_by_locale`.
+Este README se genera automaticamente a partir de `data/prompts_by_locale`.
 
 ## More Atlas Cloud Tools
 

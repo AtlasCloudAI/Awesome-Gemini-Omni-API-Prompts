@@ -1,4 +1,4 @@
-# 🎬 Tong Hop Prompt Gemini Omni
+# 🎬 Awesome Gemini Omni 提示詞大全
 
 ![Awesome Gemini Omni Logo](./logo.png)
 
@@ -8,25 +8,25 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
-Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
+收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
-Kho nay tong hop cac vi du video cong khai cua Gemini Omni. Moi muc deu co video xem truoc va prompt da duoc ban dia hoa.
+這個倉庫整理了 Gemini Omni 的公開影片案例。每條資料都帶影片預覽，並提供本地化提示詞，方便直接複用。
 
-- **Hien tai:** Tiếng Việt
-- **Ngon ngu khac:** [English](./README.md) | [简体中文](./README_zh.md) | [繁體中文](./README_zh-TW.md) | [日本語](./README_ja-JP.md) | [한국어](./README_ko-KR.md) | [ไทย](./README_th-TH.md) | [हिन्दी](./README_hi-IN.md) | [Español](./README_es-ES.md) | [Español (Latinoamérica)](./README_es-419.md) | [Deutsch](./README_de-DE.md) | [Français](./README_fr-FR.md) | [Italiano](./README_it-IT.md) | [Português (Brasil)](./README_pt-BR.md) | [Português](./README_pt-PT.md) | [Türkçe](./README_tr-TR.md)
+- **目前:** 繁體中文
+- **其他語言:** [English](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/README.md) | [简体中文](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_zh.md) | [日本語](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_ja-JP.md) | [한국어](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_ko-KR.md) | [ไทย](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_th-TH.md) | [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_vi-VN.md) | [हिन्दी](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_hi-IN.md) | [Español](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_es-ES.md) | [Español (Latinoamérica)](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_es-419.md) | [Deutsch](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_de-DE.md) | [Français](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_fr-FR.md) | [Italiano](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_it-IT.md) | [Português (Brasil)](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_pt-BR.md) | [Português](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_pt-PT.md) | [Türkçe](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/i18n/README_tr-TR.md)
 
-## 🤔 What is Gemini Omni?
+## 🤔 什么是 Gemini Omni？
 
-Gemini Omni is Google's multimodal video model — text-to-video, image-to-video and reference-to-video with native, synchronized audio. On Atlas Cloud it runs as `google/gemini-omni-flash/*`. Every preview below was generated through Atlas Cloud from the listed prompt.
+Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图生视频、参考生视频，并原生音画同步。在 Atlas Cloud 上通过 `google/gemini-omni-flash/*` 调用。下面每条 prompt 的预览都由 Atlas Cloud 实际跑出。
 
-## 📊 Thong ke
+## 📊 統計資料
 
-| Muc | So luong |
+| 指標 | 數量 |
 | --- | ---: |
-| Tong so Prompt | 392 |
-| So danh muc | 8 |
-| So video xem truoc | 154 |
-| Cap nhat lan cuoi | 15/06/2026 |
+| 提示詞總數 | 392 |
+| 分類數 | 8 |
+| 預覽影片數 | 154 |
+| 最後更新 | 2026/06/15 |
 
 ### 🧩 Supported Models
 
@@ -45,558 +45,558 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 **[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gemini-omni-prompts)**
 
-## 🏷️ Duyet theo danh muc
+## 🏷️ 按分類瀏覽
 
-- [Transform & Stylization](#category-1)
-- [Action & Motion](#category-2)
-- [Camera & Perspective](#category-3)
-- [Text & Sequences](#category-4)
-- [Multi-Input & Reference](#category-5)
-- [Atlas Generated T2V](#category-6)
-- [Atlas Generated I2V](#category-7)
+- [变换与风格化](#category-1)
+- [动作与运动](#category-2)
+- [镜头与视角](#category-3)
+- [文字与序列](#category-4)
+- [多输入与参考](#category-5)
+- [Atlas 生成案例 T2V](#category-6)
+- [Atlas 生成案例 I2V](#category-7)
 - [Twitter Community](#category-8)
 
-## Tat ca Prompt
+## 全部提示詞
 
 <a id="category-1"></a>
 
-### Transform & Stylization (10)
+### 变换与风格化 (10)
 
-### No. 1: Mirror: Liquid Metal Ripple
+### No. 1: 镜子：液态金属涟漪
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_001
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/001_mirror_liquid_metal.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Mirror touch triggers a liquid-metal ripple effect and turns the arm into reflective mirror material.
+触碰镜面后，镜子产生液态金属般的涟漪，手臂也变成反光镜面材质。
 
-#### Prompt
+#### 提示詞
 
 ```text
-When the person touches the mirror, make the mirror ripple beautifully like liquid, and the person's arm turns into reflective mirror material
+当人物触碰镜子时，让镜面像液体一样优雅地泛起涟漪，并让人物的手臂变成反光镜面材质
 ```
 
-### No. 2: Mirror: Line Art Transformation
+### No. 2: 镜子：线稿风格变换
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_002
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/002_mirror_line_art.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Mirror touch transforms the subject into a detailed monochrome line drawing.
+触碰镜面后，人物变成精细的黑白线稿绘画风格。
 
-#### Prompt
+#### 提示詞
 
 ```text
-When the person touches the mirror, the person transforms into a detailed monochrome line art drawing
+当人物触碰镜子时，让人物变成一幅细致的黑白线稿绘画
 ```
 
-### No. 3: Mirror: Puppet Transformation
+### No. 3: 镜子：玩偶变换
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_003
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/003_mirror_puppet.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Mirror touch swaps the subject into a cute felt puppet with big googly eyes and glasses.
+触碰镜面后，人物突然变成带大眼珠和眼镜的可爱毛毡玩偶。
 
-#### Prompt
+#### 提示詞
 
 ```text
-When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
+当人物触碰镜子时，让人物突然变成一个可爱的毛毡布偶版本，拥有夸张的大眼珠和眼镜
 ```
 
-### No. 4: Mirror: Holograph Transformation
+### No. 4: 镜子：全息投影变换
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_004
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/004_mirror_holograph.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Mirror touch converts the person and room into a vintage transparent holodeck-like hologram scene.
+触碰镜面后，人物和房间一起变成复古的单色透明全息空间。
 
-#### Prompt
+#### 提示詞
 
 ```text
-When the person touches the mirror, the person instantly transform into a vintage monochrome transparent 3d line art hologram, inside of a monochrome 3d holodeck maintaining the structure and details of the room and environment
+当人物触碰镜子时，让人物瞬间变成复古的单色透明 3D 线稿全息影像，并置于一个单色 3D 全息甲板空间中，同时保留房间和环境的结构与细节
 ```
 
-### No. 5: Mirror: Voxel World
+### No. 5: 镜子：体素世界
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_005
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/005_mirror_voxel_world.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Mirror touch turns the whole room into chunky 3D voxel art.
+触碰镜面后，整个环境都转成 3D 体素艺术效果。
 
-#### Prompt
+#### 提示詞
 
 ```text
-When the person touches the mirror, the entire environment turns into 3d voxel art
+当人物触碰镜子时，让整个环境都变成 3D 体素艺术
 ```
 
-### No. 6: Butterfly to Bee
+### No. 6: 蝴蝶变蜜蜂
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_015
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_015
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/015_butterfly_to_bee.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Morph the butterfly into a bee.
+把蝴蝶变成一只蜜蜂。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the butterfly to a bee.
+把蝴蝶变成一只蜜蜂。
 ```
 
-### No. 7: Bee to Fireflies
+### No. 7: 蜜蜂变萤火虫
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_016
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_016
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/016_bee_to_fireflies.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Morph the bee into a small swarm of fireflies.
+把蜜蜂变成一小群萤火虫。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the bee into a small swarm of fireflies.
+把蜜蜂变成一小群萤火虫。
 ```
 
-### No. 8: Spaceships: White Origami
+### No. 8: 飞船：白色折纸
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_023
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_023
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/023_spaceships_white_origami.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Transform the ships so they look like folded white origami paper.
+把飞船变成由白色折纸制成的质感。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the ships to be made from white origami paper.
+把飞船改成由白色折纸制成。
 ```
 
-### No. 9: Astronaut to Sea Anemone
+### No. 9: 宇航员变海葵
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_024
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_024
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/024_astronaut_sea_anemone.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Transform the astronaut into a sea anemone.
+把宇航员变成海葵。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the astronaut to a sea anemone.
+把宇航员变成海葵。
 ```
 
-### No. 10: Small Ships to Stingrays
+### No. 10: 小飞船变黄貂鱼
 
-- **Danh muc:** `Transform & Stylization`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_025
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
+- **分類:** `变换与风格化`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_025
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/025_small_ships_to_stingrays.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Transform the small ships into stingrays.
+把小飞船变成黄貂鱼。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the small ships to stingrays.
+把小飞船变成黄貂鱼。
 ```
 
 <a id="category-2"></a>
 
-### Action & Motion (6)
+### 动作与运动 (6)
 
-### No. 11: Hand Hole Super Zoom
+### No. 11: 手洞超级变焦
 
-- **Danh muc:** `Action & Motion`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
+- **分類:** `动作与运动`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_006
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/006_handhole_super_zoom.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-A hand-shaped hole behaves like a surreal magnifying lens that super-zooms into the ground.
+让手掌形状的洞口变成超现实放大镜，对地面进行超级变焦和放大。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
+让这个奇怪的手形洞口看起来像是在超级变焦，并把它所看到的地面以更清晰的质量放大出来。
 ```
 
-### No. 12: Animal Toy Sound Interaction
+### No. 12: 动物玩具声音互动
 
-- **Danh muc:** `Action & Motion`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
+- **分類:** `动作与运动`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_007
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/007_animal_toy_sound.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Touching each toy animal triggers the matching animal sound.
+当手指碰到不同动物玩具时，播放对应动物的叫声。
 
-#### Prompt
+#### 提示詞
 
 ```text
-When the finger in <video> touches the animal toy play the sound the animal makes
+当 <video> 中的手指碰到动物玩具时，播放该动物发出的声音
 ```
 
-### No. 13: Apartments Lights Sync to Music
+### No. 13: 公寓灯光跟随音乐同步亮起
 
-- **Danh muc:** `Action & Motion`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_008
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
+- **分類:** `动作与运动`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_008
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/008_apartments_lights_sync.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Apartment lights switch on rhythmically in sync with the soundtrack.
+让公寓楼的灯光随着音乐节奏逐步亮起。
 
-#### Prompt
+#### 提示詞
 
 ```text
-The lights of the apartments start turning on in sync with the music.
+让公寓的灯光随着音乐同步开始亮起。
 ```
 
-### No. 14: Marble Chain Reaction
+### No. 14: 弹珠连锁反应
 
-- **Danh muc:** `Action & Motion`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_013
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
+- **分類:** `动作与运动`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_013
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/013_marble_chain_reaction.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-A marble races across a chain-reaction track in one continuous smooth shot.
+一颗弹珠沿着连锁反应轨道高速滚动，镜头平滑连续。
 
-#### Prompt
+#### 提示詞
 
 ```text
-A marble rolling fast on a chain reaction style track, continuous smooth shot
+一颗弹珠在连锁反应风格的轨道上快速滚动，连续平滑镜头
 ```
 
-### No. 15: Building Lights Prompt Guide Variant
+### No. 15: 建筑灯光提示词指南版本
 
-- **Danh muc:** `Action & Motion`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_017
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
+- **分類:** `动作与运动`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_017
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/017_prompt_guide_building_lights.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Building lights pulse and switch on in sync with the soundtrack.
+让建筑的灯光随配乐节奏闪动并逐步点亮。
 
-#### Prompt
+#### 提示詞
 
 ```text
-The lights of the buildings start turning on in sync with the music.
+让建筑物的灯光随着音乐同步开始亮起。
 ```
 
-### No. 16: Skateboard Motion Effects
+### No. 16: 滑板运动特效
 
-- **Danh muc:** `Action & Motion`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_019
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
+- **分類:** `动作与运动`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_019
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/019_skateboard_motion_effects.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Keep the scene unchanged while adding animated motion effects from the skateboard.
+保持画面其它内容不变，仅为滑板加入运动特效拖尾。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+在保持其它一切都不变的前提下编辑这个视频。给滑板加上从板身发散出来的动态特效。
 ```
 
 <a id="category-3"></a>
 
-### Camera & Perspective (5)
+### 镜头与视角 (5)
 
-### No. 17: Violinist Input Base Shot
+### No. 17: 小提琴手输入基础镜头
 
-- **Danh muc:** `Camera & Perspective`
-- **Nguon:** `Google Blog | DeepMind Sequence`
-- **Tac gia:** omni_009
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
+- **分類:** `镜头与视角`
+- **来源:** `Google Blog | DeepMind 序列示例`
+- **作者:** omni_009
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/009_violinist_input.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Base clip of a violinist playing, used as the starting point for later edits.
+一个小提琴手演奏歌曲的基础视频，可作为后续多轮编辑的起点。
 
-#### Prompt
+#### 提示詞
 
 ```text
-A video of a violinist playing a song.
+一段小提琴手演奏歌曲的视频。
 ```
 
-### No. 18: Violinist: Transport to New Environment
+### No. 18: 小提琴手：迁移到新环境
 
-- **Danh muc:** `Camera & Perspective`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_010
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
+- **分類:** `镜头与视角`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_010
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/010_violinist_transport_environment.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Move the violinist performance into a new referenced environment.
+把小提琴手的表演迁移到新的参考图环境中。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Transport the violinist to the image environment
+把这位小提琴手迁移到图片环境中
 ```
 
-### No. 19: Violinist: Invisible Violin
+### No. 19: 小提琴手：让小提琴消失
 
-- **Danh muc:** `Camera & Perspective`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_011
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
+- **分類:** `镜头与视角`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_011
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/011_violinist_invisible_violin.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Remove the violin while preserving the original performance.
+保留演奏动作，但让小提琴完全消失。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Make the violin invisible
+让小提琴变得不可见
 ```
 
-### No. 20: Violinist: Over-the-Shoulder Angle
+### No. 20: 小提琴手：肩后视角
 
-- **Danh muc:** `Camera & Perspective`
-- **Nguon:** `DeepMind Official`
-- **Tac gia:** omni_012
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
+- **分類:** `镜头与视角`
+- **来源:** `DeepMind 官方`
+- **作者:** omni_012
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/012_violinist_over_shoulder.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Reframe the performance from an over-the-shoulder camera angle.
+把镜头重新设定为小提琴手肩膀后方的视角。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the camera angle to be over the violinist's shoulder.
+把镜头角度改成从小提琴手肩后拍摄。
 ```
 
-### No. 21: Camera Tilt: Shoes to Medium Shot
+### No. 21: 镜头倾斜：鞋子到中景
 
-- **Danh muc:** `Camera & Perspective`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_020
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
+- **分類:** `镜头与视角`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_020
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/020_camera_tilt_boots.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Start close on the shoes, tilt up quickly, then widen the framing.
+从鞋子的近景快速上仰到中景，再进一步拉宽镜头。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Change the camera angle, a close-up on his shoes, quickly tilting up to medium shot, then widening.
+改变镜头角度，从他的鞋子特写开始，快速上仰到中景，然后再拉宽。
 ```
 
 <a id="category-4"></a>
 
-### Text & Sequences (2)
+### 文字与序列 (2)
 
-### No. 22: Alphabet Items Sequence
+### No. 22: 字母物品序列
 
-- **Danh muc:** `Text & Sequences`
-- **Nguon:** `Google Blog | DeepMind Sequence`
-- **Tac gia:** omni_014
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
+- **分類:** `文字与序列`
+- **来源:** `Google Blog | DeepMind 序列示例`
+- **作者:** omni_014
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/014_alphabet_items_sequence.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Show all 26 letters through unusual table-top objects with matching lower-thirds.
+用 26 个不寻常的桌面物品依次表现字母表，并配套逐个出现的字卡。
 
-#### Prompt
+#### 提示詞
 
 ```text
-The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table (like a Capybara for C, disco globe for D and Lava Lamp for L). All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Each lower third must look like a black marker written on a slip of paper in the bottom left. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END". The whole video is accompanied by calm smooth music.
+视频展示字母表中的物品。每个字母都对应一个放在桌子上的非常规物品（例如 C 是水豚，D 是迪斯科球，L 是熔岩灯）。26 个字母必须全部由 26 个物品表示，并配有对应字母的下三分之一字幕。任意时刻只能出现一个物品和一个字幕。每个字幕都必须像是黑色马克笔写在左下角的一张纸条上。节奏要很快，按 24FPS 计算，每个物品大约 9 帧。最后一帧是一张写着“THE END”的纸条。整个视频配有平静顺滑的音乐。
 ```
 
-### No. 23: Word-by-Word Text Sync
+### No. 23: 逐词文字同步
 
-- **Danh muc:** `Text & Sequences`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_018
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
+- **分類:** `文字与序列`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_018
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/018_word_by_word_text_sync.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Display one animated word at a time with rhythmic pacing.
+让单词一个接一个出现在屏幕上，并且每个词都有不同动画风格。
 
-#### Prompt
+#### 提示詞
 
 ```text
-word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
+逐词显示，每次屏幕上只出现一个词：did, you, know, that, this, model, can, do, pretty, good, text!? 每个词都以不同的动画风格出现，节奏要和音乐完美贴合，整体像一支混剪展示片。
 ```
 
 <a id="category-5"></a>
 
-### Multi-Input & Reference (2)
+### 多输入与参考 (2)
 
-### No. 24: Birds Shape With Audio
+### No. 24: 结合音频的鸟群造型
 
-- **Danh muc:** `Multi-Input & Reference`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_021
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
+- **分類:** `多输入与参考`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_021
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/021_birds_shape_with_audio.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Birds form an image-inspired silhouette, move with music, then dissipate as they fly.
+让鸟群参考图片形成轮廓，并随着音乐移动、飞散。
 
-#### Prompt
+#### 提示詞
 
 ```text
-The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
+让 <video> 中的鸟群根据 <image> 松散地形成一个不完美的鸟形轮廓。它们随着 <audio> 中的音乐移动，并在飞行过程中逐渐散开
 ```
 
-### No. 25: Storyboard: Show Me in This Story
+### No. 25: 故事板：把我放进这个故事
 
-- **Danh muc:** `Multi-Input & Reference`
-- **Nguon:** `DeepMind Prompt Guide`
-- **Tac gia:** omni_022
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
+- **分類:** `多输入与参考`
+- **来源:** `DeepMind 提示词指南`
+- **作者:** omni_022
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm)
 
 <video src="https://static.atlascloud.ai/prompt/omni/022_storyboard_show_me.webm" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Turn storyboard panels into a 10-second cinematic sequence in exact order.
+严格按故事板顺序，把画面转换成一支 10 秒的电影感短片。
 
-#### Prompt
+#### 提示詞
 
 ```text
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic
+把我放进这个故事里。严格按照从左上开始的顺序依次遵循整个故事。整支视频时长 10 秒。电影感。
 ```
 
 <a id="category-6"></a>
 
-### Atlas Generated T2V (33)
+### Atlas 生成案例 T2V (33)
 
 ### No. 26: Golden Deer
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 026
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 026
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/026_generated_01_t2v-01-golden-deer.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single dro...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single drop of glowing golden honey falls into the deer eye. The porcelain cracks outward and transforms into warm living fur and muscle. The deer exhales cold mist, lowers its head, then leaps through the forest, scattering glowing particles. Rich cinematic sound design, restrained camera push-in, emotionally epic.
@@ -604,19 +604,19 @@ Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lig
 
 ### No. 27: Perfume Ice
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 027
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 027
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/027_generated_02_t2v-02-perfume-ice.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fracture...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fractures spread across the ice in sync with a low bass pulse. The bottle rotates elegantly as silver vapor blooms around it. On the final beat, the ice bursts into suspended glittering shards and the logo lockup appears in clean light.
@@ -624,19 +624,19 @@ Luxury commercial cinematography, polished glass reflections, slow motion, 100mm
 
 ### No. 28: Mini Chef Ramen
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 028
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 028
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/028_generated_04_t2v-04-mini-chef-ramen.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth toward a glowing soft-boiled egg. Steam rolls through the frame, sesame seeds fall in slow motion, and the final shot lands on a perfect hero angle.
@@ -644,19 +644,19 @@ Playful food commercial with cinematic miniature photography. A tiny chef runs a
 
 ### No. 29: Aurora Astronaut
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 029
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 029
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/029_generated_05_t2v-05-aurora-astronaut.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the sc...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the scene perfectly. The camera begins low behind the boots, then rises into a graceful orbit as the aurora twists into ribbon-like spirals overhead. Finish on a contemplative wide frame.
@@ -664,19 +664,19 @@ Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walk
 
 ### No. 30: Opera Stage Transformation
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 034
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 034
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/034_generated_01_cs_002_opera-stage-transformation.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use cam...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene on an exquisite stage, reference the camera movements and transition effects of @video1, use camera work to match the character's movements, ultimate stage aesthetics, enhance visual impact.
@@ -684,19 +684,19 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 31: One-Take Seamless Transition
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 035
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 035
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/035_generated_02_cs_003_one-take-seamless-transition.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Reference all transitions and camera movements from @video1, one continuous take. The frame starts with a chess game, camera moves left, showing yellow sand on the floor, camera moves up to a beach with footprints, a girl in white plain clothes walks away on the beach, camera cuts to aerial overhead view, seawater washing (no people appearing), seamless gradient transition, the washing waves become flowing curtains, camera pulls back, showing close-up of the girl's face, one continuous take.
@@ -704,19 +704,19 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 32: Coffee Morning Campaign
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 036
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 036
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/036_generated_03_ne_006_coffee-morning-campaign.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through the blinds onto the wooden table and cup body, branches sway with slight breathing-like movement. 6-10 seconds: A coffee bean gently falls from the top of the screen, camera pushes toward the coffee bean until the screen goes black. 11-15 seconds: English text gradually appears first line 'Lucky Coffee', second line 'Breakfast', third line 'AM 7:00-10:00'.
@@ -724,19 +724,19 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 33: Sunflower Skateboard Story
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 037
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 037
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/037_generated_04_ne_007_sunflower-skateboard-story.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies pok...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Extend forward by 10s. In warm afternoon light, camera starts from the row of awnings fluttering in the breeze at the street corner, slowly moves down to a few small daisies poking out at the base of the wall. Then the protagonist's red skateboard shoes appear in the frame. He is crouching in front of a street flower stand, smiling and gathering a large bunch of sunflowers into his arms, petals brushing against his white T-shirt. As he turns to step on the skateboard, the flower stand owner laughingly shouts 'Watch out for flying petals!' He waves at the owner, then starts skating. A few golden petals have already broken free from the bouquet first, falling onto the skateboard deck.
@@ -744,19 +744,19 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 34: Titanic Dark Twist
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 038
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 038
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/038_generated_06_ve_001_titanic-dark-twist.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist off the bridge, pushing her into the water. The action is decisive and resolute, with long-premeditated determination, without any hesitation, completely subverting the original affectionate character setting. The moment the female protagonist falls into the water, there is no scream, only disbelieving eyes. She looks up and roars at the male protagonist: 'You've been lying to me from the beginning!' The male protagonist stands on the bridge, a cold smile on his face, saying in a low voice to the water: 'This is what you owe my family.'
@@ -764,19 +764,19 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 35: Anime Chess Battle Storyboard
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 039
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 039
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/039_generated_08_ms_004_anime-chess-battle-storyboard.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female p...
 
-#### Prompt
+#### 提示詞
 
 ```text
 8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female protagonist places a chess piece and says 'You lost', reference storyboard image 2. 3-4 seconds: Quick pan camera, turn to opposite man's face close-up, reference storyboard image 3, man gritting teeth, very dissatisfied with the result. 4-6 seconds: Cut camera, overhead shot, woman places a chess piece, people opposite are amazed, reference storyboard image 4. 6-8 seconds: Camera rapidly pans down, screen goes black for transition, then screen gradually brightens, dimly lit room, woman looks at the moonlight outside the window and quietly says 'We'll see', reference storyboard image 5.
@@ -784,19 +784,19 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 36: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 040
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 040
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/040_generated_09_tw_001_1-minute-cinematic-war-video-in-5-minutes-multi-shot-structu.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sun...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
@@ -804,19 +804,19 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 37: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 041
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 041
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/041_generated_10_tw_003_aerial-shot-of-burning-military-vehicle-in-urban-warfare.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overc...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
@@ -824,19 +824,19 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 38: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 042
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 042
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/042_generated_12_tw_007_quick-test-of-female-controlling-plane-in-complex-action-sce.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
@@ -844,19 +844,19 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 39: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 043
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 043
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/043_generated_13_tw_008_imax-style-desert-sandstorm-scene-with-denis-villeneuve-aest.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
@@ -864,19 +864,19 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 40: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 044
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 044
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/044_generated_14_tw_009_multi-shot-fight-scene-generated-with-only-3-reference-image.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
@@ -884,19 +884,19 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 41: One Punch Man Animation Surpassing Original Quality
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 045
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 045
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/045_generated_15_tw_016_one-punch-man-animation-surpassing-original-quality.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls,...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
@@ -904,19 +904,19 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 42: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 046
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 046
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/046_generated_16_tw_021_otter-entering-giant-mecha-animation-scene-with-detailed-mec.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. ...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
@@ -924,19 +924,19 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 43: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 047
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 047
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/047_generated_17_tw_022_south-indian-cinema-alien-scene-generated-from-single-prompt.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing....
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
@@ -944,19 +944,19 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 44: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 048
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 048
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/048_generated_18_tw_024_ground-combat-shot-of-soldiers-traversing-desert-terrain.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and form...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
@@ -964,19 +964,19 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 45: Hyper-Energetic Japanese Promo Poster
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 049
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 049
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/049_generated_19_14269_hyper-energetic-japanese-promo-poster.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poster.
 
-#### Prompt
+#### 提示詞
 
 ```text
 { "type": "Japanese promotional landing page poster", "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic", "layout": { "top_section": { "background": "night sky, fireworks, ferris wheel, roller coaster", "subjects": "4 young adults cheering, raising fists, dynamic lighting", "typography": [ "{argument name=\"main headline\" default=\"究極の楽しい!!\"}", "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}", "この一枚が、あなたの人生を最高に塗り替える!!" ], "badges": [ "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!" ] }, "middle_section": { "title": "究極の楽しい体験を実現する5つの超快楽ポイント", "points_count": 5, "points": [ {"number": 1, "label": "爆笑覚醒", "image": "people laughing"}, {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"}, {"number": 3, "label": "感動の渦", "image": "fireworks explosion"}, {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"}, {"number": 5, "label": "無限リピート", "image": "group of people cheering"} ] }, "bonus_section": { "title": "今だけ！超豪華 5大特典付き!!!", "items_count": 5, "items": [ "① 限定デザインポスター", "② 楽しい名言ブックレット(PDF)", "③ 超楽しいプレイリスト(MP3)", "④ スマホ壁紙セット", "⑤ 楽しいシークレット映像" ] }, "bottom_section": { "product_info": { "name": "究極の楽しいポスター", "variants_count": 3, "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."] }, "pricing": { "label": "魂の価格", "amount": "{argument name=\"price\" default=\"¥2,980\"}", "shipping": "送料無料" } }, "footer": { "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}", "background_color": "magenta" } } }
@@ -984,19 +984,19 @@ Structured text-to-video prompt example for Hyper-Energetic Japanese Promo Poste
 
 ### No. 46: 逼真的海岸跑车摄影
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 050
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 050
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/050_generated_20_14046_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {arg...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A photorealistic, high-resolution automotive shot of a {argument name="car color" default="bright red"} {argument name="car model" default="Ferrari F8 Tributo"} parked on a {argument name="setting" default="coastal road overlooking the ocean"}. The sports car is positioned at a slight angle, showcasing its sleek aerodynamic curves, aggressive front fascia, distinct LED headlights, and silver alloy wheels with yellow center caps. The iconic yellow shield logo is visible on the front fender. The background features a deep blue sea, a low stone guardrail, and a distant rocky coastline covered in lush green vegetation and scattered buildings under a clear blue sky. The lighting is a {argument name="lighting" default="bright sunny day"}, casting sharp, realistic shadows on the asphalt and creating brilliant reflections on the car's glossy paint.
@@ -1004,19 +1004,19 @@ A photorealistic, high-resolution automotive shot of a {argument name="car color
 
 ### No. 47: 动漫风狐狸少女求抱抱
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 051
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 051
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/051_generated_21_13919_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark bro...
 
-#### Prompt
+#### 提示詞
 
 ```text
 An anime-style illustration of a cute girl with {argument name="animal ears" default="fluffy dark brown fox ears"} and long flowing {argument name="hair color" default="dark brown"} hair. She is wearing a detailed {argument name="clothing" default="red and white floral kimono with fur trim"} and a floral hair accessory with red tassels. She has a {argument name="expression" default="bright happy smile with a slight blush"} and warm amber eyes, reaching both hands forward towards the viewer in a welcoming hug. The perspective features strong foreshortening on her hands, which are slightly out of focus. The scene is set with {argument name="environment" default="falling snow against a bright white background"}, illuminated by soft, warm, ethereal lighting.
@@ -1024,19 +1024,19 @@ An anime-style illustration of a cute girl with {argument name="animal ears" def
 
 ### No. 48: 优雅酒吧咖啡桌旁的女性
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 052
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 052
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/052_generated_22_14569_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward wi...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A candid, photorealistic vertical photo of a woman seated at a rustic wooden table in an elegant upscale bar-cafe interior. She is centered in the foreground, leaning forward with one elbow on the table and her hand supporting her chin, giving a relaxed, intimate, editorial lifestyle feel. She has long, dark brown wavy hair parted near the middle, falling over both shoulders, and wears a fitted white ribbed long-sleeve scoop-neck top. On the table in front of her are exactly 3 visible objects: 1 peach-colored cocktail in a wide coupe glass on the left, 1 blue-and-white floral ceramic mug in the center-right, and 1 small clear glass bottle vase holding sparse dried stems on the far right. Behind her is a warmly lit, sophisticated bar with marble or stone finishes, ornate classical ceiling details, shelves of liquor bottles and glassware, glowing backbar lighting, and a bartender in a white shirt and dark apron working in soft focus. Include dark bar stools along the counter and a rich amber, cream, and brown color palette. Use shallow depth of field, soft natural indoor light mixed with warm bar lighting, realistic skin and fabric texture, subtle filmic tones, high-detail luxury hospitality photography, shot at eye level with a smartphone or portrait lens, vertical composition, cozy Parisian cafe meets hotel bar atmosphere.
@@ -1044,19 +1044,19 @@ A candid, photorealistic vertical photo of a woman seated at a rustic wooden tab
 
 ### No. 49: 可爱的四格校园社团漫画
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 053
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 053
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/053_generated_23_14677_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 
-#### Prompt
+#### 提示詞
 
 ```text
 {"type":"4-panel manga comic page","style":"clean modern Japanese school-life anime, soft pastel colors, crisp line art, light cel shading, printed manga layout with white gutters and black panel borders, cute slice-of-life atmosphere","format":"vertical full page","theme":"high school club meeting about what activity to do next, ending with a cheerful compromise","text":{"title_top":"{argument name=\"headline text\" default=\"わたしたちの部活日和 🌸\"}","ending_note":"おしまい"},"characters":[{"id":"girl1","appearance":"short pink bob hair with a small ahoge, school uniform with cream cardigan and red ribbon, expressive and energetic"},{"id":"girl2","appearance":"long straight navy-blue hair, calm demeanor, school uniform"},{"id":"girl3","appearance":"short blonde bob, soft cheerful expression, school uniform with red ribbon"},{"id":"girl4","appearance":"long purple hair in a low ponytail, composed and thoughtful, school uniform with grayish top"}],"layout":{"panels":[{"position":"top","count":1,"setting":"club room table by a window, four girls seated with 4 small colorful mugs on the table","speech_bubbles":["部活ミーティング","お菓子作りはどうですか？","いいですね〜！","次の部活は何をするか決めましょうか"]},{"position":"upper-middle","count":1,"setting":"fantasy thought panel with pink sparkly background and floating desserts above the girls","items":{"count":5,"labels":["chocolate cake slice","round cookies","checker cookies","mont blanc cupcake","strawberry shortcake slice"]},"center_text":"わくわく…","speech_bubbles":["クッキーもいいですね！","ケーキとか作ってみたいですね〜"]},{"position":"lower-middle","count":1,"setting":"mood shifts to a dark blue vertical-line background showing practical concerns","speech_bubbles":["材料費もなかなかかかりそう…","時間もかかりそうですし…","部室にオーブンないですしね…","うーん…","はぁ〜"]},{"position":"bottom","count":1,"setting":"bright warm yellow resolution panel with celebratory flower marks","speech_bubbles":["それがいちばん楽しそうっ!!","じゃあ、みんなでお菓子を買ってお茶会にしましょう！","方向転換もきらら部の得意技です♪"]}],"character_count":4,"drink_count":4,"dessert_count":5,"panel_count":4},"composition":"all four girls appear in every panel, medium group shots, readable Japanese speech bubbles, comedic pacing from suggestion to excitement to hesitation to happy conclusion","quality":"polished manga page suitable for social media sharing or a sample of Japanese text rendering"}
@@ -1064,19 +1064,19 @@ Structured text-to-video prompt example for 可爱的四格校园社团漫画.
 
 ### No. 50: 蒙娜丽莎审查版油画
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 054
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 054
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/054_generated_24_14596_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent ...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent veil, soft golden-brown sfumato lighting, and the classic hazy landscape with winding paths, water, and rocky hills in the background. Replace the entire face area with a single flat rectangular censor block in {argument name="censor color" default="medium brown"}, centered over the head and covering from forehead to chin, with clean hard edges that contrast against the painterly surface. Keep the hair visible around the block, including light brown hair parted at the top and falling over the shoulders. Preserve the aged varnish look, muted earthy palette, subtle craquelure-like texture, and solemn museum-quality composition. Vertical framing, centered subject, realistic proportions, old master brushwork, dramatic but soft shading.
@@ -1084,19 +1084,19 @@ A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissan
 
 ### No. 51: 两位女性在复古商店购物
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 055
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 055
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/055_generated_25_14012_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the l...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the left has brown hair tied back and is wearing a {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, carrying a cream shoulder bag. She is holding up a {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} on a wooden hanger. The woman on the right has her hair in a messy bun and is wearing a {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, looking admiringly at the jacket. They are standing in a narrow aisle flanked by overflowing racks of colorful garments, with more clothes hanging from the ceiling. The scene features {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
@@ -1104,19 +1104,19 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 
 ### No. 52: 日语 AI 编程培训横幅
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 056
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 056
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/056_generated_26_14680_ai.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified prom...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified promotional banner for an AI programming course. On the left, place a small headline in bold Japanese text reading "AIを使いこなす開発者へ" above a very large dominant title reading "{argument name="main title" default="ClaudeCode研修"}" in heavy sans-serif dark navy lettering, with "ClaudeCode" especially large and the final Japanese word attached on the right in the same style. Beneath the title, add a long horizontal blue gradient bar from medium blue to very light blue containing white bold Japanese text: "{argument name="subheadline text" default="AI時代の開発を、あなたの武器に。"}". Along the bottom left, arrange exactly 3 circular navy icon badges in a horizontal row, each with a short two-line caption in Japanese to the right of the icon. Badge 1 shows a code symbol </> and the text "Claude Codeの 基本から実践まで". Badge 2 shows a light bulb and the text "業務効率を高める AI活用スキル". Badge 3 shows an upward bar chart and the text "すぐに使える 実践的な内容". On the right half, place a confident Japanese businessman from the waist up with arms crossed, wearing a dark navy suit, white shirt, and blue striped tie, facing forward; his face is intentionally soft-focused or anonymized. Behind him, add layered geometric navy and blue diagonal shapes sweeping in from the top right and bottom right, plus a dark blue tech-themed panel with faint code lines and a glowing curly-braces symbol {}. Use a polished B2B seminar advertisement style, crisp typography, strong negative space, subtle gradients, high contrast, and a professional AI/engineering training atmosphere.
@@ -1124,19 +1124,19 @@ Create a clean Japanese corporate training banner in a wide horizontal web-heade
 
 ### No. 53: 动漫日落电影海报
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 057
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 057
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/057_generated_27_14472_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth dr...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth drama. The scene overlooks a Japanese coastal hillside town descending toward a glowing bay, with the sun low on the horizon and its reflection stretching across calm water. The sky dominates most of the image: a vast deep-blue to lavender twilight gradient filled with countless stars, wispy pink and peach clouds, and one especially bright star near the upper right. In the foreground on the right, a teenage schoolgirl stands in three-quarter side profile facing left toward the sea, shown from mid-thigh up, with shoulder-length dark hair blowing in the breeze, a short-sleeved white sailor-style school blouse, a red ribbon at the collar, and a navy pleated skirt; her expression is contemplative and wistful. Farther down the steep stone stair street in the center-left, a teenage schoolboy stands with his back to the viewer, wearing a short-sleeved white shirt and dark trousers, also looking toward the sunset and ocean. At the lower right, include 1 black cat sitting on a wall or rooftop edge in silhouette, looking toward the town. At the lower left, include 1 old-fashioned streetlamp and a dense cluster of blooming hydrangeas in blue and violet along a stone wall. The town below is packed with tiled rooftops, narrow streets, warm window lights, and layered houses, with distant mountains framing the bay. Use dramatic rim light, luminous atmospheric perspective, sparkling highlights, delicate cloud detail, and emotional, nostalgic color grading in indigo, ultramarine, pink, peach, and gold. Design it explicitly as a Japanese animated film poster with elegant typography integrated into the artwork: large hand-brushed Japanese title text across the upper-left to center reading {argument name="title text" default="星をつなぐ約束のうた"}, smaller English subtitle beneath it reading {argument name="English subtitle" default="The Song of Promises"}, a small award-laurel line in Japanese at the top left, 1 vertical Japanese tagline along the upper-right edge, 4 cast names in Japanese centered near the bottom, a release date at the lower left reading {argument name="release date" default="8.23"} with "ROADSHOW" below, 1 pink Japanese tagline across the lower center, and a website/social handle at the lower right. Ultra-detailed anime key visual, romantic and melancholic, premium feature-film poster finish.
@@ -1144,19 +1144,19 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 
 ### No. 54: 2x2 日式横幅广告网格
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 058
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 058
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/058_generated_28_13994_2x2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 
-#### Prompt
+#### 提示詞
 
 ```text
 { "type": "2x2 grid of Japanese banner advertisements", "quadrants": [ { "position": "top-left", "theme": "skincare product launch", "visuals": "portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles", "text_elements": { "main_copy": "{argument name=\"skincare catchphrase\" default=\"透明感、満ちる。\"}", "sub_copy": "肌が変わると、毎日が変わる。", "brand_name": "SUIREN", "badge": "6.1 NEW Debut" } }, { "position": "top-right", "theme": "European summer travel campaign", "visuals": "back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple", "text_elements": { "english_copy": "Find your Journey", "main_copy": "{argument name=\"travel catchphrase\" default=\"心が動く旅へ。\"}", "badge": "yellow circle with '今だけ！最大20%OFF'", "footer": "blue banner with '初夏のヨーロッパキャンペーン'" } }, { "position": "bottom-left", "theme": "traditional Japanese soup stock", "visuals": "close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi", "text_elements": { "main_copy": "{argument name=\"food catchphrase\" default=\"毎日のごはんを、もっと美味しく。\"}", "product_name": "日々のだし", "sub_copy": "素材のうまみを、まるごと。" } }, { "position": "bottom-right", "theme": "investment app", "visuals": "smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'", "text_elements": { "brand_name": "{argument name=\"finance app name\" default=\"MoneyPath\"}", "main_copy": "未来の自分のために、{argument name=\"finance catchphrase\" default=\"今はじめる資産形成\"}", "badge": "blue circle with '1,000円分のポイントプレゼント！'", "footer": "blue banner with 4 icons and feature text" } } ] }
@@ -1164,19 +1164,19 @@ Structured text-to-video prompt example for 2x2 日式横幅广告网格.
 
 ### No. 55: 长条伸展虎斑猫
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 059
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 059
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/059_generated_29_14517_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an ab...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A whimsical minimalist illustration of a {argument name="cat breed" default="brown tabby kitten"} standing upright in the exact center of a very tall vertical canvas, with an absurdly elongated, noodle-like body stretched from near the top to near the bottom of the image. The cat has a small round face with large glossy eyes, a tiny open smiling mouth, upright ears, and both front paws raised straight overhead in a cheering pose, showing 2 visible pink paw pads. Its fur is soft and detailed, with a white muzzle, chest, belly, and inner legs, and brown-and-black tabby stripes along the sides, head, arms, and tail. The body is extremely thin and vertically extended, creating a comical exaggerated proportion, while the hind paws remain tiny and close together at the bottom. Add 1 curved striped tail extending to the lower right side. Above the head, place the playful hand-drawn text "{argument name="caption text" default="nyoooon~"}" in a rounded dark brown font, arched like a semicircle, with 6 short motion lines around the raised paws and text to emphasize stretching. Use a clean off-white or warm light beige background with no scenery, only a faint soft oval shadow beneath the feet. Cute, polished digital illustration style, centered composition, high detail in fur, humorous Japanese sticker or social-media mascot vibe, lots of negative space, extra-tall aspect ratio.
@@ -1184,19 +1184,19 @@ A whimsical minimalist illustration of a {argument name="cat breed" default="bro
 
 ### No. 56: 照片级写实躺姿肖像
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 060
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 060
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/060_generated_30_13448_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" ...
 
-#### Prompt
+#### 提示詞
 
 ```text
 A highly detailed, photorealistic portrait of a {argument name="subject description" default="beautiful young Asian woman"} reclining gracefully on a {argument name="furniture" default="white modern sofa"}. She is wearing a {argument name="clothing" default="short white silk slip dress"} with thin straps, her {argument name="hair style" default="long wavy dark brown hair"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name="lighting style" default="soft natural sunlight streaming through a window"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.
@@ -1204,19 +1204,19 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 ### No. 57: Landscape Transition Music Video
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 082
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 082
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/082_generated_02_ms_003_landscape-transition-music-video.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 @image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
 
-#### Prompt
+#### 提示詞
 
 ```text
 @image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
@@ -1224,19 +1224,19 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 ### No. 58: Parkour Chase Sequence
 
-- **Danh muc:** `Atlas Generated T2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 083
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
+- **分類:** `Atlas 生成案例 T2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 083
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/083_generated_03_ot_001_parkour-chase-sequence.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 @image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlook...
 
-#### Prompt
+#### 提示詞
 
 ```text
 @image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlooking the city.
@@ -1244,23 +1244,23 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 <a id="category-7"></a>
 
-### Atlas Generated I2V (44)
+### Atlas 生成案例 I2V (44)
 
 ### No. 59: Storyboard Cinematic
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 030
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 030
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/030_generated_01_i2v-01-storyboard-cinematic.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
 
-#### Prompt
+#### 提示詞
 
 ```text
 Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
@@ -1268,19 +1268,19 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ### No. 60: Burger Assembly
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 031
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 031
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/031_generated_02_i2v-02-burger-assembly.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one by one, rotate elegantly, then snap together into a perfect hero burger with floating crumbs and dramatic studio lighting.
@@ -1288,19 +1288,19 @@ Premium food ad with kinetic camera motion. Use the ingredient reference to buil
 
 ### No. 61: Paper Typography
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 032
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 032
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/032_generated_03_i2v-03-paper-typography.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast rea...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast realistic shadows, and slide across the screen with elegant camera parallax.
@@ -1308,19 +1308,19 @@ Motion graphics animation driven by the reference composition. Turn the referenc
 
 ### No. 62: Logo Reveal
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 033
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 033
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/033_generated_05_i2v-05-logo-reveal.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric ...
 
-#### Prompt
+#### 提示詞
 
 ```text
 High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric light beams while the camera pushes in for a polished technology brand reveal.
@@ -1328,19 +1328,19 @@ High-end product reveal animation. Use the reference logo as the core subject. T
 
 ### No. 63: Elegant Laundry Scene
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 061
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 061
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/061_generated_01_ur_001_elegant-laundry-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
 
-#### Prompt
+#### 提示詞
 
 ```text
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
@@ -1348,19 +1348,19 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 64: Interactive Painting Character
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 062
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 062
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/062_generated_02_ur_002_interactive-painting-character.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and t...
 
-#### Prompt
+#### 提示詞
 
 ```text
 The character in the painting has a guilty expression, eyes looking left and right, then peeks out of the frame, quickly extends their hand out of the frame to grab a cola and takes a sip, then shows a satisfied expression. At this moment, footsteps are heard, and the character in the painting quickly puts the cola back in place. Then a Western cowboy picks up the cola from the cup and walks away. Finally, the camera pushes forward and the screen gradually becomes pure black background with only top lighting illuminating the canned cola. At the bottom of the screen, artistic subtitles and voiceover appear: 'Yikou Cola, a must-try!'
@@ -1368,19 +1368,19 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 65: Victorian Street Scene
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 063
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 063
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/063_generated_03_ur_003_victorian-street-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th ce...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Camera slightly pulls back (revealing the full street view) and follows the female protagonist moving. The wind blows the hem of her dress as she walks on the streets of 19th century London. As she walks, a steam car drives by from the right side of the street, passing quickly by her side. The wind lifts the hem of her dress, and she looks shocked and quickly uses both hands to hold down her skirt. Background sound effects include footsteps, crowd sounds, car sounds, etc.
@@ -1388,19 +1388,19 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 66: Magnetic Bow Product Showcase
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 064
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 064
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/064_generated_06_cs_004_magnetic-bow-product-showcase.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover...
 
-#### Prompt
+#### 提示詞
 
 ```text
 0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover 'Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 seconds: Close-up of silver magnetic clasp 'click' snapping together, then gently pulling apart, showing silky texture and convenience. Voiceover '단 1초 만에 잠그고, 최고의 스타일을 완성하세요!' 7-12 seconds: Quick scene switching: burgundy style pinned on coat collar, commuter vibe maxed out; pink style tied in ponytail, sweet girl going out; purple style tied on bag strap, niche and sophisticated; leopard print style hung on suit collar, spicy girl aura fully open. Voiceover '코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!' 13-15 seconds: Four butterfly bows displayed side by side, brand name 'chéri, 당신에게 즉각적인 아름다움을 선사합니다!'
@@ -1408,19 +1408,19 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 67: Horror First-Person Exploration
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 065
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 065
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/065_generated_08_cs_006_horror-first-person-exploration.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @i...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use @image1 as the first frame of the screen, first-person perspective, reference the camera movement effect of @video1, upper scene references @image2, left scene references @image3, right scene references @image4.
@@ -1428,19 +1428,19 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 68: Martial Arts Combat Scene
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 066
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 066
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/066_generated_13_ac_005_martial-arts-combat-scene.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
 
-#### Prompt
+#### 提示詞
 
 ```text
 Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
@@ -1448,19 +1448,19 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 69: Car Commercial Cinematography
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 067
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 067
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/067_generated_15_ac_007_car-commercial-cinematography.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
 
-#### Prompt
+#### 提示詞
 
 ```text
 Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
@@ -1468,19 +1468,19 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 70: Abstract Instant Noodles
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 068
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 068
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/068_generated_23_ce_008_abstract-instant-noodles.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
 
-#### Prompt
+#### 提示詞
 
 ```text
 The character from @image1 references the movements and facial expression changes in @video1, displaying abstract behavior of eating instant noodles.
@@ -1488,19 +1488,19 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 71: Childhood Seasons Documentary
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 069
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 069
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/069_generated_25_ne_002_childhood-seasons-documentary.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second he...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second healing opening about 'Childhood Four Seasons'.
@@ -1508,19 +1508,19 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 72: Donkey Motorcycle Stunt Ad
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 070
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 070
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/070_generated_27_ne_004_donkey-motorcycle-stunt-ad.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Extend 15s video, reference the donkey riding motorcycle image from @image1 and @image2, supplement a creative advertisement. Scene 1: Side fixed camera, donkey rides motorcycle rushing out of the barn, chickens beside are startled. Scene 2: Donkey rides motorcycle circling in sandy ground, first close-up of motorcycle tire, then cut to mid-air overhead shot of donkey riding motorcycle doing circling stunts, raising smoke. Scene 3: Background is snowy mountain shot, donkey rides the bike leaping from the hillside, advertising slogan appears behind the subject, through masking form (when donkey and motorcycle fly past) 'Inspire Creativity, Enrich Life' appears in the middle, finally as the motorcycle flies past, raising a cloud of dust.
@@ -1528,19 +1528,19 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 73: Office Building Documentary
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 071
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 071
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/071_generated_29_av_002_office-building-documentary.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual...
 
-#### Prompt
+#### 提示詞
 
 ```text
 Based on the provided office building promotional photos, generate a 15-second cinematic realistic style real estate documentary, using 2.35:1 widescreen, 24fps, delicate visual style. The narrator's voice tone references @video1, filming 'Office Building Ecology', presenting the operations of different enterprises in the building, combined with narration explaining how the office building becomes a vibrant commercial ecosystem.
@@ -1548,19 +1548,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 74: 迦梨女神神话写实主义视频提示词，适用于 Seedance 2.0
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 072
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 072
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/072_generated_05_1128_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
 
-#### Prompt
+#### 提示詞
 
 ```text
 夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。
@@ -1568,19 +1568,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 75: 高速魔法森林之旅
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 073
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 073
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/073_generated_08_1143_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
 
-#### Prompt
+#### 提示詞
 
 ```text
 高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。
@@ -1588,19 +1588,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 76: 总监级运镜提示词
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 074
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 074
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/074_generated_11_121_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 @Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
 
-#### Prompt
+#### 提示詞
 
 ```text
 @Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。
@@ -1608,19 +1608,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 77: 电影级拉力赛车场景
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 075
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 075
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/075_generated_12_123_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
 
-#### Prompt
+#### 提示詞
 
 ```text
 一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。
@@ -1628,19 +1628,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 78: 邵氏风格打斗场面
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 076
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 076
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/076_generated_14_1328_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。
@@ -1648,19 +1648,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 79: 阿努比斯挠痒痒场景
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 077
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 077
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/077_generated_15_1329_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis)...
 
-#### Prompt
+#### 提示詞
 
 ```text
 在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis) 腋窝里摆动的手指。阿努比斯 (Anubis) 立刻咧嘴一笑，闭上眼睛，发出一声低沉、压抑的笑声，因为他怕痒。那个人继续挠阿努比斯 (Anubis) 的腋窝，阿努比斯 (Anubis) 闭着眼睛不停地咯咯笑，然后抱住自己以保护腋窝。笑了好几声后，阿努比斯 (Anubis) 告诉那个人他做得很好，可以离开了。
@@ -1668,19 +1668,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 80: Turbulent Sea Galleon 电影级提示词
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 078
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 078
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/078_generated_16_1336_turbulent-sea-galleon.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰...
 
-#### Prompt
+#### 提示詞
 
 ```text
 一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰。镜头滑过这只鸟，然后无缝地穿过一个侧舷窗离开。它高高地掠过夜空，巨大的船只在水面上缩小成一个玩具。海浪拍打的声音逐渐消失，归于寂静。
@@ -1688,19 +1688,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 81: 赛博朋克电影：夜间追逐与武士刀格斗
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 079
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 079
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/079_generated_17_134_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，...
 
-#### Prompt
+#### 提示詞
 
 ```text
 她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，赛博格冰蓝色右眼发光）驾驶风格激进——黑色 McQueen 皮夹克完全拉链，直接穿在裸露的皮肤上，短款黑色皮裙，银色拉链清晰可见，双腿裸露，脚踩厚重的黑色厚底靴，放在踏板上，武士刀绑在乘客座位上。镜头开始是 GT-R 旁边的广角跟踪镜头，然后快速推入，穿过雨水模糊的挡风玻璃，特写 Cherry 专注的脸（左眼深棕色燃烧，右眼发出青色光芒）。她瞥了一眼后视镜——追击的无人机带着红色激光逼近。Cherry（浓重的马其顿口音，低沉而威严，盖过引擎轰鸣声）：“他们以为能把我困住。”她猛地降档，GT-R 车尾甩动，然后完美地完成 180 度漂移——轮胎尖叫，水花四溅。武士刀刀柄在青色仪表盘的微光中闪烁。她伸手过去，在漂移中抓住武士刀，侧滑时打开驾驶员车门，探出身子进入雨中，划出一道精确的弧线——武士刀刀刃发出青色光芒，在火花和熔融金属的飞溅中将领头无人机一分为二。Cherry（嘲讽地笑，声音穿透风雨）：“今天不行。”她猛地关上车门，踩下油门——GT-R 疾驰向前，霓虹灯的倒影在湿漉漉的黑色车漆上划过。镜头快速拉回广角：汽车消失在雨夜中，无人机在身后爆炸成橙色火球。最后一帧：Cherry 的赛博眼闪烁了一下，她消失在拐角处。渐隐至黑。Seedance 2.0 的风格与技术说明：电影级写实好莱坞动作大片风格，ARRI Alexa 电影级画面，青橙色调，逼真的大雨，雨滴和黑色汽车及皮革上的湿润反光，高动态范围，60fps，霓虹灯和爆炸产生的戏剧性变形镜头光晕，细微的胶片颗粒，无伪影，激烈的实景特技编排，动态摄影（跟踪、推入、180 度漂移展示、快速拉回）。
@@ -1708,19 +1708,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 82: 星际巡洋舰追逐与零重力内部场景
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 080
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 080
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/080_generated_18_1342_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。...
 
-#### Prompt
+#### 提示詞
 
 ```text
 一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。它向上掠过，展现出飞船在群星映衬下逐渐缩小的宏伟规模。一声深沉的次低音嗡鸣声逐渐消失，归于寂静。
@@ -1728,19 +1728,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 83: 多角色机舱对话场景
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 081
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 081
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/081_generated_19_138_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image...
 
-#### Prompt
+#### 提示詞
 
 ```text
 【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image 4】坐在第 3 排的右边座位上，她用普通话害怕地说：“我的座位是 3B。” 【@Image 5】坐在第 4 排的左边座位上，她用西班牙语生气地说：“我的座位是 4D。” 【@Image 6】坐在第 5 排的左边座位上，她用粤语厌恶地说：“我的座位是 5A。” 【@Image 7】坐在第 6 排的右边座位上，她用韩语疯狂地喊道：“我的座位是 6D。” 固定机位。一个连续镜头，角色们依次走进来并入座。
@@ -1748,19 +1748,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 84: 高端商业广告：AURORA FIZZ
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 084
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 084
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/084_generated_01_1386_aurora-fizz.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核...
 
-#### Prompt
+#### 提示詞
 
 ```text
 高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核心主体、底部环）。 视觉效果： 发出清脆的嘶嘶声。冰冷的蒸汽向外溢出。 在浮动的罐身段之间，鲜艳的柠檬和青柠切片凭空出现 — 伴随着凭空形成的闪亮气泡。 00: 04 – 00: 07 | 气泡升腾时刻 动作： 时间凝固 — 悬浮的优雅。 视觉效果： 柑橘切片在失重状态下缓慢旋转，气泡流在无形的液体空间中向上升腾。 镜头以流畅的电影运镜轨道滑过。 亮点在冷凝水珠上闪烁 — 每个气泡都像钻石一样捕捉着光线。 00: 07 – 00: 08 | 能量封存 动作： 罐身像磁铁般瞬间合拢。 视觉效果： 发出清脆的“噗嗤”声。 柑橘和气泡瞬间被封存在内。 一股清新的雾气脉冲向外散发。 00: 08 – 00: 10 | 清爽退场 动作： 罐身旋转至最高速度，向上飞出画面。 视觉效果： 背景变为明亮清爽的渐变色 — 准备无缝循环。
@@ -1768,19 +1768,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 85: 惊涛骇浪中的沉船电影场景
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 085
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 085
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/085_generated_02_1390_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
 
-#### Prompt
+#### 提示詞
 
 ```text
 第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。
@@ -1788,19 +1788,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 86: 贫民窟里的 BMX 骑手
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 086
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 086
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/086_generated_03_1391_bmx.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。...
 
-#### Prompt
+#### 提示詞
 
 ```text
 一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。到达顶部后，她立即沿着彩绘墙面进行了一次贴墙骑行，车轮垂直地在壁画上运行，下方宽阔的镜头中可见楼梯。摄像机在攀爬过程中从下方追逐，然后切换到侧面固定角度拍摄贴墙骑行，壁画的色彩在高速中变得模糊。她从贴墙骑行过渡到两个屋顶之间的空隙，高速越过，并继续下降，摄像机从上方捕捉到铬色自行车穿梭于小巷几何结构中的画面。深勃艮第色、铬色 BMX、彩绘贫民窟墙壁、楼梯垂直攀爬、爬楼节奏、壁画贴墙骑行、屋顶间隙过渡、山坡下降航拍、电影颗粒感、4K。
@@ -1808,19 +1808,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 87: 乐高探险家被北极熊追赶
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 087
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 087
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/087_generated_04_1392_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
 
-#### Prompt
+#### 提示詞
 
 ```text
 乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。
@@ -1828,19 +1828,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 88: Seedance 2.0 提示词，用于幽默动漫场景
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 088
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 088
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/088_generated_05_1396_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
 
-#### Prompt
+#### 提示詞
 
 ```text
 创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。
@@ -1848,19 +1848,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 89: 逃离巨型怪物（奥术风格）
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 089
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 089
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/089_generated_06_142_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
 
-#### Prompt
+#### 提示詞
 
 ```text
 生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
@@ -1868,19 +1868,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 90: 未来感十足的兰博基尼组装商业广告提示
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 090
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 090
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/090_generated_07_1470_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在...
 
-#### Prompt
+#### 提示詞
 
 ```text
 在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在一起。变速器部件滑入，电子设备亮起柔和的蓝色能量，发光的电缆穿过底盘。 随着更多部件的组装，摄像机缓慢地围绕着结构移动。碳纤维车身面板下降并与车架完美对齐。车轮轻轻旋转，然后锁定在车轴上。仪表盘灯亮起，显示出优雅的数字显示。 明亮的闪光标志着每个连接的完成。当车辆成形时，微妙的全息网格和 UI 线条短暂出现。灯光强调了光亮的白色表面和锐利的空气动力学曲线。 当最后一块面板锁定到位时，前灯发出强大的白色光芒。发动机启动，发出深沉、电影般的轰鸣声。 摄像机后拉，开始围绕已完成的兰博基尼进行平稳的 360 度环绕拍摄，在戏剧性的灯光下展现出整辆车。反射在地面上荡漾，光束扫过车身，突显出每一个轮廓。 电影级灯光，时尚的产品展示，高对比度反射，未来主义氛围，超详细的机械组装，史诗般的揭示，戏剧性的摄像机运动，高端汽车广告风格。
@@ -1888,19 +1888,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 91: 巨龙围攻古堡
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 091
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 091
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/091_generated_08_1478_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
 
-#### Prompt
+#### 提示詞
 
 ```text
 一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。
@@ -1908,19 +1908,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 92: Seedance 2.0 低空飞行器飞行视频提示
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 092
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 092
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/092_generated_09_1537_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
 
-#### Prompt
+#### 提示詞
 
 ```text
 第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。
@@ -1928,19 +1928,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 93: 暖心森林喜剧视频提示
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 093
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 093
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/093_generated_10_1550_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
 
-#### Prompt
+#### 提示詞
 
 ```text
 格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适
@@ -1948,19 +1948,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 94: 马赛村庄的混乱
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 094
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 094
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/094_generated_11_160_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
 
-#### Prompt
+#### 提示詞
 
 ```text
 一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
@@ -1968,19 +1968,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 95: 重庆的哥斯拉巨型白虎斑猫
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 095
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 095
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/095_generated_12_1633_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：...
 
-#### Prompt
+#### 提示詞
 
 ```text
 【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。
@@ -1988,19 +1988,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 96: 持续一镜到底的灾难片写实主义
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 096
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 096
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/096_generated_13_1707_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到...
 
-#### Prompt
+#### 提示詞
 
 ```text
 一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到远处有一枚救援信号弹，然后开始奔跑。镜头紧随其后，他冲过坍塌的屋顶，跳过破碎的天窗，滑下一个倾斜的玻璃穹顶，抓住一根摇晃的缆绳。下方，黑暗的洪水在布满漂浮汽车和雕像的街道中汹涌。他落在部分被淹没的有轨电车车顶上，继续前进，就在一个巨浪在他身后拍打而过时，他到达了一个救援信标平台。冷峻的灰蓝色末日色调，超现实的水物理效果，风，水花，手持镜头的紧迫感，一镜到底，无剪辑。
@@ -2008,19 +2008,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 97: 充满活力的橙味汽水广告拍摄
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 097
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 097
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/097_generated_14_1709_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
 
-#### Prompt
+#### 提示詞
 
 ```text
 一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。
@@ -2028,19 +2028,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 98: Seedance 2.0 全球女性通用机甲变身视频提示词
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 098
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 098
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/098_generated_15_1720_seedance-2-0.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，...
 
-#### Prompt
+#### 提示詞
 
 ```text
 核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，身姿挺拔，东方战神女将气场全开。 1-2 秒：日本战国女武士铠甲 + 鹿角胴丸头盔，手持武士刀，转身甩动披风扫过镜头，层叠铠甲片精致，冷冽锋芒，杀气十足。 2-3 秒：欧洲中世纪女骑士全身板甲 + 十字面罩头盔，手持骑士长剑，手掌遮挡镜头并移开完成变身，银色铠甲泛着冷光，庄严而有力。 3-4 秒：古罗马女指挥官肌肉胸甲 + 红色羽毛军团头盔，手持短剑和圆盾，双臂合拢完成变身，金属肩甲和披风飞扬，威武、果断、极具统帅力。 4-5 秒：北欧维京女战士毛皮与铁甲 + 符文战盔，手持战斧和圆盾，低头调整护腕后抬头完成变身，狂野、冷峻、气势逼人。 5-6 秒：波斯萨珊风格女将军鱼鳞甲 + 珠宝链甲王冠，手持弯刀，转身回正完成变身，铠甲表面细腻奢华，兼具异域王族与将军气质。 6-7 秒：蒙古草原女战士皮甲与铁片甲 + 羽毛战盔，手持复合弓箭，轻触额头盔甲完成变身，动作迅捷利落，英武而机动。 7-8 秒：印度王朝女战士鎏金纹饰铠甲 + 珠串王冠战盔，手持长矛，轻抚披风下摆完成变身，华丽而神秘，高贵却不失武者之魂。 8-9 秒：阿拉伯女指挥官月纹链甲 + 面纱金属头饰，手持新月弯刀，手掌遮挡镜头并移开完成变身，神秘、高贵、眼神锐利，异域史诗感极强。 9-10 秒：斯巴达女战士青铜铠甲 + 马鬃头盔，手持长矛和圆盾，甩动披风遮挡身体完成变身，身姿挺拔，力量感爆发，战场存在感十足。 10-11 秒：幻想帝国女王重甲 + 王冠式龙纹头盔，手持皇家巨剑，侧身遮挡镜头完成变身，黑金重甲层叠，如同终极女王降临。 11-12 秒：转身甩动披风，最终回到中国红金明光铠 + 鎏金战盔 + 鎏金长矛，金光爆发中定格，镜头凝固，东方战神女将最终封神。
@@ -2048,19 +2048,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 99: 办公室神龙
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 099
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 099
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/099_generated_16_1768_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
 
-#### Prompt
+#### 提示詞
 
 ```text
 快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”
@@ -2068,19 +2068,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 100: 斋月至开斋节无限缩放超延时摄影
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 100
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 100
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/100_generated_17_1775_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（...
 
-#### Prompt
+#### 提示詞
 
 ```text
 通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（mudik），拥挤的汽车和摩托车以动态超延时摄影的方式移动。 镜头拉近一扇车窗，过渡到宁静的乡村景象（kampung），孩子们玩耍，人们为开斋节做准备。镜头继续拉近一座清真寺，人们在日出时分在开阔的田野上进行开斋节祈祷（sholat Ied）。 镜头无缝拉近握手瞬间，过渡到充满情感的家庭团聚，伴随着“maaf-maafan”（互相请求原谅）。镜头继续拉近一张摆满了马来粽（ketupat）、椰浆鸡（opor ayam）和传统菜肴的餐桌，大家庭欢聚一堂，其乐融融地用餐。 最后，镜头拉近一个马来粽，然后过渡回天空中的弯月，完成整个循环。手剪纸纹理、分层深度、柔和阴影、鲜艳的节日色彩、流畅的无限过渡、电影级灯光、超高细节，15 秒。
@@ -2088,19 +2088,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 101: 怒海狂龙
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 101
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 101
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/101_generated_18_1776_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
 
-#### Prompt
+#### 提示詞
 
 ```text
 一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。
@@ -2108,19 +2108,19 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 102: 女性角色装甲组装与飞行
 
-- **Danh muc:** `Atlas Generated I2V`
-- **Nguon:** `Gemini Omni Flash | prompts-hub generated`
-- **Tac gia:** Atlas Generated 102
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
+- **分類:** `Atlas 生成案例 I2V`
+- **来源:** `Gemini Omni Flash | prompts-hub generated`
+- **作者:** Atlas Generated 102
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/generated/102_generated_19_1777_case.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
 镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，...
 
-#### Prompt
+#### 提示詞
 
 ```text
 镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，逐一磁性吸附并锁定在她的身体上，镀铬和哑光碳纤维表面反射着金色的阳光。随着组装完成，摄像机动态地围绕她旋转，最终以特写镜头结束，一个数字面罩在她脸上滑下，她的眼睛闪烁着蓝色能量，蓄势待发，释放出一道光波，将周围的云层冲散。高保真纹理、金属上的微小划痕、逼真的运动模糊和电影般的镜头光晕。 镜头 2（4 秒）角色继续飞行，穿梭于云层之中，她全新的未来战衣散发着内在的能量光芒。摄像机保持低角度的英雄视角，捕捉装甲板之间复杂的接触阴影。她突破音障时，冰晶和尘埃粒子在她身后拖曳，天空从金色变为深邃的暮光紫色。风阻对战衣坚硬表面的真实物理效果清晰可见。最后一个镜头是她的手伸向太阳，能量涟漪在臂铠上荡漾。
@@ -2130,21 +2130,21 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### Twitter Community (290)
 
-### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
+### No. 103: 浪漫自然肖像編輯攝影
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Virena
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho bức chân dung mỹ thuật theo phong cách cottagecore hiện đại, nhấn mạnh vẻ nữ tính dịu dàng và thiên nhiên.
+一個現代田園風格的精緻藝術肖像提示，強調柔美女性氣質與自然。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -2157,81 +2157,81 @@ Một gợi ý cho bức chân dung mỹ thuật theo phong cách cottagecore hi
 }
 ```
 
-### No. 104: Lễ Mừng Sinh Nhật Elon Musk
+### No. 104: 伊隆·馬斯克生日慶祝
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** coloringany.com
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** coloringany.com
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Elon Musk tạo dáng bên trong con số 54 trang trí lễ hội với hoa và bóng bay cho sinh nhật của mình.
+伊隆·馬斯克站在一個裝飾著鮮花和氣球的數字54內，慶祝他的生日。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Elon Musk sitting inside a large decorative number 54 filled with white roses, gold and silver balloons, and geometric ornaments, bright studio lighting, celebratory birthday theme
 ```
 
-### No. 105: Người phụ nữ vui vẻ tại chợ đêm lễ hội
+### No. 105: 夜市慶典中歡樂的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh cận trung vừa sống động của một phụ nữ tóc vàng tươi cười với những sọc tóc màu tím tại một khu chợ đêm ngoài trời.
+一張充滿活力的中近景照片，捕捉一位微笑的金髮女子，她帶有紫色挑染髮，身處戶外夜市之中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vibrant, medium close-up shot of a cheerful young woman with long, curly blonde hair streaked with subtle hints of purple, smiling broadly at an outdoor festival evening market.
 ```
 
-### No. 106: Người phụ nữ tóc vàng bên cửa sổ
+### No. 106: 窗邊的金髮女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Pinodi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ tóc vàng mặc áo sơ mi trắng ngồi duyên dáng trên ghế cửa sổ, được tắm trong ánh sáng tự nhiên dịu dàng.
+一位金髮女子身穿白襯衫，優雅地坐在窗邊座位上，沐浴在柔和的自然光中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a beautiful blonde woman sitting on a window seat, wearing a white oversized shirt and sheer white socks, natural light from the window, soft focus background, elegant and serene pose
 ```
 
-### No. 107: Gợi ý Chuyển Đổi Nhận Diện Nhân Vật Tham Chiếu
+### No. 107: 角色參考身份轉換提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Lore
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Lore
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý JSON để chuyển đổi nhận diện nhân vật trong khi vẫn giữ nguyên các đặc điểm khuôn mặt, kiểu tóc, hình dáng mắt và tông màu da.
+一個 JSON 格式的提示，用於轉換角色身份，同時保留面部特徵、髮型、眼型與膚色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -2248,61 +2248,61 @@ Một gợi ý JSON để chuyển đổi nhận diện nhân vật trong khi v�
 }
 ```
 
-### No. 108: So Sánh Đồ Họa Bóng Đá AI
+### No. 108: AI 足球圖像生成比較
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alpha Mom
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alpha Mom
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065002571148779843.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một so sánh đặt cạnh nhau của bốn mô hình AI tạo ra các cảnh trận đấu bóng đá chân thực.
+四種 AI 模型生成寫實足球比賽場景的並排比較圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 four panels comparing AI-generated soccer game graphics from Kling 3.0, Gemini Omni Flash, Grok Imagine, and Seedance 2.0, each showing a different player in action on a stadium field with crowd and lighting effects
 ```
 
-### No. 109: công chúa trong giấc mơ màu hồng
+### No. 109: 粉紅夢境中的公主
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc váy oải hương và vương miện ngồi giữa kẹo bông màu hồng trong một khung cảnh studio mơ màng với màu pastel.
+一位身穿淡紫色禮服、頭戴皇冠的女子，坐在粉紅色棉花糖之中，置身於夢幻、粉彩色的工作室環境裡。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with long blonde hair wearing a silver tiara and a lavender dress, sitting on a pink floor surrounded by fluffy pink cotton candy, soft lighting, studio photography
 ```
 
-### No. 110: Gợi ý Cảnh Studio Giấc Mơ Kỳ Ảo
+### No. 110: 夢幻奇幻工作室場景提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý có cấu trúc để tạo một cảnh studio kỳ ảo màu hồng pastel đầy mơ mộng.
+一個結構化的提示，用於生成一個異想天開、粉彩粉紅色的奇幻工作室場景。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -2311,141 +2311,141 @@ Một gợi ý có cấu trúc để tạo một cảnh studio kỳ ảo màu h�
     "background": "soft pastel pink studio environment filled with fluffy cloud-like formations surrounding the subject, seamless pink floor and backdrop blending together, whimsical fairytale"
 ```
 
-### No. 111: Nghệ Thuật Đường Nét Ong Tối Giản với Dòng Chữ Tử Tế
+### No. 111: 帶有友善文字的極簡蜜蜂線條藝術
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Heather Green
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho một minh họa nghệ thuật đường nét liên tục tối giản về một con ong với hoa và dòng chữ viết thư pháp.
+一個用於生成極簡連續線條藝術插圖的提示，描繪一隻蜜蜂與花朵，並附有草書文字。
 
-#### Prompt
+#### 提示詞
 
 ```text
 minimalist, elegant single continuous line art illustration of a bee surrounded by delicate flowers, centered on a clean white background; below the bee, the word 'Kind' in flowing cursive script, balanced composition, thin
 ```
 
-### No. 112: Tranh Cướp Biển Lập Thể với Tông Màu Đất
+### No. 112: 大地色調的立體派海盜畫作
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Ash
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ash
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo một bức tranh sơn dầu có kết cấu về ba tên cướp biển theo phong cách Lập thể của Picasso với các hình khối hình học và sắc thái tối màu đất.
+一個用於生成紋理豐富的油畫提示：以畢卡索立體派風格描繪三名海盜，運用幾何形狀與深色大地色調。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Textured oil painting in the Cubist style of Pablo Picasso of 3 pirares, using interlocking geometric shapes. Dark earthy shades.
 ```
 
-### No. 113: Ứng Dụng AI Thời Trang Biên Tập
+### No. 113: 時尚編輯 AI 應用程式
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Vladilsav
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Vladilsav
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một hình ảnh quảng bá cho ứng dụng MIU AI thể hiện các tính năng biên tập thời trang và giao diện người dùng của nó.
+MIU AI 應用程式的宣傳圖片，展示其時尚編輯功能與使用者介面。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A sleek black background with a smartphone displaying the MIU AI app interface, featuring fashion editorial content, K-pop trends, and a 'Content Lab' section. The left side shows the app's logo, tagline 'A fashion editorial in your pocket,' and an App Store listing for 'MIU AI: Photo Video Generator.' The design uses pink and white text on a dark theme, with a modern, high-tech aesthetic. The overall look is clean, sophisticated, and focused on AI-generated fashion content.
 ```
 
-### No. 114: Aldric đối mặt sinh vật hắc ám trong khu rừng mưa dầm
+### No. 114: 奧爾德里克在雨林面對黑暗生物
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Cortex Visual ・ AI Movies
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Cortex Visual ・ AI Movies
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho cảnh kịch tính về một chiến binh đối đầu với một con quái vật đang lao tới trong một khu rừng chết lầy lội dưới cơn mưa.
+一個用於生成戲劇性場景的提示：一名戰士在泥濘的死寂森林中，於雨中對抗一隻衝鋒的怪物。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Aldric standing his ground in a rain-soaked dead forest, sword held firmly with both hands, feet planted in the mud, facing a massive dark humanoid creature charging directly toward him at full speed, monstrous
 ```
 
-### No. 115: Người phụ nữ gợi cảm mặc đồ bơi đỏ dựa vào thang
+### No. 115: 身穿紅色泳衣的豐滿女子倚靠梯子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Justice Studio 2.0
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Justice Studio 2.0
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh toàn thân tự nhiên của một phụ nữ mặc đồ bơi đỏ thẫm tạo dáng dựa vào một chiếc thang thư viện bằng gỗ.
+一張自然風格的全景照片，捕捉一位身穿深紅色泳衣的女子，倚靠著木製圖書館梯子擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Candid full-body iPhone photo of a busty mid-30s woman with large heavy breasts in a tiny crimson red one-piece swimsuit, leaning against an old wooden library ladder, one leg raised, hand gripping it. Wet messy dark
 ```
 
-### No. 116: Gợi ý chân dung Y2K đèn flash siêu thực
+### No. 116: 超寫實 Y2K 閃光燈人像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** simply
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** simply
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho một bức chân dung sắc đẹp chân thực, tự nhiên với năng lượng nhiếp ảnh đèn flash phong cách Y2K.
+一個用於生成寫實、自然風格的美麗人像的提示，帶有 Y2K 閃光攝影的能量感。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic candid beauty portrait of a glamorous woman captured indoors at night. The atmosphere feels spontaneous, luxurious, and natural, with authentic Y2K flash-photography energy. Photographed at close range using a premium
 ```
 
-### No. 117: Cảnh Phòng Thay Đồ Căn Hộ Cao Cấp Hiện Đại
+### No. 117: 現代豪華公寓衣帽間場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo cảnh video đặt trong phòng thay đồ của một căn hộ cao cấp hiện đại với nội thất sạch sẽ, đương đại.
+一個用於生成影片場景的提示，場景設定在現代豪華公寓的衣帽間，擁有簡潔、當代的室內設計。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -2454,81 +2454,81 @@ Một gợi ý để tạo cảnh video đặt trong phòng thay đồ của m�
     "background": "clean contemporary interior with wardrobe shelves and clothing storage softly blurred in the distance, minimalist modern decor, large feature wall covered with a
 ```
 
-### No. 118: Áp Phích Tranh Tường Ngụ Ngôn Hai Huyền Thoại Bóng Đá
+### No. 118: 兩位足球巨星的寓言式壁畫海報
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức tranh tường ngụ ngôn đối xứng chi tiết ở định dạng áp phích dọc với kết cấu giấy cũ, tôn vinh hai sự nghiệp huyền thoại bóng đá.
+一幅細節豐富、對稱的寓言式壁畫，採用垂直海報格式，帶有仿舊紙張紋理，旨在頌揚兩位傳奇足球生涯。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A striking vertical art poster rendered in the style of a detailed, symmetrical allegorical mural with an aged paper texture, paying tribute to the unique and parallel careers of two
 ```
 
-### No. 119: Cúp Quốc Gia World Cup
+### No. 119: 世界盃國家獎盃
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** TechieSA
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức cắt dán sáng tạo các chiếc cúp World Cup đại diện cho Anh, Argentina, Brazil và Pháp cùng các biểu tượng và khẩu hiệu quốc gia.
+一幅創意拼貼畫，呈現代表英格蘭、阿根廷、巴西和法國的世界盃獎盃，並融合國家標誌與口號。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Four World Cup trophy designs made of national symbols, flags, and cultural elements for England, Argentina, Brazil, and France, each with confetti and vibrant backgrounds, in a 2x2 grid layout
 ```
 
-### No. 120: Người phụ nữ với dấu son hôn
+### No. 120: 帶有唇印的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc váy đỏ nháy mắt vào máy ảnh với một dấu son hôn trên vai, đặt trong khung cảnh bờ biển thơ mộng.
+一位身穿紅色洋裝的女子對著鏡頭眨眼，肩上有個口紅唇印，背景是風景優美的海岸。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a red dress winking with a lipstick kiss mark on her shoulder, standing on a cliff overlooking the ocean, sunny day, golden hour lighting, realistic photography
 ```
 
-### No. 121: Cảnh bờ biển từ đồi nhìn ra ngoài trời
+### No. 121: 戶外山坡俯瞰海岸景觀
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý có cấu trúc để tạo ra một cảnh quan ven biển đầy nắng từ góc nhìn trên đồi.
+一個結構化的提示，用於生成從山坡視角眺望的陽光海岸景觀。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -2540,362 +2540,362 @@ Một gợi ý có cấu trúc để tạo ra một cảnh quan ven biển đầ
 }
 ```
 
-### No. 122: Người đàn ông trưởng thành đối diện máy ảnh với ánh nhìn mãnh liệt
+### No. 122: 直視鏡頭的成年男性，目光銳利
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Picts by AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý mô tả một người đàn ông với biểu cảm nghiêm túc, làn da rám nắng và bộ râu đen đối diện trực tiếp với máy ảnh.
+一個描述男性的提示：表情嚴肅、膚色黝黑、蓄有深色鬍鬚，正對著鏡頭。
 
-#### Prompt
+#### 提示詞
 
 ```text
 An adult male stands squarely facing the camera with level shoulders and a centered stance, his intense, serious direct gaze piercing through the frame. He has a warm tan complexion, a full dark beard, and heavily
 ```
 
-### No. 123: Bảng xếp hạng Văn bản sang Video
+### No. 123: 文字轉影片排名
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Steren
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Steren
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bảng xếp hạng hiển thị thứ hạng của các mô hình AI văn bản sang video cùng với điểm số và lượt bình chọn.
+一份展示文字轉影片AI模型排名、分數與投票數的排行榜。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A screenshot of a text-to-video model ranking leaderboard with a clean, modern UI, white background, and a table listing models like gemini-omni-flash, dreamina-seedance, and happyhorse-1.0, showing rank, score, and votes, with a 'View all' button at the bottom.
 ```
 
-### No. 124: Bảng xếp hạng mô hình Văn bản sang Video
+### No. 124: 文字轉影片模型排名
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Yash Bhalgat
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Yash Bhalgat
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bảng xếp hạng với chủ đề tối hiển thị các mô hình AI văn bản sang video hàng đầu cùng với điểm số, lượt bình chọn và thứ hạng của chúng.
+一份深色主題的排行榜，展示頂尖文字轉影片AI模型的分數、投票數與排名。
 
-#### Prompt
+#### 提示詞
 
 ```text
 dark theme interface showing a ranked list of text-to-video AI models with scores and votes
 ```
 
-### No. 125: Mèo khung dây uống trà
+### No. 125: 線框貓咪喝茶
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** TechieSA
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chú mèo hình học khung dây đang thưởng thức một tách trà trên bàn cùng với ấm trà và đĩa lót.
+一隻幾何線框貓咪在桌邊享用一杯茶，桌上擺有茶壺與茶碟。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a wireframe cat drinking tea, geometric low-poly style, blue and white, sitting at a table with teapot and saucer, digital art, 3D render
 ```
 
-### No. 126: Gemini Omni Flash xếp hạng số 1
+### No. 126: Gemini Omni Flash 排名第一
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alexandre Moufarek
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alexandre Moufarek
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Bảng xếp hạng so sánh các mô hình AI văn bản sang video với Gemini Omni Flash dẫn đầu.
+一份比較文字轉影片AI模型的排行榜，Gemini Omni Flash位居榜首。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart ranking text-to-video AI models with Gemini Omni Flash at #1, featuring a clean, modern design with teal bars and a light background.
 ```
 
-### No. 127: Ahsoka trong bóng tối
+### No. 127: 陰影中的亞蘇卡
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ImPaul
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ImPaul
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh cận mặt của Ahsoka Tano với ánh sáng kịch tính làm nổi bật khuôn mặt và các đường nét có mũ trùm của cô.
+亞蘇卡·譚諾的特寫，戲劇性的光影突顯了她的臉龐與兜帽下的輪廓。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ahsoka Tano, close-up portrait, dramatic lighting, white facial markings, striped hood, dark background, intense gaze, cinematic style
 ```
 
-### No. 128: Điểm chuẩn Văn bản sang Video
+### No. 128: 文字轉影片基準測試
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Mikel | AI Engineer
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mikel | AI Engineer
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Biểu đồ cột so sánh điểm ELO của các mô hình văn bản sang video khác nhau về mức độ ưa thích tổng thể và khả năng tuân theo chỉ dẫn.
+一張條形圖，比較多種文字轉影片模型在整體偏好與指令遵循方面的ELO分數。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing text-to-video models on overall preference and instruction following, with blue, black, dark gray, light gray, and white bars, labeled with ELO scores, set against a clean white background with a legend and title.
 ```
 
-### No. 129: Ảnh POV từ bên trong máy giặt
+### No. 129: 洗衣機內視角照片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Giulia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho bức ảnh lối sống thân mật và kỳ lạ từ góc nhìn bên trong một máy giặt nhìn về phía Sydney Sweeney.
+一個用於生成古怪而親密的生活風格照片的提示，從洗衣機內部視角看向雪梨·史威尼。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A quirky and intimate POV lifestyle photograph taken from the inside of a washing machine looking out at Sydney Sweeney.
 ```
 
-### No. 130: Tư thế Halloween với mặt nạ Ghostface
+### No. 130: 鬼臉殺手萬聖節姿勢
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc váy đen cầm mặt nạ Ghostface trong một khung cảnh cửa ra vào đầy kịch tính.
+一位身穿黑色洋裝的女子，在戲劇性的門口場景中手持鬼臉殺手面具。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a black dress holding a Ghostface mask, standing in a doorway with a candle, wearing black lace gloves and stockings, dark background with star effects, cinematic lighting, horror theme
 ```
 
-### No. 131: Chân dung Pakistan điện ảnh siêu thực
+### No. 131: 超現實電影級巴基斯坦肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Salina
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Salina
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một bức chân dung điện ảnh độ phân giải cao của một phụ nữ mặc trang phục truyền thống Pakistan.
+一個用於生成高解析度電影級肖像的提示，描繪一位身穿傳統巴基斯坦服飾的女子。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use uploaded photo to create AN ULTRA REALISTIC HIGH RESOLUTION CINEMATIC PORTRAIT. A beautiful woman with long brown hair, haf-updo, wearing a black traditional Pakistani dress (shalwar kameez) with bright maroon scalloped trim
 ```
 
-### No. 132: Người phụ nữ với bóng bay tại Đấu trường La Mã
+### No. 132: 羅馬競技場前手持氣球的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Maria Pratt
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maria Pratt
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065139364603277645.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc váy oải hương cầm một bó bóng bay màu tím vân đá trước Đấu trường La Mã lúc hoàng hôn.
+一位身穿薰衣草色長裙的女子，在日落時分的羅馬競技場前，手持一束紫色大理石紋氣球。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a flowing lavender tulle gown holding a large cluster of purple marbled balloons, standing in front of the Colosseum at sunset, cinematic lighting, photorealistic, 8k
 ```
 
-### No. 133: Ý tưởng Phim Hành động Thực tế Ben 10
+### No. 133: 《Ben 10》真人版電影概念
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Karan
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Karan
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065141110071230593.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý khám phá phiên bản chuyển thể phim hành động thực tế của nhượng quyền thương mại Ben 10.
+一個探討《Ben 10》系列改編為真人版電影的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 What if Ben 10 had a live action movie
 ```
 
-### No. 134: Gemini Omni Flash xếp hạng số 1
+### No. 134: Gemini Omni Flash 排名第一
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Tokens on Solana
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tokens on Solana
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một biểu đồ thanh cho thấy Gemini Omni Flash là mô hình AI văn bản sang video được xếp hạng hàng đầu.
+一個顯示Gemini Omni Flash為排名第一的文字轉影片AI模型的長條圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing text-to-video AI models with scores, highlighting Gemini Omni Flash as ranked #1, clean modern design, light background, Arena AI branding
 ```
 
-### No. 135: Điểm chuẩn Văn bản sang Video
+### No. 135: 文字轉影片基準測試
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** testtm
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** testtm
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một biểu đồ thanh so sánh các mô hình tạo video AI về mức độ ưa thích và tuân theo chỉ dẫn.
+一個比較各AI影片生成模型在偏好度與指令遵循度表現的長條圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing text-to-video models on overall preference and instruction following, with blue bars for Gemini Omni Flash, black for Seedance 2.0, dark gray for HappyHorse, light gray for Kling v3 Pro, very light gray for Grok-Imagine-Video, and white for Wan 2.7, showing ELO scores from 800 to 1150, with data labels on each bar, set against a clean white background with a title at the top and descriptive text below.
 ```
 
-### No. 136: Người phụ nữ trong Hồ bơi với Tầm nhìn Thành phố
+### No. 136: 城市景觀泳池中的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** J⭕DIE
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo hình ảnh một phụ nữ trẻ có tàn nhang và mái tóc đỏ trong một hồ bơi được bao quanh bởi tầm nhìn thành phố.
+一個用於生成圖像的提示，描繪一位有雀斑的紅髮年輕女子，身處可俯瞰城市景觀的泳池中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A young woman with fair skin covered in light freckles, striking blue eyes, and long, wavy, wet auburn-red hair stands in the pool with breathtaking city views all around.
 ```
 
-### No. 137: Trung tâm Chỉ huy Di động Tương lai
+### No. 137: 未來移動指揮中心
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý mô tả một trung tâm phối hợp chiến trường tinh vi với các mô-đun mở rộng và màn hình hiển thị hologram.
+一個描述配備可擴展模組與全像顯示器的精密戰場協調中心的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Futuristic Mobile Command Center
 A futuristic mobile command center designed as a sophisticated battlefield coordination hub, featuring expandable operations modules, holographic strategic displays, autonomous communication drones,
 ```
 
-### No. 138: Giáo viên giúp đỡ học sinh
+### No. 138: 教師輔導學生
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một giáo viên hỗ trợ học sinh trong việc học tập trong một khung cảnh lớp học sáng sủa.
+一位教師在明亮的教室環境中輔導學生學習。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a red shirt and black pants leaning over a student's desk in a classroom, pointing at an open textbook, the student writing in a notebook, realistic lighting, detailed facial features, classroom setting with desks, windows, and educational posters on the wall
 ```
 
-### No. 139: Gợi ý Cảnh Lớp học Hiện đại
+### No. 139: 現代教室場景提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý có cấu trúc để tạo video về môi trường lớp học hiện đại sạch sẽ, ngăn nắp.
+一個用於生成整潔、有序的現代教室環境影片的結構化提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -2906,221 +2906,221 @@ Một gợi ý có cấu trúc để tạo video về môi trường lớp học
 }
 ```
 
-### No. 140: Chuyển gương mặt vào Cảnh Du thuyền Xa xỉ
+### No. 140: 臉部轉移至豪華遊艇場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Jahan Zaib
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jahan Zaib
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để chuyển khuôn mặt từ ảnh tham chiếu vào một hình ảnh du thuyền xa xỉ siêu thực, đồng thời bảo toàn chính xác danh tính và các đặc điểm.
+一個將參考照片中的臉部，轉移至超寫實豪華遊艇圖像上，同時精確保留身份與特徵的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 use my reference photo, transfer the face from the photo without changing it, preserve exact identity, facial features, body proportions and natural skin tone with 100% similarity. Ultra-realistic luxury yacht photo, vertical 3:4.
 ```
 
-### No. 141: Chân dung Kịch tính trong Lửa và Khói
+### No. 141: 火焰與煙霧中的戲劇性肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alex Prompts
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho một bức chân dung rộng đầy kịch tính của một đối tượng ngồi trên sàn gỗ được bao quanh bởi lửa và khói.
+一個用於生成戲劇性廣角肖像的提示，描繪主體坐在木地板上，被火焰與煙霧環繞。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Dramatic wide portrait of IMAGE1 sitting casually on wooden floor completely  surrounded by large roaring flames and thick smoke, wearing a
 ```
 
-### No. 142: Gợi ý Chân dung Thời trang Biên tập Streetwear
+### No. 142: 時尚編輯街頭服飾肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một bức chân dung thời trang biên tập streetwear sang trọng của một phụ nữ.
+一個用於生成女性奢華街頭服飾時尚編輯肖像的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an oversized black leather bomber jacket, black oversized
 ```
 
-### No. 143: Hồ sơ Sheikh Omar Khan
+### No. 143: 謝赫·奧馬爾·汗個人檔案
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Natia Kurdadze
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Natia Kurdadze
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065165520031141976.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một hồ sơ mạng xã hội thể hiện phong cách sống xa hoa và nội dung về xây dựng sự giàu có.
+一個展示奢華生活方式與財富累積內容的社交媒體個人檔案。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a screenshot of a social media profile page with a dark theme, showing a user named Sheikh Omar Khan, with posts, followers, and a dashboard displaying 8.4K views in the last 30 days, featuring images of a man in traditional Middle Eastern attire in luxurious settings like a private jet, yacht, and mansion, with app download links and promotional text about becoming wealthy
 ```
 
-### No. 144: Quảng cáo nước tăng lực
+### No. 144: 能量飲料推廣
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Dhairya
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dhairya
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức cắt dán năng động thể hiện một phụ nữ đang quảng bá nước tăng lực trong môi trường thể hình.
+一個動態拼貼圖，展示一位女子在健身環境中推廣能量飲料。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a collage of a woman in various workout outfits holding a can of Celius energy drink, posing energetically in a bright gym setting, social media style, vibrant lighting, high detail
 ```
 
-### No. 145: Người phụ nữ trong Váy Thang máy
+### No. 145: 電梯中的亮片裙女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Pinodi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc váy sequin đen tạo dáng tự tin trong thang máy sang trọng, bóng loáng với hình ảnh phản chiếu của cô ấy hiện rõ trong gương.
+一位身著黑色亮片裙的女子，在光滑反光的電梯中自信擺姿，其身影在鏡中清晰可見。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with long black hair wearing a black sequined halter dress, standing in a modern elevator with reflective metallic walls, holding her hand to her neck, looking directly at the camera, a studded black handbag on the floor beside her, studio lighting, high fashion photography
 ```
 
-### No. 146: Chân dung siêu thực trong sân vận động trống
+### No. 146: 空蕩體育場內的寫實肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Justice Studio 2.0
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Justice Studio 2.0
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức chân dung siêu thực của một phụ nữ trẻ có làn da ô liu và mái tóc đen đứng tự tin trong một sân vận động thể thao trống dưới bầu trời kịch tính.
+一位橄欖色肌膚、深色頭髮的年輕女子，在空曠的體育場內，於戲劇性的天空下自信站立的寫實肖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A photorealistic portrait of a beautiful young woman with olive skin, shoulder-length wavy dark brown hair, and subtle makeup, standing confidently in a large empty sports stadium under dramatic overcast skies. She wears a fitted
 ```
 
-### No. 147: Ảnh cận cảnh mờ nhẹ, nghiệp dư từ iPhone
+### No. 147: 朦朧模糊的業餘iPhone特寫
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** KeorUnreal
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho một cảnh quay cận cảnh tinh tế, mờ nhẹ, chất lượng thấp, giống như thước phim nghiệp dư quay bằng iPhone.
+一個用於生成類似業餘iPhone拍攝的、帶有細微模糊感和低畫質特寫鏡頭的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Subtle blurry low quality close-up amateur iPhone
 ```
 
-### No. 148: Nhóm Biên Tập Video Tương Lai
+### No. 148: 未來感影片編輯團隊
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Rabia Eddari
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Rabia Eddari
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một nhóm chuyên gia cộng tác trong một studio biên tập video công nghệ cao dưới ánh sáng kịch tính.
+一個專業團隊在戲劇性燈光下的高科技影片編輯工作室中協作。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a futuristic video editing studio with a large screen displaying colorful video clips, people in business attire collaborating around workstations, dramatic lighting with blue and purple hues, cinematic atmosphere, high detail, 8k
 ```
 
-### No. 149: Lamborghini Countach được thiết kế ở Liên Xô
+### No. 149: 蘇聯設計的藍寶堅尼 Countach
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Riccardo
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Riccardo
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc mô tả chiếc xe Lamborghini Countach được thiết kế ở Liên Xô trong thập niên 1950.
+一個描述一輛在 1950 年代由蘇聯設計的藍寶堅尼 Countach 跑車的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Lamborghini Countach zaprojektowane w ZSRR w latach 50
 ```
 
-### No. 150: Cảnh Chăm Sóc Bản Thân Yoga Bố Cục Phẳng Từ Trên Xuống
+### No. 150: 俯視瑜伽平鋪擺拍自我照顧場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bố cục phẳng biên tập từ trên xuống về một phụ nữ trên thảm yoga với cà phê đá và các đạo cụ chăm sóc bản thân.
+一個俯視的編輯風格平鋪擺拍畫面，一位女性在瑜伽墊上，旁邊放有冰咖啡和自我照顧道具。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -3129,241 +3129,241 @@ Một bố cục phẳng biên tập từ trên xuống về một phụ nữ tr
 }
 ```
 
-### No. 151: Lịch Sử Thay Thế Chevrolet Corvette Của Đông Đức Trabant
+### No. 151: 東德 Trabant 科爾維特平行歷史
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Riccardo
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Riccardo
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo video về chiếc Chevrolet Corvette được thiết kế lại bởi các kỹ sư Trabant ở Đông Đức vào năm 1957.
+一個用於生成影片的提示，描述一輛由東德 Trabant 工程師於 1957 年重新設計的雪佛蘭科爾維特跑車。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Chevrolet Corvette designed in East Germany by Trabant engineers in 1957, retro GDR automotive design, socialist industrial aesthetics, realistic alternate history
 ```
 
-### No. 152: Lễ trao vương miện trong nhà thờ lớn
+### No. 152: 大教堂中的加冕儀式
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Dalniery
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dalniery
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065184436929311017.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Khoảnh khắc hoàng gia diễn ra trong một nhà thờ lớn khi một chiếc vương miện được trao trong một sự kiện nghi lễ.
+一場莊嚴的時刻在宏偉的大教堂中展開，一場儀式活動中正在呈獻王冠。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a dramatic scene in a medieval cathedral with a man in a red robe holding a crown, another man in a fur-lined robe standing nearby, and onlookers in period clothing, cinematic lighting, high detail
 ```
 
-### No. 153: Lời Nhắc Ảnh Biên Tập Thời Trang Cao Cấp Tennis Gelato
+### No. 153: 高端時尚網球與冰淇淋編輯照提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc chi tiết để tạo ra hình ảnh biên tập thể thao thời trang cao cấp siêu chân thực, có sự xuất hiện của một phụ nữ thể thao trên sân quần vợt.
+一個詳細提示，用於生成超寫實的高端時尚運動編輯照，畫面中一位運動型女性身處網球場。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic high-fashion sports editorial, vertical 4:5. A single athletic woman in her mid-20s stands centered on a professional outdoor tennis court, holding an oversized luxury gelato-style waffle cone at chest height
 ```
 
-### No. 154: Lời Nhắc Nhân Vật Thanh Niên Nhặt Rác Gầy Gò
+### No. 154: 瘦削青少年拾荒者角色提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kōda
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kōda
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc mô tả nhân vật thanh niên nhặt rác gầy gò với mái tóc đuôi ngựa đôi màu xanh lơ.
+一個描述瘦削青少年拾荒者角色的提示，該角色擁有青綠色的雙馬尾髮型。
 
-#### Prompt
+#### 提示詞
 
 ```text
 CHARACTER = skinny teenage scavenger with cyan twin-tail hair
 ```
 
-### No. 155: Bộ Ảnh Tự Sướng Câu Chuyện Instagram Siêu Chân Thực
+### No. 155: 超寫實 Instagram 限時動態自拍拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo bộ ảnh ghép dọc 3x2 về một phụ nữ trẻ với phong cách đi chơi đêm lấy cảm hứng từ Cinderella.
+一個用於創作垂直 3x2 拼貼畫的提示，呈現一位年輕女性以灰姑娘風格的夜間外出美學。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Modern Cinderella-inspired night-out aesthetic, dreamy but
 ```
 
-### No. 156: Ảnh tự sướng iPhone siêu thực trong công viên đầy nắng
+### No. 156: 陽光公園中的超真實 iPhone 自拍
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo ra một bức ảnh tự sướng iPhone góc cao, siêu thực về một người phụ nữ tự tin đang đi bộ trong công viên đầy nắng.
+一個用於生成超高角度、超真實 iPhone 自拍的提示，畫面中一位自信的女性在陽光普照的公園中行走。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Preserve the woman’s face, selfie angle, skin texture, hairstyle, and overall confident sporty energy from the reference image. Create an ultra-realistic iPhone selfie taken from a high angle in a sunny park. She is walking on a park path
 ```
 
-### No. 157: So Sánh Chỉnh Sửa Video AI
+### No. 157: AI 影片編輯工具比較
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 🚨 AI News | TestingCatalog
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 🚨 AI News | TestingCatalog
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Biểu đồ cột so sánh hiệu suất của các công cụ chỉnh sửa video AI khác nhau trên hai chỉ số.
+一個長條圖，比較多種 AI 影片編輯工具在兩項指標上的表現。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing Elo scores of AI video editing tools, with categories 'Overall Preference' and 'Instruction Following', showing data for Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, in a clean modern style with blue, black, gray, and white bars on a light background.
 ```
 
-### No. 158: Chân Dung Phụ Nữ Hàn Quốc Dễ Thương Với Ánh Sáng Mềm Mại
+### No. 158: 可愛韓國女性肖像柔和光線
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc mô tả cho bức chân dung màu cận cảnh một phụ nữ Hàn Quốc trẻ với nụ cười dịu dàng và đôi mắt biểu cảm.
+一個描述性提示，用於生成一位年輕韓國女性的特寫彩色肖像，她帶著溫柔的微笑和富有表現力的眼神。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vertical, close-up color portrait of a young Korean woman with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks.
 ```
 
-### No. 159: Người phụ nữ đọc sách trên giường
+### No. 159: 床上閱讀的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Giulia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ trẻ đọc sách khi nằm trên giường trong phòng ngủ được chiếu sáng dịu dàng với đèn dây.
+一位年輕女子躺在光線柔和的臥室床上閱讀書籍，房間內掛有串燈。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young woman with dark wavy hair lying on a bed in a cozy bedroom, reading a book, soft lighting from string lights, blue bedding, intimate and serene atmosphere
 ```
 
-### No. 160: Logo Google Omni
+### No. 160: Google Omni 標誌
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Divyanshu Divy
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Divyanshu Divy
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Logo Google Omni sống động và hiện đại với gradient cầu vồng và một ngôi sao lấp lánh.
+一個為 Google Omni 設計的鮮明現代標誌，帶有彩虹漸層和一顆閃爍的星星。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Google Omni logo with colorful gradient text, modern design, white background, small star icon
 ```
 
-### No. 161: Cảnh quay điện ảnh về người phụ nữ tương lai với mũ phi công
+### No. 161: 未來感女性戴頭盔的電影鏡頭
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Saki H. 咲希
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Saki H. 咲希
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc cho cảnh quay điện ảnh toàn thân một phụ nữ trẻ trong tư thế nghiêng, cầm mũ phi công.
+一個用於生成電影感全身鏡頭的提示，描繪一位年輕女性側面手持飛行員頭盔的畫面。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cinematic, dutch angle, full body shot of a young woman as in <<<image_1>>> cooly walking in profile, one hand holding an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed, futuristic
 ```
 
-### No. 162: Bản Đồ Sân Bóng Đá Thu Nhỏ Bừng Sức Sống
+### No. 162: 微縮足球場地圖活靈活現
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alexandra Aisling
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alexandra Aisling
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo video về bản đồ sân vận động thu nhỏ biến đổi thành khung cảnh ngày thi đấu sôi động.
+一個用於生成影片的提示，描述微縮體育場地圖轉變為生動比賽日場景的過程。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A football stadium map of [STADIUM], [CITY] spread across a table, transformed into a living miniature world. Match day erupts from the blueprint as [TEAM] faces [OPPONENT] in [TOURNAMENT].
@@ -3371,799 +3371,799 @@ A football stadium map of [STADIUM], [CITY] spread across a table, transformed i
 
 ### No. 163: Gemini Omni Flash #1
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Leituras com Ravi 🍁
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Leituras com Ravi 🍁
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bảng xếp hạng xếp loại các mô hình AI chuyển văn bản thành video với Gemini Omni Flash ở vị trí dẫn đầu.
+一個排行榜，列出文字轉影片AI模型的排名，Gemini Omni Flash位居榜首。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing text-to-video AI models with scores, highlighting Gemini Omni Flash as #1, clean modern design, light background, Arena AI branding
 ```
 
-### No. 164: Phụ nữ trẻ chân thực như ảnh chụp với tóc nâu sẫm
+### No. 164: 寫實年輕女性：深棕色頭髮
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sadie 🥀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra hình ảnh chân thực như ảnh chụp của một phụ nữ trẻ với làn da trắng và mái tóc dài thẳng màu nâu sẫm.
+一個用於生成寫實圖像的提示，主角是一位皮膚白皙、擁有長直深棕色頭髮的年輕女性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A highly detailed, photorealistic image of a stunning young woman in her mid-20s with fair skin, long straight dark brown hair with a black
 ```
 
-### No. 165: Chân Dung Siêu Thực Của Một Phụ Nữ Trẻ
+### No. 165: 超真實年輕女性肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Virena
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một bức chân dung chân thực, gần gũi với các đặc điểm chi tiết về da và mắt.
+一個用於生成親密、真實肖像的提示，具有詳細的皮膚與眼睛特徵。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic intimate lifestyle portrait of a young woman with fair warm-toned skin, peach-beige undertones, natural skin texture, and a soft satin glow. She has large dark brown almond-shaped eyes with a calm, slightly wistful expression
 ```
 
-### No. 166: So Sánh Chỉnh Sửa Video Bằng AI
+### No. 166: AI影片編輯工具比較
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Nitesh Kushwaha 🗞️🌎
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nitesh Kushwaha 🗞️🌎
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một biểu đồ cột so sánh hiệu suất của các công cụ chỉnh sửa video AI khác nhau dựa trên điểm số Elo.
+一張長條圖，比較多種AI影片編輯工具基於Elo評分的表現。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing Elo scores of AI video editing tools, with blue, black, dark gray, light gray, and white bars for Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, showing two categories: Overall Preference and Instruction Following, on a clean white background with a title 'Video Editing' and legend.
 ```
 
-### No. 167: Chân Dung Điện Ảnh Của Phụ Nữ Đông Á
+### No. 167: 東亞女性電影感肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** auqib
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** auqib
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý chân dung cận cảnh siêu thực cho một phụ nữ trẻ với biểu cảm bình thản.
+一個用於生成超寫實特寫肖像的提示，主角是一位表情平靜的年輕女性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cinematic, hyper-realistic close-up portrait of a young East Asian woman with dark hair tied up in a loose, casual bun, with a few stray strands framing her face. She has clear skin, warm brown eyes, and a neutral, calm expression.
 ```
 
-### No. 168: Chân dung thời trang siêu thực với áo phông đỏ
+### No. 168: 超真實時尚肖像：紅色T恤
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** liana
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** liana
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một bức chân dung tạp chí thời trang cận cảnh của một phụ nữ mặc áo phông đỏ có chữ "WHATEVER", sử dụng tham chiếu cho cấu trúc khuôn mặt và cơ thể.
+一個用於生成時尚雜誌特寫肖像的提示，主角是一位身穿紅色「WHATEVER」T恤的女性，使用參考圖像來定義臉部與身體結構。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use 100% face and body structure from attached reference to create a Ultra-realistic fashion magazine close-up portrait of a beautiful young woman wearing an oversized premium red t-shirt featuring the bold white caption "WHATEVER" printed across
 ```
 
-### No. 169: Chân Dung Sắc Đẹp Siêu Thực Với Đèn Flash
+### No. 169: 超真實美感肖像與閃光燈
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** simply
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** simply
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một bức chân dung cận cảnh chân thực của một người phụ nữ với đèn flash kiểu iPhone trong bối cảnh trong nhà tối.
+一個用於生成超真實特寫肖像的提示，描繪一位女性在黑暗的室內環境中，使用iPhone風格閃光燈的效果。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic close-up beauty portrait of a stunning young woman, captured with an iPhone / digital camera aesthetic using direct on-camera flash in a dark indoor setting. Glamorous candid beauty shot with soft lens glow, subtle flash bloom
 ```
 
-### No. 170: Chân dung phòng thu siêu thực của một chàng trai trẻ
+### No. 170: 超寫實工作室肖像：年輕男性
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Nexora
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nexora
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý chi tiết cho một bức chân dung phòng thu toàn thân, siêu thực, về một chàng trai trẻ tự tin ngồi trên một chiếc ghế đẩu thiết kế.
+一個詳細的提示，用於生成一張超寫實、全身的工作室肖像，主角是一位自信的年輕男性，坐在設計師凳上。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Hyper-realistic luxury studio full-body portrait of a confident young man seated on a premium matte-black designer stool. He has neatly styled brown hair, a well-groomed beard and mustache, and is looking directly into the camera with a
 ```
 
-### No. 171: Nhà Thư Pháp Trong Mực
+### No. 171: 墨中書法家
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ぴょんきち
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ぴょんきち
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một ông lão viết thư pháp bằng một cây cọ lớn trong một căn phòng ánh sáng mờ ảo đầy mực và giấy.
+一位老人在昏暗的房間裡，用大毛筆書寫書法，周圍佈滿墨汁與紙張。
 
-#### Prompt
+#### 提示詞
 
 ```text
 an elderly Japanese calligrapher with white hair, wearing a dark robe, kneeling on the floor and writing with a large brush, surrounded by ink-stained papers and lanterns, warm lighting, cinematic, highly detailed, 8k
 ```
 
-### No. 172: Viên nang phát sáng màu xanh lá
+### No. 172: 發光的綠色膠囊
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** RELOX Gamer
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** RELOX Gamer
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065270532384100531.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh cận cảnh của một viên nang phát sáng màu xanh lá với hậu cảnh mờ nhẹ.
+一個發光綠色膠囊的特寫，背景帶有柔焦效果。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a glowing green capsule floating in a soft-focus green background, smooth and translucent with light reflections
 ```
 
-### No. 173: Gợi Ý Ảnh Tự Sướng Gương Với Khoá Mặt
+### No. 173: 臉部鎖定鏡面自拍提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Salina
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Salina
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một bức ảnh tự sướng qua gương với việc bảo toàn khuôn mặt nghiêm ngặt và phong cách nhiếp ảnh di động hiện đại.
+一個用於生成鏡面自拍的提示，嚴格保持臉部特徵，並具有現代手機攝影風格。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a
 ```
 
-### No. 174: Dải Chân Dung Điện Ảnh Của Một Phụ Nữ Trẻ
+### No. 174: 年輕女性電影感肖像條
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Wandering Corner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Wandering Corner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một dải chân dung điện ảnh dọc gồm 5 khung hình, đặc tả một phụ nữ trẻ Đông Á với các chi tiết hình ảnh cụ thể.
+一個用於生成五格垂直電影感肖像條的提示，主角是一位具有特定視覺細節的年輕東亞女性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 5-panel vertical cinematic portrait strip of a beautiful young IEast Asian woman (20–24), warm wheatish skin, long silky dark hair flowing naturally, striking magenta-pink lips, subtle makeup, minimal accessories. She wears an
 ```
 
-### No. 175: Biểu Đồ So Sánh Các Mô Hình AI
+### No. 175: AI模型比較圖表
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** remix.camera
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** remix.camera
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một biểu đồ cột so sánh tỷ lệ chấp nhận của năm mô hình tạo ảnh AI khi sử dụng cùng một gợi ý.
+一張長條圖，比較五個AI圖像生成模型使用相同提示詞的接受率。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A clean, modern bar chart comparing AI image generation models with green, red, black, blue, and purple bars, showing acceptance rates for Seedream 4.5, Seedream V5, Nano Banana 2, Grok, and GPT Image 2 Medium, with text labels and percentages, on a white background
 ```
 
-### No. 176: Buổi Chụp Ảnh Dưới Nước Ban Đêm
+### No. 176: 夜間水中攝影
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** remix.camera
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** remix.camera
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc đồ bơi tối màu tạo dáng bên hồ bơi dưới ánh đèn xanh và hồng trong một buổi chụp ảnh thời trang cao cấp.
+一位身穿深色泳衣的女性，在藍色與粉紅色燈光映照的泳池邊擺出姿勢，呈現高級時尚攝影風格。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A woman in a black swimsuit sitting by a pool at night, illuminated by blue light, with neon pink accents, high fashion photoshoot style, cinematic lighting, wet hair, elegant pose, close-up shot
 ```
 
-### No. 177: Bảng Tâm Trạng Nhân Vật Lấy Cảm Hứng Từ Anime Của Kinza
+### No. 177: 動漫風格角色靈感圖板：金莎
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý chi tiết để tạo ra một poster bảng tâm trạng phong cách anime, đặc tả một phụ nữ Nam Á với mái tóc đen dài.
+一個詳細的提示，用於生成一張動漫風格的靈感圖板海報，主角是一位擁有黑色長髮的南亞女性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 An ultra-detailed anime-inspired character moodboard poster of a beautiful young South Asian woman named "Kinza". She has long voluminous black hair flowing naturally, elegant facial features, expressive deep eyes, a soft confident
 ```
 
-### No. 178: Chân Dung Phố Đêm Của Một Người Phụ Nữ
+### No. 178: 夜間街頭女性肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Eesha
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Eesha
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức chân dung phố đêm chân thực như ảnh chụp của một phụ nữ trẻ với kết cấu da và lớp trang điểm chi tiết.
+一張寫實風格的夜間街頭肖像，描繪一位年輕女性，具有細膩的膚質紋理與妝容細節。
 
-#### Prompt
+#### 提示詞
 
 ```text
 RAW photorealistic night street portrait of a beautiful young woman with long straight silky black hair (middle part), glowing natural skin texture with visible pores and imperfections, soft clean Douyin glam makeup, calm slightly intimidating
 ```
 
-### No. 179: Thiết Lập Hermes Của Tôi
+### No. 179: 我的 Hermes 個人助理設定
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Chris Tabasco - AI Evolution Polska
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Chris Tabasco - AI Evolution Polska
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông giới thiệu thiết lập trợ lý cá nhân chạy bằng AI của anh ấy, bao gồm robot và ứng dụng điện thoại thông minh.
+一名男子展示其配備人工智慧功能的個人助理設定，包含機器人與智慧型手機應用程式。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A man in a black t-shirt with AI Evolution Labs logo stands in a futuristic tech lab, holding a smartphone displaying a messaging app called HERMES, next to a sleek black robot, with glowing blue lights and digital interfaces in the background, text overlay 'My Hermes Setup' and 'My personal assistant'
 ```
 
-### No. 180: Người phụ nữ trên ban công vào ban đêm
+### No. 180: 夜晚陽台上的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sophia | AI Artist ✨
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ tạo dáng trên ban công nhìn ra cảnh quan thành phố sôi động về đêm.
+一名女子在夜晚俯瞰著充滿活力的城市景觀的陽台上擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with blonde hair standing on a balcony at night, wearing a black crop top and gray shorts, looking back over her shoulder, city skyline with illuminated buildings in the background, warm lighting from the building interior, high detail, realistic, 4k
 ```
 
-### No. 181: Vết Xước Phim Cổ Điển
+### No. 181: 復古影片刮痕
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Reese
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Reese
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065463168277631272.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một khung hình đen trắng hạt to cho thấy hư hỏng phim và một đường cong, gợi lên thẩm mỹ điện ảnh cũ.
+一個顆粒感強烈的黑白畫面，顯示影片損傷和一條曲線，喚起老電影的美學風格。
 
-#### Prompt
+#### 提示詞
 
 ```text
 grainy black and white film frame with scratches and a curved line, vintage film effect
 ```
 
-### No. 182: Mái Vòm Lưu Trữ Thiên Thể
+### No. 182: 天穹檔案圓廳
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** sayobonita
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sayobonita
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thư viện lơ lửng hùng vĩ trên bầu trời, có kiến trúc trang trí công phu và ánh sáng rực rỡ phát ra từ bên trong.
+一座懸浮在空中的宏偉圖書館，建築華麗，內部散發著光芒。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a floating architectural marvel with a grand dome, intricate balconies, and a central library, surrounded by lush greenery, in a fantasy style, detailed, cinematic lighting
 ```
 
-### No. 183: Ảnh Ghép Chân Dung Studio Siêu Chân Thực
+### No. 183: 超寫實攝影棚肖像拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sharon Riley
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một ảnh ghép chân dung studio siêu chân thực 8K của một người phụ nữ với lớp trang điểm chi tiết và chiếc váy bouclé có kết cấu.
+一幅8K超寫實攝影棚肖像拼貼，描繪一位女性，妝容精緻，身穿有紋理的粗花呢洋裝。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic 8K studio portrait collage of a woman with long, voluminous loose waves, natural glass-skin makeup, flushed cheeks, glossy pink lips, and defined lashes. She wears a tight bodycon mini dress made of soft textured boucle
 ```
 
-### No. 184: Tái Hiện Cảnh Đêm Từ Hình Ảnh Tham Chiếu
+### No. 184: 根據參考圖像重現夜生活場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** remix.camera
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** remix.camera
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả để tái hiện một cảnh đời sống về đêm ngẫu nhiên bằng cách sử dụng hình ảnh tham chiếu mà không thay đổi khuôn mặt.
+一個提示，要求使用參考圖像重現一個隨意的夜生活場景，且不改變臉部特徵。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Using the person in the uploaded reference image (DO NOT TOUCH FACE), recreate this scene: candid nightlife photo of two women standing close together indoors in a dimly lit apartment or party setting, photographed with a direct
 ```
 
-### No. 185: Phòng Chơi Game Retro
+### No. 185: 復古遊戲室
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kris Kashtanova
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kris Kashtanova
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065468953846046924.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phòng chơi game retro ấm cúng với bộ máy tính cổ điển và một bức chân dung đen trắng của một người phụ nữ.
+一個舒適的復古遊戲室，配有老式電腦設備和一幅女性的黑白肖像畫。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a retro gaming room with a vintage computer, lava lamp, posters, and a cat, with a black and white circular portrait of a woman on the right
 ```
 
-### No. 186: Người Mẫu Thời Trang Thay Đổi Trang Phục Nhanh
+### No. 186: 時裝模特兒快速換裝
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Dheepan Ratnam
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dheepan Ratnam
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065470220253135360.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả video cho một người mẫu thời trang nhanh chóng chuyển đổi qua 20 phong cách khác nhau trong 10 giây với các cảnh cắt sắc nét.
+一個影片提示，描述一位時裝模特兒在10秒內透過俐落剪輯快速切換20種不同風格。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts
 ```
 
-### No. 187: Chàng trai trẻ thể thao đối diện máy ảnh
+### No. 187: 面對鏡頭的運動型年輕男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Picts by AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả về một nam thanh niên có thân hình thể thao, biểu cảm nghiêm túc và mái tóc ngắn.
+一個提示，描述一位擁有運動體型、表情嚴肅、留著短髮的年輕成年男性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A young adult male with an athletic build stands on the left side of the frame, facing the camera with a calm, serious expression, a closed neutral mouth, and a direct gaze. His hair is short on the sides and about two
 ```
 
-### No. 188: FIFA World Cup 2026
+### No. 188: 2026年國際足總世界盃
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kaan
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kaan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một tác phẩm nghệ thuật số sống động mô tả Tượng Nữ Thần Tự Do cầm cúp FIFA World Cup trong một sân vận động được bao quanh bởi các lá cờ quốc gia.
+一幅充滿活力的數位藝術作品，描繪自由女神像在一個被各國國旗環繞的體育場中，手持國際足總世界盃獎盃。
 
-#### Prompt
+#### 提示詞
 
 ```text
 FIFA World Cup 2026 poster with Statue of Liberty holding the trophy, surrounded by national flags, in a stadium with a soccer ball, vibrant colors, digital art
 ```
 
-### No. 189: Bảng Phân Cảnh Kỵ Sĩ Mùa Mưa
+### No. 189: 季風騎士故事板
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Adithya Thatipalli
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Adithya Thatipalli
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chuỗi bảng phân cảnh cho thấy một cậu bé vui vẻ lái thuyền giấy qua một ngôi làng ngập lụt trong mùa mưa gió mùa.
+一個故事板序列，展示一個男孩在季風季節，歡快地騎著紙船穿過雨後淹水的村莊。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A young Indian boy makes a paper boat during heavy monsoon rain, rides it through flooded village lanes, with dynamic camera angles and detailed rain physics, in the style of Indian anime storyboard art
 ```
 
-### No. 190: Chân Dung Ngẫu Nhiên Góc Thấp của Một Người Đàn Ông
+### No. 190: 男子低角度隨意肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Aijaz
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả cho bức ảnh chân dung ngẫu nhiên góc thấp sắc nét của một người đàn ông ngoài trời dưới ánh sáng ban ngày gay gắt.
+一個提示，描述在戶外強烈日光下拍攝一張銳利的低角度隨意男子照片。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A sharp, low-angle candid photograph of a man use image for face reference outdoors under bright, harsh daylight, looking slightly to the left. He is wearing a sharp navy blue tailored blazer over a dark t-shirt, modern rimless
 ```
 
-### No. 191: So Sánh Chỉnh Sửa Video bằng AI
+### No. 191: AI影片編輯工具比較
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Wes Roth
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Wes Roth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Biểu đồ cột so sánh các công cụ chỉnh sửa video AI theo điểm ELO về mức độ ưa thích tổng thể và tuân thủ hướng dẫn.
+一個長條圖，以ELO分數比較各AI影片編輯工具在整體偏好和指令遵循方面的表現。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A bar chart comparing AI video editing tools with ELO scores, showing Gemini Omni Flash, Seadance 2.0, HappyHorse, Kling v3 Pro, and Wan 2.7, with categories for Overall Preference and Instruction Following, in a clean modern style with blue, black, gray, and white bars, labeled data points, and a legend at the top.
 ```
 
-### No. 192: Chân Dung Máy Ảnh Cổ Điển
+### No. 192: 復古相機肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Altair
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Altair
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065481224114897095.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Góc nhìn chi tiết của một máy ảnh gỗ cổ với các thành phần bằng đồng và bộ phận bễ, đặt trên nền trung tính.
+一台古董木製相機的細節視圖，配有黃銅組件和皮腔，背景為中性色調。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a vintage wooden large format camera with brass lens and bellows, mounted on a tripod, studio lighting, detailed texture, realistic rendering
 ```
 
-### No. 193: Công Cụ Video Gemini Omni
+### No. 193: Gemini Omni 影片工具
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Signal Lab
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Signal Lab
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065483057537204407.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Giao diện kỹ thuật số tương lai trưng bày một công cụ AI truyền thông chuyển đổi đầu vào thành nội dung video.
+一個展示能將輸入內容轉換為影片的AI媒體工具的未來感數位介面。
 
-#### Prompt
+#### 提示詞
 
 ```text
 dark futuristic interface with grid overlay, glowing text 'Gemini Omni turns inputs into video', multiple screen panels showing AI media content, tech-themed design, neon green accents, sleek modern UI, digital display elements
 ```
 
-### No. 194: Chiếu Bóng Đá tại Quảng Trường Lịch Sử Châu Âu
+### No. 194: 歷史歐洲廣場上的足球轉播
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh video mô tả buổi chiếu công cộng trận bóng đá với một cặp đôi tập trung theo dõi.
+一個影片場景提示，描繪一場公共足球賽轉播，焦點集中在一對情侶身上。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man
 ```
 
-### No. 195: người phụ nữ quỳ gối mặc tất
+### No. 195: 跪著的穿絲襪女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Pinodi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc áo blouse sọc và váy đen quỳ trên sàn gỗ, mang đôi tất mỏng có dây đan chéo.
+一名身穿條紋上衣和黑色裙子的女子跪在木地板上，穿著帶有交叉綁帶的透明絲襪。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with long black hair kneeling on a wooden floor, wearing a white and black striped blouse, a black mini skirt, and black sheer stockings with crisscross straps, in front of white closet doors, studio lighting, photorealistic
 ```
 
-### No. 196: Gợi ý Chân dung Studio Đen Trắng
+### No. 196: 黑白攝影棚肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alex Prompts
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý (prompt) để tạo một bức chân dung studio đen trắng với góc máy ngang thắt lưng, ngang tầm mắt.
+一個用於創作黑白攝影棚肖像的提示，要求腰部以上、視線高度的中景鏡頭。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A stunning black and white studio portrait of [uploaded person]. Eye-level medium shot, framed from the waist up. The subject is standing with his
 ```
 
-### No. 197: Bức tranh tường Tưởng niệm Messi của Nghệ sĩ Đường phố
+### No. 197: 街頭藝術家創作的梅西壁畫致敬
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hendry Lim
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hendry Lim
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Bức ảnh điện ảnh siêu thực về một bức tranh tường Messi đã hoàn thành cùng với nghệ sĩ, được đặt trong tỷ lệ khung hình vuông.
+一幅超逼真的電影感照片，展示一幅完成的梅西壁畫及其創作者，採用方形構圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 THE DEVOTED (Finished Messi Mural + Artist) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L
 ```
 
-### No. 198: Tranh Chân dung Siêu thực với Chủ nghĩa Hiện thực Điện ảnh
+### No. 198: 超現實主義肖像畫與電影級寫實感
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Wandering Corner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Wandering Corner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý (prompt) để tạo ra những bức chân dung siêu thực cực kỳ chi tiết, pha trộn các yếu tố cổ điển và giả tưởng.
+一個用於生成融合古典與奇幻元素的超精細超現實主義肖像畫的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-detailed surrealist portrait painting blending classical romanticism, dreamlike naturalism, and cinematic fantasy realism. Human subjects rendered with graceful realism and poetic elegance, featuring luminous skin,
 ```
 
-### No. 199: Lưới Nghệ thuật Voxel cho Truyện Kinh điển và Manga
+### No. 199: 經典故事與漫畫的體素藝術網格
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Gadgetify
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý (prompt) để tạo lưới 2x2 các cảnh nghệ thuật voxel từ những câu chuyện thuộc phạm vi công cộng và bộ manga nổi tiếng.
+一個用於生成 2x2 網格體素藝術場景的提示，場景取材自公共領域故事和著名漫畫。
 
-#### Prompt
+#### 提示詞
 
 ```text
 2x2 grid, 16:9, do this for Shahnameh and 3 other non-copyrited public space stories: 2x2 grid, do this for 4 famous manga scenes: Function Render_Voxel_Art ($ Subject)
 ```
 
-### No. 200: người phụ nữ mặc áo bóng đá
+### No. 200: 身著足球球衣的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc áo bóng đá màu đỏ đội tuyển Tây Ban Nha tạo dáng với quả bóng đá trên nền trắng.
+一名身穿紅色西班牙足球球衣的女子，在白色背景下與足球一起擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a red Spanish football jersey sitting on the floor with a soccer ball, blonde hair in a ponytail, looking at the camera, studio lighting, white background
 ```
 
-### No. 201: Cung thủ Trùm Áo Giương Cung trong Mưa
+### No. 201: 雨中拉弓的蒙面弓箭手
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Ahmad Faraz
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ahmad Faraz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Chân dung điện ảnh siêu thực của một cung thủ trùm áo trong cơn mưa ở khoảnh khắc giương cung.
+一張超逼真的電影感肖像，描繪一名蒙面弓箭手在雨中拉弓的瞬間。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A hyper-realistic cinematic close-up portrait of a hooded archer in the rain, caught at the peak moment of drawing a bow. The composition is tight and intense — the taut bowstring runs vertically down the exact center of the frame, bisecting
 ```
 
-### No. 202: Cảnh Studio Thời trang Bóng đá Chuyên nghiệp
+### No. 202: 職業足球時尚攝影棚場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý (prompt) cho cảnh studio thời trang bóng đá chuyên nghiệp với nền trắng sạch sẽ và phong cách biên tập thể thao tối giản.
+一個職業足球時尚攝影棚場景的提示，包含乾淨的白色背景和極簡運動編輯風格。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -4172,221 +4172,221 @@ Một gợi ý (prompt) cho cảnh studio thời trang bóng đá chuyên nghi�
     "background": "clean seamless white backdrop with minimalist sports editorial styling, premium commercial photoshoot environment, distraction-free composition emphasizing the
 ```
 
-### No. 203: Cảnh Biển Giấy Động Lực Siêu thực - Ảnh Biên tập
+### No. 203: 動態紙海超現實編輯照
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** timedoctor.eth
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh quay hiệu ứng thực tế siêu thực, ngân sách cao, với nhân vật chính ở trung tâm của một biển giấy xoáy khổng lồ, rực rỡ, đang gấp lại dưới ánh sáng điện ảnh kịch tính.
+一個超現實、高成本實景特效鏡頭，主角居中，置身於巨大、漩渦般翻騰的鮮豔摺紙海洋中，帶有戲劇性的電影燈光。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A high-end editorial, high-budget practical effect surrealism shot. The Grand Symmetrical Centering: The Protagonist stands perfectly centered within a massive, kinetic sea of swirling, folding paper. The paper is vibrant, textured, and moves in slow, graceful waves. The lighting is dramatic, cinematic, with strong directional light creating deep shadows and highlights on the paper folds and the protagonist's face. The atmosphere is ethereal and awe-inspiring.
 ```
 
-### No. 204: Giáo sư toán đang giảng dạy
+### No. 204: 數學教授授課
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Virginio Gallardo
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virginio Gallardo
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065501950271979617.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông mặc vest viết các phương trình lượng giác lên bảng đen trong lớp học.
+一名身穿西裝的男子在教室的黑板上書寫三角函數方程式。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man in a suit writing mathematical equations on a chalkboard, realistic classroom setting, detailed facial features, natural lighting
 ```
 
-### No. 205: Nghệ sĩ trong Áo bóng đá
+### No. 205: 身著足球球衣的藝術家
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Giulia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc áo bóng đá đội tuyển Mỹ đang vẽ trong một xưởng vẽ sáng sủa, tràn ngập cây cối.
+一名身穿美國足球球衣的女子，在明亮、充滿植物的畫室中繪畫。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a blue USA soccer jersey painting in an art studio, holding a paintbrush and palette, sitting on a stool, natural light from window, plants in background
 ```
 
-### No. 206: Gemini Omni Tắc kè hoa
+### No. 206: Gemini Omni 變色龍
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Tanvir
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tanvir
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Cận cảnh chiếc đuôi tắc kè hoa màu xanh cuộn tròn với dòng chữ 'Gemini Omni' được đặt chồng lên hình ảnh.
+一隻盤繞的藍色變色龍尾巴特寫，圖像上疊印著「Gemini Omni」文字。
 
-#### Prompt
+#### 提示詞
 
 ```text
 close-up of a coiled blue chameleon tail with intricate scale patterns, natural lighting, green foliage background, text 'Gemini Omni' overlaid in white font
 ```
 
-### No. 207: Nền tảng AI GlobalGPT
+### No. 207: GlobalGPT AI 平台
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Theinfralab
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Theinfralab
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065506797608464624.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Ảnh chụp màn hình trang web GlobalGPT giới thiệu các công cụ và mô hình AI của nó với nền rực rỡ, đầy màu sắc.
+GlobalGPT 網站的截圖，展示其 AI 工具和模型，背景色彩鮮豔豐富。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vibrant, colorful background with a computer screen displaying the GlobalGPT website, featuring AI tools and models, with a focus on image, chat, video, agents, and search options. The page highlights 'Access 100+ Powerful AI Models - All in One Place' and shows various AI model selections like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast. There are navigation menus for Home, Models & Tools, Image, Video, Audio, My Tools, and other AI tools. The interface includes a 'Compare plans' button, 'Upgrade Plan' option, and a promotional banner celebrating 2 years with GlobalGPT and offering up to 50% off. The bottom section showcases cutting-edge video and image models with thumbnail previews of different content types. The overall design is modern and sleek, with a mix of white, blue, and orange hues, and a dynamic, flowing background pattern in purple, orange, and pink.
 ```
 
-### No. 208: Logo Google I/O
+### No. 208: Google I/O 標誌
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Google
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Google
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Logo rực rỡ, nhiều màu cầu vồng đại diện cho Google I/O với các biểu tượng công nghệ và dấu ngoặc.
+一個代表 Google I/O 的鮮豔彩虹色標誌，帶有科技符號和括號。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a colorful gradient logo featuring a stylized Android robot, a globe, a rectangle, a circle, a diamond, and a cursor, all enclosed in curly braces with a forward slash in the middle, on a white background
 ```
 
-### No. 209: Đồ họa Chào mừng trở lại
+### No. 209: 歡迎回來圖形
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Google
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Google
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065509879138173373.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một đồ họa sạch sẽ và hiện đại với dòng chữ 'Chào mừng trở lại' và một hình kim cương rực rỡ, nhiều màu sắc được đặt chính giữa phía trên từ 'welcome'.
+一個簡潔現代的圖形，上面寫著「歡迎回來」，並在「welcome」一詞上方中央有一個鮮豔的多彩菱形圖案。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Welcome back text with a colorful gradient diamond shape overlapping the word 'welcome', on a white background
 ```
 
-### No. 210: Hình Dạng Hình Học Trừu Tượng
+### No. 210: 抽象幾何形狀
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Google
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Google
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Bốn bộ hình dạng hình học có kết cấu riêng biệt được hiển thị theo định dạng lưới.
+四組不同的紋理化幾何形狀以網格格式展示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 four sets of abstract geometric shapes with different textures and patterns, including purple and orange, cosmic galaxy, fossilized bones, and pink and black swirls, arranged in a grid on white background
 ```
 
-### No. 211: Biến Hóa Chất Liệu Công
+### No. 211: 孔雀材質轉換
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Google Flow
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Google Flow
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065510479334691100.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một con công được thể hiện dưới bốn dạng chất liệu khác nhau: tự nhiên, giấy, bơm hơi và thủy tinh với sinh vật thủy sinh bên trong.
+一隻孔雀以四種不同的材質形式呈現：自然、紙質、充氣式，以及內部有水生生物的玻璃。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A peacock made of different materials: real feathers, recycled paper tickets, inflatable plastic, and glass with fish inside, all in a forest background
 ```
 
-### No. 212: Chân Dung Biên Tập Thời Trang Sang Trọng Hiện Thực
+### No. 212: 逼真奢華時尚編輯肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chân dung biên tập thời trang sang trọng hiện thực của một phụ nữ, sử dụng hình ảnh tham chiếu cho khuôn mặt và màu tóc.
+一張逼真的奢華時尚編輯肖像，描繪一位女子，使用參考圖像來設定臉部和髮色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Photorealistic luxury fashion editorial portrait of a woman, used reference image face, used reference image color hair
 ```
 
-### No. 213: Cảnh Hành Lang Khách Sạn Tối Với Thẩm Mỹ Chụp Ảnh Flash
+### No. 213: 昏暗酒店走廊閃光攝影場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một prompt cho một cảnh video đặt trong hành lang khách sạn tối om vào ban đêm với thẩm mỹ chụp ảnh bằng đèn flash.
+一個影片場景提示，設定在夜晚昏暗的酒店走廊，具有閃光攝影美學。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -4397,141 +4397,141 @@ Một prompt cho một cảnh video đặt trong hành lang khách sạn tối o
 }
 ```
 
-### No. 214: Áp phích thời trang biên tập với nano banana pro
+### No. 214: 使用 Nano Banana Pro 製作的時尚編輯海報
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ΛRMIN | AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ΛRMIN | AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một prompt để tạo ra một quảng cáo thời trang độ phân giải cao, động, hiệu ứng 3D nổi bật, được chụp trên phim analog.
+一個用於生成高解析度、動態 3D 立體時尚廣告的提示，採用類比膠片拍攝。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A precise, single full-page, high-resolution photographic print of a dynamic, 3D pop-out [luxury/fashion] advertisement for [BRAND_NAME], shot on high-fidelity analog film. The entire frame, from edge to edge, is filled by
 ```
 
-### No. 215: Prompt video ghép Instagram nàng tiên cá tóc đỏ
+### No. 215: 紅髮海妖 Instagram 拼貼影片提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một prompt để tạo ra một bức ghép ảnh thực tế dạng dọc cho Instagram Story, với hình ảnh nhất quán của một phụ nữ tóc đỏ trong trang phục nàng tiên cá.
+一個用於生成逼真垂直 Instagram 限時動態拼貼的提示，內容為一位一致的紅髮女子進行海妖角色扮演。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Red-haired siren cosplay-inspired night-out aesthetic, oceanic
 ```
 
-### No. 216: Giao Diện Phần Mềm Chỉnh Sửa Video
+### No. 216: 影片編輯軟體介面
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Curious Refuge
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Curious Refuge
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065539761876672840.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Ảnh chụp màn hình ứng dụng chỉnh sửa video với các tùy chọn tải lên và các chỉnh sửa mẫu được hiển thị.
+一款影片編輯應用程式的截圖，顯示上傳選項和範例編輯內容。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A dark-themed video editing software interface with a central upload area showing a teddy bear in a car, a man's face in a circular frame on the right, and feature options below, all with a green border and modern UI design.
 ```
 
-### No. 217: Phản Chiếu Gương
+### No. 217: 鏡面反射
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sophia | AI Artist ✨
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc đồ bơi tím đứng trong căn phòng gương tạo ra nhiều hình phản chiếu.
+一位穿著紫色泳衣的女子站在鏡面房間中，形成多重反射。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a shiny purple swimsuit with a knot front, wearing pink sunglasses, standing in a mirrored room with multiple reflections, wet skin, studio lighting, high detail, photorealistic
 ```
 
-### No. 218: Thành Công Thu Nhập Từ YouTube
+### No. 218: YouTube 收益成功
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Noah⚡️📈┃ YouTube Strategist
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Noah⚡️📈┃ YouTube Strategist
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một đồ họa kết hợp biểu tượng YouTube và ngôi sao đại diện cho thu nhập 88 nghìn đô la cùng biểu đồ xanh tăng trưởng.
+一張圖表，結合 YouTube 和星星符號代表 88,000 美元收益，並附有上升的綠色曲線圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 YouTube logo plus a glowing star symbol equals $88K, with a green upward trending graph on a wooden surface under a spotlight
 ```
 
-### No. 219: Người Phụ Nữ Tại Phòng Tập Keor
+### No. 219: Keor 健身房中的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** KeorUnreal
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ có thân hình cân đối tạo dáng tự tin trong phòng tập với biển đèn neon phía sau.
+一位健美的女子在健身房中自信地擺姿勢，身後有一個霓虹燈招牌。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a confident woman in a gym, wearing a pink sports bra and white leggings, giving a thumbs up, neon sign 'Keor Gym' in the background, fitness equipment around, bright lighting, photorealistic
 ```
 
-### No. 220: Prompt Cấu Trúc Khuôn Mặt Madelyn Cline
+### No. 220: Madelyn Cline 臉部結構提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Pinodi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một prompt có cấu trúc chỉ định các đặc điểm sinh trắc học và cấu trúc khuôn mặt để tạo ra hình ảnh giống Madelyn Cline.
+一個結構化的提示，指定了臉部生物特徵和結構，用於生成 Madelyn Cline 的相似形象。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -4544,221 +4544,221 @@ Một prompt có cấu trúc chỉ định các đặc điểm sinh trắc học
 }
 ```
 
-### No. 221: Chuyển Đổi Hình Ảnh Nano Banana Sang Lip Sync Higgsfield
+### No. 221: Nano Banana 圖像轉 Higgsfield 唇形同步
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Darrin McBreen
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Darrin McBreen
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Tạo một hình ảnh trong Nano Banana để sử dụng làm khung hình bắt đầu cho video đồng bộ môi trong Higgsfield.
+在 Nano Banana 中創建圖像，作為 Higgsfield 唇形同步影片的起始幀。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Make an image in Nano Banana and use it as the start frame in Higgsfield lip sync. You'll find it in the video menu tab. There you can also upload the audio portion of the song you want.
 ```
 
-### No. 222: Nữ Hoàng Quả Táo Đỏ Thẫm
+### No. 222: 深紅蘋果女王
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 紫ちゃん (⁠♡⁠ω⁠♡⁠ ⁠)⁠ ⁠~⁠♪💜
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 紫ちゃん (⁠♡⁠ω⁠♡⁠ ⁠)⁠ ⁠~⁠♪💜
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ quý tộc với mái tóc tím ngồi trên một quả táo bằng đá quý đỏ khổng lồ trong một nhà thờ Gothic lấp lánh ánh nến và pha lê.
+一位紫色頭髮的尊貴女子，坐在一顆巨大的紅色寶石蘋果上，背景是充滿水晶和燭光的哥德式大教堂。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a fantasy queen with long purple hair, wearing a red and gold crown adorned with roses, sitting on a giant red gemstone apple, dressed in an elaborate red gown with intricate jewelry, in a dark gothic cathedral with glowing crystals and candles, cinematic lighting, highly detailed, 8k
 ```
 
-### No. 223: Công Cụ AI GlobalGPT
+### No. 223: GlobalGPT AI 工具
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Riya Ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Riya Ai
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065582038183186504.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Ảnh chụp màn hình quảng cáo trang web GlobalGPT giới thiệu các mô hình AI và ưu đãi giảm giá.
+GlobalGPT 網站的宣傳截圖，展示 AI 模型和折扣優惠。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, with a banner celebrating 2 years and offering 50% off, displayed on a computer screen.
 ```
 
-### No. 224: Mẫu Áo Khoác Phồng
+### No. 224: 羽絨外套模特
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ErwanXR ■●■
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ErwanXR ■●■
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065584046025970040.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Hình ảnh chia đôi một người mẫu mặc áo khoác phồng màu đen và đỏ trên nền tương phản.
+一張分割圖像，展示模特在對比鮮明的背景下穿著黑色和紅色羽絨外套。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a model wearing a black puffer jacket on a dark background, and the same model wearing a red puffer jacket on a white background, high fashion photography, dramatic lighting, studio shot
 ```
 
-### No. 225: Tác phẩm thời trang tiên phong đỉnh cao
+### No. 225: 前衛時尚勁作
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ErwanXR ■●■
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ErwanXR ■●■
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065584838707470637.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một video thời trang cường độ cao với hình ảnh và thiết kế âm thanh mạnh mẽ, có sự xuất hiện của một người mẫu nữ nổi bật trong những bộ trang phục tương lai qua bốn cảnh điện ảnh riêng biệt.
+一部高強度的時尚影片，具有強烈的視覺與音效設計，主角是一位氣場強大的女模特兒，在四個不同的電影感場景中穿著未來感服裝。
 
-#### Prompt
+#### 提示詞
 
 ```text
 High-octane avant-garde fashion banger, 12s. Absolute musical silence. Audio track is strictly raw high-fidelity A SMR: aggressive fabric cracks, heavy wind swooshes, and bone-dry finger snaps acting as audio impact triggers. No music. Model & Attitude: One consistent female model with fierce runway aggression, immense charisma, and sharp, high-energy poses. She dominates the camera. Every single finger snap triggers an explosive camera shake, heavy directional motion blur, and a violent whip-pan hard cut. The Eclectic Visual Shatter (Cinematic Transitions): * Scene 1: Medium shot. Hyper-bright overexposed white studio. Model in a high-gloss crimson red puffer jacket, delivering a fierce, fast-paced performance. Instant violent snap cut. * Scene 2: Dynamic low-angle shot. Deep Rembrandt chiaroscuro lighting. Model in an ornate emerald green velvet Baroque gown, spinning with high velocity, canvas textures flying. * Scene 3: Extreme wide-to-macro camera push. Surreal open-air liquid mercury desert under a shifting chrome sky. Model in a fluid chrome dress, completely locked in a high-fashion frozen pose while the camera orbits aggressively around her. * Scene 4: Saccadic close-up tracking. High-tech Y3K sanctuary, deep cobalt blue grading. Model wears an armored body suit sculpted by volumetric laser beams, shifting geometric poses at stroboscopic speed. Cinematography: Hyper-aggressive camera tracking, intense lens pushes, sudden 90-degree Dutch angles, flawless facial continuity. 8k resolution, raw visual adrenaline, pure scroll-stopper.
 ```
 
-### No. 226: Lời Nhắc Chân Dung Người Phụ Nữ Bên Bể Cá
+### No. 226: 女子在水族箱旁的肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Anaya Ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anaya Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo ra một bức chân dung siêu thực của một người phụ nữ với các đặc điểm khuôn mặt nhất quán bên cạnh một bể cá tại nhà.
+一個用於生成超寫實肖像的提示，描繪一位面部特徵一致的女子站在家用魚缸旁。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic portrait of a beautiful young woman standing beside a large illuminated home aquarium, maintaining the same facial features, face shape, eye structure, hairstyle, and overall facial identity as the reference image. Long, voluminous dark
 ```
 
-### No. 227: Cổ động viên ăn mừng FIFA World Cup
+### No. 227: FIFA 世界盃球迷慶祝
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** latix.ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** latix.ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một nữ cổ động viên vui mừng ăn mừng tại một trận đấu FIFA World Cup, cầm một cốc bia trong một sân vận động chật kín người.
+一名開心的女球迷在 FIFA 世界盃比賽中慶祝，她在擠滿觀眾的體育場裡拿著一杯啤酒。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman wearing a USA beanie and jacket, smiling and holding a beer, in a crowded stadium during a FIFA World Cup match, with the field and scoreboard visible in the background, vibrant lighting, realistic details
 ```
 
-### No. 228: Quan Sát Hiện Trường Cảnh Sinh Hoạt Hàng Ngày Có Chú Thích
+### No. 228: 帶註解的日常場景田野觀察
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alexandra Aisling
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alexandra Aisling
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc video mô tả một khoảnh khắc hàng ngày của một người như một quan sát hiện trường của nhà nghiên cứu được chú thích dày đặc với các ghi chú nổi ở lề bằng nhiều kiểu chữ viết tay khác nhau.
+一個影片提示，將一個人的日常時刻描繪成一份帶有大量註解的田野研究員觀察記錄，邊緣浮動著各種手寫風格的筆記。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A [PERSON'S] daily scene [SPECIFIC MOMENT: morning coffee, commute, dinner]rendered as a heavily annotated field-researcher's observation. Floating margin notes in different handwriting styles accumulate
 ```
 
-### No. 229: Cảnh Quay Điện Ảnh Người Phụ Nữ Đội Mũ Phi Công
+### No. 229: 女子戴上飛行員頭盔的電影感鏡頭
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Saki H. 咲希
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Saki H. 咲希
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc điện ảnh cho một cảnh quay toàn thân một người phụ nữ đang đội mũ phi công.
+一個用於生成女子戴上飛行員頭盔全身鏡頭的電影感提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cinematic, dutch angle, full body shot of a young woman as in <<<image_1>>> cooly walking in profile, using both hands to put on an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed,
 ```
 
-### No. 230: Tấm Chăn Ghép Có Chân Dung Messi
+### No. 230: 印有梅西肖像的拼布被
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hendry Lim
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hendry Lim
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ lớn tuổi trưng bày một tấm chăn ghép thủ công có hình chân dung Lionel Messi, được tạo ra từ nhiều mảnh vải khác nhau trong một ngôi nhà có ánh sáng ấm áp.
+一位老婦人在燈光溫暖的家中，展示一條手工製作的拼布被，上面用各種布料拼貼出梅西的肖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 an elderly woman proudly holding a handmade patchwork quilt featuring a portrait of Lionel Messi, crafted from denim and fabric scraps, in a cozy vintage home with framed photos and lace curtains, warm natural lighting, realistic photography style
 ```
 
-### No. 231: Lời Nhắc Chân Dung Chụp Lén Phong Cách Y2K
+### No. 231: Y2K 風格隨拍肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Virena
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc có cấu trúc để tạo ra một bức chân dung chụp lén có đèn flash theo phong cách Y2K của một cô gái đại học phong cách một cách tự nhiên.
+一個結構化的提示，用於生成 Y2K 風格、不經意的閃光燈肖像，主角是一位極具酷感的大學女生。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -4773,301 +4773,301 @@ Một lời nhắc có cấu trúc để tạo ra một bức chân dung chụp 
 }
 ```
 
-### No. 232: Cầu Tháp London Hoàng Hôn Từ Trên Không Hiệu Ứng Tilt-Shift
+### No. 232: 空中移軸攝影：黃昏時的倫敦塔橋
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** NUSRAT
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NUSRAT
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một góc nhìn từ trên không sử dụng hiệu ứng tilt-shift siêu thực, độ phân giải 4K của Cầu Tháp ở London lúc hoàng hôn với ánh sáng ấm áp và bầu không khí thanh bình.
+一幅超寫實的 4K 移軸空中俯瞰圖，描繪黃昏時分倫敦塔橋的景象，帶有溫暖的燈光與寧靜的氛圍。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {"image_reference": "7744.png", "subject": "Aerial view of Tower Bridge in London at twilight", "style": "Tilt-shift photography, hyper-realistic, 4k resolution", "visual_elements": {"primary_structure": "Tower Bridge, illuminated with warm golden lights", "setting": "Twilight sky with deep blue and orange hues, calm River Thames reflecting lights", "atmosphere": "Serene, magical, slightly misty near the water", "details": "Long exposure light trails from boats, miniature effect from tilt-shift, sharp focus on bridge structure"}}
 ```
 
-### No. 233: Apple Intelligence vs CapCut
+### No. 233: Apple Intelligence 對比 CapCut
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Mehwish kiran
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mehwish kiran
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một sự so sánh giữa biểu tượng Apple Intelligence và ứng dụng CapCut với biểu tượng CapCut bị gạch chéo.
+Apple Intelligence 與 CapCut 應用程式標誌的對比圖，其中 CapCut 符號被劃掉。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A split screen with the Apple Intelligence logo on the left and the CapCut logo crossed out with a red X on the right, black background, minimalist design
 ```
 
-### No. 234: Nhiếp Ảnh Chân Dung Thời Trang Siêu Thực
+### No. 234: 超寫實時尚肖像攝影
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Ai Bella
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ai Bella
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc cho một bức chân dung thời trang điện ảnh, siêu thực trong một studio tối giản.
+一個用於在極簡主義攝影棚中生成電影感、超寫實時尚肖像的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic fashion portrait photography, UHD 18K, vertical aspect ratio 2:3, cinematic editorial masterpiece. A young women sits casually on a simple chair in the middle of a minimalist studio entirely covered in intense,
 ```
 
-### No. 235: Chân Dung Nam Điện Ảnh với Tham Chiếu Khuôn Mặt
+### No. 235: 電影感男性肖像（含臉部參考）
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Professor
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Professor
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo ra một bức chân dung nam mang tính điện ảnh, bảo toàn các đặc điểm và sự tương đồng khuôn mặt từ một hình ảnh đã tải lên.
+一個用於生成電影感男性肖像的提示，能保留上傳圖像中的面部特徵與相似度。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity. Create a cinematic aesthetic male portrait
 ```
 
-### No. 236: Hacker và Đồng Bọn
+### No. 236: 駭客與同夥
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** FHM AI Autopsy Dossier
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** FHM AI Autopsy Dossier
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065629018297442346.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một hacker mặc áo hoodie đen làm việc trên máy tính xách tay trong khi một người phụ nữ tóc vàng theo dõi chăm chú trong một căn phòng ánh sáng mờ với mưa bên ngoài.
+一名身穿黑色連帽衫的駭客正在操作筆記型電腦，而一名金髮女子在窗外下雨的昏暗房間裡專注地觀看。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man in a black hoodie and mask with glowing blue eyes typing on a laptop, a blonde woman standing beside him looking at the screen, rainy window in background, cinematic lighting, dramatic atmosphere
 ```
 
-### No. 237: Buổi Chụp Ảnh Dưới Nước Ban Đêm
+### No. 237: 夜間水池攝影
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** remix.camera
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** remix.camera
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ mặc đồ bơi tối màu tạo dáng bên hồ bơi dưới ánh sáng xanh cho một buổi chụp ảnh thời trang.
+一名身穿深色泳衣的女子，在藍色燈光下的水池邊擺姿勢，進行時尚攝影。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A woman in a black swimsuit sitting by a pool at night, illuminated by blue light, with a moody and revealing fashion aesthetic
 ```
 
-### No. 238: Trình Biên Tập Video AI Miễn Phí Của Google
+### No. 238: Google 免費 AI 編輯器
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Waseem Ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Waseem Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một hình ảnh quảng cáo thông báo về trình biên tập video AI miễn phí của Google, nổi bật các tính năng và sự dễ sử dụng của nó.
+一張宣傳圖片，宣布 Google 推出免費 AI 影片編輯器，強調其功能與易用性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A man with glasses pointing at a laptop screen showing Google Gemini Omni AI Video Editor, with text 'R.I.P. CAPCUT? Google just dropped a FREE AI VIDEO EDITOR!', featuring before/after video editing examples, neon buttons for features like remove objects, change backgrounds, add effects, trim scenes, enhance quality, and a rocket launching, vibrant colors, bold typography, digital art style
 ```
 
-### No. 239: Đấu Võ Quyết Chiến
+### No. 239: 武術對決
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sparkful
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sparkful
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh đánh nhau kịch tính diễn ra trong một nhà hàng Trung Quốc ánh sáng mờ ảo với đèn lồng đỏ và khói, khi một bậc thầy võ thuật chiến đấu với hai đối thủ.
+在一間掛著紅燈籠、煙霧繚繞的昏暗中式餐廳裡，一位武術大師與兩名對手展開了一場戲劇性的打鬥場面。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a martial arts fight scene in a traditional Chinese restaurant, featuring a bald man in a red silk robe fighting two men in vests, with red lanterns and smoke in the background, cinematic lighting, dynamic action poses, close-up of the master's face, 4k detailed, epic atmosphere
 ```
 
-### No. 240: Người dùng điện thoại thông minh
+### No. 240: 使用智慧型手機的人
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Mohammed Siraj
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mohammed Siraj
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065767365351194802.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người cầm điện thoại thông minh, đang xem một video mạng xã hội trên màn hình.
+一個人手持智慧型手機，正在觀看螢幕上的社群媒體影片。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a close-up of hands holding a smartphone displaying a social media video, realistic lighting, detailed skin texture, modern phone design, indoor setting
 ```
 
-### No. 241: Người phụ nữ trong phòng tắm
+### No. 241: 浴室中的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** J⭕DIE
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ với làn da ướt ngồi trên quầy phòng tắm, mỉm cười trong khi chạm vào tóc.
+一名皮膚濕潤的女子坐在浴室檯面上，微笑著觸摸自己的頭髮。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with red hair sitting on a bathroom counter, wearing a yellow tank top and white shorts, smiling at the camera, wet skin, surrounded by beauty products, bright natural lighting, realistic photo
 ```
 
-### No. 242: Người phụ nữ mặc đồ bơi sọc
+### No. 242: 身穿條紋泳裝的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** KeorUnreal
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc đồ bơi sọc đỏ và đen ngồi trên giường, thè lưỡi một cách nghịch ngợm trong phòng khách sạn.
+一名身穿紅黑條紋泳裝的女子坐在旅館房間的床上，俏皮地吐著舌頭。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a red and black striped one-piece swimsuit with a bow, sitting on a bed in a hotel room, making a playful face, long brown hair, white hair clip, realistic lighting, high detail
 ```
 
-### No. 243: Đồ chơi biến hình Chevrolet
+### No. 243: 雪佛蘭變形玩具
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** nehal mujawar
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** nehal mujawar
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065770210943279406.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người cầm khối lập phương màu đen biến hình thành mô hình xe ô tô Chevrolet.
+一個人手持一個黑色方塊，它變形為一輛雪佛蘭汽車模型。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a black cube-shaped toy car with Chevrolet logo being held and manipulated by hands, transforming from a cube to a car shape, realistic lighting, high detail, product photography
 ```
 
-### No. 244: Lưới Tư Thế Yoga Từ Vỏ Chuối
+### No. 244: 香蕉皮瑜伽體式網格
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Gadgetify
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065772170299707809.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lưới 2x2 các tư thế yoga được tạo từ vỏ chuối và các đoạn trái cây.
+一個由香蕉皮和水果切片構成的瑜伽姿勢2x2網格圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A 2x2 grid of different yoga asanas created from arranged banana peels and fruit Structure: [Panel: RANDOM yoga pose; banana peel limb positions, fruit body segments, peel flexibility showing stretch, brown
 ```
 
-### No. 245: Hầm Thực Vật Brutalist U Ám Mùa Thu
+### No. 245: 秋日高級暗黑粗獷主義植物穹頂
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** timedoctor.eth
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh biên tập siêu thực về nhân vật chính trong một hầm thực vật bê tông brutalist rộng lớn, đầy bụi.
+一張超寫實的編輯照片，主角身處一個塵土飛揚、洞穴般的粗獷主義混凝土植物穹頂中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A hyper-realistic, medium-format editorial photograph of The Protagonist standing in a cavernous, dust-filled brutalist concrete botanical vault. The Protagonist
 ```
 
-### No. 246: Bộ Dữ Liệu Chân Dung Thời Trang Người Nổi Tiếng
+### No. 246: 名人時尚肖像資料集
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Anaya
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anaya
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý bộ dữ liệu có cấu trúc để tạo ra chân dung thời trang người nổi tiếng và các chỉnh sửa thẩm mỹ.
+一個用於生成名人時尚肖像與美學編輯的結構化資料集提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -5077,361 +5077,361 @@ Một gợi ý bộ dữ liệu có cấu trúc để tạo ra chân dung thời
 }
 ```
 
-### No. 247: Người đàn ông trong hành lang văn phòng
+### No. 247: 辦公室走廊中的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** AI Sparks
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Sparks
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông trong bộ trang phục thời trang bước đi tự tin qua hành lang văn phòng hiện đại.
+一名穿著時尚的男子自信地走過現代化的辦公室走廊。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man walking in an office hallway, wearing a maroon bomber jacket, black t-shirt, blue jeans, and white sneakers, smiling at the camera, modern office interior with glass walls and plants, bright lighting, photorealistic
 ```
 
-### No. 248: Chú chó với mũ bảo hiểm não
+### No. 248: 配戴腦部頭盔的狗
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** __SWFX__
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** __SWFX__
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065774404189950121.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chú chó Great Dane đội một chiếc mũ bảo hiểm tương lai với bộ não bên trong một vòm kính, đang chảy nước dãi gần một cánh cửa.
+一隻大丹犬戴著一頂未來感頭盔，頭盔的玻璃圓頂內裝有大腦，牠在門邊流著口水。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a gray great dane dog wearing a metal helmet with a glass dome containing a brain in green liquid, standing by a white door with keys, drooling, realistic lighting, cinematic shot
 ```
 
-### No. 249: Người đàn ông với mô hình xe ô tô cổ điển
+### No. 249: 男子與古董汽車模型
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** WeWant Mars
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** WeWant Mars
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông mặc vest ngồi tại bàn làm việc lộn xộn với mô hình xe ô tô cổ điển và những chú mèo đội mũ chóp trong một phòng nghiên cứu ấm cúng chứa đầy sách và thiết bị cũ.
+一名身穿西裝的男子坐在雜亂的書桌前，身旁有一個古董汽車模型和戴著高頂禮帽的貓，置身於堆滿書籍與舊式裝置的舒適書房中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man in a suit and sunglasses sitting at a desk with a vintage car model, cats wearing top hats, books, typewriter, and old radio in a dimly lit study, cinematic lighting, hyper-detailed, 8k
 ```
 
-### No. 250: Minh họa nghệ thuật pixel AI
+### No. 250: AI像素藝術插圖
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** TheVortiq
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TheVortiq
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một biểu diễn nghệ thuật pixel của các chữ cái AI sử dụng các ô vuông đen trắng trên nền lưới với văn bản về trí tuệ nhân tạo.
+一幅以黑白方格在網格背景上拼出「AI」字母的像素藝術，並附有關於人工智慧的說明文字。
 
-#### Prompt
+#### 提示詞
 
 ```text
 pixel art style illustration of the word 'AI' made from black and white squares, with a grid background and text at the top reading 'MULTIMODAL MODEL [V3]', in a minimalist design with a dark gradient bottom section
 ```
 
-### No. 251: Ảnh Ghép Dải Dọc Của Người Phụ Nữ Đông Á
+### No. 251: 東亞女性垂直照片條拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra một ảnh ghép dải ảnh dọc với bốn chân dung cận cảnh của một người phụ nữ Đông Á trên nền xám nhạt.
+一個用於生成垂直照片條拼貼的提示，包含四張東亞女性的特寫肖像，背景為淺灰色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vertical photo strip collage featuring four distinct, close-up portraits of a beautiful East Asian woman with long, wavy black hair, set against a clean, minimal light grey background.
 ```
 
-### No. 252: Người phụ nữ trong ảnh ghép thời trang
+### No. 252: 時尚拼貼中的女性
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Asher Crowe 🪺
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Asher Crowe 🪺
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065779881414173079.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lưới gồm chín hình ảnh theo phong cách mạng xã hội cho thấy một người phụ nữ trong các bộ trang phục khác nhau với chú thích tiếng Nga và số liệu tương tác.
+一個九宮格社交媒體風格圖像，展示一位女性穿著不同服裝，附有俄文標題與互動數字。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a collage of nine images featuring a woman in various outfits and poses, each with Russian text overlays and view counts, styled like social media video thumbnails
 ```
 
-### No. 253: Xây dựng thế giới phong cách từ ảnh chân dung chính diện
+### No. 253: 根據正面輪廓建立臉部風格世界
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Draven
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Draven
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065787122074677708.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra thế giới người có ảnh hưởng (influencer) về lối sống dựa trên hình ảnh tham chiếu khuôn mặt.
+一個根據臉部參考圖像生成生活風格網紅世界的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 build a face style world for this face front profile
 ```
 
-### No. 254: Ảnh Ghép Cuộc Phiêu Lưu Sa Mạc
+### No. 254: 沙漠冒險拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Shakil Islam
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shakil Islam
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065787527861305388.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh sa mạc kịch tính với chiếc xe ô tô tương lai, một người đàn ông và một con rắn khổng lồ trong một ảnh ghép điện ảnh.
+一幅戲劇性的沙漠場景，以電影拼貼風格呈現一輛未來感汽車、一名男子與一條巨蛇。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a cinematic desert landscape at sunset with a futuristic car driving through sand dunes, a man standing in the desert, a giant snake emerging from the sand, and a car interior with a person driving, all in a collage format with a golden hour lighting style
 ```
 
-### No. 255: Cầu Thủ Bóng Đá Ăn Mừng
+### No. 255: 足球員慶祝時刻
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Parves Hossen
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Parves Hossen
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cầu thủ bóng đá mặc áo Manchester City tươi cười trên sân trong trận đấu.
+一名身穿曼城球衣的足球員在比賽場上微笑。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a smiling football player in a light blue Manchester City jersey standing on a stadium field, with fans cheering and a scoreboard showing halftime, realistic lighting, detailed textures, 8k resolution
 ```
 
-### No. 256: Trung Tâm Kinh Tuyến Thiên Thể
+### No. 256: 天體經緯樞紐
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một đài quan sát steampunk tráng lệ chứa đầy các thiết bị thiên văn bằng vàng và các học giả đang làm việc.
+一座宏偉的蒸汽龐克天文台，內部充滿金色的天文儀器與正在工作的學者。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a grand steampunk observatory with golden mechanical instruments, arched ceilings, stained glass windows, and people working at control panels, cinematic lighting, intricate details, 8k
 ```
 
-### No. 257: Gợi Ý Ảnh Thời Trang Năng Động
+### No. 257: 動感時尚攝影提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Singular Lab News ∞
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Singular Lab News ∞
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý đơn giản để tạo ra những bức ảnh thời trang năng động về một người phụ nữ.
+一個用於生成女性動感時尚攝影的簡易提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 dynamic fashion photo of a woman
 ```
 
-### No. 258: Giao Thông Đô Thị Tương Lai
+### No. 258: 未來城市交通
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phương tiện tự hành kiểu dáng thanh lịch di chuyển qua thành phố tương lai với công nghệ tiên tiến và kiến trúc thân thiện với môi trường.
+一輛流線型的自動駕駛車輛，行駛於擁有先進科技與環保建築的未來城市中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 futuristic self-driving pod with people inside, moving on a glowing elevated track in a high-tech city with green skyscrapers and holographic displays, cinematic lighting, 8k
 ```
 
-### No. 259: Khu Chợ Nổi
+### No. 259: 漂浮市場街區
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thế giới thu nhỏ được chế tác thủ công về hoạt động thương mại phát quang sinh học, kiến trúc thực vật và sự kết nối hữu cơ.
+一個手工製作的微型世界，充滿生物發光的貿易活動、植物建築與有機連結。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a floating island market with bioluminescent plants, glowing flowers, and intricate organic architecture, viewed from above, fantasy art style, detailed miniature world, soft lighting, magical atmosphere
 ```
 
-### No. 260: Giày Sneaker Cầu Vồng Trong Chuyển Động
+### No. 260: 動感彩虹運動鞋
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Insomnia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Insomnia
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065795417313325416.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một đôi giày sneaker đầy màu sắc với đế trong suốt lơ lửng trên nền xanh dương đậm và cam, thể hiện chuyển động năng động và màu sắc sống động.
+一隻色彩繽紛的運動鞋，搭配半透明鞋底，懸浮於深藍與橘色背景前，展現動態感與鮮明色彩。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a vibrant rainbow-colored sneaker with a transparent blue sole, floating against a dark blue background with orange side panels, high detail, studio lighting, product photography
 ```
 
-### No. 261: Người phụ nữ đạp xe qua các cảm xúc theo trình tự không tự nhiên
+### No. 261: 女子情緒變化的非自然循環序列
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Alin Cristian Tiganus (eyes2AI)
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alin Cristian Tiganus (eyes2AI)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065796704784306366.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả để tạo ra một video về một người phụ nữ chuyển tiếp qua các cảm xúc từ một hình ảnh tham chiếu theo một trình tự liên tục nhưng không tự nhiên.
+一個用於生成影片的提示，內容為一名女子根據參考圖像，以非自然但連續的序列循環經歷各種情緒。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Make the woman go through all the emotions in image 2 in an unnatural sequence but continuous shot. Don't include image 2 in the video
 ```
 
-### No. 262: Ảnh ghép Sản phẩm Làm đẹp
+### No. 262: 美妝產品拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Amira Zairi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Amira Zairi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một ảnh ghép phong cách của các quảng cáo mỹ phẩm cao cấp có sự góp mặt của người mẫu và các sản phẩm làm đẹp cao cấp.
+一個時尚的拼貼，展示奢華護膚品廣告，以模特兒和高級美妝產品為特色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A collage of six high-end beauty product advertisements featuring models posing with skincare products, each in a clean studio setting with soft lighting and pastel color schemes, showcasing brands like Laneige, Summer Fridays, Pure Beauty, Sol de Janeiro, Glow Recipe, and Tatcha, all presented in a minimalist and elegant style with white backgrounds and professional photography.
 ```
 
-### No. 263: Ánh sáng Mềm mại Ấm cúng cùng Người nổi tiếng
+### No. 263: 與名人共度的舒適柔和燈光
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả video có ánh sáng mềm mại, trang phục ấm cúng và bầu không khí thư giãn với những người nổi tiếng Sabrina Carpenter, Jenna Ortega và Sadie Sink.
+一個影片提示，以柔和燈光、舒適衣著和輕鬆氛圍為特色，主角是名人Sabrina Carpenter、Jenna Ortega和Sadie Sink。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Soft lights, cozy clothes, and absolutely no rush to be anywhere. Sabrina carpenter, Jenna Ortega, Sadie sink
 ```
 
-### No. 264: Cảnh Phòng khách Hiện đại Sáng sủa
+### No. 264: 明亮現代客廳場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả về một phòng khách sáng sủa, hiện đại với các chi tiết nội thất đương đại tối giản.
+一個描述明亮現代客廳的提示，包含極簡當代室內細節。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -5442,822 +5442,822 @@ Một mô tả về một phòng khách sáng sủa, hiện đại với các ch
 }
 ```
 
-### No. 265: Đại sứ Google Gemini
+### No. 265: Google Gemini大使
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Shubh Umre
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shubh Umre
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một đại sứ sinh viên chia sẻ kinh nghiệm tháng đầu tiên với Google Gemini, nổi bật những thành tựu trong giáo dục AI và xây dựng cộng đồng.
+一位學生大使分享他使用Google Gemini第一個月的經驗，強調在AI教育和社群建立方面的成就。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A young man in a hoodie stands confidently in front of a vibrant blue and purple background with abstract digital elements. The image features the Google Gemini logo at the top, text reading 'My First Month as a Google Gemini Student Ambassador,' and several colorful boxes highlighting achievements like hosting events, introducing AI tools, and building a community. A quote at the bottom reads, 'Every session is not just about teaching AI, but about building a community that learns and grows together.' The Baderia Global Institute of Engineering and Management logo is in the corner. The overall style is modern, tech-inspired, and professional, with a focus on learning, leadership, and innovation.
 ```
 
-### No. 266: Giao diện Thư viện Gợi ý AI
+### No. 266: AI提示詞庫介面
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 小海豚笔记 (AI & 副业探索)
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 小海豚笔记 (AI & 副业探索)
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một ảnh chụp màn hình của một thư viện gợi ý AI với nhiều ví dụ hình ảnh và văn bản tiếng Trung trên nền tối.
+一張AI提示詞庫的螢幕截圖，在深色背景上展示各種圖像範例和中文文字。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A dark-themed AI prompt gallery interface with a grid of image examples, including portraits, cityscapes, and futuristic designs, featuring Chinese text and a modern UI layout
 ```
 
-### No. 267: Hạt Cà phê Biến hình Kỳ diệu thành Quán Café
+### No. 267: 咖啡豆神奇變身為咖啡館
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Mr Das
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mr Das
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065807400242978921.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một video điện ảnh nơi một hạt cà phê phát sáng đơn lẻ xoay tròn và biến hình kỳ diệu thành một quán café được trang bị đầy đủ.
+一部電影感影片，一顆發光的咖啡豆旋轉並神奇地變身為一家設備齊全的咖啡館。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cinematic 10-second magical transformation video starting with a single glowing roasted coffee bean suspended in a dark empty space under a dramatic spotlight. The bean smoothly rotates, and as it turns, it begins to emit a warm amber light. From this light, a fully furnished, cozy café materializes around it in a seamless, magical transformation. The final shot is a wide-angle view of the completed café with soft lighting and steam rising from coffee cups, all within the 10-second duration.
 ```
 
-### No. 268: Tạo Ảnh Tham chiếu Khuôn mặt với Độ Chính xác Cao
+### No. 268: 高精度面部參考圖像創建
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kashberg
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kashberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả để tạo ra một hình ảnh sử dụng tài liệu tham chiếu khuôn mặt đính kèm với việc bảo toàn chính xác cấu trúc và nhận dạng trong bối cảnh phòng thu sang trọng.
+一個用於生成圖像的提示，需使用附帶的面部參考圖，在奢華攝影棚環境中精確保留結構與身份特徵。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create image: use the attached image as the main facial reference with high precision while preserving exact facial structure, recognizable identity, facial proportions, skin tone, and natural asymmetry. A dramatic luxury executive studio
 ```
 
-### No. 269: Chân dung Người phụ nữ Tự tin trong Bộ đồ Veston Trắng
+### No. 269: 身著白色褲裝的自信女子肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả cho bức chân dung phòng thu về một người phụ nữ mỉm cười trong bộ đồ veston trắng trên nền tối giản.
+一個攝影棚肖像提示，描繪一位微笑女子穿著白色褲裝，背景極簡。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A full-length studio portrait of a confident, smiling woman with long, wavy brown hair, posing against a clean, minimalist white background. She is elegantly dressed in a tailored white pantsuit.
 ```
 
-### No. 270: Chiến binh giả tưởng trên vách đá
+### No. 270: 懸崖上的奇幻戰士
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** TRZ. 充足
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TRZ. 充足
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chiến binh trong thế giới giả tưởng u ám đứng trên một vách đá sương mù nhìn ra cảnh quan bão tố.
+一位黑暗奇幻戰士站在霧氣繚繞的懸崖上，俯瞰著風暴肆虐的景色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a dark fantasy warrior standing on a misty cliff, wearing a long black cloak and holding a sword, with a stormy sky and distant mountains in the background
 ```
 
-### No. 271: Bò tại lễ hội
+### No. 271: 嘉年華上的牛
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** fifikse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** fifikse
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ vui vẻ chụp ảnh selfie với một con bò tại một công viên giải trí kỳ ảo đầy những trò chơi và điểm thu hút đầy màu sắc.
+一位歡樂的女子在充滿色彩繽紛遊樂設施和景點的奇幻遊樂園中，與一頭牛自拍。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a pink hoodie taking a selfie with a cow at a colorful amusement park, cows riding a roller coaster in the background, vibrant neon lights, cotton candy, fisheye lens effect, hyperrealistic, 8k
 ```
 
-### No. 272: Chàng trai trẻ phong cách thường ngày trong trang phục tối màu
+### No. 272: 身著深色服裝的休閒年輕男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Zar⭕on
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zar⭕on
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả để tạo ra một video về một chàng trai 20 tuổi ngồi thoải mái với khuôn mặt và kiểu tóc nhất quán, mặc trang phục và phụ kiện tối màu cụ thể.
+一個用於生成影片的提示，內容為一名20歲男孩隨意坐著，臉部和髮型保持一致，穿著特定的深色服裝和配飾。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Keeping the same face and hairstyle of 20 years old boy with dark, wearing a black buffer shirt, black cargo lose jeans. brown-white sneakers, bracelet, chain, wristwatch, Sunglasses on eyes, sitting casually
 ```
 
-### No. 273: Chân dung Phòng thu Chi tiết của Người phụ nữ Tự tin
+### No. 273: 自信女子的細膩攝影棚全身肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** J⭕DIE
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả để tạo ra một bức chân dung toàn thân trong phòng thu với độ chi tiết cao của một phụ nữ trẻ tự tin.
+一個用於生成自信年輕女子高度細膩攝影棚全身肖像的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A highly detailed full-body studio portrait of a confident young woman
 ```
 
-### No. 274: Chân dung Siêu thực của Người phụ nữ Tóc đỏ
+### No. 274: 紅髮女子的擬真肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sadie 🥀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả chi tiết để tạo ra một bức chân dung siêu thực của một phụ nữ trẻ với mái tóc đỏ, tàn nhang và đôi mắt xanh.
+一個用於生成紅髮、雀斑、藍眼年輕女子擬真肖像的詳細提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A highly detailed photorealistic portrait of a beautiful young woman with vibrant red hair, fair skin covered in freckles, striking blue eyes, and a warm
 ```
 
-### No. 275: Vẻ đẹp tàn nhang với đôi mắt vàng
+### No. 275: 雀斑美人與金色眼眸
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kaan
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kaan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ có tàn nhang và lớp phấn mắt vàng lấp lánh nhìn xuống trong một bức chân dung được chiếu sáng nhẹ nhàng.
+一位臉上帶有雀斑、塗抹著閃耀金色眼影的女子，在柔和光線的肖像照中向下凝視。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a close-up portrait of a young woman with freckles and golden eyeshadow, soft lighting, dark background, elegant makeup, realistic skin texture, gold necklace, wavy hair
 ```
 
-### No. 276: Người phụ nữ tóc đỏ với mặt nạ cáo
+### No. 276: 紅髮女子與狐狸面具
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Lex
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Lex
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ với mái tóc đỏ rực rỡ và áo kimono xanh lá cầm một chiếc mặt nạ cáo trắng trong một khung cảnh truyền thống Nhật Bản.
+一位有著鮮豔紅髮、身著綠色和服的女子，在傳統日式環境中手持一個白色狐狸面具。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with long red hair wearing a green kimono, holding a white fox mask, standing in a traditional Japanese setting, photorealistic, detailed, cinematic lighting
 ```
 
-### No. 277: Lệnh Cấm Bộ Nhớ Khởi Động Lại Hệ Thống
+### No. 277: 系統重啟記憶禁令
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** NftGeneration2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NftGeneration2
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065819524201349358.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh tương lai đen tối với những tia sáng phát sáng và một vũ khí, hiển thị dòng chữ 'SYSTEM REBOOT MEMORY BAN' màu xanh ngọc.
+一個黑暗、未來主義的場景，帶有發光的光束和一件武器，並以青綠色顯示文字「SYSTEM REBOOT MEMORY BAN」。
 
-#### Prompt
+#### 提示詞
 
 ```text
 dark sci-fi scene with glowing blue and orange light beams, futuristic weapon in foreground, text overlay 'SYSTEM REBOOT MEMORY BAN', cinematic lighting, high contrast, cyberpunk aesthetic
 ```
 
-### No. 278: Khu Chợ Nổi
+### No. 278: 漂浮市場區
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** sayobonita
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sayobonita
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thành phố đảo nổi kỳ ảo với những cấu trúc phát sáng và những mái vòm hình hoa trên bầu trời như trong mơ.
+一座奇幻的漂浮島嶼城市，有著發光的結構和花朵狀的圓頂，懸浮在夢幻般的天空中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a floating island city with bioluminescent architecture, giant flower domes, and glowing pathways, viewed from above, fantasy art style, intricate details, soft lighting, magical atmosphere
 ```
 
-### No. 279: Chân Dung Studio Chân Thực Của Một Người Phụ Nữ
+### No. 279: 擬真攝影棚女性肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** KeorUnreal
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo ra một bức chân dung studio chân thực của một phụ nữ trẻ với mái tóc dài, xoăn sóng màu nâu nhạt và làn da trắng.
+一個用於生成一位擁有長而波浪狀淺棕色頭髮、膚色白皙的年輕女性擬真攝影棚肖像的提示詞。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
   "image_description": "A highly detailed, photorealistic studio portrait of a stunning young woman with long, wavy light brown hair, fair skin with subtle"
 ```
 
-### No. 280: Tạo Video bằng AI
+### No. 280: 創作AI影片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Lunari
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Lunari
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065826537203445776.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Cảnh cận cánh tay của một người di chuyển trước bàn máy tính với các màn hình hiển thị văn bản.
+一個人的手臂特寫，在顯示著文字的電腦桌和螢幕前移動。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a person's arm in motion, blurred, with a computer setup in the background, text overlay 'Creating an'
 ```
 
-### No. 281: Người Đàn Ông Cơ Bắp Với Mái Tóc Vuốt Ngược
+### No. 281: 肌肉發達、頭髮後梳的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Picts by AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo video về một người đàn ông cơ bắp được căn giữa, với mái tóc đen vuốt ngược và một lọn tóc lệch.
+一個用於生成影片的提示詞，內容為一位居中、肌肉發達的男子，有著深色後梳頭髮和一縷散落的捲髮。
 
-#### Prompt
+#### 提示詞
 
 ```text
 An extremely muscular man stands confidently centered, facing the camera straight on, featuring dark, glossy, slicked-back hair with a single stray curl resting naturally on his right forehead, alongside a short
 ```
 
-### No. 282: Người Phụ Nữ Trong Váy Đỏ
+### No. 282: 紅裙女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ trong chiếc váy đỏ lấp lánh ngồi thanh lịch trong xe vào ban đêm.
+一位身著閃亮紅裙的女子，夜晚優雅地坐在車內。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a red strapless ball gown sitting in the back of a car at dusk, glowing with sparkles, soft lighting, cinematic style
 ```
 
-### No. 283: Ảnh Render Chân Thực Của Cúp FIFA 2026
+### No. 283: FIFA 2026獎盃擬真渲染
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Shams
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shams
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo ra một bản render sản phẩm chân thực của chiếc cúp World Cup FIFA 2026.
+一個用於生成FIFA 2026世界盃獎盃擬真產品渲染圖的提示詞。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A highly detailed, photorealistic product render of the FIFA 2026 World Cup trophy
 ```
 
-### No. 284: Chân Dung Thời Trang Điện Ảnh Trên Cầu Thang Tàu Điện Ngầm
+### No. 284: 地鐵階梯上的電影感時尚肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Anissa
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anissa
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức chân dung thời trang mang tính điện ảnh của một phụ nữ thanh lịch ngồi trên cầu thang tàu điện ngầm.
+一位優雅女子坐在地下鐵路樓梯上的電影感時尚肖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-cinematic full-body fashion portrait of a young elegant woman sitting gracefully on the upper section of an underground subway staircase. Her body leans naturally against the stairs, with both arms extended and resting elegantly on the
 ```
 
-### No. 285: Chân Dung Nam Trắng Đen Cổ Điển Trong Studio
+### No. 285: 經典黑白男性攝影棚肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo ra một bức chân dung chuyên nghiệp trắng đen của một người đàn ông với các đường nét sắc sảo và trang phục đơn giản.
+一個用於生成輪廓分明、衣著簡約的男性專業黑白肖像的提示詞。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A professional black and white studio portrait of a handsome man with sharp, masculine features, short dark curly hair, and light stubble. He is wearing a simple black t-shirt and dark pants.
 ```
 
-### No. 286: Memes về việc tạo hình ảnh bằng AI
+### No. 286: AI生成迷因
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Jack Roberts
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jack Roberts
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065841912154587510.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức cắt dán hài hước so sánh việc tạo hình ảnh bằng AI với các đối tượng và con người trong thế giới thực.
+一幅幽默的拼貼畫，將AI圖像生成與現實世界的物體和人物進行比較。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a collage of three images: a toy car on a messy desk, a colorful abstract sculpture at night, and a man in a hoodie speaking into a microphone with text 'so Google', all in a meme format
 ```
 
-### No. 287: Hãy Nghỉ Giải Lao
+### No. 287: 休息一下
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** TechieSA
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một quảng cáo sáng tạo cho thấy một người đàn ông đang ngủ trong khi cầm một thanh KitKat trông như đang tách đôi.
+一則創意廣告，展示一名男子手持一根看似正從中間斷開的KitKat巧克力棒入睡。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cartoon man sleeping while holding a KitKat bar, with the bar breaking in half and the man's hands drawn as if he's breaking it, white background, minimalist style
 ```
 
-### No. 288: Kem Dưỡng và Sự Thanh Bình
+### No. 288: 乳霜與寧靜
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Amira Zairi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Amira Zairi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ thư giãn bên cạnh lọ kem dưỡng da trong một khung cảnh tối giản và yên bình.
+一位女子在寧靜、極簡的環境中，放鬆地坐在護膚乳霜罐旁。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A woman in a light green silk outfit lying on a white surface next to a large jar of Protini Polypeptide Cream, soft lighting, clean minimalist background, product photography style
 ```
 
-### No. 289: Danh sách khóa học AI miễn phí
+### No. 289: 免費AI課程列表
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Siddhant Garg
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Siddhant Garg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một danh sách đánh số gồm 17 khóa học AI miễn phí với các liên kết có thể nhấp, được hiển thị dưới dạng bảng sạch sẽ, tổ chức rõ ràng.
+一份包含17門免費AI課程的編號列表，以清晰、有序的表格形式呈現，並附有可點擊連結。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A clean, minimalist list of 17 free AI courses with titles and short descriptions, each followed by a blue hyperlink URL. The text is black on a white background, formatted in a table with numbered rows and thin gray lines separating entries. The title 'Free AI courses' is at the top in bold, large font. The overall style is professional and educational, resembling a digital resource guide or tutorial slide.
 ```
 
-### No. 290: Màn Trình Diễn Ánh Sáng Hoàng Hôn
+### No. 290: 暮光燈繪展示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Олександр Цюцьмаць
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Олександр Цюцьмаць
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bộ ba màn hình hiển thị tác phẩm điêu khắc ánh sáng trên nền trời thành phố lúc chạng vạng.
+三聯顯示幕上展示著一幅以城市天際線暮色為背景的燈光繪畫雕塑。
 
-#### Prompt
+#### 提示詞
 
 ```text
 three identical computer monitors displaying a long-exposure photo of a light painting sculpture on a rooftop at dusk, with a cityscape and mountains in the background, cinematic lighting, ultra-realistic, 8K
 ```
 
-### No. 291: Chân Dung Phong Cách Sống Hàn Quốc Mộng Mơ Từ Góc Nhìn Tự Sướng Trên Cao
+### No. 291: 夢幻韓式生活風格俯拍自拍肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** simply
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** simply
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả để chỉnh sửa một bức ảnh thành chân dung phong cách sống Hàn Quốc mộng mơ của một phụ nữ trẻ từ góc nhìn tự sướng trên cao.
+一個編輯提示，旨在將照片後製成一名年輕女子的夢幻韓式生活風格肖像，採用俯拍自拍視角。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Edit this photo and don't change the face, portrait 9:16. A dreamy Korean lifestyle portrait of a young woman lying on white bedsheets, captured from an overhead selfie perspective. She wears an oversized off-shoulder dark brown mohair knit sweater
 ```
 
-### No. 292: Người Phụ Nữ Bên Hồ Bơi
+### No. 292: 泳池邊的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Giulia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc đồ bơi màu vàng tạo dáng bên hồ bơi dưới ánh nắng chói chang.
+一名身穿黃色泳衣的女子，在明亮的陽光下於泳池邊擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a yellow one-piece swimsuit with a front tie, lying by a pool, sunlight casting shadows, high detail, realistic lighting
 ```
 
-### No. 293: Người Phụ Nữ Trong Áo Sơ Mi Xám
+### No. 293: 灰色上衣女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** VogueGen
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** VogueGen
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc áo sơ mi xám kéo nó xuống để lộ ngực trong khi tay chạm vào cằm.
+一名身穿灰色上衣的女子將衣服下拉露出胸部，同時觸摸著下巴。
 
-#### Prompt
+#### 提示詞
 
 ```text
 close-up of a woman in a gray shirt, pulling it down to reveal her breasts, with one hand on her chin and the other on her chest, soft lighting, realistic skin texture, pink background
 ```
 
-### No. 294: Người Đàn Ông Với Logo Công Nghệ
+### No. 294: 帶有科技標誌的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Aziz Nizom
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aziz Nizom
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065868004944990266.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông đứng trước nền gradient có ba logo riêng biệt, bao gồm Higgsfield Nano Banana Pro và hai biến thể của logo Google.
+一名男子站在漸變背景前，背景上有三個不同的標誌，包括 Higgsfield Nano Banana Pro 以及兩個 Google 標誌的變體。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man with a beard wearing a black t-shirt, standing in front of a gradient background with three logos: Higgsfield Nano Banana Pro, Google, and Google Nano Banana, all clearly visible and well-lit
 ```
 
-### No. 295: Chỉnh sửa video Google Omni
+### No. 295: Google Omni 影片編輯
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Neurain
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Neurain
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065869899172602003.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một so sánh song song giữa video được chỉnh sửa bằng AI cho thấy một người đàn ông cùng sư tử so với đoạn clip gốc.
+一個並排對比圖，展示了一段 AI 編輯的影片（一名男子與獅子）與原始片段的差異。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A man with blonde hair sits on a green couch next to a lion, in a split-screen comparison showing an edited version with the lion and the original without it, under the text 'AI Video Editing Google Omni'
 ```
 
-### No. 296: Các Phát Triển AI Số 49
+### No. 296: AI 發展 49
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Harun SEYHAN
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Harun SEYHAN
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông trình bày những phát triển mới nhất về AI trong một không gian văn phòng tại nhà ấm cúng với thương hiệu công nghệ nổi bật.
+一名男子在溫馨的家庭辦公室環境中，介紹最新的 AI 發展，背景有顯眼的科技品牌標誌。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A man with glasses and a beard speaking in a cozy room with a fireplace, surrounded by AI logos like Claude, Grok, and OpenAI, with text overlays 'YAPAY ZEKA', 'Gelişmeleri-49', and a subscribe button, styled as a YouTube thumbnail.
 ```
 
-### No. 297: Người Phụ Nữ Trong Váy Sequins
+### No. 297: 亮片連衣裙女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Pinodi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ tạo dáng tự tin trong chiếc váy sequins đen lấp lánh bên trong một thang máy kim loại bóng loáng.
+一名女子身穿閃爍的黑色亮片連衣裙，在光滑的金屬電梯內自信地擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a black sequined dress standing in an elevator, looking at the camera, with her reflection visible in the mirror, wearing high heels and a matching handbag, modern metallic interior, studio lighting
 ```
 
-### No. 298: Hai Người Phụ Nữ Trên Bãi Biển Đang Nhìn Điện Thoại
+### No. 298: 沙灘上看手機的兩名女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** J⭕DIE
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả về hai phụ nữ trẻ trên bãi biển đầy nắng đang mỉm cười khi nhìn vào điện thoại di động.
+一個提示，描述兩名年輕女子在陽光明媚的沙灘上微笑著看手機。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Two young women are sitting closely together on a white blanket spread across a sunny sandy beach, smiling warmly as they both look down at a
 ```
 
-### No. 299: Người Đàn Ông Trong Phòng Khách Sạn
+### No. 299: 酒店房間裡的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** The maestro
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** The maestro
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065887796204593661.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thanh niên đứng trong phòng khách sạn, nhìn thẳng vào máy ảnh với biểu cảm điềm tĩnh.
+一名年輕男子站在酒店房間裡，表情平靜地直視鏡頭。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young man with brown hair and green eyes, wearing a gray t-shirt with a lapel microphone, standing in a hotel room with a TV and bed in the background, soft natural lighting
 ```
 
-### No. 300: Ảnh Chụp Màn Hình Trang Web GlobalGPT
+### No. 300: GlobalGPT 網站截圖
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Nayeem Sheikh
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nayeem Sheikh
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065888648491680202.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một ảnh chụp màn hình sống động của trang web GlobalGPT trưng bày các công cụ AI và một chương trình khuyến mãi.
+一張色彩鮮明的 GlobalGPT 網站截圖，展示了 AI 工具和促銷優惠。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
 ```
 
-### No. 301: Người Phụ Nữ Trong Váy Trắng
+### No. 301: 白衣女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** KeorUnreal
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc váy trắng và đeo kính tạo dáng thanh lịch trên chiếc ghế sofa màu tím trong một phòng khách phong cách.
+一位身穿白色連衣裙、戴著眼鏡的女子，優雅地坐在時尚客廳的紫色沙發上擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a beautiful woman with blonde hair and glasses, wearing a white satin dress and high heels, sitting on a purple couch in a modern living room, with a painting of an anime character on the wall, cinematic lighting, photorealistic
 ```
 
-### No. 302: Đại Lộ Paris Tan Chảy Như Đường Phèn
+### No. 302: 巴黎大道的冰糖詩意
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** マグマグ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** マグマグ
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065898537121185919.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả thi vị cho video về các đại lộ Paris biến đổi qua các mùa như đường phèn đang tan chảy.
+一個詩意的影片提示，描述巴黎大道如溶解的冰糖般隨季節變幻的景象。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Rock-sugar boulevards dissolving into syrup, the color deepening from winter grey to spring blossom to the amber of fallen leaves — ten seconds, Gemini Omni.
 ```
 
-### No. 303: Em Bé Đang Ngủ Trong Đồ Ren
+### No. 303: 蕾絲中的熟睡嬰兒
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** SabiBoI Joshua✍🏿.
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SabiBoI Joshua✍🏿.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một em bé sơ sinh ngủ yên bình, mặc bộ đồ ren trắng tinh tế và được điểm xuyết bằng một chiếc băng đô có ngọc trai.
+一名新生兒安詳地睡著，身穿精緻的白色蕾絲服裝，頭戴珍珠髮帶。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a sleeping newborn baby with dark skin, wearing a white lace dress and a pearl-embellished headband, lying on a soft white textured surface, soft lighting, photorealistic, 8k
 ```
 
-### No. 304: Bức Tranh Tường Chia Đôi Messi vs Mahrez Trong Trận Đấu
+### No. 304: 梅西對馬赫雷斯分割壁畫比賽日
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hendry Lim
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hendry Lim
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh điện ảnh siêu thực về bức tranh tường chia đôi có Messi và Mahrez với tỷ lệ khung hình vuông.
+一幅超寫實電影風格照片，描繪了以方形構圖呈現的梅西與馬赫雷斯分割壁畫。
 
-#### Prompt
+#### 提示詞
 
 ```text
 "MATCHDAY: MESSI vs MAHREZ" (Split Mural) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L lens, ISO 320
 ```
 
-### No. 305: Mô tả Nhân vật Nữ Trẻ Đông Á
+### No. 305: 東亞年輕女性主題描述
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Iqra Saifi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Iqra Saifi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một mô tả có cấu trúc về một phụ nữ trẻ Đông Á với biểu cảm điềm tĩnh, mãnh liệt và tư thế quay người.
+一個結構化的提示，描述一位表情平靜而專注、姿勢轉向的年輕東亞女性。
 
-#### Prompt
+#### 提示詞
 
 ```text
 "subject": {
@@ -6266,21 +6266,21 @@ Một mô tả có cấu trúc về một phụ nữ trẻ Đông Á với biể
       "pose": "Torso turned away from the camera, head"
 ```
 
-### No. 306: Tạo Ảnh Cảnh Sinh nhật Siêu thực
+### No. 306: 寫實生日場景圖像生成
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý JSON để tạo hình ảnh siêu thực của một cảnh sinh nhật tự nhiên với ngọn lửa và confetti.
+一個JSON格式的描述提示，用於生成一張寫實的生日場景圖像，畫面中有蠟燭火焰和五彩紙屑，風格自然。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -6290,221 +6290,221 @@ Một gợi ý JSON để tạo hình ảnh siêu thực của một cảnh sinh
 }
 ```
 
-### No. 307: Ảnh tự chụp từ trên xuống Cặp đôi Thời trang Đường phố
+### No. 307: 俯視情侶自拍街頭時尚
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh tự chụp từ trên xuống siêu thực của một cặp đôi thời trang dưới trần bê tông với phong cách thời trang đường phố tự nhiên.
+一張超寫實的俯視自拍，主角是一對時尚情侶，位於混凝土天花板下，呈現自然風格的街頭時尚美學。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic top-down couple selfie taken from above, stylish street-fashion aesthetic, cool candid vibe. A fashionable young couple stands close together under a textured concrete ceiling, looking up at the camera in a playful,
 ```
 
-### No. 308: Ảnh tự chụp Cặp đôi Lãng mạn tại Sự kiện Đêm
+### No. 308: 浪漫情侶夜間活動自拍
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho bức ảnh tự nhiên ấm áp, siêu thực của một cặp đôi tại một sự kiện ban đêm.
+一個描述提示，旨在生成一張超寫實、溫暖自然的情侶在夜間活動中的照片。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic romantic couple night-event selfie, real photograph, not illustration. Warm candid Instagram editorial aesthetic. Create a single close-up lifestyle photo of a handsome young man and a beautiful young woman together.
 ```
 
-### No. 309: Bộ ảnh tự chụp công chúa đại dương nhiệt đới lấy cảm hứng từ Moana
+### No. 309: 莫娜風格的熱帶海洋公主自拍拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bộ ảnh ghép dọc Instagram Story siêu thực gồm sáu khung hình tự nhiên, nhất quán với một phụ nữ trẻ mang phong cách công chúa đại dương nhiệt đới.
+一個寫實的垂直Instagram限時動態拼貼，包含六張自然風格的畫面，主角是一位風格一致的年輕女子，呈現熱帶海洋公主的美學。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic vertical Instagram Story style 3x2 selfie collage, six candid frames of the same beautiful young woman, consistent face and identity across every panel. Moana-inspired tropical ocean princess night-out aesthetic
 ```
 
-### No. 310: Góc nhìn Bảng Nhân vật Nhân viên Thu hồi Kho lưu trữ
+### No. 310: 檔案復原特工角色設定圖視圖
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Cortex Visual ・ AI Movies
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Cortex Visual ・ AI Movies
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo bảng nhân vật toàn thân với các góc nhìn trước, bên và sau của một nhân viên tác chiến khoa học viễn tưởng trong bộ giáp chiến thuật.
+一個描述提示，用於生成一名身穿戰術裝甲的科幻特工的全身角色設定圖，包含正面、側面和背面視圖。
 
-#### Prompt
+#### 提示詞
 
 ```text
 full body character sheet, front view, side view, back view, Archive Recovery Operative, realistic sci fi, white and dark gray tactical armor
 ```
 
-### No. 311: Sáu Chú chó Trắng với Đường viền Đen
+### No. 311: 六隻帶黑色輪廓的白狗
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Heather Green
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bộ sưu tập sáu chú chó trắng với đường viền đen đậm trên nền trắng đơn giản.
+六隻帶有粗黑輪廓的白狗，置於純白的背景上。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A collection of six white dogs with bold black outlines are scattered across a plain, bright white background, evenly spaced to create a balanced composition. Each dog is depicted in a different playful
 ```
 
-### No. 312: Nhân vật Sailor Moon trong Tư thế Thường ngày
+### No. 312: 休閒姿勢的美少女戰士角色
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Noname Oasis
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Noname Oasis
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ trẻ sống động mặc trang phục Sailor Moon với mái tóc vàng cát búi cao được trang trí, tạo dáng trên ghế bê tông trong làn gió nhẹ.
+一位栩栩如生的年輕女子，打扮成美少女戰士，淺棕色頭髮梳成裝飾性的髮髻，在微風中於水泥長凳上擺出姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 young woman dressed as Sailor Moon, incredibly lifelike thin clinging fabrics, her sandy-blonde hair in Usagi's signature decorated chignons, she is posing casually on a simple concrete bench in a soft breeze
 ```
 
-### No. 313: Chân dung Nghệ thuật từ Ảnh Mẫu
+### No. 313: 來自照片靈感的藝術肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Aiza
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo chân dung nghệ thuật bằng cách loại bỏ nền, quần áo và kiểu tóc trong khi vẫn giữ nguyên các đặc điểm khuôn mặt.
+一個生成藝術肖像的描述提示，要求移除背景、服裝和髮型，同時保留臉部特徵。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Using the person in the uploaded photo as our muse, we're removing all backgrounds, clothes, and hairstyles. The goal is to create an artistic piece while keeping all the original facial features and characteristics intact.
 ```
 
-### No. 314: Cuộc Trốn thoát Vụ cướp Bảo tàng
+### No. 314: 博物館劫案逃脫
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Digital Art Sensei
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Digital Art Sensei
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065966067646882049.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một tên trộm đu dây xuống sảnh lớn của bảo tàng chứa đầy cổ vật dưới một tia sáng đơn lẻ.
+一名竊賊順著繩索降下，穿過一個充滿古代文物、僅有一道光束照射的宏偉博物館大廳。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a masked thief in black gear rappelling down from a skylight in a dimly lit museum gallery with ancient statues on pedestals, dramatic lighting from above, cinematic atmosphere
 ```
 
-### No. 315: Nữ chiến binh tóc hồng trong đống đổ nát
+### No. 315: 廢墟中的粉髮戰士
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** shawn_maybush
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** shawn_maybush
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cô gái tóc hồng đứng hiên ngang trong thành phố bị tàn phá bởi chiến tranh dưới cơn mưa, đối mặt với một người khổng lồ cao lớn với đôi chân đầy hình xăm.
+一位粉髮女孩在雨淋的戰火殘破城市中，無畏地面對一個腿部有紋身的高聳巨人。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young girl with pink hair in a black school uniform holding a katana with a pink ribbon, standing between the massive legs of a giant figure covered in kanji tattoos, in a rain-soaked, destroyed city street at night, cinematic lighting, hyper-detailed, 8k
 ```
 
-### No. 316: Chân dung Siêu thực của Sadie Sink
+### No. 316: 莎蒂·辛克的寫實肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sadie 🥀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý chi tiết cho bức chân dung siêu thực của Sadie Sink với những giọt nước trên làn da rám nắng, ngồi trên ghế sofa trắng hiện đại.
+一個詳細的描述提示，旨在生成莎蒂·辛克的寫實肖像，她有著古銅色肌膚，皮膚上掛著水珠，坐在一張現代風格的白色沙發上。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A highly detailed, photorealistic portrait of a stunning young woman [Sadie Sink] with flawless tanned skin covered in glistening water droplets, sitting confidently on a white modern couch. She has long, straight
 ```
 
-### No. 317: Gợi ý Chi tiết Nhân vật Nữ
+### No. 317: 女性主體細節描述提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Virena
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý có cấu trúc mô tả chi tiết ngoại hình của một phụ nữ trẻ để tạo video.
+一個結構化的描述提示，詳細說明了用於影片生成的年輕女性外貌。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -6520,181 +6520,181 @@ Một gợi ý có cấu trúc mô tả chi tiết ngoại hình của một ph�
 }
 ```
 
-### No. 318: Bản phác tối giản trên giấy bìa xám đậm
+### No. 318: 深灰卡紙上的極簡素描
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Shirley Auspice
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shirley Auspice
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo bản phác tối giản với các đường nét táo bạo, biểu cảm và năng lượng thư pháp trên giấy bìa xám đậm.
+一個創作提示：在深灰色卡紙上，以粗獷、富有表現力的線條和書法般的能量，繪製一幅極簡素描。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a minimalist sketch on dark, cool-toned gray cardstock using a bold, expressive style. The lines are fluid and minimal, freely outlining the form with a wild, calligraphic energy. There is no shading or tonal gradation—only extensive
 ```
 
-### No. 319: Demo Hoạt hình Parallax
+### No. 319: 視差動畫演示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kuroyami
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kuroyami
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2065977526321832367.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thiết lập máy tính trình diễn hoạt hình parallax trên màn hình với một bàn tay đang tương tác với chuột.
+一個電腦裝置，螢幕上展示著視差動畫，一隻手正在操作滑鼠。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A modern desk setup with a sleek monitor displaying a serene architectural scene by water, a white keyboard, a hand using a mouse, and text overlay 'Claude Design Nano Banana GPT Image 2 Parallax Animations', soft lighting, realistic style
 ```
 
-### No. 320: Người hâm mộ bóng đá Tây Ban Nha
+### No. 320: 西班牙足球迷
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Giulia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ trẻ mặc trang phục màu đội tuyển quốc gia Tây Ban Nha thư giãn trên tấm thảm trong khi xem trận bóng đá trên TV.
+一位身穿西班牙國家隊顏色服裝的年輕女子，正悠閒地躺在地毯上觀看電視轉播的足球賽。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
 ```
 
-### No. 321: Người Đàn Ông Trên Con Đường Sa Mạc
+### No. 321: 沙漠公路上的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hassan👑
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hassan👑
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông đứng trên con đường sa mạc nứt nẻ dưới bầu trời hoàng hôn rực rỡ, tay cầm áo khoác với vẻ mặt nghiêm nghị.
+一名男子站在夕陽絢爛的天空下，一條龜裂的沙漠公路上，手抓外套，表情嚴肅。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
 ```
 
-### No. 322: Thành Phố Trong Đôi Mắt Cô Ấy
+### No. 322: 她眼中的城市
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** AI Sparks
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Sparks
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Kính râm của người phụ nữ phản chiếu cảnh quan thành phố tương lai phát sáng màu xanh lá, tạo nên sự tương phản thị giác nổi bật với đường nét mềm mại và áo khoác lông trắng của cô.
+一名女子的太陽眼鏡反射出一個發光的綠色未來城市景觀，與她柔和的五官及白色毛皮大衣形成鮮明對比。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
 ```
 
-### No. 323: Chân Dung Cổ Điển Của Messi Trong Bộ Vest
+### No. 323: 身著西裝的梅西復古肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo áp phích minh họa theo phong cách cổ điển của Lionel Messi mặc bộ vest xanh nước biển đậm và nơ sắc sảo.
+一個提示，用於創作一幅復古風格的梅西插畫海報，他身穿深藍色西裝與領結。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
 ```
 
-### No. 324: Chân Dung Siêu Chân Thực Của Một Người Phụ Nữ
+### No. 324: 超寫實女性肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Jarvis AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jarvis AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc chi tiết để tạo ra một bức chân dung siêu chân thực của một người phụ nữ với các đặc điểm khuôn mặt cụ thể.
+一個詳細的提示，用於生成一張具有特定面部特徵的超寫實女性肖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
 ```
 
-### No. 325: Bọc Video Trong Tính Chân Thực Hoặc Chân Thực Nhiếp Ảnh
+### No. 325: 以真實感或攝影寫實風格包裝影片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Martin Nebelong
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Martin Nebelong
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để nâng cao tính chân thực của video bằng cách bọc nó trong các đặc tính nhiếp ảnh hoặc chân thực.
+一個提示，旨在透過攝影或寫實風格包裝影片，以增強其真實感。
 
-#### Prompt
+#### 提示詞
 
 ```text
 "Wrap the video in realism" or "Wrap the video in the realism of the photograph"
 ```
 
-### No. 326: Chân Dung Thời Trang Cao Cấp Với Quả Bóng Đá
+### No. 326: 手持足球的高級時尚肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Kashberg
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kashberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức chân dung biên tập sống động như ảnh chụp của một phụ nữ trẻ châu Á cầm quả bóng đá Adidas, sử dụng khuôn mặt và kiểu tóc cụ thể.
+一張寫實的編輯肖像照，主角是一位手持愛迪達足球的年輕亞裔女性，採用特定的臉型與髮型。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use face and hair style from attached photo
@@ -6703,61 +6703,61 @@ pose: looking to camera from her shoulder
 shoot tecnic: 3/4 body
 ```
 
-### No. 327: Người Phụ Nữ Giữa Cánh Đồng Hoa Tulip
+### No. 327: 鬱金香花田中的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ đứng giữa cánh đồng hoa tulip hồng rực rỡ dưới ánh hoàng hôn vàng, khuôn mặt cô được ánh sáng ấm áp chiếu rọi.
+一名女子站在夕陽金輝下的粉色鬱金香花田中，溫暖的光芒照亮了她的臉龐。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
 ```
 
-### No. 328: Tranh Minh Họa Chúc May Mắn
+### No. 328: 祝你好運插畫
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** TechieSA
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức tranh biếm họa hài hước về một người đàn ông vô tình đập búa trúng tay mình, kèm dòng chữ 'Good Luck' và logo IKEA.
+一幅幽默的卡通畫，描繪一名男子意外用錘子敲到手，並附有「祝你好運」文字及 IKEA 標誌。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
 ```
 
-### No. 329: Lời Nhắc Hình Ảnh Nano Banana Pro
+### No. 329: 奈米香蕉專業圖像生成提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc JSON có cấu trúc để tạo hình ảnh với danh tính và ngoại hình chủ thể cụ thể.
+一個結構化的 JSON 提示，用於生成具有特定主體身份與外觀的圖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -6770,261 +6770,261 @@ Một lời nhắc JSON có cấu trúc để tạo hình ảnh với danh tính
         "expression": "Soft natural smile with calm dreamy eyes, warm"
 ```
 
-### No. 330: Phương Tiện Liên Bang Tương Lai
+### No. 330: 未來聯邦車輛
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phương tiện quân sự bọc thép hạng nặng đứng trong thành phố tương lai ướt đẫm mưa, cùng những người lính và các tòa nhà chọc trời.
+一輛重裝甲軍用車輛停駐在雨中的未來都市，周圍有士兵與高聳的建築。
 
-#### Prompt
+#### 提示詞
 
 ```text
 futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
 ```
 
-### No. 331: Cống Dẫn Nước Trên Tầng Sương
+### No. 331: 迷霧之上的水道
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thành phố bằng gỗ kỳ ảo được xây dựng phía trên hẻm núi sông đầy sương mù, với những chiếc đèn lồng phát sáng và những cây cầu tinh xảo.
+一座奇幻的木造城市，建於迷霧繚繞的河峽之上，點綴著發光的燈籠與精緻的橋樑。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
 ```
 
-### No. 332: Ảnh Phong Cách Paparazzi Của Bạn Gái Tỷ Phú
+### No. 332: 狗仔隊風格的億萬富翁女友照片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 𝗦𝗮𝗻𝗶𝗮
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝗦𝗮𝗻𝗶𝗮
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh biên tập siêu thực theo phong cách paparazzi chụp cảnh bạn gái tỷ phú đang bước ra từ một khách sạn sang trọng.
+一張超現實的狗仔隊風格編輯照片，捕捉一位億萬富翁女友步出豪華酒店的瞬間。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
 ```
 
-### No. 333: Thư giãn ở khu nghỉ dưỡng bãi biển
+### No. 333: 海灘度假村休閒時光
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sophia | AI Artist ✨
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc bikini hoa nằm thư giãn trên ghế tắm nắng tại khu nghỉ dưỡng nhiệt đới với cây cọ và những căn nhà lợp mái tranh ở phía sau.
+一位身穿花卉比基尼的女子躺在熱帶度假村的日光浴床上，背景是棕櫚樹和茅草屋頂的小屋。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
 ```
 
-### No. 334: Thánh Địa Nấm Phát Sáng
+### No. 334: 發光真菌聖殿
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Artingent
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thế giới sinh học punk thu nhỏ nghệ thuật, nơi các nhà giả kim trồng nấm phát sáng và chế biến các phương thuốc thực vật trong một vùng tròn nổi lơ lửng được làm thủ công, đầy khí chất.
+一個微型藝術生物龐克世界，煉金術士在其中培育發光真菌並準備植物藥劑，場景為手工製作、氛圍濃厚的圓形漂浮領域。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
 ```
 
-### No. 335: Gợi Ý Chân Dung U Sầu Thực Vật
+### No. 335: 植物憂鬱肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** timedoctor.eth
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý chân dung siêu thực với nhân vật chính trong khoảnh khắc bình yên sau biến cố, đối diện bức tường dày đặc.
+一個超寫實肖像提示：主角在平靜的餘波中，背靠一面密集的牆。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
 ```
 
-### No. 336: Cận Cảnh Bò Sát Màu Xanh
+### No. 336: 藍色爬蟲類特寫
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Flyover Base
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Flyover Base
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh cận của sinh vật bò sát màu xanh với đôi mắt vàng nổi bật trong bối cảnh kỳ ảo.
+一隻藍色爬蟲類生物的特寫，擁有引人注目的黃色眼睛，置身於奇幻場景中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
 ```
 
-### No. 337: Chân Dung Điện Ảnh Trên Cầu Thang Đô Thị
+### No. 337: 都市階梯上的電影感肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Heisenberg
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heisenberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức chân dung điện ảnh siêu thực của một chàng trai trẻ đeo kính ngồi trên bậc thang bê tông vào ban đêm, mặc toàn đồ đen.
+一張超寫實的電影感肖像：一位戴眼鏡的年輕男子夜間坐在混凝土階梯上，身著全黑裝束。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
 ```
 
-### No. 338: Chân Dung Studio Trẻ Em Mặc Áo Bóng Đá
+### No. 338: 穿著足球球衣的兒童攝影棚肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Aijaz
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo chân dung studio chuyên nghiệp của một đứa trẻ nhỏ mặc áo bóng đá quốc tế.
+一個生成專業攝影棚肖像的提示：一位身穿國際足球隊球衣的幼童。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
 ```
 
-### No. 339: Cầu Dẫn Nước Trên Làn Sương
+### No. 339: 迷霧之上的水道
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** sayobonita
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sayobonita
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một thành phố nổi kỳ ảo với những cầu dẫn nước và cây cầu bằng gỗ trên mặt nước đầy sương vào lúc hoàng hôn.
+一座奇幻的漂浮城市，擁有木製水道和橋樑，橫跨暮色中的迷霧水域。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
 ```
 
-### No. 340: Ảnh Thực Tế Về Bản Thân Thu Nhỏ Kiểu Đồ Chơi
+### No. 340: 迷你玩具自我寫實照片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ATHARI_ALF
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ATHARI_ALF
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo bức ảnh thực tế về một người đang cầm phiên bản đồ chơi thu nhỏ của chính họ.
+一個創造寫實照片的提示：一個人拿著一個迷你玩具版的自己。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
 ```
 
-### No. 341: Ảnh Thực Tế Về Bản Thân Thu Nhỏ Kiểu Đồ Chơi
+### No. 341: 迷你玩具自我寫實照片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ATHARI_ALF
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ATHARI_ALF
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo bức ảnh thực tế về một người đang cầm phiên bản đồ chơi nhỏ bé kiểu Pixar của chính họ.
+一個創造寫實照片的提示：一個人拿著一個皮克斯風格的迷你玩具版自己。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
 ```
 
-### No. 342: Tổng hợp thể thao điện ảnh siêu thực về Messi
+### No. 342: 超現實梅西電影感運動合成影像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hendry Lim
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hendry Lim
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh tổng hợp thể thao điện ảnh siêu thực, với chân dung anh hùng và bộ ba hành động của Messi, được chụp bằng Canon.
+一張超現實、充滿電影感的運動攝影合成作品，以英雄肖像和三人動作組合呈現梅西，使用佳能相機拍攝。
 
-#### Prompt
+#### 提示詞
 
 ```text
 MESSI: PEAK (Hero Portrait + Action Trio)
@@ -7032,81 +7032,81 @@ Aspect ratio: 3:4 (vertical)
 A hyper-realistic cinematic sports photograph composite, shot on Canon
 ```
 
-### No. 343: Ảnh Tự Sướng Trong Gương Ở Phòng Ốp Gỗ
+### No. 343: 木質裝潢房間中的鏡面自拍
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sadie 🥀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo video về một cô gái trẻ với mái tóc nâu đậm tự tin chụp ảnh tự sướng trong khung cảnh sang trọng.
+一個影片生成提示：一位深棕色頭髮的年輕女子在優雅環境中自信地進行鏡面自拍。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
 ```
 
-### No. 344: Người Đàn Ông Tựa Vào Tường Đá Granite
+### No. 344: 倚靠花崗岩牆的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Picts by AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo video về một người đàn ông đẹp trai, cân đối tự tin tựa lưng vào bức tường đá granite phong hóa.
+一個影片生成提示：一位英俊、健壯的男子自信地倚靠著一面風化的花崗岩牆。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
 ```
 
-### No. 345: Công Cụ AI Của Google 2026
+### No. 345: 2026年谷歌AI工具
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Omor Faruk
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Omor Faruk
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một danh sách minh họa 22 công cụ AI của Google với linh vật robot tương lai và các yếu tố kỹ thuật số.
+一份包含22個谷歌AI工具的插圖列表，配有未來感機器人吉祥物和數位元素。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
 ```
 
-### No. 346: Cảnh Studio Thời Trang Cao Cấp
+### No. 346: 高端時尚攝影棚場景
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý cho cảnh studio thời trang tối giản với phông nền trắng sạch sẽ.
+一個極簡風格的時尚攝影棚場景提示，包含純白色背景。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7117,161 +7117,161 @@ Một gợi ý cho cảnh studio thời trang tối giản với phông nền tr
 }
 ```
 
-### No. 347: Máy bay trên đám mây
+### No. 347: 雲端上的飛機
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** İbrahim Feyzullayev
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** İbrahim Feyzullayev
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chiếc máy bay thương mại bay trên biển mây trong hoàng hôn vàng rực.
+一架商用客機在金色夕陽下，翱翔於雲海之上。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
 ```
 
-### No. 348: Bản Demo Video Gemini Omni
+### No. 348: Gemini Omni 影片演示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Signal Lab
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Signal Lab
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một giao diện kỹ thuật số tương lai thể hiện mô hình AI Gemini Omni của Google chuyển đổi đầu vào thành nội dung video.
+一個未來主義的數位介面，展示Google的Gemini Omni AI模型將輸入內容轉換為影片內容。
 
-#### Prompt
+#### 提示詞
 
 ```text
 dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
 ```
 
-### No. 349: Ảnh Đồ Chơi Tí Hon Phong Cách Pixar
+### No. 349: 皮克斯風格微型玩具自拍照片
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 𝓨𝓞𝓤𝓢𝓔𝓕
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức ảnh chân thực về một người đang cầm phiên bản đồ chơi tí hon phong cách Pixar của chính họ.
+一張真實照片，描繪一個人拿著一個微型的皮克斯風格玩具版的自己。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
 ```
 
-### No. 350: Bức Ghép Người Phụ Nữ Cầm Micro
+### No. 350: 手持麥克風的女子拼貼
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Victoria Chimnaza Sunday.
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Victoria Chimnaza Sunday.
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ cầm micro màu hồng xuất hiện trong nhiều khung hình chồng chéo trong một căn phòng hiện đại có kệ sách.
+一位手持粉色麥克風的女子出現在現代房間書架旁的多個重疊畫框中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
 ```
 
-### No. 351: Áp Phích Trận Đấu World Cup Brazil vs Đức
+### No. 351: 世界盃巴西對德國比賽海報
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Jahan Zaib
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jahan Zaib
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý điện ảnh chi tiết cho áp phích thể thao dọc mô tả trận đấu huyền thoại giữa Brazil và Đức tại World Cup.
+一個詳細的電影感提示，用於創作描繪傳奇的巴西對德國世界盃對決的垂直運動海報。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
 ```
 
-### No. 352: Cô Gái Tóc Vàng Mặc Áo Họa Tiết
+### No. 352: 身穿圖案上衣的金髮女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc áo croptop nhiều màu sắc và quần jeans tạo dáng trước bức tường trung tính.
+一位身穿彩色短版上衣和牛仔褲的女子在中性色調的牆壁前擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
 ```
 
-### No. 353: Chân Dung Nửa Mặt Nửa Quả Bóng Đá
+### No. 353: 半臉半足球肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Shams
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shams
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức chân dung chân thực hợp nhất một nửa khuôn mặt cầu thủ với một nửa quả bóng đá.
+一幅將球員臉龐與半個足球融合的寫實肖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
 ```
 
-### No. 354: Gợi ý Cảnh Thời Trang Trong Studio Tối Giản
+### No. 354: 極簡工作室時尚場景提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý có cấu trúc để tạo ra video thời trang chỉnh chu, biên tập trong bối cảnh studio trong nhà tối giản.
+一個結構化的提示，用於在極簡的室內工作室環境中生成乾淨、具編輯感的時尚影片。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7283,201 +7283,201 @@ Một gợi ý có cấu trúc để tạo ra video thời trang chỉnh chu, bi
 }
 ```
 
-### No. 355: Thẻ Bài Golem Pha Lê
+### No. 355: 水晶魔像卡牌
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Nick
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nick
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Hai thẻ bài kỹ thuật số phong cách Pokémon thể hiện quá trình tiến hóa của sinh vật golem pha lê với các chỉ số và khả năng chi tiết.
+兩張數位寶可夢風格卡牌，展示了一隻水晶魔像生物的進化，並附有詳細的狀態和能力。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
 ```
 
-### No. 356: Gợi ý Poster Phong Cách Hoa Cổ Điển
+### No. 356: 復古花之力量海報提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minuit
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minuit
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra poster phong cách hippie ảo giác thập niên 1960-1970 với khẩu hiệu MAKE LOVE NOT WAR (HÃY YÊU THƯƠNG, ĐỪNG CHIẾN TRANH).
+一個用於創作帶有「MAKE LOVE NOT WAR」標語的迷幻1960-1970年代嬉皮海報的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
 ```
 
-### No. 357: Chân Dung Trang Phục Y Tá
+### No. 357: 護士裝扮肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** glena Jenner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc trang phục y tá tạo dáng trong khi đang đeo găng tay màu xanh dương.
+一位身穿護士裝的女子在戴上藍色手套時擺姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
 ```
 
-### No. 358: Người Phụ Nữ Mặc Áo Đấu Màu Cam
+### No. 358: 身穿橙色球衣的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Giulia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc áo đấu bóng đá Hà Lan tạo dáng vui tươi trước nền đỏ, dùng tay tạo khung hình.
+一位身穿荷蘭足球球衣的女子在紅色背景前俏皮地擺姿勢，雙手做出取景的手勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
 ```
 
-### No. 359: Họa Sĩ Robot Vẽ Tranh
+### No. 359: 機器人藝術家繪畫
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** NewsTongue
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NewsTongue
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một họa sĩ robot vẽ phiên bản hiện đại của bức 'Đêm Đầy Sao' với dòng chữ 'REVE 2.0' trên toan trong một xưởng vẽ cổ điển.
+一位機器人藝術家在復古工作室中繪製一幅現代版的《星夜》，畫布上寫著「REVE 2.0」。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
 ```
 
-### No. 360: Gợi ý Chân Dung Điện Ảnh Võ Sĩ Mòn Mỏi Sau Trận Chiến
+### No. 360: 歷經戰火的鬥士電影感肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Ahmad Faraz
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ahmad Faraz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra chân dung cận cảnh siêu thực của một võ sĩ nam mệt mỏi, cởi trần.
+一個用於生成疲憊不堪、赤裸上身的男性鬥士超寫實特寫肖像的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
 ```
 
-### No. 361: Người Phụ Nữ Trên Du Thuyền
+### No. 361: 遊艇上的女子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sophia | AI Artist ✨
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một phụ nữ mặc đồ bơi màu xanh dương đứng trên du thuyền, ngoảnh nhìn qua vai với biển cả phía sau.
+一位身穿藍色泳衣的女子站在遊艇上，回頭凝望，身後是海洋。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
 ```
 
-### No. 362: Nữ Thần Sứ
+### No. 362: 瓷器女神
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** timedoctor.eth
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ xuất hiện từ những mảnh sứ vỡ được hàn gắn bằng vàng, tượng trưng cho vẻ đẹp trong sự tan vỡ.
+一位女子從破碎的瓷器中浮現，帶有金色的修復痕跡，象徵著破碎中的美麗。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
 ```
 
-### No. 363: Hình Ảnh Phản Chiếu Tiệm Cắt Tóc
+### No. 363: 理髮廳鏡中倒影
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hassan👑
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hassan👑
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông có hình xăm ngồi trên ghế cắt tóc, hình ảnh phản chiếu của anh ta có thể nhìn thấy trong gương khi thợ cắt tóc đứng phía sau anh trong bối cảnh tiệm cắt tóc cổ điển.
+一名有刺青的男子坐在理髮椅上，其倒影映照在鏡中，理髮師則站在他身後，呈現經典理髮廳場景。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
 ```
 
-### No. 364: Lời Nhắc Khuôn Mặt Hình Trái Tim Của Sydney Sweeney
+### No. 364: 雪梨·史威尼心形臉龐提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Pinodi
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc có cấu trúc để tạo video về Sydney Sweeney với khuôn mặt hình trái tim.
+一個用於生成雪梨·史威尼擁有心形臉龐影片的結構化提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7490,21 +7490,21 @@ Một lời nhắc có cấu trúc để tạo video về Sydney Sweeney với k
 }
 ```
 
-### No. 365: Lời Nhắc Thời Trang Corset Nhung Đen
+### No. 365: 黑色天鵝絨緊身胸衣時尚提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc thời trang chi tiết chỉ định một chiếc áo corset nhung đen với chi tiết dây chuyền bạc và mái tóc dài đen gợn sóng.
+一個詳細的時尚提示，指定黑色天鵝絨緊身胸衣上衣搭配銀色鏈條細節與深色長波浪髮型。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7513,41 +7513,41 @@ Một lời nhắc thời trang chi tiết chỉ định một chiếc áo corse
 }
 ```
 
-### No. 366: Mặt Đá Với Chiếc Đồng Hồ Tan Chảy
+### No. 366: 石面與融化時鐘
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Jason Heaton
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jason Heaton
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một hình ảnh siêu thực về một khuôn mặt bằng đá với chiếc đồng hồ đang tan chảy trong một cầu thang xoắn ốc tối tăm.
+一個超現實圖像，描繪一張石面與融化時鐘，位於黑暗螺旋樓梯中。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
 ```
 
-### No. 367: Chân Dung Thời Trang Biên Tập Với Váy Màu Ngà
+### No. 367: 編輯時尚肖像與象牙色禮服
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc cho một bức chân dung thời trang biên tập có hình ảnh một người mẫu tự tin trong một chiếc váy slip satin ngà có cấu trúc.
+一個用於生成編輯時尚肖像的提示，以一名自信模特兒身穿結構化象牙色緞面襯裙禮服為特色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7556,41 +7556,41 @@ Một lời nhắc cho một bức chân dung thời trang biên tập có hình
 }
 ```
 
-### No. 368: Người Đàn Ông Trong Công Trình Gỗ
+### No. 368: 木造結構中的男子
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Khlaseek designer
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Khlaseek designer
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông đứng tự tin trong một tòa nhà bằng gỗ có ánh nắng, mặc blazer và áo sơ mi tối màu.
+一名男子自信地站立在陽光照射的木造建築中，身穿深色西裝外套與襯衫。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
 ```
 
-### No. 369: Biên Tập Chuyển Động Khiêu Vũ Trong Studio Đỏ Thẫm
+### No. 369: 深紅色工作室舞蹈動態編輯
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để tạo một lưới 3x3 về một người phụ nữ mặc corset nhung đen thực hiện các chuyển động khiêu vũ tự nhiên trong một studio màu đỏ thẫm.
+一個用於生成3x3網格的提示，展示一名身穿黑色天鵝絨緊身胸衣的女子在深紅色工作室中進行自然舞蹈動作。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7599,21 +7599,21 @@ Một lời nhắc để tạo một lưới 3x3 về một người phụ nữ 
 }
 ```
 
-### No. 370: Lưới Biên Tập Chuyển Động Khiêu Vũ Thời Trang Cao Cấp
+### No. 370: 高級時尚舞蹈動態編輯排版網格
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Özge Döner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc cho một lưới contact sheet 3x3 có cùng một người phụ nữ trong studio màu đỏ thẫm, thực hiện các chuyển động khiêu vũ thời trang cao cấp.
+一個用於生成3x3排版網格的提示，展示同一名女子在深紅色工作室中進行高級時尚舞蹈動作。
 
-#### Prompt
+#### 提示詞
 
 ```text
 {
@@ -7622,447 +7622,447 @@ Một lời nhắc cho một lưới contact sheet 3x3 có cùng một người 
 }
 ```
 
-### No. 371: Những Quả Cầu Phát Sáng Trong Bóng Tối
+### No. 371: 黑暗中的發光球體
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** N Creates AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** N Creates AI
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cảnh tối có hai quả cầu phát sáng ấm áp, mềm mại tạo nên hiệu ứng hình ảnh trừu tượng và tối giản.
+一個黑暗場景，以兩個柔和溫暖的發光球體創造極簡抽象的視覺效果。
 
-#### Prompt
+#### 提示詞
 
 ```text
 dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
 ```
 
-### No. 372: Khung Cảnh Tượng Anime
+### No. 372: 動漫人偶場景模型
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Gadgetify
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Bốn cảnh tượng hành động anime chi tiết cao, thể hiện những trận chiến biểu tượng từ Dragon Ball, Naruto, One Piece và Bleach.
+四個高細節動漫動作人偶場景，展示來自《七龍珠》、《火影忍者》、《航海王》與《死神》的經典戰鬥。
 
-#### Prompt
+#### 提示詞
 
 ```text
 four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
 ```
 
-### No. 373: Sydney Sweeney Người Ý Đang Ăn - Cảnh Quay Nghiệp Dư
+### No. 373: 義大利風雪梨·史威尼吃東西業餘鏡頭
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** KeorUnreal
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc cho một video nghiệp dư chất lượng thấp, mờ nhẹ, quay bằng iPhone về cảnh Sydney Sweeney đang ăn.
+一個用於生成雪梨·史威尼吃東西的、細微模糊低畫質業餘iPhone影片的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
 ```
 
-### No. 374: Ánh Sáng AI Gemini Omni
+### No. 374: Gemini Omni AI 燈光
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** CHRIS FIRST
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người đàn ông mặc áo thun trắng và đội mũ lưỡi trai cầm micro với lớp chữ chồng lên quảng bá Ánh Sáng Studio AI Gemini Omni.
+一名身穿白色T恤與帽子的男子手持麥克風，畫面疊加文字宣傳 Gemini Omni AI 工作室燈光。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
 ```
 
-### No. 375: Thay Thế Nền Cho Người Sáng Tạo Nội Dung Chuyên Nghiệp
+### No. 375: 專業內容創作者背景替換
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** CHRIS FIRST
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Thay thế nền bằng một thiết lập bàn làm việc cao cấp dành cho người ảnh hưởng công nghệ.
+將背景替換為科技網紅使用的高端桌面配置。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
 ```
 
-### No. 376: Lời Nhắc Thay Thế Nền Cho Người Ảnh Hưởng Wellness
+### No. 376: 健康網紅背景替換提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** CHRIS FIRST
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để thay thế nền của chủ thể bằng một phông nền chuyên nghiệp dành cho người ảnh hưởng về sắc đẹp và lối sống, có nội thất sạch sẽ và ánh sáng ấm áp.
+一個將主體背景替換為專業美容與生活風格網紅背景的提示，以潔淨室內空間與溫暖燈光為特色。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
 ```
 
-### No. 377: Thay Thế Nền Phim Trường Chuyên Nghiệp
+### No. 377: 專業電影工作室背景替換
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** CHRIS FIRST
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một lời nhắc để thay thế nền của chủ thể bằng một môi trường phim trường chuyên nghiệp mềm mại, ngoài tiêu cự.
+一個將主體背景替換為柔和、失焦的專業電影工作室環境的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
 ```
 
-### No. 378: Nữ Chiến Binh Thành Phố Mưa
+### No. 378: 雨城戰士
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** shawn_maybush
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** shawn_maybush
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một cô gái trong đồng phục học sinh vung kiếm trong khung cảnh thành phố tương lai ngập mưa.
+一位身穿校服的女孩在雨濛濛的未來都市景觀中揮舞著劍。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
 ```
 
-### No. 379: Lễ Mừng Chiến Thắng Coca-Cola
+### No. 379: 可口可樂勝利慶祝
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** SaaS Junction ✦ Daily AI News & Prompts
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chiếc cúp được làm từ lon Coca-Cola ăn mừng chiến thắng với giấy bóng màu và tia lửa.
+一座由可口可樂罐製成的獎盃，伴隨著五彩紙屑和火花，慶祝勝利。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
 ```
 
-### No. 380: Cúp Thế Giới LEGO
+### No. 380: 樂高世界盃獎盃
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** SaaS Junction ✦ Daily AI News & Prompts
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Chiếc cúp vàng LEGO World Cup với giấy bóng màu và ánh sáng lấp lánh, quảng bá cho chiến dịch xây dựng ước mơ.
+一座金色的樂高世界盃獎盃，周圍有五彩紙屑和閃光，宣傳一場築夢活動。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
 ```
 
-### No. 381: Cưỡi Rồng Xanh
+### No. 381: 騎乘藍色巨龍
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Rendar AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Rendar AI
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một kỵ sĩ bay lượn trên một hòn đảo nhiệt đới trên lưng một con rồng xanh hùng vĩ, với những thác nước tuôn trào và vùng biển ngọc lam bên dưới.
+一位騎手駕馭著雄偉的藍色巨龍翱翔於熱帶島嶼上空，下方是層疊的瀑布和碧綠的海水。
 
-#### Prompt
+#### 提示詞
 
 ```text
 first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
 ```
 
-### No. 382: Bức Phác Chì Than Chì Chân Dung Đôi
+### No. 382: 石墨鉛筆素描雙人肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Minahil
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một bức phác chi tiết bằng bút chì than chì của một người đàn ông và một người phụ nữ đặt cạnh nhau trên giấy cổ điển.
+一幅在復古紙張上繪製的男女並排的細膩石墨鉛筆素描。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
 ```
 
-### No. 383: Chân Dung Điện Ảnh Cao Bồi Ngoài Vòng Pháp Luật
+### No. 383: 亡命牛仔電影感肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** WeWant Mars
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** WeWant Mars
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một chân dung điện ảnh về một tay cao bồi ngoài vòng pháp luật gồ ghề trong hoàng hôn trên vỉa hè bụi bặm của miền Tây cũ.
+一位粗獷的亡命牛仔在日落時分於塵土飛揚的舊西部木板路上的電影感肖像。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
 ```
 
-### No. 384: Người phụ nữ trên giường vào ban đêm
+### No. 384: 夜晚在床上的女性
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Niharika Nm
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Niharika Nm
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ thư giãn trên giường dưới chiếc chăn màu hồng, được chiếu sáng bởi ánh đèn ngủ ấm áp.
+一位女性蓋著粉色毯子在床上放鬆，床頭燈散發出溫暖的光芒。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
 ```
 
-### No. 385: Ra Mắt Pixel Drop
+### No. 385: Pixel Drop 功能發布
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** AIVAnet
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AIVAnet
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Hình ảnh quảng bá cho tính năng Pixel Drop của Google với các phản ứng trên màn hình.
+Google Pixel Drop 功能的宣傳圖片，帶有螢幕反應效果。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
 ```
 
-### No. 386: Thiết Kế Đồ Họa Phong Cổ Điển với Thông Điệp 'Năng Lượng Tốt, Thủy Triều Cao'
+### No. 386: 美好氛圍 高潮迭起 復古圖形設計
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Heather Green
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra đồ họa hình tròn theo phong cách cổ điển với hình ảnh hoàng hôn trên biển và chữ được làm cho có vẻ cũ.
+一個用於創建圓形復古風格圖形的提示，包含海洋日落景象和做舊文字。
 
-#### Prompt
+#### 提示詞
 
 ```text
 A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
 ```
 
-### No. 387: Tham Chiếu Nhận Dạng Chân Dung Biên Tập Thời Trang Cao Cấp
+### No. 387: 高級時尚編輯肖像身份參考
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Soaima
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Soaima
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra chân dung siêu thực bảo toàn chính xác nhận dạng khuôn mặt từ một bức ảnh tham chiếu.
+一個用於生成超寫實肖像的提示，要求從參考照片中精確保留面部身份特徵。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
 ```
 
-### No. 388: Chân Dung Thời Trang Đơn Sắc của Một Nàng Thơ Tối Giản
+### No. 388: 極簡繆思的單色時尚肖像
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Virena
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý chân dung nghệ thuật đơn sắc cho một phụ nữ thanh lịch với các đặc điểm khuôn mặt cụ thể.
+一個為優雅女性創作的單色藝術肖像提示，包含特定面部特徵描述。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
 ```
 
-### No. 389: Bộ trang phục hoa văn thanh lịch
+### No. 389: 優雅花卉套裝
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Wandering Corner
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Wandering Corner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ tạo dáng trong bộ trang phục màu be có hoa văn thời thượng với váy dài ngắn hai tầng và áo trễ vai.
+一位女性穿著時尚的米色花卉服裝，搭配高低裙和不對稱露肩上衣擺出姿勢。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
 ```
 
-### No. 390: Gợi ý chân dung điện thoại thông minh siêu thực
+### No. 390: 超寫實智慧型手機肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Aiza
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra bức ảnh chân dung ngẫu nhiên bằng điện thoại thông minh của một phụ nữ trẻ với mái tóc gợn sóng và đeo kính.
+一個用於生成年輕女性捲髮戴眼鏡的隨性手機照片的提示。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
 ```
 
-### No. 391: Gợi ý Chân Dung Tranh Màu Nước Siêu Thực
+### No. 391: 超寫實水彩肖像提示
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Anaya Ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anaya Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một gợi ý để tạo ra chân dung theo phong cách hiện thực màu nước độ phân giải cao với yêu cầu bảo toàn nghiêm ngặt nhận dạng từ hình ảnh tham chiếu.
+一個用於創建高解析度水彩寫實肖像的提示，嚴格要求根據參考圖像保留身份特徵。
 
-#### Prompt
+#### 提示詞
 
 ```text
 Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
 ```
 
-### No. 392: Người phụ nữ trong trang phục thường ngày
+### No. 392: 休閒裝扮的女性
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Zara
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem]()
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zara
+- **語言:** `zh-TW`
+- **影片:** [查看]()
 
 <video src="" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### 描述
 
-Một người phụ nữ tạo dáng tự tin trong chiếc áo ba lỗ màu đen và quần màu kem, ngồi trên ghế đẩu trắng trước phông nền đơn giản.
+一位女性自信地擺出姿勢，身著黑色背心和米色長褲，坐在白色凳子上，背景簡潔。
 
-#### Prompt
+#### 提示詞
 
 ```text
 a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
-README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.
+此 README 由 `data/prompts_by_locale` 資料自動生成。
 
 ## More Atlas Cloud Tools
 

@@ -403,21 +403,21 @@ const trTR = {
 
 const locales = [
   { code: "en-US", fileName: "README.md", label: "English", dateLocale: "en-US", strings: en },
-  { code: "zh-CN", fileName: "README_zh.md", label: "简体中文", dateLocale: "zh-CN", strings: zh },
-  { code: "zh-TW", fileName: "README_zh-TW.md", label: "繁體中文", dateLocale: "zh-TW", strings: zhTW },
-  { code: "ja-JP", fileName: "README_ja-JP.md", label: "日本語", dateLocale: "ja-JP", strings: jaJP },
-  { code: "ko-KR", fileName: "README_ko-KR.md", label: "한국어", dateLocale: "ko-KR", strings: koKR },
-  { code: "th-TH", fileName: "README_th-TH.md", label: "ไทย", dateLocale: "th-TH", strings: thTH },
-  { code: "vi-VN", fileName: "README_vi-VN.md", label: "Tiếng Việt", dateLocale: "vi-VN", strings: viVN },
-  { code: "hi-IN", fileName: "README_hi-IN.md", label: "हिन्दी", dateLocale: "hi-IN", strings: hiIN },
-  { code: "es-ES", fileName: "README_es-ES.md", label: "Español", dateLocale: "es-ES", strings: es },
-  { code: "es-419", fileName: "README_es-419.md", label: "Español (Latinoamérica)", dateLocale: "es-419", strings: es },
-  { code: "de-DE", fileName: "README_de-DE.md", label: "Deutsch", dateLocale: "de-DE", strings: deDE },
-  { code: "fr-FR", fileName: "README_fr-FR.md", label: "Français", dateLocale: "fr-FR", strings: frFR },
-  { code: "it-IT", fileName: "README_it-IT.md", label: "Italiano", dateLocale: "it-IT", strings: itIT },
-  { code: "pt-BR", fileName: "README_pt-BR.md", label: "Português (Brasil)", dateLocale: "pt-BR", strings: pt },
-  { code: "pt-PT", fileName: "README_pt-PT.md", label: "Português", dateLocale: "pt-PT", strings: pt },
-  { code: "tr-TR", fileName: "README_tr-TR.md", label: "Türkçe", dateLocale: "tr-TR", strings: trTR },
+  { code: "zh-CN", fileName: "i18n/README_zh.md", label: "简体中文", dateLocale: "zh-CN", strings: zh },
+  { code: "zh-TW", fileName: "i18n/README_zh-TW.md", label: "繁體中文", dateLocale: "zh-TW", strings: zhTW },
+  { code: "ja-JP", fileName: "i18n/README_ja-JP.md", label: "日本語", dateLocale: "ja-JP", strings: jaJP },
+  { code: "ko-KR", fileName: "i18n/README_ko-KR.md", label: "한국어", dateLocale: "ko-KR", strings: koKR },
+  { code: "th-TH", fileName: "i18n/README_th-TH.md", label: "ไทย", dateLocale: "th-TH", strings: thTH },
+  { code: "vi-VN", fileName: "i18n/README_vi-VN.md", label: "Tiếng Việt", dateLocale: "vi-VN", strings: viVN },
+  { code: "hi-IN", fileName: "i18n/README_hi-IN.md", label: "हिन्दी", dateLocale: "hi-IN", strings: hiIN },
+  { code: "es-ES", fileName: "i18n/README_es-ES.md", label: "Español", dateLocale: "es-ES", strings: es },
+  { code: "es-419", fileName: "i18n/README_es-419.md", label: "Español (Latinoamérica)", dateLocale: "es-419", strings: es },
+  { code: "de-DE", fileName: "i18n/README_de-DE.md", label: "Deutsch", dateLocale: "de-DE", strings: deDE },
+  { code: "fr-FR", fileName: "i18n/README_fr-FR.md", label: "Français", dateLocale: "fr-FR", strings: frFR },
+  { code: "it-IT", fileName: "i18n/README_it-IT.md", label: "Italiano", dateLocale: "it-IT", strings: itIT },
+  { code: "pt-BR", fileName: "i18n/README_pt-BR.md", label: "Português (Brasil)", dateLocale: "pt-BR", strings: pt },
+  { code: "pt-PT", fileName: "i18n/README_pt-PT.md", label: "Português", dateLocale: "pt-PT", strings: pt },
+  { code: "tr-TR", fileName: "i18n/README_tr-TR.md", label: "Türkçe", dateLocale: "tr-TR", strings: trTR },
 ];
 
 function escapeHtml(value) {
@@ -455,7 +455,7 @@ function renderHeader(locale, prompts) {
 
   const otherLanguages = locales
     .filter((item) => item.code !== locale.code)
-    .map((item) => `[${item.label}](./${item.fileName})`)
+    .map((item) => `[${item.label}](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts/blob/main/${item.fileName})`)
     .join(" | ");
 
   return [
@@ -600,7 +600,9 @@ async function main() {
   for (const locale of locales) {
     const prompts = await loadLocalePrompts(locale.code);
     const output = `${renderHeader(locale, prompts)}\n${renderBody(locale, prompts)}\n`;
-    await fs.writeFile(path.join(root, locale.fileName), output, "utf8");
+    const outPath = path.join(root, locale.fileName);
+    await fs.mkdir(path.dirname(outPath), { recursive: true });
+    await fs.writeFile(outPath, output, "utf8");
     console.log(`Generated ${locale.fileName}`);
   }
 }

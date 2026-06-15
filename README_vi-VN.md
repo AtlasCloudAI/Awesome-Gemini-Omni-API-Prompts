@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,9 +23,9 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 320 |
+| Tong so Prompt | 392 |
 | So danh muc | 8 |
-| So video xem truoc | 142 |
+| So video xem truoc | 154 |
 | Cap nhat lan cuoi | 15/06/2026 |
 
 ### 🧩 Supported Models
@@ -2127,7 +2127,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -6577,6 +6577,1488 @@ Một phụ nữ trẻ mặc trang phục màu đội tuyển quốc gia Tây Ba
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: Người Đàn Ông Trên Con Đường Sa Mạc
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Hassan👑
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người đàn ông đứng trên con đường sa mạc nứt nẻ dưới bầu trời hoàng hôn rực rỡ, tay cầm áo khoác với vẻ mặt nghiêm nghị.
+
+#### Prompt
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: Thành Phố Trong Đôi Mắt Cô Ấy
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AI Sparks
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Kính râm của người phụ nữ phản chiếu cảnh quan thành phố tương lai phát sáng màu xanh lá, tạo nên sự tương phản thị giác nổi bật với đường nét mềm mại và áo khoác lông trắng của cô.
+
+#### Prompt
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: Chân Dung Cổ Điển Của Messi Trong Bộ Vest
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo áp phích minh họa theo phong cách cổ điển của Lionel Messi mặc bộ vest xanh nước biển đậm và nơ sắc sảo.
+
+#### Prompt
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: Chân Dung Siêu Chân Thực Của Một Người Phụ Nữ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Jarvis AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc chi tiết để tạo ra một bức chân dung siêu chân thực của một người phụ nữ với các đặc điểm khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: Bọc Video Trong Tính Chân Thực Hoặc Chân Thực Nhiếp Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Martin Nebelong
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để nâng cao tính chân thực của video bằng cách bọc nó trong các đặc tính nhiếp ảnh hoặc chân thực.
+
+#### Prompt
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: Chân Dung Thời Trang Cao Cấp Với Quả Bóng Đá
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Kashberg
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung biên tập sống động như ảnh chụp của một phụ nữ trẻ châu Á cầm quả bóng đá Adidas, sử dụng khuôn mặt và kiểu tóc cụ thể.
+
+#### Prompt
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: Người Phụ Nữ Giữa Cánh Đồng Hoa Tulip
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** glena Jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người phụ nữ đứng giữa cánh đồng hoa tulip hồng rực rỡ dưới ánh hoàng hôn vàng, khuôn mặt cô được ánh sáng ấm áp chiếu rọi.
+
+#### Prompt
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: Tranh Minh Họa Chúc May Mắn
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** TechieSA
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức tranh biếm họa hài hước về một người đàn ông vô tình đập búa trúng tay mình, kèm dòng chữ 'Good Luck' và logo IKEA.
+
+#### Prompt
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: Lời Nhắc Hình Ảnh Nano Banana Pro
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** glena Jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc JSON có cấu trúc để tạo hình ảnh với danh tính và ngoại hình chủ thể cụ thể.
+
+#### Prompt
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: Phương Tiện Liên Bang Tương Lai
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Artingent
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phương tiện quân sự bọc thép hạng nặng đứng trong thành phố tương lai ướt đẫm mưa, cùng những người lính và các tòa nhà chọc trời.
+
+#### Prompt
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: Cống Dẫn Nước Trên Tầng Sương
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Artingent
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một thành phố bằng gỗ kỳ ảo được xây dựng phía trên hẻm núi sông đầy sương mù, với những chiếc đèn lồng phát sáng và những cây cầu tinh xảo.
+
+#### Prompt
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: Ảnh Phong Cách Paparazzi Của Bạn Gái Tỷ Phú
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝗦𝗮𝗻𝗶𝗮
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức ảnh biên tập siêu thực theo phong cách paparazzi chụp cảnh bạn gái tỷ phú đang bước ra từ một khách sạn sang trọng.
+
+#### Prompt
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: Thư giãn ở khu nghỉ dưỡng bãi biển
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sophia | AI Artist ✨
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phụ nữ mặc bikini hoa nằm thư giãn trên ghế tắm nắng tại khu nghỉ dưỡng nhiệt đới với cây cọ và những căn nhà lợp mái tranh ở phía sau.
+
+#### Prompt
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: Thánh Địa Nấm Phát Sáng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Artingent
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một thế giới sinh học punk thu nhỏ nghệ thuật, nơi các nhà giả kim trồng nấm phát sáng và chế biến các phương thuốc thực vật trong một vùng tròn nổi lơ lửng được làm thủ công, đầy khí chất.
+
+#### Prompt
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: Gợi Ý Chân Dung U Sầu Thực Vật
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chân dung siêu thực với nhân vật chính trong khoảnh khắc bình yên sau biến cố, đối diện bức tường dày đặc.
+
+#### Prompt
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: Cận Cảnh Bò Sát Màu Xanh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Flyover Base
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh cận của sinh vật bò sát màu xanh với đôi mắt vàng nổi bật trong bối cảnh kỳ ảo.
+
+#### Prompt
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: Chân Dung Điện Ảnh Trên Cầu Thang Đô Thị
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heisenberg
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung điện ảnh siêu thực của một chàng trai trẻ đeo kính ngồi trên bậc thang bê tông vào ban đêm, mặc toàn đồ đen.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: Chân Dung Studio Trẻ Em Mặc Áo Bóng Đá
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aijaz
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo chân dung studio chuyên nghiệp của một đứa trẻ nhỏ mặc áo bóng đá quốc tế.
+
+#### Prompt
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: Cầu Dẫn Nước Trên Làn Sương
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** sayobonita
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một thành phố nổi kỳ ảo với những cầu dẫn nước và cây cầu bằng gỗ trên mặt nước đầy sương vào lúc hoàng hôn.
+
+#### Prompt
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: Ảnh Thực Tế Về Bản Thân Thu Nhỏ Kiểu Đồ Chơi
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ATHARI_ALF
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo bức ảnh thực tế về một người đang cầm phiên bản đồ chơi thu nhỏ của chính họ.
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: Ảnh Thực Tế Về Bản Thân Thu Nhỏ Kiểu Đồ Chơi
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ATHARI_ALF
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo bức ảnh thực tế về một người đang cầm phiên bản đồ chơi nhỏ bé kiểu Pixar của chính họ.
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: Tổng hợp thể thao điện ảnh siêu thực về Messi
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Hendry Lim
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức ảnh tổng hợp thể thao điện ảnh siêu thực, với chân dung anh hùng và bộ ba hành động của Messi, được chụp bằng Canon.
+
+#### Prompt
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: Ảnh Tự Sướng Trong Gương Ở Phòng Ốp Gỗ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sadie 🥀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo video về một cô gái trẻ với mái tóc nâu đậm tự tin chụp ảnh tự sướng trong khung cảnh sang trọng.
+
+#### Prompt
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: Người Đàn Ông Tựa Vào Tường Đá Granite
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo video về một người đàn ông đẹp trai, cân đối tự tin tựa lưng vào bức tường đá granite phong hóa.
+
+#### Prompt
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: Công Cụ AI Của Google 2026
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Omor Faruk
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một danh sách minh họa 22 công cụ AI của Google với linh vật robot tương lai và các yếu tố kỹ thuật số.
+
+#### Prompt
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: Cảnh Studio Thời Trang Cao Cấp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** glena Jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho cảnh studio thời trang tối giản với phông nền trắng sạch sẽ.
+
+#### Prompt
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: Máy bay trên đám mây
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** İbrahim Feyzullayev
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một chiếc máy bay thương mại bay trên biển mây trong hoàng hôn vàng rực.
+
+#### Prompt
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: Bản Demo Video Gemini Omni
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Signal Lab
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một giao diện kỹ thuật số tương lai thể hiện mô hình AI Gemini Omni của Google chuyển đổi đầu vào thành nội dung video.
+
+#### Prompt
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: Ảnh Đồ Chơi Tí Hon Phong Cách Pixar
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức ảnh chân thực về một người đang cầm phiên bản đồ chơi tí hon phong cách Pixar của chính họ.
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: Bức Ghép Người Phụ Nữ Cầm Micro
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Victoria Chimnaza Sunday.
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phụ nữ cầm micro màu hồng xuất hiện trong nhiều khung hình chồng chéo trong một căn phòng hiện đại có kệ sách.
+
+#### Prompt
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: Áp Phích Trận Đấu World Cup Brazil vs Đức
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Jahan Zaib
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý điện ảnh chi tiết cho áp phích thể thao dọc mô tả trận đấu huyền thoại giữa Brazil và Đức tại World Cup.
+
+#### Prompt
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: Cô Gái Tóc Vàng Mặc Áo Họa Tiết
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** glena Jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phụ nữ mặc áo croptop nhiều màu sắc và quần jeans tạo dáng trước bức tường trung tính.
+
+#### Prompt
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: Chân Dung Nửa Mặt Nửa Quả Bóng Đá
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Shams
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung chân thực hợp nhất một nửa khuôn mặt cầu thủ với một nửa quả bóng đá.
+
+#### Prompt
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: Gợi ý Cảnh Thời Trang Trong Studio Tối Giản
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** glena Jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý có cấu trúc để tạo ra video thời trang chỉnh chu, biên tập trong bối cảnh studio trong nhà tối giản.
+
+#### Prompt
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: Thẻ Bài Golem Pha Lê
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Nick
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Hai thẻ bài kỹ thuật số phong cách Pokémon thể hiện quá trình tiến hóa của sinh vật golem pha lê với các chỉ số và khả năng chi tiết.
+
+#### Prompt
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: Gợi ý Poster Phong Cách Hoa Cổ Điển
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minuit
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra poster phong cách hippie ảo giác thập niên 1960-1970 với khẩu hiệu MAKE LOVE NOT WAR (HÃY YÊU THƯƠNG, ĐỪNG CHIẾN TRANH).
+
+#### Prompt
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: Chân Dung Trang Phục Y Tá
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** glena Jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phụ nữ mặc trang phục y tá tạo dáng trong khi đang đeo găng tay màu xanh dương.
+
+#### Prompt
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: Người Phụ Nữ Mặc Áo Đấu Màu Cam
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Giulia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phụ nữ mặc áo đấu bóng đá Hà Lan tạo dáng vui tươi trước nền đỏ, dùng tay tạo khung hình.
+
+#### Prompt
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: Họa Sĩ Robot Vẽ Tranh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** NewsTongue
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một họa sĩ robot vẽ phiên bản hiện đại của bức 'Đêm Đầy Sao' với dòng chữ 'REVE 2.0' trên toan trong một xưởng vẽ cổ điển.
+
+#### Prompt
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: Gợi ý Chân Dung Điện Ảnh Võ Sĩ Mòn Mỏi Sau Trận Chiến
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ahmad Faraz
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra chân dung cận cảnh siêu thực của một võ sĩ nam mệt mỏi, cởi trần.
+
+#### Prompt
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: Người Phụ Nữ Trên Du Thuyền
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sophia | AI Artist ✨
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phụ nữ mặc đồ bơi màu xanh dương đứng trên du thuyền, ngoảnh nhìn qua vai với biển cả phía sau.
+
+#### Prompt
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: Nữ Thần Sứ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người phụ nữ xuất hiện từ những mảnh sứ vỡ được hàn gắn bằng vàng, tượng trưng cho vẻ đẹp trong sự tan vỡ.
+
+#### Prompt
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: Hình Ảnh Phản Chiếu Tiệm Cắt Tóc
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Hassan👑
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người đàn ông có hình xăm ngồi trên ghế cắt tóc, hình ảnh phản chiếu của anh ta có thể nhìn thấy trong gương khi thợ cắt tóc đứng phía sau anh trong bối cảnh tiệm cắt tóc cổ điển.
+
+#### Prompt
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: Lời Nhắc Khuôn Mặt Hình Trái Tim Của Sydney Sweeney
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Pinodi
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc có cấu trúc để tạo video về Sydney Sweeney với khuôn mặt hình trái tim.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: Lời Nhắc Thời Trang Corset Nhung Đen
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Özge Döner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc thời trang chi tiết chỉ định một chiếc áo corset nhung đen với chi tiết dây chuyền bạc và mái tóc dài đen gợn sóng.
+
+#### Prompt
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: Mặt Đá Với Chiếc Đồng Hồ Tan Chảy
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Jason Heaton
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một hình ảnh siêu thực về một khuôn mặt bằng đá với chiếc đồng hồ đang tan chảy trong một cầu thang xoắn ốc tối tăm.
+
+#### Prompt
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: Chân Dung Thời Trang Biên Tập Với Váy Màu Ngà
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Özge Döner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc cho một bức chân dung thời trang biên tập có hình ảnh một người mẫu tự tin trong một chiếc váy slip satin ngà có cấu trúc.
+
+#### Prompt
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: Người Đàn Ông Trong Công Trình Gỗ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Khlaseek designer
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người đàn ông đứng tự tin trong một tòa nhà bằng gỗ có ánh nắng, mặc blazer và áo sơ mi tối màu.
+
+#### Prompt
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: Biên Tập Chuyển Động Khiêu Vũ Trong Studio Đỏ Thẫm
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Özge Döner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo một lưới 3x3 về một người phụ nữ mặc corset nhung đen thực hiện các chuyển động khiêu vũ tự nhiên trong một studio màu đỏ thẫm.
+
+#### Prompt
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: Lưới Biên Tập Chuyển Động Khiêu Vũ Thời Trang Cao Cấp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Özge Döner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc cho một lưới contact sheet 3x3 có cùng một người phụ nữ trong studio màu đỏ thẫm, thực hiện các chuyển động khiêu vũ thời trang cao cấp.
+
+#### Prompt
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: Những Quả Cầu Phát Sáng Trong Bóng Tối
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** N Creates AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh tối có hai quả cầu phát sáng ấm áp, mềm mại tạo nên hiệu ứng hình ảnh trừu tượng và tối giản.
+
+#### Prompt
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: Khung Cảnh Tượng Anime
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Gadgetify
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Bốn cảnh tượng hành động anime chi tiết cao, thể hiện những trận chiến biểu tượng từ Dragon Ball, Naruto, One Piece và Bleach.
+
+#### Prompt
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: Sydney Sweeney Người Ý Đang Ăn - Cảnh Quay Nghiệp Dư
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KeorUnreal
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc cho một video nghiệp dư chất lượng thấp, mờ nhẹ, quay bằng iPhone về cảnh Sydney Sweeney đang ăn.
+
+#### Prompt
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: Ánh Sáng AI Gemini Omni
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** CHRIS FIRST
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người đàn ông mặc áo thun trắng và đội mũ lưỡi trai cầm micro với lớp chữ chồng lên quảng bá Ánh Sáng Studio AI Gemini Omni.
+
+#### Prompt
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: Thay Thế Nền Cho Người Sáng Tạo Nội Dung Chuyên Nghiệp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** CHRIS FIRST
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Thay thế nền bằng một thiết lập bàn làm việc cao cấp dành cho người ảnh hưởng công nghệ.
+
+#### Prompt
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: Lời Nhắc Thay Thế Nền Cho Người Ảnh Hưởng Wellness
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** CHRIS FIRST
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để thay thế nền của chủ thể bằng một phông nền chuyên nghiệp dành cho người ảnh hưởng về sắc đẹp và lối sống, có nội thất sạch sẽ và ánh sáng ấm áp.
+
+#### Prompt
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: Thay Thế Nền Phim Trường Chuyên Nghiệp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** CHRIS FIRST
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để thay thế nền của chủ thể bằng một môi trường phim trường chuyên nghiệp mềm mại, ngoài tiêu cự.
+
+#### Prompt
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: Nữ Chiến Binh Thành Phố Mưa
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** shawn_maybush
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cô gái trong đồng phục học sinh vung kiếm trong khung cảnh thành phố tương lai ngập mưa.
+
+#### Prompt
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: Lễ Mừng Chiến Thắng Coca-Cola
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** SaaS Junction ✦ Daily AI News & Prompts
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một chiếc cúp được làm từ lon Coca-Cola ăn mừng chiến thắng với giấy bóng màu và tia lửa.
+
+#### Prompt
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: Cúp Thế Giới LEGO
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** SaaS Junction ✦ Daily AI News & Prompts
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Chiếc cúp vàng LEGO World Cup với giấy bóng màu và ánh sáng lấp lánh, quảng bá cho chiến dịch xây dựng ước mơ.
+
+#### Prompt
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: Cưỡi Rồng Xanh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Rendar AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một kỵ sĩ bay lượn trên một hòn đảo nhiệt đới trên lưng một con rồng xanh hùng vĩ, với những thác nước tuôn trào và vùng biển ngọc lam bên dưới.
+
+#### Prompt
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: Bức Phác Chì Than Chì Chân Dung Đôi
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức phác chi tiết bằng bút chì than chì của một người đàn ông và một người phụ nữ đặt cạnh nhau trên giấy cổ điển.
+
+#### Prompt
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: Chân Dung Điện Ảnh Cao Bồi Ngoài Vòng Pháp Luật
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** WeWant Mars
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một chân dung điện ảnh về một tay cao bồi ngoài vòng pháp luật gồ ghề trong hoàng hôn trên vỉa hè bụi bặm của miền Tây cũ.
+
+#### Prompt
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: Người phụ nữ trên giường vào ban đêm
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Niharika Nm
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người phụ nữ thư giãn trên giường dưới chiếc chăn màu hồng, được chiếu sáng bởi ánh đèn ngủ ấm áp.
+
+#### Prompt
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: Ra Mắt Pixel Drop
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AIVAnet
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Hình ảnh quảng bá cho tính năng Pixel Drop của Google với các phản ứng trên màn hình.
+
+#### Prompt
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: Thiết Kế Đồ Họa Phong Cổ Điển với Thông Điệp 'Năng Lượng Tốt, Thủy Triều Cao'
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heather Green
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra đồ họa hình tròn theo phong cách cổ điển với hình ảnh hoàng hôn trên biển và chữ được làm cho có vẻ cũ.
+
+#### Prompt
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: Tham Chiếu Nhận Dạng Chân Dung Biên Tập Thời Trang Cao Cấp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Soaima
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra chân dung siêu thực bảo toàn chính xác nhận dạng khuôn mặt từ một bức ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: Chân Dung Thời Trang Đơn Sắc của Một Nàng Thơ Tối Giản
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Virena
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chân dung nghệ thuật đơn sắc cho một phụ nữ thanh lịch với các đặc điểm khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: Bộ trang phục hoa văn thanh lịch
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Wandering Corner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người phụ nữ tạo dáng trong bộ trang phục màu be có hoa văn thời thượng với váy dài ngắn hai tầng và áo trễ vai.
+
+#### Prompt
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: Gợi ý chân dung điện thoại thông minh siêu thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aiza
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra bức ảnh chân dung ngẫu nhiên bằng điện thoại thông minh của một phụ nữ trẻ với mái tóc gợn sóng và đeo kính.
+
+#### Prompt
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: Gợi ý Chân Dung Tranh Màu Nước Siêu Thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Anaya Ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra chân dung theo phong cách hiện thực màu nước độ phân giải cao với yêu cầu bảo toàn nghiêm ngặt nhận dạng từ hình ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: Người phụ nữ trong trang phục thường ngày
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Zara
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người phụ nữ tạo dáng tự tin trong chiếc áo ba lỗ màu đen và quần màu kem, ngồi trên ghế đẩu trắng trước phông nền đơn giản.
+
+#### Prompt
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

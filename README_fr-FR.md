@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Une collection de prompts Gemini Omni avec apercus video OSS integres.
 
@@ -23,9 +23,9 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Mesure | Nombre |
 | --- | ---: |
-| Nombre Total de Prompts | 320 |
+| Nombre Total de Prompts | 392 |
 | Categories | 11 |
-| Videos d'Apercu | 142 |
+| Videos d'Apercu | 154 |
 | Derniere Mise a Jour | 15/06/2026 |
 
 ### 🧩 Supported Models
@@ -2142,7 +2142,7 @@ Plan 1 (8 secondes) Un puissant personnage féminin. Plan large cinématographiq
 
 <a id="category-11"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: Portrait éditorial romantique en pleine nature
 
@@ -6592,6 +6592,1488 @@ Une jeune femme portant les couleurs de l'équipe nationale d'Espagne se détend
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: Homme sur une route du désert
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Hassan👑
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un homme se tient sur une route désertique fissurée sous un ciel de coucher de soleil vibrant, tenant sa veste avec une expression sérieuse.
+
+#### Prompt
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: La ville dans ses yeux
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** AI Sparks
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Les lunettes de soleil d'une femme reflètent un paysage urbain futuriste vert lumineux, créant un contraste visuel frappant avec ses traits doux et son manteau en fourrure blanche.
+
+#### Prompt
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: Portrait vintage de Messi en costume
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Minahil
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une invite pour créer une affiche d'illustration de style vintage de Lionel Messi portant un costume bleu marine élégant et un nœud papillon.
+
+#### Prompt
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: Portrait ultra-photoréaliste d'une femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Jarvis AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une invite détaillée pour générer un portrait ultra-photoréaliste d'une femme avec des traits faciaux spécifiques.
+
+#### Prompt
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: Envelopper la vidéo dans le réalisme ou le réalisme photographique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Martin Nebelong
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une invite pour améliorer le réalisme d'une vidéo en l'enveloppant de qualités photographiques ou réalistes.
+
+#### Prompt
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: Portrait de haute couture avec ballon de football
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Kashberg
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait éditorial photoréaliste d'une jeune femme asiatique tenant un ballon de football Adidas, utilisant un visage et une coiffure spécifiques.
+
+#### Prompt
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: Femme dans un champ de tulipes
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** glena Jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme se tient dans un champ vibrant de tulipes roses lors d'un coucher de soleil doré, son visage illuminé par la lueur chaude.
+
+#### Prompt
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: Illustration de bonne chance
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** TechieSA
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un dessin humoristique d'un homme qui se frappe accidentellement la main avec un marteau, avec le texte 'Good Luck' et le logo IKEA.
+
+#### Prompt
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: Invite d'image Nano Banana Pro
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** glena Jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une invite JSON structurée pour générer des images avec une identité et une apparence spécifiques du sujet.
+
+#### Prompt
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: Véhicule fédéral futuriste
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Artingent
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un véhicule militaire lourdement blindé se tient dans une ville futuriste sous la pluie, avec des soldats et des bâtiments imposants.
+
+#### Prompt
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: Aqueducs au-dessus de la brume
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Artingent
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une ville en bois fantastique construite au-dessus d'un canyon fluvial brumeux avec des lanternes lumineuses et des ponts complexes.
+
+#### Prompt
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: Photo de style paparazzi d'une petite amie milliardaire
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** 𝗦𝗮𝗻𝗶𝗮
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une photographie éditoriale hyper-réaliste de style paparazzi d'une petite amie milliardaire sortant d'un hôtel de luxe.
+
+#### Prompt
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: Détente dans une station balnéaire
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sophia | AI Artist ✨
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme en bikini floral se prélasse sur une chaise longue dans une station tropicale avec des palmiers et des bungalows au toit de chaume en arrière-plan.
+
+#### Prompt
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: Sanctuaire fongique lumineux
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Artingent
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un monde biopunk artistique miniature où des alchimistes cultivent des champignons luminescents et préparent des remèdes botaniques dans un royaume flottant circulaire artisanal et atmosphérique.
+
+#### Prompt
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: Incitation pour un portrait mélancolique botanique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** timedoctor.eth
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour un portrait hyper-réaliste mettant en scène un protagoniste dans un calme après-coup contre un mur dense.
+
+#### Prompt
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: Gros plan d'un reptile bleu
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Flyover Base
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un gros plan d'une créature reptilienne bleue aux yeux jaunes perçants dans un cadre fantastique.
+
+#### Prompt
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: Portrait cinématographique sur des escaliers urbains
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Heisenberg
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait cinématographique ultra-réaliste d'un jeune homme portant des lunettes, assis sur des marches en béton la nuit, vêtu entièrement de noir.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: Portrait en studio d'un enfant en maillot de football
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Aijaz
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour générer un portrait professionnel en studio d'un jeune enfant portant un maillot de football international.
+
+#### Prompt
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: Aqueducs au-dessus de la brume
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** sayobonita
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une cité flottante fantastique avec des aqueducs et des ponts en bois au-dessus d'eaux brumeuses au crépuscule.
+
+#### Prompt
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: Photo réaliste d'un mini jouet de soi
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** ATHARI_ALF
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour créer une photo réaliste d'une personne tenant une version jouet miniature d'elle-même.
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: Photo réaliste d'un mini jouet de soi
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** ATHARI_ALF
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour créer une photo réaliste d'une personne tenant une minuscule version jouet d'elle-même de style Pixar.
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: Composition sportive cinématographique hyper-réaliste de Messi
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Hendry Lim
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une composition photographique sportive cinématographique hyper-réaliste présentant Messi en portrait héroïque et trio d'action, tournée avec un Canon.
+
+#### Prompt
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: Selfie dans un miroir dans une pièce à panneaux de bois
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sadie 🥀
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour générer une vidéo d'une jeune femme aux cheveux brun foncé prenant un selfie assuré dans un cadre élégant.
+
+#### Prompt
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: Homme appuyé contre un mur en pierre de granit
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Picts by AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour générer une vidéo d'un homme beau et musclé, s'appuyant avec confiance contre un mur de granit patiné.
+
+#### Prompt
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: Outils IA Google 2026
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Omor Faruk
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une liste illustrée de 22 outils d'IA Google avec une mascotte robot futuriste et des éléments numériques.
+
+#### Prompt
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: Scène de studio de mode haut de gamme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** glena Jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une incitation pour une scène de studio de mode minimaliste avec un fond blanc épuré.
+
+#### Prompt
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: Avion au-dessus des nuages
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** İbrahim Feyzullayev
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un avion de ligne vole au-dessus d'une mer de nuages lors d'un coucher de soleil doré.
+
+#### Prompt
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: Démo Vidéo Gemini Omni
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Signal Lab
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une interface numérique futuriste présentant le modèle d'IA Gemini Omni de Google convertissant des entrées en contenu vidéo.
+
+#### Prompt
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: Photo de Jouet Miniature de Soi en Style Pixar
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une photo réaliste d'une personne tenant une minuscule version jouet d'elle-même en style Pixar.
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: Collage d'une femme avec un micro
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Victoria Chimnaza Sunday.
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme tenant un micro rose apparaît dans plusieurs cadres superposés dans une pièce moderne avec des étagères de livres.
+
+#### Prompt
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: Affiche du Match Brésil-Allemagne de la Coupe du Monde
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Jahan Zaib
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction cinématographique détaillée pour une affiche sportive verticale représentant un affrontement légendaire Brésil-Allemagne en Coupe du Monde.
+
+#### Prompt
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: Blonde en Haut Graphique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** glena Jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme en crop-top coloré et jean pose contre un mur neutre.
+
+#### Prompt
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: Portrait Mi-Visage Mi-Ballon de Football
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Shams
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait photoréaliste fusionnant le visage d'un joueur avec la moitié d'un ballon de football.
+
+#### Prompt
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: Instruction pour Scène de Mode en Studio Minimaliste
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** glena Jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction structurée pour générer une vidéo de mode épurée et éditoriale dans un cadre de studio intérieur minimaliste.
+
+#### Prompt
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: Cartes de Golem de Cristal
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Nick
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Deux cartes numériques de style Pokémon présentant l'évolution d'une créature golem de cristal avec des statistiques et capacités détaillées.
+
+#### Prompt
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: Instruction pour Affiche Vintage Flower Power
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Minuit
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour créer une affiche psychédélique hippie des années 1960-1970 avec le slogan Faites l'amour, pas la guerre.
+
+#### Prompt
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: Portrait en costume d'infirmière
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** glena Jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme en costume d'infirmière pose tout en enfilant des gants bleus.
+
+#### Prompt
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: Femme en maillot orange
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Giulia
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme en maillot de football des Pays-Bas prend une pose espiègle sur fond rouge, formant un cadre avec ses mains.
+
+#### Prompt
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: Robot Artiste Peignant
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** NewsTongue
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un robot artiste peint une version moderne de La Nuit étoilée avec 'REVE 2.0' sur la toile dans un atelier vintage.
+
+#### Prompt
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: Portrait cinématographique d'un combattant marqué par la bataille
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ahmad Faraz
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer un portrait en gros plan hyper-réaliste d'un combattant masculin épuisé, torse nu.
+
+#### Prompt
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: Femme sur un yacht
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sophia | AI Artist ✨
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme en maillot de bain bleu se tient sur un yacht, regardant par-dessus son épaule avec l'océan en arrière-plan.
+
+#### Prompt
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: Déesse de Porcelaine
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** timedoctor.eth
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme émerge de porcelaine brisée avec des réparations dorées, symbolisant la beauté dans la fragilité.
+
+#### Prompt
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: Réflexion dans un salon de coiffure
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Hassan👑
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un homme tatoué est assis sur un siège de coiffeur, son reflet visible dans le miroir tandis que le coiffeur se tient derrière lui dans un salon de coiffure classique.
+
+#### Prompt
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: Instruction pour visage en cœur de Sydney Sweeney
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Pinodi
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction structurée pour générer une vidéo de Sydney Sweeney avec un visage en forme de cœur.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: Instruction de mode pour corset en velours noir
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Özge Döner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction de mode détaillée spécifiant un haut corset en velours noir avec détails de chaînes argentées et de longs cheveux sombres et ondulés.
+
+#### Prompt
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: Visage de pierre avec horloge fondante
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Jason Heaton
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une image surréaliste d'un visage de pierre avec une horloge fondante dans un escalier en colimaçon sombre.
+
+#### Prompt
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: Portrait de mode éditorial avec robe ivoire
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Özge Döner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour un portrait de mode éditorial mettant en scène un modèle confiant portant une robe combinason en satin ivoire structurée.
+
+#### Prompt
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: Homme dans une structure en bois
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Khlaseek designer
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un homme se tient avec assurance dans un bâtiment en bois baigné de soleil, portant un blazer et une chemise sombres.
+
+#### Prompt
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: Éditorial de mouvement de danse en studio cramoisi
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Özge Döner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer une grille 3x3 d'une femme en corset de velours noir exécutant des mouvements de danse spontanés dans un studio cramoisi.
+
+#### Prompt
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: Grille éditoriale de mouvement de danse haute couture
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Özge Döner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour une grille de planches-contact 3x3 présentant la même femme dans un studio cramoisi, exécutant des mouvements de danse haute couture.
+
+#### Prompt
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: Orbes lumineux dans l'obscurité
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** N Creates AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une scène sombre présentant deux orbes lumineux doux et chaleureux, créant un effet visuel minimaliste et abstrait.
+
+#### Prompt
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: Dioramas de figurines animées
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Gadgetify
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Quatre scènes de figurines d'action animées très détaillées, représentant des batailles iconiques de Dragon Ball, Naruto, One Piece et Bleach.
+
+#### Prompt
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: Sydney Sweeney mangeant, tournage amateur italien
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** KeorUnreal
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour une vidéo amateur subtile, floue et de basse qualité, filmée sur iPhone, montrant Sydney Sweeney en train de manger.
+
+#### Prompt
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: Éclairage Gemini Omni IA
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** CHRIS FIRST
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un homme en t-shirt blanc et casquette tient un micro avec une superposition de texte promouvant l'éclairage de studio Gemini Omni IA.
+
+#### Prompt
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: Remplacement de fond pour créateur de contenu professionnel
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** CHRIS FIRST
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Remplacer l'arrière-plan par un bureau haut de gamme pour un influenceur tech.
+
+#### Prompt
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: Instruction de remplacement de fond pour influenceur bien-être
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** CHRIS FIRST
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour remplacer l'arrière-plan d'un sujet par un décor professionnel d'influenceur beauté et lifestyle, avec un intérieur épuré et un éclairage chaleureux.
+
+#### Prompt
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: Remplacement de fond pour studio de cinéma professionnel
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** CHRIS FIRST
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour remplacer l'arrière-plan d'un sujet par un environnement de studio de cinéma professionnel, doux et flou.
+
+#### Prompt
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: Guerrière de la ville sous la pluie
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** shawn_maybush
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une fille en uniforme scolaire manie une épée dans un paysage urbain futuriste détrempé par la pluie.
+
+#### Prompt
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: Célébration de victoire Coca-Cola
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** SaaS Junction ✦ Daily AI News & Prompts
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un trophée fabriqué à partir de canettes de Coca-Cola célèbre une victoire avec des confettis et des étincelles.
+
+#### Prompt
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: Coupe du Monde en LEGO
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** SaaS Junction ✦ Daily AI News & Prompts
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un trophée doré de la Coupe du Monde en LEGO avec des confettis et des étincelles, promouvant une campagne de construction de rêves.
+
+#### Prompt
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: Chevauchant un dragon bleu
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Rendar AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un cavalier survole une île tropicale sur un majestueux dragon bleu, avec des cascades et des eaux turquoise en contrebas.
+
+#### Prompt
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: Double portrait au crayon graphite
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Minahil
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un dessin détaillé au crayon graphite d'un homme et d'une femme côte à côte sur du papier vieilli.
+
+#### Prompt
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: Portrait cinématographique de cowboy hors-la-loi
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** WeWant Mars
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait cinématographique d'un cowboy hors-la-loi au visage buriné, au coucher du soleil sur une planche poussiéreuse du Far West.
+
+#### Prompt
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: Femme au lit la nuit
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Niharika Nm
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme se détend dans son lit sous une couverture rose, éclairée par la lueur chaude d'une lampe de chevet.
+
+#### Prompt
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: Lancement de Pixel Drop
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** AIVAnet
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une image promotionnelle pour la fonctionnalité Pixel Drop de Google avec des réactions à l'écran.
+
+#### Prompt
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: Design graphique rétro 'Good Vibes High Tides'
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Heather Green
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour créer un graphique circulaire de style rétro avec une imagerie de coucher de soleil sur l'océan et un texte vieilli.
+
+#### Prompt
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: Référence d'identité pour portrait éditorial haute couture
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Soaima
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer un portrait ultra-réaliste qui préserve l'exacte identité faciale d'une photo de référence.
+
+#### Prompt
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: Portrait de mode monochrome d'une muse minimaliste
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Virena
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt de portrait monochrome artistique pour une femme élégante aux traits du visage spécifiques.
+
+#### Prompt
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: Tenue florale élégante
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Wandering Corner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme pose dans une tenue beige à motifs floraux stylée, avec une jupe asymétrique et un haut débardeur.
+
+#### Prompt
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: Prompt de portrait smartphone ultra-réaliste
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Aiza
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une photo spontanée prise au smartphone d'une jeune femme aux cheveux ondulés et portant des lunettes.
+
+#### Prompt
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: Prompt de portrait aquarelle ultra-réaliste
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Anaya Ai
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour créer un portrait en aquarelle-réalisme haute définition avec préservation stricte de l'identité à partir d'une image de référence.
+
+#### Prompt
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: Femme en tenue décontractée
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Zara
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une femme pose avec assurance dans un débardeur noir et un pantalon crème, assise sur un tabouret blanc devant un fond uni.
+
+#### Prompt
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 Ce README est genere automatiquement depuis `data/prompts_by_locale`.

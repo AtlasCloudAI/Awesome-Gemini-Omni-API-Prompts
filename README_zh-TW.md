@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,9 +23,9 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 320 |
+| 提示詞總數 | 392 |
 | 分類數 | 8 |
-| 預覽影片數 | 142 |
+| 預覽影片數 | 154 |
 | 最後更新 | 2026/06/15 |
 
 ### 🧩 Supported Models
@@ -2127,7 +2127,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -6577,6 +6577,1488 @@ A modern desk setup with a sleek monitor displaying a serene architectural scene
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: 沙漠公路上的男子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hassan👑
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名男子站在夕陽絢爛的天空下，一條龜裂的沙漠公路上，手抓外套，表情嚴肅。
+
+#### 提示詞
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: 她眼中的城市
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Sparks
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名女子的太陽眼鏡反射出一個發光的綠色未來城市景觀，與她柔和的五官及白色毛皮大衣形成鮮明對比。
+
+#### 提示詞
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: 身著西裝的梅西復古肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個提示，用於創作一幅復古風格的梅西插畫海報，他身穿深藍色西裝與領結。
+
+#### 提示詞
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: 超寫實女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jarvis AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個詳細的提示，用於生成一張具有特定面部特徵的超寫實女性肖像。
+
+#### 提示詞
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: 以真實感或攝影寫實風格包裝影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Martin Nebelong
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個提示，旨在透過攝影或寫實風格包裝影片，以增強其真實感。
+
+#### 提示詞
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: 手持足球的高級時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kashberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張寫實的編輯肖像照，主角是一位手持愛迪達足球的年輕亞裔女性，採用特定的臉型與髮型。
+
+#### 提示詞
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: 鬱金香花田中的女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名女子站在夕陽金輝下的粉色鬱金香花田中，溫暖的光芒照亮了她的臉龐。
+
+#### 提示詞
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: 祝你好運插畫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅幽默的卡通畫，描繪一名男子意外用錘子敲到手，並附有「祝你好運」文字及 IKEA 標誌。
+
+#### 提示詞
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: 奈米香蕉專業圖像生成提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化的 JSON 提示，用於生成具有特定主體身份與外觀的圖像。
+
+#### 提示詞
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: 未來聯邦車輛
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一輛重裝甲軍用車輛停駐在雨中的未來都市，周圍有士兵與高聳的建築。
+
+#### 提示詞
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: 迷霧之上的水道
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一座奇幻的木造城市，建於迷霧繚繞的河峽之上，點綴著發光的燈籠與精緻的橋樑。
+
+#### 提示詞
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: 狗仔隊風格的億萬富翁女友照片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝗦𝗮𝗻𝗶𝗮
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張超現實的狗仔隊風格編輯照片，捕捉一位億萬富翁女友步出豪華酒店的瞬間。
+
+#### 提示詞
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: 海灘度假村休閒時光
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身穿花卉比基尼的女子躺在熱帶度假村的日光浴床上，背景是棕櫚樹和茅草屋頂的小屋。
+
+#### 提示詞
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: 發光真菌聖殿
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個微型藝術生物龐克世界，煉金術士在其中培育發光真菌並準備植物藥劑，場景為手工製作、氛圍濃厚的圓形漂浮領域。
+
+#### 提示詞
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: 植物憂鬱肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個超寫實肖像提示：主角在平靜的餘波中，背靠一面密集的牆。
+
+#### 提示詞
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: 藍色爬蟲類特寫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Flyover Base
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一隻藍色爬蟲類生物的特寫，擁有引人注目的黃色眼睛，置身於奇幻場景中。
+
+#### 提示詞
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: 都市階梯上的電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heisenberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張超寫實的電影感肖像：一位戴眼鏡的年輕男子夜間坐在混凝土階梯上，身著全黑裝束。
+
+#### 提示詞
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: 穿著足球球衣的兒童攝影棚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個生成專業攝影棚肖像的提示：一位身穿國際足球隊球衣的幼童。
+
+#### 提示詞
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: 迷霧之上的水道
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sayobonita
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一座奇幻的漂浮城市，擁有木製水道和橋樑，橫跨暮色中的迷霧水域。
+
+#### 提示詞
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: 迷你玩具自我寫實照片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ATHARI_ALF
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個創造寫實照片的提示：一個人拿著一個迷你玩具版的自己。
+
+#### 提示詞
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: 迷你玩具自我寫實照片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ATHARI_ALF
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個創造寫實照片的提示：一個人拿著一個皮克斯風格的迷你玩具版自己。
+
+#### 提示詞
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: 超現實梅西電影感運動合成影像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hendry Lim
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張超現實、充滿電影感的運動攝影合成作品，以英雄肖像和三人動作組合呈現梅西，使用佳能相機拍攝。
+
+#### 提示詞
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: 木質裝潢房間中的鏡面自拍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個影片生成提示：一位深棕色頭髮的年輕女子在優雅環境中自信地進行鏡面自拍。
+
+#### 提示詞
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: 倚靠花崗岩牆的男子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個影片生成提示：一位英俊、健壯的男子自信地倚靠著一面風化的花崗岩牆。
+
+#### 提示詞
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: 2026年谷歌AI工具
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Omor Faruk
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份包含22個谷歌AI工具的插圖列表，配有未來感機器人吉祥物和數位元素。
+
+#### 提示詞
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: 高端時尚攝影棚場景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個極簡風格的時尚攝影棚場景提示，包含純白色背景。
+
+#### 提示詞
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: 雲端上的飛機
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** İbrahim Feyzullayev
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一架商用客機在金色夕陽下，翱翔於雲海之上。
+
+#### 提示詞
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: Gemini Omni 影片演示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Signal Lab
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個未來主義的數位介面，展示Google的Gemini Omni AI模型將輸入內容轉換為影片內容。
+
+#### 提示詞
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: 皮克斯風格微型玩具自拍照片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張真實照片，描繪一個人拿著一個微型的皮克斯風格玩具版的自己。
+
+#### 提示詞
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: 手持麥克風的女子拼貼
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Victoria Chimnaza Sunday.
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位手持粉色麥克風的女子出現在現代房間書架旁的多個重疊畫框中。
+
+#### 提示詞
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: 世界盃巴西對德國比賽海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jahan Zaib
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個詳細的電影感提示，用於創作描繪傳奇的巴西對德國世界盃對決的垂直運動海報。
+
+#### 提示詞
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: 身穿圖案上衣的金髮女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身穿彩色短版上衣和牛仔褲的女子在中性色調的牆壁前擺姿勢。
+
+#### 提示詞
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: 半臉半足球肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shams
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅將球員臉龐與半個足球融合的寫實肖像。
+
+#### 提示詞
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: 極簡工作室時尚場景提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化的提示，用於在極簡的室內工作室環境中生成乾淨、具編輯感的時尚影片。
+
+#### 提示詞
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: 水晶魔像卡牌
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nick
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+兩張數位寶可夢風格卡牌，展示了一隻水晶魔像生物的進化，並附有詳細的狀態和能力。
+
+#### 提示詞
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: 復古花之力量海報提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minuit
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作帶有「MAKE LOVE NOT WAR」標語的迷幻1960-1970年代嬉皮海報的提示。
+
+#### 提示詞
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: 護士裝扮肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** glena Jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身穿護士裝的女子在戴上藍色手套時擺姿勢。
+
+#### 提示詞
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: 身穿橙色球衣的女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身穿荷蘭足球球衣的女子在紅色背景前俏皮地擺姿勢，雙手做出取景的手勢。
+
+#### 提示詞
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: 機器人藝術家繪畫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NewsTongue
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位機器人藝術家在復古工作室中繪製一幅現代版的《星夜》，畫布上寫著「REVE 2.0」。
+
+#### 提示詞
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: 歷經戰火的鬥士電影感肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ahmad Faraz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成疲憊不堪、赤裸上身的男性鬥士超寫實特寫肖像的提示。
+
+#### 提示詞
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: 遊艇上的女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身穿藍色泳衣的女子站在遊艇上，回頭凝望，身後是海洋。
+
+#### 提示詞
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: 瓷器女神
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位女子從破碎的瓷器中浮現，帶有金色的修復痕跡，象徵著破碎中的美麗。
+
+#### 提示詞
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: 理髮廳鏡中倒影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hassan👑
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名有刺青的男子坐在理髮椅上，其倒影映照在鏡中，理髮師則站在他身後，呈現經典理髮廳場景。
+
+#### 提示詞
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: 雪梨·史威尼心形臉龐提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成雪梨·史威尼擁有心形臉龐影片的結構化提示。
+
+#### 提示詞
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: 黑色天鵝絨緊身胸衣時尚提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個詳細的時尚提示，指定黑色天鵝絨緊身胸衣上衣搭配銀色鏈條細節與深色長波浪髮型。
+
+#### 提示詞
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: 石面與融化時鐘
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jason Heaton
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個超現實圖像，描繪一張石面與融化時鐘，位於黑暗螺旋樓梯中。
+
+#### 提示詞
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: 編輯時尚肖像與象牙色禮服
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成編輯時尚肖像的提示，以一名自信模特兒身穿結構化象牙色緞面襯裙禮服為特色。
+
+#### 提示詞
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: 木造結構中的男子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Khlaseek designer
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名男子自信地站立在陽光照射的木造建築中，身穿深色西裝外套與襯衫。
+
+#### 提示詞
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: 深紅色工作室舞蹈動態編輯
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成3x3網格的提示，展示一名身穿黑色天鵝絨緊身胸衣的女子在深紅色工作室中進行自然舞蹈動作。
+
+#### 提示詞
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: 高級時尚舞蹈動態編輯排版網格
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Özge Döner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成3x3排版網格的提示，展示同一名女子在深紅色工作室中進行高級時尚舞蹈動作。
+
+#### 提示詞
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: 黑暗中的發光球體
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** N Creates AI
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個黑暗場景，以兩個柔和溫暖的發光球體創造極簡抽象的視覺效果。
+
+#### 提示詞
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: 動漫人偶場景模型
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+四個高細節動漫動作人偶場景，展示來自《七龍珠》、《火影忍者》、《航海王》與《死神》的經典戰鬥。
+
+#### 提示詞
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: 義大利風雪梨·史威尼吃東西業餘鏡頭
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成雪梨·史威尼吃東西的、細微模糊低畫質業餘iPhone影片的提示。
+
+#### 提示詞
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: Gemini Omni AI 燈光
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名身穿白色T恤與帽子的男子手持麥克風，畫面疊加文字宣傳 Gemini Omni AI 工作室燈光。
+
+#### 提示詞
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: 專業內容創作者背景替換
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+將背景替換為科技網紅使用的高端桌面配置。
+
+#### 提示詞
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: 健康網紅背景替換提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個將主體背景替換為專業美容與生活風格網紅背景的提示，以潔淨室內空間與溫暖燈光為特色。
+
+#### 提示詞
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: 專業電影工作室背景替換
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個將主體背景替換為柔和、失焦的專業電影工作室環境的提示。
+
+#### 提示詞
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: 雨城戰士
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** shawn_maybush
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身穿校服的女孩在雨濛濛的未來都市景觀中揮舞著劍。
+
+#### 提示詞
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: 可口可樂勝利慶祝
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一座由可口可樂罐製成的獎盃，伴隨著五彩紙屑和火花，慶祝勝利。
+
+#### 提示詞
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: 樂高世界盃獎盃
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一座金色的樂高世界盃獎盃，周圍有五彩紙屑和閃光，宣傳一場築夢活動。
+
+#### 提示詞
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: 騎乘藍色巨龍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Rendar AI
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位騎手駕馭著雄偉的藍色巨龍翱翔於熱帶島嶼上空，下方是層疊的瀑布和碧綠的海水。
+
+#### 提示詞
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: 石墨鉛筆素描雙人肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅在復古紙張上繪製的男女並排的細膩石墨鉛筆素描。
+
+#### 提示詞
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: 亡命牛仔電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** WeWant Mars
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位粗獷的亡命牛仔在日落時分於塵土飛揚的舊西部木板路上的電影感肖像。
+
+#### 提示詞
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: 夜晚在床上的女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Niharika Nm
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位女性蓋著粉色毯子在床上放鬆，床頭燈散發出溫暖的光芒。
+
+#### 提示詞
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: Pixel Drop 功能發布
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AIVAnet
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google Pixel Drop 功能的宣傳圖片，帶有螢幕反應效果。
+
+#### 提示詞
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: 美好氛圍 高潮迭起 復古圖形設計
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創建圓形復古風格圖形的提示，包含海洋日落景象和做舊文字。
+
+#### 提示詞
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: 高級時尚編輯肖像身份參考
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Soaima
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成超寫實肖像的提示，要求從參考照片中精確保留面部身份特徵。
+
+#### 提示詞
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: 極簡繆思的單色時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個為優雅女性創作的單色藝術肖像提示，包含特定面部特徵描述。
+
+#### 提示詞
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: 優雅花卉套裝
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Wandering Corner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位女性穿著時尚的米色花卉服裝，搭配高低裙和不對稱露肩上衣擺出姿勢。
+
+#### 提示詞
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: 超寫實智慧型手機肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成年輕女性捲髮戴眼鏡的隨性手機照片的提示。
+
+#### 提示詞
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: 超寫實水彩肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anaya Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創建高解析度水彩寫實肖像的提示，嚴格要求根據參考圖像保留身份特徵。
+
+#### 提示詞
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: 休閒裝扮的女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zara
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位女性自信地擺出姿勢，身著黑色背心和米色長褲，坐在白色凳子上，背景簡潔。
+
+#### 提示詞
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

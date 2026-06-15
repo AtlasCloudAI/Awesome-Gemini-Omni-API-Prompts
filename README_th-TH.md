@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,9 +23,9 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 320 |
+| พรอมต์ทั้งหมด | 392 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 142 |
+| จำนวนวิดีโอตัวอย่าง | 154 |
 | อัปเดตล่าสุด | 15/06/2569 |
 
 ### 🧩 Supported Models
@@ -2127,7 +2127,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -6577,6 +6577,1488 @@ A modern desk setup with a sleek monitor displaying a serene architectural scene
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: ชายบนถนนในทะเลทราย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hassan👑
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ชายคนหนึ่งยืนอยู่บนถนนที่แตกร้าวในทะเลทรายใต้ท้องฟ้ายามพระอาทิตย์ตกสีสันสดใส ถือแจ็กเก็ตไว้ด้วยสีหน้าที่จริงจัง
+
+#### พรอมต์
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: เมืองในดวงตาของเธอ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AI Sparks
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+แว่นกันแดดของหญิงสาวสะท้อนภาพทิวทัศน์เมืองแห่งอนาคตสีเขียวเรืองแสง สร้างความตัดกันทางสายตาที่โดดเด่นกับใบหน้าที่อ่อนโยนและเสื้อโค้ตขนสัตว์สีขาวของเธอ
+
+#### พรอมต์
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: ภาพเหมือนวินเทจของเมสซี่ในชุดสูท
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างโปสเตอร์ภาพวาดสไตล์วินเทจของลิโอเนล เมสซี่ ในชุดสูทสีน้ำเงินเข้มและโบว์ไทค์ที่เฉียบคม
+
+#### พรอมต์
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: ภาพบุคคลหญิงสมจริงสุดขีด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jarvis AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งรายละเอียดสำหรับสร้างภาพบุคคลหญิงสมจริงสุดขีด ด้วยลักษณะใบหน้าที่เจาะจง
+
+#### พรอมต์
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: ห่อหุ้มวิดีโอด้วยความสมจริงหรือความสมจริงแบบภาพถ่าย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Martin Nebelong
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับเพิ่มความสมจริงให้กับวิดีโอโดยการห่อหุ้มมันด้วยคุณสมบัติแบบภาพถ่ายหรือสมจริง
+
+#### พรอมต์
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: ภาพบุคคลแฟชั่นระดับสูงพร้อมลูกฟุตบอล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Kashberg
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลบรรณาธิการสมจริงเหมือนถ่ายภาพ ของหญิงสาวชาวเอเชียวัยหนุ่มสาวกำลังถือลูกฟุตบอล Adidas โดยใช้ใบหน้าและทรงผมเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: หญิงสาวในทุ่งทิวลิป
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** glena Jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+หญิงสาวยืนอยู่ในทุ่งทิวลิปสีชมพูสดใสใต้แสงตะวันสีทองยามเย็น ใบหน้าของเธอสว่างไสวด้วยแสงอันอบอุ่น
+
+#### พรอมต์
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: ภาพประกอบ 'โชคดี'
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** TechieSA
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+การ์ตูนขำขันของชายที่เผลอตีมือตัวเองด้วยค้อน พร้อมข้อความ 'โชคดี' และโลโก้ IKEA
+
+#### พรอมต์
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: คำสั่งสร้างภาพ Nano Banana Pro
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** glena Jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่ง JSON โครงสร้างสำหรับสร้างภาพด้วยอัตลักษณ์และลักษณะภายนอกของหัวข้อที่เจาะจง
+
+#### พรอมต์
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: ยานพาหนะของรัฐบาลแห่งอนาคต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artingent
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ยานพาหนะทางทหารหุ้มเกราะหนักตั้งตระหง่านอยู่ในเมืองแห่งอนาคตที่เปียกชุ่มจากฝน ท่ามกลางทหารและตึกสูงเสียดฟ้า
+
+#### พรอมต์
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: สะพานส่งน้ำเหนือสายหมอก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artingent
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+เมืองไม้เหนือจริงถูกสร้างขึ้นเหนือหุบเขาลำน้ำที่ปกคลุมไปด้วยสายหมอก มีโคมไฟเรืองแสงและสะพานอันวิจิตร
+
+#### พรอมต์
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: ภาพแฟนสาวเศรษฐีในสไตล์ปาปารัซซี่
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝗦𝗮𝗻𝗶𝗮
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพถ่ายบรรณาธิการสไตล์ปาปารัซซี่สมจริงสุดขีด แสดงให้เห็นแฟนสาวเศรษฐีกำลังออกจากโรงแรมหรู
+
+#### พรอมต์
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: การพักผ่อนที่รีสอร์ทชายหาด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sophia | AI Artist ✨
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+หญิงสาวในบิกินี่ลายดอกไม้นอนพักบนเตียงผ้าใบที่รีสอร์ทเขตร้อน มีต้นปาล์มและบังกะโลหลังคามุงจากเป็นฉากหลัง
+
+#### พรอมต์
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: สถานที่ศักดิ์สิทธิ์ของเชื้อราทอแสง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artingent
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+โลกศิลปะไบโอพังก์ขนาดจิ๋วที่นักเล่นแร่แปรธาตุปลูกเชื้อราทอแสงและเตรียมยาสมุนไพร ในอาณาจักรลอยวงกลมที่สร้างขึ้นด้วยมือและมีบรรยากาศชวนฝัน
+
+#### พรอมต์
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: คำบรรยายภาพบุคคลแบบเศร้าสร้อยพร้อมพรรณไม้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพบุคคลสมจริงสุดขีดที่มีตัวเอกอยู่ในช่วงเวลาที่เงียบสงบหลังเหตุการณ์ ต่อหน้าผนังที่แน่นทึบ
+
+#### พรอมต์
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: ภาพระยะใกล้ของสัตว์เลื้อยคลานสีน้ำเงิน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Flyover Base
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพระยะใกล้ของสิ่งมีชีวิตเลื้อยคลานสีน้ำเงินที่มีดวงตาสีเหลืองสะดุดตาในฉากแฟนตาซี
+
+#### พรอมต์
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: ภาพบุคคลแบบภาพยนตร์บนบันไดในเมือง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heisenberg
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลแบบภาพยนตร์สมจริงสุดขีดของชายหนุ่มใส่แว่นนั่งบนบันไดคอนกรีตในยามค่ำคืน ด้วยชุดดำทั้งตัว
+
+#### พรอมต์
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: ภาพบุคคลในสตูดิโอของเด็กในชุดแข่งฟุตบอล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aijaz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพบุคคลระดับมืออาชีพในสตูดิโอของเด็กน้อยที่สวมเสื้อแข่งฟุตบอลทีมชาติ
+
+#### พรอมต์
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: ท่อส่งน้ำเหนือสายหมอก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** sayobonita
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+เมืองลอยฟ้าในจินตนาการที่มีท่อส่งน้ำและสะพานไม้ทอดข้ามผืนน้ำที่ปกคลุมด้วยสายหมอกในยามพลบค่ำ
+
+#### พรอมต์
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: ภาพถ่ายสมจริงของตุ๊กตาตัวเองแบบมินิเจอร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ATHARI_ALF
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพถ่ายสมจริงของบุคคลที่กำลังถือตุ๊กตาตัวเองเวอร์ชันมินิเจอร์
+
+#### พรอมต์
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: ภาพถ่ายสมจริงของตุ๊กตาตัวเองแบบมินิเจอร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ATHARI_ALF
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพถ่ายสมจริงของบุคคลที่กำลังถือตุ๊กตาตัวเองเวอร์ชันจิ๋วสไตล์พิกซาร์
+
+#### พรอมต์
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: ภาพประกอบกีฬาแบบภาพยนตร์สมจริงสุดขีดของเมสซี่
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hendry Lim
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพประกอบกีฬาแบบภาพยนตร์สมจริงสุดขีดที่แสดงภาพเมสซี่ทั้งในลักษณะภาพบุคคลแบบฮีโร่และภาพกลุ่มแอ็กชัน ถ่ายด้วยกล้องแคนนอน
+
+#### พรอมต์
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: เซลฟี่ในกระจกภายในห้องไม้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sadie 🥀
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างวิดีโอของหญิงสาวผมสีน้ำตาลเข้มถ่ายเซลฟี่อย่างมั่นใจในบรรยากาศที่หรูหรา
+
+#### พรอมต์
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: ชายพิงผนังหินแกรนิต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างวิดีโอของชายรูปหล่อร่างกายฟิตพิงผนังหินแกรนิตที่ผ่านลมฝนมาอย่างมั่นใจ
+
+#### พรอมต์
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: เครื่องมือ AI ของ Google ปี 2026
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Omor Faruk
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพประกอบรายการเครื่องมือ AI จำนวน 22 รายการจาก Google พร้อมมาสคอตรูปหุ่นยนต์ฟิวเจอริสติกและองค์ประกอบดิจิทัล
+
+#### พรอมต์
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: ฉากสตูดิโอแฟชั่นระดับไฮเอนด์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** glena Jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างฉากสตูดิโอแฟชั่นมินิมอลที่มีพื้นหลังสีขาวสะอาดตา
+
+#### พรอมต์
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: เครื่องบินเหนือก้อนเมฆ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** İbrahim Feyzullayev
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+เครื่องบินพาณิชย์ลำหนึ่งบินอยู่เหนือทะเลเมฆในยามอาทิตย์อัสดงสีทอง
+
+#### พรอมต์
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: สาธิตวิดีโอ Gemini Omni
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Signal Lab
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+อินเทอร์เฟซดิจิทัลแนวฟิวเจอร์ริสต์ที่แสดงให้เห็นโมเดล AI Gemini Omni ของ Google แปลงข้อมูลนำเข้าเป็นเนื้อหาวิดีโอ
+
+#### พรอมต์
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: ภาพถ่ายของเล่นตัวเล็กสไตล์ Pixar
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพถ่ายสมจริงของบุคคลที่ถือของเล่นตัวเล็กสไตล์ Pixar ที่เป็นตัวของตัวเอง
+
+#### พรอมต์
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: ภาพคอลลาจผู้หญิงกับไมโครโฟน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Victoria Chimnaza Sunday.
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงถือไมโครโฟนสีชมพูปรากฏในหลายเฟรมที่ซ้อนทับกัน ในห้องสมัยใหม่ที่มีชั้นหนังสือ
+
+#### พรอมต์
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: โปสเตอร์นัดพบฟุตบอลโลก บราซิล ปะทะ เยอรมนี
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jahan Zaib
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายแบบภาพยนตร์ละเอียดสำหรับโปสเตอร์กีฬาแนวตั้ง แสดงการปะทะอันเป็นตำนานระหว่างบราซิลและเยอรมนีในฟุตบอลโลก
+
+#### พรอมต์
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: สาวบลอนด์ในเสื้อกราฟิก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** glena Jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงในครอปท็อปสีสันสดใสและกางเกงยีนส์โพสท่าต่อหน้ากำแพงสีกลาง
+
+#### พรอมต์
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: ภาพบุคคลครึ่งใบหน้าครึ่งลูกฟุตบอล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Shams
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลสมจริงระดับภาพถ่ายที่ผสานใบหน้าของผู้เล่นกับครึ่งหนึ่งของลูกฟุตบอล
+
+#### พรอมต์
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: คำอธิบายฉากแฟชั่นในสตูดิโอแบบมินิมอล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** glena Jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายที่มีโครงสร้างสำหรับสร้างวิดีโอแฟชั่นแนวบรรณาธิการที่สะอาดตา ในฉากสตูดิโอในร่มแบบมินิมอล
+
+#### พรอมต์
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: การ์ดคริสตัลโกเลม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nick
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+การ์ดดิจิทัลสไตล์โปเกมอนสองใบที่แสดงวิวัฒนาการของสิ่งมีชีวิตคริสตัลโกเลม พร้อมรายละเอียดสถานะและความสามารถ
+
+#### พรอมต์
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: คำอธิบายโปสเตอร์ยุคเก่า Flower Power
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minuit
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างโปสเตอร์ไซเคเดลิกยุคฮิปปี้ช่วงปี 1960-1970 พร้อมคำขวัญ MAKE LOVE NOT WAR
+
+#### พรอมต์
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: ภาพบุคคลในชุดพยาบาล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** glena Jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงในชุดพยาบาลโพสท่าขณะสวมถุงมือสีฟ้า
+
+#### พรอมต์
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: ผู้หญิงในเสื้อแข่งสีส้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Giulia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงในเสื้อแข่งฟุตบอลทีมเนเธอร์แลนด์โพสท่าเล่นๆ กับพื้นหลังสีแดง โดยใช้มือทำท่าเป็นกรอบ
+
+#### พรอมต์
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: หุ่นยนต์ศิลปินวาดภาพ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** NewsTongue
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+หุ่นยนต์ศิลปินกำลังวาดภาพเวอร์ชันสมัยใหม่ของ Starry Night พร้อมคำว่า 'REVE 2.0' บนผ้าใบ ในสตูดิโอสไตล์วินเทจ
+
+#### พรอมต์
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: คำอธิบายภาพบุคคลแบบภาพยนตร์ของนักสู้ผ่านศึก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ahmad Faraz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพบุคคลระยะใกล้สุดสมจริงของนักสู้ชายเปลือยท่อนบนที่เหนื่อยล้า
+
+#### พรอมต์
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: ผู้หญิงบนเรือยอชท์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sophia | AI Artist ✨
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงในชุดว่ายน้ำสีฟ้ายืนอยู่บนเรือยอชท์ มองข้ามไหล่ของเธอโดยมีมหาสมุทรเป็นฉากหลัง
+
+#### พรอมต์
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: เทพีแห่งเครื่องลายคราม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงโผล่ออกมาจากเครื่องลายครามที่แตกหักพร้อมการซ่อมแซมสีทอง เป็นสัญลักษณ์ของความงามในความแตกสลาย
+
+#### พรอมต์
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: ภาพสะท้อนในร้านตัดผม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hassan👑
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ชายที่มีรอยสักนั่งบนเก้าอี้อาบน้ำ ภาพสะท้อนของเขาปรากฏในกระจก ขณะที่ช่างตัดผมยืนอยู่ข้างหลังเขาในบรรยากาศร้านตัดผมคลาสสิก
+
+#### พรอมต์
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: พรอมต์วิดีโอซิดนีย์ สวีนีย์กับใบหน้ารูปหัวใจ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Pinodi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่มีโครงสร้างสำหรับสร้างวิดีโอของซิดนีย์ สวีนีย์ที่มีใบหน้ารูปหัวใจ
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: พรอมต์แฟชั่นคอร์เซ็ตกำมะหยี่สีดำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Özge Döner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์แฟชั่นรายละเอียดที่ระบุเสื้อคอร์เซ็ตกำมะหยี่สีดำพร้อมรายละเอียดโซ่เงิน และผมยาวสีเข้มเป็นลอน
+
+#### พรอมต์
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: ใบหน้าหินกับนาฬิกาละลาย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jason Heaton
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพเหนือจริงของใบหน้าหินกับนาฬิกาที่กำลังละลาย อยู่บนบันไดเวียนสีมืด
+
+#### พรอมต์
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: ภาพแฟชั่นพอร์ตเทรตระดับบรรณาธิการกับชุดเดรสสีงาช้าง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Özge Döner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพแฟชั่นพอร์ตเทรตระดับบรรณาธิการ ที่มีนางแบบมั่นใจในชุดสลิปเดรสซาตินสีงาช้างทรงมีโครงสร้าง
+
+#### พรอมต์
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: ชายในโครงสร้างไม้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Khlaseek designer
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ชายยืนอย่างมั่นใจในอาคารไม้ที่สว่างไสวด้วยแสงแดด สวมเสื้อเบลเซอร์และเสื้อเชิ้ตสีเข้ม
+
+#### พรอมต์
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: ภาพแฟชั่นการเคลื่อนไหวจากการเต้นในสตูดิโอสีแดงเลือดนก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Özge Döner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างตารางกริด 3x3 ของผู้หญิงในคอร์เซ็ตกำมะหยี่สีดำ ทำการเคลื่อนไหวจากการเต้นแบบสบายๆ ในสตูดิโอสีแดงเลือดนก
+
+#### พรอมต์
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: ตารางกริดภาพแฟชั่นการเคลื่อนไหวจากการเต้นระดับไฮแฟชั่น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Özge Döner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับแผ่นติดต่อตารางกริด 3x3 ที่แสดงผู้หญิงคนเดียวกันในสตูดิโอสีแดงเลือดนก ทำการเคลื่อนไหวจากการเต้นระดับไฮแฟชั่น
+
+#### พรอมต์
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: ลูกแก้วเรืองแสงในความมืด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** N Creates AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ฉากมืดที่มีลูกแก้วเรืองแสงนุ่มนวลสีอุ่นสองลูก สร้างเอฟเฟกต์ภาพแบบมินิมอลและนามธรรม
+
+#### พรอมต์
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: ไดโอราม่าตัวการ์ตูนอนิเมะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+สี่ฉากตัวการ์ตูนแอคชั่นอนิเมะรายละเอียดสูง ที่แสดงการต่อสู้อันเป็นสัญลักษณ์จาก Dragon Ball, Naruto, One Piece และ Bleach
+
+#### พรอมต์
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: ซิดนีย์ สวีนีย์ชาวอิตาเลียนกำลังกินอาหาร ภาพถ่ายมือสมัครเล่น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับวิดีโอคุณภาพต่ำแบบมือสมัครเล่นจาก iPhone ที่เบลอและละเอียดอ่อนของซิดนีย์ สวีนีย์กำลังกินอาหาร
+
+#### พรอมต์
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: แสงสตูดิโอ Gemini Omni AI
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CHRIS FIRST
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ชายในเสื้อยืดสีขาวและหมวกแก๊ปถือไมโครโฟน พร้อมข้อความซ้อนทับโปรโมต Gemini Omni AI Studio Lighting
+
+#### พรอมต์
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: การเปลี่ยนพื้นหลังสำหรับผู้สร้างคอนเทนต์มืออาชีพ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CHRIS FIRST
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+เปลี่ยนพื้นหลังให้เป็นชุดโต๊ะทำงานระดับไฮเอนด์สำหรับอินฟลูเอนเซอร์ด้านเทคโนโลยี
+
+#### พรอมต์
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: พรอมต์เปลี่ยนพื้นหลังสำหรับอินฟลูเอนเซอร์ด้านสุขภาพและความงาม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CHRIS FIRST
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับการเปลี่ยนพื้นหลังของบุคคลให้เป็นแบ็กดรอปของอินฟลูเอนเซอร์ไลฟ์สไตล์และความงามระดับมืออาชีพ ที่มีพื้นที่ภายในสะอาดและแสงสว่างอบอุ่น
+
+#### พรอมต์
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: การเปลี่ยนพื้นหลังเป็นสตูดิโอภาพยนตร์ระดับมืออาชีพ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CHRIS FIRST
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับการเปลี่ยนพื้นหลังของบุคคลให้เป็นสภาพแวดล้อมสตูดิโอภาพยนตร์ระดับมืออาชีพที่นุ่มนวลและเบลอ
+
+#### พรอมต์
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: นักรบเมืองฝน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** shawn_maybush
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+เด็กหญิงในชุดนักเรียนกวัดแกว่งดาบในเมืองแห่งอนาคตที่เปียกโชกด้วยฝน
+
+#### พรอมต์
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: เฉลิมฉลองชัยชนะโคคา-โคล่า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** SaaS Junction ✦ Daily AI News & Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ถ้วยรางวัลที่สร้างจากกระป๋องโคคา-โคล่า ฉลองชัยชนะด้วยกระดาษสีและประกายไฟ
+
+#### พรอมต์
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: ถ้วยรางวัลโลกเลโก้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** SaaS Junction ✦ Daily AI News & Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ถ้วยรางวัลโลกสีทองทำจากเลโก้ พร้อมกระดาษสีและประกายไฟ โปรโมตแคมเปญสร้างฝัน
+
+#### พรอมต์
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: ขี่มังกรสีน้ำเงิน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Rendar AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้ขี่เหินฟ้าบนมังกรสีน้ำเงินสง่างาม เหนือเกาะเขตร้อนที่มีน้ำตกและผืนน้ำสีฟ้าครามด้านล่าง
+
+#### พรอมต์
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: ภาพวาดคู่ด้วยดินสอดำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพสเกตช์ดินสอดำรายละเอียดสูงของชายและหญิงเคียงข้างกันบนกระดาษสไตล์วินเทจ
+
+#### พรอมต์
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: ภาพเหมือนหนังคาวบอยนอกกฎหมาย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** WeWant Mars
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพเหมือนเชิงภาพยนตร์ของคาวบอยนอกกฎหมายทรนง ยืนอยู่บนทางเดินไม้ในตะวันตกเก่ายามพระอาทิตย์ตกท่ามกลางฝุ่น
+
+#### พรอมต์
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: ผู้หญิงบนเตียงยามค่ำคืน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Niharika Nm
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงนอนพักผ่อนบนเตียงใต้ผ้าห่มสีชมพู ในแสงอุ่นจากโคมไฟข้างเตียง
+
+#### พรอมต์
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: เปิดตัว Pixel Drop
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIVAnet
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพโปรโมตฟีเจอร์ Pixel Drop ของ Google พร้อมรีแอคชั่นบนหน้าจอ
+
+#### พรอมต์
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: ดีไซน์กราฟิกย้อนยุค Good Vibes High Tides
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heather Green
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างงานกราฟิกทรงกลมสไตล์ย้อนยุคพร้อมภาพพระอาทิตย์ตกเหนือมหาสมุทรและตัวหนังสือสไตล์ดิสเตรส
+
+#### พรอมต์
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: อ้างอิงอัตลักษณ์สำหรับภาพแฟชั่นแนวบรรณาธิการ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Soaima
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพเหมือนสมจริงระดับสูงที่รักษาอัตลักษณ์ใบหน้าให้ตรงกับภาพอ้างอิงทุกประการ
+
+#### พรอมต์
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: ภาพแฟชั่นโมโนโครมของหญิงสาวแนวมินิมอล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Virena
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายภาพเหมือนขาวดำเชิงศิลปะสำหรับหญิงสาวสง่างามที่มีรายละเอียดใบหน้าเฉพาะ
+
+#### พรอมต์
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: ชุดดอกไม้สุดเก๋
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Wandering Corner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงโพสท่าในชุดลายดอกไม้สีเบจสไตล์ล้ำสมัย กับกระโปรงทรงไฮโลว์และเสื้อคอตกไหล่
+
+#### พรอมต์
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: คำอธิบายภาพเหมือนสมจริงจากสมาร์ทโฟน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพถ่ายสมาร์ทโฟนแบบแคนดิดของหญิงสาวผมหยิกสวมแว่นตา
+
+#### พรอมต์
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: คำอธิบายภาพสำหรับภาพเหมือนสีน้ำสมจริงระดับสูง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Anaya Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพเหมือนแนวสมจริงด้วยเทคนิคสีน้ำความละเอียดสูง โดยรักษาอัตลักษณ์จากภาพอ้างอิงอย่างเคร่งครัด
+
+#### พรอมต์
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: ผู้หญิงในชุดสวมใส่สบาย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Zara
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ผู้หญิงโพสท่าอย่างมั่นใจในเสื้อกล้ามสีดำและกางเกงครีม นั่งบนม้านั่งสีขาวกับพื้นหลังเรียบ
+
+#### พรอมต์
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

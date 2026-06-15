@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,9 +23,9 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 320 |
+| Kul Prompts | 392 |
 | Categories | 10 |
-| Preview Videos | 142 |
+| Preview Videos | 154 |
 | Aakhri Update | 15/06/2026 |
 
 ### 🧩 Supported Models
@@ -2137,7 +2137,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -6587,6 +6587,1488 @@ A modern desk setup with a sleek monitor displaying a serene architectural scene
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: रेगिस्तानी सड़क पर आदमी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Hassan👑
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक आदमी एक जीवंत सूर्यास्त आकाश के नीचे एक टूटी हुई रेगिस्तानी सड़क पर खड़ा है, अपनी जैकेट पकड़े हुए और गंभीर अभिव्यक्ति के साथ।
+
+#### Prompt
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: उसकी आंखों में शहर
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AI Sparks
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला के चश्मे में एक चमकती हरी भविष्यवादी शहरी परिदृश्य परिलक्षित होता है, जो उसकी नरम विशेषताओं और सफेद फर कोट के साथ एक आकर्षक दृश्य विरोधाभास पैदा करता है।
+
+#### Prompt
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: सूट में मेस्सी का विंटेज पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लियोनेल मेस्सी का एक विंटेज-शैली का चित्रण पोस्टर बनाने के लिए एक प्रॉम्प्ट, जिसमें वह एक तेज़ गहरे नीले सूट और बो टाई पहने हुए हैं।
+
+#### Prompt
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: एक महिला का अल्ट्रा फोटोरियलिस्टिक पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jarvis AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विशिष्ट चेहरे की विशेषताओं वाली एक महिला का अल्ट्रा-फोटोरियलिस्टिक पोर्ट्रेट उत्पन्न करने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: वीडियो को यथार्थवाद या फोटोग्राफिक यथार्थवाद में लपेटें
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Martin Nebelong
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+वीडियो के यथार्थवाद को बढ़ाने के लिए एक प्रॉम्प्ट जो इसे फोटोग्राफिक या यथार्थवादी गुणों में लपेटता है।
+
+#### Prompt
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: फुटबॉल के साथ हाई फैशन पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Kashberg
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक युवा एशियाई महिला का फोटोरियलिस्टिक संपादकीय पोर्ट्रेट जो एक एडिडास फुटबॉल पकड़े हुए है, एक विशिष्ट चेहरे और हेयरस्टाइल का उपयोग करते हुए।
+
+#### Prompt
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: ट्यूलिप के खेत में महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** glena Jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला सुनहरी सूर्यास्त के दौरान गुलाबी ट्यूलिप के जीवंत खेत में खड़ी है, उसका चेहरा गर्म चमक से रोशन है।
+
+#### Prompt
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: शुभकामना चित्रण
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक मज़ाकिया कार्टून जिसमें एक आदमी गलती से हथौड़े से अपने हाथ पर प्रहार करता है, 'गुड लक' लिखा है और IKEA का लोगो है।
+
+#### Prompt
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: नैनो केला प्रो छवि प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** glena Jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विशिष्ट विषय पहचान और रूपरेखा के साथ छवियां उत्पन्न करने के लिए एक संरचित JSON प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: भविष्यवादी संघीय वाहन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artingent
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक भारी बख़्तरबंद सैन्य वाहन बारिश से भीगे भविष्यवादी शहर में सैनिकों और ऊंची इमारतों के बीच खड़ा है।
+
+#### Prompt
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: धुंध के ऊपर जलमार्ग
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artingent
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक धुंधली नदी घाटी के ऊपर बना एक काल्पनिक लकड़ी का शहर जिसमें चमकते लालटेन और जटिल पुल हैं।
+
+#### Prompt
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: पापराज़ी शैली में अरबपति गर्लफ्रेंड की तस्वीर
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝗦𝗮𝗻𝗶𝗮
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक हाइपर-यथार्थवादी पापराज़ी शैली की संपादकीय तस्वीर जिसमें एक अरबपति गर्लफ्रेंड एक लक्ज़री होटल से बाहर निकल रही है।
+
+#### Prompt
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: समुद्र तट रिसॉर्ट विश्राम
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sophia | AI Artist ✨
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला फूलों वाली बिकनी में एक उष्णकटिबंधीय रिसॉर्ट पर सनबेड पर आराम कर रही है, जिसकी पृष्ठभूमि में ताड़ के पेड़ और छप्पर वाले बंगले हैं।
+
+#### Prompt
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: दीप्तिमान कवक अभयारण्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artingent
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक लघु कलात्मक बायोपंक दुनिया जहाँ कीमियागर चमकते कवक उगाते हैं और एक हस्तनिर्मित, वायुमंडलीय, गोलाकार तैरते क्षेत्र में वनस्पति उपचार तैयार करते हैं।
+
+#### Prompt
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: बॉटनिकल मेलन्कोली पोर्ट्रेट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक घनी दीवार के विरुद्ध शांत परिणाम में एक मुख्य पात्र वाला एक हाइपर-रियलिस्टिक पोर्ट्रेट प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: नीले सरीसृप का क्लोज-अप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Flyover Base
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक काल्पनिक सेटिंग में आकर्षक पीली आँखों वाले एक नीले सरीसृप प्राणी का क्लोज-अप।
+
+#### Prompt
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: शहरी सीढ़ियों पर सिनेमैटिक पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heisenberg
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+रात में कंक्रीट की सीढ़ियों पर पूरी काली पोशाक में चश्मा पहने एक युवा व्यक्ति का अति-यथार्थवादी सिनेमैटिक पोर्ट्रेट।
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: फुटबॉल जर्सी में बच्चे का स्टूडियो पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aijaz
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+अंतरराष्ट्रीय फुटबॉल जर्सी पहने एक छोटे बच्चे का पेशेवर स्टूडियो पोर्ट्रेट जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: धुंध के ऊपर जलसेतु
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** sayobonita
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+शाम के समय धुंधले पानी के ऊपर लकड़ी के जलसेतुओं और पुलों वाला एक काल्पनिक तैरता शहर।
+
+#### Prompt
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: मिनिएचर टॉय सेल्फ रियलिस्टिक फोटो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ATHARI_ALF
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक व्यक्ति द्वारा स्वयं के मिनिएचर खिलौने संस्करण को पकड़े हुए एक यथार्थवादी फोटो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: मिनिएचर टॉय सेल्फ रियलिस्टिक फोटो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ATHARI_ALF
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक व्यक्ति द्वारा स्वयं के पिक्सर-शैली के छोटे खिलौने संस्करण को पकड़े हुए एक यथार्थवादी फोटो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: हाइपर-रियलिस्टिक मेस्सी सिनेमैटिक स्पोर्ट्स कम्पोजिट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Hendry Lim
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+कैनन पर शूट किया गया, मेस्सी के हीरो पोर्ट्रेट और एक्शन ट्रायो वाला एक हाइपर-रियलिस्टिक सिनेमैटिक स्पोर्ट्स फोटोग्राफ कम्पोजिट।
+
+#### Prompt
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: लकड़ी के पैनल वाले कमरे में मिरर सेल्फी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sadie 🥀
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गहरे भूरे बालों वाली एक युवा महिला द्वारा एक शानदार सेटिंग में आत्मविश्वास से सेल्फी लेते हुए वीडियो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: ग्रेनाइट पत्थर की दीवार पर झुका हुआ आदमी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Picts by AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक सुंदर, फिट आदमी के आत्मविश्वास से जीर्ण ग्रेनाइट पत्थर की दीवार पर झुके हुए वीडियो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: गूगल एआई टूल्स 2026
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Omor Faruk
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक फ्यूचरिस्टिक रोबोट मास्कट और डिजिटल तत्वों के साथ 22 गूगल एआई टूल्स की एक सचित्र सूची।
+
+#### Prompt
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: हाई-एंड फैशन स्टूडियो दृश्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** glena Jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+साफ सफेद पृष्ठभूमि वाले एक मिनिमलिस्ट फैशन स्टूडियो दृश्य के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: बादलों के ऊपर हवाई जहाज
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** İbrahim Feyzullayev
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक वाणिज्यिक हवाई जहाज सुनहरी सूर्यास्त के दौरान बादलों के समुद्र के ऊपर उड़ रहा है।
+
+#### Prompt
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: जेमिनी ओमनी वीडियो डेमो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Signal Lab
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक भविष्यवादी डिजिटल इंटरफ़ेस जो गूगल के जेमिनी ओमनी एआई मॉडल को इनपुट को वीडियो सामग्री में परिवर्तित करते हुए प्रदर्शित करता है।
+
+#### Prompt
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: लघु खिलौना सेल्फ पिक्सर स्टाइल फोटो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक व्यक्ति की वास्तविक तस्वीर जो अपने ही पिक्सर-शैली के छोटे खिलौने संस्करण को पकड़े हुए है।
+
+#### Prompt
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: माइक्रोफोन वाली महिला का कोलाज
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Victoria Chimnaza Sunday.
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गुलाबी माइक्रोफोन पकड़े एक महिला किताबों की अलमारियों वाले एक आधुनिक कमरे में कई ओवरलैपिंग फ़्रेमों में दिखाई देती है।
+
+#### Prompt
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: विश्व कप ब्राज़ील बनाम जर्मनी मैच पोस्टर
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jahan Zaib
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+ब्राज़ील बनाम जर्मनी की एक पौराणिक विश्व कप मुठभेड़ को दर्शाने वाले एक ऊर्ध्वाधर खेल पोस्टर के लिए एक विस्तृत सिनेमाई प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: ग्राफिक टॉप में गोरी महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** glena Jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+रंगीन क्रॉप टॉप और जींस पहने एक महिला तटस्थ दीवार के सामने पोज़ दे रही है।
+
+#### Prompt
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: आधा चेहरा आधा सॉकर बॉल चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Shams
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक खिलाड़ी के चेहरे को आधे सॉकर बॉल के साथ मिलाता हुआ एक फोटोरियलिस्टिक चित्र।
+
+#### Prompt
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: मिनिमल स्टूडियो फैशन दृश्य प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** glena Jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक न्यूनतम इंडोर स्टूडियो सेटिंग में एक साफ़, संपादकीय फैशन वीडियो उत्पन्न करने के लिए एक संरचित प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: क्रिस्टल गोलेम कार्ड
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Nick
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+दो डिजिटल पोकेमॉन-शैली के कार्ड जो विस्तृत स्टैट्स और क्षमताओं के साथ एक क्रिस्टल गोलेम प्राणी के विकास को प्रदर्शित करते हैं।
+
+#### Prompt
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: विंटेज फूल पावर पोस्टर प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minuit
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+1960-1970 के दशक का मनोविकृतिकारी हिप्पी पोस्टर बनाने के लिए एक प्रॉम्प्ट, जिस पर MAKE LOVE NOT WAR का नारा है।
+
+#### Prompt
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: नर्स वेशभूषा चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** glena Jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+नर्स के कपड़े पहने एक महिला नीले दस्ताने पहनते हुए पोज़ दे रही है।
+
+#### Prompt
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: नारंगी जर्सी में महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Giulia
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+नेदरलैंड्स फुटबॉल जर्सी में एक महिला लाल पृष्ठभूमि के खिलाफ चंचलता से पोज़ दे रही है, और अपने हाथों से फ़्रेम बनाने का इशारा कर रही है।
+
+#### Prompt
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: रोबोट कलाकार पेंटिंग
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** NewsTongue
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक रोबोट कलाकार एक पुराने स्टूडियो में कैनवास पर 'REVE 2.0' लिखकर स्टैरी नाइट का एक आधुनिक संस्करण चित्रित कर रहा है।
+
+#### Prompt
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: युद्ध-थका लड़ाकू सिनेमाई चित्र प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ahmad Faraz
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक थका हुआ, बिना कमीज़ के पुरुष लड़ाकू का अतियथार्थवादी क्लोज-अप चित्र उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: नौका पर महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sophia | AI Artist ✨
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+नीले स्विमसूट में एक महिला एक नौका पर खड़ी है, जो अपने कंधे के ऊपर से पीछे समुद्र को देख रही है।
+
+#### Prompt
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: चीनी मिट्टी की देवी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला सोने से मरम्मत किए गए टूटे हुए चीनी मिट्टी के बर्तन से निकलती है, जो टूटने में भी सुंदरता का प्रतीक है।
+
+#### Prompt
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: बारबर शॉप रिफ्लेक्शन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Hassan👑
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+टैटू वाला एक आदमी बार्बर की कुर्सी पर बैठा है, उसका प्रतिबिंब शीशे में दिख रहा है जबकि बार्बर एक क्लासिक बारबरशॉप सेटिंग में उसके पीछे खड़ा है।
+
+#### Prompt
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: सिडनी स्वीनी हार्ट शेप्ड फेस प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinodi
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सिडनी स्वीनी को दिल के आकार के चेहरे के साथ वीडियो जनरेट करने के लिए एक संरचित प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: ब्लैक वेलवेट कॉर्सेट फैशन प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Özge Döner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक विस्तृत फैशन प्रॉम्प्ट जो चांदी की चेन डिटेल्स वाला एक काले वेलवेट का कॉर्सेट टॉप और लंबे काले लहरदार बाल निर्दिष्ट करता है।
+
+#### Prompt
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: पिघलती घड़ी वाला पत्थर का चेहरा
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jason Heaton
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक अंधेरी, सर्पिल सीढ़ी में पिघलती घड़ी वाले पत्थर के चेहरे की एक अलौकिक छवि।
+
+#### Prompt
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: आइवरी ड्रेस के साथ एडिटोरियल फैशन पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Özge Döner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक एडिटोरियल फैशन पोर्ट्रेट के लिए एक प्रॉम्प्ट, जिसमें एक स्ट्रक्चर्ड आइवरी साटन स्लिप ड्रेस पहने एक आत्मविश्वासी मॉडल है।
+
+#### Prompt
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: लकड़ी की संरचना में आदमी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Khlaseek designer
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक आदमी धूप से जगमगाती लकड़ी की इमारत में आत्मविश्वास से खड़ा है, जिसने गहरे रंग का ब्लेज़र और शर्ट पहना हुआ है।
+
+#### Prompt
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: क्रिमसन स्टूडियो डांस मोशन एडिटोरियल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Özge Döner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक क्रिमसन स्टूडियो में काले वेलवेट कॉर्सेट पहने एक महिला द्वारा सहज डांस मोशन करते हुए 3x3 ग्रिड बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: हाई फैशन डांस मोशन एडिटोरियल ग्रिड
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Özge Döner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक 3x3 कॉन्टैक्ट शीट ग्रिड के लिए एक प्रॉम्प्ट, जिसमें एक क्रिमसन स्टूडियो में एक ही महिला हाई-फैशन डांस मोशन कर रही है।
+
+#### Prompt
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: अंधेरे में चमकते गोले
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** N Creates AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक अंधेरा दृश्य जिसमें दो नरम, गर्म चमकते गोले हैं, जो एक मिनिमलिस्ट और अमूर्त दृश्य प्रभाव बना रहे हैं।
+
+#### Prompt
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: एनिमे फिगर डायोरामा
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+ड्रैगन बॉल, नारुतो, वन पीस और ब्लीच से प्रतिष्ठित लड़ाइयों को प्रदर्शित करते हुए चार उच्च-विस्तार वाले एनिमे एक्शन फिगर दृश्य।
+
+#### Prompt
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: इतालवी सिडनी स्वीनी खाते हुए शौकिया शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KeorUnreal
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सिडनी स्वीनी को खाते हुए दिखाने वाले एक सूक्ष्म, धुंधले, निम्न-गुणवत्ता वाले शौकिया आईफोन वीडियो के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: जेमिनी ओमनी एआई लाइटिंग
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** CHRIS FIRST
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक आदमी सफेद टी-शर्ट और टोपी पहने माइक्रोफोन पकड़े हुए है, जिस पर जेमिनी ओमनी एआई स्टूडियो लाइटिंग को प्रचारित करने वाला टेक्स्ट ओवरले है।
+
+#### Prompt
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: पेशेवर कंटेंट क्रिएटर पृष्ठभूमि प्रतिस्थापन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** CHRIS FIRST
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+पृष्ठभूमि को एक टेक इन्फ्लुएंसर के लिए हाई-एंड डेस्क सेटअप से बदलें।
+
+#### Prompt
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: वेलनेस इन्फ्लुएंसर पृष्ठभूमि प्रतिस्थापन प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** CHRIS FIRST
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रॉम्प्ट जो किसी व्यक्ति की पृष्ठभूमि को एक पेशेवर सौंदर्य और जीवनशैली इन्फ्लुएंसर की पृष्ठभूमि से बदलने के लिए है, जिसमें एक साफ इंटीरियर और गर्म रोशनी हो।
+
+#### Prompt
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: पेशेवर फिल्म स्टूडियो पृष्ठभूमि प्रतिस्थापन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** CHRIS FIRST
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रॉम्प्ट जो किसी व्यक्ति की पृष्ठभूमि को एक नरम, धुंधली, पेशेवर फिल्म स्टूडियो के वातावरण से बदलने के लिए है।
+
+#### Prompt
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: बरसाती शहर की योद्धा
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** shawn_maybush
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक लड़की स्कूल यूनिफॉर्म पहने बारिश से भीगे, भविष्यवादी शहरी परिदृश्य में तलवार लिए खड़ी है।
+
+#### Prompt
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: कोका-कोला जीत उत्सव
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** SaaS Junction ✦ Daily AI News & Prompts
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+कोका-कोला के डिब्बों से बनी एक ट्रॉफी कन्फ़ेटी और चिंगारियों के साथ जीत का जश्न मना रही है।
+
+#### Prompt
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: लेगो वर्ल्ड कप ट्रॉफी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** SaaS Junction ✦ Daily AI News & Prompts
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+कन्फ़ेटी और स्पार्कल्स के साथ एक सुनहरी लेगो वर्ल्ड कप ट्रॉफी, जो एक ड्रीम-बिल्डिंग अभियान को प्रमोट कर रही है।
+
+#### Prompt
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: नीले ड्रैगन की सवारी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Rendar AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक सवार एक शानदार नीले ड्रैगन पर एक उष्णकटिबंधीय द्वीप के ऊपर उड़ रहा है, जिसके नीचे झरने और फ़िरोज़ा पानी है।
+
+#### Prompt
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: ग्रेफाइट पेंसिल स्केच ड्यूल पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विंटेज पेपर पर एक आदमी और एक महिला का साथ-साथ विस्तृत ग्रेफाइट पेंसिल स्केच।
+
+#### Prompt
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: आउटलॉ काउबॉय सिनेमैटिक पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** WeWant Mars
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+धूल भरे ओल्ड वेस्ट बोर्डवॉक पर सूर्यास्त के समय एक बदमिज़ाज आउटलॉ काउबॉय का सिनेमैटिक पोर्ट्रेट।
+
+#### Prompt
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: रात में बिस्तर पर महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Niharika Nm
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला गुलाबी कंबल के नीचे बिस्तर पर आराम कर रही है, जिसे बेडसाइड लैम्प की गर्म रोशनी से रोशन किया गया है।
+
+#### Prompt
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: पिक्सल ड्रॉप लॉन्च
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AIVAnet
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+स्क्रीन रिएक्शन के साथ Google की पिक्सल ड्रॉप फीचर के लिए एक प्रचारात्मक छवि।
+
+#### Prompt
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: गुड वाइब्स हाई टाइड्स रेट्रो ग्राफिक डिज़ाइन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heather Green
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+समुद्र के सूर्यास्त के दृश्य और डिस्ट्रेस्ड टेक्स्ट के साथ एक गोलाकार, रेट्रो-स्टाइल ग्राफिक बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: हाई फैशन एडिटोरियल पोर्ट्रेट पहचान संदर्भ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Soaima
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ फोटो से सटीक चेहरे की पहचान को संरक्षित करते हुए अल्ट्रा-यथार्थवादी पोर्ट्रेट जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: एक मिनिमलिस्ट म्यूज का मोनोक्रोम फैशन पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Virena
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विशिष्ट चेहरे की विशेषताओं वाली एक सुरुचिपूर्ण महिला के लिए फाइन-आर्ट मोनोक्रोम पोर्ट्रेट प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: सुरुचिपूर्ण फूलदार पोशाक
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Wandering Corner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला एक स्टाइलिश बेज रंग के फूलदार परिधान में पोज़ दे रही है, जिसमें हाई-लो स्कर्ट और ऑफ-शोल्डर टॉप है।
+
+#### Prompt
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: अल्ट्रा-यथार्थवादी स्मार्टफोन पोर्ट्रेट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aiza
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लहराते बालों और चश्मे वाली एक युवा महिला की सहज स्मार्टफोन तस्वीर जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: अल्ट्रा रियलिस्टिक वॉटरकलर पोर्ट्रेट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Anaya Ai
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ छवि से सख्त पहचान संरक्षण के साथ उच्च-परिभाषा वॉटरकलर-यथार्थवादी पोर्ट्रेट बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: आरामदायक पोशाक में महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Zara
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला काले टैंक टॉप और क्रीम रंग की पैंट पहने आत्मविश्वास से पोज़ दे रही है, सादे पृष्ठभूमि के सामने सफेद स्टूल पर बैठी हुई।
+
+#### Prompt
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

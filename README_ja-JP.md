@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,9 +23,9 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 320 |
+| 総プロンプト数 | 392 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 142 |
+| プレビュー動画数 | 154 |
 | 最終更新 | 2026/06/15 |
 
 ### 🧩 Supported Models
@@ -2127,7 +2127,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -6577,6 +6577,1488 @@ A modern desk setup with a sleek monitor displaying a serene architectural scene
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: 砂漠の道の男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hassan👑
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+鮮やかな夕焼け空の下、ひび割れた砂漠の道に立つ男性が、ジャケットを手に真剣な表情を浮かべている。
+
+#### プロンプト
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: 彼女の瞳に映る都市
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI Sparks
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+女性のサングラスに輝く緑の未来的な都市景観が反射し、彼女の柔らかな特徴と白い毛皮のコートとの印象的な視覚的コントラストを生み出している。
+
+#### プロンプト
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: スーツ姿のメッシのヴィンテージポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シャープな濃紺のスーツと蝶ネクタイを着たリオネル・メッシのヴィンテージスタイルのイラストポスターを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: 女性の超写実的ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jarvis AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔の特徴を持つ女性の超写実的ポートレートを生成するための詳細なプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: リアリズムまたは写真リアリズムで動画をラップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Martin Nebelong
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+動画を写真のようなリアリズムまたは現実的な質感で包み込むことで、リアリズムを高めるためのプロンプト。
+
+#### プロンプト
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: サッカーボールを持つハイファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kashberg
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔と髪型を使用した、若いアジア人女性がアディダスのサッカーボールを持つ、写真のようにリアルなエディトリアルポートレート。
+
+#### プロンプト
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: チューリップ畑の女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** glena Jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夕焼けの黄金色の光に照らされた鮮やかなピンクのチューリップ畑に立つ女性で、温かな光が彼女の顔を照らしている。
+
+#### プロンプト
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: 幸運を祈るイラスト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** TechieSA
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+男性が誤ってハンマーで手を打つユーモラスな漫画で、「Good Luck」の文字とIKEAのロゴが添えられている。
+
+#### プロンプト
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: Nano Banana Pro 画像プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** glena Jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の被写体のアイデンティティと外観を指定して画像を生成するための構造化されたJSONプロンプト。
+
+#### プロンプト
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: 未来的な連邦政府車両
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Artingent
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+重装甲の軍用車両が、雨に濡れた未来的な都市に立ち、兵士とそびえ立つ高層ビルが描かれている。
+
+#### プロンプト
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: 霧の上の水道橋
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Artingent
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+霧深い渓谷の川の上に築かれた幻想的な木造都市で、輝くランタンと複雑な橋が特徴。
+
+#### プロンプト
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: パパラッチ風 億万長者の彼女の写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝗦𝗮𝗻𝗶𝗮
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+超高精細なパパラッチ風のエディトリアル写真で、高級ホテルから出てくる億万長者の彼女を捉えたもの。
+
+#### プロンプト
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: ビーチリゾートでのリラクゼーション
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+花柄のビキニを着た女性が、ヤシの木と茅葺き屋根のバンガローが背景にある熱帯リゾートのサンベッドでくつろいでいる。
+
+#### プロンプト
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: 発光菌類の聖域
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Artingent
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+錬金術師たちが発光する菌類を栽培し、手作りの雰囲気ある円形の浮遊領域で植物療法薬を調合する、ミニチュアの芸術的なバイオパンク世界。
+
+#### プロンプト
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: 植物学的な憂鬱 ポートレート・プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+密集した壁を背景に、静かな余韻の中にいる主人公をフィーチャーした、超リアルなポートレート・プロンプト。
+
+#### プロンプト
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: 青い爬虫類のクローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Flyover Base
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+幻想的な環境で、印象的な黄色い目をした青い爬虫類の生き物のクローズアップ。
+
+#### プロンプト
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: 都市の階段での映画的なポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heisenberg
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夜のコンクリート階段に、オールブラックの服装で眼鏡をかけた若い男性が座っている、超リアルな映画的なポートレート。
+
+#### プロンプト
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: サッカージャージを着た子供のスタジオ・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aijaz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+国際的なサッカージャージを着た幼い子供のプロフェッショナルなスタジオ・ポートレートを生成するプロンプト。
+
+#### プロンプト
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: 霧の上の水道橋
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** sayobonita
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夕暮れ時の霧深い水域の上に、木製の水道橋や橋が浮かぶ幻想的な空中都市。
+
+#### プロンプト
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: ミニチュアおもちゃの自分 リアルな写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ATHARI_ALF
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ミニチュアおもちゃの自分を手に持った人物のリアルな写真を作成するプロンプト。
+
+#### プロンプト
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: ミニチュアおもちゃの自分 リアルな写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ATHARI_ALF
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ピクサー・スタイルの小さなおもちゃの自分を手に持った人物のリアルな写真を作成するプロンプト。
+
+#### プロンプト
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: 超リアルなメッシの映画的なスポーツ・コンポジット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hendry Lim
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ヒーローポートレートとアクション・トリオでメッシをフィーチャーした、Canonで撮影された超リアルな映画的なスポーツ写真コンポジット。
+
+#### プロンプト
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: 木目パネルの部屋での鏡面セルフィー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sadie 🥀
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ダークブラウンの髪をした若い女性が、優雅な環境で自信に満ちたセルフィーを撮る動画生成用プロンプト。
+
+#### プロンプト
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: 花崗岩の石壁にもたれる男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハンサムで引き締まった男性が、風化した花崗岩の石壁に自信を持ってもたれかかる動画生成用プロンプト。
+
+#### プロンプト
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: Google AIツール 2026
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Omor Faruk
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+未来的なロボット・マスコットとデジタル要素を伴った、22のGoogle AIツールのイラストリスト。
+
+#### プロンプト
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: ハイエンド・ファッション・スタジオのシーン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** glena Jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+清潔な白い背景を持つ、ミニマリストなファッション・スタジオのシーンプロンプト。
+
+#### プロンプト
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: 雲海を飛ぶ飛行機
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** İbrahim Feyzullayev
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黄金色の夕焼けの中、雲海の上を飛行する旅客機。
+
+#### プロンプト
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: Gemini Omni ビデオデモ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Signal Lab
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GoogleのGemini Omni AIモデルが入力をビデオコンテンツに変換する様子を紹介する、未来的なデジタルインターフェース。
+
+#### プロンプト
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: ミニチュアおもちゃの自分（ピクサースタイル）写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+人が、ピクサースタイルの小さなおもちゃ版の自分を手に持っているリアルな写真。
+
+#### プロンプト
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: マイクを持つ女性のコラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Victoria Chimnaza Sunday.
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ピンクのマイクを持つ女性が、本棚のあるモダンな部屋で複数の重なり合うフレームの中に現れている。
+
+#### プロンプト
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: ワールドカップ ブラジル対ドイツ マッチポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jahan Zaib
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+伝説的なブラジル対ドイツのワールドカップ対決を描いた、縦長の映画的なスポーツポスターのための詳細なプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: グラフィックトップのブロンド女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** glena Jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カラフルなクロップトップとジーンズを着た女性が、ニュートラルな壁を背景にポーズをとっている。
+
+#### プロンプト
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: 半顔・半サッカーボールのポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Shams
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+選手の顔とサッカーボールの半分を融合させた、写真のようにリアルなポートレート。
+
+#### プロンプト
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: ミニマルスタジオ・ファッションシーンプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** glena Jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ミニマルな室内スタジオ設定で、クリーンでエディトリアルなファッションビデオを生成するための構造化プロンプト。
+
+#### プロンプト
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: クリスタルゴーレムカード
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Nick
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+詳細なステータスと能力を持つクリスタルゴーレムクリーチャーの進化を紹介する、ポケモンスタイルの2枚のデジタルカード。
+
+#### プロンプト
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: ヴィンテージ・フラワーパワーポスタープロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minuit
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+スローガン「MAKE LOVE NOT WAR」を掲げた、サイケデリックな1960-70年代のヒッピーポスターを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: ナースコスチュームのポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** glena Jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ナースの衣装を着た女性が、青い手袋をはめながらポーズをとっている。
+
+#### プロンプト
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: オレンジジャージの女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+オランダ代表サッカージャージを着た女性が、赤い背景を前に手でフレーミングの仕草をしながら遊び心のあるポーズをとっている。
+
+#### プロンプト
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: ロボットアーティストの絵画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** NewsTongue
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ヴィンテージスタジオで、ロボットアーティストがキャンバスに「REVE 2.0」と書かれた現代版『星月夜』を描いている。
+
+#### プロンプト
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: 戦いに疲れたファイターの映画的ポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ahmad Faraz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+疲れ果て、シャツを脱いだ男性ファイターの超リアルなクローズアップ肖像画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: ヨットの上の女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+青い水着の女性がヨットの上に立ち、振り返って後ろの海を見つめている。
+
+#### プロンプト
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: 磁器の女神
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+砕けた磁器から金継ぎで修復されながら現れる女性。壊れたものの中にある美の象徴。
+
+#### プロンプト
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: 理髪店の反射
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hassan👑
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+タトゥーを入れた男性が理髪店の椅子に座り、その背後に理髪師が立つクラシックな理髪店の設定で、鏡に彼の姿が映っています。
+
+#### プロンプト
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: ハート型の顔を持つシドニー・スウィーニーのプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Pinodi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハート型の顔を持つシドニー・スウィーニーの動画を生成するための構造化されたプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: ブラックベルベットコルセットのファッションプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Özge Döner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シルバーチェーンのディテールが施されたブラックベルベットのコルセットトップと、長くダークなウェーブヘアを指定した詳細なファッションプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: 溶ける時計を持つ石の顔
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jason Heaton
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+暗くらせん状の階段の中で、溶ける時計を持つ石の顔というシュールなイメージです。
+
+#### プロンプト
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: アイボリードレスのエディトリアルファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Özge Döner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+構造化されたアイボリーサテンのスリップドレスを着た自信に満ちたモデルをフィーチャーした、エディトリアルファッションポートレートのプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: 木造建築の中の男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Khlaseek designer
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+日差しの差し込む木造建築の中で、ダークなブレザーとシャツを着た男性が自信に満ちた様子で立っています。
+
+#### プロンプト
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: 深紅スタジオでのダンスモーションエディトリアル
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Özge Döner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黒いベルベットのコルセットを着た女性が、深紅のスタジオで自然なダンスモーションをとる、3x3グリッドを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: ハイファッションダンスモーションのエディトリアルグリッド
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Özge Döner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+深紅のスタジオで、同じ女性がハイファッションなダンスモーションをとる、3x3のコンタクトシートグリッドを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: 暗闇に浮かぶ光るオーブ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** N Creates AI
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+2つの柔らかく温かな光を放つオーブが、ミニマルで抽象的な視覚効果を生み出す暗いシーンです。
+
+#### プロンプト
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: アニメフィギュアのジオラマ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ドラゴンボール、NARUTO、ONE PIECE、BLEACHの象徴的な戦いを描いた、4つの高詳細なアニメアクションフィギュアシーンです。
+
+#### プロンプト
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: シドニー・スウィーニーが食事をするイタリアンなアマチュアショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シドニー・スウィーニーが食事をする、控えめでぼやけた低品質のアマチュアiPhone動画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: Gemini Omni AI ライティング
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CHRIS FIRST
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+白いTシャツとキャップを着た男性がマイクを持ち、Gemini Omni AIスタジオライティングを宣伝するテキストオーバーレイが表示されています。
+
+#### プロンプト
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: プロフェッショナルなコンテンツクリエイター向け背景置き換え
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CHRIS FIRST
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+背景を、テックインフルエンサー向けのハイエンドなデスクセットアップに置き換えるためのプロンプトです。
+
+#### プロンプト
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: ウェルネスインフルエンサー向け背景置き換えプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CHRIS FIRST
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+被写体の背景を、清潔なインテリアと温かな照明が特徴の、プロフェッショナルなビューティー・ライフスタイルインフルエンサー向けの背景に置き換えるためのプロンプトです。
+
+#### プロンプト
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: プロフェッショナルなフィルムスタジオ背景置き換え
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CHRIS FIRST
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+被写体の背景を、ソフトでボケたプロフェッショナルなフィルムスタジオ環境に置き換えるためのプロンプトです。
+
+#### プロンプト
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: 雨の街の戦士
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** shawn_maybush
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+雨に濡れた近未来的な都市景観の中で、制服姿の少女が剣を構えています。
+
+#### プロンプト
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: Coca-Cola勝利の祝賀
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Coca-Cola缶で作られたトロフィーが、紙吹雪とスパークで勝利を祝っています。
+
+#### プロンプト
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: LEGOワールドカップトロフィー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+紙吹雪とキラめきを伴う金色のLEGOワールドカップトロフィー。夢を形作るキャンペーンを宣伝します。
+
+#### プロンプト
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: 青いドラゴンに乗って
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Rendar AI
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+騎手が、滝とターコイズブルーの海に囲まれた熱帯の島の上空を、雄大な青いドラゴンに乗って飛んでいます。
+
+#### プロンプト
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: グラファイト鉛筆スケッチによる二人の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+男性と女性が並んだ姿を、ヴィンテージ紙の上に詳細に描いたグラファイト鉛筆スケッチ。
+
+#### プロンプト
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: 無法者カウボーイのシネマティック・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** WeWant Mars
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夕暮れ時のほこりっぽい西部劇風の遊歩道に立つ、ワイルドな無法者カウボーイの映画的な肖像画。
+
+#### プロンプト
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: 夜のベッドにいる女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Niharika Nm
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ピンクの毛布にくるまり、ベッドサイドランプの温かな光に照らされてリラックスする女性。
+
+#### プロンプト
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: Pixel Drop ローンチ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AIVAnet
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GoogleのPixel Drop機能を、画面の反応とともに宣伝するプロモーション画像。
+
+#### プロンプト
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: 「Good Vibes High Tides」レトログラフィックデザイン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+海と夕日をイメージした円形のレトロスタイルグラフィックで、ディストレス加工されたテキストを配置するプロンプト。
+
+#### プロンプト
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: ハイファッション・エディトリアル風ポートレート（同一性保持）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Soaima
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照写真から正確な顔の同一性を保持した、超高精細な肖像画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: ミニマリストの女神を描くモノクローム・ファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Virena
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔立ちを持つエレガントな女性の、ファインアート調モノクローム肖像画作成のためのプロンプト。
+
+#### プロンプト
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: エレガントなフローラルスタイル
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Wandering Corner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハイロー丈のスカートとオフショルダートップを組み合わせた、スタイリッシュなベージュのフローラル柄の衣装を着た女性がポーズをとっています。
+
+#### プロンプト
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: 超高精細スマートフォン肖像画プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aiza
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ウェーブヘアと眼鏡をかけた若い女性の、自然なスマートフォン写真を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: 超高精細水彩リアリズム肖像画プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Anaya Ai
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像から厳密に同一性を保持した、高精細な水彩リアリズム肖像画を作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: カジュアルウェアの女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zara
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黒のタンクトップとクリーム色のパンツを着た女性が、無地の背景の白いスツールに座り、自信に満ちたポーズをとっています。
+
+#### プロンプト
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

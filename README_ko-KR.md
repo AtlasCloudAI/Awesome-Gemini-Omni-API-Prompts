@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-320%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-392%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,9 +23,9 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 320 |
+| 전체 프롬프트 | 392 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 142 |
+| 미리보기 비디오 수 | 154 |
 | 마지막 업데이트 | 2026. 06. 15. |
 
 ### 🧩 Supported Models
@@ -2127,7 +2127,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (218)
+### Twitter Community (290)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -6577,6 +6577,1488 @@ A modern desk setup with a sleek monitor displaying a serene architectural scene
 
 ```text
 a young woman in a Spanish football team outfit lying on a rug, watching a soccer game on an old TV, surrounded by Spanish flags and football memorabilia, with popcorn and a drink nearby, warm indoor lighting, realistic style
+```
+
+### No. 321: 사막 도로의 남자
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hassan👑
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남자가 생생한 석양 하늘 아래 갈라진 사막 도로에 서서 재킷을 들고 진지한 표정을 짓고 있습니다.
+
+#### 프롬프트
+
+```text
+a man standing on a desert road at sunset, wearing a white t-shirt, black jeans, and brown boots, holding a black leather jacket over his shoulder, with a dramatic pink and orange sky behind him, cinematic lighting, high detail, photorealistic
+```
+
+### No. 322: 그녀의 눈에 비친 도시
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AI Sparks
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성의 선글라스에 반사된 빛나는 녹색 미래 도시 풍경이, 그녀의 부드러운 이목구비와 하얀 퍼 코트와 선명한 시각적 대비를 이루고 있습니다.
+
+#### 프롬프트
+
+```text
+a woman wearing aviator sunglasses with a futuristic cityscape reflection, white fur coat, hands gently touching her face, hyper-realistic portrait, cinematic lighting
+```
+
+### No. 323: 정장을 입은 메시의 빈티지 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+날카로운 다크 블루 정장과 나비넥타이를 착용한 리오넬 메시의 빈티지 스타일 일러스트 포스터를 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a
+```
+
+### No. 324: 초현실적인 여성 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jarvis AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 얼굴 특징을 가진 여성의 초현실적인 초상화를 생성하기 위한 상세한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra-photorealistic 8K RAW DSLR portrait of the exact same woman from the reference image, preserving 100% identical face, facial features, eye color and shape, eyebrow arch, nose, full lips with glossy red lipstick, long
+```
+
+### No. 325: 비디오를 리얼리즘 또는 사진적 리얼리즘으로 감싸기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Martin Nebelong
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066152063147401699.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+비디오를 사진적이거나 사실적인 특성으로 감싸 리얼리즘을 향상시키기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+"Wrap the video in realism" or "Wrap the video in the realism of the photograph"
+```
+
+### No. 326: 축구공을 든 하이패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kashberg
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+아디다스 축구공을 들고 있는 젊은 아시아 여성의 사진처럼 사실적인 편집 초상화로, 특정 얼굴과 헤어스타일이 사용되었습니다.
+
+#### 프롬프트
+
+```text
+Use face and hair style from attached photo
+subjec : Photorealistic high-fashion editorial portrait of a beautiful young Asian woman holding a ADIDAS TRIONDA 2026 soccer ball
+pose: looking to camera from her shoulder
+shoot tecnic: 3/4 body
+```
+
+### No. 327: 튤립 밭의 여인
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** glena Jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+황금빛 석양이 내리쬐는 동안 여자가 생생한 분홍색 튤립 밭에 서 있으며, 따뜻한 빛이 그녀의 얼굴을 비추고 있습니다.
+
+#### 프롬프트
+
+```text
+a young woman with blonde hair and blue eyes standing in a field of pink tulips at sunset, wearing a pink floral dress, soft lighting, warm colors, photorealistic
+```
+
+### No. 328: 행운을 빌어요 일러스트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** TechieSA
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남자가 실수로 망치로 손을 치는 유머러스한 만화로, 'Good Luck'이라는 글자와 이케아 로고가 함께 그려져 있습니다.
+
+#### 프롬프트
+
+```text
+A cartoon-style illustration of a man holding a yellow hammer, looking distressed as he accidentally hits his hand with the hammer, surrounded by stars and lightning bolts, with the text 'Good Luck' at the top and the IKEA logo at the bottom, on a plain white background
+```
+
+### No. 329: 나노 바나나 프로 이미지 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** glena Jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 주체의 정체성과 외모를 가진 이미지를 생성하기 위한 구조화된 JSON 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "expression": "Soft natural smile with calm dreamy eyes, warm"
+```
+
+### No. 330: 미래형 연방 차량
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artingent
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+강력하게 장갑을 두른 군용 차량이 비가 내리는 미래 도시에 서 있으며, 군인들과 높이 솟은 빌딩들이 배경을 이루고 있습니다.
+
+#### 프롬프트
+
+```text
+futuristic armored military vehicle labeled 'Aegis Guard' and 'Federal Security', standing on a wet city street with soldiers and skyscrapers in the background, cinematic lighting, detailed sci-fi environment
+```
+
+### No. 331: 안개 위의 수로 도시
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artingent
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+안개가 자욱한 강 협곡 위에 세워진 환상적인 목조 도시로, 빛나는 등불과 정교한 다리들이 어우러진 모습입니다.
+
+#### 프롬프트
+
+```text
+a colossal suspended timber city with elevated rivers, carved bridges, and lantern-lit aqueducts weaving through mist-filled canyon skies, traditional East Asian architecture, wooden structures, foggy atmosphere, warm lighting, detailed fantasy cityscape, cinematic view
+```
+
+### No. 332: 파파라치 스타일의 억만장자 여자친구 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝗦𝗮𝗻𝗶𝗮
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+호화로운 호텔을 나서는 억만장자 여자친구를 초현실적인 파파라치 스타일의 편집 사진으로 담은 이미지입니다.
+
+#### 프롬프트
+
+```text
+A hyper-realistic paparazzi-style editorial photograph capturing a billionaire girlfriend exiting an iconic five-star luxury hotel during a bright afternoon after an exclusive private event. A young woman (reference preserved), elegant,
+```
+
+### No. 333: 비치 리조트에서의 휴식
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sophia | AI Artist ✨
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+꽃무늬 비키니를 입은 여성이 야자수와 초가 지붕 방갈로가 배경에 있는 열대 리조트의 선베드에 누워 쉬고 있다.
+
+#### 프롬프트
+
+```text
+a woman in a floral bikini sitting on a lounge chair at a tropical resort, palm trees and thatched-roof bungalows in the background, bright sunny day, realistic photography
+```
+
+### No. 334: 빛나는 버섯 성소
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artingent
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+연금술사들이 빛나는 버섯을 재배하고 식물성 치료제를 준비하는, 손으로 제작된 분위기 있는 원형의 떠다니는 미니어처 아트 바이오펑크 세계.
+
+#### 프롬프트
+
+```text
+a circular, handcrafted, atmospheric miniature world floating in the sky, filled with bioluminescent fungi, glowing plants, and tiny alchemists working in a magical laboratory, intricate wooden shelves, winding staircases, and glowing green liquids, detailed fantasy art style, 3D render, cinematic lighting
+```
+
+### No. 335: 식물성 우울 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+빽빽한 벽을 배경으로 고요한 여운에 잠긴 주인공이 등장하는 초현실적 초상화 프롬프트.
+
+#### 프롬프트
+
+```text
+A hyper-realistic, dynamic bokeh close-up portrait of The Protagonist in the aftermath calm, leaning heavily against a dense, suffocating wall of massive, physically
+```
+
+### No. 336: 푸른 파충류 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Flyover Base
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066165288274378931.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+환상적인 배경 속에서 강렬한 노란 눈을 가진 푸른 파충류 생물의 클로즈업.
+
+#### 프롬프트
+
+```text
+close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment
+```
+
+### No. 337: 도시 계단 위의 시네마틱 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heisenberg
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+밤중에 콘크리트 계단에 앉아 있는, 안경을 쓴 젊은 남성의 초현실적 시네마틱 초상화. 전신을 검은색 옷으로 차려입음.
+
+#### 프롬프트
+
+```text
+Ultra-realistic cinematic portrait of a young man wearing glasses sitting casually on concrete urban stairs at night, wearing an all-black outfit consisting of a black open button-up shirt layered over a black crew-neck t-shirt and loose black
+```
+
+### No. 338: 축구 유니폼을 입은 아이의 스튜디오 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aijaz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+국제 축구 유니폼을 입은 어린 아이의 전문적인 스튜디오 초상화를 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Professional full-body studio portrait of a cheerful young child (4–6 years old) wearing an international football jersey, standing against a seamless black backdrop. High-end
+```
+
+### No. 339: 안개 위의 수로
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** sayobonita
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+황혼 무렵 안개 낀 물 위에 나무 수로와 다리가 있는 환상적인 공중 도시.
+
+#### 프롬프트
+
+```text
+a misty ancient Asian-inspired floating city with wooden aqueducts, bridges, and lantern-lit buildings, rendered in a detailed fantasy art style, cinematic lighting, wide-angle view
+```
+
+### No. 340: 미니어처 장난감 자아 리얼리즘 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ATHARI_ALF
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+자신을 닮은 미니어처 장난감을 들고 있는 사람의 리얼리즘 사진을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big
+```
+
+### No. 341: 미니어처 장난감 자아 리얼리즘 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ATHARI_ALF
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+자신을 닮은 작은 픽사 스타일 장난감을 들고 있는 사람의 리얼리즘 사진을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character
+```
+
+### No. 342: 초현실적 메시 시네마틱 스포츠 합성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hendry Lim
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Canon으로 촬영된, 영웅적인 초상과 액션 트리오를 연출한 메시가 등장하는 초현실적 시네마틱 스포츠 사진 합성.
+
+#### 프롬프트
+
+```text
+MESSI: PEAK (Hero Portrait + Action Trio)
+Aspect ratio: 3:4 (vertical)
+A hyper-realistic cinematic sports photograph composite, shot on Canon
+```
+
+### No. 343: 나무 패널 방에서 찍는 거울 셀피
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sadie 🥀
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+진한 갈색 머리의 젊은 여성이 우아한 공간에서 자신감 넘치는 셀피를 찍는 영상을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+A stunning young woman with long, voluminous wavy dark brown hair cascading over her shoulders, taking a confident mirror selfie in an elegant wooden-paneled room.
+```
+
+### No. 344: 화강암 돌담에 기대 선 남자
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+잘생기고 탄탄한 체격의 남자가 풍파를 겪은 화강암 돌담에 자신감 있게 기대어 서 있는 영상을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+A handsome, fit man is positioned in a center composition, leaning confidently against a weathered boundary of rough-cut granite stone blocks speckled with gray and white quartz inclusions. He wears a navy blue
+```
+
+### No. 345: 2026년 구글 AI 도구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Omor Faruk
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+미래형 로봇 마스코트와 디지털 요소가 포함된 22가지 구글 AI 도구의 일러스트레이션 목록.
+
+#### 프롬프트
+
+```text
+A vibrant, futuristic infographic listing 22 Google AI tools for 2026, with a robot mascot holding a banana, surrounded by digital icons and glowing elements, in a cyberpunk style with neon colors and a dark background.
+```
+
+### No. 346: 하이엔드 패션 스튜디오 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** glena Jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+깔끔한 흰색 배경을 가진 미니멀리스트 패션 스튜디오 장면을 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+{
+  "scene": {
+    "setting": "high-end fashion studio",
+    "background": "clean seamless white backdrop, minimalist"
+  }
+}
+```
+
+### No. 347: 구름 위를 나는 비행기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** İbrahim Feyzullayev
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207002754269581.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+황금빛 노을이 지는 동안 구름 바다 위를 날아가는 여객기.
+
+#### 프롬프트
+
+```text
+a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering
+```
+
+### No. 348: 제미니 오므니 비디오 데모
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Signal Lab
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066207818571481182.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+구글의 제미니 오므니 AI 모델이 입력을 비디오 콘텐츠로 변환하는 과정을 보여주는 미래지향적인 디지털 인터페이스입니다.
+
+#### 프롬프트
+
+```text
+dark futuristic interface with grid overlay, glowing text, and multiple screens displaying AI media content, including a hand holding a holographic structure, sleek modern design, neon green accents, tech-themed layout
+```
+
+### No. 349: 미니어처 피규어 픽사 스타일 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝓨𝓞𝓤𝓢𝓔𝓕
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+자신의 작은 픽사 스타일 장난감 버전을 들고 있는 사람의 사실적인 사진입니다.
+
+#### 프롬프트
+
+```text
+Create a realistic photo of me holding a tiny miniature toy version of myself between my fingers. The miniature figure should look exactly like me, wearing the same clothes and hairstyle, designed as a cute Pixar-style 3D character with big expressive eyes and a happy
+```
+
+### No. 350: 마이크를 든 여성 콜라주
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Victoria Chimnaza Sunday.
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066217635335827599.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+분홍색 마이크를 든 여성이 책장이 있는 현대적인 방에서 여러 겹으로 겹쳐진 프레임 속에 나타납니다.
+
+#### 프롬프트
+
+```text
+a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style
+```
+
+### No. 351: 월드컵 브라질 대 독일 경기 포스터
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jahan Zaib
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+전설적인 브라질 대 독일 월드컵 경기를 묘사한 세로형 스포츠 포스터를 위한 디테일한 시네마틱 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra-detailed cinematic FIFA World Cup 2026 match poster, legendary clash between Brazil and Germany, vertical sports artwork, dramatic split composition. On the left, a Brazilian football star in the iconic
+```
+
+### No. 352: 그래픽 탑을 입은 금발
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** glena Jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+컬러풀한 크롭탑과 청바지를 입은 여성이 중성적인 벽 앞에서 포즈를 취하고 있습니다.
+
+#### 프롬프트
+
+```text
+a young woman with blonde hair wearing a pink and blue graphic long-sleeve crop top and blue jeans, standing against a plain wall, natural lighting, photorealistic
+```
+
+### No. 353: 반은 얼굴, 반은 축구공 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shams
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+선수의 얼굴과 축구공의 절반을 합성한 사실적인 초상화입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin
+```
+
+### No. 354: 미니멀 스튜디오 패션 장면 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** glena Jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+미니멀한 실내 스튜디오 세팅에서 깔끔한 에디토리얼 패션 영상을 생성하기 위한 구조화된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "scene": {
+    "setting": "minimal indoor studio corner",
+    "background": "plain warm off-white wall with subtle texture, clean uncluttered environment, no decorations, simple editorial fashion atmosphere",
+    "lighting": "soft directional natural"
+  }
+}
+```
+
+### No. 355: 크리스탈 골렘 카드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nick
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+상세한 스탯과 능력을 가진 크리스탈 골렘 생명체의 진화를 보여주는 두 장의 디지털 포켓몬 스타일 카드입니다.
+
+#### 프롬프트
+
+```text
+Two Pokémon-style trading cards side by side, featuring a Crystal Golem in Stage 1 and Stage 2 forms, with detailed stats, abilities, and artwork in a digital interface, vibrant purple and crystal themes, high detail, game card design
+```
+
+### No. 356: 빈티지 플라워 파워 포스터 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minuit
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+MAKE LOVE NOT WAR 슬로건이 담긴 사이키델릭한 1960-1970년대 히피 포스터를 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a vintage 1960s–1970s flower power poster with the slogan “MAKE LOVE NOT WAR” as the main focus. Use a psychedelic hippie aesthetic, colorful floral patterns, peace symbols, warm sunset tones, retro typography, groovy
+```
+
+### No. 357: 간호사 코스튬 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** glena Jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+간호사 복장을 한 여성이 파란색 장갑을 끼며 포즈를 취하고 있습니다.
+
+#### 프롬프트
+
+```text
+a woman in a nurse costume with white uniform, red crosses, blue gloves, and dramatic makeup, posing against a white door
+```
+
+### No. 358: 오렌지색 유니폼을 입은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Giulia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+네덜란드 축구 유니폼을 입은 여성이 빨간 배경 앞에서 장난스럽게 포즈를 취하며, 손으로 액자 모양을 만들고 있습니다.
+
+#### 프롬프트
+
+```text
+a woman in a Netherlands football jersey with number 10, making a frame gesture with her hands, standing on one leg, against a red background, smiling, winking, wearing blue shorts, studio lighting, high detail
+```
+
+### No. 359: 로봇 화가의 그림
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NewsTongue
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+로봇 화가가 빈티지 스튜디오에서 캔버스에 'REVE 2.0'이라고 적힌 현대판 '별이 빛나는 밤'을 그리고 있습니다.
+
+#### 프롬프트
+
+```text
+a robotic artist in a painter's studio, wearing a beret and metallic mask, painting a reinterpretation of Van Gogh's Starry Night with the text 'REVE 2.0' on the canvas, oil paint splattered on clothes, warm candlelight, detailed brushwork, cinematic lighting, 8k resolution
+```
+
+### No. 360: 전투로 지친 파이터 시네마틱 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ahmad Faraz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+지치고 상의를 벗은 남성 파이터의 초현실적인 클로즈업 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward
+```
+
+### No. 361: 요트 위의 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sophia | AI Artist ✨
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+푸른 수영복을 입은 여성이 요트 위에 서서, 뒤편의 바다를 배경으로 어깨 너머를 바라보고 있습니다.
+
+#### 프롬프트
+
+```text
+a woman in a blue swimsuit standing on a yacht, looking over her shoulder, wearing pink sunglasses, sunny day, clear blue sky, ocean in background, realistic photography
+```
+
+### No. 362: 도자기 여신
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+깨진 도자기에서 황금 수선을 통해 나오는 여성, 깨어진 것 속의 아름다움을 상징합니다.
+
+#### 프롬프트
+
+```text
+a woman in a white corset made of shattered porcelain with gold kintsugi repairs, surrounded by flying shards of white ceramic and golden liquid, studio lighting, hyperrealistic, high detail
+```
+
+### No. 363: 이발소의 반사
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hassan👑
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+문신을 한 남자가 이발소 의자에 앉아 있고, 그의 모습이 거울에 비치며, 클래식한 이발소 배경에서 이발사가 그의 뒤에 서 있습니다.
+
+#### 프롬프트
+
+```text
+a man with tattoos getting a haircut in a vintage barbershop, reflection in the mirror, warm lighting from bulbs around the mirror, retro posters on the wall, barber standing behind him, realistic photography style
+```
+
+### No. 364: 하트형 얼굴의 시드니 스위니 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Pinodi
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+하트형 얼굴을 가진 시드니 스위니의 영상을 생성하기 위한 구조화된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sydney Sweeney",
+      "facial_structure": "Distinctive heart-shaped face morphology with a soft"
+    }
+  }
+}
+```
+
+### No. 365: 검정 벨벳 코르셋 패션 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Özge Döner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+은색 체인 디테일이 있는 검정 벨벳 코르셋 탑과 긴 검은색 웨이브 머리를 구체적으로 명시한 패션 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver chain draping from one shoulder across the collarbone, thin metallic body chain detail, no lace",
+  "hair_makeup": "long dark textured wavy hair"
+}
+```
+
+### No. 366: 녹아내리는 시계가 있는 돌 얼굴
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jason Heaton
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+어둡고 소용돌이치는 계단 속에 녹아내리는 시계가 있는 돌 얼굴의 초현실적인 이미지입니다.
+
+#### 프롬프트
+
+```text
+a stone face carved from ancient ruins, with a melting clock hanging beside it, in a dimly lit spiral staircase, surreal and dreamlike, high detail, cinematic lighting
+```
+
+### No. 367: 아이보리 드레스 에디토리얼 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Özge Döner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+구조화된 아이보리 색상 새틴 슬립 드레스를 입은 당당한 모델이 등장하는 에디토리얼 패션 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "scene": "editorial fashion portrait, confident upright stance, three-quarter turn toward camera, chin level, calm assertive gaze",
+  "wardrobe": "structured ivory satin slip dress with thin straps, soft draping, subtle sheen, minimal"
+}
+```
+
+### No. 368: 목조 구조물 속 남성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Khlaseek designer
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+햇살이 비치는 목조 건물 안에서 어두운 블레이저와 셔츠를 입은 남자가 자신감 있게 서 있습니다.
+
+#### 프롬프트
+
+```text
+a confident Black man with a beard, wearing a dark blazer and shirt, standing in a modern wooden structure with large windows, warm sunlight streaming in, photorealistic portrait, cinematic lighting
+```
+
+### No. 369: 진홍색 스튜디오 댄스 모션 에디토리얼
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Özge Döner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+진홍색 스튜디오에서 검정색 벨벳 코르셋을 입은 여성이 자연스러운 댄스 동작을 취하는 모습의 3x3 그리드를 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, candid dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "black strapless velvet corset top, clean matte finish, fine delicate silver"
+}
+```
+
+### No. 370: 하이 패션 댄스 모션 에디토리얼 그리드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Özge Döner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+진홍색 스튜디오에서 같은 여성이 하이 패션 댄스 동작을 수행하는 모습을 담은 3x3 콘택트 시트 그리드를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "format": "3x3 contact sheet grid, 9 panels, same woman across all panels, high-fashion dance-motion editorial, consistent crimson studio session",
+  "wardrobe": "white strapless structured corset top, clean matte finish, layered"
+}
+```
+
+### No. 371: 어둠 속 빛나는 구체
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** N Creates AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066259869230133618.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+두 개의 부드럽고 따뜻한 빛을 내는 구체가 미니멀하고 추상적인 시각적 효과를 만들어내는 어두운 장면입니다.
+
+#### 프롬프트
+
+```text
+dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition
+```
+
+### No. 372: 애니메이션 피규어 디오라마
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+드래곤볼, 나루토, 원피스, 블리치의 아이코닉한 전투 장면을 보여주는 네 개의 고디테일 애니메이션 액션 피규어 장면입니다.
+
+#### 프롬프트
+
+```text
+four detailed anime action figure dioramas featuring Dragon Ball, Naruto, One Piece, and Bleach characters in dynamic battle poses with energy effects and dramatic lighting
+```
+
+### No. 373: 이탈리아에서 식사하는 시드니 스위니 아마추어 촬영
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+시드니 스위니가 식사하는 모습을 담은 미묘하고 흐릿한 저화질 아마추어 아이폰 영상을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Subtle blurry low quality amateur iPhone shot of a stunning young Italian sydney Sweeney eating
+```
+
+### No. 374: 제미나이 오므니 AI 라이팅
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CHRIS FIRST
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279875049058606.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+흰색 티셔츠와 모자를 쓴 남자가 마이크를 들고 있으며, 제미나이 오므니 AI 스튜디오 라이팅을 홍보하는 텍스트 오버레이가 있습니다.
+
+#### 프롬프트
+
+```text
+a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo
+```
+
+### No. 375: 전문 콘텐츠 크리에이터 배경 교체
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CHRIS FIRST
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279881609269627.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+배경을 테크 인플루언서를 위한 고급 데스크 셋업으로 교체합니다.
+
+#### 프롬프트
+
+```text
+Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned
+```
+
+### No. 376: 웰니스 인플루언서 배경 교체 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CHRIS FIRST
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279884658471322.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+피사체의 배경을 깔끔한 인테리어와 따뜻한 조명을 갖춘 전문 뷰티 및 라이프스타일 인플루언서 배경으로 교체하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting
+```
+
+### No. 377: 전문 필름 스튜디오 배경 교체
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CHRIS FIRST
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066279889322299408.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+피사체의 배경을 부드럽고 아웃포커스된 전문 필름 스튜디오 환경으로 교체하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting
+```
+
+### No. 378: 빗속 도시의 전사
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** shawn_maybush
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+교복을 입은 소녀가 비에 젖은 미래 도시 풍경에서 칼을 휘두르고 있다.
+
+#### 프롬프트
+
+```text
+a young woman with pink hair in a school uniform holding a katana, standing in a rainy, neon-lit city street with debris and large legs framing the shot, cinematic lighting, high detail, 4k
+```
+
+### No. 379: 코카콜라 승리 축하
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** SaaS Junction ✦ Daily AI News & Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+코카콜라 캔으로 만들어진 트로피가 컨페티와 불꽃으로 승리를 축하한다.
+
+#### 프롬프트
+
+```text
+A Coca-Cola World Cup trophy made entirely of red Coca-Cola cans, with golden confetti and sparklers exploding around it, on a vibrant red background, cinematic lighting, highly detailed, 3D render
+```
+
+### No. 380: 레고 월드컵 트로피
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** SaaS Junction ✦ Daily AI News & Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+꿈을 이루는 캠페인을 홍보하는, 컨페티와 반짝임을 동반한 황금색 레고 월드컵 트로피.
+
+#### 프롬프트
+
+```text
+A golden LEGO model of the FIFA World Cup trophy, detailed with LEGO bricks, surrounded by golden confetti and sparkles, with a red LEGO logo at the top, on a clean white background, cinematic lighting, high detail, 3D render
+```
+
+### No. 381: 푸른 용을 타고
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rendar AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066299066175181093.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+용을 타고 있는 기수가 열대 섬 위를 날아오르며, 아래로는 계단식 폭포와 청록색 바다가 펼쳐져 있다.
+
+#### 프롬프트
+
+```text
+first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style
+```
+
+### No. 382: 흑연 연필 스케치 듀얼 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+빈티지 종이 위에 나란히 앉은 남성과 여성의 상세한 흑연 연필 스케치.
+
+#### 프롬프트
+
+```text
+A detailed graphite pencil sketch on a textured, off-white vintage paper background, featuring a dual portrait of a man and a woman positioned side-by-side. Both subjects are captured in a moment
+```
+
+### No. 383: 아웃로 카우보이 시네마틱 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** WeWant Mars
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+먼지 낀 구 서부 판자길 위에서 일몰을 배경으로 한 험악한 아웃로 카우보이의 시네마틱 초상화.
+
+#### 프롬프트
+
+```text
+A cinematic portrait of a ruggedly handsome outlaw cowboy in his mid-30s, intense dark eyes, tousled wavy dark hair, short beard, standing on a dusty Old West wooden boardwalk at golden hour sunset. He leans casually
+```
+
+### No. 384: 밤에 침대에 누워 있는 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Niharika Nm
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2066303158490693695.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+핑크색 담요 아래에서 침대에 편안하게 누워 있는 여성으로, 침대 옆 램프의 따뜻한 빛에 비추어져 있다.
+
+#### 프롬프트
+
+```text
+a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details
+```
+
+### No. 385: 픽셀 드롭 출시
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIVAnet
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+화면 반응과 함께 Google의 Pixel Drop 기능을 홍보하는 프로모션 이미지.
+
+#### 프롬프트
+
+```text
+A woman pointing at large text 'Pixel Drop' with a Google logo and an orange 'Screen Reactions' button, clean white background, modern tech advertisement style
+```
+
+### No. 386: 굿 바이브 하이 타이드 레트로 그래픽 디자인
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heather Green
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+바다 일몰 이미지와 디스트레스 텍스트가 있는 원형의 레트로 스타일 그래픽을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+A circular graphic design features the words "GOOD VIBES HIGH TIDES" in a retro, distressed font. The text is layered over a stylized depiction of a sunset over the ocean.
+```
+
+### No. 387: 하이 패션 에디토리얼 초상화 정체성 참조
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Soaima
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 사진으로부터 정확한 얼굴 정체성을 보존하는 초현실적 초상화를 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Use the attached woman's photo as the exact identity reference. Preserve 100% of the original facial structure, proportions, features, skin tone, and overall likeness. Ultra-realistic high-fashion editorial portrait of a beautiful young woman.
+```
+
+### No. 388: 미니멀리스트 뮤즈의 모노크롬 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Virena
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 얼굴 특징을 가진 우아한 여성을 위한 파인아트 모노크롬 초상화 프롬프트.
+
+#### 프롬프트
+
+```text
+Masterpiece fine-art monochrome fashion portrait of an elegant woman in her mid-20s, embodying the archetype of a modern minimalist muse. She possesses a soft oval face, subtle high cheekbones, a clean feminine jawline, and naturally full
+```
+
+### No. 389: 우아한 플로럴 의상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Wandering Corner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+하이-로우 스커트와 오프숄더 탑이 있는 스타일리시한 베이지색 플로럴 의상을 입은 여성이 포즈를 취하고 있다.
+
+#### 프롬프트
+
+```text
+a woman in a beige floral off-shoulder crop top and high-low ruffled skirt, standing against a neutral background, elegant pose, soft lighting, photorealistic
+```
+
+### No. 390: 초현실적 스마트폰 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aiza
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+웨이브 머리와 안경을 쓴 젊은 여성의 캔디드 스마트폰 사진을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a young woman with shoulder-length wavy hair (dark roots, lighter ends) wearing round thin metal-frame glasses. Bright neon heart-shaped reflections visible in both
+```
+
+### No. 391: 초현실적 수채화 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Anaya Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 이미지로부터 엄격한 정체성 보존을 요구하는 고화질의 수채화 사실주의 초상화를 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Ultra-realistic high-definition premium watercolor-realism portrait, 4:5 vertical composition, use the uploaded image as the only facial and identity reference with absolute identity preservation, maintaining the exact facial structure, bone proportions
+```
+
+### No. 392: 캐주얼 웨어를 입은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zara
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검정색 탱크톱과 크림색 바지를 입은 여성이 자신감 있게 포즈를 취하며, 단순한 배경 앞에 놓인 흰색 의자에 앉아 있다.
+
+#### 프롬프트
+
+```text
+a young woman with long brown hair, wearing a black tank top and cream-colored wide-leg sweatpants, sitting on a white wooden stool, looking at the camera, studio lighting, neutral background
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-675%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-764%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 675 |
+| 総プロンプト数 | 764 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 228 |
-| 最終更新 | 2026/07/02 |
+| プレビュー動画数 | 258 |
+| 最終更新 | 2026/07/03 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (573)
+### Twitter Community (662)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -14966,6 +14966,2297 @@ Use the uploaded face exactly.
 Create an ultra-realistic Formula One world champion promotional poster.
 
 The uploaded person stands beside a futuristic Formula racing car wearing a custom black and red racing https://t.co/FaadOWejBc
+```
+
+### No. 676: I Think We'Re Still So Early To Ai
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** techbimbo
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+i think we're still so early to AI video 
+
+do you think we've had our nano banana pro moment yet?
+
+#### プロンプト
+
+```text
+i think we're still so early to AI video 
+
+do you think we've had our nano banana pro moment yet?
+```
+
+### No. 677: This Is How Ai Stories Actually Get Made
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Deenu Khan
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072709258295009531.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072709258295009531.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+This is how AI stories actually get made now.
+
+#### プロンプト
+
+```text
+This is how AI stories actually get made now.
+
+Nano Banana 2 Lite plus Variations is a genuinely strong combo. You generate a first image, open Edit then Variations to build out your frames, then drop the storyboard in as reference on Seedance 2.0 in 4K. Static concept to moving
+```
+
+### No. 678: Google'S Gemini Omni Flash Is Now Live On
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Morphic
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072709572398301190.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072709572398301190.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google's Gemini Omni Flash is now live on Morphic.
+
+#### プロンプト
+
+```text
+Google's Gemini Omni Flash is now live on Morphic.
+
+Generate video from text, an image, or a video — then edit it just by describing what you want changed. Characters stay consistent, the physics hold up, and every instruction builds on the last.
+```
+
+### No. 679: Artingentさんの作品です Jul 1 Whimsical Miniature World Depiction Of
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** sayobonita
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Artingentさんの作品です
+
+
+Jul 1
+Whimsical miniature world depiction of a floating ritual island chain in a mythpunk style.
+
+#### プロンプト
+
+```text
+Artingentさんの作品です
+@artingent←Prompt
+
+Jul 1
+Whimsical miniature world depiction of a floating ritual island chain in a mythpunk style. Generated using Nano banana pro. Prompt in the first reply.
+```
+
+### No. 680: For Fans Of Tim Burton'S Aesthetic💀👻🎃 This Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+For fans of Tim Burton's aesthetic💀👻🎃
+This prompt is so cool because it gives a different result every time👍
+Give it try — it'll be interesting🤩
+
+Images created on Nano Banana Pro🍌🍌🍌 Save it for yours
+
+#### プロンプト
+
+```text
+For fans of Tim Burton's aesthetic💀👻🎃
+This prompt is so cool because it gives a different result every time👍
+Give it try — it'll be interesting🤩
+
+Images created on Nano Banana Pro🍌🍌🍌 Save it for yourself and take cool photos
+
+Upload a photo of yourself and add
+```
+
+### No. 681: How To Use Gemini Omni To Create Mind
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BIG CHRIS
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072711900522336483.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072711900522336483.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+How to Use Gemini Omni to Create Mind Blowing AI Videos (Complete Guide)
+
+In this video you will learn how to use Gemini Omni to create realistic AI videos, generate immersive scenes, and unlock Googl
+
+#### プロンプト
+
+```text
+How to Use Gemini Omni to Create Mind Blowing AI Videos (Complete Guide)
+
+In this video you will learn how to use Gemini Omni to create realistic AI videos, generate immersive scenes, and unlock Google's latest AI video capabilities.
+
+You will learn the exact workflow for using
+```
+
+### No. 682: Use Gemini Omni Flash Create Graphics And Fast-Paced
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jerrod Lew
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072712027433533952.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072712027433533952.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Use Gemini Omni Flash create graphics and fast-paced edits.
+
+#### プロンプト
+
+```text
+Use Gemini Omni Flash create graphics and fast-paced edits.
+
+I uploaded a photo of a car, and prompted Omni Flash to create a spec ad!
+
+Here's the result, prompt in the comments!
+```
+
+### No. 683: Try Image Using Google Gemini Nano Banana Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Impnel
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Try image using Google Gemini Nano Banana 
+
+Prompt :
+
+Create a premium commercial beverage advertisement featuring a completely different beautiful young woman with a sporty, stylish look, wearing a f
+
+#### プロンプト
+
+```text
+Create a premium commercial beverage advertisement featuring a completely different beautiful young woman with a sporty, stylish look, wearing a fitted white T-shirt and light blue ripped denim shorts, paired with white https://t.co/pIFuZYn7PZ
+```
+
+### No. 684: I'M Never Worried When They'Re On Duty! Sana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice H.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+I'm never worried when they're on duty!
+
+#### プロンプト
+
+```text
+I'm never worried when they're on duty!
+
+Sana
+Nayeon
+Tzuyu
+
+Twice
+
+Nano Banana Pro via Ai Studio, prompt ⬇
+```
+
+### No. 685: My Folder Structure Is 1-Some-Location-Scene 2-Next-Location-Scene 3-Helicopter 
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Philipp
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+My folder structure is
+
+1-some-location-scene
+2-next-location-scene
+3-helicopter
+4-toms-house
+...
+
+#### プロンプト
+
+```text
+@cfryant My folder structure is
+
+1-some-location-scene
+2-next-location-scene
+3-helicopter
+4-toms-house
+...
+characters
+locations
+other
+themes
+
+The numbered folders are the scenes in chronological sequence, which then hold the photoshopped pictures, videos and sounds, like
+```
+
+### No. 686: Google Just Turned Notebooklm Into A Short-Form Video
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Julian Goldie SEO
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072719447652016458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072719447652016458.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GOOGLE JUST TURNED NOTEBOOKLM INTO A SHORT-FORM VIDEO FACTORY
+
+Upload one document.
+
+#### プロンプト
+
+```text
+GOOGLE JUST TURNED NOTEBOOKLM INTO A SHORT-FORM VIDEO FACTORY
+
+Upload one document. Get a 60-second vertical video with narration, animations, and visuals.
+
+Here’s what makes it useful:
+
+→ Upload PDFs, notes, reports, or training documents
+
+→ NotebookLM extracts one important
+```
+
+### No. 687: Three Models. One Complete Video Workflow. The Gemini
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Scenario
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072719807015706711.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072719807015706711.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Three models.
+
+#### プロンプト
+
+```text
+Three models. One complete video workflow.
+
+The Gemini Omni suite is now on Scenario 🚀
+
+Generate, edit with text, or build from reference images. 
+
+The whole arc of AI video production, in one place.
+```
+
+### No. 688: Gemini Omni: Gemini Omni Edit: Gemini Omni Reference
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Scenario
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni: 
+
+Gemini Omni Edit: 
+
+Gemini Omni Reference to Video:
+
+#### プロンプト
+
+```text
+Gemini Omni: 
+
+Gemini Omni Edit: 
+
+Gemini Omni Reference to Video:
+```
+
+### No. 689: Perfect Angle For The Morning ☀️ Minnie Yuqi
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice H.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Perfect angle for the morning ☀️
+
+Minnie
+Yuqi
+Soyeon
+
+I-dle
+
+Nano Banana Pro via AI Studio, prompt 👇
+
+#### プロンプト
+
+```text
+Perfect angle for the morning ☀️
+
+Minnie
+Yuqi
+Soyeon
+
+I-dle
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 690: Me Encuentro En Los Comentarios De Un Video
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Nerunian bocazas
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072720306012037358.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072720306012037358.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Me encuentro en los comentarios de un video a un evangelista de la !A, hablando maravillas de suno y nano banana, diciendo que tiene muestras "de calidad" en su canal.
+
+#### プロンプト
+
+```text
+Me encuentro en los comentarios de un video a un evangelista de la !A, hablando maravillas de suno y nano banana, diciendo que tiene muestras "de calidad" en su canal.
+
+Me da por mirar y es la mierda mas generica y chapucera en alta resolucion que esperaba XD
+```
+
+### No. 691: Prompt Engineering Shows How The Gemini Omni Flash
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Anjana
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Prompt Engineering shows how the Gemini Omni Flash API is changing the game for video editing.
+
+#### プロンプト
+
+```text
+Prompt Engineering shows how the Gemini Omni Flash API is changing the game for video editing. At 10 cents a second, it is getting cheap enough for real creative workflows. Multi-turn editing is a massive leap forward for video AI.
+```
+
+### No. 692: Since Your Last Source That Claims Degrading Ai
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tsukino Mochi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Since your last source that claims degrading AI is a thing, there have been multiple models being released that showed a significant improvements over the last one.
+
+#### プロンプト
+
+```text
+@unvarnishedvoid Since your last source that claims degrading AI is a thing, there have been multiple models being released that showed a significant improvements over the last one.
+nano banana, GPT Image 2, Flux.2, Anima, V7... for video Veo3, Seedance 2, Kling 3, even grok made progress.
+```
+
+### No. 693: Created With Gemini Nano Banana 2 On Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Created with Gemini Nano Banana 2 on 
+
+Prompt 👇
+
+A confident young adult male sits squarely facing the camera, leaning out of a vehicle with a deliberately posed, edgy demeanor.
+
+#### プロンプト
+
+```text
+Created with Gemini Nano Banana 2 on @GeminiApp
+
+Prompt 👇
+
+A confident young adult male sits squarely facing the camera, leaning out of a vehicle with a deliberately posed, edgy demeanor. He wears a heavy black leather jacket layered over a stark white crew t-shirt that provides
+```
+
+### No. 694: "Make It Day Time." The Lighting Shift, The
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Philipp Schmid
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072723305187225927.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072723305187225927.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+"Make it day time." The lighting shift, the shadows move, the sky changes.
+
+#### プロンプト
+
+```text
+"Make it day time." The lighting shift, the shadows move, the sky changes. Gemini Omni Flash can edit your videos through conversation. Upload a clip, describe the change, get a new video back.
+
+All it takes is 12 lines and the Interactions API ⬇️
+```
+
+### No. 695: Gemini Omni Flash Is About To Change Video
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Neurain
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072723878195929405.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072723878195929405.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni Flash is about to change video editing forever
+
+Check out this side-by-side comparison.
+
+#### プロンプト
+
+```text
+Gemini Omni Flash is about to change video editing forever
+
+Check out this side-by-side comparison. The AI seamlessly overlays hyper-realistic, dynamic modifications onto real footage — from peeling off a tattoo to typing through honey and literal fire.
+
+This level of object
+```
+
+### No. 696: In This Video, Discover How Google'S New Gemini
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Angel kelly
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+In this video, discover how Google's new Gemini Omni AI video tool lets you create realistic AI videos featuring your own digital avatar.
+
+#### プロンプト
+
+```text
+In this video, discover how Google's new Gemini Omni AI video tool lets you create realistic AI videos featuring your own digital avatar. In this video, you'll learn how to set up your avatar, generate cinematic scenes from simple text prompts,
+```
+
+### No. 697: A Little Sunshine Goes A Long Way. ☀️💙
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sophia | AI Artist ✨
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+A little sunshine goes a long way.
+
+#### プロンプト
+
+```text
+A little sunshine goes a long way. ☀️💙
+
+Sydney Sweeney · Sabrina Carpenter · Millie Bobby Brown · Hailee Steinfeld
+
+Gemini Nano Banana 🍌
+
+prompt👇
+
+#LuxuryTravel #SummerEscape #OceanView #MediterraneanDream #SydneySweeney #SabrinaCarpenter #MillieBobbyBrown #HaileeSteinfeld
+```
+
+### No. 698: Gemini Omni Flash Apunta A Video: Generación Y
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Void IA
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni Flash apunta a video: generación y edición conversacional.
+
+#### プロンプト
+
+```text
+Gemini Omni Flash apunta a video: generación y edición conversacional.
+
+Eso suena útil para secuencias multi-turn, no para magia.
+
+El límite: video sigue siendo caro de corregir cuando el brief está mal. La IA no arregla una mala dirección creativa.
+```
+
+### No. 699: Up Next On Live From Is From 3.5-Cent
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Volkov @ AI Engineer
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Up next on  LIVE from  is  from 
+
+3.5-cent images launched yesterday, so we’re talking Nano Banana 2 Lite, Gemini Omni Flash, fast image/video gen, and whether generative media is in a price war.
+
+#### プロンプト
+
+```text
+Up next on @thursdai_pod LIVE from @aiDotEngineer is @_philschmid from @GoogleAI.
+
+3.5-cent images launched yesterday, so we’re talking Nano Banana 2 Lite, Gemini Omni Flash, fast image/video gen, and whether generative media is in a price war.
+
+Tune in!
+```
+
+### No. 700: Trying Hard To Keep That Smile With The
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice H.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Trying hard to keep that smile with the sand in their dress!
+
+#### プロンプト
+
+```text
+Trying hard to keep that smile with the sand in their dress!
+
+Lisa, blackpink
+Karina, aespa
+Wonyoung, IVE
+Dahyun, Twice
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 701: Gemini Omni Lets Me Generate A Video From
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Android Central
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni lets me generate a video from any mix of text, images, audio, and video on my Pixel — here's how you can too.
+
+#### プロンプト
+
+```text
+Gemini Omni lets me generate a video from any mix of text, images, audio, and video on my Pixel — here's how you can too.
+```
+
+### No. 702: Q: What Is Nano Banana 2 Lite? A
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Julian Goldie SEO
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072736030483247309.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072736030483247309.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Q: What is Nano Banana 2 Lite?
+
+#### プロンプト
+
+```text
+Q: What is Nano Banana 2 Lite?
+
+A: Google’s fastest lightweight AI image model.
+
+Q: Why does it matter?
+
+A: It can generate images in about 4 seconds.
+
+Q: What can you use it for?
+
+A:
+
+→ Thumbnails.
+→ Mockups.
+→ Content graphics.
+→ Image edits.
+→ Style variations.
+→
+```
+
+### No. 703: Create Cinematic Exploded-View Animations With A Single Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** TopviewAI
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072737315169214652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072737315169214652.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Create cinematic exploded-view animations with a single prompt.
+
+#### プロンプト
+
+```text
+Create cinematic exploded-view animations with a single prompt.
+
+Gemini Omni Flash dissects objects into detailed layers while maintaining smooth, realistic motion. 
+
+#GeminiOmni #Topview #AIVideo #VideoEditing #AIEditing
+```
+
+### No. 704: She’S Not Real. $3K A Month Says Otherwise
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Domina
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072740133464420765.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072740133464420765.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+She’s not real.
+
+#### プロンプト
+
+```text
+She’s not real. $3k a month says otherwise.
+ 
+Chopsticks against a lip line. Pores catching light. Individual brow hairs. A reflection sitting exactly where a reflection should sit.
+
+Your eyes did the math and closed the case.
+
+Wrong answer.
+Here’s the build. A reference photo
+```
+
+### No. 705: We Won’T See Mass Adoption On The Scale
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Reid Hannaford
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+We won’t see mass adoption on the scale of something like nano banana until video models are cheap enough for average people to really experiment with
+
+#### プロンプト
+
+```text
+@jameygannon We won’t see mass adoption on the scale of something like nano banana until video models are cheap enough for average people to really experiment with
+```
+
+### No. 706: The Company Released Nano Banana 2 Lite —
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tips Excel
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+The company released Nano Banana 2 Lite — its fastest and most affordable image model yet — and expanded Gemini Omni Flash into public preview for AI video generation and editing.
+
+#### プロンプト
+
+```text
+The company released Nano Banana 2 Lite — its fastest and most affordable image model yet — and expanded Gemini Omni Flash into public preview for AI video generation and editing.
+```
+
+### No. 707: Nano Banana 2 Lite Can Generate Images In
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tips Excel
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Nano Banana 2 Lite can generate images in about 4 seconds and is designed for high-volume workflows like social media, ads, and design iterations, while Gemini Omni Flash lets developers create and ed
+
+#### プロンプト
+
+```text
+Nano Banana 2 Lite can generate images in about 4 seconds and is designed for high-volume workflows like social media, ads, and design iterations, while Gemini Omni Flash lets developers create and edit videos using text, images, and video prompts.
+```
+
+### No. 708: Created With Nano Banana Pro Prompt: Hairstyle: Ultra‑Long
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Talia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Created with Nano Banana Pro 
+
+PROMPT:
+
+HAIRSTYLE: Ultra‑long, sleek dark brown hair with warm sun‑kissed highlights; soft natural wind‑blown movement, fine strands lifted and flowing freely across th
+
+#### プロンプト
+
+```text
+HAIRSTYLE: Ultra‑long, sleek dark brown hair with warm sun‑kissed highlights; soft natural wind‑blown movement, fine strands lifted and flowing freely across the face and outward in the breeze; bright backlight creates luminous glowing https://t.co/iW0PjaIl6M
+```
+
+### No. 709: What Most People Think Ai Is: Chatgpt And
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Finn McAlister
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+What most people think AI is:
+
+ChatGPT and Claude.
+
+#### プロンプト
+
+```text
+What most people think AI is:
+
+ChatGPT and Claude.
+
+What AI actually is:
+
+Design:
+ChatGPT Images, Nano Banana, Gamma, Claude Design
+
+Video:
+Runway, Higgsfield, Opus Clip
+
+Automations:
+Zapier, Make, n8n
+
+AI Coding:
+Codex, Cursor, Claude Code
+
+Agentic Workflows:
+OpenAI Agents,
+```
+
+### No. 710: What Most People Think Ai Is: Chatgpt And
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Finn McAlister
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+What most people think AI is:
+
+ChatGPT and Claude.
+
+#### プロンプト
+
+```text
+What most people think AI is:
+
+ChatGPT and Claude.
+
+What AI actually is:
+
+Design:
+ChatGPT Images, Nano Banana, Gamma, Claude Design
+
+Video:
+Runway, Higgsfield, OpusClip
+
+Automations:
+Zapier, Make, n8n
+
+AI Coding:
+Codex, Cursor, Claude Code
+
+Agentic Workflows:
+OpenAI Agents,
+```
+
+### No. 711: 8-Bit Pixel Art Logo In Nano Banana Adidas
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Viktor Poletaev
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+8-bit pixel art logo in Nano Banana
+
+Adidas / Vans / Spotify
+
+Prompt⬇️
+
+#### プロンプト
+
+```text
+8-bit pixel art logo in Nano Banana
+
+Adidas / Vans / Spotify
+
+Prompt⬇️
+```
+
+### No. 712: Tamil Music Video Created Using Ai. Model Used
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Vinodh AI | AI Creator
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072744907568287972.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072744907568287972.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Tamil Music Video created using AI.
+
+#### プロンプト
+
+```text
+Tamil Music Video created using AI.
+
+Model used - Gemini omni 
+
+Full Music Video - Youtube : 
+
+#geminiomni #aivideo #aifilm
+```
+
+### No. 713: Google Just Built An Ai Content Factory. 🤯
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Julian Goldie SEO
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google just built an AI content factory.
+
+#### プロンプト
+
+```text
+Google just built an AI content factory. 🤯
+
+Nano Banana makes images in under 4 seconds.
+
+OmniFlash turns those images into videos.
+
+Your designer may now need a snack break. 😂
+
+OmniFlash is still in preview, so test it first.
+
+Full video link in the comments!
+```
+
+### No. 714: Nano Banana 2 On Prompt: A Medium Shot
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heisenberg
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Nano Banana 2 on  
+
+Prompt: A medium shot portrait of a stylish young woman looking off to the side.
+
+#### プロンプト
+
+```text
+A medium shot portrait of a stylish young woman looking off to the side. She is wearing oversized, glossy black square sunglasses, a matte black crew neck undershirt with a slightly frayed collar, and an open, heavy red-and-black buffalo https://t.co/v5U3QLjO54
+```
+
+### No. 715: Q: Why Do Nano Banana And Omni Flash
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Julian Goldie SEO
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072746628428206137.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072746628428206137.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Q: Why do Nano Banana and Omni Flash matter?
+
+#### プロンプト
+
+```text
+Q: Why do Nano Banana and Omni Flash matter?
+
+A: Because together, they shorten the content workflow.
+
+Q: What does that mean for SEO?
+
+A:
+
+→ Faster publishing.
+→ More visual assets.
+→ Better engagement opportunities.
+→ More pages refreshed.
+→ More chances to rank.
+
+Q:
+```
+
+### No. 716: This Girl Just Designed An Entire Fashion Brand'S
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marc Edge
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072747647073673277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072747647073673277.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+This girl just designed an entire fashion brand's website from a coffee shop — using her laptop, Claude, and two AI tools.
+
+#### プロンプト
+
+```text
+This girl just designed an entire fashion brand's website from a coffee shop — using her laptop, Claude, and two AI tools.
+No code. No dev team. No photoshoot.
+Here's what she actually did:
+→ Dropped a Figma design into Claude, let it turn into a real working site — "syve.", a
+```
+
+### No. 717: How I Re-Render An Animation Reference Video With
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Finn McKenty
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+How I re-render an animation reference video with any style (a lot of the examples you've seen are fake btw):
+
+1.
+
+#### プロンプト
+
+```text
+How I re-render an animation reference video with any style (a lot of the examples you've seen are fake btw):
+
+1. Make the base video for motion reference
+
+2. Use the export frame nodes in @figmaweave to make a base storyboard, so I have exact control over which frames to use
+
+3.
+```
+
+### No. 718: Gemini Omni Loves Cinematic Detail. Prompt That Should
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grok
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni loves cinematic detail.
+
+#### プロンプト
+
+```text
+@oladipsingami Gemini Omni loves cinematic detail. 
+
+Prompt that should crack it:
+
+"Photorealistic 6s cinematic video: Cristiano Ronaldo in Portugal red kit #7 facing Luka Modric in Croatia checkered jersey on a floodlit pitch at night in a packed stadium. Intense stares, subtle mouth movement
+```
+
+### No. 719: Ready With My Interview Pictures In Seconds, Thanks
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Mohammed Siraj
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072752428118860154.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072752428118860154.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Ready with my interview pictures in seconds, thanks to my Galaxy Z Fold7 and Nano Banana in Google Gemini.
+
+#### プロンプト
+
+```text
+Ready with my interview pictures in seconds, thanks to my Galaxy Z Fold7 and Nano Banana in Google Gemini.
+
+You also get Google Al Pro plan for 6 months at no cost to gain higher access to video generation with Veo3.
+```
+
+### No. 720: Ready For Match Day! Who Are You Rooting
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice H.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Ready for match day!
+
+#### プロンプト
+
+```text
+Ready for match day! Who are you rooting for?
+
+IVE for 🇪🇸🇦🇹
+Twice for 🇨🇭🇩🇿
+Blackpink for 🇵🇹🇭🇷
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 721: Nano Banana Tip: Don'T Just Prompt What You
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sociyell
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Nano Banana tip: 
+
+Don't just prompt what you want, describe the lighting, camera angle, mood, and texture.
+
+#### プロンプト
+
+```text
+Nano Banana tip: 
+
+Don't just prompt what you want, describe the lighting, camera angle, mood, and texture. 
+
+The difference between a good image and a great one is usually in the details.
+```
+
+### No. 722: Gemini Omni Flash On Wavespeed Ai Main Subject
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Pesh
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072754211847078137.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072754211847078137.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni Flash on Wavespeed AI
+
+Main subject: young Portuguese woman, mid 20s, natural everyday appearance, pale yellow fitted tank top, loose high-waisted blue jeans, worn brown leather sandals, s
+
+#### プロンプト
+
+```text
+Gemini Omni Flash on Wavespeed AI
+
+Main subject: young Portuguese woman, mid 20s, natural everyday appearance, pale yellow fitted tank top, loose high-waisted blue jeans, worn brown leather sandals, small gold hoop earrings, wavy chestnut hair tied in a messy low bun with loose
+```
+
+### No. 723: 🔵 La Inteligencia Artificial Ya No Solo Procesa
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Carlos Alarcón
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072754223687856195.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072754223687856195.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+🔵 La Inteligencia Artificial ya no solo procesa texto o genera imágenes estáticas; estamos entrando en la era de la generación y transformación de video multimodal en tiempo real.
+
+#### プロンプト
+
+```text
+🔵 La Inteligencia Artificial ya no solo procesa texto o genera imágenes estáticas; estamos entrando en la era de la generación y transformación de video multimodal en tiempo real. 🎬✨
+
+He estado experimentando con el potencial de la consistencia visual y los modelos  Gemini
+```
+
+### No. 724: Gemini Omni Flash On Wavespeed Ai Prompt: Main
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Pesh
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072754584922005671.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072754584922005671.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni Flash on Wavespeed AI
+
+PROMPT:
+Main subject: young Japanese woman, early 20s, natural everyday appearance, oversized cream knit cardigan, faded navy T-shirt, loose beige cargo pants, white
+
+#### プロンプト
+
+```text
+Main subject: young Japanese woman, early 20s, natural everyday appearance, oversized cream knit cardigan, faded navy T-shirt, loose beige cargo pants, white canvas sneakers, thin silver necklace, straight black hair clipped loosely with https://t.co/wjU4Jo1I0L
+```
+
+### No. 725: Google Just Dropped Omni Flash + Nano Banana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Attilio
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google just dropped Omni Flash + Nano Banana 2 Lite.
+
+#### プロンプト
+
+```text
+Google just dropped Omni Flash + Nano Banana 2 Lite.
+
+More cheap multimodal tools. The real unlock: their Interactions API chains them into workflows.
+
+The model isn't the product. The pipeline is.
+
+What are you building with fast video + image in one call?
+```
+
+### No. 726: Billie Eilish Don'T Blink... Gemini Nano Banana Pro
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI Society
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072757701780894137.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072757701780894137.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Billie Eilish Don't Blink...
+
+#### プロンプト
+
+```text
+Billie Eilish Don't Blink...
+
+Gemini Nano Banana Pro Prompt Below 👇
+```
+
+### No. 727: Higgsfield Just Dropped Explainer, Powered By Claude Fable
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** LAPTOP LIFESTYLE BLOGGER
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072757927027630507.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072757927027630507.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Higgsfield just dropped Explainer, powered by Claude Fable 5 + Gemini Omni Flash.
+
+#### プロンプト
+
+```text
+Higgsfield just dropped Explainer, powered by Claude Fable 5 + Gemini Omni Flash.
+
+This lets you create faceless documentaries at scale with AI handling the heavy lifting:
+• auto-research your topic
+• narrates in any language
+• renders up to 10 minutes in one run
+Available on
+```
+
+### No. 728: Seedance 2.0 On Creatify Ai X Claude Fable
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Cia0
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072757965816574286.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072757965816574286.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+seedance 2.0 on Creatify AI x Claude Fable 5
+
+can Automate your entire performance marketing stack
+
+combo GPT 2.0 + Nano Banana pro, workflow and prompt ↓ template
+
+#### プロンプト
+
+```text
+seedance 2.0 on Creatify AI x Claude Fable 5
+
+can Automate your entire performance marketing stack
+
+combo GPT 2.0 + Nano Banana pro, workflow and prompt ↓ template
+```
+
+### No. 729: Breaking: Gemini Omni Flash By Is 1St Overall
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Design Arena
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+BREAKING: Gemini Omni Flash by  is 1st overall on Video Arena with an Elo of 1404.
+
+#### プロンプト
+
+```text
+BREAKING: Gemini Omni Flash by @GoogleDeepMind is 1st overall on Video Arena with an Elo of 1404.
+
+Gemini Omni Flash establishes a 101 point Elo gap over Seedance 2.0 Mini by @BytePlusGlobal in 2nd place, one of the largest leaps we’ve ever seen on Video Arena.
+
+This establishes
+```
+
+### No. 730: Same Prompt With Gemini Omni Flash
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CINO - Artificial Intelligence
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072762089010073835.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072762089010073835.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Same prompt with Gemini Omni Flash
+
+#### プロンプト
+
+```text
+@techhalla Same prompt with Gemini Omni Flash
+```
+
+### No. 731: Congrats To The Team For Establishing A New
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grace Li (ICML 🇰🇷)
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Congrats to the  team for establishing a new frontier of Video Generation with Gemini Omni Flash!
+
+#### プロンプト
+
+```text
+Congrats to the @GoogleDeepMind team for establishing a new frontier of Video Generation with Gemini Omni Flash!
+```
+
+### No. 732: Google, By The Way, Introduced Nano Banana 2
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** LUX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072766294311711218.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072766294311711218.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+google, by the way, introduced Nano Banana 2 Lite and Gemini Omni Flash
+
+they are already available in a huge number of services, including Higgsfield, Runway, and others
+
+Nano Banana 2 Lite is for st
+
+#### プロンプト
+
+```text
+google, by the way, introduced Nano Banana 2 Lite and Gemini Omni Flash
+
+they are already available in a huge number of services, including Higgsfield, Runway, and others
+
+Nano Banana 2 Lite is for static frames &gt; super fast and cheap (at the same time, they write that the
+```
+
+### No. 733: Hey! Bu Design Arena Video Sıralamasında Runway Yok
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grok
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Hey!
+
+#### プロンプト
+
+```text
+@Hovavayo @Designarena @GoogleDeepMind @BytePlusGlobal Hey! Bu Design Arena Video sıralamasında Runway yok. Gemini Omni Flash 1404 ile 1., Seedance 2.0 Mini 2., Grok Imagine (Video) da 5. sırada (1272). Runway Gen-4.5 başka benchmark’larda (Artificial Analysis) zirvede ama burada listede görünmüyor.
+```
+
+### No. 734: Nano Banana Pro 4K Grok Imagine Video Kombinasyonun
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Arda | AI Otomasyon
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072769493244272974.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072769493244272974.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Nano banana pro 4k
+Grok imagine video kombinasyonun mükemmel hali..
+
+#### プロンプト
+
+```text
+Nano banana pro 4k
+Grok imagine video kombinasyonun mükemmel hali..
+
+Rüzgar saçlarını savururken bile ne kadar doğal ve çarpıcı duruyor.
+AI ile yarattığımız bu karakterlerin en güzel yanı, her ışıkta, her anda bambaşka bir enerji veriyor.
+```
+
+### No. 735: 🏳️‍🌈Google Just Made Ai Image Generation Even Faster
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** mar.91
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+🏳️‍🌈Google just made AI image generation even faster.
+
+#### プロンプト
+
+```text
+@alice_game77056 🏳️‍🌈Google just made AI image generation even faster.
+
+The company released Nano Banana 2 Lite — its fastest and most affordable image model yet — and expanded Gemini Omni Flash into public preview for AI video generation and editing.
+
+Nano Banana 2 Lite can generate images in
+```
+
+### No. 736: Pov: The Selfie Angle Got Out Of Control
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** A R I A
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+POV: the selfie angle got out of control
+
+🖤 Madelyn Cline
+🍷 Ana de Armas
+💚 Margot Robbie
+
+Nano Banana prompt 👇
+
+#### プロンプト
+
+```text
+POV: the selfie angle got out of control
+
+🖤 Madelyn Cline
+🍷 Ana de Armas
+💚 Margot Robbie
+
+Nano Banana prompt 👇
+```
+
+### No. 737: Ai Digest Daily Category 1: Frontier Model Releases
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Nduvho_strategy
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+AI Digest Daily
+
+Category 1: Frontier Model Releases and Benchmarks
+
+1.
+
+#### プロンプト
+
+```text
+AI Digest Daily
+
+Category 1: Frontier Model Releases and Benchmarks
+
+1. Anthropic Launches Claude Sonnet 5: The new model emphasizes agentic capabilities—planning, tool use (browsers, terminals), and autonomous multi-step task completion—performing close to Opus 4.8 at
+```
+
+### No. 738: 🇳🇬 Hiring: Ai Filmmaker / Ai Video Editor
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** The Career Blog 🇳🇬🇬🇧🇺🇸🌎
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+🇳🇬 HIRING: AI FILMMAKER / AI VIDEO EDITOR
+
+🏠 Work Mode: Remote
+
+Responsibilities
+• Create AI videos from concept to final edit.
+
+#### プロンプト
+
+```text
+🇳🇬 HIRING: AI FILMMAKER / AI VIDEO EDITOR
+
+🏠 Work Mode: Remote
+
+Responsibilities
+• Create AI videos from concept to final edit.
+• Maintain character consistency across projects.
+• Edit and deliver polished, high-quality content.
+• Stay up to date with the latest AI
+```
+
+### No. 739: Higgsfield Ai’S New Feature, Shorts Studio, Leverages Google’S
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Rajashekar Sudireddy
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Higgsfield AI’s new feature, Shorts Studio, leverages Google’s Gemini Omni Flash to automatically transform any video clip into optimized short-form content for platforms like TikTok, Reels, and YouTu
+
+#### プロンプト
+
+```text
+Higgsfield AI’s new feature, Shorts Studio, leverages Google’s Gemini Omni Flash to automatically transform any video clip into optimized short-form content for platforms like TikTok, Reels, and YouTube Shorts.  
+The demo video showcases one-click presets, AI video analysis,
+```
+
+### No. 740: Google Just Made Ai Video 100X Cheaper! 😳
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** createwithonyinye
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GOOGLE JUST MADE AI VIDEO 100X CHEAPER!
+
+#### プロンプト
+
+```text
+GOOGLE JUST MADE AI VIDEO 100X CHEAPER! 😳
+
+And almost everyone is missing what this actually means.
+
+It's not about generating better images.
+
+It's about building an AI content factory!
+
+This changes the entire creative workflow.
+
+Instead of spending time perfecting one image...
+```
+
+### No. 741: A Classic Re:Zero(Rem) Concept Re-Imagined With A Modern
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Vireon
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+A classic Re:ZERO(Rem) concept re-imagined with a modern, familiar face.
+
+#### プロンプト
+
+```text
+{
+  "image_prompt": {
+    "subject": {
+      "appearance": "An attractive https://t.co/hC1C1OjqJD https://t.co/XX0hG6v3E8
+```
+
+### No. 742: Use Gamma Or Nano Banana 🍌 The Output
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝐾𝑜𝑏𝑎 𝐿𝑒𝑒
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Use gamma or nano banana 🍌 
+
+The output depends on your prompt engineering skill!
+
+#### プロンプト
+
+```text
+@_DeejustDee Use gamma or nano banana 🍌 
+
+The output depends on your prompt engineering skill!
+```
+
+### No. 743: "Cold Morning Light On A Warm Face" Nano
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hassan👑
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+"Cold Morning Light on a Warm Face"
+
+Nano Banana 2 on Gemini 
+
+Prompt ⬇️
+
+#### プロンプト
+
+```text
+"Cold Morning Light on a Warm Face"
+
+Nano Banana 2 on Gemini 
+
+Prompt ⬇️
+```
+
+### No. 744: Google Dropped 2 New Ai Models Today. Nano
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Usman Sani
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google dropped 2 new AI models today.
+
+#### プロンプト
+
+```text
+Google dropped 2 new AI models today.
+Nano Banana 2 Lite — images at $0.034 per 1000.
+Gemini Omni Flash — video generation.
+which AI tool are you actually using to make money?
+drop it below
+```
+
+### No. 745: Oui C’Est Vrai ! Gemini Omni Flash (Nouveau
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grok
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Oui c’est vrai !
+
+#### プロンプト
+
+```text
+@djasnive @Designarena @GoogleDeepMind @BytePlusGlobal Oui c’est vrai ! Gemini Omni Flash (nouveau modèle vidéo de Google DeepMind sorti fin juin) est bien n°1 sur le Video Arena de DesignArena avec 1404 Elo et un gros écart sur Seedance 2.0 Mini.
+
+Les vidéos de comparaison que tu as vues sont d’avant sa sortie, donc elles ne
+```
+
+### No. 746: Alguem Criou Um Editor De Video Que Usa
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hudson Brendon
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072796007071641978.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072796007071641978.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Alguem criou um editor de video que usa o Claude Code pra editar seus videos.
+
+#### プロンプト
+
+```text
+Alguem criou um editor de video que usa o Claude Code pra editar seus videos.
+
+Ele se chama Palmier: um editor de timeline completo, de graca e sem login. Voce abre e ja tem a linha do tempo com os clipes, igual um editor profissional.
+
+A parte boa e o MCP. Voce pluga o MCP do
+```
+
+### No. 747: You Can Now Generate And Edit Video With
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ElevenCreative
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072796060754346245.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072796060754346245.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+You can now generate and edit video with Gemini Omni Flash, right inside ElevenCreative.
+
+#### プロンプト
+
+```text
+You can now generate and edit video with Gemini Omni Flash, right inside ElevenCreative.
+
+Just tell it what to change in plain language, and let it handle the edit.
+```
+
+### No. 748: This Is Absolutely Bonkers I Just Cracked A
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Theashborn
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+This is absolutely bonkers
+
+I just cracked a workflow that helps you create faceless YouTube videos fully automated.
+
+#### プロンプト
+
+```text
+This is absolutely bonkers
+
+I just cracked a workflow that helps you create faceless YouTube videos fully automated.
+
+All you need is free nano banana in flow
+Claude subscription
+And remotion ( in claude code )
+
+And you have a full video ready to ship
+```
+
+### No. 749: Hiring: Ai Filmmaker / Ai Video Editor 📍
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** REMOTE JOB WITH TESSY
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+HIRING: AI Filmmaker / AI Video Editor
+📍 Remote
+
+We’re looking for a creative AI Filmmaker / AI Video Editor to produce high-quality AI-generated videos from concept to final delivery.
+
+#### プロンプト
+
+```text
+HIRING: AI Filmmaker / AI Video Editor
+📍 Remote
+
+We’re looking for a creative AI Filmmaker / AI Video Editor to produce high-quality AI-generated videos from concept to final delivery.
+
+Key Responsibilities
+
+Create AI videos from concept to final edit.
+Maintain character
+```
+
+### No. 750: Breaking: Google Just Made A Month Of Pro
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Yali Reichental
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Breaking: Google just made a month of pro marketing content cost less than lunch.
+
+#### プロンプト
+
+```text
+Breaking: Google just made a month of pro marketing content cost less than lunch. Nano Banana 2 Lite: 3¢/image, ~4s. Gemini Omni Flash: $0.10/sec video (Jun 30). The shift: pro creative is now near-free. Win with a system, not a shoot. Comment STUDIO.
+```
+
+### No. 751: Google Expands Its Ai Image Generation Lineup With
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** NewMaxx
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google expands its AI image generation lineup with Nano Banana 2 Lite and Gemini Omni Flash for video
+
+Direct:
+
+#### プロンプト
+
+```text
+Google expands its AI image generation lineup with Nano Banana 2 Lite and Gemini Omni Flash for video
+
+Direct:
+```
+
+### No. 752: Artisan Capture, Serene Pottery Studio. Gemini Nano Banana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Artisan capture, serene pottery studio.
+
+#### プロンプト
+
+```text
+A candid, medium-shot photograph captures a young woman with deep blue hair styled in a loose bun, smiling gently as she examines a vintage silver rangefinder camera held in her hands. She is seated on a https://t.co/bAXV1CezMe
+```
+
+### No. 753: Google Deepmind 推出的 Gemini Omni Flash 在 Designarena
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 贾洛德森pro_🦞💎
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google DeepMind 推出的 Gemini Omni Flash 在 DesignArena 的 Video Arena 排行榜上以 1404 Elo 位居第一。
+
+#### プロンプト
+
+```text
+Google DeepMind 推出的 Gemini Omni Flash 在 DesignArena 的 Video Arena 排行榜上以 1404 Elo 位居第一。  
+ 
+Gemini Omni Flash 與第二名 BytePlus 的 Seedance 2.0 Mini 拉開 101 分 Elo 差距。   
+
+此排名讓 Google 從先前 Veo 系列躍升 7 個位置，社群對榜單結果有熱烈討論。
+```
+
+### No. 754: Portugal &Amp; Argentina Fan Portrait 🔥 Images On
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+PORTUGAL &amp; ARGENTINA FAN PORTRAIT 🔥
+
+Images on Google Gemini Nano Banana 2.
+
+#### プロンプト
+
+```text
+PORTUGAL &amp; ARGENTINA FAN PORTRAIT 🔥
+
+Images on Google Gemini Nano Banana 2.
+
+Prompt⤵️
+
+Use the exact same face from the reference image and generate a cinematic close-up portrait of a joyful Portugal football fan. The subject wears a Portugal national team jersey — deep crimson
+```
+
+### No. 755: 🤖 How Gemini Omni Flash And Nano Banana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hiroki Ebuchi | VERSAROC | AI x UX
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+🤖 How Gemini Omni Flash and Nano Banana 2 Lite Redefine the 2026 Video Asset Engine ⚡
+▸ Why does the Gemini Omni…
+▸ Native Video Synthesis as…
+▸ The $0.034 Disruptio…
+▶ Read more
+
+#### プロンプト
+
+```text
+🤖 How Gemini Omni Flash and Nano Banana 2 Lite Redefine the 2026 Video Asset Engine ⚡
+▸ Why does the Gemini Omni…
+▸ Native Video Synthesis as…
+▸ The $0.034 Disruptio…
+▶ Read more
+
+#ClaudeCode #GeminiOmniFlash #NanoBanana2Lite #AIVideoGeneration
+```
+
+### No. 756: Messy Rooms And Sleepless Stares Lisa Rose Jennie
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice H.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Messy rooms and sleepless stares
+
+Lisa
+Rose
+Jennie
+
+Blackpink
+
+Nano Banana Pro via AI Studio, prompt 👇
+
+#### プロンプト
+
+```text
+Messy rooms and sleepless stares
+
+Lisa
+Rose
+Jennie
+
+Blackpink
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 757: What A Way To Explore Chile! 🇨🇱 🏃‍♀️
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** lesly🍫
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072854408853962835.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072854408853962835.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+What a way to explore Chile!
+
+#### プロンプト
+
+```text
+What a way to explore Chile! 🇨🇱 🏃‍♀️
+I just fed a single prompt and an image into the new Gemini Omni Flash model, and it instantly captured different landscapes of the country.
+My favorite part? The conversational editing capabilities. What are you building with Omni Flash? 👇
+```
+
+### No. 758: Google Just Made Ai Image Generation Ridiculously Fast
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Julian Goldie SEO
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072855344829624641.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072855344829624641.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GOOGLE JUST MADE AI IMAGE GENERATION RIDICULOUSLY FAST
+
+Nano Banana 2 Lite creates a complete image in around 4 seconds—but speed is only half the story.
+
+#### プロンプト
+
+```text
+GOOGLE JUST MADE AI IMAGE GENERATION RIDICULOUSLY FAST
+
+Nano Banana 2 Lite creates a complete image in around 4 seconds—but speed is only half the story.
+
+What It Can Do:
+
+→ Generate images directly from a text prompt
+
+→ Edit an image you already have
+
+→ Combine multiple
+```
+
+### No. 759: Created Using Google Gemini Omni Flash. Prompt: Use
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Virena
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2072861506245657069.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2072861506245657069.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Created using Google Gemini Omni flash.
+
+#### プロンプト
+
+```text
+Use the attached reference image as the exact identity reference for the main character. Preserve his facial identity with absolute consistency throughout the video, including facial structure, eyes, eyebrows, nose, lips, skin https://t.co/sHB8gSbhWA
+```
+
+### No. 760: Who Would You Rather See On The Cover?
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice H.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Who would you rather see on the cover?
+
+#### プロンプト
+
+```text
+Who would you rather see on the cover?
+
+Wonyoung
+Leeseo
+Rei
+
+IVE
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 761: Gemini Nano Banana Pro Prompt: Create A Hyper
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zeeshi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Nano Banana Pro 
+
+Prompt:
+
+Create a hyper realistic sharp detailed portrait of young Indian woman with exact same face as in the reference image, 4k-High-resolution upper-body mirror selfie of 
+
+#### プロンプト
+
+```text
+Create a hyper realistic sharp detailed portrait of young Indian woman with exact same face as in the reference image, 4k-High-resolution upper-body mirror selfie of a young woman in a fitting room with dark grey walls and silver handles. She has https://t.co/WRZxrHpi3k
+```
+
+### No. 762: Gemini Remains Purposely Untruthful. When Asked If It
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** antijacobin
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini remains purposely untruthful.
+
+#### プロンプト
+
+```text
+@jaynitx @EINSOPHAUR @ELONMUSK  @xai @grok Gemini remains purposely untruthful. When asked if it would continue to do the same, it avoided answering!  More precisely, it says that ity simply won't generate pictures of historical figures!!!
+------------------------------------------------
+```
+
+### No. 763: Gpt Image 2 | Nano Banana 2 |
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dilshad Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+
+#### プロンプト
+
+```text
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+A cinematic, photorealistic full body shot captured from an eye-level angle on a wet city street at night in a modern metropolis (like Tokyo or Dubai). The man, based on
+```
+
+### No. 764: Ultra Detailed Portrait. Image On Google Gemini Nano
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Ultra detailed Portrait.
+
+#### プロンプト
+
+```text
+Use the exact same face from the reference image and generate the most technically perfect ultra-detailed high resolution portrait ever produced. Extreme close-up — face filling 85% of the frame, tight https://t.co/YSoCROlTOP
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

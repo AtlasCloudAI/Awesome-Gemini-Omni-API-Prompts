@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-764%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-853%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 764 |
+| 提示詞總數 | 853 |
 | 分類數 | 8 |
-| 預覽影片數 | 258 |
-| 最後更新 | 2026/07/03 |
+| 預覽影片數 | 284 |
+| 最後更新 | 2026/07/04 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (662)
+### Twitter Community (751)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -17257,6 +17257,2292 @@ Ultra detailed Portrait.
 
 ```text
 Use the exact same face from the reference image and generate the most technically perfect ultra-detailed high resolution portrait ever produced. Extreme close-up — face filling 85% of the frame, tight https://t.co/YSoCROlTOP
+```
+
+### No. 765: Gemini Omni Flash Just Landed On Arcads And
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Deenu Khan
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073071716822032514.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073071716822032514.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni Flash just landed on Arcads and this is the video quality shift people have been waiting for.
+
+#### 提示詞
+
+```text
+Gemini Omni Flash just landed on Arcads and this is the video quality shift people have been waiting for.
+
+You get infinite world knowledge, top-tier editing, and real motion design, with text that actually stays crisp across every frame. This is the Nano Banana moment for AI
+```
+
+### No. 766: Gemini Omni Flash On Openart Makes Video Editing
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** K
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni Flash on OpenArt makes video editing feel more natural, combining conversational control with multimodal inputs to streamline the creative process.
+
+#### 提示詞
+
+```text
+Gemini Omni Flash on OpenArt makes video editing feel more natural, combining conversational control with multimodal inputs to streamline the creative process.
+```
+
+### No. 767: Nano Banana 2 On Gemini. Prompt: A Dramatic
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heisenberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana 2 on Gemini.
+
+#### 提示詞
+
+```text
+A dramatic, high-contrast studio portrait of a man with dark messy hair and a well groomed beard, wearing black rectangular glasses and a dark olive-green collared shirt. He is leaning forward over the curved backrest of a black chair, gazing https://t.co/IP12fgEWPW
+```
+
+### No. 768: Artingentさんの作品です A Hanging Orchid Observatory In An Artistic
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sayobonita
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Artingentさんの作品です
+
+
+A hanging orchid observatory in an artistic arborpunk style.
+
+#### 提示詞
+
+```text
+Artingentさんの作品です
+@artingent←Prompt
+
+A hanging orchid observatory in an artistic arborpunk style. Generated using Nano banana pro. Prompt in the first reply
+```
+
+### No. 769: Google Just Made Video Timelines Look Obsolete You
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073074289482346682.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073074289482346682.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+GOOGLE JUST MADE VIDEO TIMELINES LOOK OBSOLETE
+
+You can now edit a video by telling Gemini exactly what to change.
+
+#### 提示詞
+
+```text
+GOOGLE JUST MADE VIDEO TIMELINES LOOK OBSOLETE
+
+You can now edit a video by telling Gemini exactly what to change.
+
+And the workflow gets even faster when you pair it with Google’s 4-second image model.
+
+What Gemini Omni Flash Does:
+
+→ Change lighting, backgrounds, objects and
+```
+
+### No. 770: Nano Banana Prompt 🍌 👇🏻
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Z O R A | A I artist
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana Prompt 🍌 👇🏻
+
+#### 提示詞
+
+```text
+Nano Banana Prompt 🍌 👇🏻 
+
+#AIArt #PromptShare #GenerativeAI #DigitalArt #FashionPhotography #PortraitPhotography #AIPrompt
+```
+
+### No. 771: 你收藏的 Ai 出图 Prompt 大概率只能用一次 换个主题,风格全崩 Ai-Visual-Prompt-Cookbook 解决的就是这件事
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Bigyap
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+你收藏的 AI 出图 prompt
+大概率只能用一次
+换个主题,风格全崩
+AI-Visual-Prompt-Cookbook 解决的就是这件事:
+把"风格"和"内容"彻底拆开
+每个视觉风格 = 一个 style.json
+复制粘贴进 ChatGPT、Claude、Nano Banana
+你只改变量,风格 DNA 一个像素都不变
+换城市、换产品、换人物
+风格照样锁死
+
+#### 提示詞
+
+```text
+你收藏的 AI 出图 prompt
+大概率只能用一次
+换个主题,风格全崩
+AI-Visual-Prompt-Cookbook 解决的就是这件事:
+把"风格"和"内容"彻底拆开
+每个视觉风格 = 一个 style.json
+复制粘贴进 ChatGPT、Claude、Nano Banana
+你只改变量,风格 DNA 一个像素都不变
+换城市、换产品、换人物
+风格照样锁死
+```
+
+### No. 772: Hiring: Ai Ugc Content Creator (Full-Time, Remote) Location
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** REMOTE JOB WITH TESSY
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+HIRING: AI UGC Content Creator (Full-Time, Remote)
+
+Location: Remote
+Salary: $350/month
+
+We’re looking for full-time AI UGC Content Creators to join our team.
+
+#### 提示詞
+
+```text
+HIRING: AI UGC Content Creator (Full-Time, Remote)
+
+Location: Remote
+Salary: $350/month
+
+We’re looking for full-time AI UGC Content Creators to join our team.
+
+Requirements:
+
+Experience creating AI-generated UGC videos.
+Proficiency with the latest AI video tools, including
+```
+
+### No. 773: Google Is Pushing Creator Speed With Gemini Omni
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Blue Lightning
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google is pushing creator speed with Gemini Omni Flash for short video iteration and Nano Banana 2 Lite for high volume image drafts.
+
+#### 提示詞
+
+```text
+Google is pushing creator speed with Gemini Omni Flash for short video iteration and Nano Banana 2 Lite for high volume image drafts. More versions, faster edits, clearer production math. 🚀
+```
+
+### No. 774: 我扒了 11 个 Ai 图片/视频 Prompt 开源仓库 从"复制粘贴就能用"
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Bigyap
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+我扒了 11 个 AI 图片/视频 prompt 开源仓库
+从"复制粘贴就能用"
+到"自动生成 100 万条组合"
+从静态出图
+到 25 亿种视频排列组合
+这条推文,建议先收藏,再细看
+
+一.📚 先说图片提示词库,这 4 个够你用半年:
+Awesome-AI-Image-Prompts(216⭐)
+1000+ 条,覆盖 16 个类别
+DALL-E、Midjourney、Nano
+
+#### 提示詞
+
+```text
+我扒了 11 个 AI 图片/视频 prompt 开源仓库
+从"复制粘贴就能用"
+到"自动生成 100 万条组合"
+从静态出图
+到 25 亿种视频排列组合
+这条推文,建议先收藏,再细看
+
+一.📚 先说图片提示词库,这 4 个够你用半年:
+Awesome-AI-Image-Prompts(216⭐)
+1000+ 条,覆盖 16 个类别
+DALL-E、Midjourney、Nano
+```
+
+### No. 775: Nano Banana Pro On Prompt Use The Same
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana pro on  
+
+Prompt
+
+Use the same face from the reference image without changing facial features.
+
+#### 提示詞
+
+```text
+Nano Banana pro on @DomoAI_ 
+
+Prompt
+
+Use the same face from the reference image without changing facial features. A gorgeous young western woman in her early 20s with the exact same face as the reference — flawless porcelain skin, large sparkling doe eyes with delicate eyeliner
+```
+
+### No. 776: The Evening Sun Hugs The Hills New Series
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Viki
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073082302440099936.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073082302440099936.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The evening sun hugs the hills
+New series of 4 images
+Which of the four hooked you the most?
+
+#### 提示詞
+
+```text
+The evening sun hugs the hills
+New series of 4 images
+Which of the four hooked you the most?
+
+Created in @Somake_ai
+Model: Nano Banana 2 and GPT Image 2  
+
+Prompt in ALT⤵️
+```
+
+### No. 777: Chose Your Fighter!!! Tzuyu As Kitana Sana As
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Chose your fighter!!!
+
+#### 提示詞
+
+```text
+Chose your fighter!!!
+
+Tzuyu as Kitana
+Sana as Milena
+Mina as Skarlet
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 778: Nano Banana Prompt In The Description 🍌 👇🏻
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Z O R A | A I artist
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana Prompt  In The Description 🍌 👇🏻
+
+#### 提示詞
+
+```text
+Nano Banana Prompt  In The Description 🍌 👇🏻 
+
+#AIArt #PromptShare #GenerativeAI #DigitalArt #FashionPhotography #PortraitPhotography #AIPrompt
+```
+
+### No. 779: An 18 Year Old In Kunming Told His
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Crane
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073084606262259744.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073084606262259744.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+An 18 year old in Kunming told his parents he was doing an unpaid data entry internship for a Chinese travel agency after class.
+
+#### 提示詞
+
+```text
+An 18 year old in Kunming told his parents he was doing an unpaid data entry internship for a Chinese travel agency after class. There is no travel agency. He runs a viral TikTok comedy channel with 2.3 million followers built entirely around a single recurring AI generated
+```
+
+### No. 780: Ready For Another Day Of Exciting World Cup
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Ready for another day of exciting world cup games!
+
+#### 提示詞
+
+```text
+Ready for another day of exciting world cup games! Hopefully it can top of what happened yesterday!
+
+Blackpink for 🇦🇷🇨🇻
+Ive for 🇦🇺🇪🇬
+Twice for 🇨🇴🇬🇭
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 781: Ai Digest Daily Category 1: Frontier Model Releases
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nduvho_strategy
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+AI Digest Daily
+
+Category 1: Frontier Model Releases and Benchmarks
+
+1.
+
+#### 提示詞
+
+```text
+AI Digest Daily
+
+Category 1: Frontier Model Releases and Benchmarks
+
+1. Anthropic Launches Claude Sonnet 5 with Strong Agentic Focus: The new model prioritizes planning, tool use (browsers, terminals), and multi-step autonomous tasks, delivering performance close to Opus 4.8 at
+```
+
+### No. 782: Created With Gemini Nano Banana 2 On Prompt
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Created with Gemini Nano Banana 2 on 
+
+Prompt 👇
+
+A confident male model stands in a relaxed posture with his body turned at a 45-degree angle, his weight smoothly shifted and shoulders comfortably dro
+
+#### 提示詞
+
+```text
+Created with Gemini Nano Banana 2 on @GeminiApp
+
+Prompt 👇
+
+A confident male model stands in a relaxed posture with his body turned at a 45-degree angle, his weight smoothly shifted and shoulders comfortably dropped. He features medium-short dark hair, measuring about three
+```
+
+### No. 783: Turn A Rough Room Sketch Into A Photorealistic
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Neurohelper AI automation with ChatGPT Midjourney
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Turn a rough room sketch into a photorealistic luxury Scandinavian interior with AI.
+
+#### 提示詞
+
+```text
+"Transform this rough hand-drawn interior sketch into a realistic Scandinavian luxury interior. Preserve the layout exactly while replacing https://t.co/YWsYR84eZE
+```
+
+### No. 784: " Made With Nano Banana Pro " Prompt
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** WeWant Mars
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+"
+Made with nano banana pro 
+"
+
+   Prompt : [  ]
+
+              Ultra-photorealistic real photograph of a shredded athletic man in his late 20s performing a powerful pull-up on a natural rocky cliff e
+
+#### 提示詞
+
+```text
+[  ]
+
+              Ultra-photorealistic real photograph of a shredded athletic man in his late 20s performing a powerful pull-up on a natural rocky cliff edge high above the ocean at sunset. Shot on Canon EOS R5 with 85mm f/1.4 lens, https://t.co/1cGlJlTtJY
+```
+
+### No. 785: I Am Shocked By The Speed And Accuracy
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Keskin
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I am SHOCKED by the speed and accuracy of Nano Banana 2 Lite on  Gives great results literally in seconds.
+
+#### 提示詞
+
+```text
+I am SHOCKED by the speed and accuracy of Nano Banana 2 Lite on @itsPolloAI! Gives great results literally in seconds.
+
+The first image is from NB2L,  and interestingly, it performed even better than Nano Banana Pro in this prompt.
+
+Prompt and link in the comments 👇
+```
+
+### No. 786: Created With Google Gemini Nano Banana 🍌 Prompt
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** zayan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Created with Google Gemini Nano banana 🍌 
+
+Prompt ⤵️ 
+Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration style with a cinematic concept art aes
+
+#### 提示詞
+
+```text
+Created with Google Gemini Nano banana 🍌 
+
+Prompt ⤵️ 
+Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration style with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art.
+```
+
+### No. 787: The Algorithm Owes You This View. 🤍✨ Megan
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Katherine Arison
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The algorithm owes you this view.
+
+#### 提示詞
+
+```text
+The algorithm owes you this view. 🤍✨
+
+Megan Fox • Elizabeth Olsen • Ana de Armas • Sydney Sweeney 
+
+Nano Banana Pro Prompt Below 👇🏻👇🏻👇🏻
+```
+
+### No. 788: Yeah Sure, See Below! The Prompt Itself Was
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dan ⚡️
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+yeah sure, see below!
+
+#### 提示詞
+
+```text
+```
+Use the prd-creator skill to help me create a PRD and
+```
+
+### No. 789: Try This Prompt ⤵️ Cinematic Portrait Of A
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Noname Oasis
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+try this prompt ⤵️
+
+Cinematic portrait of a stylish man standing on a busy subway platform, wearing a dark tailored suit and black turtleneck with round glasses, serious confident expression, commuter
+
+#### 提示詞
+
+```text
+try this prompt ⤵️
+
+Cinematic portrait of a stylish man standing on a busy subway platform, wearing a dark tailored suit and black turtleneck with round glasses, serious confident expression, commuters rushing past creating motion blur around him, subway train beside the platform
+```
+
+### No. 790: "Natural Glow, Cozy Vibes, And A Whole Lot
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+"Natural glow, cozy vibes, and a whole lot of hair volume."
+
+Sadie Sink | Millie Bobby Brown 
+
+Photos Made With AI " Gemini Nano Banana Pro "
+
+Here is the PROMPT of these AI generated pictures:👇
+
+"A r
+
+#### 提示詞
+
+```text
+"Natural glow, cozy vibes, and a whole lot of hair volume."
+
+Sadie Sink | Millie Bobby Brown 
+
+Photos Made With AI " Gemini Nano Banana Pro "
+
+Here is the PROMPT of these AI generated pictures:👇
+
+"A realistic photograph shows a young woman with fair skin and striking long, wavy
+```
+
+### No. 791: Excellent Prompt Generated By Nano Banana
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ghulam Mustafa
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Excellent prompt generated by Nano Banana
+
+#### 提示詞
+
+```text
+@Just_sharon7 @DomoAI_ Excellent prompt generated by Nano Banana
+```
+
+### No. 792: 🎨 Google Has The Most Immediately Useful Creator
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 0xJiuJitsuJerry
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🎨 Google Has the Most Immediately Useful Creator Stack
+
+Google’s biggest move this week is probably the most practical for content creators and AI builders shipping visual media.
+
+#### 提示詞
+
+```text
+🎨 Google Has the Most Immediately Useful Creator Stack
+
+Google’s biggest move this week is probably the most practical for content creators and AI builders shipping visual media. @NanoBanana 2 Lite is now its fastest and most cost-efficient Gemini Image model, with @Google
+```
+
+### No. 793: Pinch Me! Nothing Beats Seeing My Country Play
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Pinch me!
+
+#### 提示詞
+
+```text
+Pinch me! Nothing beats seeing my country play live from the stands ✨🏟️🔥
+
+🇦🇷 Anya Taylor-Joy
+🇨🇴 Shakira 
+🇦🇺 Margot Robbie
+
+Nano Banana 2 🍌 via Gemini 
+
+Prompt Below 👇
+```
+
+### No. 794: 🤖 Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video Arena
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ezsou
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🤖 Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video Arena
+
+Google DeepMind 公测视频生成模型 Gemini Omni Flash 以 1404 分登顶 Video Arena 盲测榜，领先第二名字节跳动 Seedance 2.0 Mini 达 101 分。Google 的视频模型排名也由 Veo 系列时期提升 7 位。
+
+#### 提示詞
+
+```text
+🤖 Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video Arena
+
+Google DeepMind 公测视频生成模型 Gemini Omni Flash 以 1404 分登顶 Video Arena 盲测榜，领先第二名字节跳动 Seedance 2.0 Mini 达 101 分。Google 的视频模型排名也由 Veo 系列时期提升 7 位。
+
+Video Arena
+```
+
+### No. 795: Gemini Omni Can Generate Content From Games Like
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** flixel haxel excel
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+gemini omni can generate content from games like fnf and minecraft in a simple prompt, so uh id argue about this
+
+#### 提示詞
+
+```text
+@gang_tie69326 @Designarena @GoogleDeepMind @BytePlusGlobal gemini omni can generate content from games like fnf and minecraft in a simple prompt, so uh id argue about this
+```
+
+### No. 796: Learn How To Prompt Gemini Omni Here In
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 🧪Morgen
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Learn how to prompt Gemini Omni here in this article.
+
+#### 提示詞
+
+```text
+Learn how to prompt Gemini Omni here in this article. I love Omni!!
+```
+
+### No. 797: I Bring To You A New Teaser For
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Elis Satu
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073109671347368378.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073109671347368378.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I bring to you a new teaser for my Meme Movie: the Virl Universe; ancient agartha arc; the creation of the new race; the alchemical marriage of Gudrun and Yakub.
+
+#### 提示詞
+
+```text
+Beautiful young woman, long blonde hair, blue eyes, perfect features, perfect golden ratio facial https://t.co/vkC29F8WS4
+```
+
+### No. 798: Comment “Plugin” To Get The Link 🔗
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hellos
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073110388724375938.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073110388724375938.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Comment “PLUGIN” to get the link 🔗
+.
+
+#### 提示詞
+
+```text
+Comment “PLUGIN” to get the link 🔗
+.
+.
+Gemini Omni Flash and Seed Audio 1.0 hit Adobe Premiere Pro and DaVinci Resolve Studio
+.
+Clean a background with a prompt, generate multi-shots, and add motion graphics in the timeline.
+.
+Change a voice, narrate from text, or dub a clip
+```
+
+### No. 799: Late Night Flash Selfies Just Hit Different 🤍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** A R I A
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+late night flash selfies just hit different
+
+🤍 Madelyn Cline
+💛 Sydney Sweeney
+🤎 Barbara Palvin
+
+Nano Banana prompt 👇
+
+#### 提示詞
+
+```text
+late night flash selfies just hit different
+
+🤍 Madelyn Cline
+💛 Sydney Sweeney
+🤎 Barbara Palvin
+
+Nano Banana prompt 👇
+```
+
+### No. 800: I Bring To You A New Teaser For
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Elis Satu
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073112760225821176.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073112760225821176.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I bring to you a new teaser for my Meme Movie: VIRL; ancient agartha arc; the creation of the new race; the alchemical marriage of Gudrun and Yakub.
+
+#### 提示詞
+
+```text
+Beautiful young woman, long blonde hair, blue eyes, perfect features, perfect golden ratio facial structure, perfect https://t.co/xLitlDJDWM
+```
+
+### No. 801: Google'S New Tools Google Rolled Out Nano Banana
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ToZx
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google's New Tools
+
+Google rolled out Nano Banana 2 Lite, a faster and cheaper version of its image model, with image generation shown in just a few seconds.
+
+#### 提示詞
+
+```text
+Google's New Tools
+
+Google rolled out Nano Banana 2 Lite, a faster and cheaper version of its image model, with image generation shown in just a few seconds. It also pushed Gemini Omni Flash further out through the API and AI Studio as a lower-cost video generation and editing
+```
+
+### No. 802: 🚨 Huge Ai News Is Here! 🤯 I
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Biceps
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073113837411459161.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073113837411459161.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🚨 HUGE AI NEWS is here!
+
+#### 提示詞
+
+```text
+🚨 HUGE AI NEWS is here! 🤯
+I covered EVERYTHING in one video 👇#AI #AINews
+00:00 Overview
+00:30 🇨🇳 China's Robot Schools
+03:26 🤖 UBTECH Companion Human Robot
+05:10 🧠 Claude Fable 5 Returns
+06:31 🍌 Nano Banana 2 Lite
+07:29 🎬 ByteDance Seedance 2.5
+09:02 🎥 Seedance 2.0 4K &amp;
+```
+
+### No. 803: Google Just Released Two Ai Tools That Change
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** FutureWithAI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google just released two AI tools 
+that change everything for creators:
+
+🎨 Nano Banana 2 Lite — fastest AI image model
+🎬 Gemini Omni Flash — generate &amp; edit 
+high quality video with AI
+
+A year ago
+
+#### 提示詞
+
+```text
+Google just released two AI tools 
+that change everything for creators:
+
+🎨 Nano Banana 2 Lite — fastest AI image model
+🎬 Gemini Omni Flash — generate &amp; edit 
+high quality video with AI
+
+A year ago this would cost thousands.
+Today it's available to everyone.
+
+Which one will you
+```
+
+### No. 804: This Week In Ai — Everything That Mattered
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** FutureWithAI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+This week in AI — everything that mattered:
+
+📌 Google released Nano Banana 2 Lite 
+&amp; Gemini Omni Flash for video generation
+
+📌 Claude Fable 5 returned globally
+— available until July 7th
+
+📌 OpenAI
+
+#### 提示詞
+
+```text
+This week in AI — everything that mattered:
+
+📌 Google released Nano Banana 2 Lite 
+&amp; Gemini Omni Flash for video generation
+
+📌 Claude Fable 5 returned globally
+— available until July 7th
+
+📌 OpenAI launched GeneBench-Pro 
+for biology research
+
+📌 Robots now learn skills
+```
+
+### No. 805: Skydiving Just Got Unreal 🚀 Capture A Moment
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mohammed Siraj
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073116719611281569.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073116719611281569.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Skydiving just got unreal 🚀 Capture a moment I never thought I'd experience, thanks to Galaxy Z Fold7 and Nano Banana in Google Gemini.
+
+#### 提示詞
+
+```text
+Skydiving just got unreal 🚀 Capture a moment I never thought I'd experience, thanks to Galaxy Z Fold7 and Nano Banana in Google Gemini.
+
+Also, try the Google Al Pro plan for 6 months at no cost to gain higher access to video generation with Veo3.
+```
+
+### No. 806: Who Are You Taking A Dip With? Jennie
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Who are you taking a dip with?
+
+#### 提示詞
+
+```text
+Who are you taking a dip with?
+
+Jennie
+Jisoo
+Rose
+
+Blackpink
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 807: Killed Its Own Opening Video 3 Weeks
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jason ✨👾SaaStr.Ai✨ Lemkin
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073117053754732891.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073117053754732891.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+.
+
+#### 提示詞
+
+```text
+.@googlecloud killed its own opening video 3 weeks before Google Cloud Next.
+
+In rehearsals, VP of Marketing @saykay looked at the opener her team had built and called it. It was using AI, but not enough of it to actually showcase what the product could do. So they rebuilt it
+```
+
+### No. 808: Google Omni Flash Just Changed Ai Video. 🤯
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google Omni Flash just changed AI video.
+
+#### 提示詞
+
+```text
+Google Omni Flash just changed AI video. 🤯
+
+Now you can edit videos by talking to them.
+
+No timeline. No cutting. No tiny rage clicks.
+
+Say “change the background” and boom, it listens. 😂
+
+Pair it with Nano Banana Lite for fast images too.
+
+Link in the comments!
+```
+
+### No. 809: 🎨 Ai Art &Amp; Visuals Roundup — July
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AlexAImaginator
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🎨 AI ART &amp; VISUALS ROUNDUP — July 03, 2026
+
+1️⃣ MIDJOURNEY DEMANDS DISCLOSURE FROM MAJOR STUDIOS
+
+Midjourney has filed a motion requiring Disney, Universal, and Warner Bros to reveal their interna
+
+#### 提示詞
+
+```text
+🎨 AI ART &amp; VISUALS ROUNDUP — July 03, 2026
+
+1️⃣ MIDJOURNEY DEMANDS DISCLOSURE FROM MAJOR STUDIOS
+
+Midjourney has filed a motion requiring Disney, Universal, and Warner Bros to reveal their internal AI training practices. The company argues that if these studios are training
+```
+
+### No. 810: I Took One Plain Clip. Then I Talked
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073119772422840387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073119772422840387.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I took one plain clip.
+
+#### 提示詞
+
+```text
+I took one plain clip.
+
+Then I talked my way through the edits.
+
+→ Swapped the background.
+
+→ Added on-screen text.
+
+→ Matched it to the hook.
+
+→ Kept the scene consistent.
+
+→ Turned it into short-form content.
+
+That’s the power of Gemini Omni Flash.
+
+You don’t edit like a
+```
+
+### No. 811: Kat Dennings, Megan Fox And Scarlett Johansson Gemini
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Society
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Kat Dennings, Megan Fox and Scarlett Johansson
+
+Gemini Nano Banana Pro Prompt Below 👇
+
+#### 提示詞
+
+```text
+Kat Dennings, Megan Fox and Scarlett Johansson
+
+Gemini Nano Banana Pro Prompt Below 👇
+```
+
+### No. 812: On Spotify: "My Own Dreams" Is Track 4
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Yehoshua
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073120441695166947.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073120441695166947.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+On Spotify: 
+
+"My Own Dreams" is Track 4 on Yehoshua's debut album "The Crown Out Of Which Dreams Arise".
+
+#### 提示詞
+
+```text
+On Spotify: 
+
+"My Own Dreams" is Track 4 on Yehoshua's debut album "The Crown Out Of Which Dreams Arise".
+
+The album features nine long-form songs of dreamlike philosophical writing, drawing on Sumerian foundations of literature,
+```
+
+### No. 813: Get Omniflow: Auto Veo &Amp; Nano Banana Pro
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Lawal Ridwan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Get  OmniFlow: Auto Veo &amp; Nano Banana Pro on Google Flow on   
+
+Omniflow is the ultimate batch generation and automation companion for Google Flow.
+
+#### 提示詞
+
+```text
+Get  OmniFlow: Auto Veo &amp; Nano Banana Pro on Google Flow on @Gumroad  
+
+Omniflow is the ultimate batch generation and automation companion for Google Flow. Stop clicking one by one—generate hundreds of images and videos in bulk, upscale them automatically,
+```
+
+### No. 814: Amazing Alla - Gave Your Prompt To Gemini
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dheepan Ratnam
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073130681874419921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073130681874419921.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+amazing Alla - gave your prompt to gemini omni flash.
+
+#### 提示詞
+
+```text
+@Kiber_Alla amazing Alla - gave your prompt to gemini omni flash. 
+could be better if the maximum duration is more than 10  seconds
+```
+
+### No. 815: Let'S Spread Summer Vibes Before Bed!👙 Good Night
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Let's spread summer vibes before bed!👙 good night, sleep well!🌟
+
+Sydney Sweeney, Dua Lipa, Alexandra Daddario, Mina Shirakawa🔥
+👉🏻Subscribe for more content!⚡
+
+Nano Banana 2 via Hailuo AI
+Prompt:
+
+The 
+
+#### 提示詞
+
+```text
+The open-air deck of a luxury yacht basks in a bright, sun-drenched atmosphere https://t.co/83jPGMQ8fE https://t.co/88khrijjqb
+```
+
+### No. 816: Nano Banana For The Images And Grok Imagine
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NOCTALIS UMBRA 🌒 AI MoonFluencer
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana for the images and Grok Imagine for the video.
+
+#### 提示詞
+
+```text
+@mstables1991 @MO_IAI Nano Banana for the images and Grok Imagine for the video. 😉
+```
+
+### No. 817: Gemini Omni Flash + Seed Audio In Premiere
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SIMANTO
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni Flash + Seed Audio IN Premiere and DaVinci?
+
+#### 提示詞
+
+```text
+@higgsfield Gemini Omni Flash + Seed Audio IN Premiere and DaVinci? 🔥 That's the integration video editors have been BEGGING for. Background removal + multi-shots + voice changing + 18-language dubs ALL in the timeline? Higgsfield just made me reconsider my entire workflow! 🚀
+```
+
+### No. 818: Why Nano Banana And Omni Flash Matter For
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Mastery Guide
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073144750010450186.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073144750010450186.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+WHY NANO BANANA AND OMNI FLASH MATTER FOR AI SEO
+
+Together they shorten the content workflow from idea to image to video to publish.
+
+#### 提示詞
+
+```text
+WHY NANO BANANA AND OMNI FLASH MATTER FOR AI SEO
+
+Together they shorten the content workflow from idea to image to video to publish.
+```
+
+### No. 819: 8️⃣ 🎥 Google Launches Gemini Omni Flash And
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Future-is-good
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+8️⃣ 🎥 Google launches Gemini Omni Flash and Nano Banana 2 Lite
+
+Conversational video editing in the Gemini API and fast video generation at $0.034 per 4-sec clip — AI multimedia production goes indust
+
+#### 提示詞
+
+```text
+8️⃣ 🎥 Google launches Gemini Omni Flash and Nano Banana 2 Lite
+
+Conversational video editing in the Gemini API and fast video generation at $0.034 per 4-sec clip — AI multimedia production goes industrial.
+```
+
+### No. 820: Thanks! That'S What I Do For Most Of
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NOCTALIS UMBRA 🌒 AI MoonFluencer
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Thanks!
+
+#### 提示詞
+
+```text
+@MO_IAI @mstables1991 Thanks! That's what I do for most of my videos. 😊 Always Nano Banana for the images (with @openart_ai ). And for the videos sometimes I use Kling, Seedance or Midjourney. Depends of what type of video I make.
+```
+
+### No. 821: Nano Banana 2 Lite - Party Never Ends
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kaan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana 2 Lite - Party Never Ends
+
+Prompt
+Two young men with mustaches sitting on a wooden staircase, left figure in light grey button-down and baggy blue jeans holding two drinks, right figure in
+
+#### 提示詞
+
+```text
+Nano Banana 2 Lite - Party Never Ends
+
+Prompt
+Two young men with mustaches sitting on a wooden staircase, left figure in light grey button-down and baggy blue jeans holding two drinks, right figure in red graphic tee and dark trousers, candid streetwear aesthetic, low-angle
+```
+
+### No. 822: Ai Magic Or Real-World Wizardry? 🪄🚗 Check Out
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Neurain
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073151041793925319.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073151041793925319.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+AI magic or real-world wizardry?
+
+#### 提示詞
+
+```text
+AI magic or real-world wizardry? 🪄🚗
+
+Check out this mind-bending side-by-side! Watch as Gemini Omni Flash completely redefines video generation—lifting cars with a wave of a hand, splitting trees instantly, and peeling away graffiti like a sticker.
+
+The gap between imagination
+```
+
+### No. 823: I’M One Of The More Vocal Critics Of
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nikunj Kothari
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all..
+
+#### 提示詞
+
+```text
+I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all..
+
+&gt; Flash - for fast cheap long context structured tasks
+&gt; Nano banana - world class images. New lite model is great. 
+&gt;
+```
+
+### No. 824: Gemini Omni (This Video) Vs Grok Imagine (Video
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Diego | AI 🚀 - e/acc
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073156477414490387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073156477414490387.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni (this video) vs Grok Imagine (video below)
+
+#### 提示詞
+
+```text
+Gemini Omni (this video) vs Grok Imagine (video below)
+```
+
+### No. 825: Google Launches Nano Banana 2 Lite For Fast
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Chris Short
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API
+
+#### 提示詞
+
+```text
+Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API #devopsish
+```
+
+### No. 826: His Latest Website Has A Cat That Walks
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Bounce
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073167688801845640.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073167688801845640.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+HIS LATEST WEBSITE HAS A CAT THAT WALKS OUT A DOOR AND THROUGH THE INTERFACE AND THE CLIENT PAID $10K FOR IT
+
+the animation is the whole site, not a header video, not a corner mascot, the cat is how y
+
+#### 提示詞
+
+```text
+HIS LATEST WEBSITE HAS A CAT THAT WALKS OUT A DOOR AND THROUGH THE INTERFACE AND THE CLIENT PAID $10K FOR IT
+
+the animation is the whole site, not a header video, not a corner mascot, the cat is how you move between sections
+
+one nano banana render turns into a full character
+```
+
+### No. 827: Google Just Released Two Ai Tools. Nano Banana
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073174449889972486.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073174449889972486.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google just released two AI tools.
+
+#### 提示詞
+
+```text
+Google just released two AI tools.
+
+Nano Banana 2 Lite for images and Gemini Omni Flash for video.
+
+And the interesting part is how they work together: idea → image → video in one flow. 
+
+Omni Flash is still in public preview, and Google adds a SynthID watermark to AI content
+```
+
+### No. 828: They'Re Waiting For You! Jisoo Rose Lisa Blackpink
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+They're waiting for you!
+
+#### 提示詞
+
+```text
+They're waiting for you!
+
+Jisoo
+Rose
+Lisa
+
+Blackpink
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 829: Peaceful Reading In The Park. Gemini Nano Banana
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Peaceful reading in the park.
+
+#### 提示詞
+
+```text
+A serene, high-quality outdoor portrait capturing a young woman relaxing in a sunlit park. She is seated gracefully on a wooden park bench, wearing a light floral-patterned summer dress, a straw hat, and sandals, https://t.co/etCgFXhmeU
+```
+
+### No. 830: Google Just Released Nano Banana 2 Lite And
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** art mk
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073185126482157846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073185126482157846.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google just released Nano Banana 2 Lite and Gemini Omni Flash 🍌
+Nano Banana 2 Lite is the fastest and cheapest image generation model in the family.
+
+#### 提示詞
+
+```text
+Google just released Nano Banana 2 Lite and Gemini Omni Flash 🍌
+Nano Banana 2 Lite is the fastest and cheapest image generation model in the family.
+•  ~4 seconds per image
+•  Only $0.034 per image
+It follows prompts well, keeps strong character consistency across frames, and
+```
+
+### No. 831: Luxury Vacation Vibes ✨ Mina Sana Tzuyu Nayeon
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Luxury vacation vibes ✨
+
+Mina
+Sana
+Tzuyu
+Nayeon
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt 👇
+
+#### 提示詞
+
+```text
+Luxury vacation vibes ✨
+
+Mina
+Sana
+Tzuyu
+Nayeon
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 832: Gpt Image 2 + Nano Banana Pro Agent
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Antonio Romero
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+GPT Image 2 + Nano Banana Pro agent is insane 🤯
+
+This AI agent creates winning static ads at scale using Google's latest image model...
+
+#### 提示詞
+
+```text
+GPT Image 2 + Nano Banana Pro agent is insane 🤯
+
+This AI agent creates winning static ads at scale using Google's latest image model...
+
+&amp; turns any product into scroll-stopping creatives without designers or agencies.
+
+Perfect for agencies, e-comm operators &amp; creative agencies.
+```
+
+### No. 833: Google Just Made The Content Production Process Dramatically
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073195088256356743.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073195088256356743.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google just made the content production process dramatically faster.
+
+#### 提示詞
+
+```text
+Google just made the content production process dramatically faster.
+
+Nano Banana 2 Light can generate an image in under 4 seconds.
+
+Gemini Omni Flash can turn that image into a video—and edit it through conversation.
+
+But the real opportunity is using them together.
+```
+
+### No. 834: With Nano Banana 2 Lite Using Prompt: Haute
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+with Nano Banana 2 Lite using  
+PROMPT: haute couture editorial fashion photoshoot, avant-garde feathered gowns and intricate feather accessories, dramatic fashionable platform shoes prominently in th
+
+#### 提示詞
+
+```text
+haute couture editorial fashion photoshoot, avant-garde feathered gowns and intricate feather accessories, dramatic fashionable platform shoes prominently in the foreground, low-angle full-body model poses on a https://t.co/1naCVgVTk4
+```
+
+### No. 835: I Was Waiting For You. Now Let’S Hit
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I was waiting for you.
+
+#### 提示詞
+
+```text
+I was waiting for you. Now let’s hit the road and make tonight a crazy one 🚘💋
+
+🤍🔹Ana de armas ❕
+
+Nano Banana 2 🍌 via Gemini
+
+Prompt Below 👇
+```
+
+### No. 836: 月まで届け Reach All The Way To The Moon
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nop
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073196340503580749.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073196340503580749.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+月まで届け
+Reach all the way to the moon,
+
+あの約束
+That promise we made.
+
+#### 提示詞
+
+```text
+月まで届け
+Reach all the way to the moon,
+
+あの約束
+That promise we made.
+
+(ずっと)
+(Forever.)
+
+欠けてもまた
+Even when the moon fades,
+
+君を照らす
+Its light will still shine on you.
+
+(月まで届け)
+(Reach all the way to the moon.)
+
+Image: GPT Image 2, Nano Banana Pro 
+Video:
+```
+
+### No. 837: Google Just Added Short Video Overviews To Notebooklm
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073206436386189497.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073206436386189497.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google just added Short Video Overviews to NotebookLM.
+
+#### 提示詞
+
+```text
+Google just added Short Video Overviews to NotebookLM. 
+
+Upload any PDF, doc, or notes and it builds a 60-second vertical video around the single most important idea. 
+
+It runs on a new fast image model (Nano Banana 2 Lite, ~4 sec per image), and it's rolling out on mobile and
+```
+
+### No. 838: 🎯 Google I/O 2026 Dropped Gemini Omni —
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI For Success
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🎯 Google I/O 2026 dropped Gemini Omni — multimodal AI accepts ANY input, generates ANY content.
+
+#### 提示詞
+
+```text
+🎯 Google I/O 2026 dropped Gemini Omni — multimodal AI accepts ANY input, generates ANY content. Text to Video. Image to Edited Video. This changes everything. #AI #Gemini #GoogleIO2026
+```
+
+### No. 839: From A Basic Red Apple 🍎 To... Whatever
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Neurain
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073210192871702823.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073210192871702823.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+From a basic red apple 🍎 to...
+
+#### 提示詞
+
+```text
+From a basic red apple 🍎 to... whatever your imagination wants.
+
+Watch how Google’s Gemini Omni model completely transforms a simple object in real-time. From a burning meteor to a golden soccer ball, a floating bubble, and a massive diamond—the consistency and lighting in this
+```
+
+### No. 840: Gpt Image 2 | Nano Banana 2 |
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+
+#### 提示詞
+
+```text
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+Ultra-realistic high-quality cinematic portrait using the uploaded reference photo as the ONLY face source, preserving exact facial features, skin tone, hairstyle, and beard with absolute
+```
+
+### No. 841: Under $3 To Make A Video. $2,000 To
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 0xAI42.exe
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073211691504914595.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073211691504914595.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Under $3 to make a video.
+
+#### 提示詞
+
+```text
+Under $3 to make a video. $2,000 to $4,000 for one animated sponsor deal nobody else offers. Faceless YouTube is 38% of every new monetized channel in 2026, and most people still haven't made one.
+
+The video above is the fast lane. Pause at 0:30. Claude wired to the Higgsfield
+```
+
+### No. 842: Enjoying The Day In Kashmir 🌸 Image On
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Enjoying the day in Kashmir 🌸
+
+Image on Google Gemini Nano banana 2.
+
+#### 提示詞
+
+```text
+Enjoying the day in Kashmir 🌸
+
+Image on Google Gemini Nano banana 2.
+
+Prompt⤵️
+
+Use the exact same face from the reference image and generate a stunningly realistic cinematic outdoor portrait shot on location in Kashmir — every single element photorealistic and completely
+```
+
+### No. 843: First Rays Of Sunshine In The Morning! Sana
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+First rays of sunshine in the morning!
+
+#### 提示詞
+
+```text
+First rays of sunshine in the morning!
+
+Sana
+Tzuyu
+Nayeon
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 844: Service With A Smile! Lisa Rose Jennie Jisoo
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice H.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Service with a smile!
+
+#### 提示詞
+
+```text
+Service with a smile!
+
+Lisa
+Rose
+Jennie
+Jisoo
+
+Blackpink
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+```
+
+### No. 845: Gemini Omni Flash Sets A New Benchmark In
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zara Techie
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni Flash sets a new benchmark in video.
+
+#### 提示詞
+
+```text
+@Designarena @GoogleDeepMind @BytePlusGlobal Gemini Omni Flash sets a new benchmark in video.
+```
+
+### No. 846: Google Made Ai Video Easier To Try. Nano
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kai
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073234078229541171.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073234078229541171.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google made AI video easier to try.
+
+#### 提示詞
+
+```text
+Google made AI video easier to try.
+
+Nano Banana 2 Lite makes a 1K image in about 4 seconds, around 3.4 cents each.
+
+Gemini Omni Flash turns that image into a 10-second video for $0.10/sec. Then you can type:
+"change the light"
+"swap the product"
+
+Try it in Google AI
+```
+
+### No. 847: Gemini Omni Flash Is Live — Google Just
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Teksart
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni Flash is live — Google just shipped native video generation and editing through the Gemini API.
+
+#### 提示詞
+
+```text
+Gemini Omni Flash is live — Google just shipped native video generation and editing through the Gemini API.
+
+This is the third major video model to hit API access this quarter, and it signals something real: video generation is moving from research demos to developer
+```
+
+### No. 848: I Built A Fully Consistent Ai Character. Face
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KyzoroX
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2073236915415875940.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2073236915415875940.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I BUILT A FULLY CONSISTENT AI CHARACTER.
+
+#### 提示詞
+
+```text
+I BUILT A FULLY CONSISTENT AI CHARACTER. FACE, OUTFIT, EVERYTHING.
+
+Meet KYZO — my cyber-samurai. Not a lucky one-off generation. A character I can put in ANY scene, and he stays himself.
+
+The workflow stack:
+🎬 Animation: Seedance 2.0
+👤 Character &amp; Reference Sheet: Nano Banana
+```
+
+### No. 849: Nano Banana Pro On Higgesfield Prompt: Create A
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hania Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano banana pro on higgesfield 
+
+Prompt:
+Create a dreamy aesthetic portrait collage of a beautiful young Indian girl in a soft pastel baby-blue floral Anarkali dress with matching dupatta.
+
+#### 提示詞
+
+```text
+Create a dreamy aesthetic portrait collage of a beautiful young Indian girl in a soft pastel baby-blue floral Anarkali dress with matching dupatta. The collage should contain 4 different poses of the same girl arranged artistically on a https://t.co/1IPmi7ZEAw
+```
+
+### No. 850: Image On Google Gemini Nano Banana 2. Prompt
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+image on Google Gemini Nano banana 2.
+
+#### 提示詞
+
+```text
+Use the exact same face from the reference image and generate a stunningly realistic full body cinematic fashion portrait against a clean professional studio green background. Full body visible from head to toe — every inch of the https://t.co/9WQl2Lp70W
+```
+
+### No. 851: Nano Banana Pro Images At Gemini Prompt 👇
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano banana pro images at gemini 
+
+Prompt 👇 
+
+Ultra-realistic close-up editorial portrait of a beautiful young woman sitting in the back seat of a modern car, wearing a mustard yellow baseball cap bac
+
+#### 提示詞
+
+```text
+Nano banana pro images at gemini 
+
+Prompt 👇 
+
+Ultra-realistic close-up editorial portrait of a beautiful young woman sitting in the back seat of a modern car, wearing a mustard yellow baseball cap backwards, long black twin fishtail braids with subtle dark burgundy highlights
+```
+
+### No. 852: 🔥10% Off All Image &Amp; Video Models On
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Nisha
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🔥10% OFF all image &amp; video models on MCP
+
+🎉 It’s here - 10% OFF all image &amp; video models (Nano banana, Seedance, Kling, GTP image 2 ) on MCP on eligible plans!
+
+#### 提示詞
+
+```text
+🔥10% OFF all image &amp; video models on MCP
+
+🎉 It’s here - 10% OFF all image &amp; video models (Nano banana, Seedance, Kling, GTP image 2 ) on MCP on eligible plans!
+📅 until July 12th, 2026
+#affiliate
+```
+
+### No. 853: Gemini Nano Banana Pro ♊ Prompt 👇 Create
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zeeshi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Nano Banana Pro ♊ 
+
+Prompt 👇
+
+Create a portrait size wallpaper of pride in carrying out the profession as an (ALINA), in the wallpaper contains a photo of the attached subject wearing a uniform
+
+#### 提示詞
+
+```text
+Gemini Nano Banana Pro ♊ 
+
+Prompt 👇
+
+Create a portrait size wallpaper of pride in carrying out the profession as an (ALINA), in the wallpaper contains a photo of the attached subject wearing a uniform or things related to the profession, make a pose, the subject's expression
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

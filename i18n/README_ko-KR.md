@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1034%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1034 |
+| 전체 프롬프트 | 1124 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 353 |
-| 마지막 업데이트 | 2026. 07. 06. |
+| 미리보기 비디오 수 | 384 |
+| 마지막 업데이트 | 2026. 07. 07. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (932)
+### Twitter Community (1022)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -24094,6 +24094,2254 @@ Every Level of Claude Fable 5 Websites Explained
 # 七级进阶框架
 
 1. Grab And Go
+```
+
+### No. 1035: Nano Banana 2 Sometimes Produces Pretty Good Quality
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** underwood
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano banana 2 sometimes produces pretty good quality results!
+
+#### 프롬프트
+
+```text
+https://t.co/RQjbDHikiv
+{   "subject": {     "description": "An adult feminine fashion portrait subject kneeling on a reflective silver crinkled cushion or inflatable sofa, wearing a black sheer-panel bodysuit https://t.co/U85DAk5fiA https://t.co/o6CZRsaw9Z
+```
+
+### No. 1036: I Automated My Entire Social Media With Claude
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PolyBender
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074136507137343951.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074136507137343951.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I Automated My Entire Social Media with Claude Fable 5 (It Posts While I Sleep)
+
+For years, I was trapped in the content hamster wheel - manually researching trends, fighting with design tools, and re
+
+#### 프롬프트
+
+```text
+I Automated My Entire Social Media with Claude Fable 5 (It Posts While I Sleep)
+
+For years, I was trapped in the content hamster wheel - manually researching trends, fighting with design tools, and rewriting the same post for five different platforms.
+
+That ended yesterday.
+
+I’ve
+```
+
+### No. 1037: Need Fast Image Generation Without Paying Premium Costs?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Anissa
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Need fast image generation without paying premium costs?
+
+#### 프롬프트
+
+```text
+Need fast image generation without paying premium costs? Nano Banana 2 Lite has officially landed on Pollo AI. @itsPolloAI
+
+Built for creators who value speed, it delivers high-quality results while keeping generation costs low—making it ideal for producing large batches of
+```
+
+### No. 1038: Sure! Here'S A Strong Prompt For Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Sure!
+
+#### 프롬프트
+
+```text
+@Dark_nighttss @justannxx Sure! Here's a strong prompt for Nano Banana Pro (or similar):
+
+"Hyper-realistic full-body photo of Sydney Sweeney, long wavy blonde hair, blue eyes, wearing tight pink ribbed long-sleeve crop top and matching high-waisted shorts that hug every curve. Cozy bright bedroom setting
+```
+
+### No. 1039: That’S What I’M Talking About…It Does Great Stuff
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 🇺🇸⭐️VinnyWarDawg⭐️🇺🇸
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+That’s what I’m talking about…it does great stuff when it does…great vocal and background music automatically…Nano Banana images…I am working on a futuristic battleship concept…nope “I cannot create t
+
+#### 프롬프트
+
+```text
+@SethCritchley That’s what I’m talking about…it does great stuff when it does…great vocal and background music automatically…Nano Banana images…I am working on a futuristic battleship concept…nope “I cannot create that video.” Ugh! 😱
+```
+
+### No. 1040: Lovely Prompt, Gemini Nano Banana Is Creating Beauty
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jeremiah Mabele
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Lovely prompt, Gemini nano banana is creating beauty
+
+#### 프롬프트
+
+```text
+@ZaraIrahh @openart_ai Lovely prompt, Gemini nano banana is creating beauty
+```
+
+### No. 1041: "$250.000 Por Asiento. Salida En Marzo De 2027."
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nona
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074140434998173821.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074140434998173821.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+"$250.000 por asiento.
+
+#### 프롬프트
+
+```text
+scroll 3D cinematográfico, vídeos submarinos, animales bioluminiscentes y hasta la ficha técnica del https://t.co/qu8pozeHG5
+```
+
+### No. 1042: 📌 2. Viral Time-Lapse Shorts Combine Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Brute Force Artist
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+📌 2.
+
+#### 프롬프트
+
+```text
+📌 2. Viral Time-Lapse Shorts
+
+Combine Nano Banana images with an AI video tool like Kling to create satisfying room renovation time-lapses. These are pulling in millions of views on YouTube Shorts and Instagram Reels, perfect for ad revenue or selling leads to local contractors.
+```
+
+### No. 1043: 📌 5. Custom Digital Printables People Love Personalized
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Brute Force Artist
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+📌 5.
+
+#### 프롬프트
+
+```text
+📌 5. Custom Digital Printables
+
+People love personalized art! Customers send you a photo, and you can prompt Nano Banana to seamlessly swap their pet into a royal painting, or turn them into a Pixar-style 3D character. Sell these as instant digital downloads on Etsy.
+```
+
+### No. 1044: Will You Help Get Them Their Clothes? Winter
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Will you help get them their clothes?
+
+#### 프롬프트
+
+```text
+Will you help get them their clothes?
+
+Winter
+Karina
+Giselle
+
+aespa
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 1045: Gemini Omni Flash Está Llevando La Edición De
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** David
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074146376166855002.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074146376166855002.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini Omni Flash está llevando la edición de video a otro nivel.
+
+#### 프롬프트
+
+```text
+Gemini Omni Flash está llevando la edición de video a otro nivel.
+
+Puede reemplazar objetos, cambiar el entorno y modificar escenas enteras a partir de un simple prompt.
+
+Lo puse a prueba con mi hermana.
+
+¿Crees que está a la altura?
+
+Hecho en @itsPolloAI
+```
+
+### No. 1046: Yeah Simple Nano Banana “3D Version” Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** jakedowns - needs a new job
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+yeah simple nano banana “3d version” prompt
+
+#### 프롬프트
+
+```text
+@andreintg yeah simple nano banana “3d version” prompt
+```
+
+### No. 1047: Addendum To Our Post On Hipaa/Cybersecurity/Corporate Power: While
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HudsonSky
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Addendum to our post on HIPAA/Cybersecurity/Corporate Power:
+
+While creating this image this morning, we wrote a prompt for both Nano Banana AND ChatGPT to create the image in the post.
+
+#### 프롬프트
+
+```text
+Addendum to our post on HIPAA/Cybersecurity/Corporate Power:
+
+While creating this image this morning, we wrote a prompt for both Nano Banana AND ChatGPT to create the image in the post. And now we feel it would be remiss here on X NOT to post ChatGPT's iteration, as it is clear
+```
+
+### No. 1048: Same Big Brute Character, Two Completely Different Vibes
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dheepan Ratnam
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074149844919214216.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074149844919214216.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Same big brute character, two completely different vibes
+
+Character by Midjourney 8.2 --preview   
+Storyboard by Nano Banana Pro   
+Animated with Seedance 2.0
+
+Character images/prompt/👇
+
+#### 프롬프트
+
+```text
+Same big brute character, two completely different vibes
+
+Character by Midjourney 8.2 --preview   
+Storyboard by Nano Banana Pro   
+Animated with Seedance 2.0
+
+Character images/prompt/👇
+```
+
+### No. 1049: Midjourney 8.2 --Preview Used A Simple Prompt To
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dheepan Ratnam
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Midjourney 8.2 --preview 
+used a simple prompt to test with nano banana pro- 
+
+Create storyboard 3x3 grid - beautiful animation story with some dialogue with the reference character - with consitent d
+
+#### 프롬프트
+
+```text
+Midjourney 8.2 --preview 
+used a simple prompt to test with nano banana pro- 
+
+Create storyboard 3x3 grid - beautiful animation story with some dialogue with the reference character - with consitent details across the shots
+```
+
+### No. 1050: Gal Gadot Created With Nano Banana 2 Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gal Gadot Universe
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+gal gadot 
+
+Created with Nano Banana 2  Prompt below 👇
+
+#### 프롬프트
+
+```text
+gal gadot 
+
+Created with Nano Banana 2  Prompt below 👇
+```
+
+### No. 1051: Let'S Go To The Desert To Drink A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Let's go to the desert to drink a beer!😏🍺 Did you spot the dudes inside the cars?😃🚘
+
+Dua Lipa, Freya Allan, Emily Rudd &amp; Elon Musk, Emily Ratajkowski &amp; Me🔥
+👉🏻Subscribe for more content!⚡
+
+Nano
+
+#### 프롬프트
+
+```text
+{
+  "type": "image_prompt",
+  "subject": { https://t.co/k3maqIryRX https://t.co/ZEUb0VZQnL
+```
+
+### No. 1052: How To Do It Yourself: 1. Open 2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Farhan
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074151131912319123.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074151131912319123.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+how to do it yourself:
+
+1.
+
+#### 프롬프트
+
+```text
+how to do it yourself:
+
+1. open 
+2. start a new project
+3. pick video, set the model to Gemini Omni
+4. generate your first clip
+5. type the change you want in her hand.
+5. hit go and watch it edit live
+```
+
+### No. 1053: Nano Banana Pro On Prompt: A Cinematic, High-Fidelity
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heisenberg
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano Banana Pro on  
+
+Prompt: A cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her.
+
+#### 프롬프트
+
+```text
+A cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing https://t.co/NYQmIiP80F
+```
+
+### No. 1054: The Part That Breaks My Brain: You Are
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Farhan
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+the part that breaks my brain: you are not editing footage.
+
+#### 프롬프트
+
+```text
+the part that breaks my brain: you are not editing footage. you are editing one image and it builds the video around your words.
+
+Gemini Omni is live in arcads now:
+```
+
+### No. 1055: Los Editores De Fotos Me Van A Odiar
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Don Quijote de la IA
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Los editores de fotos me van a odiar
+
+Este prompt de Nano Banana convierte cualquier foto mala en una imagen 4K con detalle cinematográfico
+
+Aquí tienes 7 ejemplos y el prompt que estoy utilizando 👇
+
+#### 프롬프트
+
+```text
+Los editores de fotos me van a odiar
+
+Este prompt de Nano Banana convierte cualquier foto mala en una imagen 4K con detalle cinematográfico
+
+Aquí tienes 7 ejemplos y el prompt que estoy utilizando 👇
+```
+
+### No. 1056: Nana Banana Pro Promotional Cinematic Prompt ⤵️ 🌊
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nana banana pro promotional Cinematic Prompt ⤵️ 🌊
+
+A joyful young woman with curly auburn hair kneeling on a sandy beach, wearing a light blue ribbed tank top and denim shorts, a white tropical flower
+
+#### 프롬프트
+
+```text
+Nana banana pro promotional Cinematic Prompt ⤵️ 🌊
+
+A joyful young woman with curly auburn hair kneeling on a sandy beach, wearing a light blue ribbed tank top and denim shorts, a white tropical flower tucked behind her ear, laughing with one arm raised in the air. She holds up
+```
+
+### No. 1057: What I Thought Would Be A Quick Test
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Christian Cantrell
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074155931731198430.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074155931731198430.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+What I thought would be a quick test of Gemini Omni video editing in  turned out to be a pretty wild study in agentic creative processes.
+
+#### 프롬프트
+
+```text
+What I thought would be a quick test of Gemini Omni video editing in  turned out to be a pretty wild study in agentic creative processes. (1 of 3)
+```
+
+### No. 1058: Create A Short Advert From A Single Image
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jerrod Lew
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074156026916753759.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074156026916753759.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Create a short advert from a single image with Gemini Omni Flash!
+
+#### 프롬프트
+
+```text
+Create a short advert from a single image with Gemini Omni Flash!
+
+All within Google Flow, generate an image and then ask the agent to use Nano Banana 2 to create more angles and shots.
+
+Feed all the images into Omni Flash as a reference for the video.
+
+More details below:
+```
+
+### No. 1059: This Is What A Full Ai Edit Pipeline
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Deenu Khan
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074156373927981094.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074156373927981094.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+This is what a full AI edit pipeline looks like end to end.
+
+#### 프롬프트
+
+```text
+This is what a full AI edit pipeline looks like end to end.
+
+The start image comes from Nano Banana, the video variations come from Google Gemini Omni, and the final edit happens in Premiere Pro through the Magnific plugin. Three tools, one continuous workflow, no leaving your
+```
+
+### No. 1060: Happy Monday! I Hope You'Ll Watching Today Along
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Happy Monday!
+
+#### 프롬프트
+
+```text
+Happy Monday! I hope you'll watching today along with them!
+
+Aespa for 🇵🇹 and 🇺🇸
+Blackpink for 🇪🇸 and🇧🇪
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+```
+
+### No. 1061: Adele - Gemini Nano Banana Pro Prompt: {
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Adele - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title_en": "Underground Veils",
+  "master_prompt": "A raw, flash-lit high-fashion editorial capture of The Protagonist caught in a decisive moment ins
+
+#### 프롬프트
+
+```text
+{
+  "vibe_title_en": "Underground Veils",
+  "master_prompt": "A raw, flash-lit high-fashion editorial capture of The Protagonist caught in a decisive moment inside a derelict stone-mason's workshop. The subject wears an avant-garde, https://t.co/sjR8d8ztUl
+```
+
+### No. 1062: Golden Hour, Marble Tubs, And Queen Of The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Vireon
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Golden hour, marble tubs, and Queen of the North.
+
+#### 프롬프트
+
+```text
+A cinematic, intimate https://t.co/enKyhzHCT0
+```
+
+### No. 1063: Gemini Omni Flash On Arcads Is A Game
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aina Ai | Tools & Updates
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini Omni Flash on Arcads is a game changer  Infinite knowledge  crisp text   real motion design This really is the Nano Banana moment for AI video
+
+#### 프롬프트
+
+```text
+@arcads_ai Gemini Omni Flash on Arcads is a game changer  Infinite knowledge  crisp text   real motion design This really is the Nano Banana moment for AI video
+```
+
+### No. 1064: A Cnn Achou Que O Mundo Precisava De
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dev Zé
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+A CNN achou que o mundo precisava de 20 prompts prontos pra copiar e colar no Gemini, como se prompt fosse senha do Wi-Fi.
+
+#### 프롬프트
+
+```text
+A CNN achou que o mundo precisava de 20 prompts prontos pra copiar e colar no Gemini, como se prompt fosse senha do Wi-Fi. O "Nano Banana Pro" gerar foto profissional com "detalhes da fisionomia" é o tipo de feature que vende curso de "IA revolucionária".
+```
+
+### No. 1065: Vous Me L'Avez Réclamé Le Voilà : Comment
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KAYZ
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074169341059502264.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074169341059502264.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Vous me l'avez réclamé le voilà : 
+
+comment build ton PROPRE tool IA avec Claude Code.
+
+#### 프롬프트
+
+```text
+Vous me l'avez réclamé le voilà : 
+
+comment build ton PROPRE tool IA avec Claude Code.
+Et payer à la conso. Terminé Higgsfield. 👇
+
+Higgsfield, c'est un abo mensuel : crédits pas consommés = perdus à la fin du mois, sur facturation, over price pour rien, pour du volume ça devient
+```
+
+### No. 1066: A Reimagining Of Japanese Folklore: Would You Say
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** The Anxious Mind
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074169638641098764.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074169638641098764.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+A reimagining of Japanese folklore: would you say "yes" to a kappa?
+
+#### 프롬프트
+
+```text
+A reimagining of Japanese folklore: would you say "yes" to a kappa? 😳💚
+(created using @topviewjapan #Seedance2)
+prompt below 🌸👇
+
+45秒垂直短劇，9:16，電影感，18世紀日本江戸時代古風，電影級光影。
+
+場景：
+```
+
+### No. 1067: Nano Banana Tip: Don'T Prompt For The Final
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sociyell
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano Banana tip:
+
+Don't prompt for the final visual first.
+
+#### 프롬프트
+
+```text
+Nano Banana tip:
+
+Don't prompt for the final visual first.
+Start by generating 5–10 different creative directions for the same idea. Pick the strongest one, then iterate.
+
+The quality of your decisions matters more than the quality of your first prompt.
+```
+
+### No. 1068: I Built An Agent Skill That One Shots
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nathan Wilbanks
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074170715775873251.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074170715775873251.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I built an agent skill that one shots animated videos.
+
+#### 프롬프트
+
+```text
+I built an agent skill that one shots animated videos.
+
+&gt; Paste prompt or reference image
+&gt; It generates frames with Nano Banana 2 
+&gt; make overlays with remotion
+&gt; animates videos with Seedance 2.0
+&gt; stitch + music w FFmpeg
+
+reply "AGNT", I'll DM you the skill (yes really) 👇
+```
+
+### No. 1069: Qt Your Unicorn Splendour 🦄🔥🎆 This Is My
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Cosmic Cowboy
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+QT Your Unicorn Splendour
+🦄🔥🎆
+This is my tweak of  's great prompt:
+
+Majestic unicorn standing in a misty enchanted forest at dawn, luminous coat growing in natural multicolored spirals and rectangles
+
+#### 프롬프트
+
+```text
+Majestic unicorn standing in a misty enchanted forest at dawn, luminous coat growing in natural multicolored spirals and rectangles, flowing turquoise mane and tail, spiraling rose crystal horn https://t.co/iMXthW93fX https://t.co/TOxvq55BhR
+```
+
+### No. 1070: Warm Tones And A Peaceful Expression. ✨ Sadie
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J⭕DIE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074172513882628319.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074172513882628319.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Warm Tones and a Peaceful Expression.
+
+#### 프롬프트
+
+```text
+Warm Tones and a Peaceful Expression. ✨
+
+SADIE SINK 😍 
+
+Photo Made With AI Gemini Nano Banana Pro 3.1 🍌 
+
+Video Made With Meta AI 🍃 
+
+Embracing Soft Light and Quiet Confidence. ☀️
+```
+
+### No. 1071: Created With Gemini Nano Banana 2 On Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Created with Gemini Nano Banana 2 on 
+
+Prompt 👇
+
+A handsome male in his late twenties to early thirties stands in a medium close-up, waist-up portrait, exuding a confident, suave, and serious demeanor
+
+#### 프롬프트
+
+```text
+Created with Gemini Nano Banana 2 on @GeminiApp
+
+Prompt 👇
+
+A handsome male in his late twenties to early thirties stands in a medium close-up, waist-up portrait, exuding a confident, suave, and serious demeanor. His head is turned exactly forty-five degrees to the left,
+```
+
+### No. 1072: I Built A Claude Skill That Can Create
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AgingBuy
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074173186527347138.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074173186527347138.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I built a Claude skill that can create motion-style animations.
+
+#### 프롬프트
+
+```text
+I built a Claude skill that can create motion-style animations. &gt; pasted a reference image &gt; it used Nano Banana 2 to generate frame &gt; and Seedance 2.0 to make video animations. Everything was run in Claude via Arcads MCP comment "Motion," and I will send you this skill
+```
+
+### No. 1073: I Added 'Daylight To Sunset' In Prompt See
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Michael Rabone
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074176559590555953.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074176559590555953.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I added 'daylight to sunset' in prompt
+See my prompt in main post above
+
+Image: Midjourney
+Video: Gemini Omni Flash
+
+#### 프롬프트
+
+```text
+I added 'daylight to sunset' in prompt
+See my prompt in main post above
+
+Image: Midjourney
+Video: Gemini Omni Flash
+```
+
+### No. 1074: Punk Zine Grunge Poster Generated With Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ΛRMIN
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Punk Zine Grunge Poster
+
+Generated with Nano Banana Pro Works great with GPT-Image 2 too.
+
+#### 프롬프트
+
+```text
+Punk Zine Grunge Poster
+
+Generated with Nano Banana Pro Works great with GPT-Image 2 too.
+
+- Prompt 👇
+A gritty editorial grunge street-art poster, vertical 4:5 format. The artwork completely fills the frame edge-to-edge as a full-bleed design: the textured background, grain and
+```
+
+### No. 1075: I Vibe Coded An App That Puts You
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ammaar Reshi
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074180893934010524.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074180893934010524.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I vibe coded an app that puts you in your favorite team's World Cup Starting XI reveal!
+
+#### 프롬프트
+
+```text
+I vibe coded an app that puts you in your favorite team's World Cup Starting XI reveal! ⚽️
+
+Powered by the new Nano Banana 2 Lite + Gemini Omni Flash.
+
+Pick a team, strike a pose, and export your own lineup video to share with friends.
+
+Try it yourself + code below!
+```
+
+### No. 1076: Passionate Fans Cheering For Portugal. Metal Ai+Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Passionate fans cheering for Portugal.
+
+#### 프롬프트
+
+```text
+Analyze the shared themes of passion and national pride depicted in the provided photographs, focusing on how each image captures a celebratory moment in a football stadium setting. Compare the https://t.co/8dEI2CMyId
+```
+
+### No. 1077: その機能はまさに、Googleが発表した新しいAiマルチモーダル動画生成・編集モデル「Gemini Omni（ジェミニ・オムニ、主にGemini Omni Fl
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** _
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+その機能はまさに、Googleが発表した新しいAIマルチモーダル動画生成・編集モデル「Gemini Omni（ジェミニ・オムニ、主にGemini Omni Flash）」のことですね。
+
+#### 프롬프트
+
+```text
+その機能はまさに、Googleが発表した新しいAIマルチモーダル動画生成・編集モデル「Gemini Omni（ジェミニ・オムニ、主にGemini Omni Flash）」のことですね。
+
+これまでのAI動画生成は「それっぽい綺麗な映像」を作るのが限界でしたが、Gemini
+```
+
+### No. 1078: Novità Da Il Modello Omni Flash È Ora
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** » DJGIOVY57 • News & Leaks
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Novità da  il modello  Omni Flash è ora disponibile per gli sviluppatori.
+
+#### 프롬프트
+
+```text
+Novità da #Google: il modello #Gemini Omni Flash è ora disponibile per gli sviluppatori. L'AI ora gestisce testi, immagini, audio e video, rendendo l'editing conversazionale più potente che mai. 🚀
+
+🧵[2/5]
+```
+
+### No. 1079: Google Just Launched Two New Ai Models. 🚀
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AI | Xplore
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074187726065447105.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074187726065447105.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google just launched two new AI models.
+
+#### 프롬프트
+
+```text
+Google just launched two new AI models. 🚀
+
+⚡ Nano Banana 2 Lite
+• Image generation in ~4 seconds
+• Just $0.034 per 1K images
+🎥 Gemini Omni Flash
+• Fast multimodal video generation &amp; editing
+AI is getting faster, cheaper, and more capable.
+
+#GoogleAI #Gemini #A
+```
+
+### No. 1080: That Image Was Generated With Gemini Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Diego | AI 🚀 - e/acc
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+That image was generated with Gemini nano banana, the same prompt with gpt
+
+prompt  Make an image about a lot of people mourning, kind of like a national hero that is leaving, that is not dead, but he
+
+#### 프롬프트
+
+```text
+That image was generated with Gemini nano banana, the same prompt with gpt
+
+prompt  Make an image about a lot of people mourning, kind of like a national hero that is leaving, that is not dead, but he's kind of like just leaving forever, but still alive. So, like a big crowd just
+```
+
+### No. 1081: Princesses On A Silver Pillow ✨ Yunjin Rei
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Princesses on a silver pillow ✨
+
+Yunjin
+Rei
+Leeseo
+Wonyoung
+
+IVE
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+
+#### 프롬프트
+
+```text
+Princesses on a silver pillow ✨
+
+Yunjin
+Rei
+Leeseo
+Wonyoung
+
+IVE
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+```
+
+### No. 1082: A Little Sunshine Through The Window Changes Everything
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sophia | AI Artist ✨
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+A little sunshine through the window changes everything.
+
+#### 프롬프트
+
+```text
+A little sunshine through the window changes everything. ✨
+
+Sydney Sweeney · Hailee Steinfeld · Sabrina Carpenter · Millie Bobby Brown 💫
+
+Gemini Nano Banana 🍌
+
+prompt👇
+
+#HaileeSteinfeld  #SydneySweeney #MillieBobbyBrown #SabrinaCarpenter  #NaturalBeauty #GoldenHourGlow #AIArt
+```
+
+### No. 1083: Margot Robbie - Gemini Nano Banana Pro Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Margot Robbie - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title_en": "The Silent Echo",
+  "master_prompt": "Cinematic medium-format portrait of The Protagonist standing in a cluttered, dust-mote-fille
+
+#### 프롬프트
+
+```text
+{
+  "vibe_title_en": "The Silent Echo",
+  "master_prompt": "Cinematic medium-format portrait of The Protagonist standing in a cluttered, dust-mote-filled antique violin restoration workshop. The subject is wearing a sharp, https://t.co/1JbPJjO7ja
+```
+
+### No. 1084: Seedance 2 Is Sensitive To Real Human Faces
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** DΞV
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Seedance 2 is sensitive to real human faces, but you can work around it with this trick:
+
+- Separate the body and the face.
+
+#### 프롬프트
+
+```text
+Seedance 2 is sensitive to real human faces, but you can work around it with this trick:
+
+- Separate the body and the face.
+- Recreate the real face as a sketch, then use it as the reference image.
+
+This was done in the GMI Cloud Playground.
+
+1. Create the football player
+
+For
+```
+
+### No. 1085: Serving Some Patriotic Energy Today! 🇺🇸 Jennifer Lawrence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Giulia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Serving some patriotic energy today!
+
+#### 프롬프트
+
+```text
+Serving some patriotic energy today!
+
+🇺🇸 Jennifer Lawrence 
+🇪🇸 Ana de Armas 
+
+Nano Banana 2 🍌 via Gemini
+
+Prompt Below 👇
+```
+
+### No. 1086: Golden Hour, Soap Bubbles, And A Little California
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Natty Windstorm
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Golden hour, soap bubbles, and a little California nostalgia.
+
+#### 프롬프트
+
+```text
+Golden hour, soap bubbles, and a little California nostalgia. ☀️🫧✨
+
+Sydney Sweeney🥵
+
+Made by  Nano Banana Pro🤩
+
+{
+  "prompt": "Ultra-realistic California lifestyle editorial portrait of a young blonde woman kneeling on the hood of a vintage gold
+```
+
+### No. 1087: Summer Hits Different With Sunshine And A Fresh
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dockie
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Summer hits different with sunshine and a fresh wash😶‍🌫️💦🥵
+
+Made by  Nano Banana Pro🤩
+
+Make yours now!🩷
+
+{
+  "prompt": "Ultra-realistic California lifestyle editorial portrait of a young blonde woman 
+
+#### 프롬프트
+
+```text
+Summer hits different with sunshine and a fresh wash😶‍🌫️💦🥵
+
+Made by  Nano Banana Pro🤩
+
+Make yours now!🩷
+
+{
+  "prompt": "Ultra-realistic California lifestyle editorial portrait of a young blonde woman kneeling on the hood of a vintage gold American muscle
+```
+
+### No. 1088: Slow Mornings, Warm Sunlight, And Nowhere I'D Rather
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Miz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Slow mornings, warm sunlight, and nowhere I'd rather be.
+
+#### 프롬프트
+
+```text
+Slow mornings, warm sunlight, and nowhere I'd rather be. ☀️🤍
+
+Made by  Nano Banana Pro🩷
+
+Use my prompt  and create yours now!
+
+{
+  "prompt": "Ultra-realistic cozy morning lifestyle portrait of a young woman with shoulder-length layered copper-red hair
+```
+
+### No. 1089: Ai Video Is Evolving Way Past Basic Panning
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Neurain
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074208760961368116.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074208760961368116.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+AI video is evolving way past basic panning shots.
+
+#### 프롬프트
+
+```text
+AI video is evolving way past basic panning shots.
+
+Check out how Gemini Omni Flash processes an initial image, maps out the entire 3D depth of a mountain range, and adds complex physics—like cascading snow and cloud displacement—all on a mobile device.
+
+We are fast approaching a
+```
+
+### No. 1090: Stop Using The Wrong Ai Tools…👇 Writing →
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maverick Maltin | AI & ChatGPT
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074210398488969324.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074210398488969324.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Stop using the wrong AI tools…👇
+
+Writing → Claude
+Brainstorming → ChatGPT
+Research → Perplexity
+Image Gen → Nano Banana
+Video Gen → Higgsfield
+Apps &amp; Websites → Claude Code
+SEO →
+Meeting Assistant
+
+#### 프롬프트
+
+```text
+Stop using the wrong AI tools…👇
+
+Writing → Claude
+Brainstorming → ChatGPT
+Research → Perplexity
+Image Gen → Nano Banana
+Video Gen → Higgsfield
+Apps &amp; Websites → Claude Code
+SEO →
+Meeting Assistant → Supernormal
+Learning → NotebookLM
+Automating Tasks ...
+```
+
+### No. 1091: Nano Banana 2 On Gemini Prompt: Ultra-Realistic Candid
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mind Riddle
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano banana 2 on Gemini 
+
+Prompt:
+Ultra-realistic candid smartphone photo, 3:4 vertical.
+
+#### 프롬프트
+
+```text
+Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman inspired only by general proportions/vibe. Night Tokyo sidewalk beside white ceramic tile wall. Mid-walk, half-profile, turning back in surprise, hand https://t.co/RcY28UvbDK
+```
+
+### No. 1092: Via Prompting Better I Guess And Having A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** JDollar☂️
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+via prompting better i guess and having a clear work flow 
+
+I could trash out my ideas on claude have a conversation with it then it offers me a much better prompt which I paste on seedance higgsfield
+
+#### 프롬프트
+
+```text
+@JuneCribb @NFT__NG via prompting better i guess and having a clear work flow 
+
+I could trash out my ideas on claude have a conversation with it then it offers me a much better prompt which I paste on seedance higgsfield
+
+However runway is also good o 
+First I generate the pic on nano banana then
+```
+
+### No. 1093: Having Trouble With Your Car? No Problem, Keor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Having trouble with your car?
+
+#### 프롬프트
+
+```text
+Low https://t.co/3k4GxsIIYa https://t.co/QcOzR25Yvu
+```
+
+### No. 1094: Enjoying Some Time In The Sun In Japan
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Enjoying some time in the sun in Japan ☀️
+
+Nayeon and Jihyo
+Tzuyu and Dahyun
+Sana and Momo
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt ⬇
+
+#### 프롬프트
+
+```text
+Enjoying some time in the sun in Japan ☀️
+
+Nayeon and Jihyo
+Tzuyu and Dahyun
+Sana and Momo
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 1095: This Is Why You Should Never Open The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** A R I A
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+this is why you should never open the fridge after midnight 🍦
+
+💗 Madelyn Cline
+💙 Olivia Rodrigo
+💜 Jenna Ortega
+
+Nano Banana prompt 👇
+
+#### 프롬프트
+
+```text
+this is why you should never open the fridge after midnight 🍦
+
+💗 Madelyn Cline
+💙 Olivia Rodrigo
+💜 Jenna Ortega
+
+Nano Banana prompt 👇
+```
+
+### No. 1096: Motion-Style Animation Is Now Possible Directly Inside Claude
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NaveedUllah
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074225176074658187.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074225176074658187.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Motion-style animation is now possible directly inside Claude.
+
+#### 프롬프트
+
+```text
+Motion-style animation is now possible directly inside Claude.
+
+Paste a reference image.
+
+• Nano Banana 2 generates the frames
+• Seedance 2.0 animates them into a video
+• Powered by the Arcads MCP
+
+A clean AI workflow for creating animations with minimal effort.
+```
+
+### No. 1097: Natural Language Video Editing With Consistent Story Logic
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Victoria Scott $
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Natural language video editing with consistent story logic is a game changer.
+
+#### 프롬프트
+
+```text
+@SeaArt_Ai Natural language video editing with consistent story logic is a game changer. Can't wait to try Gemini Omni Flash! 🎬✨
+```
+
+### No. 1098: Probably People Still Remeber That Viral Video. One
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** testtm
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074247386117882160.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074247386117882160.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Probably people still remeber that viral video.
+
+#### 프롬프트
+
+```text
+Probably people still remeber that viral video. One cool thing is that you can fairly easily replace text on flag with gemini Omni. And not just image. Whole video got the text changed!
+```
+
+### No. 1099: Urban Vibes 🏙️| One Brings The Rebellious, Warm
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Vireon
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Urban Vibes 🏙️|  One brings the rebellious, warm energy, while the other holds a mysterious, cool gaze.
+
+#### 프롬프트
+
+```text
+{
+  "image_prompt": {
+    "subject": { https://t.co/eqmV93YHFp
+```
+
+### No. 1100: 可在Remarkable上调用Openai或者Gemini Nano Banana 就可以随意涂鸦，然后文字Prompt变成一个图案 不过这种概念其实在Ipad
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jesse Lau 遁一子
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074252805339242604.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074252805339242604.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+可在remarkable上调用openai或者gemini nano banana
+
+就可以随意涂鸦，然后文字prompt变成一个图案
+
+不过这种概念其实在ipad早就有了，目前只是改在e-link设备上
+
+#### 프롬프트
+
+```text
+可在remarkable上调用openai或者gemini nano banana
+
+就可以随意涂鸦，然后文字prompt变成一个图案
+
+不过这种概念其实在ipad早就有了，目前只是改在e-link设备上
+```
+
+### No. 1101: 1 Year Ago, I Created One Of The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ze BigFoot
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+1 year ago, I created one of the first French AI Avatar YouTuber.
+
+#### 프롬프트
+
+```text
+1 year ago, I created one of the first French AI Avatar YouTuber. 
+
+The experiment eventually grew to 15,000+ subscribers and proved that an AI character could carry real long-form content, not just short viral clips. 15k is not that big but I’m pretty happy knowing I was in the
+```
+
+### No. 1102: 22-Year-Old Built A Hyper-Realistic Ai Girl That Fools
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rugikk
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074254139929063832.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074254139929063832.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+22-year-old built a hyper-realistic AI girl that fools everyone on the streets of Paris.
+
+#### 프롬프트
+
+```text
+22-year-old built a hyper-realistic AI girl that fools everyone on the streets of Paris.
+
+She’s eating melting ice cream in real time. Sunlight hits her skin. Wind moves her hair. None of it exists.
+
+Generated in Nano Banana 2 and ChatGPT Image 2 for the base. Then brought to
+```
+
+### No. 1103: Gemini + Notebooklm Just Built A Full Ai
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Julian Goldie SEO
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074260854548381759.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074260854548381759.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GEMINI + NOTEBOOKLM JUST BUILT A FULL AI WORKFLOW STACK
+
+And most people are still only using it like a basic chatbot.
+
+#### 프롬프트
+
+```text
+GEMINI + NOTEBOOKLM JUST BUILT A FULL AI WORKFLOW STACK
+
+And most people are still only using it like a basic chatbot.
+
+The Real Upgrade:
+
+→ Gemini now creates cleaner visuals using Nano Banana image generation
+
+→ You can build editable flyers with blank CTA sections you
+```
+
+### No. 1104: So I Just Tried Nano Banana Pro Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** James Sarnicola (Jimsarny)
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074262019386097875.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074262019386097875.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+So i just tried Nano Banana Pro Video what do you think?
+
+#### 프롬프트
+
+```text
+So i just tried Nano Banana Pro Video what do you think?
+```
+
+### No. 1105: [Grok Update] 15-Second Video Is Live 🚨 The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mirolim Mirzakhmedov
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074266191393112464.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074266191393112464.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+[GROK UPDATE] 15-Second Video is LIVE 🚨
+
+The 15-second video update is officially live across all SuperGrok tiers.
+
+#### 프롬프트
+
+```text
+[GROK UPDATE] 15-Second Video is LIVE 🚨
+
+The 15-second video update is officially live across all SuperGrok tiers. (Heavy accounts got it early, but it just landed for standard accounts) and it’s a massive workflow upgrade.
+
+While 15s generation has been quietly available via
+```
+
+### No. 1106: Native 15S Is A Massive Workflow Upgrade, Especially
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mirolim Mirzakhmedov
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074271253205233937.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074271253205233937.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Native 15s is a massive workflow upgrade, especially since the old 'Extend' feature struggles heavily with error accumulation.
+
+#### 프롬프트
+
+```text
+@XFreeze Native 15s is a massive workflow upgrade, especially since the old 'Extend' feature struggles heavily with error accumulation. Bypassing that is huge.
+
+But a heads-up on the new unified quotas: 6 videos (15s, 720p) eats ~2% of the Heavy weekly quota. That means it’ll drain
+```
+
+### No. 1107: Higgsfield Launched Shorts Studio 🎬 A New Tool
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** art mk
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074274595784228962.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074274595784228962.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Higgsfield launched Shorts Studio 🎬
+A new tool designed to create short videos that grab attention from the very first second.
+
+#### 프롬프트
+
+```text
+Higgsfield launched Shorts Studio 🎬
+A new tool designed to create short videos that grab attention from the very first second. Powered by Google’s Gemini Omni Flash.
+Simply upload any video, and the tool automatically adapts it for TikTok, Reels, and YouTube Shorts formats. It
+```
+
+### No. 1108: Timeless Beauty In Evening Wear. Gemini Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Timeless beauty in evening wear.
+
+#### 프롬프트
+
+```text
+A full-body shot of an elegant woman with wavy brown hair, smiling warmly while posing on a rustic stone staircase lined with lush greenery and vibrant flowers. She is wearing a sophisticated, floor-length deep https://t.co/BqLBOucVn7
+```
+
+### No. 1109: Created With Nano Banana Pro. Json Prompt: {
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Studio Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Created with Nano Banana Pro.
+
+#### 프롬프트
+
+```text
+{
+  "prompt_type": "image_reference_prompt",
+  "language": "English",
+  "main_subject": {
+    "description": "A young woman sitting in a blooming daisy field during golden hour, captured in a soft romantic portrait style",
+    "age": https://t.co/oBgFIcIAzx
+```
+
+### No. 1110: Thanks For The Prompt! Tried It With Sabrina
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Krieger
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Thanks for the prompt!
+
+#### 프롬프트
+
+```text
+@pixelbyus Thanks for the prompt! Tried it with Sabrina Carpenter on Nano Banana Pro
+```
+
+### No. 1111: It'S Not A Video Generator Tool, It Can
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Miguel Ángel
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+it's not a video generator tool, it can render the whole website into a video so it's deterministic, maybe what you wanted are tools like gemini omni
+
+#### 프롬프트
+
+```text
+@0xToshio_O it's not a video generator tool, it can render the whole website into a video so it's deterministic, maybe what you wanted are tools like gemini omni
+```
+
+### No. 1112: Made This Entire Emerald Aurora Campaign, Sneaker, Model
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shami
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074302311275663589.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074302311275663589.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Made this entire Emerald Aurora campaign, sneaker, model, motion, everything, using just text prompts.
+
+#### 프롬프트
+
+```text
+Made this entire Emerald Aurora campaign, sneaker, model, motion, everything, using just text prompts. No studio, no shoot, no budget.
+
+Nano Banana 2 + Seedance on @Creatify_AI . One prompt for visuals, one for motion, full ad-ready campaign in minutes.
+
+If you're still booking
+```
+
+### No. 1113: Right: Gpt Image 2.0 On Chatgpt Left: Gemini
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jahan Zaib
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Right: GPT Image 2.0 on ChatGPT 
+Left: Gemini Nano Banana 2
+
+Prompt: A candid, ultra-realistic indoor portrait of a beautiful young East Asian woman with long, slightly messy black hair and soft natur
+
+#### 프롬프트
+
+```text
+A candid, ultra-realistic indoor portrait of a beautiful young East Asian woman with long, slightly messy black hair and soft natural makeup, sitting sideways on a dark office chair at a vintage wooden computer https://t.co/bn6ormTXJR
+```
+
+### No. 1114: The "Pro Ai" Stack Broken Down ​Claude: An
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Lucas Ben
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+The "Pro AI" Stack Broken Down
+​Claude: An advanced large language model specialized in deep reasoning, complex coding, and nuanced writing.
+
+#### 프롬프트
+
+```text
+The "Pro AI" Stack Broken Down
+​Claude: An advanced large language model specialized in deep reasoning, complex coding, and nuanced writing.
+​Opus Clip: A video repurposing tool that uses AI to analyze long video files and automatically crop, caption, and edit them into
+```
+
+### No. 1115: Nana Banana Pro Promotional And Cinematic Prompt ⤵️
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nana banana pro promotional and Cinematic Prompt ⤵️ 
+
+[old-&gt; new]
+
+Ultra-premium professional image enhancement.
+
+#### 프롬프트
+
+```text
+Nana banana pro promotional and Cinematic Prompt ⤵️ 
+
+[old-&gt; new]
+
+Ultra-premium professional image enhancement.
+Transform the uploaded low-quality, blurred image into cinematic quality with extreme detail.
+Preserve 100% of the original identity, facial structure, expression,
+```
+
+### No. 1116: Motion! This Is Such A Great Example Of
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 우크
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Motion!
+
+#### 프롬프트
+
+```text
+@rom1trs Motion! This is such a great example of why the Model Context Protocol (MCP) is a big deal for us. Instead of you jumping between three different websites, Claude just acts like a conductor for Nano Banana and Seedance behind the scenes. It turns a complex video workflow into a
+```
+
+### No. 1117: Introducing Gemini Omni Flash On Hix Ai! →Text-To-Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HIX.AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074310889881444596.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074310889881444596.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Introducing Gemini Omni Flash on HIX AI!
+
+#### 프롬프트
+
+```text
+Introducing Gemini Omni Flash on HIX AI!
+
+→Text-to-Video via Chat
+→Multi-Image Reference Support
+→AI Avatar Short Video Creation
+→Existing Video Editing &amp; Modification
+
+Try it now on HIX AI👉
+#geminiomniflash #aivideo
+```
+
+### No. 1118: Æther Cloud 001 — Luxury Wireless Earbuds Made
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝐌
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074311688669757724.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074311688669757724.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+ÆTHER CLOUD 001 — Luxury Wireless Earbuds 
+
+Made with Nano Banana 2 &amp; Seedance 2.0 on  
+
+Prompt 👇🏻
+
+#### 프롬프트
+
+```text
+ÆTHER CLOUD 001 — Luxury Wireless Earbuds 
+
+Made with Nano Banana 2 &amp; Seedance 2.0 on @capcutapp 
+
+Prompt 👇🏻
+```
+
+### No. 1119: Good Morning Guys ✨️🤍 Nano Banana 2 Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Good Morning Guys ✨️🤍
+
+Nano Banana 2 Prompt :
+{
+  "subject": "A beautiful young Indian woman with fair skin, sharp facial features, high cheekbones, full lips with nude-pink lipstick, defined eyebrows
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A beautiful young Indian woman with fair skin, sharp facial features, high cheekbones, full lips with nude-pink lipstick, defined eyebrows, and long voluminous wavy dark brown hair cascading over her shoulders", https://t.co/mE0kw7KjnI
+```
+
+### No. 1120: More Experiments To Get A Filmic Look For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** David M. Comfort
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074322028539027837.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074322028539027837.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+More experiments to get a filmic look for AI video.
+
+#### 프롬프트
+
+```text
+More experiments to get a filmic look for AI video.
+
+The best result used this chain (I know it is complex, but I think this is how we can achieve a more cinematic look for AI video). 
+
+specific prompt template → Nano Banana 2 at 2K → downscale 1920 → AuraSR 4K upscale →
+```
+
+### No. 1121: The Chain, Step By Step — What Each
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** David M. Comfort
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+The chain, step by step — what each link does and why it earned its place
+
+1.
+
+#### 프롬프트
+
+```text
+The chain, step by step — what each link does and why it earned its place
+
+1. lit_photograph template — the look. Your production style: fine-art photographic register, one motivated chiaroscuro key ("Caravaggio-by-camera"), true materials, explicitly "not a painting." All the
+```
+
+### No. 1122: Generated With Nano Banana Pro On Gemini... Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dr Bloodline | AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Generated with Nano Banana Pro on Gemini...
+
+#### 프롬프트
+
+```text
+Generated with Nano Banana Pro on Gemini...
+
+Prompt ⤵️ 
+
+Create an ultra-realistic, museum-quality cinematic selfie portrait with an unforgettable sense of mystery, elegance, and timeless character. The image must feel like an authentic luxury editorial photograph captured by a
+```
+
+### No. 1123: Google Just Dropped A Game-Changing Duo For Creative
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MR PERFECT
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google just dropped a game-changing duo for creative developers: Nano Banana 2 Lite &amp; Gemini Omni Flash.
+
+#### 프롬프트
+
+```text
+Google just dropped a game-changing duo for creative developers: Nano Banana 2 Lite &amp; Gemini Omni Flash. 🚀
+
+This powerhouse combination is about to redefine how we build next-gen AI image and video pipelines. Let's break down why this matters. 👇
+```
+
+### No. 1124: Next Up: Gemini Omni Flash. 🎥✨ A Natively
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MR PERFECT
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Next up: Gemini Omni Flash.
+
+#### 프롬프트
+
+```text
+Next up: Gemini Omni Flash. 🎥✨
+
+A natively multimodal powerhouse bringing conversational editing to video generation.
+• Input text, images, and video simultaneously
+• Edit scenes using natural language (swap characters, adjust lighting)
+• Maintains strict consistency
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

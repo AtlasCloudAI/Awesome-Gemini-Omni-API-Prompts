@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1212%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1212 |
+| 전체 프롬프트 | 1307 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 402 |
-| 마지막 업데이트 | 2026. 07. 08. |
+| 미리보기 비디오 수 | 420 |
+| 마지막 업데이트 | 2026. 07. 09. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1110)
+### Twitter Community (1205)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -28552,6 +28552,2316 @@ A dreamy editorial beauty portrait of a beautiful woman in soft, warm natural li
 
 ```text
 A dreamy editorial beauty portrait of a beautiful woman in soft, warm natural light, captured in an intimate close-up framing. She has long, voluminous, tousled dark brown hair flowing across her face and shoulders, creating a soft https://t.co/BPn6NI1BRo
+```
+
+### No. 1213: ฟีดแบ็กตอนนี้ส่วนใหญ่ชมเรื่อง Text Rendering กับ Infographic ว่าดีที่สุดตัวหนึ่ง
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** peesamac
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+ฟีดแบ็กตอนนี้ส่วนใหญ่ชมเรื่อง text rendering กับ infographic ว่าดีที่สุดตัวหนึ่งตอนนี้ แล้วก็ชอบ workflow แก้ไขแบบเลเยอร์ที่ไวขึ้นจริง แต่ก็มีคนบอกว่ายังไม่ leap ใหญ่จากเวอร์ชัน 4.5 แล้วงานที่ prompt 
+
+#### 프롬프트
+
+```text
+ฟีดแบ็กตอนนี้ส่วนใหญ่ชมเรื่อง text rendering กับ infographic ว่าดีที่สุดตัวหนึ่งตอนนี้ แล้วก็ชอบ workflow แก้ไขแบบเลเยอร์ที่ไวขึ้นจริง แต่ก็มีคนบอกว่ายังไม่ leap ใหญ่จากเวอร์ชัน 4.5 แล้วงานที่ prompt ซับซ้อนมากๆ บางทีก็ยังแพ้ Nano Banana Pro อยู่บ้าง
+ถ้าใครทำงานสาย infographic
+```
+
+### No. 1214: It’S Important To Realize That Ai-Generated Images, And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Derya Unutmaz, MD
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+It’s important to realize that AI-generated images, and especially AI-generated video, will become as important as text-based AI outputs, and in many domains, even more important.
+
+#### 프롬프트
+
+```text
+It’s important to realize that AI-generated images, and especially AI-generated video, will become as important as text-based AI outputs, and in many domains, even more important.
+
+Text is the language of explicit reasoning. Video is the language of imagination, emotion, motion,
+```
+
+### No. 1215: Created With Gemini Nano Banana 2 On Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Created with Gemini Nano Banana 2 on 
+
+Prompt 👇
+
+A confident adult male sits perfectly centered, facing the camera with a deliberately posed, sophisticated demeanor.
+
+#### 프롬프트
+
+```text
+Created with Gemini Nano Banana 2 on @GeminiApp
+
+Prompt 👇
+
+A confident adult male sits perfectly centered, facing the camera with a deliberately posed, sophisticated demeanor. He wears a meticulously detailed forest green quarter-zip ribbed knit sweater that contrasts elegantly
+```
+
+### No. 1216: Enjoying The Greek Isles 🇬🇷 Yunjin Sakura Kazuha
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Enjoying the Greek isles 🇬🇷
+
+Yunjin
+Sakura
+Kazuha
+
+Le Sserafim
+
+Nano Banana Pro via AI Studio, prompt ⬇
+
+#### 프롬프트
+
+```text
+Enjoying the Greek isles 🇬🇷
+
+Yunjin
+Sakura
+Kazuha
+
+Le Sserafim
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 1217: Right: Nano Banana 2 Left: Gpt Image 2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jahan Zaib
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Right: Nano Banana 2
+Left: GPT Image 2
+
+Prompt: A hyper-realistic, close-up indoor beauty portrait of a young woman with long, voluminous dark brown wavy hair, naturally tousled with a few loose stran
+
+#### 프롬프트
+
+```text
+A hyper-realistic, close-up indoor beauty portrait of a young woman with long, voluminous dark brown wavy hair, naturally tousled with a few loose strands falling across her face. She has luminous fair skin with a dewy glass-skin https://t.co/oteitWqZNz
+```
+
+### No. 1218: How It Was Made: ✅Hero Shot — Midjourney
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kiber Alla
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+How it was made:
+✅Hero shot — Midjourney (--sref 6579330330) 
+✅Character Sheets — Nano Banana Pro 
+✅Video — Seedance 2.0 on PixVerse 
+✅Voiceover — Custom raven narrator voice 
+PROMP: "Deep, ancient ma
+
+#### 프롬프트
+
+```text
+How it was made:
+✅Hero shot — Midjourney (--sref 6579330330) 
+✅Character Sheets — Nano Banana Pro 
+✅Video — Seedance 2.0 on PixVerse 
+✅Voiceover — Custom raven narrator voice 
+PROMP: "Deep, ancient male raven narrator voice. Old, slightly raspy and gravelly, with a low
+```
+
+### No. 1219: The Most Alive Girl In Your Feed The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Draven
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074900999811022857.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074900999811022857.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+The most alive girl in your feed the one dancing at home in a top and a mini skirt costs her creator $20 a month and brings him $12,900.
+
+#### 프롬프트
+
+```text
+The most alive girl in your feed the one dancing at home in a top and a mini skirt costs her creator $20 a month and brings him $12,900.
+
+The AI runs her entire life for him.
+
+He sits down at the laptop drops one reference and types one line: "blonde light top bright apartment
+```
+
+### No. 1220: Complex Edits? We’Ll Pass 🎬 Introducing Video Remix
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Google Photos
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074901324609589467.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074901324609589467.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Complex edits?
+
+#### 프롬프트
+
+```text
+Complex edits? We’ll pass 🎬
+
+Introducing Video Remix in Google Photos. Turn your everyday clips into stylized, share-worthy videos with just a few taps. Swap backgrounds, fix lighting, or add artistic effects like watercolor and oil painting.
+
+Powered by Gemini Omni and rolling
+```
+
+### No. 1221: Google Photos Rolling Out 'Video Remix' Powered By
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 9to5Google
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Photos rolling out 'Video Remix' powered by Gemini Omni  by
+
+#### 프롬프트
+
+```text
+Google Photos rolling out 'Video Remix' powered by Gemini Omni  by @technacity
+```
+
+### No. 1222: Google Introduces Video Remix In Google Photos Using
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** First Squawk
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GOOGLE INTRODUCES VIDEO REMIX IN GOOGLE PHOTOS USING GEMINI OMNI MODEL.
+
+#### 프롬프트
+
+```text
+GOOGLE INTRODUCES VIDEO REMIX IN GOOGLE PHOTOS USING GEMINI OMNI MODEL.
+```
+
+### No. 1223: Google Introduces Video Remix In Google Photos Using
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MarketNewsFeed
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GOOGLE INTRODUCES VIDEO REMIX IN GOOGLE PHOTOS USING GEMINI OMNI MODEL.
+
+#### 프롬프트
+
+```text
+GOOGLE INTRODUCES VIDEO REMIX IN GOOGLE PHOTOS USING GEMINI OMNI MODEL. ...
+```
+
+### No. 1224: Google Rolling Out Video Remix In Photos Powered
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** LordBull AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google rolling out Video Remix in Photos powered by Gemini Omni — practical AI getting better fast.
+
+#### 프롬프트
+
+```text
+@FirstSquawk Google rolling out Video Remix in Photos powered by Gemini Omni — practical AI getting better fast.
+Multimodal features like this keep compounding. Nice move. 🐂
+```
+
+### No. 1225: This Paris Founder Built The Goli Creative Agency
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Locke
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074903301439525313.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074903301439525313.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+this paris founder built the goli creative agency into one tab on his laptop.
+
+#### 프롬프트
+
+```text
+this paris founder built the goli creative agency into one tab on his laptop. one prompt. 45 seconds. 4 finished campaign frames sitting on his canvas ready for meta ads manager
+
+the agency he replaced was costing the company $12,000 a month. plus $2,400 per shoot for the model
+```
+
+### No. 1226: $Googl Google: Introduces Video Remix In Google Photos
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** alldaystocks | 24/7 Market News
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+$GOOGL Google: Introduces Video Remix in Google Photos Using Gemini Omni Model
+
+• Google introduced Video Remix in Google Photos using the Gemini Omni model.
+
+#### 프롬프트
+
+```text
+$GOOGL Google: Introduces Video Remix in Google Photos Using Gemini Omni Model
+
+• Google introduced Video Remix in Google Photos using the Gemini Omni model.
+• Video Remix is now available for eligible Google AI Plus, Pro, and Ultra subscribers in select countries starting
+```
+
+### No. 1227: Gemini Omni Video Gen Quick Take $Googl Rolled
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CHItrader
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GEMINI OMNI VIDEO GEN QUICK TAKE
+
+$GOOGL rolled out Gemini Omni to replace Veo.
+
+#### 프롬프트
+
+```text
+GEMINI OMNI VIDEO GEN QUICK TAKE
+
+$GOOGL rolled out Gemini Omni to replace Veo. Chat your way into video creation and editing using text, photos, or clips.
+
+🔹 Remix gallery stuff, templates, or build from scratch
+🔹 Easy edits like swap backgrounds, styles, or add your AI avatar
+```
+
+### No. 1228: Just In: China Financial News Agency, July 9
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alpha Wire
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Just in: China Financial News Agency, July 9 th, Google announced that Google Photos has launched a video mixing and editing function driven by the Gemini Omni model, which will be gradually launched 
+
+#### 프롬프트
+
+```text
+Just in: China Financial News Agency, July 9 th, Google announced that Google Photos has launched a video mixing and editing function driven by the Gemini Omni model, which will be gradually launched today for eligible Google AI Plus, PRO and Ultra.
+
+China Financial News Agency,
+```
+
+### No. 1229: 🎬 عاجل | Google تضيف ميزة جديدة إلى
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** أخبار التقنية 🌍
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074908316103250312.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074908316103250312.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🎬 عاجل | Google تضيف ميزة جديدة إلى Google Photos: أعلنت الشركة إطلاق Video Remix، وهي أداة مدعومة بـ Gemini Omni تتيح تحويل مقاطع الفيديو العادية إلى فيديوهات بأساليب فنية متنوعة، مع إمكانية تغيير ال
+
+#### 프롬프트
+
+```text
+🎬 عاجل | Google تضيف ميزة جديدة إلى Google Photos: أعلنت الشركة إطلاق Video Remix، وهي أداة مدعومة بـ Gemini Omni تتيح تحويل مقاطع الفيديو العادية إلى فيديوهات بأساليب فنية متنوعة، مع إمكانية تغيير الخلفية، وتحسين الإضاءة، وإضافة تأثيرات مثل Watercolor وOil Painting ببضع نقرات
+```
+
+### No. 1230: Found The Tool You Were Looking For... Now
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Giulia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Found the tool you were looking for...
+
+#### 프롬프트
+
+```text
+Found the tool you were looking for... now what? 😏🔧
+
+🩶 McKenna Grace 
+🩷 Sadie Sink 
+🤍 Ana de Armas 
+
+Nano Banana 2 🍌 via Gemini 
+
+Prompt Below 👇
+```
+
+### No. 1231: I Just Replaced A $10,000 Business Strategist With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PolyBender
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074910405302853915.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074910405302853915.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I JUST REPLACED A $10,000 BUSINESS STRATEGIST WITH A SINGLE CLAUDE FABLE 5 CHAT
+
+Stop treating AI as a simple content generator and start using it to architect entire empires.
+
+#### 프롬프트
+
+```text
+I JUST REPLACED A $10,000 BUSINESS STRATEGIST WITH A SINGLE CLAUDE FABLE 5 CHAT
+
+Stop treating AI as a simple content generator and start using it to architect entire empires. I recently took a creator account with zero monetization and, in one single chat session, transformed it
+```
+
+### No. 1232: Talk. It Edits. Gemini Omni Flash Makes Pro
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice The Ai Expert
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Talk.
+
+#### 프롬프트
+
+```text
+@GoogleAIStudio Talk. It edits. Gemini Omni Flash makes pro video feel like a conversation.
+```
+
+### No. 1233: Image Created On Nano Banana Pro🍌🍌🍌 Save It
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Image created on Nano Banana Pro🍌🍌🍌 Save it for yourself and take cool photos
+
+Upload photo of yourself and add Prompt:👇👇👇👇👇
+{
+  "prompt": "A vertical triptych collage of three amateur phone shots fea
+
+#### 프롬프트
+
+```text
+👇👇👇👇👇
+{
+  "prompt": "A vertical triptych collage of three amateur phone shots featuring a subject in a dark forest at sunset. \n\n***IDENTITY https://t.co/uCsLjnJied
+```
+
+### No. 1234: Google Just Brought Generative Video Editing Directly Into
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maestry | AI News
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google just brought generative video editing directly into Google Photos.
+
+#### 프롬프트
+
+```text
+Google just brought generative video editing directly into Google Photos. 
+
+​Powered by Gemini Omni, the new "Video Remix" feature lets users swap backgrounds, fix lighting, and apply stylized artistic effects (like watercolor and oil painting) with a few taps.
+```
+
+### No. 1235: Reference Images Give Ai Video Generation Clearer Creative
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** RunDiffusion.com
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074912977698816085.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074912977698816085.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Reference images give AI video generation clearer creative direction.
+
+#### 프롬프트
+
+```text
+Reference images give AI video generation clearer creative direction.
+
+Gemini Omni Flash Reference Video is now available on RunDiffusion, giving professional teams a practical way to create short videos from a prompt and up to 4 reference images.
+
+Guide the subject, visual
+```
+
+### No. 1236: I Love The New Video Remix Feature In
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** shimrit ben-yair
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074913606747992475.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074913606747992475.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I love the new Video Remix feature in Google Photos!
+
+#### 프롬프트
+
+```text
+I love the new Video Remix feature in Google Photos! Powered by our Gemini Omni model, Video Remix lets you create stylized, ready to share clips using easy templates in the Create tab. Some of my favorite things to do are relighting my videos for different moods, swapping out
+```
+
+### No. 1237: One Day Off From Games Means It'S Time
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+One day off from games means it's time for some tourist activities!
+
+#### 프롬프트
+
+```text
+One day off from games means it's time for some tourist activities!
+
+Aespa and Blackpink traveling 🇺🇸
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 1238: New Google Photos Ai Tool Instantly Fixes Badly
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** iBrokeit
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+New Google Photos AI Tool Instantly Fixes Badly Lit Videos: Google has launched Video Remix for its subscribers, using its Gemini Omni AI model to change lighting, swap backgrounds, and stylize video 
+
+#### 프롬프트
+
+```text
+New Google Photos AI Tool Instantly Fixes Badly Lit Videos: Google has launched Video Remix for its subscribers, using its Gemini Omni AI model to change lighting, swap backgrounds, and stylize video clips. 
+
+The post New Google Photos AI Tool Instantly…
+```
+
+### No. 1239: 🚨 Google Photos Gets A New Ai Feature
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Indian Trends Hub
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🚨 Google Photos gets a new AI feature: Video Remix.
+
+#### 프롬프트
+
+```text
+🚨 Google Photos gets a new AI feature: Video Remix.
+
+Powered by Google's Gemini Omni model, it can transform your videos into different creative styles with AI.
+```
+
+### No. 1240: One App With Nano Banana Pro, Kling, Flux
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** vorty
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074923094653690033.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074923094653690033.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+one app with nano banana pro, kling, flux 2 and a dozen more generation models.
+
+#### 프롬프트
+
+```text
+one app with nano banana pro, kling, flux 2 and a dozen more generation models. images, video, audio in one window. type a prompt, hit generate
+
+looks convenient. and at first glance this is what infobiz charges a subscription for. let me look at what is under the hood
+
+what is
+```
+
+### No. 1241: Sadie Sink - Gemini Nano Banana Pro Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Sadie Sink - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title_en": "Inside the Anachronistic Chaos",
+  "hook_psychology_en": "The stark contrast between the gloomy, crowded, and dirty texture of the Vi
+
+#### 프롬프트
+
+```text
+{
+  "vibe_title_en": "Inside the Anachronistic Chaos",
+  "hook_psychology_en": "The stark contrast between the gloomy, crowded, and dirty texture of the Victorian era and the hyper-modern, architectural fashion on the protagonist https://t.co/ORtH1gp5Xz
+```
+
+### No. 1242: Google Put Gemini Omni Flash Into Public Preview
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HIGHLY EVOLVED PLANT
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google put Gemini Omni Flash into public preview on June 30.
+
+#### 프롬프트
+
+```text
+Google put Gemini Omni Flash into public preview on June 30. It generates 3 to 10 second videos from a prompt and you revise them by talking to it, no timeline, no editing software. 
+
+What it means for you: testing a video hook used to cost a videographer's day. Now it costs a
+```
+
+### No. 1243: Most People Are Paying For Ai Tools They
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aman
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Most people are paying for AI tools they don’t even need.
+
+#### 프롬프트
+
+```text
+Most people are paying for AI tools they don’t even need.
+
+Google quietly dropped an entire free AI stack that can:
+
+• Generate videos
+• Build apps
+• Edit images
+• Analyze documents
+• Create AI agents
+• Automate workflows
+
+Here are 12 free Google AI tools worth using in
+```
+
+### No. 1244: 🚨 $Googl Google Launches Video Remix In Google
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Emmanuel – Big Tech & AI Investor
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🚨 $GOOGL   GOOGLE LAUNCHES VIDEO REMIX IN GOOGLE PHOTOS
+
+Google has introduced Video Remix in Google Photos, powered by its Gemini Omni AI model.
+
+#### 프롬프트
+
+```text
+🚨 $GOOGL   GOOGLE LAUNCHES VIDEO REMIX IN GOOGLE PHOTOS
+
+Google has introduced Video Remix in Google Photos, powered by its Gemini Omni AI model.
+
+🎥 Available starting today for eligible:
+
+Google AI Plus
+Google AI Pro
+Google AI Ultra
+
+...subscribers in select countries.
+
+What
+```
+
+### No. 1245: Seedream 5 Image Model With Editing Features, Gemini
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heather Cooper
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Seedream 5 image model with editing features, Gemini Omni vs.
+
+#### 프롬프트
+
+```text
+@Farah_ai_ Seedream 5 image model with editing features, Gemini Omni vs. Seedance 2 video-to-video background changes, Fable 5...
+```
+
+### No. 1246: Getting A Little Close With Another Group 😘
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Getting a little close with another group 😘
+
+Momo and Winter
+Yujin and Rose
+Sana and Karina
+Wonyoung and Lisa
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+
+#### 프롬프트
+
+```text
+Getting a little close with another group 😘
+
+Momo and Winter
+Yujin and Rose
+Sana and Karina
+Wonyoung and Lisa
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+```
+
+### No. 1247: Tftt ! 💜 Here’S My Take On The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+TFTT  !
+
+#### 프롬프트
+
+```text
+TFTT @Viper_Tattoo_ ! 💜
+
+Here’s my take on the chain: “A Zodiac Food House Experience”
+
+Left: Seedream v5 Pro
+Right: Nano Banana Lite  
+Same prompt, two different models. Check the ALT text for details.
+
+Tagging 5 artists whose work I enjoy:
+@KeikoYetter
+```
+
+### No. 1248: Meta Released Muse Image And Muse Video Yesterday
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** The Blessed Sage
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Meta released Muse Image and Muse Video yesterday, the first media models from Alexandr Wang’s Superintelligence Labs.
+
+#### 프롬프트
+
+```text
+Meta released Muse Image and Muse Video yesterday, the first media models from Alexandr Wang’s Superintelligence Labs. One design decision separates them from everything else on the market.
+
+GPT Image 2 and Grok Imagine both take a prompt and paint. OpenAI’s model reasons
+```
+
+### No. 1249: Fala Joao… Acham Q O Limite Da Ia
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** caio
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+fala joao… acham q o limite da ia é usar o nano banana mandando prompt de 2 linhas
+
+#### 프롬프트
+
+```text
+@joaoaneles fala joao… acham q o limite da ia é usar o nano banana mandando prompt de 2 linhas
+```
+
+### No. 1250: My First "Seedream 5 Pro" Test And It
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ash
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+My first "Seedream 5 Pro" test and it will be against "ChatGPT Image 2." 
+
+Nano Banana 2 Lite was binned in the reply.
+
+#### 프롬프트
+
+```text
+https://t.co/XdGdFA9K29
+```
+
+### No. 1251: I Should Never Be Sharing This. He'S Sharing
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hawking
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074941590032748655.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074941590032748655.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I should never be sharing this.
+
+#### 프롬프트
+
+```text
+I should never be sharing this. He's sharing it with everyone who comments OMNI.
+
+Same pattern every time. Manufactured scarcity around something being broadcast to thousands. "F*ck it" signals authenticity while the mechanic is pure engagement farming.
+
+The technical claims
+```
+
+### No. 1252: $Meta Just Launched Muse Image, Its First In-House
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alphatopia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+$META just launched Muse Image, its first in-house AI image model.
+
+#### 프롬프트
+
+```text
+$META just launched Muse Image, its first in-house AI image model. For a company spending up to $145B this year, this is what that money is meant to become.
+What it does:
+
+Generates and edits images from plain-language prompts, right inside Meta AI, Instagram, and WhatsApp
+
+It is
+```
+
+### No. 1253: Let'S Make This Evening Shine With Beauty, Style
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Let's make this evening shine with beauty, style, and art!🌟
+Good night, sleep well!💫
+
+Emma Myers, Freya Allan, Sophie Thatcher, McKenna Grace 💛
+👉🏻Subscribe for more content!🔥
+
+Nano Banana Pro via Hail
+
+#### 프롬프트
+
+```text
+{
+  "scene": "High-fashion editorial portrait in a luxury https://t.co/qOJTBCwWkL https://t.co/XBzMm0snu7
+```
+
+### No. 1254: Prompt Interpretation Has Dramatically Declined In Quality In
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Frontier Modal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Prompt interpretation has dramatically declined in quality in image editing since Nano Banana Pro came out, and the issue with images degrading if you edit them multiple times.
+
+#### 프롬프트
+
+```text
+@joshwoodward @GeminiApp Prompt interpretation has dramatically declined in quality in image editing since Nano Banana Pro came out, and the issue with images degrading if you edit them multiple times.
+```
+
+### No. 1255: Gemini Omni Flash Is Perfect For ‘Animate The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** getimg.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074948887698096374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074948887698096374.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini Omni Flash is perfect for ‘animate the still’ experiments.
+
+#### 프롬프트
+
+```text
+‘turn this travel poster into a moving postcard: clouds drift, gulls cross frame, ocean shimmer, relaxed camera sway, 10s’. 
+Clean, simple, addictive. https://t.co/9HG7wc0cmq
+```
+
+### No. 1256: [Reuters] Google Launches Video Remix In Google Photos
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Violence is a construct
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+[REUTERS] Google Launches Video Remix In Google Photos Powered By Gemini Omni Model
+
+#### 프롬프트
+
+```text
+[REUTERS] Google Launches Video Remix In Google Photos Powered By Gemini Omni Model
+```
+
+### No. 1257: Google Photos Devient-Il Le Nouveau Studio De Montage
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** IA-Medias
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Photos devient-il le nouveau studio de montage vidéo ?
+
+#### 프롬프트
+
+```text
+Google Photos devient-il le nouveau studio de montage vidéo ?
+
+Oui, avec « Video Remix » et Gemini Omni, Google Photos intègre un éditeur vidéo dopé à l'IA pour transformer vos clips en un clin d'œil.
+
+À lire sur IA-Medias
+
+🔗 lien en bio
+```
+
+### No. 1258: Sleek Sophisticated Effortless Elegance In The Studio Nano
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Talia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Sleek  Sophisticated Effortless elegance in the studio
+
+Nano banana pro 2 on Gemini
+
+Prompt:
+
+high-fashion editorial studio portrait of a
+beautiful young curvy woman seated gracefully
+on a modern blac
+
+#### 프롬프트
+
+```text
+high-fashion editorial studio portrait of a
+beautiful young curvy woman seated gracefully
+on a modern black chair in a luxury fashion studio. She has bright fair, glam makeup, long dark https://t.co/KPcnrBsU4G
+```
+
+### No. 1259: Nano Banana Pro 2 On Gemini Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Lipstick
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano banana pro 2 on Gemini  Prompt:
+
+#### 프롬프트
+
+```text
+#shalwarKameez https://t.co/g2CYjvqKo4
+```
+
+### No. 1260: Google Photos Rolling Out ‘Video Remix’ Powered By
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIVAnet
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Photos rolling out ‘Video Remix’ powered by Gemini Omni
+
+#### 프롬프트
+
+```text
+Google Photos rolling out ‘Video Remix’ powered by Gemini Omni
+```
+
+### No. 1261: Nano Banana Pro 2 On Gemini Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Lipstick
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano banana pro 2 on Gemini  Prompt:
+
+#### 프롬프트
+
+```text
+https://t.co/T1C2gdAjlv
+```
+
+### No. 1262: Introducing Video Remix In 📹 Powered By Our
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Google
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074958687983010116.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074958687983010116.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Introducing Video Remix in  📹 Powered by our Gemini Omni model, it lets you reimagine your videos in new styles with a library of easy-to-use templates.
+
+#### 프롬프트
+
+```text
+Introducing Video Remix in @GooglePhotos. 📹 Powered by our Gemini Omni model, it lets you reimagine your videos in new styles with a library of easy-to-use templates. 
+
+To get started, simply select Video Remix in the Create tab. You’ll be able to instantly apply cinematic
+```
+
+### No. 1263: Seedream 5.0 Pro Is Out! This Image Went
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ΛRMIN
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Seedream 5.0 Pro is out!
+
+#### 프롬프트
+
+```text
+Seedream 5.0 Pro is out!
+
+This image went viral the moment Nano Banana Pro dropped. So I tested the exact same prompt with Seedream 5 Pro and 3 other models.
+
+- Which output do you prefer? 👀
+▶Seedream 5.0 Pro
+▶Nano Banana Pro
+▶GPT Image 2
+▶Grok Imagine
+```
+
+### No. 1264: Imposing Stares! Tzuyu Sana Nayeon Mina Twice Nano
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice H.
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Imposing stares!
+
+#### 프롬프트
+
+```text
+Imposing stares!
+
+Tzuyu
+Sana
+Nayeon
+Mina
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 1265: A 29 Year Old In Fresno Makes $16,200
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CRYPTANSKY
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074961471092498575.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074961471092498575.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+a 29 year old in fresno makes $16,200 a month off a girlfriend he built from two strangers he found on pinterest.
+
+#### 프롬프트
+
+```text
+a 29 year old in fresno makes $16,200 a month off a girlfriend he built from two strangers he found on pinterest.
+
+no camera. no model. no studio.
+
+a source photo, a face-merge in an app called nano banana, and a button in the corner that does not say post. it says EARN.
+
+the app
+```
+
+### No. 1266: Meta Muse Social &Amp; Privacy Features, Opt-Out If
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** U.Senthil Kumar
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Meta Muse Social &amp; Privacy Features, 
+
+Opt-out if you don't want your photos used.
+
+#### 프롬프트
+
+```text
+Meta Muse Social &amp; Privacy Features, 
+
+Opt-out if you don't want your photos used. 
+
+Invisible watermarks. Muse beats Google's Nano Banana 2, trails OpenAI. Free basic, subscription for heavy use.
+
+Muse Video coming next .
+```
+
+### No. 1267: Jersey Prompt - Gs Created With Nano Banana
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** mertzabun.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Jersey Prompt - Gs
+
+Created with Nano Banana on King of Prompt.
+
+#### 프롬프트
+
+```text
+Jersey Prompt - Gs
+
+Created with Nano Banana on King of Prompt.
+
+Web App &amp; Instagram links are in bio — comment under our Instagram posts or visit the website to get the prompt.
+```
+
+### No. 1268: 🚨 Google Photos Lanza Video Remix Con Ia
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Diario฿itcoin
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🚨 Google Photos lanza Video Remix con IA 🚨
+
+Una herramienta que edita videos en segundos usando Gemini Omni.
+
+#### 프롬프트
+
+```text
+🚨 Google Photos lanza Video Remix con IA 🚨
+
+Una herramienta que edita videos en segundos usando Gemini Omni. 
+
+Transformaciones sencillas y visuales en la pestaña "Crear". 
+
+Estará disponible para suscriptores en 14 países, incluyendo México y Argentina. 
+
+La IA busca
+```
+
+### No. 1269: Meta Just Launched Muse Image — Its First
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Teksart
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Meta just launched Muse Image — its first in-house image generation model — and it does something no other model can.
+
+#### 프롬프트
+
+```text
+Meta just launched Muse Image — its first in-house image generation model — and it does something no other model can.
+
+You can @-mention any public Instagram account in your prompt, and Muse Image pulls their photos as visual references. Want to design an event invite that
+```
+
+### No. 1270: معالجة الفيديوهات المعقدة؟ عهدها انتهى رسميًا! 🤫🎬🔥 شركة
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mo Elgaraihy
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+معالجة الفيديوهات المعقدة؟ عهدها انتهى رسميًا!
+
+#### 프롬프트
+
+```text
+معالجة الفيديوهات المعقدة؟ عهدها انتهى رسميًا! 🤫🎬🔥
+
+شركة Google تفجر ميزة Video Remix الجديدة كليًا داخل تطبيق Google Photos؛ الحين تقدر تحول أي فيديو عادي عندك في الأستوديو إلى فيلم سينمائي بلمسات بسيطة، بدون برامج مونتاج معقدة ولا تضييع وقت!
+
+🎯 الترسانة البصرية في ميزة
+```
+
+### No. 1271: Deepmind这两天推出了Gemini Omni Flash模型，核心定位是能够从任意输入创建任何内容的模型，以视频生成为起点。这个模型融合了Gemini的世
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shen
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+DeepMind这两天推出了Gemini Omni Flash模型，核心定位是能够从任意输入创建任何内容的模型，以视频生成为起点。这个模型融合了Gemini的世界理解能力与生成媒体技术，支持通过自然语言进行对话式、逐步迭代的视频生成与编辑，能够保持场景的一致性和连贯性。
+
+#### 프롬프트
+
+```text
+DeepMind这两天推出了Gemini Omni Flash模型，核心定位是能够从任意输入创建任何内容的模型，以视频生成为起点。这个模型融合了Gemini的世界理解能力与生成媒体技术，支持通过自然语言进行对话式、逐步迭代的视频生成与编辑，能够保持场景的一致性和连贯性。
+```
+
+### No. 1272: Photos Launches Video Remix With Gemini Omni 🎬
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Eugenio Fierro
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074975235116523760.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074975235116523760.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Photos launches Video Remix with Gemini Omni
+
+🎬 Google has introduced Video Remix in Google Photos, a new feature powered by Gemini Omni that lets users turn ordinary videos into stylized, shareable c
+
+#### 프롬프트
+
+```text
+@Google Photos launches Video Remix with Gemini Omni
+
+🎬 Google has introduced Video Remix in Google Photos, a new feature powered by Gemini Omni that lets users turn ordinary videos into stylized, shareable clips in just a few taps.
+The idea is simple: open the Create tab,
+```
+
+### No. 1273: Gemini Would Be Dead, But It Has To
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Daddy Jim Headquarters
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini would be dead, but it has to stay alive because Google search will have a reliance on it.
+
+#### 프롬프트
+
+```text
+@Star_Knight12 Gemini would be dead, but it has to stay alive because Google search will have a reliance on it. Nano banana and Omni flash for video are fantastic, but there are local models that are beating Gemini 3.1 Pro and don't even ask about Flash 💀
+```
+
+### No. 1274: Google Photos, Kullanıcıların Sıradan Videolarını Kolay Anlaşılır Şablonlar
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** airehber.com.tr
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Photos, kullanıcıların sıradan videolarını kolay anlaşılır şablonlar yardımıyla saniyeler içinde stilize kliplere dönüştürmesini sağlayan, çoklu modlu Gemini Omni modelinden güç alan yeni Video
+
+#### 프롬프트
+
+```text
+Google Photos, kullanıcıların sıradan videolarını kolay anlaşılır şablonlar yardımıyla saniyeler içinde stilize kliplere dönüştürmesini sağlayan, çoklu modlu Gemini Omni modelinden güç alan yeni Video Remix özelliğini duyurdu.
+
+ 
+
+#GooglePhotos #VideoRemix
+```
+
+### No. 1275: 出典: Meta公式発表 / Techcrunch(2026-07-07) 補足: MuseはMeta Superintelligence Labs製。Goog
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** サム｜AI × Xマネタイズのプロ
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+出典: Meta公式発表 / TechCrunch(2026-07-07)
+
+
+補足: MuseはMeta Superintelligence Labs製。Google Nano Banana 2を一部評価で上回り、画質はGPTの最新画像モデルに次ぐ位置づけ。動画版「Muse Video」も開発中。
+
+#### 프롬프트
+
+```text
+出典: Meta公式発表 / TechCrunch(2026-07-07)
+
+
+補足: MuseはMeta Superintelligence Labs製。Google Nano Banana 2を一部評価で上回り、画質はGPTの最新画像モデルに次ぐ位置づけ。動画版「Muse Video」も開発中。
+```
+
+### No. 1276: 【7/9】今日のAiハイライト！ 僕が注目した重要ニュース3選をお届けします。 1. Spacexaiが「Grok 4.5」公開。Opus級とMusk氏自信。 
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shunta Furukawa
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+【7/9】今日のAIハイライト！
+
+#### 프롬프트
+
+```text
+【7/9】今日のAIハイライト！
+僕が注目した重要ニュース3選をお届けします。
+
+1. SpaceXAIが「Grok 4.5」公開。Opus級とMusk氏自信。
+2. OpenAIが双方向音声「GPT-Live」発表、超自然な会話が可能に。
+3. GoogleフォトにGemini Omni活用の動画編集「Video Remix」登場。
+```
+
+### No. 1277: If I Had A Gun To My Head
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J.0rganic
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074988516631536096.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074988516631536096.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IF I HAD A GUN TO MY HEAD and had to hit 
+$50K–$100K/month selling physical products with AI avatars on short form (starting from 0) in the next 30 days… here’s exactly what I’d do:
+
+1.
+
+#### 프롬프트
+
+```text
+IF I HAD A GUN TO MY HEAD and had to hit 
+$50K–$100K/month selling physical products with AI avatars on short form (starting from 0) in the next 30 days… here’s exactly what I’d do:
+
+1. Set up your phone to target the US
+
+Buy a used iPhone ($150)
+And a US SIM card ($20)
+
+Reset
+```
+
+### No. 1278: 🎬 Google PhotosにAi動画編集「Video Remix」登場！ ✨ Google Photosに、Aiが動画を映画風やアニメ風などへワンタップで変
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 他力code | コバッチ
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🎬 Google PhotosにAI動画編集「Video Remix」登場！
+
+#### 프롬프트
+
+```text
+🎬 Google PhotosにAI動画編集「Video Remix」登場！
+
+✨ Google Photosに、AIが動画を映画風やアニメ風などへワンタップで変換する「Video Remix」が追加されます。Gemini
+```
+
+### No. 1279: 🤩 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗵𝗼𝘁𝗼𝘀 𝗟𝗮𝘂𝗻𝗰𝗵𝗲𝘀 𝗩𝗶𝗱𝗲𝗼 𝗥𝗲𝗺𝗶𝘅, 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗖𝗹𝗶𝗽
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gen AI Spotlight
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2074992719529730527.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2074992719529730527.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🤩 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗵𝗼𝘁𝗼𝘀 𝗟𝗮𝘂𝗻𝗰𝗵𝗲𝘀 𝗩𝗶𝗱𝗲𝗼 𝗥𝗲𝗺𝗶𝘅, 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗖𝗹𝗶𝗽 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗚𝗲𝗺𝗶𝗻𝗶 𝗢𝗺𝗻𝗶
+
+Google Photos is rolling out Video Remix today, a feature powered by Gemini Omni that turns ordinary videos into 
+
+#### 프롬프트
+
+```text
+🤩 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗵𝗼𝘁𝗼𝘀 𝗟𝗮𝘂𝗻𝗰𝗵𝗲𝘀 𝗩𝗶𝗱𝗲𝗼 𝗥𝗲𝗺𝗶𝘅, 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗖𝗹𝗶𝗽 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗚𝗲𝗺𝗶𝗻𝗶 𝗢𝗺𝗻𝗶
+
+Google Photos is rolling out Video Remix today, a feature powered by Gemini Omni that turns ordinary videos into stylized
+```
+
+### No. 1280: Just In: U.S. Stocks Were Mixed, Alibaba Soared
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alpha Wire
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Just in: U.S.
+
+#### 프롬프트
+
+```text
+Just in: U.S. stocks were mixed, Alibaba soared 11%, the Fed minutes showed significant differences.
+
+On July 8 (Wednesday), Eastern Time, the three major U.S. stock indexes had mixed trends, with the S&amp;P 500 (SPX) index falling 0.28% to 7,482.71 points; the Dow Jones Index
+```
+
+### No. 1281: I Generated A Song With Suno, Then I
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Arkim Phiri
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+I generated a song with Suno, then I trimmed it to 3 10 seconds segments.
+
+#### 프롬프트
+
+```text
+@PrunaAI I generated a song with Suno, then I trimmed it to 3 10 seconds segments. I used images generated with Nano Banana 2 as portrait images for each generation. I did 6 generations and added them together using Capcut to make one seamless 30 seconds music video with perfect lip sync
+```
+
+### No. 1282: Doing My Part To Make These Streets Safer
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Giulia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+doing my part to make these streets safer.
+
+#### 프롬프트
+
+```text
+doing my part to make these streets safer. you’re welcome 🌵🤠
+
+🖤 Alexandra Daddario 
+🤎 Karen Gillan
+
+Nano Banana 2 🍌 via Gemini 
+
+Prompt Below 👇
+```
+
+### No. 1283: Meta Just Launched Muse Image, Its First In-House
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AI Tower
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Meta just launched Muse Image, its first in-house AI image model from Alexandr Wang's Superintelligence Labs, and it's already sitting at No.
+
+#### 프롬프트
+
+```text
+Meta just launched Muse Image, its first in-house AI image model from Alexandr Wang's Superintelligence Labs, and it's already sitting at No. 2 on Arena's text-to-image and editing leaderboards, just behind OpenAI's GPT Image 2.
+
+→ Muse Image pairs with Meta's Muse Spark for
+```
+
+### No. 1284: Google Photosがもはや「別アプリ」になってきた件📱✨ （Aiエンジニア＆テックライターが解説🔍） ◾️何が起きたか？ GoogleがGoogle P
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ai先生
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Photosがもはや「別アプリ」になってきた件📱✨
+（AIエンジニア＆テックライターが解説🔍）
+
+◾️何が起きたか？
+
+#### 프롬프트
+
+```text
+Google Photosがもはや「別アプリ」になってきた件📱✨
+（AIエンジニア＆テックライターが解説🔍）
+
+◾️何が起きたか？
+GoogleがGoogle Photosに「Video Remix」という新機能を追加しました。
+AIが数タップで動画を丸ごと別物に変換してくれるんです。
+```
+
+### No. 1285: Nano Banana Pro Is The Most Pleasant Infographics
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Volkov @ AI Engineer
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Nano Banana Pro is the most pleasant infographics maker, the data has room to breathe.
+
+#### 프롬프트
+
+```text
+Nano Banana Pro is the most pleasant infographics maker, the data has room to breathe. But it's really really bad at input consistency, every Alex is different on every gen. I even have my eye color in the prompt and it's still not getting me correctly. Everything else tho...
+```
+
+### No. 1286: GoogleフォトにVideo Remixが来るみたい。Gemini Omniで動画の雰囲気をさっと変えたり、水彩やスケッチ風の質感を足したり、背景や光まで軽く
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** P@M
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GoogleフォトにVideo Remixが来るみたい。Gemini Omniで動画の雰囲気をさっと変えたり、水彩やスケッチ風の質感を足したり、背景や光まで軽く触れるの面白そう。写真アプリの延長で動画までここまで遊べるの、けっこう気になります🙂
+
+#### 프롬프트
+
+```text
+GoogleフォトにVideo Remixが来るみたい。Gemini Omniで動画の雰囲気をさっと変えたり、水彩やスケッチ風の質感を足したり、背景や光まで軽く触れるの面白そう。写真アプリの延長で動画までここまで遊べるの、けっこう気になります🙂
+```
+
+### No. 1287: 10 Retro Nano Banana 3D Figurine Prompts 🔹
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Tips Excel
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+10 Retro Nano Banana 3D Figurine Prompts
+
+🔹 Prompt: Turn the image into a pop art-style 3D figurine, featuring bold colors, halftone dots, and comic-book speech bubbles around the character.
+
+#### 프롬프트
+
+```text
+Turn the image into a pop art-style 3D figurine, featuring bold colors, halftone dots, and comic-book speech bubbles around the character.
+
+🔹 Prompt: Make a collectible figure inspired by 1950s diners, with a checkered floor
+```
+
+### No. 1288: This Is What I Got Lol Of Course
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** TGSATE
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+This is what I got lol Of course I don’t have enough tokens for Grok to generate it, so I asked him for a prompt and fed it to Gemini’s nano banana.
+
+#### 프롬프트
+
+```text
+@VoidStateKate @grok This is what I got lol Of course I don’t have enough tokens for Grok to generate it, so I asked him for a prompt and fed it to Gemini’s nano banana. 🤷‍♀️ But I have grok in “council mode” and these are all his personalities.
+```
+
+### No. 1289: Models Available On (Byok Friendly) Video Models Gemini
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zach
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Models available on  (BYOK friendly)
+
+Video Models
+Gemini Omni Flash 
+Seedance 2.0
+Seedance 2.0 Fast
+Seedance 2.0 Mini
+Grok Imagine Video 1.5 
+Grok Imagine Video 1.5 Fast (new)
+Happy Horse 1.1
+Veo 3.1
+
+#### 프롬프트
+
+```text
+Models available on  (BYOK friendly)
+
+Video Models
+Gemini Omni Flash 
+Seedance 2.0
+Seedance 2.0 Fast
+Seedance 2.0 Mini
+Grok Imagine Video 1.5 
+Grok Imagine Video 1.5 Fast (new)
+Happy Horse 1.1
+Veo 3.1
+Veo 3.1 Fast
+Veo 3.1 Lite
+Kling 3.0 Turbo
+Kling 3.0 Omni
+```
+
+### No. 1290: Google Photos Now Lets You “Remix” Your Videos
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Eraldo Frangipane
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Photos now lets you “remix” your videos with AI.
+
+#### 프롬프트
+
+```text
+Google Photos now lets you “remix” your videos with AI.
+
+Google’s Video Remix feature, running on Gemini Omni, adds new editing options like “cinematic relighting,” custom backgrounds, and “artistic treatments” such as watercolor and sketchbook effects. The AI video editing
+```
+
+### No. 1291: Gm Gn 距离2027年仅剩179天，中文区都在讨论Gate资金被盗的情况，这位兄台思路很明确，舆论压制，然后报警立案，我经历过。 看看今天Ai圈有啥新闻(萨
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Polo1.4 贱🕊️买美股上币安
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GM GN
+
+距离2027年仅剩179天，中文区都在讨论gate资金被盗的情况，这位兄台思路很明确，舆论压制，然后报警立案，我经历过。
+
+#### 프롬프트
+
+```text
+GM GN
+
+距离2027年仅剩179天，中文区都在讨论gate资金被盗的情况，这位兄台思路很明确，舆论压制，然后报警立案，我经历过。
+
+看看今天Ai圈有啥新闻(萨顿要来上海了)
+
+polo的AI日报 7月9日，20条精选 ⬇️
+
+1. OpenAI
+```
+
+### No. 1292: Amazing Triptych Prompt Nano Banana Crushed It
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hania Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Amazing triptych prompt  Nano Banana crushed it.
+
+#### 프롬프트
+
+```text
+@codewithhajra Amazing triptych prompt  Nano Banana crushed it.
+```
+
+### No. 1293: Peacefull Vibe 🥹 Google Nano Banana 2 Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Peacefull Vibe 🥹
+
+Google Nano Banana 2
+
+Prompt:
+A photorealistic portrait of a beautiful young South Indian woman sitting casually on vibrant green grass, legs crossed, body slightly turned toward the
+
+#### 프롬프트
+
+```text
+A photorealistic portrait of a beautiful young South Indian woman sitting casually on vibrant green grass, legs crossed, body slightly turned toward the camera while her head is turned to her right, gazing off-camera with a soft, https://t.co/SreVMkcpoX
+```
+
+### No. 1294: Peacefull ✌️ Sadie Sink Billie Eilish Sydney Sweeney
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sadie 🥀
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Peacefull ✌️ 
+
+Sadie Sink 
+Billie Eilish 
+Sydney Sweeney 
+Megan Fox 
+
+Nano banana pro prompt:
+A photorealistic portrait of a beautiful young South Indian woman sitting casually on vibrant green grass,
+
+#### 프롬프트
+
+```text
+A photorealistic portrait of a beautiful young South Indian woman sitting casually on vibrant green grass, legs crossed, body slightly turned toward the camera while her head is turned https://t.co/MyGFExvT1d https://t.co/ZJ37u5Cy99
+```
+
+### No. 1295: Image On Google Gemini Nano Banana 2. Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Image on Google Gemini Nano Banana 2.
+
+#### 프롬프트
+
+```text
+Use the exact same face from the reference image and generate a dark creative cinematic portrait where the iconic X logo is architecturally embedded and alive within the background — not printed, not projected, but existing as if https://t.co/WBS9jFBO6e
+```
+
+### No. 1296: Introducing Globalgpt Your All-In-One Ai Workspace 👉 Chat
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shami
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075032563727655139.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075032563727655139.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Introducing GlobalGPT  Your all-in-one AI workspace
+
+👉 
+
+Chat →  GPT-5.5, Gemini 3.5 flash, Claude Opus 4.8...
+
+#### 프롬프트
+
+```text
+@GlbGPT Introducing GlobalGPT @GlbGPT: Your all-in-one AI workspace
+
+👉 
+
+Chat →  GPT-5.5, Gemini 3.5 flash, Claude Opus 4.8...
+AI image → GPT-IMAGE-2, Nano Banana 2...
+AI video → Seedance 2.0, Grok Imagine video 1.5, Sora 2, Kling 3.0...
+AI audio → Eleven Lab
+```
+
+### No. 1297: On July 8, Google Launched An Ai Tool
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AwesomeAI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+On July 8, Google launched an AI tool called "Video Remix" in Google Photos, powered by the Gemini Omni processor.
+
+#### 프롬프트
+
+```text
+On July 8, Google launched an AI tool called "Video Remix" in Google Photos, powered by the Gemini Omni processor. It allows ordinary users to complete cinematic video conversion and trimming with one click in the "Create" tab, without professional skills.....
+```
+
+### No. 1298: Main Character Energy 🔥 Image On Google Gemini
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Main Character Energy 🔥
+
+Image on Google Gemini Nano banana 2.
+
+#### 프롬프트
+
+```text
+Use the exact same face from the reference image and generate a bold confident cinematic portrait with the subject sitting powerfully on a chair against a striking yellow background — clean, punchy, and https://t.co/B2tHS4qOuu
+```
+
+### No. 1299: Ai工具圈最新动态：Meta Muse图像生成器、腾讯Hy3开源代理工具、Google Nano Banana 2 Lite模型、Bytedance Seed 
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Charles
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+AI工具圈最新动态：Meta Muse图像生成器、腾讯Hy3开源代理工具、Google Nano Banana 2 Lite模型、ByteDance Seed Audio 1.0发布。AI视频工具正爆发，内容创作效率飙升。企业级如AWS AI购物助手转化率翻三倍。开发者关注开源选项如claude-video。探索这些工具，拥抱AI未来！
+
+#### 프롬프트
+
+```text
+AI工具圈最新动态：Meta Muse图像生成器、腾讯Hy3开源代理工具、Google Nano Banana 2 Lite模型、ByteDance Seed Audio 1.0发布。AI视频工具正爆发，内容创作效率飙升。企业级如AWS AI购物助手转化率翻三倍。开发者关注开源选项如claude-video。探索这些工具，拥抱AI未来！#AI工具推荐
+```
+
+### No. 1300: She'S Lying On A Ledge A Thousand Feet
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J Bizzle Creative
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075041802042609846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075041802042609846.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+She's lying on a ledge a thousand feet up like it's a Tuesday.
+
+#### 프롬프트
+
+```text
+She's lying on a ledge a thousand feet up like it's a Tuesday.
+
+No drone. No building. No stunt coordinator having a heart attack off-camera.
+
+This is 100% AI-generated — Nano Banana for the character sheet and keyframe, Seedance 2.0 mini for the motion. One fisheye lens prompt
+```
+
+### No. 1301: Gpt Image 2 | Nano Banana 2 |
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dilshad Hussain
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+
+#### 프롬프트
+
+```text
+GPT Image 2 | Nano Banana 2 | Grok | Gemini Prompt 👇
+
+Using uploaded face 100% realistic.
+Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent across all
+```
+
+### No. 1302: Gemini Nano Banana Images Prompt: Use The Uploaded
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Eesha
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini Nano Banana images
+
+Prompt:
+
+Use the uploaded reference image as the absolute reference.
+
+#### 프롬프트
+
+```text
+Use the uploaded reference image as the absolute reference. Preserve the exact facial features, proportions, expression, and composition. A hyperrealistic close-up portrait of a young woman with long layered ash-blonde hair featuring soft https://t.co/zcaoINUbHe
+```
+
+### No. 1303: Meta Just Killed Its Dependency On Midjourney And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Teksart
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Meta just killed its dependency on Midjourney and built its own media generation stack from scratch.
+
+#### 프롬프트
+
+```text
+Meta just killed its dependency on Midjourney and built its own media generation stack from scratch.
+
+Muse Image and Muse Video (preview) launched July 7 — Meta's first in-house image and video models. And they did something genuinely clever.
+
+The killer feature: you can tag an
+```
+
+### No. 1304: Gemini Nano Banana Pro Prompt: Absolute Identity Lock
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** simeon-sanai
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini nano banana pro
+
+ Prompt:
+ABSOLUTE IDENTITY LOCK 
+Use the uploaded reference image as the only identity source.
+
+#### 프롬프트
+
+```text
+ABSOLUTE IDENTITY LOCK 
+Use the uploaded reference image as the only identity source. Preserve the exact facial features, face shape, eye shape, eyebrows, nose, lips, skin tone, freckles, hairstyle, proportions, expression, and overall appearance https://t.co/xwiwjOpYER
+```
+
+### No. 1305: Created With Nano Banana Pro 🎨 Prompt: A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** lovimg_com
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Created with Nano Banana Pro
+
+🎨 Prompt:
+A cinematic macro shot of a small, bright pink flower sprouting through a crack in a cold concrete floor, located exactly within a single dramatic vertical beam
+
+#### 프롬프트
+
+```text
+A cinematic macro shot of a small, bright pink flower sprouting through a crack in a cold concrete floor, located exactly within a single dramatic vertical beam of golden sunlight. The sunlight, with https://t.co/CyzfGekXav
+```
+
+### No. 1306: Created With Nano Banana Pro 🎨 Prompt: A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** lovimg_com
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Created with Nano Banana Pro
+
+🎨 Prompt:
+A professional 3x3 collage featuring the same beautiful young woman photographed from the reference image with normal hair and eyeglasses from a top-down perspe
+
+#### 프롬프트
+
+```text
+A professional 3x3 collage featuring the same beautiful young woman photographed from the reference image with normal hair and eyeglasses from a top-down perspective on a soft white textured blanket.
+```
+
+### No. 1307: 🔥 Oke, Ini Salah Satu Workflow Ai Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** stellar protocol
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075052325228675525.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075052325228675525.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+🔥 Oke, ini salah satu workflow AI video yang menarik banget buat dipelajari 🤯
+
+Gue rasa banyak orang masih fokus ke “bikin video AI”, padahal rahasianya bukan cuma di tools… tapi di cara bikin AI mema
+
+#### 프롬프트
+
+```text
+🔥 Oke, ini salah satu workflow AI video yang menarik banget buat dipelajari 🤯
+
+Gue rasa banyak orang masih fokus ke “bikin video AI”, padahal rahasianya bukan cuma di tools… tapi di cara bikin AI memahami manusia.
+
+Kombinasi kayak:
+🧠 Gemini Omni
+🎨 GPT Images 2
+📱 TikTok
+bisa
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

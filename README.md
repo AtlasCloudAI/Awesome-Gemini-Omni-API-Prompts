@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 A curated collection of Gemini Omni prompt examples with real previews generated via Atlas Cloud.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 1307 |
+| Total Prompts | 1332 |
 | Categories | 8 |
-| Preview Videos | 420 |
-| Last Updated | 07/09/2026 |
+| Preview Videos | 423 |
+| Last Updated | 07/10/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1205)
+### Twitter Community (1230)
 
 ### No. 103: Romantic Nature Portrait Editorial Photography
 
@@ -30862,6 +30862,510 @@ Kombinasi kayak:
 🎨 GPT Images 2
 📱 TikTok
 bisa
+```
+
+### No. 1308: Young Indian woman portrait description
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A detailed prompt for generating a portrait of a young Indian woman with specific hair, skin, and makeup features.
+
+#### Prompt
+
+```text
+A beautiful young Indian woman in her mid-20s, medium-length dark wavy hair with soft side-swept bangs partially covering one eye, fair-to-light brown skin with natural glow, subtle makeup with glossy pink lips and defined
+```
+
+### No. 1309: Photorealistic Face Reference Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Tomilola _Ruth❤️
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for generating a photorealistic image while preserving facial identity from a reference.
+
+#### Prompt
+
+```text
+Use the uploaded image as the facial reference. Do not change my face, facial features, skin tone, facial structure, or identity. Create a photorealistic
+```
+
+### No. 1310: Woman on Velvet Couch in High Rise
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Justice Studio 2.0
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A photorealistic image of a woman with wet dark hair in a black bodysuit on a taupe velvet couch in a modern apartment at night.
+
+#### Prompt
+
+```text
+Photorealistic image of a stunning woman with wet dark hair and glistening skin, reclining seductively on a luxurious taupe velvet couch in a modern high-rise apartment at night. She is wearing a sleek black strapless bodysuit. She is holding a large
+```
+
+### No. 1311: Kerala Woman Anime Vector Streetwear Illustration
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aijaz
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for creating a detailed vector illustration of a young woman in modern streetwear with anime-inspired aesthetics.
+
+#### Prompt
+
+```text
+Create a highly detailed clean vector illustration of a young Kerala woman in a modern branded streetwear style, inspired by high-end anime vector aesthetics with crisp linework, smooth gradient shading, bold color separation
+```
+
+### No. 1312: Sophisticated man with intense gaze
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Picts by AI
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for generating a portrait of a confident, handsome man with sharp features and groomed stubble.
+
+#### Prompt
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back
+```
+
+### No. 1313: Photo-style line drawing ink sketch face
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alex Prompts
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Generate a photo-style line drawing or ink sketch of a face.
+
+#### Prompt
+
+```text
+Create a photo-style line drawing / ink sketch of a face identical to the
+```
+
+### No. 1314: Dreamy Golden Hour Portrait of a Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Isabel
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for a close-up portrait of a young woman outdoors during golden hour with a vivid blue sky.
+
+#### Prompt
+
+```text
+A dreamy, ultra-aesthetic close-up portrait of a beautiful young woman outdoors beneath a vivid cobalt-blue sky during golden hour.
+```
+
+### No. 1315: Botanical Surrealism Fashion Editorial Portrait
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A hyper-realistic fashion editorial portrait of a protagonist in a dynamic ballet pose.
+
+#### Prompt
+
+```text
+A breathtaking, hyper-realistic fashion editorial portrait of The Protagonist caught mid-movement in a dynamic, classical ballet pose en pointe. The setting is an
+```
+
+### No. 1316: Porcelain Skin and Makeup Details
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Simply Ray
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for generating highly realistic skin with porcelain ivory tones, fine pores, and a soft satin glow.
+
+#### Prompt
+
+```text
+[Skin & Makeup Details] Porcelain ivory skin with a cool-neutral undertone, highly realistic skin texture with fine pores still visible, clean flawless face, soft satin skin effect with a natural glow on the cheekbones, nose, and forehead.
+```
+
+### No. 1317: Close-up Portrait of a Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KeorUnreal
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A JSON prompt for generating a close-up portrait of a young woman with specific features.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "A stunning close-up young woman with long wavy dark brown hair, tanned skin, https://t.co/PO5ySMCkMw
+```
+
+### No. 1318: Zombie Skateboarder in Empty City
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heather Green
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A decaying zombie rides a skateboard down a cracked city street at dusk with dramatic side lighting.
+
+#### Prompt
+
+```text
+a decaying zombie riding on a skateboard, tattered clothes flapping in the wind, on an empty cracked city street at dusk, dramatic side lighting casting long eerie shadows
+```
+
+### No. 1319: Charcoal sketch of a man in a cafe
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A vertical charcoal sketch of a handsome man smiling and holding a cup in a bustling cafe.
+
+#### Prompt
+
+```text
+A vertical, artistic charcoal sketch capturing a handsome, cute man in a candid moment at a bustling cafe. He is seated at a wooden table, leaning forward with a gentle, genuine smile, holding a small cup of
+```
+
+### No. 1320: Slow Cinematic Push-in with Subtle Motion
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** getimg.ai
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for a video with a slow cinematic push-in, soft light movement, subtle background motion, and a realistic atmosphere in a 9:16 aspect ratio.
+
+#### Prompt
+
+```text
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+### No. 1321: Close-up of a platinum blonde woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KeorUnreal
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for generating a close-up portrait of a woman with striking features and platinum blonde hair.
+
+#### Prompt
+
+```text
+A close-up of a woman with striking facial features and platinum blonde hair
+```
+
+### No. 1322: Realistic photo of a fit young person
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** J⭕DIE
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for a high-resolution realistic photograph of a fit young individual.
+
+#### Prompt
+
+```text
+A realistic high-resolution photograph of a fit young
+```
+
+### No. 1323: Sunset over old stone walls
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Vireon
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A serene scene of a sunset casting a golden glow on ancient stone walls in a timeless, peaceful setting.
+
+#### Prompt
+
+```text
+The sun was slowly dipping below the horizon, casting a warm, golden glow over the old stone walls. It felt as if time had completely stopped in this hidden corner of the world, leaving behind nothing but peace, elegance, and the gentle whisper of the wind.
+```
+
+### No. 1324: Logo for Workplace and AI Academy Company
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Rotimi Best
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt requesting a simple logo design for an academy teaching businesses daily AI use.
+
+#### Prompt
+
+```text
+I want a new logo for my academy company, 'Workplace  & AI'
+
+The goal is we want to teach businesses how to use AI day to day. I need a simple logo
+```
+
+### No. 1325: Demon Manga Grid with Superhero Explosion
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt to generate a 2x2 grid visualizing four lesser-known demon manga series featuring a superhero bursting from a comic.
+
+#### Prompt
+
+```text
+2x2 grid, do this for 4 lesser known manga's about demons: superhero bursts from a vintage comic book into the real world in a chaotic, hyper-detailed top-down explosion
+```
+
+### No. 1326: Cowgirl Creamed on City Street
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** xaiofm
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A woman in a cowboy hat on a city street receives a whipped cream pie to the face after a humorous exchange.
+
+#### Prompt
+
+```text
+A young woman with long dark hair, wearing a beige cowboy hat, a red lace bralette, and blue jeans, walks casually on a city sidewalk during the day. The camera tracks her, then she turns to face the camera, holding a phone. She smiles and talks. A hand sprays a large amount of whipped cream onto a colorful paper plate she is holding. The camera zooms in on her smiling face. Suddenly, a pie of whipped cream is splatted directly onto her face. She pulls the plate away, revealing her face covered in whipped cream, and laughs joyfully. Realistic, handheld, urban street setting.
+```
+
+### No. 1327: Ultra Photorealistic Cinematic Horror Sequence
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Virena
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for creating a 10-second horror video inspired by specific films, using a reference image as the protagonist.
+
+#### Prompt
+
+```text
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*. Use the provided reference image as the protagonist. ## STYLE Grounded horror. Minimal visual
+```
+
+### No. 1328: Woman on Escalator Cinematic Shot
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Maddox
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for a cinematic scene of a young woman lying on an escalator, viewed from a high overhead angle, with detailed clothing description.
+
+#### Prompt
+
+```text
+A young woman lying on an escalator, shot from a high overhead angle, wearing a pale yellow cropped jacket over a blue knit sweater, dark olive green wide-leg cargo pants, beige Adidas sneakers with white stripes, oval
+```
+
+### No. 1329: Woman in Black Cat-Ear Balaclava Tactical Top
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt to generate an image of a fictional young woman wearing a black knit cat-ear balaclava and matching cropped tactical top.
+
+#### Prompt
+
+```text
+A fictional young woman in a black knit cat-ear balaclava and matching cropped tactical top, shot from a
+```
+
+### No. 1330: Cinematic Double Exposure Fashion Poster
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dilshad Hussain
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for creating a realistic, high-end cinematic double-exposure fashion poster using a specific uploaded face reference.
+
+#### Prompt
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo for the same face, hairstyle, beard, skin tone, and facial features. Composition: a large
+```
+
+### No. 1331: Photorealistic portrait of a blonde woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A detailed prompt for generating a photorealistic full-body portrait of a young woman with fair skin, blue eyes, and long blonde hair.
+
+#### Prompt
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair with soft highlights, center-parted and flowing
+```
+
+### No. 1332: Photorealistic Portrait of Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sadie 🥀
+- **Language:** `en-US`
+- **Video:** [View]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+A prompt for generating a photorealistic full-body portrait of a young woman with fair skin, blue eyes, and long blonde hair.
+
+#### Prompt
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
 ```
 
 This README is auto-generated from locale data in `data/prompts_by_locale`.

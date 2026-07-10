@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1307 |
+| พรอมต์ทั้งหมด | 1332 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 420 |
-| อัปเดตล่าสุด | 09/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 423 |
+| อัปเดตล่าสุด | 10/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1205)
+### Twitter Community (1230)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -30862,6 +30862,510 @@ Kombinasi kayak:
 🎨 GPT Images 2
 📱 TikTok
 bisa
+```
+
+### No. 1308: คำอธิบายภาพบุคคลหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์รายละเอียดสำหรับสร้างภาพบุคคลของหญิงสาวอินเดียที่มีลักษณะผม ผิวหนัง และเครื่องสำอางเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+A beautiful young Indian woman in her mid-20s, medium-length dark wavy hair with soft side-swept bangs partially covering one eye, fair-to-light brown skin with natural glow, subtle makeup with glossy pink lips and defined
+```
+
+### No. 1309: พรอมต์อ้างอิงใบหน้าแบบโฟโตเรียลลิสติก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Tomilola _Ruth❤️
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพโฟโตเรียลลิสติกโดยคงเอกลักษณ์ใบหน้าจากภาพอ้างอิง
+
+#### พรอมต์
+
+```text
+Use the uploaded image as the facial reference. Do not change my face, facial features, skin tone, facial structure, or identity. Create a photorealistic
+```
+
+### No. 1310: หญิงสาวบนโซฟาเวลเวตในตึกสูง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Justice Studio 2.0
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพโฟโตเรียลลิสติกของหญิงสาวผมสีเข้มเปียกชื้นในชุดบอดี้สูทสีดำ นั่งบนโซฟาเวลเวตสีเทาอ่อนในอพาร์ตเมนต์สมัยใหม่ยามค่ำคืน
+
+#### พรอมต์
+
+```text
+Photorealistic image of a stunning woman with wet dark hair and glistening skin, reclining seductively on a luxurious taupe velvet couch in a modern high-rise apartment at night. She is wearing a sleek black strapless bodysuit. She is holding a large
+```
+
+### No. 1311: ภาพประกอบเวกเตอร์สตรีทแวร์หญิงเกรละในสไตล์อนิเมะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aijaz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพประกอบเวกเตอร์ที่มีรายละเอียดของหญิงสาวในชุดสตรีทแวร์สมัยใหม่ด้วยสุนทรียศาสตร์ที่ได้รับแรงบันดาลใจจากอนิเมะ
+
+#### พรอมต์
+
+```text
+Create a highly detailed clean vector illustration of a young Kerala woman in a modern branded streetwear style, inspired by high-end anime vector aesthetics with crisp linework, smooth gradient shading, bold color separation
+```
+
+### No. 1312: สุภาพบุรุษผู้สง่างามกับสายตาที่แหลมคม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลของผู้ชายที่มั่นใจ หล่อเหลา มีใบหน้าที่คมชัด และมีหนวดเคราที่ดูแลเรียบร้อย
+
+#### พรอมต์
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back
+```
+
+### No. 1313: ภาพวาดเส้นหรือสเก็ตช์หมึกใบหน้าแบบภาพถ่าย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+สร้างภาพวาดเส้นหรือสเก็ตช์หมึกใบหน้าในสไตล์ภาพถ่าย
+
+#### พรอมต์
+
+```text
+Create a photo-style line drawing / ink sketch of a face identical to the
+```
+
+### No. 1314: ภาพหญิงสาวยามพระอาทิตย์ตกอันแสนฝัน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Isabel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพบุคคลระยะใกล้ของหญิงสาวกลางแจ้งในช่วงเวลาทอง (Golden Hour) พร้อมท้องฟ้าสีฟ้าสดใส
+
+#### พรอมต์
+
+```text
+A dreamy, ultra-aesthetic close-up portrait of a beautiful young woman outdoors beneath a vivid cobalt-blue sky during golden hour.
+```
+
+### No. 1315: ภาพแฟชั่นบรรณาธิการแนวย้อนยุคพฤกษศาสตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพแฟชั่นบรรณาธิการที่มีความสมจริงสูงของตัวเอกในท่าเต้นบัลเลต์ที่มีพลัง
+
+#### พรอมต์
+
+```text
+A breathtaking, hyper-realistic fashion editorial portrait of The Protagonist caught mid-movement in a dynamic, classical ballet pose en pointe. The setting is an
+```
+
+### No. 1316: รายละเอียดผิวพอร์ซเลนและเครื่องสำอาง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Simply Ray
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างผิวหนังที่มีความสมจริงสูงด้วยโทนสีงาช้างแบบพอร์ซเลน รูขุมขนละเอียด และมีแสงเงาแบบซาตินนุ่มนวล
+
+#### พรอมต์
+
+```text
+[Skin & Makeup Details] Porcelain ivory skin with a cool-neutral undertone, highly realistic skin texture with fine pores still visible, clean flawless face, soft satin skin effect with a natural glow on the cheekbones, nose, and forehead.
+```
+
+### No. 1317: ภาพบุคคลระยะใกล้ของหญิงสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ JSON สำหรับสร้างภาพบุคคลระยะใกล้ของหญิงสาวที่มีลักษณะเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "description": "A stunning close-up young woman with long wavy dark brown hair, tanned skin, https://t.co/PO5ySMCkMw
+```
+
+### No. 1318: นักสเกตบอร์ดซอมบี้ในเมืองร้าง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heather Green
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ซอมบี้ที่กำลังเน่าเปื่อยขี่สเกตบอร์ดลงมาตามถนนในเมืองที่แตกร้าวในยามพลบค่ำ พร้อมแสงส่องจากด้านข้างที่ดราม่า
+
+#### พรอมต์
+
+```text
+a decaying zombie riding on a skateboard, tattered clothes flapping in the wind, on an empty cracked city street at dusk, dramatic side lighting casting long eerie shadows
+```
+
+### No. 1319: ภาพสเก็ตช์ถ่านไม้ของชายในร้านกาแฟ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพสเก็ตช์ถ่านไม้แนวตั้งของชายหน้าตาดียิ้มและถือถ้วยกาแฟในร้านกาแฟที่คึกคัก
+
+#### พรอมต์
+
+```text
+A vertical, artistic charcoal sketch capturing a handsome, cute man in a candid moment at a bustling cafe. He is seated at a wooden table, leaning forward with a gentle, genuine smile, holding a small cup of
+```
+
+### No. 1320: การเคลื่อนกล้องเข้าแบบภาพยนตร์ช้าๆ พร้อมการเคลื่อนไหวแผ่วเบา
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** getimg.ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับวิดีโอที่มีการเคลื่อนกล้องเข้าแบบภาพยนตร์ช้าๆ แสงเคลื่อนไหวอ่อนนุ่ม พื้นหลังเคลื่อนไหวแผ่วเบา และบรรยากาศสมจริงในอัตราส่วน 9:16
+
+#### พรอมต์
+
+```text
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+### No. 1321: ภาพระยะใกล้ของหญิงสาวผมบลอนด์แพลตตินัม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเหมือนระยะใกล้ของหญิงสาวที่มีลักษณะเด่นสะดุดตาและผมบลอนด์แพลตตินัม
+
+#### พรอมต์
+
+```text
+A close-up of a woman with striking facial features and platinum blonde hair
+```
+
+### No. 1322: ภาพถ่ายสมจริงของคนหนุ่มสาวสุขภาพดี
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** J⭕DIE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับภาพถ่ายสมจริงความละเอียดสูงของบุคคลหนุ่มสาวที่มีสุขภาพดี
+
+#### พรอมต์
+
+```text
+A realistic high-resolution photograph of a fit young
+```
+
+### No. 1323: พระอาทิตย์ตกเหนือกำแพงหินเก่าแก่
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Vireon
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพอันเงียบสงบของพระอาทิตย์ตกที่สาดแสงสีทองบนกำแพงหินโบราณ ในบรรยากาศที่สงบนิ่งไร้กาลเวลา
+
+#### พรอมต์
+
+```text
+The sun was slowly dipping below the horizon, casting a warm, golden glow over the old stone walls. It felt as if time had completely stopped in this hidden corner of the world, leaving behind nothing but peace, elegance, and the gentle whisper of the wind.
+```
+
+### No. 1324: โลโก้สำหรับบริษัทสอนการใช้ AI ในที่ทำงาน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Rotimi Best
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งขอออกแบบโลโก้ง่ายๆ สำหรับสถาบันที่สอนธุรกิจเกี่ยวกับการใช้ AI ในชีวิตประจำวัน
+
+#### พรอมต์
+
+```text
+I want a new logo for my academy company, 'Workplace  & AI'
+
+The goal is we want to teach businesses how to use AI day to day. I need a simple logo
+```
+
+### No. 1325: ตารางมังงะปีศาจกับการระเบิดของซูเปอร์ฮีโร่
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างตาราง 2x2 แสดงภาพมังงะเกี่ยวกับปีศาจสี่เรื่องที่รู้จักน้อยกว่า โดยมีซูเปอร์ฮีโร่ระเบิดออกมาจากการ์ตูน
+
+#### พรอมต์
+
+```text
+2x2 grid, do this for 4 lesser known manga's about demons: superhero bursts from a vintage comic book into the real world in a chaotic, hyper-detailed top-down explosion
+```
+
+### No. 1326: คาวเกิร์ลโดนพายวิปครีมบนถนนในเมือง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** xaiofm
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+หญิงสาวในหมวกคาวบอยบนถนนในเมืองได้รับพายวิปครีมปะทะหน้า หลังจากมีการพูดคุยขำขัน
+
+#### พรอมต์
+
+```text
+A young woman with long dark hair, wearing a beige cowboy hat, a red lace bralette, and blue jeans, walks casually on a city sidewalk during the day. The camera tracks her, then she turns to face the camera, holding a phone. She smiles and talks. A hand sprays a large amount of whipped cream onto a colorful paper plate she is holding. The camera zooms in on her smiling face. Suddenly, a pie of whipped cream is splatted directly onto her face. She pulls the plate away, revealing her face covered in whipped cream, and laughs joyfully. Realistic, handheld, urban street setting.
+```
+
+### No. 1327: ลำดับภาพสยองขวัญแบบภาพยนตร์สมจริงพิเศษ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Virena
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างวิดีโอสยองขวัญความยาว 10 วินาที โดยได้รับแรงบันดาลใจจากภาพยนตร์เฉพาะ โดยใช้ภาพอ้างอิงเป็นตัวละครหลัก
+
+#### พรอมต์
+
+```text
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*. Use the provided reference image as the protagonist. ## STYLE Grounded horror. Minimal visual
+```
+
+### No. 1328: ภาพยนตร์ฉากหญิงสาวบนบันไดเลื่อน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับฉากภาพยนตร์ของหญิงสาวนอนอยู่บนบันไดเลื่อน มุมมองจากด้านบนสูง พร้อมคำอธิบายเสื้อผ้าโดยละเอียด
+
+#### พรอมต์
+
+```text
+A young woman lying on an escalator, shot from a high overhead angle, wearing a pale yellow cropped jacket over a blue knit sweater, dark olive green wide-leg cargo pants, beige Adidas sneakers with white stripes, oval
+```
+
+### No. 1329: หญิงสาวในเสื้อท็อปแทคติคัลและบาลาคลาวะหูแมวสีดำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพหญิงสาววัยหนุ่มสาวในจินตนาการ สวมบาลาคลาวะถักหูแมวสีดำและเสื้อท็อปแทคติคัลคับสีเดียวกัน
+
+#### พรอมต์
+
+```text
+A fictional young woman in a black knit cat-ear balaclava and matching cropped tactical top, shot from a
+```
+
+### No. 1330: โปสเตอร์แฟชั่นภาพซ้อนแบบภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dilshad Hussain
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างโปสเตอร์แฟชั่นภาพซ้อนระดับไฮเอนด์สมจริงแบบภาพยนตร์ โดยใช้ภาพใบหน้าที่อัปโหลดเป็นต้นแบบ
+
+#### พรอมต์
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo for the same face, hairstyle, beard, skin tone, and facial features. Composition: a large
+```
+
+### No. 1331: ภาพเหมือนสมจริงของหญิงผมบลอนด์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งโดยละเอียดสำหรับสร้างภาพเหมือนเต็มตัวสมจริงของหญิงสาวผิวขาว ตาสีฟ้า และผมบลอนด์ยาว
+
+#### พรอมต์
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair with soft highlights, center-parted and flowing
+```
+
+### No. 1332: ภาพเหมือนสมจริงของหญิงสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sadie 🥀
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเหมือนเต็มตัวสมจริงของหญิงสาวผิวขาว ตาสีฟ้า ผมบลอนด์ยาว
+
+#### พรอมต์
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

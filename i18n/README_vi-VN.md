@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 1307 |
+| Tong so Prompt | 1332 |
 | So danh muc | 8 |
-| So video xem truoc | 420 |
-| Cap nhat lan cuoi | 09/07/2026 |
+| So video xem truoc | 423 |
+| Cap nhat lan cuoi | 10/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1205)
+### Twitter Community (1230)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -30862,6 +30862,510 @@ Kombinasi kayak:
 🎨 GPT Images 2
 📱 TikTok
 bisa
+```
+
+### No. 1308: Mô tả chân dung phụ nữ trẻ Ấn Độ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chi tiết để tạo ra chân dung của một phụ nữ trẻ Ấn Độ với các đặc điểm cụ thể về tóc, da và trang điểm.
+
+#### Prompt
+
+```text
+A beautiful young Indian woman in her mid-20s, medium-length dark wavy hair with soft side-swept bangs partially covering one eye, fair-to-light brown skin with natural glow, subtle makeup with glossy pink lips and defined
+```
+
+### No. 1309: Gợi ý Tham chiếu Khuôn mặt Chân thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Tomilola _Ruth❤️
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra hình ảnh chân thực trong khi vẫn giữ được đặc điểm nhận dạng khuôn mặt từ một hình ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Use the uploaded image as the facial reference. Do not change my face, facial features, skin tone, facial structure, or identity. Create a photorealistic
+```
+
+### No. 1310: Người phụ nữ trên Ghế Velvet ở Chung cư Cao tầng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Justice Studio 2.0
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một hình ảnh chân thực như ảnh chụp của một phụ nữ với mái tóc đen ướt mặc bodysuit đen trên ghế sofa velvet màu nâu xám trong một căn hộ hiện đại vào ban đêm.
+
+#### Prompt
+
+```text
+Photorealistic image of a stunning woman with wet dark hair and glistening skin, reclining seductively on a luxurious taupe velvet couch in a modern high-rise apartment at night. She is wearing a sleek black strapless bodysuit. She is holding a large
+```
+
+### No. 1311: Hình minh họa Vector Streetwear Phong cách Anime Phụ nữ Kerala
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aijaz
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra hình minh họa vector chi tiết của một phụ nữ trẻ trong trang phục streetwear hiện đại với thẩm mỹ lấy cảm hứng từ anime.
+
+#### Prompt
+
+```text
+Create a highly detailed clean vector illustration of a young Kerala woman in a modern branded streetwear style, inspired by high-end anime vector aesthetics with crisp linework, smooth gradient shading, bold color separation
+```
+
+### No. 1312: Người đàn ông lịch lãm với ánh nhìn mãnh liệt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra chân dung của một người đàn ông tự tin, đẹp trai với đường nét sắc sảo và râu cạo gọn gàng.
+
+#### Prompt
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back
+```
+
+### No. 1313: Khuôn mặt vẽ phác nét mực kiểu ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Alex Prompts
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Tạo một bản vẽ phác nét mực hoặc phác họa bằng mực kiểu ảnh của một khuôn mặt.
+
+#### Prompt
+
+```text
+Create a photo-style line drawing / ink sketch of a face identical to the
+```
+
+### No. 1314: Chân dung Phụ nữ Mơ màng trong Giờ Vàng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Isabel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho chân dung cận mặt của một phụ nữ trẻ ngoài trời trong giờ vàng với bầu trời xanh rực rỡ.
+
+#### Prompt
+
+```text
+A dreamy, ultra-aesthetic close-up portrait of a beautiful young woman outdoors beneath a vivid cobalt-blue sky during golden hour.
+```
+
+### No. 1315: Chân dung Biên tập Thời trang Siêu thực Thực vật
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một chân dung biên tập thời trang siêu thực của một nhân vật chính trong tư thế múa ba lê năng động.
+
+#### Prompt
+
+```text
+A breathtaking, hyper-realistic fashion editorial portrait of The Protagonist caught mid-movement in a dynamic, classical ballet pose en pointe. The setting is an
+```
+
+### No. 1316: Chi tiết Da Sứ và Trang điểm
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Simply Ray
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra làn da siêu thực với tông màu ngà sứ, lỗ chân lông mịn và ánh sáng satin mềm mại.
+
+#### Prompt
+
+```text
+[Skin & Makeup Details] Porcelain ivory skin with a cool-neutral undertone, highly realistic skin texture with fine pores still visible, clean flawless face, soft satin skin effect with a natural glow on the cheekbones, nose, and forehead.
+```
+
+### No. 1317: Chân dung Cận mặt của một Phụ nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KeorUnreal
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý JSON để tạo ra chân dung cận mặt của một phụ nữ trẻ với các đặc điểm cụ thể.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "A stunning close-up young woman with long wavy dark brown hair, tanned skin, https://t.co/PO5ySMCkMw
+```
+
+### No. 1318: Tay trượt ván Thây ma trong Thành phố Trống vắng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heather Green
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một thây ma đang phân hủy trượt ván xuống một con phố thành phố nứt nẻ vào lúc hoàng hôn với ánh sáng bên kịch tính.
+
+#### Prompt
+
+```text
+a decaying zombie riding on a skateboard, tattered clothes flapping in the wind, on an empty cracked city street at dusk, dramatic side lighting casting long eerie shadows
+```
+
+### No. 1319: Bản phác than chì của một người đàn ông trong quán cà phê
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bản phác than chì theo chiều dọc của một người đàn ông đẹp trai đang mỉm cười và cầm tách trong một quán cà phê nhộn nhịp.
+
+#### Prompt
+
+```text
+A vertical, artistic charcoal sketch capturing a handsome, cute man in a candid moment at a bustling cafe. He is seated at a wooden table, leaning forward with a gentle, genuine smile, holding a small cup of
+```
+
+### No. 1320: Cảnh Đẩy vào Chậm Điện ảnh với Chuyển động Tinh tế
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** getimg.ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một video với cảnh đẩy vào chậm mang phong cách điện ảnh, chuyển động ánh sáng mềm mại, chuyển động nền tinh tế và bầu không khí chân thực với tỷ lệ khung hình 9:16.
+
+#### Prompt
+
+```text
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+### No. 1321: Cận cảnh một người phụ nữ tóc vàng bạch kim
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KeorUnreal
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung cận cảnh của một người phụ nữ với những đường nét nổi bật và mái tóc vàng bạch kim.
+
+#### Prompt
+
+```text
+A close-up of a woman with striking facial features and platinum blonde hair
+```
+
+### No. 1322: Ảnh chân thực của một người trẻ khỏe mạnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** J⭕DIE
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một bức ảnh chân thực độ phân giải cao của một cá nhân trẻ tuổi khỏe mạnh.
+
+#### Prompt
+
+```text
+A realistic high-resolution photograph of a fit young
+```
+
+### No. 1323: Hoàng hôn trên những bức tường đá cổ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Vireon
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một khung cảnh thanh bình của hoàng hôn tỏa ánh sáng vàng lên những bức tường đá cổ trong một khung cảnh yên tĩnh, vượt thời gian.
+
+#### Prompt
+
+```text
+The sun was slowly dipping below the horizon, casting a warm, golden glow over the old stone walls. It felt as if time had completely stopped in this hidden corner of the world, leaving behind nothing but peace, elegance, and the gentle whisper of the wind.
+```
+
+### No. 1324: Logo cho Công ty Học viện Nơi làm việc và AI
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Rotimi Best
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý yêu cầu thiết kế logo đơn giản cho một học viện dạy các doanh nghiệp sử dụng AI hàng ngày.
+
+#### Prompt
+
+```text
+I want a new logo for my academy company, 'Workplace  & AI'
+
+The goal is we want to teach businesses how to use AI day to day. I need a simple logo
+```
+
+### No. 1325: Lưới Truyện tranh Quỷ với Vụ nổ Siêu anh hùng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Gadgetify
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một lưới 2x2 hình ảnh hóa bốn bộ truyện tranh quỷ ít được biết đến có cảnh một siêu anh hùng bùng nổ từ một cuốn truyện tranh.
+
+#### Prompt
+
+```text
+2x2 grid, do this for 4 lesser known manga's about demons: superhero bursts from a vintage comic book into the real world in a chaotic, hyper-detailed top-down explosion
+```
+
+### No. 1326: Cô Gái Cao bồi Bị Bắn Kem trên Phố
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** xaiofm
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người phụ nữ đội mũ cao bồi trên phố phố nhận một chiếc bánh kem đánh bông vào mặt sau một cuộc trao đổi hài hước.
+
+#### Prompt
+
+```text
+A young woman with long dark hair, wearing a beige cowboy hat, a red lace bralette, and blue jeans, walks casually on a city sidewalk during the day. The camera tracks her, then she turns to face the camera, holding a phone. She smiles and talks. A hand sprays a large amount of whipped cream onto a colorful paper plate she is holding. The camera zooms in on her smiling face. Suddenly, a pie of whipped cream is splatted directly onto her face. She pulls the plate away, revealing her face covered in whipped cream, and laughs joyfully. Realistic, handheld, urban street setting.
+```
+
+### No. 1327: Phân cảnh Kinh dị Điện ảnh Siêu Chân thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Virena
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo một video kin dị dài 10 giây lấy cảm hứng từ các bộ phim cụ thể, sử dụng một hình ảnh tham khảo làm nhân vật chính.
+
+#### Prompt
+
+```text
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*. Use the provided reference image as the protagonist. ## STYLE Grounded horror. Minimal visual
+```
+
+### No. 1328: Cảnh Quay Điện ảnh Người Phụ nữ trên Thang cuốn
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Maddox
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một cảnh điện ảnh về một người phụ nữ trẻ nằm trên thang cuốn, được nhìn từ góc cao phía trên, với mô tả chi tiết về trang phục.
+
+#### Prompt
+
+```text
+A young woman lying on an escalator, shot from a high overhead angle, wearing a pale yellow cropped jacket over a blue knit sweater, dark olive green wide-leg cargo pants, beige Adidas sneakers with white stripes, oval
+```
+
+### No. 1329: Người Phụ nữ trong Áo Tactic Crop và Balaclava Tai Mèo Đen
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra hình ảnh của một người phụ nữ trẻ hư cấu đội balaclava tai mèo đan màu đen và mặc áo tactic crop phối hợp.
+
+#### Prompt
+
+```text
+A fictional young woman in a black knit cat-ear balaclava and matching cropped tactical top, shot from a
+```
+
+### No. 1330: Áp phích Thời trang Phơi sáng Kép Điện ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Dilshad Hussain
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một áp phích thời trang phơi sáng kép điện ảnh chân thực, cao cấp bằng cách sử dụng một tài liệu tham khảo khuôn mặt đã tải lên cụ thể.
+
+#### Prompt
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo for the same face, hairstyle, beard, skin tone, and facial features. Composition: a large
+```
+
+### No. 1331: Chân dung chân thực của một người phụ nữ tóc vàng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chi tiết để tạo ra bức chân dung toàn thân chân thực như ảnh chụp của một người phụ nữ trẻ với làn da trắng, mắt xanh và mái tóc vàng dài.
+
+#### Prompt
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair with soft highlights, center-parted and flowing
+```
+
+### No. 1332: Chân dung Chân thực của Người Phụ nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sadie 🥀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra bức chân dung toàn thân chân thực như ảnh chụp của một người phụ nữ trẻ với làn da trắng, mắt xanh và mái tóc vàng dài.
+
+#### Prompt
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

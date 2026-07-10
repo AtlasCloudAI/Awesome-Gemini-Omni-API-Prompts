@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1307 |
+| 総プロンプト数 | 1332 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 420 |
-| 最終更新 | 2026/07/09 |
+| プレビュー動画数 | 423 |
+| 最終更新 | 2026/07/10 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1205)
+### Twitter Community (1230)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -30862,6 +30862,510 @@ Kombinasi kayak:
 🎨 GPT Images 2
 📱 TikTok
 bisa
+```
+
+### No. 1308: 若いインド人女性のポートレート詳細説明
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の髪、肌、メイクの特徴を持つ若いインド人女性のポートレートを生成するための詳細なプロンプトです。
+
+#### プロンプト
+
+```text
+A beautiful young Indian woman in her mid-20s, medium-length dark wavy hair with soft side-swept bangs partially covering one eye, fair-to-light brown skin with natural glow, subtle makeup with glossy pink lips and defined
+```
+
+### No. 1309: 写真のようにリアルな顔の参照プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tomilola _Ruth❤️
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像から顔の同一性を保ちながら、写真のようにリアルな画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use the uploaded image as the facial reference. Do not change my face, facial features, skin tone, facial structure, or identity. Create a photorealistic
+```
+
+### No. 1310: 高層ビル内のベルベットソファに座る女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Justice Studio 2.0
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夜のモダンなアパートメントで、タウプ色のベルベットソファに、濡れた黒髪と黒いボディスーツ姿の女性が写る、写真のようにリアルな画像です。
+
+#### プロンプト
+
+```text
+Photorealistic image of a stunning woman with wet dark hair and glistening skin, reclining seductively on a luxurious taupe velvet couch in a modern high-rise apartment at night. She is wearing a sleek black strapless bodysuit. She is holding a large
+```
+
+### No. 1311: ケララの女性 アニメ風ベクターストリートウェアイラスト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aijaz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+アニメ風の美学を取り入れたモダンなストリートウェアを着た若い女性の詳細なベクターイラストを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a highly detailed clean vector illustration of a young Kerala woman in a modern branded streetwear style, inspired by high-end anime vector aesthetics with crisp linework, smooth gradient shading, bold color separation
+```
+
+### No. 1312: 鋭い眼差しの洗練された男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シャープな顔立ちと整えられた無精ひげを持つ、自信に満ちたハンサムな男性のポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back
+```
+
+### No. 1313: 写真風のラインドローイング・インクスケッチ顔
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+写真風のラインドローイングまたはインクスケッチで描かれた顔を生成します。
+
+#### プロンプト
+
+```text
+Create a photo-style line drawing / ink sketch of a face identical to the
+```
+
+### No. 1314: 女性の夢想的なゴールデンアワーのポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Isabel
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ゴールデンアワーに屋外で、鮮やかな青空を背景にした若い女性のクローズアップポートレートのプロンプトです。
+
+#### プロンプト
+
+```text
+A dreamy, ultra-aesthetic close-up portrait of a beautiful young woman outdoors beneath a vivid cobalt-blue sky during golden hour.
+```
+
+### No. 1315: 植物のシュールレアリズム ファッション編集ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ダイナミックなバレエのポーズをとる主人公を描いた、ハイパーリアリズムのファッション編集ポートレートです。
+
+#### プロンプト
+
+```text
+A breathtaking, hyper-realistic fashion editorial portrait of The Protagonist caught mid-movement in a dynamic, classical ballet pose en pointe. The setting is an
+```
+
+### No. 1316: 磁器のような肌とメイクの詳細
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Simply Ray
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+磁器のようなアイボリー色調の肌、細かい毛穴、柔らかなサテン調の輝きを持つ、非常にリアルな肌を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+[Skin & Makeup Details] Porcelain ivory skin with a cool-neutral undertone, highly realistic skin texture with fine pores still visible, clean flawless face, soft satin skin effect with a natural glow on the cheekbones, nose, and forehead.
+```
+
+### No. 1317: 若い女性のクローズアップポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の特徴を持つ若い女性のクローズアップポートレートを生成するためのJSONプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "description": "A stunning close-up young woman with long wavy dark brown hair, tanned skin, https://t.co/PO5ySMCkMw
+```
+
+### No. 1318: 廃墟の街を滑走するゾンビスケートボーダー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+朽ちかけたゾンビが、夕暮れ時のひび割れた街路をスケートボードで滑り降り、ドラマチックなサイドライティングが施された様子です。
+
+#### プロンプト
+
+```text
+a decaying zombie riding on a skateboard, tattered clothes flapping in the wind, on an empty cracked city street at dusk, dramatic side lighting casting long eerie shadows
+```
+
+### No. 1319: カフェにいる男性の木炭スケッチ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+にぎやかなカフェで、カップを持って微笑むハンサムな男性の縦向きの木炭スケッチです。
+
+#### プロンプト
+
+```text
+A vertical, artistic charcoal sketch capturing a handsome, cute man in a candid moment at a bustling cafe. He is seated at a wooden table, leaning forward with a gentle, genuine smile, holding a small cup of
+```
+
+### No. 1320: 微細な動きを伴うスローシネマティックプッシュイン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** getimg.ai
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+スローなシネマティックプッシュイン、柔らかな光の動き、微細な背景の動き、9:16アスペクト比でのリアルな雰囲気を持つビデオのためのプロンプトです。
+
+#### プロンプト
+
+```text
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+### No. 1321: プラチナブロンド女性のクローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+印象的な特徴とプラチナブロンドの髪を持つ女性のクローズアップ肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A close-up of a woman with striking facial features and platinum blonde hair
+```
+
+### No. 1322: 健康的な若者のリアルな写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** J⭕DIE
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+健康的な若者の高解像度リアル写真のためのプロンプトです。
+
+#### プロンプト
+
+```text
+A realistic high-resolution photograph of a fit young
+```
+
+### No. 1323: 古い石壁に沈む夕日
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Vireon
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+古い石壁に黄金の輝きを投げかける夕日の、時を超えた平和な情景です。
+
+#### プロンプト
+
+```text
+The sun was slowly dipping below the horizon, casting a warm, golden glow over the old stone walls. It felt as if time had completely stopped in this hidden corner of the world, leaving behind nothing but peace, elegance, and the gentle whisper of the wind.
+```
+
+### No. 1324: 職場とAIアカデミー企業のロゴ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Rotimi Best
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+企業に日々のAI活用を教えるアカデミーのためのシンプルなロゴデザインを依頼するプロンプトです。
+
+#### プロンプト
+
+```text
+I want a new logo for my academy company, 'Workplace  & AI'
+
+The goal is we want to teach businesses how to use AI day to day. I need a simple logo
+```
+
+### No. 1325: スーパーヒーロー爆発を伴う悪魔漫画グリッド
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+コミックから飛び出すスーパーヒーローをフィーチャーした、4つのあまり知られていない悪魔漫画シリーズを可視化する2x2グリッドを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+2x2 grid, do this for 4 lesser known manga's about demons: superhero bursts from a vintage comic book into the real world in a chaotic, hyper-detailed top-down explosion
+```
+
+### No. 1326: 街路でホイップクリームパイを顔に受け止めるカウガール
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** xaiofm
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カウボーイハットをかぶった女性が街路で、ユーモラスなやりとりの後、顔にホイップクリームパイを受け止める様子です。
+
+#### プロンプト
+
+```text
+A young woman with long dark hair, wearing a beige cowboy hat, a red lace bralette, and blue jeans, walks casually on a city sidewalk during the day. The camera tracks her, then she turns to face the camera, holding a phone. She smiles and talks. A hand sprays a large amount of whipped cream onto a colorful paper plate she is holding. The camera zooms in on her smiling face. Suddenly, a pie of whipped cream is splatted directly onto her face. She pulls the plate away, revealing her face covered in whipped cream, and laughs joyfully. Realistic, handheld, urban street setting.
+```
+
+### No. 1327: 超高精細シネマティックホラーシーケンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Virena
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の映画にインスパイアされた10秒間のホラービデオを、リファレンス画像を主人公として作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*. Use the provided reference image as the protagonist. ## STYLE Grounded horror. Minimal visual
+```
+
+### No. 1328: エスカレーターに横たわる女性のシネマティックショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+高い俯瞰角度から見た、エスカレーターに横たわる若い女性のシネマティックなシーンで、衣装の詳細な描写を含むプロンプトです。
+
+#### プロンプト
+
+```text
+A young woman lying on an escalator, shot from a high overhead angle, wearing a pale yellow cropped jacket over a blue knit sweater, dark olive green wide-leg cargo pants, beige Adidas sneakers with white stripes, oval
+```
+
+### No. 1329: 黒い猫耳バラクラバとタクティカルトップを着た女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黒いニットの猫耳バラクラバとそれに合わせたクロップドのタクティカルトップを着た、架空の若い女性の画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A fictional young woman in a black knit cat-ear balaclava and matching cropped tactical top, shot from a
+```
+
+### No. 1330: シネマティックなダブルエクスポージャーファッションポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dilshad Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定のアップロードされた顔のリファレンス画像を使用して、リアルで高級感のあるシネマティックなダブルエクスポージャーのファッションポスターを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo for the same face, hairstyle, beard, skin tone, and facial features. Composition: a large
+```
+
+### No. 1331: ブロンド女性のフォトリアリスティックな肖像画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+色白の肌、青い瞳、長いブロンドの髪を持つ若い女性の全身を捉えた、詳細なフォトリアリスティックな肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair with soft highlights, center-parted and flowing
+```
+
+### No. 1332: 若い女性のフォトリアリスティックな肖像画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sadie 🥀
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+色白の肌、青い瞳、長いブロンドの髪を持つ若い女性の全身を捉えた、フォトリアリスティックな肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

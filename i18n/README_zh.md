@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1307 |
+| 提示词总数 | 1332 |
 | 分类数 | 16 |
-| 预览视频数 | 420 |
-| 最后更新 | 2026/07/09 |
+| 预览视频数 | 423 |
+| 最后更新 | 2026/07/10 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1205)
+### Twitter Community (1230)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -30902,6 +30902,510 @@ Kombinasi kayak:
 🎨 GPT Images 2
 📱 TikTok
 bisa
+```
+
+### No. 1308: 年轻印度女性肖像描述
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于生成具有特定发型、肤色和妆容特征的年轻印度女性肖像的详细提示词。
+
+#### 提示词
+
+```text
+A beautiful young Indian woman in her mid-20s, medium-length dark wavy hair with soft side-swept bangs partially covering one eye, fair-to-light brown skin with natural glow, subtle makeup with glossy pink lips and defined
+```
+
+### No. 1309: 照片级人脸参考提示词
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tomilola _Ruth❤️
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于生成照片级写实图像，同时保留参考图像中面部特征的提示词。
+
+#### 提示词
+
+```text
+Use the uploaded image as the facial reference. Do not change my face, facial features, skin tone, facial structure, or identity. Create a photorealistic
+```
+
+### No. 1310: 高楼中天鹅绒沙发上的女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Justice Studio 2.0
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅照片级写实图像：夜晚，现代公寓内，一位深色湿发、身着黑色紧身连体衣的女性躺在灰褐色天鹅绒沙发上。
+
+#### 提示词
+
+```text
+Photorealistic image of a stunning woman with wet dark hair and glistening skin, reclining seductively on a luxurious taupe velvet couch in a modern high-rise apartment at night. She is wearing a sleek black strapless bodysuit. She is holding a large
+```
+
+### No. 1311: 喀拉拉邦女性动漫矢量街头风插画
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于创作身着现代街头服饰、具有动漫美学风格的年轻女性详细矢量插画的提示词。
+
+#### 提示词
+
+```text
+Create a highly detailed clean vector illustration of a young Kerala woman in a modern branded streetwear style, inspired by high-end anime vector aesthetics with crisp linework, smooth gradient shading, bold color separation
+```
+
+### No. 1312: 目光深邃的成熟男士
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于生成一位自信、英俊、五官分明、胡须修剪得体的男性肖像的提示词。
+
+#### 提示词
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back
+```
+
+### No. 1313: 照片风格线条素描人脸
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+生成一张照片风格的线条画或水墨素描人脸。
+
+#### 提示词
+
+```text
+Create a photo-style line drawing / ink sketch of a face identical to the
+```
+
+### No. 1314: 梦幻黄金时刻女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Isabel
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于生成黄金时刻户外场景下、背景为生动蓝天的年轻女性特写肖像的提示词。
+
+#### 提示词
+
+```text
+A dreamy, ultra-aesthetic close-up portrait of a beautiful young woman outdoors beneath a vivid cobalt-blue sky during golden hour.
+```
+
+### No. 1315: 植物超现实主义时尚编辑肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅超写实时尚编辑肖像，主角呈现动态芭蕾舞姿。
+
+#### 提示词
+
+```text
+A breathtaking, hyper-realistic fashion editorial portrait of The Protagonist caught mid-movement in a dynamic, classical ballet pose en pointe. The setting is an
+```
+
+### No. 1316: 瓷肌与妆容细节
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Simply Ray
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于生成高度逼真、呈现瓷白象牙色调、细腻毛孔及柔和缎面光泽的皮肤的提示词。
+
+#### 提示词
+
+```text
+[Skin & Makeup Details] Porcelain ivory skin with a cool-neutral undertone, highly realistic skin texture with fine pores still visible, clean flawless face, soft satin skin effect with a natural glow on the cheekbones, nose, and forehead.
+```
+
+### No. 1317: 年轻女性特写肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一份用于生成具有特定面部特征的年轻女性特写肖像的JSON提示词。
+
+#### 提示词
+
+```text
+{
+  "subject": {
+    "description": "A stunning close-up young woman with long wavy dark brown hair, tanned skin, https://t.co/PO5ySMCkMw
+```
+
+### No. 1318: 空城中滑板的僵尸
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个腐烂的僵尸在黄昏时分，沿着开裂的城市街道滑滑板，侧光营造出戏剧性的效果。
+
+#### 提示词
+
+```text
+a decaying zombie riding on a skateboard, tattered clothes flapping in the wind, on an empty cracked city street at dusk, dramatic side lighting casting long eerie shadows
+```
+
+### No. 1319: 咖啡馆中男子的炭笔素描
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅竖版炭笔素描，描绘一位英俊男子在繁忙的咖啡馆中微笑着手持杯子的场景。
+
+#### 提示词
+
+```text
+A vertical, artistic charcoal sketch capturing a handsome, cute man in a candid moment at a bustling cafe. He is seated at a wooden table, leaning forward with a gentle, genuine smile, holding a small cup of
+```
+
+### No. 1320: 缓慢电影感推镜与微妙运动
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** getimg.ai
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作视频的提示：包含缓慢的电影感推镜、柔和的光线移动、微妙的背景运动以及9:16画幅下的真实氛围。
+
+#### 提示词
+
+```text
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+### No. 1321: 铂金色头发女性特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有鲜明特征和铂金色头发女性特写肖像的提示。
+
+#### 提示词
+
+```text
+A close-up of a woman with striking facial features and platinum blonde hair
+```
+
+### No. 1322: 健壮年轻人的真实照片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成健壮年轻人高分辨率真实照片的提示。
+
+#### 提示词
+
+```text
+A realistic high-resolution photograph of a fit young
+```
+
+### No. 1323: 古老石墙上的日落
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Vireon
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅宁静的场景：日落时分，金色的余晖洒在古老的石墙上，营造出一种永恒而平和的氛围。
+
+#### 提示词
+
+```text
+The sun was slowly dipping below the horizon, casting a warm, golden glow over the old stone walls. It felt as if time had completely stopped in this hidden corner of the world, leaving behind nothing but peace, elegance, and the gentle whisper of the wind.
+```
+
+### No. 1324: 职场与AI学院公司标志
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Rotimi Best
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个请求为一家教授企业日常使用AI的学院设计简洁标志的提示。
+
+#### 提示词
+
+```text
+I want a new logo for my academy company, 'Workplace  & AI'
+
+The goal is we want to teach businesses how to use AI day to day. I need a simple logo
+```
+
+### No. 1325: 恶魔漫画网格与超级英雄爆炸
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成2x2网格图像的提示，可视化四部较为冷门的恶魔漫画系列，描绘一位超级英雄从漫画中破页而出的场景。
+
+#### 提示词
+
+```text
+2x2 grid, do this for 4 lesser known manga's about demons: superhero bursts from a vintage comic book into the real world in a chaotic, hyper-detailed top-down explosion
+```
+
+### No. 1326: 城市街道上被奶油派砸脸的牛仔女郎
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** xaiofm
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位头戴牛仔帽的女性在城市街道上，经过一番幽默对话后，脸上被砸了一个奶油派。
+
+#### 提示词
+
+```text
+A young woman with long dark hair, wearing a beige cowboy hat, a red lace bralette, and blue jeans, walks casually on a city sidewalk during the day. The camera tracks her, then she turns to face the camera, holding a phone. She smiles and talks. A hand sprays a large amount of whipped cream onto a colorful paper plate she is holding. The camera zooms in on her smiling face. Suddenly, a pie of whipped cream is splatted directly onto her face. She pulls the plate away, revealing her face covered in whipped cream, and laughs joyfully. Realistic, handheld, urban street setting.
+```
+
+### No. 1327: 超写实电影感恐怖短片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作10秒恐怖视频的提示，灵感来源于特定电影，并使用参考图像作为主角。
+
+#### 提示词
+
+```text
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*. Use the provided reference image as the protagonist. ## STYLE Grounded horror. Minimal visual
+```
+
+### No. 1328: 扶梯上的女性电影感镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个电影感场景的提示：一位年轻女性躺在扶梯上，从高角度俯视，包含详细的服装描述。
+
+#### 提示词
+
+```text
+A young woman lying on an escalator, shot from a high overhead angle, wearing a pale yellow cropped jacket over a blue knit sweater, dark olive green wide-leg cargo pants, beige Adidas sneakers with white stripes, oval
+```
+
+### No. 1329: 身着黑色猫耳巴拉克拉瓦帽战术上衣的女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成虚构年轻女性图像的提示，描绘对象头戴黑色针织猫耳巴拉克拉瓦帽，身着配套的短款战术上衣。
+
+#### 提示词
+
+```text
+A fictional young woman in a black knit cat-ear balaclava and matching cropped tactical top, shot from a
+```
+
+### No. 1330: 电影感双重曝光时尚海报
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作真实、高端、具有电影感的双重曝光时尚海报的提示，需使用特定上传的面部参考图。
+
+#### 提示词
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo for the same face, hairstyle, beard, skin tone, and facial features. Composition: a large
+```
+
+### No. 1331: 金发女性超写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个详细的提示，用于生成年轻女性的超写实全身肖像，描绘对象拥有白皙皮肤、蓝色眼睛和金色长发。
+
+#### 提示词
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair with soft highlights, center-parted and flowing
+```
+
+### No. 1332: 年轻女性超写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成年轻女性超写实全身肖像的提示，描绘对象拥有白皙皮肤、蓝色眼睛和金色长发。
+
+#### 提示词
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

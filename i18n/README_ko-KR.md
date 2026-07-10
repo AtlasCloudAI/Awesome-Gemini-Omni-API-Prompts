@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1307%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1307 |
+| 전체 프롬프트 | 1332 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 420 |
-| 마지막 업데이트 | 2026. 07. 09. |
+| 미리보기 비디오 수 | 423 |
+| 마지막 업데이트 | 2026. 07. 10. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1205)
+### Twitter Community (1230)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -30862,6 +30862,510 @@ Kombinasi kayak:
 🎨 GPT Images 2
 📱 TikTok
 bisa
+```
+
+### No. 1308: 젊은 인도 여성 초상화 설명
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정한 머리카락, 피부, 메이크업 특징을 가진 젊은 인도 여성의 초상화를 생성하기 위한 상세한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A beautiful young Indian woman in her mid-20s, medium-length dark wavy hair with soft side-swept bangs partially covering one eye, fair-to-light brown skin with natural glow, subtle makeup with glossy pink lips and defined
+```
+
+### No. 1309: 사진처럼 사실적인 얼굴 참조 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Tomilola _Ruth❤️
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 이미지의 얼굴 정체성을 보존하면서 사진처럼 사실적인 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the uploaded image as the facial reference. Do not change my face, facial features, skin tone, facial structure, or identity. Create a photorealistic
+```
+
+### No. 1310: 고층 건물 벨벳 소파에 앉은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Justice Studio 2.0
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+밤에 현대적인 아파트에서 타우프색 벨벳 소파 위에 검은색 바디수트를 입고 젖은 검은 머리를 한 여성의 사진처럼 사실적인 이미지입니다.
+
+#### 프롬프트
+
+```text
+Photorealistic image of a stunning woman with wet dark hair and glistening skin, reclining seductively on a luxurious taupe velvet couch in a modern high-rise apartment at night. She is wearing a sleek black strapless bodysuit. She is holding a large
+```
+
+### No. 1311: 케랄라 여성 애니메이션 벡터 스트리트웨어 일러스트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aijaz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+애니메이션에서 영감을 받은 미학으로 현대적인 스트리트웨어를 입은 젊은 여성의 상세한 벡터 일러스트를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a highly detailed clean vector illustration of a young Kerala woman in a modern branded streetwear style, inspired by high-end anime vector aesthetics with crisp linework, smooth gradient shading, bold color separation
+```
+
+### No. 1312: 강렬한 시선을 가진 세련된 남성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+날카로운 이목구비와 잘 정리된 수염을 가진 자신감 있고 잘생긴 남성의 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back
+```
+
+### No. 1313: 사진 스타일의 선 드로잉 잉크 스케치 얼굴
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+얼굴의 사진 스타일 선 드로잉 또는 잉크 스케치를 생성합니다.
+
+#### 프롬프트
+
+```text
+Create a photo-style line drawing / ink sketch of a face identical to the
+```
+
+### No. 1314: 여성의 몽환적인 골든 아워 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Isabel
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+선명한 푸른 하늘 아래 골든 아워에 야외에서 촬영된 젊은 여성의 클로즈업 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A dreamy, ultra-aesthetic close-up portrait of a beautiful young woman outdoors beneath a vivid cobalt-blue sky during golden hour.
+```
+
+### No. 1315: 식물 초현실주의 패션 에디토리얼 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+역동적인 발레 자세를 취한 주인공의 초현실적인 패션 에디토리얼 초상화입니다.
+
+#### 프롬프트
+
+```text
+A breathtaking, hyper-realistic fashion editorial portrait of The Protagonist caught mid-movement in a dynamic, classical ballet pose en pointe. The setting is an
+```
+
+### No. 1316: 도자기 같은 피부와 메이크업 디테일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Simply Ray
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도자기 상아색 톤의 피부, 미세한 모공, 부드러운 새틴 광택을 가진 고도로 사실적인 피부를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+[Skin & Makeup Details] Porcelain ivory skin with a cool-neutral undertone, highly realistic skin texture with fine pores still visible, clean flawless face, soft satin skin effect with a natural glow on the cheekbones, nose, and forehead.
+```
+
+### No. 1317: 젊은 여성의 클로즈업 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정한 특징을 가진 젊은 여성의 클로즈업 초상화를 생성하기 위한 JSON 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": {
+    "description": "A stunning close-up young woman with long wavy dark brown hair, tanned skin, https://t.co/PO5ySMCkMw
+```
+
+### No. 1318: 텅 빈 도시의 좀비 스케이트보더
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heather Green
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+부패한 좀비가 해질녘 극적인 측면 조명 아래 갈라진 도시 거리를 따라 스케이트보드를 타고 내려가는 장면입니다.
+
+#### 프롬프트
+
+```text
+a decaying zombie riding on a skateboard, tattered clothes flapping in the wind, on an empty cracked city street at dusk, dramatic side lighting casting long eerie shadows
+```
+
+### No. 1319: 카페에 있는 남성의 숯 스케치
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+붐비는 카페에서 웃으며 컵을 들고 있는 잘생긴 남성의 세로형 숯 스케치입니다.
+
+#### 프롬프트
+
+```text
+A vertical, artistic charcoal sketch capturing a handsome, cute man in a candid moment at a bustling cafe. He is seated at a wooden table, leaning forward with a gentle, genuine smile, holding a small cup of
+```
+
+### No. 1320: 미세한 움직임이 있는 느린 시네마틱 푸시인
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** getimg.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075303977692836130.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+느린 시네마틱 푸시인, 부드러운 빛의 움직임, 미세한 배경 모션, 그리고 사실적인 분위기를 9:16 화면비로 담은 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+### No. 1321: 백금발 여성의 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+인상적인 얼굴 특징과 백금발 머리를 가진 여성의 클로즈업 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A close-up of a woman with striking facial features and platinum blonde hair
+```
+
+### No. 1322: 건강한 젊은이의 사실적 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J⭕DIE
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+건강한 젊은 개인의 고해상도 사실적 사진을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A realistic high-resolution photograph of a fit young
+```
+
+### No. 1323: 오래된 돌담 위의 석양
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Vireon
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+고요하고 평화로운 시간을 초월한 배경에서, 석양이 오래된 돌담 위에 황금빛 빛을 드리우는 평화로운 장면입니다.
+
+#### 프롬프트
+
+```text
+The sun was slowly dipping below the horizon, casting a warm, golden glow over the old stone walls. It felt as if time had completely stopped in this hidden corner of the world, leaving behind nothing but peace, elegance, and the gentle whisper of the wind.
+```
+
+### No. 1324: 직장 및 AI 아카데미 회사를 위한 로고
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rotimi Best
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기업들에게 일상적인 AI 사용법을 가르치는 아카데미를 위한 심플한 로고 디자인을 요청하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+I want a new logo for my academy company, 'Workplace  & AI'
+
+The goal is we want to teach businesses how to use AI day to day. I need a simple logo
+```
+
+### No. 1325: 슈퍼히어로 폭발과 함께하는 데몬 만화 그리드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+만화책에서 폭발하며 튀어나오는 슈퍼히어로를 특징으로 하는, 덜 알려진 네 개의 데몬 만화 시리즈를 시각화한 2x2 그리드를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+2x2 grid, do this for 4 lesser known manga's about demons: superhero bursts from a vintage comic book into the real world in a chaotic, hyper-detailed top-down explosion
+```
+
+### No. 1326: 도시 거리에서 크림을 맞은 카우걸
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** xaiofm
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075370198639563059.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 거리에서 카우보이 모자를 쓴 여성이 유쾌한 대화 후 얼굴에 휘핑 크림 파이를 맞는 장면입니다.
+
+#### 프롬프트
+
+```text
+A young woman with long dark hair, wearing a beige cowboy hat, a red lace bralette, and blue jeans, walks casually on a city sidewalk during the day. The camera tracks her, then she turns to face the camera, holding a phone. She smiles and talks. A hand sprays a large amount of whipped cream onto a colorful paper plate she is holding. The camera zooms in on her smiling face. Suddenly, a pie of whipped cream is splatted directly onto her face. She pulls the plate away, revealing her face covered in whipped cream, and laughs joyfully. Realistic, handheld, urban street setting.
+```
+
+### No. 1327: 초사실적 시네마틱 호러 시퀀스
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Virena
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075377636420059580.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 영화에서 영감을 받아 참조 이미지를 주인공으로 사용하여 10초 길이의 호러 비디오를 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*. Use the provided reference image as the protagonist. ## STYLE Grounded horror. Minimal visual
+```
+
+### No. 1328: 에스컬레이터 위 여성의 시네마틱 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+높은 내려다보는 각도에서 바라본, 에스컬레이터에 누워 있는 젊은 여성의 시네마틱 장면으로, 상세한 의상 묘사가 포함된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A young woman lying on an escalator, shot from a high overhead angle, wearing a pale yellow cropped jacket over a blue knit sweater, dark olive green wide-leg cargo pants, beige Adidas sneakers with white stripes, oval
+```
+
+### No. 1329: 검은 고양이 귀 발라클라바와 전술 상의를 입은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검은색 짜임 고양이 귀 발라클라바와 매칭되는 크롭 전술 상의를 입은 가상의 젊은 여성 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A fictional young woman in a black knit cat-ear balaclava and matching cropped tactical top, shot from a
+```
+
+### No. 1330: 시네마틱 더블 익스포저 패션 포스터
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dilshad Hussain
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 업로드 얼굴 참조 이미지를 사용하여 사실적이고 고급스러운 시네마틱 더블 익스포저 패션 포스터를 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo for the same face, hairstyle, beard, skin tone, and facial features. Composition: a large
+```
+
+### No. 1331: 금발 여성의 사실적 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+창백한 피부, 파란 눈, 긴 금발을 가진 젊은 여성의 전신 사실적 초상화를 생성하기 위한 상세한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair with soft highlights, center-parted and flowing
+```
+
+### No. 1332: 젊은 여성의 사실적 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sadie 🥀
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+창백한 피부, 파란 눈, 긴 금발을 가진 젊은 여성의 전신 사실적 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

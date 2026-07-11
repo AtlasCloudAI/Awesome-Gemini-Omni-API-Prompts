@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 1332 |
+| 提示詞總數 | 1357 |
 | 分類數 | 8 |
-| 預覽影片數 | 423 |
-| 最後更新 | 2026/07/10 |
+| 預覽影片數 | 429 |
+| 最後更新 | 2026/07/11 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1230)
+### Twitter Community (1255)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -31366,6 +31366,515 @@ A photorealistic full-body portrait of a stunning young woman in her early 20s w
 
 ```text
 A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
+```
+
+### No. 1333: 高級糖果餅乾產品攝影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AqibAi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成直立式糖果餅乾包裝袋商業產品照片的提示。
+
+#### 提示詞
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright
+```
+
+### No. 1334: 以照片主體替換影片角色
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Volodymyr Cherner
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於將影片中的角色替換為所提供照片中主體的提示。
+
+#### 提示詞
+
+```text
+replace the character with the one from my photo
+```
+
+### No. 1335: 海軍藍絲綢編輯時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於在極簡主義建築環境中拍攝女性高級時尚肖像的提示。
+
+#### 提示詞
+
+```text
+A high-end editorial fashion portrait featuring a woman with natural freckles and an elegant updo hairstyle, posing gracefully in a minimalist, sun-drenched architectural setting. She is wearing a sophisticated navy
+```
+
+### No. 1336: 過度填充羽絨運動鞋產品攝影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** madpencil_
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成一款誇張、如棉花糖般的羽絨運動鞋產品照片的提示。
+
+#### 提示詞
+
+```text
+Product photography of an extremely overstuffed puffer sneaker, absurdly inflated marshmallow-like volume, exaggerated
+```
+
+### No. 1337: 為影片添加未來感3D資訊圖表
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** madpencil_
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於為現有影片添加關於某產品的極簡未來感3D資訊圖表的提示。
+
+#### 提示詞
+
+```text
+add interactive minimalistic futuristic infographics in 3D space about the product in the video @ vid1 keeping the
+```
+
+### No. 1338: 保留臉部的類比風格粗獷照片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成類比風格粗獷照片，同時保留拍攝對象原始臉型與髮型的提示。
+
+#### 提示詞
+
+```text
+Without changing my face or hairstyle, create an analog-style grunge photo from the https://t.co/OG0FoyIYoq
+```
+
+### No. 1339: 南印度女性肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成一位面部特徵細節豐富的年輕南印度女性肖像的結構化提示。
+
+#### 提示詞
+
+```text
+{
+  "subject": "A beautiful young South Indian woman in her mid-20s, with warm medium skin tone, flawless smooth skin with subtle natural glow and light freckles, high cheekbones, defined jawline, full natural lips with soft pink gloss"}
+```
+
+### No. 1340: 擁有紋理感髮型與鬍鬚的年輕男性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成一位神情嚴肅、擁有深棕色造型短髮與短鬍鬚的年輕男性肖像的提示。
+
+#### 提示詞
+
+```text
+A young man with short, textured dark brown hair styled slightly upward at the front with natural, subtle flyaways and a neatly groomed short beard stares forward with a serious, composed expression while wearing dark,
+```
+
+### No. 1341: 夢幻春日肖像低角度
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jahan Zaib
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成從低角度拍攝、身穿連身裙的女性寫實春日肖像的提示。
+
+#### 提示詞
+
+```text
+A dreamy, ultra-photorealistic springtime lifestyle portrait captured from a dramatic low-angle perspective, featuring a beautiful young woman with long, flowing dark hair wearing a simple white linen sundress. She is peacefully
+```
+
+### No. 1342: 咖啡館中的女性電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成黃金時段在溫馨咖啡館中拍攝年輕女性電影感肖像的提示。
+
+#### 提示詞
+
+```text
+A cinematic portrait of a young woman sitting in a cozy café at golden hour, looking back over her shoulder toward the camera. Long dark hair with soft wispy bangs gently blown across her face, natural makeup, calm and
+```
+
+### No. 1343: 一分鐘內的流浪劍客弟子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SYD
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於在一分鐘內生成圖像的提示，描繪名為「任」的流浪劍客弟子在黑白與深紅色的旅途場景中的動作。
+
+#### 提示詞
+
+```text
+Show what happens in 1 minute. Ren — wandering sword disciple, black-and-crimson travel
+```
+
+### No. 1344: Sabrina Carpenter數位分身提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化的提示，描述Sabrina Carpenter的數位分身，並指定了具體的面部特徵。
+
+#### 提示詞
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sabrina Carpenter digital twin",
+      "facial_structure": "Soft heart-shaped face profile, petite jawline, distinct high https://t.co/dvd6DUfiEq"
+```
+
+### No. 1345: 字母Z提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Eco Vibes 🌍
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成字母Z的簡單提示。
+
+#### 提示詞
+
+```text
+Z
+```
+
+### No. 1346: 黃金時段公寓中的時尚女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** MykaAI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅寫實的電影式靜態畫面，描繪一位女性在由溫暖夕陽照亮的舒適公寓中。
+
+#### 提示詞
+
+```text
+Photorealistic cinematic still of a stylish young woman in a cozy, feminine apartment during golden hour. Warm sunset light streams through sheer white curtains, filling the room with soft pink and golden tones.
+```
+
+### No. 1347: 超寫實高級時尚編輯肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作超寫實、高級時尚編輯特寫肖像的提示。
+
+#### 提示詞
+
+```text
+Ultra-realistic high-fashion editorial close-up portrait of
+```
+
+### No. 1348: 帶有環繞鏡頭與反射效果的產品廣告
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** getimg.ai
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作高級廣告影片的提示，其特點是緩慢環繞的鏡頭、移動的反射效果以及柔和的大氣粒子。
+
+#### 提示詞
+
+```text
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+### No. 1349: 擁有白皙皮膚和雀斑的年輕女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成擁有白皙皮膚和雀斑的年輕女性圖像的提示。
+
+#### 提示詞
+
+```text
+A young woman with fair skin and freckles on her face
+```
+
+### No. 1350: 萬聖節南瓜燈上的優雅黑貓
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成萬聖節場景的提示，場景中有一隻眼睛發光的黑貓站在雕刻過的南瓜上。
+
+#### 提示詞
+
+```text
+a sleek black cat with glowing amber eyes sits perched on top of a large carved jack o lantern, dramatic Halloween atmosphere, swirling ground fog, tall twisted dead trees
+```
+
+### No. 1351: 男性極特寫電影式肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作男性黑暗專業攝影棚肖像的提示，其特徵是輪廓分明，並由單一柔光箱打光。
+
+#### 提示詞
+
+```text
+Extreme closeup cinematic portrait of an American white man with sharp jawline and defined facial features, shot in a pure pitch-black professional photography studio, single large octabox softbox
+```
+
+### No. 1352: 南印度女性肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個描述年輕南印度女性詳細肖像的提示。
+
+#### 提示詞
+
+```text
+{
+  "subject": "A breathtaking young South Indian woman in her mid-20s, radiant warm medium skin tone with flawless smooth texture and subtle natural sheen, sharp elegant facial features, high cheekbones, full plump lips with https://t.co/sG4lhnNfkQ
+```
+
+### No. 1353: 公共空間的2x2網格圖
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成以16:9長寬比描繪公共空間的2x2網格圖像的提示。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, do this for 4 public space
+```
+
+### No. 1354: 戲劇性電影式男模特兒攝影棚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個為男模特兒創作的高級時尚肖像提示，其特徵是輪廓分明、頭髮後梳並帶有銀色亮點。
+
+#### 提示詞
+
+```text
+A dramatic cinematic studio portrait of a handsome male model with sharp high-fashion features and high cheekbones. He has slicked-back, wet-look dark hair with silver highlights.
+```
+
+### No. 1355: 受電影啟發的電影式公路電影片段
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成以《游牧人生》等公路電影風格呈現、長度10秒的寫實影片片段的提示。
+
+#### 提示詞
+
+```text
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*. Use the provided female reference image as the protagonist. Preserve exact facial
+```
+
+### No. 1356: 專業年輕女性肖像描述
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NUSRAT
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化的提示，描述一位具有優雅專業特徵和造型髮型的年輕女性。
+
+#### 提示詞
+
+```text
+"subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup"
+```
+
+### No. 1357: 水下王國音樂表演
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 綴る（つづる）
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位身著奇幻服裝的男性表演者，在一個設計成水下城市、帶有古代遺跡和動畫氣泡的舞台布景上演唱。
+
+#### 提示詞
+
+```text
+A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

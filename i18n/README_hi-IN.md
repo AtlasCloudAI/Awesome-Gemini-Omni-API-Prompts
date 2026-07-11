@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 1332 |
+| Kul Prompts | 1357 |
 | Categories | 10 |
-| Preview Videos | 423 |
-| Aakhri Update | 10/07/2026 |
+| Preview Videos | 429 |
+| Aakhri Update | 11/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (1230)
+### Twitter Community (1255)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -31376,6 +31376,515 @@ A photorealistic full-body portrait of a stunning young woman in her early 20s w
 
 ```text
 A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
+```
+
+### No. 1333: प्रीमियम कैंडी बिस्किट उत्पाद फोटोग्राफी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AqibAi
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+खड़ी कैंडी बिस्किट पैकेट की वाणिज्यिक उत्पाद फोटो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright
+```
+
+### No. 1334: वीडियो के किरदार को फोटो विषय से बदलें
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Volodymyr Cherner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+वीडियो के एक किरदार को प्रदान की गई फोटो के विषय से बदलने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+replace the character with the one from my photo
+```
+
+### No. 1335: नेवी सिल्क में एडिटोरियल फैशन पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक मिनिमलिस्ट आर्किटेक्चरल सेटिंग में एक महिला का हाई-एंड फैशन पोर्ट्रेट के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A high-end editorial fashion portrait featuring a woman with natural freckles and an elegant updo hairstyle, posing gracefully in a minimalist, sun-drenched architectural setting. She is wearing a sophisticated navy
+```
+
+### No. 1336: अतिभरा पफर स्नीकर उत्पाद फोटोग्राफी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** madpencil_
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक अतिरंजित, मार्शमैलो जैसे पफर स्नीकर की उत्पाद फोटो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Product photography of an extremely overstuffed puffer sneaker, absurdly inflated marshmallow-like volume, exaggerated
+```
+
+### No. 1337: वीडियो में फ्यूचरिस्टिक 3D इन्फोग्राफिक्स जोड़ें
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** madpencil_
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+मौजूदा वीडियो में किसी उत्पाद के बारे में मिनिमलिस्टिक, फ्यूचरिस्टिक 3D इन्फोग्राफिक्स जोड़ने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+add interactive minimalistic futuristic infographics in 3D space about the product in the video @ vid1 keeping the
+```
+
+### No. 1338: संरक्षित चेहरे वाला एनालॉग ग्रंज फोटो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alex Prompts
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विषय के मूल चेहरे और हेयरस्टाइल को बनाए रखते हुए एनालॉग-स्टाइल ग्रंज फोटो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Without changing my face or hairstyle, create an analog-style grunge photo from the https://t.co/OG0FoyIYoq
+```
+
+### No. 1339: दक्षिण भारतीय महिला पोर्ट्रेट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विस्तृत चेहरे की विशेषताओं वाली एक युवा दक्षिण भारतीय महिला का पोर्ट्रेट जनरेट करने के लिए एक संरचित प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young South Indian woman in her mid-20s, with warm medium skin tone, flawless smooth skin with subtle natural glow and light freckles, high cheekbones, defined jawline, full natural lips with soft pink gloss"}
+```
+
+### No. 1340: बनावटी बाल और दाढ़ी वाला युवक
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Picts by AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+स्टाइल किए गए गहरे भूरे बाल और छोटी दाढ़ी वाले एक गंभीर युवक का पोर्ट्रेट जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A young man with short, textured dark brown hair styled slightly upward at the front with natural, subtle flyaways and a neatly groomed short beard stares forward with a serious, composed expression while wearing dark,
+```
+
+### No. 1341: स्वप्निल वसंतकालीन पोर्ट्रेट निम्न कोण से
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jahan Zaib
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक सनड्रेस में महिला की निम्न कोण से ली गई फोटोरियलिस्टिक वसंत पोर्ट्रेट के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A dreamy, ultra-photorealistic springtime lifestyle portrait captured from a dramatic low-angle perspective, featuring a beautiful young woman with long, flowing dark hair wearing a simple white linen sundress. She is peacefully
+```
+
+### No. 1342: एक कैफे में एक महिला की सिनेमाई पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aijaz
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गोल्डन आवर में एक आरामदायक कैफे में एक युवा महिला की सिनेमाई पोर्ट्रेट के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A cinematic portrait of a young woman sitting in a cozy café at golden hour, looking back over her shoulder toward the camera. Long dark hair with soft wispy bangs gently blown across her face, natural makeup, calm and
+```
+
+### No. 1343: एक मिनट में वांडरिंग स्वॉर्ड डिसिप्ल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** SYD
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक मिनट के भीतर काले और क्रिमसन यात्रा दृश्य में रेन नामक एक वांडरिंग स्वॉर्ड डिसिप्ल की कार्रवाई को दर्शाने वाली छवि जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Show what happens in 1 minute. Ren — wandering sword disciple, black-and-crimson travel
+```
+
+### No. 1344: सब्रिना कार्पेंटर डिजिटल ट्विन प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinodi
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सब्रिना कार्पेंटर के एक डिजिटल ट्विन का वर्णन करने वाला एक संरचित प्रॉम्प्ट जिसमें विशिष्ट चेहरे की विशेषताएं हैं।
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sabrina Carpenter digital twin",
+      "facial_structure": "Soft heart-shaped face profile, petite jawline, distinct high https://t.co/dvd6DUfiEq"
+```
+
+### No. 1345: वर्णमाला अक्षर Z प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Eco Vibes 🌍
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+अक्षर Z जनरेट करने के लिए एक सरल प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Z
+```
+
+### No. 1346: गोल्डन आवर अपार्टमेंट में स्टाइलिश महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** MykaAI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक आरामदायक अपार्टमेंट में एक महिला का फोटोरियलिस्टिक सिनेमाई स्टिल जो गर्म सूर्यास्त की रोशनी से जगमगा रहा है।
+
+#### Prompt
+
+```text
+Photorealistic cinematic still of a stylish young woman in a cozy, feminine apartment during golden hour. Warm sunset light streams through sheer white curtains, filling the room with soft pink and golden tones.
+```
+
+### No. 1347: अल्ट्रा रियलिस्टिक हाई फैशन एडिटोरियल पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KeorUnreal
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक अल्ट्रा-रियलिस्टिक, हाई-फैशन एडिटोरियल क्लोज़-अप पोर्ट्रेट के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-realistic high-fashion editorial close-up portrait of
+```
+
+### No. 1348: ऑर्बिटिंग कैमरा और रिफ्लेक्शन के साथ प्रोडक्ट विज्ञापन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** getimg.ai
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रीमियम विज्ञापन वीडियो के लिए एक प्रॉम्प्ट जिसमें धीरे-धीरे ऑर्बिट करता कैमरा, चलते हुए रिफ्लेक्शन और नरम वायुमंडलीय कण हैं।
+
+#### Prompt
+
+```text
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+### No. 1349: गोरी त्वचा और झाईं वाली युवा महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** J⭕DIE
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गोरी त्वचा और झाईं वाली एक युवा महिला की छवि जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A young woman with fair skin and freckles on her face
+```
+
+### No. 1350: हैलोवीन जैक ओ' लैंटर्न पर स्लीक ब्लैक कैट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heather Green
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक हैलोवीन दृश्य जनरेट करने के लिए एक प्रॉम्प्ट जिसमें एक उकेरे हुए कद्दू पर चमकती आंखों वाली एक काली बिल्ली है।
+
+#### Prompt
+
+```text
+a sleek black cat with glowing amber eyes sits perched on top of a large carved jack o lantern, dramatic Halloween atmosphere, swirling ground fog, tall twisted dead trees
+```
+
+### No. 1351: एक पुरुष का एक्सट्रीम क्लोज़अप सिनेमाई पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक पुरुष का एक अंधेरा, पेशेवर स्टूडियो पोर्ट्रेट जिसमें तीखी विशेषताएं हैं और एक सिंगल सॉफ्टबॉक्स द्वारा प्रकाशित किया गया है।
+
+#### Prompt
+
+```text
+Extreme closeup cinematic portrait of an American white man with sharp jawline and defined facial features, shot in a pure pitch-black professional photography studio, single large octabox softbox
+```
+
+### No. 1352: दक्षिण भारतीय महिला पोर्ट्रेट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक युवा दक्षिण भारतीय महिला का विस्तृत पोर्ट्रेट वर्णन करने वाला एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": "A breathtaking young South Indian woman in her mid-20s, radiant warm medium skin tone with flawless smooth texture and subtle natural sheen, sharp elegant facial features, high cheekbones, full plump lips with https://t.co/sG4lhnNfkQ
+```
+
+### No. 1353: सार्वजनिक स्थानों का 2x2 ग्रिड
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+16:9 पहलू अनुपात में सार्वजनिक स्थानों को दर्शाने वाली छवियों का 2x2 ग्रिड जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 public space
+```
+
+### No. 1354: पुरुष मॉडल का नाटकीय सिनेमाई स्टूडियो पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक पुरुष मॉडल का एक हाई-फैशन पोर्ट्रेट जिसमें तीखी विशेषताएं, स्लिक्ड-बैक बाल और सिल्वर हाइलाइट्स हैं।
+
+#### Prompt
+
+```text
+A dramatic cinematic studio portrait of a handsome male model with sharp high-fashion features and high cheekbones. He has slicked-back, wet-look dark hair with silver highlights.
+```
+
+### No. 1355: फिल्मों से प्रेरित सिनेमाई रोड मूवी अनुक्रम
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Virena
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+नोमैडलैंड जैसी रोड मूवीज़ की शैली में एक फोटोरियलिस्टिक 10-सेकंड के वीडियो अनुक्रम को जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*. Use the provided female reference image as the protagonist. Preserve exact facial
+```
+
+### No. 1356: पेशेवर युवा महिला पोर्ट्रेट विवरण
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** NUSRAT
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक युवा महिला का एक संरचित प्रॉम्प्ट विवरण जिसमें सुरुचिपूर्ण, पेशेवर विशेषताएं और स्टाइल किए गए बाल हैं।
+
+#### Prompt
+
+```text
+"subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup"
+```
+
+### No. 1357: अंडरवाटर किंगडम संगीत प्रदर्शन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 綴る（つづる）
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक पुरुष कलाकार एक काल्पनिक वेशभूषा में एक मंच पर गाता है, जिसे प्राचीन खंडहरों और एनिमेटेड बुलबुलों के साथ एक अंडरवाटर शहर के रूप में डिज़ाइन किया गया है।
+
+#### Prompt
+
+```text
+A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

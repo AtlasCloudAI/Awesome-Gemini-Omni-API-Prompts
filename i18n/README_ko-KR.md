@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1332 |
+| 전체 프롬프트 | 1357 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 423 |
-| 마지막 업데이트 | 2026. 07. 10. |
+| 미리보기 비디오 수 | 429 |
+| 마지막 업데이트 | 2026. 07. 11. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1230)
+### Twitter Community (1255)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -31366,6 +31366,515 @@ A photorealistic full-body portrait of a stunning young woman in her early 20s w
 
 ```text
 A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
+```
+
+### No. 1333: 프리미엄 캔디 비스킷 제품 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AqibAi
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+세워진 캔디 비스킷 패키지의 상업용 제품 사진을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright
+```
+
+### No. 1334: 비디오 속 캐릭터를 사진 피사체로 교체하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Volodymyr Cherner
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+비디오 속 캐릭터를 제공된 사진의 피사체로 교체하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+replace the character with the one from my photo
+```
+
+### No. 1335: 네이비 실크를 입은 에디토리얼 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+미니멀한 건축적 배경에서 여성을 촬영한 하이엔드 패션 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A high-end editorial fashion portrait featuring a woman with natural freckles and an elegant updo hairstyle, posing gracefully in a minimalist, sun-drenched architectural setting. She is wearing a sophisticated navy
+```
+
+### No. 1336: 과하게 부풀린 퍼퍼 스니커즈 제품 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** madpencil_
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+과장되고 마시멜로 같은 퍼퍼 스니커즈의 제품 사진을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Product photography of an extremely overstuffed puffer sneaker, absurdly inflated marshmallow-like volume, exaggerated
+```
+
+### No. 1337: 비디오에 미래지향적 3D 인포그래픽 추가하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** madpencil_
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기존 비디오에 제품에 대한 미니멀하고 미래지향적인 3D 인포그래픽을 추가하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+add interactive minimalistic futuristic infographics in 3D space about the product in the video @ vid1 keeping the
+```
+
+### No. 1338: 얼굴과 헤어스타일이 보존된 아날로그 그런지 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+피사체의 원래 얼굴과 헤어스타일을 유지하면서 아날로그 스타일의 그런지 사진을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Without changing my face or hairstyle, create an analog-style grunge photo from the https://t.co/OG0FoyIYoq
+```
+
+### No. 1339: 남인도 여성 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+세부적인 얼굴 특징을 가진 젊은 남인도 여성의 초상화를 생성하기 위한 구조화된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A beautiful young South Indian woman in her mid-20s, with warm medium skin tone, flawless smooth skin with subtle natural glow and light freckles, high cheekbones, defined jawline, full natural lips with soft pink gloss"}
+```
+
+### No. 1340: 질감 있는 머리와 수염을 가진 젊은 남성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+스타일링된 짙은 갈색 머리와 짧은 수염을 가진 진지한 젊은 남성의 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A young man with short, textured dark brown hair styled slightly upward at the front with natural, subtle flyaways and a neatly groomed short beard stares forward with a serious, composed expression while wearing dark,
+```
+
+### No. 1341: 낮은 앵글의 몽환적인 봄날 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jahan Zaib
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+선드레스를 입은 여성의 낮은 앵글 사진같은 봄 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A dreamy, ultra-photorealistic springtime lifestyle portrait captured from a dramatic low-angle perspective, featuring a beautiful young woman with long, flowing dark hair wearing a simple white linen sundress. She is peacefully
+```
+
+### No. 1342: 카페에 있는 여성의 시네마틱 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aijaz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+황금빛 시간대의 아늑한 카페에서 젊은 여성을 촬영한 시네마틋 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A cinematic portrait of a young woman sitting in a cozy café at golden hour, looking back over her shoulder toward the camera. Long dark hair with soft wispy bangs gently blown across her face, natural makeup, calm and
+```
+
+### No. 1343: 1분 내의 방랑 검제 제자
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** SYD
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검은색과 진홍색 여행 장면에서 렌이라는 이름의 방랑 검제 제자의 행동을 묘사하는 이미지를 1분 내에 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Show what happens in 1 minute. Ren — wandering sword disciple, black-and-crimson travel
+```
+
+### No. 1344: 사브리나 카펜터 디지털 트윈 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Pinodi
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 얼굴 특징을 가진 사브리나 카펜터의 디지털 트윈을 묘사하는 구조화된 프롬프트.
+
+#### 프롬프트
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sabrina Carpenter digital twin",
+      "facial_structure": "Soft heart-shaped face profile, petite jawline, distinct high https://t.co/dvd6DUfiEq"
+```
+
+### No. 1345: 알파벳 Z 생성 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Eco Vibes 🌍
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+알파벳 Z를 생성하기 위한 간단한 프롬프트.
+
+#### 프롬프트
+
+```text
+Z
+```
+
+### No. 1346: 골든 아파트의 스타일리시한 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MykaAI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+따뜻한 석양 빛으로 비춰지는 아늑한 아파트에 있는 여성의 사실적인 시네마틱 스틸 이미지.
+
+#### 프롬프트
+
+```text
+Photorealistic cinematic still of a stylish young woman in a cozy, feminine apartment during golden hour. Warm sunset light streams through sheer white curtains, filling the room with soft pink and golden tones.
+```
+
+### No. 1347: 초현실적인 하이패션 에디토리얼 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+초현실적이고 하이패션 에디토리얼 클로즈업 초상화를 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Ultra-realistic high-fashion editorial close-up portrait of
+```
+
+### No. 1348: 궤도 회전 카메라와 반사광이 있는 제품 광고
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** getimg.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+천천히 궤도를 도는 카메라, 움직이는 반사광, 부드러운 대기 입자가 특징인 프리미엄 광고 비디오를 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+### No. 1349: 흰 피부와 주근깨를 가진 젊은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J⭕DIE
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+흰 피부와 주근깨를 가진 젊은 여성의 이미지를 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+A young woman with fair skin and freckles on her face
+```
+
+### No. 1350: 할로윈 잭 오 랜턴 위의 매끈한 검은 고양이
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heather Green
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+조각된 호박 위에 빛나는 눈을 가진 검은 고양이가 등장하는 할로윈 장면을 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+a sleek black cat with glowing amber eyes sits perched on top of a large carved jack o lantern, dramatic Halloween atmosphere, swirling ground fog, tall twisted dead trees
+```
+
+### No. 1351: 남성의 극단적인 클로즈업 시네마틱 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+날카로운 이목구비를 가진 남성의 어둡고 전문적인 스튜디오 초상화로, 단일 소프트박스 조명으로 비춰진 장면.
+
+#### 프롬프트
+
+```text
+Extreme closeup cinematic portrait of an American white man with sharp jawline and defined facial features, shot in a pure pitch-black professional photography studio, single large octabox softbox
+```
+
+### No. 1352: 남인도 여성 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+젊은 남인도 여성의 상세한 초상화를 묘사하는 프롬프트.
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A breathtaking young South Indian woman in her mid-20s, radiant warm medium skin tone with flawless smooth texture and subtle natural sheen, sharp elegant facial features, high cheekbones, full plump lips with https://t.co/sG4lhnNfkQ
+```
+
+### No. 1353: 공공 공간의 2x2 그리드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+16:9 비율로 공공 공간을 묘사하는 이미지의 2x2 그리드를 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+2x2 grid, 16:9, do this for 4 public space
+```
+
+### No. 1354: 남성 모델의 드라마틱 시네마틱 스튜디오 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+날카로운 이목구비, 뒤로 넘긴 머리, 은색 하이라이트를 가진 남성 모델의 하이패션 초상화를 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+A dramatic cinematic studio portrait of a handsome male model with sharp high-fashion features and high cheekbones. He has slicked-back, wet-look dark hair with silver highlights.
+```
+
+### No. 1355: 영화에서 영감을 받은 시네마틱 로드 무비 시퀀스
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Virena
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+노매드랜드와 같은 로드 무비 스타일로 10초 길이의 사실적인 비디오 시퀀스를 생성하기 위한 프롬프트.
+
+#### 프롬프트
+
+```text
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*. Use the provided female reference image as the protagonist. Preserve exact facial
+```
+
+### No. 1356: 전문적인 젊은 여성 초상화 묘사
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NUSRAT
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+우아하고 전문적인 인상에 스타일링된 머리를 가진 젊은 여성을 묘사하는 구조화된 프롬프트.
+
+#### 프롬프트
+
+```text
+"subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup"
+```
+
+### No. 1357: 수중 왕국 뮤지컬 공연
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 綴る（つづる）
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+환상적인 의상을 입은 남성 공연자가 고대 유적과 애니메이션 거품으로 장식된 수중 도시를 배경으로 한 무대에서 노래를 부르는 장면.
+
+#### 프롬프트
+
+```text
+A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

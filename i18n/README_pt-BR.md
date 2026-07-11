@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Uma colecao curada de exemplos de prompts Gemini Omni com previews de video OSS incorporados.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Quantidade |
 | --- | ---: |
-| Total de Prompts | 1332 |
+| Total de Prompts | 1357 |
 | Categorias | 8 |
-| Videos de Previa | 423 |
-| Ultima Atualizacao | 10/07/2026 |
+| Videos de Previa | 429 |
+| Ultima Atualizacao | 11/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1230)
+### Twitter Community (1255)
 
 ### No. 103: Retrato Romântico na Natureza - Fotografia Editorial
 
@@ -31366,6 +31366,515 @@ Um prompt para gerar um retrato foto-realista de corpo inteiro de uma jovem mulh
 
 ```text
 A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
+```
+
+### No. 1333: Fotografia de Produto Premium de Biscoito de Doce
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AqibAi
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma foto comercial de produto de um pacote de biscoito de doce em pé.
+
+#### Prompt
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright
+```
+
+### No. 1334: Substituir Personagem por Sujeito de Foto
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Volodymyr Cherner
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para substituir um personagem em um vídeo por um sujeito de uma foto fornecida.
+
+#### Prompt
+
+```text
+replace the character with the one from my photo
+```
+
+### No. 1335: Retrato de Moda Editorial em Seda Azul Marinho
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Minahil
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato de moda de alta costura de uma mulher em um cenário arquitetônico minimalista.
+
+#### Prompt
+
+```text
+A high-end editorial fashion portrait featuring a woman with natural freckles and an elegant updo hairstyle, posing gracefully in a minimalist, sun-drenched architectural setting. She is wearing a sophisticated navy
+```
+
+### No. 1336: Fotografia de Produto de Tênis Puffer Exagerado
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** madpencil_
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma foto de produto de um tênis puffer exagerado, parecido com um marshmallow.
+
+#### Prompt
+
+```text
+Product photography of an extremely overstuffed puffer sneaker, absurdly inflated marshmallow-like volume, exaggerated
+```
+
+### No. 1337: Adicionar Infográficos 3D Futuristas a um Vídeo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** madpencil_
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para adicionar infográficos 3D minimalistas e futuristas sobre um produto a um vídeo existente.
+
+#### Prompt
+
+```text
+add interactive minimalistic futuristic infographics in 3D space about the product in the video @ vid1 keeping the
+```
+
+### No. 1338: Foto Grunge Analógica com Rosto Preservado
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Alex Prompts
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma foto de estilo grunge analógico, mantendo o rosto e o penteado originais do sujeito.
+
+#### Prompt
+
+```text
+Without changing my face or hairstyle, create an analog-style grunge photo from the https://t.co/OG0FoyIYoq
+```
+
+### No. 1339: Prompt de Retrato de Mulher do Sul da Índia
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt estruturado para gerar um retrato de uma jovem mulher do sul da Índia com características faciais detalhadas.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young South Indian woman in her mid-20s, with warm medium skin tone, flawless smooth skin with subtle natural glow and light freckles, high cheekbones, defined jawline, full natural lips with soft pink gloss"}
+```
+
+### No. 1340: Jovem homem com cabelo e barba texturizados
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Picts by AI
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar um retrato de um jovem homem sério com cabelo castanho escuro estilizado e uma barba curta.
+
+#### Prompt
+
+```text
+A young man with short, textured dark brown hair styled slightly upward at the front with natural, subtle flyaways and a neatly groomed short beard stares forward with a serious, composed expression while wearing dark,
+```
+
+### No. 1341: Retrato Sonhador de Primavera em Ângulo Baixo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Jahan Zaib
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato fotorrealista de primavera de uma mulher em um vestido de verão, visto de um ângulo baixo.
+
+#### Prompt
+
+```text
+A dreamy, ultra-photorealistic springtime lifestyle portrait captured from a dramatic low-angle perspective, featuring a beautiful young woman with long, flowing dark hair wearing a simple white linen sundress. She is peacefully
+```
+
+### No. 1342: Retrato cinematográfico de uma mulher em um café
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Aijaz
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato cinematográfico de uma jovem mulher em um café aconchegante durante a hora dourada.
+
+#### Prompt
+
+```text
+A cinematic portrait of a young woman sitting in a cozy café at golden hour, looking back over her shoulder toward the camera. Long dark hair with soft wispy bangs gently blown across her face, natural makeup, calm and
+```
+
+### No. 1343: Discípulo Errante da Espada em Um Minuto
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** SYD
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma imagem retratando a ação de um discípulo errante da espada chamado Ren em uma cena de viagem em preto e carmesim, dentro de um minuto.
+
+#### Prompt
+
+```text
+Show what happens in 1 minute. Ren — wandering sword disciple, black-and-crimson travel
+```
+
+### No. 1344: Prompt de Gêmeo Digital de Sabrina Carpenter
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Pinodi
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt estruturado descrevendo um gêmeo digital de Sabrina Carpenter com características faciais específicas.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sabrina Carpenter digital twin",
+      "facial_structure": "Soft heart-shaped face profile, petite jawline, distinct high https://t.co/dvd6DUfiEq"
+```
+
+### No. 1345: Prompt da letra Z do alfabeto
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Eco Vibes 🌍
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt simples para gerar a letra Z.
+
+#### Prompt
+
+```text
+Z
+```
+
+### No. 1346: Mulher estilosa no apartamento na hora dourada
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** MykaAI
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma imagem cinematográfica fotorrealista de uma mulher em um apartamento aconchegante iluminado pela luz quente do pôr do sol.
+
+#### Prompt
+
+```text
+Photorealistic cinematic still of a stylish young woman in a cozy, feminine apartment during golden hour. Warm sunset light streams through sheer white curtains, filling the room with soft pink and golden tones.
+```
+
+### No. 1347: Retrato Editorial de Alta Moda Ultra Realista
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** KeorUnreal
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato close-up editorial de alta moda ultra realista.
+
+#### Prompt
+
+```text
+Ultra-realistic high-fashion editorial close-up portrait of
+```
+
+### No. 1348: Anúncio de Produto com Câmera Orbitante e Reflexos
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** getimg.ai
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um vídeo publicitário premium com uma câmera orbitando lentamente, reflexos em movimento e partículas atmosféricas suaves.
+
+#### Prompt
+
+```text
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+### No. 1349: Mulher jovem com pele clara e sardas
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** J⭕DIE
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma imagem de uma mulher jovem com pele clara e sardas.
+
+#### Prompt
+
+```text
+A young woman with fair skin and freckles on her face
+```
+
+### No. 1350: Gato Preto Elegante sobre Abóbora de Halloween
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Heather Green
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma cena de Halloween com um gato preto de olhos brilhantes sobre uma abóbora esculpida.
+
+#### Prompt
+
+```text
+a sleek black cat with glowing amber eyes sits perched on top of a large carved jack o lantern, dramatic Halloween atmosphere, swirling ground fog, tall twisted dead trees
+```
+
+### No. 1351: Retrato Cinematográfico em Close Extremo de um Homem
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato de estúdio escuro e profissional de um homem com traços marcantes, iluminado por um único softbox.
+
+#### Prompt
+
+```text
+Extreme closeup cinematic portrait of an American white man with sharp jawline and defined facial features, shot in a pure pitch-black professional photography studio, single large octabox softbox
+```
+
+### No. 1352: Prompt de Retrato de Mulher do Sul da Índia
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt descrevendo um retrato detalhado de uma jovem mulher do sul da Índia.
+
+#### Prompt
+
+```text
+{
+  "subject": "A breathtaking young South Indian woman in her mid-20s, radiant warm medium skin tone with flawless smooth texture and subtle natural sheen, sharp elegant facial features, high cheekbones, full plump lips with https://t.co/sG4lhnNfkQ
+```
+
+### No. 1353: Grade 2x2 de Espaços Públicos
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Gadgetify
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma grade 2x2 de imagens retratando espaços públicos em proporção 16:9.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 public space
+```
+
+### No. 1354: Retrato de Estúdio Cinematográfico Dramático de Modelo Masculino
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato de alta moda de um modelo masculino com traços marcantes, cabelo para trás e realces prateados.
+
+#### Prompt
+
+```text
+A dramatic cinematic studio portrait of a handsome male model with sharp high-fashion features and high cheekbones. He has slicked-back, wet-look dark hair with silver highlights.
+```
+
+### No. 1355: Sequência Cinematográfica de Filme de Estrada Inspirada em Filmes
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Virena
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma sequência de vídeo fotorrealista de 10 segundos no estilo de filmes de estrada como Nomadland.
+
+#### Prompt
+
+```text
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*. Use the provided female reference image as the protagonist. Preserve exact facial
+```
+
+### No. 1356: Descrição de Retrato de Mulher Jovem Profissional
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** NUSRAT
+- **Idioma:** `pt-BR`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt estruturado descrevendo uma mulher jovem com traços elegantes e profissionais e cabelo estilizado.
+
+#### Prompt
+
+```text
+"subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup"
+```
+
+### No. 1357: Apresentação Musical do Reino Subaquático
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 綴る（つづる）
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um performer masculino em uma fantasia canta em um palco cenográfico projetado como uma cidade subaquática com ruínas antigas e bolhas animadas.
+
+#### Prompt
+
+```text
+A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
 ```
 
 Este README e gerado automaticamente a partir de `data/prompts_by_locale`.

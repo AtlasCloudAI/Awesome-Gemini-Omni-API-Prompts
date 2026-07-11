@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1332 |
+| 総プロンプト数 | 1357 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 423 |
-| 最終更新 | 2026/07/10 |
+| プレビュー動画数 | 429 |
+| 最終更新 | 2026/07/11 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1230)
+### Twitter Community (1255)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -31366,6 +31366,515 @@ A photorealistic full-body portrait of a stunning young woman in her early 20s w
 
 ```text
 A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
+```
+
+### No. 1333: プレミアムキャンディービスケットの製品写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AqibAi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+直立したキャンディービスケットのパッケージの、商業用製品写真を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright
+```
+
+### No. 1334: 動画のキャラクターを写真の被写体と置き換え
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Volodymyr Cherner
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+動画内のキャラクターを、提供された写真の被写体と置き換えるためのプロンプトです。
+
+#### プロンプト
+
+```text
+replace the character with the one from my photo
+```
+
+### No. 1335: ネイビーシルクのエディトリアルファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ミニマリストな建築的空間で、ネイビーシルクをまとった女性のハイエンドなファッションポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A high-end editorial fashion portrait featuring a woman with natural freckles and an elegant updo hairstyle, posing gracefully in a minimalist, sun-drenched architectural setting. She is wearing a sophisticated navy
+```
+
+### No. 1336: 過剰に詰まったパファースニーカーの製品写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** madpencil_
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+誇張された、マシュマロのようなパファースニーカーの製品写真を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Product photography of an extremely overstuffed puffer sneaker, absurdly inflated marshmallow-like volume, exaggerated
+```
+
+### No. 1337: 既存の動画に未来的な3Dインフォグラフィックスを追加
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** madpencil_
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+既存の動画に、製品に関するミニマリスティックで未来的な3Dインフォグラフィックスを追加するためのプロンプトです。
+
+#### プロンプト
+
+```text
+add interactive minimalistic futuristic infographics in 3D space about the product in the video @ vid1 keeping the
+```
+
+### No. 1338: 顔と髪型を保持したアナロググランジ写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+被写体の元の顔と髪型を保ちながら、アナログスタイルのグランジ写真を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Without changing my face or hairstyle, create an analog-style grunge photo from the https://t.co/OG0FoyIYoq
+```
+
+### No. 1339: 南インドの女性ポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+詳細な顔の特徴を持つ若い南インド女性のポートレートを生成するための、構造化されたプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A beautiful young South Indian woman in her mid-20s, with warm medium skin tone, flawless smooth skin with subtle natural glow and light freckles, high cheekbones, defined jawline, full natural lips with soft pink gloss"}
+```
+
+### No. 1340: 質感のある髪とひげの若い男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+スタイリングされたダークブラウンの髪と短いひげを持つ、真剣な表情の若い男性のポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A young man with short, textured dark brown hair styled slightly upward at the front with natural, subtle flyaways and a neatly groomed short beard stares forward with a serious, composed expression while wearing dark,
+```
+
+### No. 1341: 夢見る春のポートレート（ローアングル）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jahan Zaib
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+サンドレスを着た女性の、低いアングルから撮影されたフォトリアリスティックな春のポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A dreamy, ultra-photorealistic springtime lifestyle portrait captured from a dramatic low-angle perspective, featuring a beautiful young woman with long, flowing dark hair wearing a simple white linen sundress. She is peacefully
+```
+
+### No. 1342: カフェにいる女性のシネマティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aijaz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ゴールデンアワーの居心地の良いカフェで、若い女性のシネマティックなポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A cinematic portrait of a young woman sitting in a cozy café at golden hour, looking back over her shoulder toward the camera. Long dark hair with soft wispy bangs gently blown across her face, natural makeup, calm and
+```
+
+### No. 1343: 一分間で描く放浪の剣士
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** SYD
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+一分以内に、黒と深紅の旅の情景の中で、レンという名の放浪の剣士の行動を描いた画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Show what happens in 1 minute. Ren — wandering sword disciple, black-and-crimson travel
+```
+
+### No. 1344: サブリナ・カーペンターのデジタルツインプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Pinodi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔の特徴を持つサブリナ・カーペンターのデジタルツインを描写する構造化されたプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sabrina Carpenter digital twin",
+      "facial_structure": "Soft heart-shaped face profile, petite jawline, distinct high https://t.co/dvd6DUfiEq"
+```
+
+### No. 1345: アルファベット文字Zのプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Eco Vibes 🌍
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+文字Zを生成するためのシンプルなプロンプトです。
+
+#### プロンプト
+
+```text
+Z
+```
+
+### No. 1346: ゴールデンアワーのアパートにいるおしゃれな女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** MykaAI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+暖かい夕日の光で照らされた居心地の良いアパートにいる女性の、フォトリアリスティックなシネマティックな静止画です。
+
+#### プロンプト
+
+```text
+Photorealistic cinematic still of a stylish young woman in a cozy, feminine apartment during golden hour. Warm sunset light streams through sheer white curtains, filling the room with soft pink and golden tones.
+```
+
+### No. 1347: 超リアルなハイファッション編集ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+超リアルでハイファッションな編集クローズアップポートレートのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-realistic high-fashion editorial close-up portrait of
+```
+
+### No. 1348: 周回カメラと反射を伴う製品広告
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** getimg.ai
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ゆっくりと周回するカメラ、動く反射、柔らかな大気中の粒子を特徴とするプレミアム広告ビデオのプロンプトです。
+
+#### プロンプト
+
+```text
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+### No. 1349: 色白でそばかすのある若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** J⭕DIE
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+色白の肌とそばかすを持つ若い女性の画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A young woman with fair skin and freckles on her face
+```
+
+### No. 1350: ハロウィンのジャック・オ・ランタンに佇むシックな黒猫
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+光る目を持つ黒猫が彫刻されたカボチャの上にいるハロウィンシーンを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+a sleek black cat with glowing amber eyes sits perched on top of a large carved jack o lantern, dramatic Halloween atmosphere, swirling ground fog, tall twisted dead trees
+```
+
+### No. 1351: 男性の極端なクローズアップシネマティックポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シャープな顔立ちの男性の、暗くプロフェッショナルなスタジオポートレートで、単一のソフトボックスで照明が当てられています。
+
+#### プロンプト
+
+```text
+Extreme closeup cinematic portrait of an American white man with sharp jawline and defined facial features, shot in a pure pitch-black professional photography studio, single large octabox softbox
+```
+
+### No. 1352: 南インド人女性のポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+若い南インド人女性の詳細なポートレートを描写するプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A breathtaking young South Indian woman in her mid-20s, radiant warm medium skin tone with flawless smooth texture and subtle natural sheen, sharp elegant facial features, high cheekbones, full plump lips with https://t.co/sG4lhnNfkQ
+```
+
+### No. 1353: 公共空間の2x2グリッド
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+16:9のアスペクト比で公共空間を描いた画像を2x2グリッドで生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+2x2 grid, 16:9, do this for 4 public space
+```
+
+### No. 1354: ドラマチックなシネマティックスタジオポートレート（男性モデル）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シャープな顔立ち、スリックバックの髪、シルバーのハイライトを持つ男性モデルのハイファッションポートレートのプロンプトです。
+
+#### プロンプト
+
+```text
+A dramatic cinematic studio portrait of a handsome male model with sharp high-fashion features and high cheekbones. He has slicked-back, wet-look dark hair with silver highlights.
+```
+
+### No. 1355: 映画にインスパイアされたシネマティックなロードムービーシーケンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Virena
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+『ノマドランド』のようなロードムービーのスタイルで、フォトリアリスティックな10秒間のビデオシーケンスを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*. Use the provided female reference image as the protagonist. Preserve exact facial
+```
+
+### No. 1356: プロフェッショナルな若い女性のポートレート説明
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** NUSRAT
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+優雅でプロフェッショナルな特徴とスタイリングされた髪を持つ若い女性を描写する構造化されたプロンプトです。
+
+#### プロンプト
+
+```text
+"subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup"
+```
+
+### No. 1357: 水中王国ミュージカルパフォーマンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 綴る（つづる）
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+古代遺跡とアニメーション化された泡でデザインされた水中都市の舞台セットで、ファンタジー衣装をまとった男性パフォーマーが歌っています。
+
+#### プロンプト
+
+```text
+A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

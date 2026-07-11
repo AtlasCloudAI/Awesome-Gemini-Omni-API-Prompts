@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1332%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1332 |
+| พรอมต์ทั้งหมด | 1357 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 423 |
-| อัปเดตล่าสุด | 10/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 429 |
+| อัปเดตล่าสุด | 11/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1230)
+### Twitter Community (1255)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -31366,6 +31366,515 @@ A photorealistic full-body portrait of a stunning young woman in her early 20s w
 
 ```text
 A photorealistic full-body portrait of a stunning young woman in her early 20s with fair skin, flawless complexion, and striking bright blue eyes. She has long, straight blonde hair
+```
+
+### No. 1333: ภาพถ่ายสินค้าบิสกิตลูกอมระดับพรีเมียม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AqibAi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพถ่ายสินค้าเชิงพาณิชย์ของซองบิสกิตลูกอมที่วางตั้งตรง
+
+#### พรอมต์
+
+```text
+Create a premium commercial product photography image of a "Candy Biscuits" packet standing upright
+```
+
+### No. 1334: แทนที่ตัวละครด้วยบุคคลจากภาพถ่าย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Volodymyr Cherner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075586786751844423.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับแทนที่ตัวละครในวิดีโอด้วยบุคคลจากภาพถ่ายที่ให้มา
+
+#### พรอมต์
+
+```text
+replace the character with the one from my photo
+```
+
+### No. 1335: ภาพแฟชั่นแนวบรรณาธิการในชุดไหมสีน้ำเงิน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพแฟชั่นระดับไฮเอนด์ของหญิงสาวในฉากสถาปัตยกรรมมินิมอล
+
+#### พรอมต์
+
+```text
+A high-end editorial fashion portrait featuring a woman with natural freckles and an elegant updo hairstyle, posing gracefully in a minimalist, sun-drenched architectural setting. She is wearing a sophisticated navy
+```
+
+### No. 1336: ภาพถ่ายสินค้ารองเท้าสนีกเกอร์แบบพัฟเฟอร์อวบอัด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** madpencil_
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพถ่ายสินค้าของรองเท้าสนีกเกอร์แบบพัฟเฟอร์ที่ดูอวบอัดเหมือนมาร์ชเมลโลว์
+
+#### พรอมต์
+
+```text
+Product photography of an extremely overstuffed puffer sneaker, absurdly inflated marshmallow-like volume, exaggerated
+```
+
+### No. 1337: เพิ่มอินโฟกราฟิก 3D อนาคตนิยมลงในวิดีโอ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** madpencil_
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075600478847537615.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับเพิ่มอินโฟกราฟิก 3D แบบมินิมอลและอนาคตนิยมเกี่ยวกับผลิตภัณฑ์ลงในวิดีโอที่มีอยู่
+
+#### พรอมต์
+
+```text
+add interactive minimalistic futuristic infographics in 3D space about the product in the video @ vid1 keeping the
+```
+
+### No. 1338: ภาพแอนะล็อกสไตล์กรันจ์โดยคงใบหน้าเดิม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพสไตล์กรันจ์แบบแอนะล็อกโดยคงใบหน้าและทรงผมเดิมของแบบ
+
+#### พรอมต์
+
+```text
+Without changing my face or hairstyle, create an analog-style grunge photo from the https://t.co/OG0FoyIYoq
+```
+
+### No. 1339: พรอมต์ภาพหญิงสาวอินเดียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่มีโครงสร้างสำหรับสร้างภาพบุคคลของหญิงสาวอินเดียใต้ที่มีรายละเอียดใบหน้า
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A beautiful young South Indian woman in her mid-20s, with warm medium skin tone, flawless smooth skin with subtle natural glow and light freckles, high cheekbones, defined jawline, full natural lips with soft pink gloss"}
+```
+
+### No. 1340: ชายหนุ่มผมทรงสไตล์และเครา
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลของชายหนุ่มหน้าตาจริงจังที่มีผมสีน้ำตาลเข้มทรงสไตล์และเคราสั้น
+
+#### พรอมต์
+
+```text
+A young man with short, textured dark brown hair styled slightly upward at the front with natural, subtle flyaways and a neatly groomed short beard stares forward with a serious, composed expression while wearing dark,
+```
+
+### No. 1341: ภาพบุคคลฤดูใบไม้ผลิแบบเพ้อฝัน มุมมองต่ำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jahan Zaib
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลฤดูใบไม้ผลิสมจริงของหญิงสาวในชุดเดรสจากมุมมองต่ำ
+
+#### พรอมต์
+
+```text
+A dreamy, ultra-photorealistic springtime lifestyle portrait captured from a dramatic low-angle perspective, featuring a beautiful young woman with long, flowing dark hair wearing a simple white linen sundress. She is peacefully
+```
+
+### No. 1342: ภาพบุคคลแบบภาพยนตร์ของผู้หญิงในร้านกาแฟ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aijaz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลแบบภาพยนตร์ของหญิงสาวในร้านกาแฟอบอุ่นยามพระอาทิตย์ตก
+
+#### พรอมต์
+
+```text
+A cinematic portrait of a young woman sitting in a cozy café at golden hour, looking back over her shoulder toward the camera. Long dark hair with soft wispy bangs gently blown across her face, natural makeup, calm and
+```
+
+### No. 1343: ศิษย์ดาบพเนจรในหนึ่งนาที
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** SYD
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์เพื่อสร้างภาพที่แสดงการกระทำของศิษย์ดาบพเนจรชื่อเหริน ในฉากการเดินทางสีดำและแดงเข้ม ภายในหนึ่งนาที
+
+#### พรอมต์
+
+```text
+Show what happens in 1 minute. Ren — wandering sword disciple, black-and-crimson travel
+```
+
+### No. 1344: พรอมต์ฝาแฝดดิจิทัลของ Sabrina Carpenter
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Pinodi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่มีโครงสร้างชัดเจน อธิบายฝาแฝดดิจิทัลของ Sabrina Carpenter พร้อมรายละเอียดใบหน้าที่เฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Sabrina Carpenter digital twin",
+      "facial_structure": "Soft heart-shaped face profile, petite jawline, distinct high https://t.co/dvd6DUfiEq"
+```
+
+### No. 1345: พรอมต์ตัวอักษร Z
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Eco Vibes 🌍
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075655695245148630.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ง่ายๆ เพื่อสร้างตัวอักษร Z
+
+#### พรอมต์
+
+```text
+Z
+```
+
+### No. 1346: หญิงสาวสไตล์ในอพาร์ตเมนต์ช่วงโกลเด้นฮาวร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** MykaAI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพนิ่งแบบภาพยนตร์สมจริงเหมือนภาพถ่ายของหญิงสาวในอพาร์ตเมนต์แสนสบายที่สว่างไสวด้วยแสงพระอาทิตย์ตกอันอบอุ่น
+
+#### พรอมต์
+
+```text
+Photorealistic cinematic still of a stylish young woman in a cozy, feminine apartment during golden hour. Warm sunset light streams through sheer white curtains, filling the room with soft pink and golden tones.
+```
+
+### No. 1347: ภาพบุคคลแฟชั่นระดับสูงสมจริงสุดขีด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพบุคคลระยะใกล้แบบอีดิทอเรียลแฟชั่นระดับสูงที่สมจริงสุดขีด
+
+#### พรอมต์
+
+```text
+Ultra-realistic high-fashion editorial close-up portrait of
+```
+
+### No. 1348: โฆษณาสินค้าด้วยก้องโคจรและแสงสะท้อน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** getimg.ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075683226681831794.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับวิดีโอโฆษณาพรีเมียมที่มีกล้องโคจรช้าๆ แสงสะท้อนเคลื่อนไหว และอนุภาคในบรรยากาศที่นุ่มนวล
+
+#### พรอมต์
+
+```text
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+### No. 1349: หญิงสาวผิวขาวใสและมีกระ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** J⭕DIE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์เพื่อสร้างภาพหญิงสาวผิวขาวใสและมีกระ
+
+#### พรอมต์
+
+```text
+A young woman with fair skin and freckles on her face
+```
+
+### No. 1350: แมวดำสวยงามบนฟักทองฮาโลวีน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heather Green
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากฮาโลวีนที่มีแมวดำตาสว่างอยู่บนฟักทองแกะสลัก
+
+#### พรอมต์
+
+```text
+a sleek black cat with glowing amber eyes sits perched on top of a large carved jack o lantern, dramatic Halloween atmosphere, swirling ground fog, tall twisted dead trees
+```
+
+### No. 1351: ภาพบุคคลชายแบบภาพยนตร์ระยะใกล้พิเศษ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพบุคคลในสตูดิโอระดับมืออาชีพที่มืดทึบของชายที่มีโครงหน้าที่คมชัด ถูกส่องสว่างด้วยซอฟต์บ็อกซ์เพียงอันเดียว
+
+#### พรอมต์
+
+```text
+Extreme closeup cinematic portrait of an American white man with sharp jawline and defined facial features, shot in a pure pitch-black professional photography studio, single large octabox softbox
+```
+
+### No. 1352: พรอมต์ภาพบุคคลหญิงอินเดียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์อธิบายภาพบุคคลโดยละเอียดของหญิงสาวชาวอินเดียใต้
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A breathtaking young South Indian woman in her mid-20s, radiant warm medium skin tone with flawless smooth texture and subtle natural sheen, sharp elegant facial features, high cheekbones, full plump lips with https://t.co/sG4lhnNfkQ
+```
+
+### No. 1353: ตาราง 2x2 ของพื้นที่สาธารณะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์เพื่อสร้างตารางภาพ 2x2 แสดงพื้นที่สาธารณะในอัตราส่วน 16:9
+
+#### พรอมต์
+
+```text
+2x2 grid, 16:9, do this for 4 public space
+```
+
+### No. 1354: ภาพบุคคลชายแบบฉบับภาพยนตร์ที่ดรามาติก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพบุคคลแฟชั่นระดับสูงของนายแบบชายที่มีโครงหน้าที่คมชัด ผมรวบสลวย และไฮไลต์สีเงิน
+
+#### พรอมต์
+
+```text
+A dramatic cinematic studio portrait of a handsome male model with sharp high-fashion features and high cheekbones. He has slicked-back, wet-look dark hair with silver highlights.
+```
+
+### No. 1355: ลำดับภาพยนตร์โรดมูฟวี่ที่ได้รับแรงบันดาลใจจากภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Virena
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075765549796340071.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างลำดับวิดีโอความยาว 10 วินาทีสมจริงเหมือนภาพถ่าย ในสไตล์ภาพยนตร์โรดมูฟวี่ เช่น Nomadland
+
+#### พรอมต์
+
+```text
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*. Use the provided female reference image as the protagonist. Preserve exact facial
+```
+
+### No. 1356: คำอธิบายภาพบุคคลหญิงสาวมืออาชีพ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** NUSRAT
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่มีโครงสร้างชัดเจน อธิบายหญิงสาวที่มีลักษณะสง่างามเป็นมืออาชีพและทรงผมที่จัดแต่ง
+
+#### พรอมต์
+
+```text
+"subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup"
+```
+
+### No. 1357: การแสดงดนตรีแห่งอาณาจักรใต้น้ำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 綴る（つづる）
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075777124414406959.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+นักแสดงชายในชุดแฟนตาซีขับร้องบนเวทีที่ออกแบบเป็นเมืองใต้น้ำพร้อมซากโบราณและฟองอากาศเคลื่อนไหว
+
+#### พรอมต์
+
+```text
+A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

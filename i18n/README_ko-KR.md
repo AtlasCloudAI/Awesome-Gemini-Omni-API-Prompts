@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1357 |
+| 전체 프롬프트 | 1396 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 429 |
-| 마지막 업데이트 | 2026. 07. 11. |
+| 미리보기 비디오 수 | 435 |
+| 마지막 업데이트 | 2026. 07. 12. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1255)
+### Twitter Community (1294)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -31875,6 +31875,800 @@ Create a 10-second ultra-photorealistic cinematic road movie sequence inspired b
 
 ```text
 A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
+```
+
+### No. 1358: 하이 패션 네이비 벨벳 포트레이트 시리즈
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+네이비 벨벳 탑을 입은 자신감 넘치는 검은 머리 여성의 하이 패션 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A series of striking, high-fashion portraits featuring a woman with long, wavy dark hair and a confident expression. She is elegantly dressed in a form-fitting, navy blue velvet mock-neck top, which complements
+```
+
+### No. 1359: 젊은 인도 여성의 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 얼굴 특징과 피부 톤을 가진 젊은 인도 여성의 초상화를 생성하기 위한 상세한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s, South Asian features, fair-warm skin tone with a healthy glow, large expressive dark brown eyes with subtle eyeliner and long lashes, perfectly shaped eyebrows, soft"
+```
+
+### No. 1360: 럭셔리 패션 에디토리얼 포트레이트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Miz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+구리빛 붉은 머리를 가진 화려한 젊은 여성의 럭셔리 패션 에디토리얼 스타일 초현실적인 초상화입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic luxury fashion editorial portrait of a glamorous young woman with copper-red hair
+```
+
+### No. 1361: 할리우드 나이트라이프 에디토리얼 포트레이트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Natty Windstorm
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+할리우드 나이트라이프 속 화려한 금발 여성의 초현실적인 초상화입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic luxury nightlife editorial portrait of a glamorous young blonde woman sitting elegantly on a Hollywood
+```
+
+### No. 1362: 럭셔리 루프탑 패션 포트레이트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dockie
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+황혼의 루프탑 위에서 화려한 금발 여성의 초현실적인 초상화입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic luxury rooftop fashion portrait of a glamorous young blonde woman with platinum-blonde hair styled in an elegant
+```
+
+### No. 1363: 바람에 흩날리는 머리를 한 여성, 산업용 다리 위
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shahid Wani
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+강철 다리 위에 서서 푸른 탱크탑을 입은 당당한 여성의 넓은 도시 라이프스타일 샷으로, 극적인 바람 효과가 돋보입니다.
+
+#### 프롬프트
+
+```text
+Wide urban lifestyle shot, woman in deep blue ribbed tank top standing on or near industrial steel bridge, long dark hair blown dramatically by wind, slim blue-tinted sunglasses, confident upward chin tilt, full steel lattice
+```
+
+### No. 1364: 숲 속의 천상의 성기사 vs 그림자 생물
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Cortex Visual ・ AI Movies
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+저주받은 숲 속에서 성기사가 빨갛게 빛나는 눈을 가진 그림자 생물과 맞서는 장면입니다.
+
+#### 프롬프트
+
+```text
+A heavenly paladin stands in a muddy clearing inside the cursed forest with his longsword raised in a defensive stance. A terrifying shadow creature with glowing red eyes has landed
+```
+
+### No. 1365: 추상적 비구상 예술의 폭풍
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** enepty
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+인식 가능한 형태 없이 순수한 추상 표현주의 예술을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Extremely abstract non-representational art, pure abstract expressionism, completely non-figurative, no humans, no silhouettes, no hands, no recognizable objects at all. The entire canvas is a chaotic turbulent storm of
+```
+
+### No. 1366: 황혼의 시네마틱 판타지 숲
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sharon Riley
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+눈 덮인 소나무 숲 속 황혼의 노을이 빛나는, 극적인 판타지 영상 시퀀스를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through
+```
+
+### No. 1367: 녹색 스웨터를 입은 여성의 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+어두운 녹색 터틀넥과 긴 갈색 머리를 가진 여성의 고품질 초상화로, 부드러운 실내 자연광에서 촬영되었습니다.
+
+#### 프롬프트
+
+```text
+A captivating, high-quality portrait of a stunning woman with long, wavy brown hair and expressive eyes, wearing a cozy, thick-knit dark forest green turtleneck sweater. She is captured in a soft, natural indoor
+```
+
+### No. 1368: 영화적 포토리얼리즘 3/4 신체 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dilshad Hussain
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+얼굴 신원을 위해 참조 사진을 사용하여 영화적이고 포토리얼리즘적인 3/4 신체 초상화를 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A cinematic, photorealistic three-quarter body portrait captured at eye level, with the subject filling most of the vertical frame and cropped below the knees. Use the attached reference photo for facial identity and preserve
+```
+
+### No. 1369: 우아한 여성을 주제로 한 프랑스 헌정 럭셔리 아트워크
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Smiling Khan
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도자기 같은 피부와 흐르는 갈색 머리를 가진 우아한 여성의 극적인 측면 프로필을 정사각형 형식의 디테일한 럭셔리 아트워크로 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 1:1 ultra-detailed luxury France tribute artwork featuring a completely different elegant woman (not the reference model), shown in dramatic side profile with porcelain skin, long wavy brunette hair flowing softly behind
+```
+
+### No. 1370: 어두운 눈을 가진 평온한 여성 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Talia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+온화한 미소, 크고 어두운 눈, 긴 웨이브 머리를 가진 아름다운 젊은 여성의 초현실적인 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create an image: A high quality super realestic potrait of a beautiful young woman with a gentle, serene smile. She has large, expressive dark eyes and long, flowing, wavy
+```
+
+### No. 1371: 우키요에 스타일의 반지의 제왕 포스터
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Michael Rabone
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+1920년대 빈티지 만화 미학과 결합된 우키요에 예술 스타일의 반지의 제왕 영화 포스터를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Lord of the Rings movie poster in Ukiyo-e
+Cuphead 1920s vintage cartoon style
+```
+
+### No. 1372: 스칼릿 요한슨 디지털 트윈 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Pinodi
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+클래식한 타원형 얼굴 구조를 가진 스칼릿 요한슨의 디지털 트윈 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Scarlett Johansson digital twin",
+      "facial_structure": "Classic oval face, defined"
+    }
+  }
+}
+```
+
+### No. 1373: 황혼의 눈 덮인 판타지 숲과 드래곤
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mr Suhail Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+푸른색, 보라색, 분홍색 조명과 내리는 눈이 어우러진 황혼의 눈 덮인 소나무 숲 속 영화적인 판타지 장면입니다.
+
+#### 프롬프트
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through the air
+```
+
+### No. 1374: 남아시아 여성의 초현실적인 그래파이트 스케치
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Arina Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 이미지의 얼굴 신원을 보존한 젊은 남아시아 여성의 사실적인 연필 스케치 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.
+
+Create a premium ultra-realistic graphite pencil sketch in 9:16 format.
+
+A breathtaking young South Asian woman walking
+```
+
+### No. 1375: 업로드 이미지의 정확한 신원 참조
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mr. Tariq
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+업로드된 이미지를 참조로 사용하여 사람의 신원을 높은 정확도로 보존하도록 AI에 지시하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose,
+```
+
+### No. 1376: 도시 광장의 초현실적 거대 제품 기념물
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 공공 기념물로 전시된 거대한 제품을 특징으로 하는 초현실적이고 영화적인 장면을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Surreal giant-scale product installation, a massive oversized [product from uploaded photo] displayed as a public monument on a raised platform in a modern city plaza, Burj Khalifa and glass skyscrapers visible in the
+```
+
+### No. 1377: 갈라진 입술을 가진 페이퍼 퀼링 여성 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+우아한 여성 초상화를 주제로 한 정교한 페이퍼 퀼링 및 릴리프 조각 예술 작품을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A sophisticated, multi-layered paper-quilling and relief-sculpture art piece featuring an elegant female portrait with blonde braided hair, blue eyes, and split pink-and-white lips.
+```
+
+### No. 1378: 강렬한 눈빛과 수염을 가진 중년 남성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+강렬한 시선과 세부적으로 묘사된 수염을 가진 남성의 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A striking middle-aged man with an intense, direct gaze looks slightly downward toward the lens, his strong jawline framed by a thick, meticulously groomed beard peppered with subtle hints of lighter brown and gray.
+```
+
+### No. 1379: 주인공의 역동적인 보케 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+취약함과 자신감을 혼합한 보케 효과가 있는 클로즈업 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A dynamic bokeh close-up of The Protagonist, framed tightly at the head and shoulders. The subject exudes a striking blend of fragility and confidence, maintaining an unwavering,
+```
+
+### No. 1380: 홍콩 해변의 젊은 남성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HK Student Safe 清水帳 🇭🇰🇨🇦
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+해변에서 젖은 흰색 탱크탑과 스피도를 입은 18세 홍콩 출신의 영상이나 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+He is 18 and from Hong Kong. Background is a Hong Kong beach, no words. He wears wet white very very low neck tank top undershirt and white speedo.
+```
+
+### No. 1381: 격렬한 4개의 공상과학 장면 그리드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+그래픽 실루엣 주제와 함께 2x2 격자로 배열된 네 개의 강렬한 AI 추론 공상과학 장면을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+16:9, 2x2 grid, do this for 4 intense AI inferred scifi scenes
+ input: $ subject // extract the subject as a graphic silhouette. s =
+```
+
+### No. 1382: 여성의 사실적 캔디드 실내 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** K
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+산호빛 빨간색 배경을 앞에 둔 젊은 여성의 사실적이고 스마트폰 스타일의 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A realistic candid indoor portrait, young woman standing in front of a plain coral red background, straight-on eye-level camera angle as if casually taken with a smartphone, intimate upper body framing, natural indoor lighting, soft
+```
+
+### No. 1383: 고정 카메라 애니메이션 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** We The Future
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Omni를 사용하여 정지 이미지를 고정 카메라로 애니메이션화하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Static camera.
+```
+
+### No. 1384: AI 비디오를 위한 미세한 디테일 지시
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** getimg.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+옷감 움직임, 빛의 깜빡임, 카메라 호흡 효과와 같은 미묘한 움직임과 효과에 초점을 맞춘 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+fabric moves slightly, background lights flicker, camera breathes, subject stays sharp
+```
+
+### No. 1385: 헬스장의 건강한 젊은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J⭕DIE
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+건강한 젊은 여성의 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A fit young woman
+```
+
+### No. 1386: 도자기 나비목 초현실적 나방 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+피사체의 얼굴을 덮은 거대하고 초현실적인 흰색 나방이 등장하는 초현실적 클로즈업 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Extreme close-up straight-on portrait of The Protagonist. Surreal high-budget practical photography. A colossal, hyper-realistic white moth rests directly over the face.
+```
+
+### No. 1387: 레지던트 이블 좀비 전투 vs 조용한 커피 휴식
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Vireon
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+좀비 생존 전투와 평화로운 작전 후 장면을 대비시키며, 시네마와 레지던트 이블을 혼합한 비디오 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+An relentless fight for survival against zombies in the dark corridors of the R.P.D. vs. a quiet coffee break at home, enjoying the silence after the mission is accomplished. Natalie Portman ❌ Ada Wong. What if the world of cinema and the Resident Evil universe collided.
+```
+
+### No. 1388: 파스텔 사리를 입은 우아한 인도 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Talia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+파스텔 꽃무늬 사리와 백리스 블라우스를 입고 어깨 너머로 바라보는, 피부가 밝은 젊은 인도 여성의 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Fair Beautiful fair-skinned young Indian woman, elegant back pose, pastel floral saree, soft pink backless blouse with tie strings, sleek low bun, emerald jewelry, tiny black bindi, looking over
+```
+
+### No. 1389: 무언가를 조각하라는 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** mohere
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+AI에게 무언가를 조각하라고 지시하는 미니멀리즘 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Carve something
+```
+
+### No. 1390: 비 내리는 고원 계곡의 중세 마을
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 0xAIGOAT.exe
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+안개 낀 계곡과 중세 마을이 보이는 창문에 비가 내리는 장면을 담은 비디오 씬을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Cue up 0:16. Rain on a virtual window, foggy Highlands valley, medieval village in the distance.
+```
+
+### No. 1391: 창백한 피부와 긴 웨이브 머리를 가진 젊은 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J⭕DIE
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+창백한 피부와 긴 웨이브 머리를 가진 젊은 여성을 묘사하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A young woman with fair skin and long wavy
+```
+
+### No. 1392: 덤벨을 드는 남성의 시네마틱 헬스장 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mr Das
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+헬스장에서 근육질의 젊은 남성이 집중적으로 웨이트를 드는 모습의 시네마틱 클로즈업을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A cinematic close-up shot of a fit young man lifting heavy dumbbells in an intense gym session, shirtless, wearing black joggers and wrist wraps. His muscles are fully engaged—veins visible across his arms, sharply defined abs, chest, and
+```
+
+### No. 1393: 캐릭터와 거대한 고양이가 함께하는 시네마틱 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aiza
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+인간 캐릭터와 거대한 3D 만화 고양이가 등장하는 시네마틱하고 사실적인 미디엄 샷을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character
+```
+
+### No. 1394: 거대한 만화 고양이와 함께하는 시네마틱 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aiza
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+인간 캐릭터와 거대한 3D 만화 고양이가 등장하는 시네마틱 미디엄 샷을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character (in the
+```
+
+### No. 1395: 흑백 미니멀리즘 콘택트 시트 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+4프레임 콘택트 시트 형태로 배열된 젊은 사람의 흑백 미니멀리즘 스튜디오 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Black-and-white minimalist studio contact sheet portrait of a young person with a short dark hairstyle, wearing a simple black crew-neck top. Four-frame composition in a clean grid layout, each frame showing a different
+```
+
+### No. 1396: 예술적 그림 배경을 가진 시네마틱 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 얼굴을 사용하여 대형 예술적 그림을 배경으로 한 시네마틱 스튜디오 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

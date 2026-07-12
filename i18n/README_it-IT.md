@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una raccolta curata di esempi di prompt Gemini Omni con anteprime video OSS integrate.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Conteggio |
 | --- | ---: |
-| Prompt Totali | 1357 |
+| Prompt Totali | 1396 |
 | Categorie | 8 |
-| Video di Anteprima | 429 |
-| Ultimo Aggiornamento | 11/07/2026 |
+| Video di Anteprima | 435 |
+| Ultimo Aggiornamento | 12/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1255)
+### Twitter Community (1294)
 
 ### No. 103: Ritratto Romantico Naturale - Fotografia Editoriale
 
@@ -31875,6 +31875,800 @@ Un performer maschile in costume fantastico canta su un palco allestito come una
 
 ```text
 A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
+```
+
+### No. 1358: Serie di Ritratti di Alta Moda in Velluto Blu Navy
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare ritratti di alta moda di una donna sicura di sé con capelli scuri, che indossa una top in velluto blu navy.
+
+#### Prompt
+
+```text
+A series of striking, high-fashion portraits featuring a woman with long, wavy dark hair and a confident expression. She is elegantly dressed in a form-fitting, navy blue velvet mock-neck top, which complements
+```
+
+### No. 1359: Ritratto di una giovane donna indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta dettagliata per generare un ritratto di una giovane donna indiana con tratti facciali specifici e tonalità della pelle.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s, South Asian features, fair-warm skin tone with a healthy glow, large expressive dark brown eyes with subtle eyeliner and long lashes, perfectly shaped eyebrows, soft"
+```
+
+### No. 1360: Ritratto Editoriale di Moda Lusso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Miz
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto ultra-realistico di una giovane donna con capelli rosso-rame in stile editoriale di moda lusso.
+
+#### Prompt
+
+```text
+Ultra-realistic luxury fashion editorial portrait of a glamorous young woman with copper-red hair
+```
+
+### No. 1361: Ritratto Editoriale della Vita Notturna di Hollywood
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Natty Windstorm
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto ultra-realistico di una donna bionda glamour nella vita notturna di Hollywood.
+
+#### Prompt
+
+```text
+Ultra-realistic luxury nightlife editorial portrait of a glamorous young blonde woman sitting elegantly on a Hollywood
+```
+
+### No. 1362: Ritratto di Moda Lusso sul Tetto
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Dockie
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto ultra-realistico di una donna bionda glamour su un tetto al tramonto.
+
+#### Prompt
+
+```text
+Ultra-realistic luxury rooftop fashion portrait of a glamorous young blonde woman with platinum-blonde hair styled in an elegant
+```
+
+### No. 1363: Donna su ponte industriale con capelli al vento
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Shahid Wani
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ampio scatto di vita urbana di una donna sicura di sé in una canottiera blu su un ponte d'acciaio, con effetti di vento drammatici.
+
+#### Prompt
+
+```text
+Wide urban lifestyle shot, woman in deep blue ribbed tank top standing on or near industrial steel bridge, long dark hair blown dramatically by wind, slim blue-tinted sunglasses, confident upward chin tilt, full steel lattice
+```
+
+### No. 1364: Paladino Celeste contro Creatura d'Ombra nella Foresta
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Cortex Visual ・ AI Movies
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un paladino in una foresta maledetta affronta una creatura d'ombra con occhi rossi luminosi.
+
+#### Prompt
+
+```text
+A heavenly paladin stands in a muddy clearing inside the cursed forest with his longsword raised in a defensive stance. A terrifying shadow creature with glowing red eyes has landed
+```
+
+### No. 1365: Tempesta d'Arte Astratta Non Rappresentazionale
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** enepty
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare arte espressionista astratta pura, senza forme riconoscibili.
+
+#### Prompt
+
+```text
+Extremely abstract non-representational art, pure abstract expressionism, completely non-figurative, no humans, no silhouettes, no hands, no recognizable objects at all. The entire canvas is a chaotic turbulent storm of
+```
+
+### No. 1366: Foresta Fantasy Cinematografica al Crepuscolo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Sharon Riley
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per una sequenza video drammatica fantasy ambientata in una foresta di pini innevata al tramonto, con un tramonto luminoso.
+
+#### Prompt
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through
+```
+
+### No. 1367: Ritratto di una donna in un maglione verde
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto di alta qualità di una donna con lunghi capelli castani in un dolcevita verde scuro, catturato in una morbida luce naturale interna.
+
+#### Prompt
+
+```text
+A captivating, high-quality portrait of a stunning woman with long, wavy brown hair and expressive eyes, wearing a cozy, thick-knit dark forest green turtleneck sweater. She is captured in a soft, natural indoor
+```
+
+### No. 1368: Ritratto cinematografico fotorealistico a tre quarti di figura
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Dilshad Hussain
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per creare un ritratto cinematografico e fotorealistico a tre quarti di figura, utilizzando una foto di riferimento per l'identità facciale.
+
+#### Prompt
+
+```text
+A cinematic, photorealistic three-quarter body portrait captured at eye level, with the subject filling most of the vertical frame and cropped below the knees. Use the attached reference photo for facial identity and preserve
+```
+
+### No. 1369: Opera d'Arte Tributo alla Francia di Lusso di una Donna Elegante
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Smiling Khan
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per creare un'opera d'arte di lusso dettagliata in formato quadrato, raffigurante una donna elegante con pelle porcellanata e fluenti capelli castani in un drammatico profilo laterale.
+
+#### Prompt
+
+```text
+Create a 1:1 ultra-detailed luxury France tribute artwork featuring a completely different elegant woman (not the reference model), shown in dramatic side profile with porcelain skin, long wavy brunette hair flowing softly behind
+```
+
+### No. 1370: Ritratto di Donna Serena con Occhi Scuri
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Talia
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto super realistico di una bella giovane donna con un sorriso gentile, grandi occhi scuri e lunghi capelli mossi.
+
+#### Prompt
+
+```text
+Create an image: A high quality super realestic potrait of a beautiful young woman with a gentle, serene smile. She has large, expressive dark eyes and long, flowing, wavy
+```
+
+### No. 1371: Poster de Il Signore degli Anelli in Stile Ukiyo-e
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Michael Rabone
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un poster cinematografico de Il Signore degli Anelli nello stile artistico Ukiyo-e combinato con un'estetica vintage da cartone animato anni '20.
+
+#### Prompt
+
+```text
+Lord of the Rings movie poster in Ukiyo-e
+Cuphead 1920s vintage cartoon style
+```
+
+### No. 1372: Ritratto del Gemello Digitale di Scarlett Johansson
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Pinodi
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto di un gemello digitale di Scarlett Johansson con una classica struttura del viso ovale.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Scarlett Johansson digital twin",
+      "facial_structure": "Classic oval face, defined"
+    }
+  }
+}
+```
+
+### No. 1373: Foresta Fantastica Innevata al Crepuscolo con Drago
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Mr Suhail Ai
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una scena fantasy cinematografica in una foresta di pini innevata al crepuscolo, con illuminazione blu, viola e rosa e neve che cade.
+
+#### Prompt
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through the air
+```
+
+### No. 1374: Schizzo Ultra-realistico a Grafite di Donna Sudasiatica
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Arina Ai
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto realistico a matita di una giovane donna sudasiatica, preservando l'identità facciale da un'immagine di riferimento.
+
+#### Prompt
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.
+
+Create a premium ultra-realistic graphite pencil sketch in 9:16 format.
+
+A breathtaking young South Asian woman walking
+```
+
+### No. 1375: Riferimento Esatto all'Identità da Immagine Caricata
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Mr. Tariq
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt che istruisce un'IA a preservare l'identità di una persona con alta accuratezza, utilizzando un'immagine caricata come riferimento.
+
+#### Prompt
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose,
+```
+
+### No. 1376: Monumento Surreale di un Prodotto Gigante nella Piazza della Città
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Maddox
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per una scena surreale e cinematografica che presenta un prodotto massiccio esposto come monumento pubblico in una città moderna.
+
+#### Prompt
+
+```text
+Surreal giant-scale product installation, a massive oversized [product from uploaded photo] displayed as a public monument on a raised platform in a modern city plaza, Burj Khalifa and glass skyscrapers visible in the
+```
+
+### No. 1377: Ritratto Femminile in Paper Quilling con Labbra Divise
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'opera d'arte sofisticata in paper quilling e scultura a rilievo di un elegante ritratto femminile.
+
+#### Prompt
+
+```text
+A sophisticated, multi-layered paper-quilling and relief-sculpture art piece featuring an elegant female portrait with blonde braided hair, blue eyes, and split pink-and-white lips.
+```
+
+### No. 1378: Uomo di Mezza Età Striking con Barba
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Picts by AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto di un uomo con uno sguardo intenso e una barba dettagliata.
+
+#### Prompt
+
+```text
+A striking middle-aged man with an intense, direct gaze looks slightly downward toward the lens, his strong jawline framed by a thick, meticulously groomed beard peppered with subtle hints of lighter brown and gray.
+```
+
+### No. 1379: Primo Piano Dinamico con Bokeh del Protagonista
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** timedoctor.eth
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un ritratto in primo piano con effetto bokeh, che fonde fragilità e sicurezza.
+
+#### Prompt
+
+```text
+A dynamic bokeh close-up of The Protagonist, framed tightly at the head and shoulders. The subject exudes a striking blend of fragility and confidence, maintaining an unwavering,
+```
+
+### No. 1380: Giovane Uomo sulla Spiaggia di Hong Kong
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** HK Student Safe 清水帳 🇭🇰🇨🇦
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un video o un'immagine di un diciottenne di Hong Kong che indossa una canottiera bianca bagnata e uno slip da bagno su una spiaggia.
+
+#### Prompt
+
+```text
+He is 18 and from Hong Kong. Background is a Hong Kong beach, no words. He wears wet white very very low neck tank top undershirt and white speedo.
+```
+
+### No. 1381: Quattro Scene di Fantascienza Intense in Griglia
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Gadgetify
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare quattro intense scene di fantascienza dedotte dall'IA, disposte in una griglia 2x2 con un soggetto a silhouette grafica.
+
+#### Prompt
+
+```text
+16:9, 2x2 grid, do this for 4 intense AI inferred scifi scenes
+ input: $ subject // extract the subject as a graphic silhouette. s =
+```
+
+### No. 1382: Ritratto Interno Realistico e Candido di Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** K
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un ritratto realistico in stile smartphone di una giovane donna su uno sfondo rosso corallo.
+
+#### Prompt
+
+```text
+A realistic candid indoor portrait, young woman standing in front of a plain coral red background, straight-on eye-level camera angle as if casually taken with a smartphone, intimate upper body framing, natural indoor lighting, soft
+```
+
+### No. 1383: Prompt per Animazione con Fotocamera Statico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** We The Future
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per animare un'immagine statica con una fotocamera statica utilizzando Google Omni.
+
+#### Prompt
+
+```text
+Static camera.
+```
+
+### No. 1384: Direzionare Piccoli Dettagli per Video IA
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** getimg.ai
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt che si concentra su movimenti ed effetti sottili come il movimento del tessuto, lo sfarfallio della luce e il respiro della fotocamera.
+
+#### Prompt
+
+```text
+fabric moves slightly, background lights flicker, camera breathes, subject stays sharp
+```
+
+### No. 1385: Giovane donna in forma in palestra
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** J⭕DIE
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di una giovane donna in forma.
+
+#### Prompt
+
+```text
+A fit young woman
+```
+
+### No. 1386: Ritratto Surreale di Lepidottera in Porcellana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** timedoctor.eth
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto surreale in primo piano che presenta un'enorme falena bianca iperrealistica che copre il volto del soggetto.
+
+#### Prompt
+
+```text
+Extreme close-up straight-on portrait of The Protagonist. Surreal high-budget practical photography. A colossal, hyper-realistic white moth rests directly over the face.
+```
+
+### No. 1387: Lotta Zombie di Resident Evil contro Pausa Caffè Tranquilla
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Vireon
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt video che contrappone una battaglia di sopravvivenza agli zombie a una scena pacifica post-missione, fondendo cinema e Resident Evil.
+
+#### Prompt
+
+```text
+An relentless fight for survival against zombies in the dark corridors of the R.P.D. vs. a quiet coffee break at home, enjoying the silence after the mission is accomplished. Natalie Portman ❌ Ada Wong. What if the world of cinema and the Resident Evil universe collided.
+```
+
+### No. 1388: Donna Indiana Elegante in Sari Pastello
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Talia
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di una giovane donna indiana dalla pelle chiara in un sari floreale pastello e blusa senza schienale, che si guarda alle spalle.
+
+#### Prompt
+
+```text
+Fair Beautiful fair-skinned young Indian woman, elegant back pose, pastel floral saree, soft pink backless blouse with tie strings, sleek low bun, emerald jewelry, tiny black bindi, looking over
+```
+
+### No. 1389: Prompt "Intaglia Qualcosa"
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** mohere
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt minimalista che istruisce un'IA a intagliare qualcosa.
+
+#### Prompt
+
+```text
+Carve something
+```
+
+### No. 1390: Villaggio Medievale nella Valle delle Highlands Piovosa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 0xAIGOAT.exe
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per una scena video che mostra la pioggia su una finestra che si affaccia su una valle nebbiosa con un villaggio medievale.
+
+#### Prompt
+
+```text
+Cue up 0:16. Rain on a virtual window, foggy Highlands valley, medieval village in the distance.
+```
+
+### No. 1391: Giovane donna con pelle chiara e capelli lunghi e mossi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** J⭕DIE
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt che descrive una giovane donna con pelle chiara e capelli lunghi e mossi.
+
+#### Prompt
+
+```text
+A young woman with fair skin and long wavy
+```
+
+### No. 1392: Inquadratura Cinematografica in Palestra di Uomo che Solleva Manubri
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Mr Das
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un primo piano cinematografico di un giovane uomo muscoloso che solleva pesi intensamente in palestra.
+
+#### Prompt
+
+```text
+A cinematic close-up shot of a fit young man lifting heavy dumbbells in an intense gym session, shirtless, wearing black joggers and wrist wraps. His muscles are fully engaged—veins visible across his arms, sharply defined abs, chest, and
+```
+
+### No. 1393: Inquadratura Cinematografica con Personaggio e Gatto Gigante
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aiza
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un'inquadratura media realistica e cinematografica che presenta un personaggio umano e un gatto dei cartoni animati 3D gigante.
+
+#### Prompt
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character
+```
+
+### No. 1394: Inquadratura Cinematografica con Gatto dei Cartoni Gigante
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aiza
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un'inquadratura media cinematografica che presenta un personaggio umano e un gatto dei cartoni animati 3D gigante.
+
+#### Prompt
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character (in the
+```
+
+### No. 1395: Ritratto in Bianco e Nero Minimalista a Foglio Contatto
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Maddox
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un ritratto in studio minimalista in bianco e nero di una persona giovane, disposto come foglio contatto a quattro fotogrammi.
+
+#### Prompt
+
+```text
+Black-and-white minimalist studio contact sheet portrait of a young person with a short dark hairstyle, wearing a simple black crew-neck top. Four-frame composition in a clean grid layout, each frame showing a different
+```
+
+### No. 1396: Ritratto Cinematografico con Sfondo Pittorico Artistico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Ozair AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto in studio cinematografico utilizzando un volto di riferimento con un dipinto artistico su larga scala sullo sfondo.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
 ```
 
 Questo README e generato automaticamente dai dati in `data/prompts_by_locale`.

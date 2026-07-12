@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1357 |
+| พรอมต์ทั้งหมด | 1396 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 429 |
-| อัปเดตล่าสุด | 11/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 435 |
+| อัปเดตล่าสุด | 12/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1255)
+### Twitter Community (1294)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -31875,6 +31875,800 @@ Create a 10-second ultra-photorealistic cinematic road movie sequence inspired b
 
 ```text
 A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
+```
+
+### No. 1358: ภาพชุดพอร์ตเทรตแฟชั่นระดับสูงชุดเวลเวตสีน้ำเงินเข้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับการสร้างภาพพอร์ตเทรตแฟชั่นระดับสูงของผู้หญิงมั่นใจผมสีเข้มในเสื้อสีน้ำเงินเข้มเนื้อเวลเวต
+
+#### พรอมต์
+
+```text
+A series of striking, high-fashion portraits featuring a woman with long, wavy dark hair and a confident expression. She is elegantly dressed in a form-fitting, navy blue velvet mock-neck top, which complements
+```
+
+### No. 1359: ภาพเหมือนผู้หญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายละเอียดสำหรับการสร้างภาพเหมือนผู้หญิงสาวอินเดียที่มีลักษณะใบหน้าและโทนผิวเฉพาะ
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s, South Asian features, fair-warm skin tone with a healthy glow, large expressive dark brown eyes with subtle eyeliner and long lashes, perfectly shaped eyebrows, soft"
+```
+
+### No. 1360: ภาพแฟชั่นพอร์ตเทรตบรรณาธิการสุดหรู
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Miz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพพอร์ตเทรตสมจริงระดับสูงสุดของผู้หญิงสาวผมแดงทองแดงในสไตล์แฟชั่นบรรณาธิการสุดหรู
+
+#### พรอมต์
+
+```text
+Ultra-realistic luxury fashion editorial portrait of a glamorous young woman with copper-red hair
+```
+
+### No. 1361: ภาพพอร์ตเทรตบรรณาธิการไนท์ไลฟ์ฮอลลีวูด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Natty Windstorm
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพพอร์ตเทรตสมจริงระดับสูงสุดของผู้หญิงผมบลอนด์สุดเก๋ในบรรยากาศไนท์ไลฟ์ฮอลลีวูด
+
+#### พรอมต์
+
+```text
+Ultra-realistic luxury nightlife editorial portrait of a glamorous young blonde woman sitting elegantly on a Hollywood
+```
+
+### No. 1362: ภาพแฟชั่นพอร์ตเทรตสุดหรูบนดาดฟ้า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dockie
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพพอร์ตเทรตสมจริงระดับสูงสุดของผู้หญิงผมบลอนด์สุดเก๋บนดาดฟ้ายามพระอาทิตย์ตก
+
+#### พรอมต์
+
+```text
+Ultra-realistic luxury rooftop fashion portrait of a glamorous young blonde woman with platinum-blonde hair styled in an elegant
+```
+
+### No. 1363: ผู้หญิงบนสะพานเหล็กกับผมปลิวสะบัด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Shahid Wani
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพไลฟ์สไตล์เมืองกว้างของผู้หญิงมั่นใจในเสื้อกล้ามสีฟ้าบนสะพานเหล็ก พร้อมเอฟเฟกต์ลมจัด
+
+#### พรอมต์
+
+```text
+Wide urban lifestyle shot, woman in deep blue ribbed tank top standing on or near industrial steel bridge, long dark hair blown dramatically by wind, slim blue-tinted sunglasses, confident upward chin tilt, full steel lattice
+```
+
+### No. 1364: อัศวินศักดิ์สิทธิ์ปะทะอสูรเงาในป่า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Cortex Visual ・ AI Movies
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+อัศวินศักดิ์สิทธิ์ในป่าที่ถูกสาปเผชิญหน้ากับอสูรเงาที่มีดวงตาแดงเรืองแสง
+
+#### พรอมต์
+
+```text
+A heavenly paladin stands in a muddy clearing inside the cursed forest with his longsword raised in a defensive stance. A terrifying shadow creature with glowing red eyes has landed
+```
+
+### No. 1365: พายุศิลปะนามธรรมไร้รูปทรง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** enepty
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับการสร้างศิลปะนามธรรมบริสุทธิ์แบบสำแดงอารมณ์ โดยไม่มีรูปทรงที่จดจำได้
+
+#### พรอมต์
+
+```text
+Extremely abstract non-representational art, pure abstract expressionism, completely non-figurative, no humans, no silhouettes, no hands, no recognizable objects at all. The entire canvas is a chaotic turbulent storm of
+```
+
+### No. 1366: ป่าพิธีการแฟนตาซียามพลบค่ำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sharon Riley
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับการสร้างภาพเคลื่อนไหวแฟนตาซีที่ดราม่า ฉากในป่าสนหิมะยามพลบค่ำพร้อมแสงตะวันที่ส่องสว่าง
+
+#### พรอมต์
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through
+```
+
+### No. 1367: ภาพบุคคลหญิงในเสื้อสเวตเตอร์สีเขียว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลคุณภาพสูงของหญิงสาวที่มีผมยาวสีน้ำตาล สวมเสื้อสเวตเตอร์คอเต่าเข้มสีเขียว ถ่ายในแสงธรรมชาติอ่อนนุ่มภายในอาคาร
+
+#### พรอมต์
+
+```text
+A captivating, high-quality portrait of a stunning woman with long, wavy brown hair and expressive eyes, wearing a cozy, thick-knit dark forest green turtleneck sweater. She is captured in a soft, natural indoor
+```
+
+### No. 1368: ภาพบุคคลสามในสี่ตัวแบบสมจริงแบบภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dilshad Hussain
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลสามในสี่ตัวแบบที่สมจริงแบบภาพยนตร์ โดยใช้ภาพถ่ายอ้างอิงสำหรับเอกลักษณ์ใบหน้า
+
+#### พรอมต์
+
+```text
+A cinematic, photorealistic three-quarter body portrait captured at eye level, with the subject filling most of the vertical frame and cropped below the knees. Use the attached reference photo for facial identity and preserve
+```
+
+### No. 1369: งานศิลป์หรูเพื่อเป็นเกียรติแก่ฝรั่งเศสของหญิงสาวสง่างาม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Smiling Khan
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างงานศิลป์หรูหรารายละเอียดสูง รูปแบบสี่เหลี่ยมจัตุรัส แสดงภาพหญิงสาวสง่างามที่มีผิวสีขาวเหมือนกระเบื้องและผมสีน้ำตาลยาวพลิ้ว ในภาพโปรไฟล์ด้านข้างที่ดรามาติก
+
+#### พรอมต์
+
+```text
+Create a 1:1 ultra-detailed luxury France tribute artwork featuring a completely different elegant woman (not the reference model), shown in dramatic side profile with porcelain skin, long wavy brunette hair flowing softly behind
+```
+
+### No. 1370: ภาพบุคคลหญิงสงบนิ่งด้วยดวงตาสีเข้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Talia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลสมจริงสูงสุดของหญิงสาวสวยที่มีรอยยิ้มอ่อนโยน ดวงตากลมใหญ่สีเข้ม และผมยาวเป็นลอน
+
+#### พรอมต์
+
+```text
+Create an image: A high quality super realestic potrait of a beautiful young woman with a gentle, serene smile. She has large, expressive dark eyes and long, flowing, wavy
+```
+
+### No. 1371: โปสเตอร์ลอร์ดออฟเดอะริงส์ในสไตล์อุคิโยะ-เอะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Michael Rabone
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างโปสเตอร์ภาพยนตร์ลอร์ดออฟเดอะริงส์ในสไตล์ศิลปะอุคิโยะ-เอะ ผสมผสานกับสุนทรียะการ์ตูนวินเทจยุค 1920
+
+#### พรอมต์
+
+```text
+Lord of the Rings movie poster in Ukiyo-e
+Cuphead 1920s vintage cartoon style
+```
+
+### No. 1372: ภาพบุคคลฝาแฝดดิจิทัลของสการ์เลตต์ โจแฮนส์สัน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Pinodi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลของฝาแฝดดิจิทัลของสการ์เลตต์ โจแฮนส์สัน ที่มีโครงหน้าไข่แบบคลาสสิก
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Scarlett Johansson digital twin",
+      "facial_structure": "Classic oval face, defined"
+    }
+  }
+}
+```
+
+### No. 1373: ป่าจินตนิมิตหิมะตกในยามสนธยากับมังกร
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mr Suhail Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ฉากแฟนตาซีแบบภาพยนตร์ในป่าสนหิมะตกช่วงพลบค่ำ แสงสีน้ำเงิน ม่วง และชมพู พร้อมหิมะโปรยปราย
+
+#### พรอมต์
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through the air
+```
+
+### No. 1374: ภาพสเก็ตช์กราไฟต์สมจริงสูงสุดของหญิงชาวเอเชียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Arina Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพสเก็ตช์ดินสอสมจริงของหญิงสาวชาวเอเชียใต้ โดยรักษาเอกลักษณ์ใบหน้าจากภาพอ้างอิง
+
+#### พรอมต์
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.
+
+Create a premium ultra-realistic graphite pencil sketch in 9:16 format.
+
+A breathtaking young South Asian woman walking
+```
+
+### No. 1375: อ้างอิงตัวตนที่แม่นยำจากภาพที่อัปโหลด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mr. Tariq
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งที่แนะนำให้ AI รักษาเอกลักษณ์ของบุคคลด้วยความแม่นยำสูง โดยใช้ภาพที่อัปโหลดเป็นข้อมูลอ้างอิง
+
+#### พรอมต์
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose,
+```
+
+### No. 1376: อนุสาวรีย์ผลิตภัณฑ์ยักษ์เหนือจริงในพลาซ่าเมือง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับฉากเหนือจริงแบบภาพยนตร์ ที่มีผลิตภัณฑ์ขนาดมหึมาแสดงเป็นอนุสาวรีย์สาธารณะในเมืองสมัยใหม่
+
+#### พรอมต์
+
+```text
+Surreal giant-scale product installation, a massive oversized [product from uploaded photo] displayed as a public monument on a raised platform in a modern city plaza, Burj Khalifa and glass skyscrapers visible in the
+```
+
+### No. 1377: ภาพบุคคลหญิงด้วยเทคนิคเปเปอร์ควิลลิงและริมฝีปากแยก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างงานศิลปะที่ซับซ้อนด้วยเทคนิคเปเปอร์ควิลลิงและประติมากรรมนูนต่ำ เป็นภาพบุคคลหญิงที่สง่างาม
+
+#### พรอมต์
+
+```text
+A sophisticated, multi-layered paper-quilling and relief-sculpture art piece featuring an elegant female portrait with blonde braided hair, blue eyes, and split pink-and-white lips.
+```
+
+### No. 1378: ชายวัยกลางคนสะดุดตาด้วยเครา
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลของชายที่มีสายตาลึกซึ้งและเครารายละเอียด
+
+#### พรอมต์
+
+```text
+A striking middle-aged man with an intense, direct gaze looks slightly downward toward the lens, his strong jawline framed by a thick, meticulously groomed beard peppered with subtle hints of lighter brown and gray.
+```
+
+### No. 1379: ภาพคลอสอัพไดนามิกของตัวเอกด้วยโบเก้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับภาพบุคคลระยะใกล้ที่มีโบเก้ ผสมผสานความเปราะบางและความมั่นใจ
+
+#### พรอมต์
+
+```text
+A dynamic bokeh close-up of The Protagonist, framed tightly at the head and shoulders. The subject exudes a striking blend of fragility and confidence, maintaining an unwavering,
+```
+
+### No. 1380: ชายหนุ่มบนชายหาดฮ่องกง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HK Student Safe 清水帳 🇭🇰🇨🇦
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างวิดีโอหรือภาพของชายวัย 18 ปีจากฮ่องกง สวมเสื้อกล้ามสีขาวเปียกและกางเกงว่ายน้ำสปีโดบนชายหาด
+
+#### พรอมต์
+
+```text
+He is 18 and from Hong Kong. Background is a Hong Kong beach, no words. He wears wet white very very low neck tank top undershirt and white speedo.
+```
+
+### No. 1381: สี่ฉากไซไฟเข้มข้นในรูปแบบกริด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างสี่ฉากไซไฟเข้มข้นที่อนุมานโดย AI จัดเรียงในกริด 2x2 พร้อมตัวแบบเงากราฟิก
+
+#### พรอมต์
+
+```text
+16:9, 2x2 grid, do this for 4 intense AI inferred scifi scenes
+ input: $ subject // extract the subject as a graphic silhouette. s =
+```
+
+### No. 1382: ภาพบุคคลในร่มแบบแคนดิดสมจริงของหญิงสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** K
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลแบบสมจริงสไตล์สมาร์ทโฟนของหญิงสาวกับพื้นหลังสีแดงปะการัง
+
+#### พรอมต์
+
+```text
+A realistic candid indoor portrait, young woman standing in front of a plain coral red background, straight-on eye-level camera angle as if casually taken with a smartphone, intimate upper body framing, natural indoor lighting, soft
+```
+
+### No. 1383: คำสั่งสร้างภาพเคลื่อนไหวกล้องนิ่ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** We The Future
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเคลื่อนไหวจากภาพนิ่งด้วยกล้องแบบคงที่ โดยใช้ Google Omni
+
+#### พรอมต์
+
+```text
+Static camera.
+```
+
+### No. 1384: กำกับรายละเอียดเล็กๆ น้อยๆ สำหรับวิดีโอ AI
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** getimg.ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งที่เน้นการเคลื่อนไหวและเอฟเฟกต์ที่ละเอียดอ่อน เช่น การเคลื่อนไหวของผ้า แสงไฟกระพริบ และการหายใจของกล้อง
+
+#### พรอมต์
+
+```text
+fabric moves slightly, background lights flicker, camera breathes, subject stays sharp
+```
+
+### No. 1385: หญิงสาวฟิตในยิม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** J⭕DIE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพหญิงสาวที่ร่างกายฟิต
+
+#### พรอมต์
+
+```text
+A fit young woman
+```
+
+### No. 1386: ภาพบุคคลเหนือจริงผีเสื้อกลางคืนสีขาวเหมือนเครื่องลายคราม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลระยะใกล้แบบเหนือจริงที่มีผีเสื้อกลางคืนสีขาวขนาดมหึมาแบบไฮเปอร์เรียลลิสติกปกคลุมใบหน้าของผู้ถูกถ่าย
+
+#### พรอมต์
+
+```text
+Extreme close-up straight-on portrait of The Protagonist. Surreal high-budget practical photography. A colossal, hyper-realistic white moth rests directly over the face.
+```
+
+### No. 1387: ต่อสู้ซอมบี้ Resident Evil กับพักดื่มกาแฟเงียบๆ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Vireon
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งวิดีโอที่เปรียบเทียบการต่อสู้เอาชีวิตรอดจากซอมบี้กับฉากสงบหลังภารกิจ ผสมผสานภาพยนตร์กับ Resident Evil
+
+#### พรอมต์
+
+```text
+An relentless fight for survival against zombies in the dark corridors of the R.P.D. vs. a quiet coffee break at home, enjoying the silence after the mission is accomplished. Natalie Portman ❌ Ada Wong. What if the world of cinema and the Resident Evil universe collided.
+```
+
+### No. 1388: หญิงสาวอินเดียสง่างามในส่าหรีโทนพาสเทล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Talia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพหญิงสาวอินเดียผิวขาวในส่าหรีลายดอกไม้โทนพาสเทลกับเสื้อกล้ามหลังเปิด มองข้ามไหล่
+
+#### พรอมต์
+
+```text
+Fair Beautiful fair-skinned young Indian woman, elegant back pose, pastel floral saree, soft pink backless blouse with tie strings, sleek low bun, emerald jewelry, tiny black bindi, looking over
+```
+
+### No. 1389: คำสั่งแกะสลักบางสิ่ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** mohere
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งแบบเรียบง่ายที่บอกให้ AI แกะสลักบางสิ่ง
+
+#### พรอมต์
+
+```text
+Carve something
+```
+
+### No. 1390: หมู่บ้านยุคกลางในหุบเขาหมอกบนที่สูงตอนฝนตก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 0xAIGOAT.exe
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างฉากวิดีโอที่มีฝนตกบนหน้าต่าง มองเห็นหุบเขาหมอกกับหมู่บ้านยุคกลาง
+
+#### พรอมต์
+
+```text
+Cue up 0:16. Rain on a virtual window, foggy Highlands valley, medieval village in the distance.
+```
+
+### No. 1391: หญิงสาวผิวขาวซีดกับผมยาวเป็นลอน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** J⭕DIE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งอธิบายหญิงสาวผิวขาวซีดกับผมยาวเป็นลอน
+
+#### พรอมต์
+
+```text
+A young woman with fair skin and long wavy
+```
+
+### No. 1392: ภาพถ่ายในยิมแบบภาพยนตร์ของชายยกดัมเบล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mr Das
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพระยะใกล้แบบภาพยนตร์ของชายหนุ่มกล้ามเนื้อที่ยกน้ำหนักอย่างเข้มข้นในยิม
+
+#### พรอมต์
+
+```text
+A cinematic close-up shot of a fit young man lifting heavy dumbbells in an intense gym session, shirtless, wearing black joggers and wrist wraps. His muscles are fully engaged—veins visible across his arms, sharply defined abs, chest, and
+```
+
+### No. 1393: ภาพถ่ายแบบภาพยนตร์กับตัวละครและแมวยักษ์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพถ่ายระยะกลางแบบสมจริงและภาพยนตร์ที่มีตัวละครมนุษย์และแมวการ์ตูนสามมิติขนาดยักษ์
+
+#### พรอมต์
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character
+```
+
+### No. 1394: ภาพถ่ายแบบภาพยนตร์กับแมวการ์ตูนยักษ์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพถ่ายระยะกลางแบบภาพยนตร์ที่มีตัวละครมนุษย์และแมวการ์ตูนสามมิติขนาดยักษ์
+
+#### พรอมต์
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character (in the
+```
+
+### No. 1395: ภาพบุคคลขาวดำเรียบง่ายแบบแผ่นคอนแทคชีต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลในสตูดิโอขาวดำแบบเรียบง่ายของคนหนุ่มสาว จัดเรียงเป็นแผ่นคอนแทคชีตสี่เฟรม
+
+#### พรอมต์
+
+```text
+Black-and-white minimalist studio contact sheet portrait of a young person with a short dark hairstyle, wearing a simple black crew-neck top. Four-frame composition in a clean grid layout, each frame showing a different
+```
+
+### No. 1396: ภาพบุคคลแบบภาพยนตร์กับพื้นหลังภาพวาดศิลปะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลในสตูดิโอแบบภาพยนตร์ โดยใช้ใบหน้าเป็นอ้างอิง พร้อมภาพวาดศิลปะขนาดใหญ่เป็นพื้นหลัง
+
+#### พรอมต์
+
+```text
+Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1357%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1357 |
+| 提示词总数 | 1396 |
 | 分类数 | 16 |
-| 预览视频数 | 429 |
-| 最后更新 | 2026/07/11 |
+| 预览视频数 | 435 |
+| 最后更新 | 2026/07/12 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1255)
+### Twitter Community (1294)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -31915,6 +31915,800 @@ Create a 10-second ultra-photorealistic cinematic road movie sequence inspired b
 
 ```text
 A male performer, of Asian ethnicity, with styled dark hair, wearing a dark teal sleeveless leather-like costume with silver metallic accents, stands center stage. He is singing and making dramatic gestures. The stage background depicts a vibrant underwater kingdom with ancient Romanesque ruins, a crescent moon visible through the deep blue water, and animated bubbles rising. The camera slowly zooms in from a medium full shot to a medium close-up of the performer, then slightly zooms out, maintaining a steady shot.
+```
+
+### No. 1358: 高端时尚海军蓝丝绒肖像系列
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成一位自信深色头发女性身穿海军蓝丝绒上衣的高端时尚肖像的提示。
+
+#### 提示词
+
+```text
+A series of striking, high-fashion portraits featuring a woman with long, wavy dark hair and a confident expression. She is elegantly dressed in a form-fitting, navy blue velvet mock-neck top, which complements
+```
+
+### No. 1359: 一位年轻印度女性的肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有特定面部特征和肤色的年轻印度女性肖像的详细提示。
+
+#### 提示词
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s, South Asian features, fair-warm skin tone with a healthy glow, large expressive dark brown eyes with subtle eyeliner and long lashes, perfectly shaped eyebrows, soft"
+```
+
+### No. 1360: 奢华时尚编辑肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Miz
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位拥有铜红色头发的魅力年轻女子，以奢华时尚编辑风格呈现的超写实肖像。
+
+#### 提示词
+
+```text
+Ultra-realistic luxury fashion editorial portrait of a glamorous young woman with copper-red hair
+```
+
+### No. 1361: 好莱坞夜生活时尚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Natty Windstorm
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位魅力四射的金发女子身处好莱坞夜生活场景中的超写实肖像。
+
+#### 提示词
+
+```text
+Ultra-realistic luxury nightlife editorial portrait of a glamorous young blonde woman sitting elegantly on a Hollywood
+```
+
+### No. 1362: 奢华屋顶时尚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dockie
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位魅力四射的金发女子在日落时分屋顶上的超写实肖像。
+
+#### 提示词
+
+```text
+Ultra-realistic luxury rooftop fashion portrait of a glamorous young blonde woman with platinum-blonde hair styled in an elegant
+```
+
+### No. 1363: 工业桥上发丝飞扬的女子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shahid Wani
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅城市生活风格的广角镜头，捕捉一位身穿蓝色背心、自信地站在钢桥上、发丝被风戏剧性吹起的女子。
+
+#### 提示词
+
+```text
+Wide urban lifestyle shot, woman in deep blue ribbed tank top standing on or near industrial steel bridge, long dark hair blown dramatically by wind, slim blue-tinted sunglasses, confident upward chin tilt, full steel lattice
+```
+
+### No. 1364: 森林中的神圣圣武士对战暗影生物
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Cortex Visual ・ AI Movies
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位圣武士在被诅咒的森林中，与一只眼睛散发红光的暗影生物对峙。
+
+#### 提示词
+
+```text
+A heavenly paladin stands in a muddy clearing inside the cursed forest with his longsword raised in a defensive stance. A terrifying shadow creature with glowing red eyes has landed
+```
+
+### No. 1365: 抽象非具象艺术风暴
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** enepty
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075925751849955439.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成纯粹抽象表现主义艺术、不包含可识别形式的提示。
+
+#### 提示词
+
+```text
+Extremely abstract non-representational art, pure abstract expressionism, completely non-figurative, no humans, no silhouettes, no hands, no recognizable objects at all. The entire canvas is a chaotic turbulent storm of
+```
+
+### No. 1366: 暮色下的电影感奇幻森林
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075927483757854860.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成黄昏时分雪松林中，带有发光日落效果的戏剧性奇幻视频序列的提示。
+
+#### 提示词
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through
+```
+
+### No. 1367: 身着绿色毛衣的女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅高质量的女性肖像，描绘一位棕色长发女子，身着深绿色高领毛衣，在柔和的室内自然光下拍摄。
+
+#### 提示词
+
+```text
+A captivating, high-quality portrait of a stunning woman with long, wavy brown hair and expressive eyes, wearing a cozy, thick-knit dark forest green turtleneck sweater. She is captured in a soft, natural indoor
+```
+
+### No. 1368: 电影级写实四分之三身肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作电影级、写实风格四分之三身肖像的提示，使用参考照片来确保面部特征的准确性。
+
+#### 提示词
+
+```text
+A cinematic, photorealistic three-quarter body portrait captured at eye level, with the subject filling most of the vertical frame and cropped below the knees. Use the attached reference photo for facial identity and preserve
+```
+
+### No. 1369: 致敬法国的奢华艺术品：优雅女性侧影
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Smiling Khan
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作细节丰富、方形构图的奢华艺术品的提示，描绘一位拥有瓷白肌肤和流动棕发的优雅女性，以戏剧性的侧影呈现。
+
+#### 提示词
+
+```text
+Create a 1:1 ultra-detailed luxury France tribute artwork featuring a completely different elegant woman (not the reference model), shown in dramatic side profile with porcelain skin, long wavy brunette hair flowing softly behind
+```
+
+### No. 1370: 眼眸深邃的宁静女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成超写实肖像的提示，描绘一位美丽年轻女子，面带温柔微笑，拥有大大的深色眼睛和长波浪发。
+
+#### 提示词
+
+```text
+Create an image: A high quality super realestic potrait of a beautiful young woman with a gentle, serene smile. She has large, expressive dark eyes and long, flowing, wavy
+```
+
+### No. 1371: 浮世绘风格的《指环王》海报
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Michael Rabone
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成《指环王》电影海报的提示，要求结合浮世绘艺术风格与1920年代复古卡通美学。
+
+#### 提示词
+
+```text
+Lord of the Rings movie poster in Ukiyo-e
+Cuphead 1920s vintage cartoon style
+```
+
+### No. 1372: 斯嘉丽·约翰逊数字孪生肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成斯嘉丽·约翰逊数字孪生肖像的提示，要求具有经典的椭圆形脸型结构。
+
+#### 提示词
+
+```text
+{
+  "subject": {
+    "identity": {
+      "biometric_reference": "Scarlett Johansson digital twin",
+      "facial_structure": "Classic oval face, defined"
+    }
+  }
+}
+```
+
+### No. 1373: 暮色龙影下的奇幻雪林
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mr Suhail Ai
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2075950277891616962.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个电影化的奇幻场景，描绘黄昏时分蓝、紫、粉色光影与飘雪中的松林雪景。
+
+#### 提示词
+
+```text
+A dramatic cinematic fantasy sequence in a snowy pine forest at twilight, illuminated by cold blue and purple dusk tones with a glowing pink sunset on the horizon. Snow falls gently through the air
+```
+
+### No. 1374: 南亚女性的超写实石墨素描
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Arina Ai
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成年轻南亚女性写实铅笔素描肖像的提示，需根据参考图像保留面部特征。
+
+#### 提示词
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.
+
+Create a premium ultra-realistic graphite pencil sketch in 9:16 format.
+
+A breathtaking young South Asian woman walking
+```
+
+### No. 1375: 基于上传图像的精确身份参照
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mr. Tariq
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个指示AI以高精度保留人物身份的提示，使用上传的图像作为参照。
+
+#### 提示词
+
+```text
+Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose,
+```
+
+### No. 1376: 城市广场中超现实的巨型产品纪念碑
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作超现实、电影化场景的提示，描绘一个作为公共纪念碑展示的巨大产品，位于现代城市中。
+
+#### 提示词
+
+```text
+Surreal giant-scale product installation, a massive oversized [product from uploaded photo] displayed as a public monument on a raised platform in a modern city plaza, Burj Khalifa and glass skyscrapers visible in the
+```
+
+### No. 1377: 裂唇纸艺女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成精致纸艺与浮雕雕塑艺术品的提示，描绘一幅优雅的女性肖像。
+
+#### 提示词
+
+```text
+A sophisticated, multi-layered paper-quilling and relief-sculpture art piece featuring an elegant female portrait with blonde braided hair, blue eyes, and split pink-and-white lips.
+```
+
+### No. 1378: 蓄须、引人注目的中年男子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成男子肖像的提示，要求具有强烈的凝视和细节丰富的胡须。
+
+#### 提示词
+
+```text
+A striking middle-aged man with an intense, direct gaze looks slightly downward toward the lens, his strong jawline framed by a thick, meticulously groomed beard peppered with subtle hints of lighter brown and gray.
+```
+
+### No. 1379: 主角的动态散景特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作散景特写肖像的提示，融合了脆弱感与自信。
+
+#### 提示词
+
+```text
+A dynamic bokeh close-up of The Protagonist, framed tightly at the head and shoulders. The subject exudes a striking blend of fragility and confidence, maintaining an unwavering,
+```
+
+### No. 1380: 香港海滩上的年轻男子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HK Student Safe 清水帳 🇭🇰🇨🇦
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成视频或图像的提示，描绘一名18岁的香港青年，身穿湿透的白色背心和三角泳裤，身处海滩。
+
+#### 提示词
+
+```text
+He is 18 and from Hong Kong. Background is a Hong Kong beach, no words. He wears wet white very very low neck tank top undershirt and white speedo.
+```
+
+### No. 1381: 网格中的四幅激烈科幻场景
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成四幅由AI推断的激烈科幻场景的提示，这些场景以2x2网格排列，并包含一个图形剪影主题。
+
+#### 提示词
+
+```text
+16:9, 2x2 grid, do this for 4 intense AI inferred scifi scenes
+ input: $ subject // extract the subject as a graphic silhouette. s =
+```
+
+### No. 1382: 写实室内女子自然肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** K
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成写实风格、类似智能手机拍摄的年轻女子肖像的提示，背景为珊瑚红色。
+
+#### 提示词
+
+```text
+A realistic candid indoor portrait, young woman standing in front of a plain coral red background, straight-on eye-level camera angle as if casually taken with a smartphone, intimate upper body framing, natural indoor lighting, soft
+```
+
+### No. 1383: 静态摄像机动画提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** We The Future
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015130878652486.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个使用Google Omni为静态图像添加静态摄像机动画的提示。
+
+#### 提示词
+
+```text
+Static camera.
+```
+
+### No. 1384: 为AI视频指导微小细节
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** getimg.ai
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076015918816092345.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个专注于细微动作和效果的提示，如布料运动、光线闪烁和摄像机呼吸感。
+
+#### 提示词
+
+```text
+fabric moves slightly, background lights flicker, camera breathes, subject stays sharp
+```
+
+### No. 1385: 健身房中的健美年轻女子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成健美年轻女子图像的提示。
+
+#### 提示词
+
+```text
+A fit young woman
+```
+
+### No. 1386: 瓷翼鳞翅目超现实飞蛾肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个超现实特写肖像提示，描绘了一只覆盖人物面部的巨大、超写实白色飞蛾。
+
+#### 提示词
+
+```text
+Extreme close-up straight-on portrait of The Protagonist. Surreal high-budget practical photography. A colossal, hyper-realistic white moth rests directly over the face.
+```
+
+### No. 1387: 《生化危机》僵尸大战 vs 宁静咖啡时光
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Vireon
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个视频提示，对比了僵尸生存战斗与任务后宁静场景，融合了电影风格和《生化危机》元素。
+
+#### 提示词
+
+```text
+An relentless fight for survival against zombies in the dark corridors of the R.P.D. vs. a quiet coffee break at home, enjoying the silence after the mission is accomplished. Natalie Portman ❌ Ada Wong. What if the world of cinema and the Resident Evil universe collided.
+```
+
+### No. 1388: 身着淡雅纱丽的优雅印度女子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成图像的提示：一位肤色白皙的年轻印度女子，身着淡雅花卉纱丽和露背上衣，正回头张望。
+
+#### 提示词
+
+```text
+Fair Beautiful fair-skinned young Indian woman, elegant back pose, pastel floral saree, soft pink backless blouse with tie strings, sleek low bun, emerald jewelry, tiny black bindi, looking over
+```
+
+### No. 1389: 雕刻某物提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** mohere
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个指示人工智能雕刻某物的极简提示。
+
+#### 提示词
+
+```text
+Carve something
+```
+
+### No. 1390: 雨中高地山谷中世纪村庄
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 0xAIGOAT.exe
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2076079089807499438.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成视频场景的提示：雨水落在窗户上，窗外是笼罩着中世纪村庄的雾蒙蒙山谷。
+
+#### 提示词
+
+```text
+Cue up 0:16. Rain on a virtual window, foggy Highlands valley, medieval village in the distance.
+```
+
+### No. 1391: 肤色白皙、长发波浪的年轻女子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+描述一位肤色白皙、长发波浪的年轻女子的提示。
+
+#### 提示词
+
+```text
+A young woman with fair skin and long wavy
+```
+
+### No. 1392: 男子举哑铃的电影感健身房镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mr Das
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成肌肉发达年轻男子在健身房专注举重的电影感特写镜头的提示。
+
+#### 提示词
+
+```text
+A cinematic close-up shot of a fit young man lifting heavy dumbbells in an intense gym session, shirtless, wearing black joggers and wrist wraps. His muscles are fully engaged—veins visible across his arms, sharply defined abs, chest, and
+```
+
+### No. 1393: 角色与巨型猫的电影感镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成电影感、写实风格中景镜头的提示，包含一个人类角色和一个巨型3D卡通猫。
+
+#### 提示词
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character
+```
+
+### No. 1394: 与巨型卡通猫的电影感镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成电影感中景镜头的提示，包含一个人类角色和一个巨型3D卡通猫。
+
+#### 提示词
+
+```text
+Full medium shot, cinematic realism, featuring the human character from the reference image image_0.png with maximum facial accuracy and identity consistency, standing confidently beside a giant, highly detailed 3D gray cartoon cat character (in the
+```
+
+### No. 1395: 黑白极简接触印相肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成年轻人物黑白极简影棚肖像的提示，排列为四格接触印相样式。
+
+#### 提示词
+
+```text
+Black-and-white minimalist studio contact sheet portrait of a young person with a short dark hairstyle, wearing a simple black crew-neck top. Four-frame composition in a clean grid layout, each frame showing a different
+```
+
+### No. 1396: 艺术绘画背景下的电影感肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成电影感影棚肖像的提示，使用参考人脸，背景为大型艺术绘画。
+
+#### 提示词
+
+```text
+Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

@@ -26,7 +26,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 | Tong so Prompt | 1396 |
 | So danh muc | 8 |
 | So video xem truoc | 435 |
-| Cap nhat lan cuoi | 12/07/2026 |
+| Cap nhat lan cuoi | 13/07/2026 |
 
 ### 🧩 Supported Models
 

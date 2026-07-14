@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 1396 |
+| 提示詞總數 | 1416 |
 | 分類數 | 8 |
 | 預覽影片數 | 435 |
-| 最後更新 | 2026/07/13 |
+| 最後更新 | 2026/07/14 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -32669,6 +32669,421 @@ Black-and-white minimalist studio contact sheet portrait of a young person with 
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: 電影感黑白時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅高級時尚的垂直肖像，描繪一位身穿黑色高領毛衣和西裝外套的優雅年輕男子，以陰鬱的黑白色調美學呈現。
+
+#### 提示詞
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: 奢華老錢風時尚編輯場景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Weinberg
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成高級時尚廣告場景的提示，以歐洲商業區為背景，呈現靜謐奢華的美學風格。
+
+#### 提示詞
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: 香水坊中的酸楚煉金術師肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅超寫實的中畫幅肖像，描繪一位憂鬱的天才，身處陽光普照、雜亂無章的植物香水坊中。
+
+#### 提示詞
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: 南亞女性肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於描繪一位具有精細面部特徵的年輕南亞女性的肖像提示。
+
+#### 提示詞
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: 倚靠欄杆的肌肉男肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成中等長度四分之三側面肖像的提示，描繪一位姿勢隨意的肌肉發達的年輕男子。
+
+#### 提示詞
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: 黑白時尚編輯肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作特寫黑白時尚編輯肖像的提示。
+
+#### 提示詞
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: 寫實女性黑暗精靈工匠
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ullr | Majd
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成高度寫實的女性黑暗精靈工匠圖像的提示。
+
+#### 提示詞
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: 咖啡館內女子的炭筆肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅描繪優雅年輕女子在溫馨咖啡館內的垂直炭筆肖像，手持點燃香菸，煙霧繚繞。
+
+#### 提示詞
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: 科幻電影可愛立體書場景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成四部著名科幻電影的可愛3D立體書場景2x2網格圖的提示。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: 三位優雅年輕女性特寫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成三位坐著的優雅年輕女性特寫圖像的提示。
+
+#### 提示詞
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: 坐在石階上的紅褐色頭髮女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成一位長紅褐色頭髮女子在戶外自然、沉思姿勢的圖像提示。
+
+#### 提示詞
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: 花園露台桌旁的角色
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** LilyFernwild
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個描述兩位角色坐在小屋花園露台桌旁演奏音樂的場景提示。
+
+#### 提示詞
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: 樹枝上變色龍特寫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成色彩鮮豔的變色龍特寫、視線高度影片的詳細提示。
+
+#### 提示詞
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: 晨間山景與咖啡杯場景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** mini singh
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成桌上擺有咖啡杯、山脈與薄霧的寧靜場景提示。
+
+#### 提示詞
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: 晨間山景與咖啡杯場景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** mini singh
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成山脈、薄霧與現代咖啡杯的寧靜早晨場景提示。
+
+#### 提示詞
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: 奢華休閒生活風格編輯多格拼貼
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成多格拼貼的提示，採用嚴格臉部鎖定以保留參考圖像中的面部特徵。
+
+#### 提示詞
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: 奢華休閒生活風格編輯拼貼
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成多格拼貼的提示，採用嚴格臉部鎖定以保留參考圖像中的面部特徵。
+
+#### 提示詞
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: 電影感雙重曝光時尚海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Arina Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作具有雙重曝光效果的高級時尚海報提示，需保留特定女性肖像。
+
+#### 提示詞
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: 南亞女性肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個描述一位年輕南亞女性，包含詳細面部與髮型特徵的JSON提示。
+
+#### 提示詞
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: 粉彩貼紙風格韓國女孩肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成首爾街頭風格、戴眼鏡的歡樂韓國女孩寫實肖像的提示。
+
+#### 提示詞
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 1396 |
+| Tong so Prompt | 1416 |
 | So danh muc | 8 |
 | So video xem truoc | 435 |
-| Cap nhat lan cuoi | 13/07/2026 |
+| Cap nhat lan cuoi | 14/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -32669,6 +32669,421 @@ Một gợi ý để tạo ra một bức chân dung trong studio mang phong cá
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: Chân dung Thời Trang Điện Ảnh Đen Trắng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung thời trang cao cấp theo chiều dọc của một chàng trai trẻ thanh lịch trong áo len cổ lọ đen và blazer, được thể hiện bằng thẩm mỹ đen trắng đầy tâm trạng.
+
+#### Prompt
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: Cảnh Thời Trang Biên Tập Phong Cách 'Tiền Cũ' Sang Trọng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Weinberg
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra cảnh chụp chiến dịch thời trang cao cấp với thẩm mỹ sang trọng tinh tế tại một khu kinh doanh châu Âu.
+
+#### Prompt
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: Chân dung Nhà Giả Kim Mang Tính Axit trong Tiệm Chế Tạo Nước Hoa
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung định dạng trung siêu thực, mô tả một thần đồng u sầu trong một tiệm chế tạo nước hoa thực vật hỗn loạn, ngập tràn ánh nắng.
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: Gợi ý Chân dung Phụ nữ Nam Á
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý mô tả chi tiết các đặc điểm của một phụ nữ trẻ Nam Á để tạo nên một bức chân dung.
+
+#### Prompt
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: Chân dung người đàn ông cơ bắp tựa vào lan can
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho bức chân dung ba phần tư cỡ trung, mô tả một chàng trai trẻ cơ bắp với tư thế thư giãn, thoải mái.
+
+#### Prompt
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: Chân Dung Biên Tập Thời Trang Đen Trắng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Alex Prompts
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo chân dung biên tập thời trang cận cảnh đen trắng.
+
+#### Prompt
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: Nghệ Nhân Hắc Tinh Linh Nữ Chân Thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ullr | Majd
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo hình ảnh chân thực cao về một nữ nghệ nhân hắc tinh linh.
+
+#### Prompt
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: Chân Dung Than Chì Người Phụ Nữ Trong Quán Cà Phê
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung than chì theo chiều dọc về một cô gái trẻ thanh lịch trong quán cà phê ấm cúng, cầm điếu thuốc đang cháy với làn khói bay nhẹ.
+
+#### Prompt
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: Mô Hình Sách Tranh Dễ Thương Cho Phim Khoa Học Viễn Tưởng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Gadgetify
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo lưới 2x2 các mô hình sách tranh 3D dễ thương cho bốn bộ phim khoa học viễn tưởng nổi tiếng.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: Cận Cảnh Ba Cô Gái Trẻ Thanh Lịch
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KeorUnreal
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo hình ảnh cận cảnh ba cô gái trẻ thanh lịch đang ngồi.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: Người phụ nữ tóc nâu đỏ ngồi trên bệ đá
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Talia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo hình ảnh một người phụ nữ với mái tóc dài màu nâu đỏ trong tư thế tự nhiên, trầm tư ngoài trời.
+
+#### Prompt
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: Các Nhân Vật Ở Bàn Sân Vườn
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** LilyFernwild
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh hai nhân vật ngồi ở bàn ngoài hiên trong một khu vườn nhà quê, chơi nhạc.
+
+#### Prompt
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: Cận cảnh một con tắc kè hoa có mạng che trên cành cây
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heather Green
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chi tiết để tạo video cận cảnh, ngang tầm mắt về một con tắc kè hoa nhiều màu sắc có mạng che.
+
+#### Prompt
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: Cảnh Buổi Sáng Với Núi Và Tách Cà Phê
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mini singh
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo cảnh thanh bình về núi, sương mù và một tách cà phê trên bàn.
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: Cảnh Buổi Sáng Với Núi Và Tách Cà Phê
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mini singh
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một cảnh buổi sáng thanh bình với núi, sương mù và một tách cà phê hiện đại.
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: Ảnh Ghép Nhiều Ô Biên Tập Phong Cách Sống Thường Nhật Sang Trọng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aiza
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ảnh ghép nhiều ô với khóa mặt nghiêm ngặt để bảo toàn danh tính khuôn mặt từ hình ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: Ảnh Ghép Biên Tập Phong Cách Sống Thường Nhật Sang Trọng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aiza
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ảnh ghép nhiều ô với khóa mặt nghiêm ngặt để bảo toàn danh tính khuôn mặt từ hình ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: Áp Phích Thời Trang Đa Phơi Sáng Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Arina Ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo áp phích thời trang cao cấp với hiệu ứng phơi sáng kép, giữ nguyên một chân dung phụ nữ cụ thể.
+
+#### Prompt
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: Gợi Ý Chân Dung Phụ Nữ Nam Á
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý dạng JSON mô tả một phụ nữ trẻ Nam Á với các đặc điểm chi tiết về khuôn mặt và mái tóc.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: Chân Dung Cô Gái Hàn Quốc Phong Cách Hình Dán Pastel
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo chân dung phong cách đường phố chân thực về một cô gái Hàn Quốc vui vẻ đeo kính ở Seoul.
+
+#### Prompt
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Eine kuratierte Sammlung von Gemini-Omni-Promptbeispielen mit eingebetteten OSS-Videovorschauen.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrik | Anzahl |
 | --- | ---: |
-| Prompts Insgesamt | 1396 |
+| Prompts Insgesamt | 1416 |
 | Kategorien | 11 |
 | Vorschauvideos | 435 |
-| Zuletzt aktualisiert | 13.07.2026 |
+| Zuletzt aktualisiert | 14.07.2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Ein wütender roter Drache (Element) erhebt sich aus dem Meer und fliegt mit ext
 
 <a id="category-11"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: Romantische Naturporträt-Redaktionsfotografie
 
@@ -32684,6 +32684,421 @@ Ein Prompt zur Erstellung eines filmischen Studio-Porträts unter Verwendung ein
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: Kinematografisches Schwarz-Weiß-Modenporträt
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Minahil
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein vertikales High-Fashion-Porträt eines eleganten jungen Mannes in einem schwarzen Rollkragenpullover und Blazer, umgesetzt in einer düsteren Schwarz-Weiß-Ästhetik.
+
+#### Prompt
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: Editoriale Modenszene im Luxus-Stil der alten Geldelite
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Weinberg
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erzeugung einer High-Fashion-Kampagnenszene mit einer zurückhaltenden Luxusästhetik in einem europäischen Geschäftsviertel.
+
+#### Prompt
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: Porträt eines säuerlichen Alchemisten in der Parfümerie
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** timedoctor.eth
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein hyperrealistisches Mittelformat-Porträt eines melancholischen Wunderkinds in einer chaotischen, sonnendurchfluteten botanischen Parfümerie.
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: Prompt für ein Porträt einer südasiatischen Frau
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Glowecho
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt, der eine junge südasiatische Frau mit detaillierten Gesichtszügen für ein Porträt beschreibt.
+
+#### Prompt
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: Porträt eines muskulösen Mannes, der sich auf ein Geländer lehnt
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Picts by AI
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt für ein mittelformatiges Dreiviertelporträt eines lässig posierenden, muskulösen jungen Mannes.
+
+#### Prompt
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: Schwarz-Weiß Fashion Editorial Porträt
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Alex Prompts
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung eines Nahaufnahme-Schwarz-Weiß-Fashion-Editorial-Porträts.
+
+#### Prompt
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: Realistische weibliche Dunkelelfen-Artifizierin
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Ullr | Majd
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung eines hochrealistischen Bildes einer weiblichen Dunkelelfen-Artifizierin.
+
+#### Prompt
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: Kohlezeichnung-Porträt einer Frau im Café
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Minahil
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein vertikales Kohlezeichnung-Porträt einer eleganten jungen Frau in einem gemütlichen Café, die eine brennende Zigarette mit aufsteigendem Rauch hält.
+
+#### Prompt
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: Niedliches Storybook-Diorama für Sci-Fi-Filme
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Gadgetify
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung eines 2x2-Rasters mit niedlichen 3D-Storybook-Dioramen für vier berühmte Science-Fiction-Filme.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: Nahaufnahme von drei eleganten jungen Frauen
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** KeorUnreal
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung einer Nahaufnahme von drei eleganten jungen Frauen im Sitzen.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: Frau mit kupferrotem Haar sitzt auf einer Steinbank
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Talia
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung eines Bildes einer Frau mit langem kupferrotem Haar in einer ungezwungenen, nachdenklichen Pose im Freien.
+
+#### Prompt
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: Charaktere an einem Gartentisch auf der Terrasse
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** LilyFernwild
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Eine Szene mit zwei Charakteren, die an einem Tisch auf der Terrasse in einem Cottage-Garten sitzen und Musik spielen.
+
+#### Prompt
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: Nahaufnahme eines verschleierten Chamäleons auf einem Ast
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Heather Green
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein detaillierter Prompt zur Erstellung einer Nahaufnahme auf Augenhöhe eines bunten verschleierten Chamäleons als Video.
+
+#### Prompt
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: Morgenliche Berg- und Kaffeetassen-Szene
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** mini singh
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung einer friedlichen Szene mit Bergen, Nebel und einer Kaffeetasse auf einem Tisch.
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: Morgenliche Berg- und Kaffeetassen-Szene
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** mini singh
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt für eine friedliche Morgenszene mit Bergen, Nebel und einer modernen Kaffeetasse.
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: Luxuriöser Casual Lifestyle Editorial Mehrteilige Collage
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Aiza
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung einer mehrteiligen Collage mit strenger Gesichtssperre, um die Gesichtsidentität eines Referenzbildes zu bewahren.
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: Luxuriöser Casual Lifestyle Editorial Collage
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Aiza
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung einer mehrteiligen Collage mit strenger Gesichtssperre, um die Gesichtsidentität eines Referenzbildes zu bewahren.
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: Cinematisches Doppelbelichtungs-Modenplakat
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Arina Ai
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt zur Erstellung eines hochwertigen Modenplakats mit Doppelbelichtungseffekt, der ein bestimmtes Frauenporträt bewahrt.
+
+#### Prompt
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: Prompt für Porträt einer südasiatischen Frau
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Glowecho
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein JSON-Prompt, der eine junge südasiatische Frau mit detaillierten Gesichts- und Haarmerkmalen beschreibt.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: Pastell-Aufkleber-Stil Koreanisches Mädchenporträt
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Ozair AI
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Prompt für ein realistisches Street-Style-Porträt eines fröhlichen koreanischen Mädchens mit Brille in Seoul.
+
+#### Prompt
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 Diese README wird automatisch aus `data/prompts_by_locale` erzeugt.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Olcut | Sayi |
 | --- | ---: |
-| Toplam Prompt | 1396 |
+| Toplam Prompt | 1416 |
 | Kategoriler | 8 |
 | Onizleme Videolari | 435 |
-| Son Guncelleme | 13.07.2026 |
+| Son Guncelleme | 14.07.2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
@@ -32669,6 +32669,421 @@ Arka planda büyük ölçekli sanatsal bir tablo ile bir referans yüz kullanıl
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: Sinematik Siyah Beyaz Moda Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Siyah bir kazak ve blazer giymiş, zarif bir genç adamın, kasvetli bir siyah-beyaz estetikle işlenmiş, dikey yüksek moda portresi.
+
+#### Prompt
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: Lüks Eski Para Editorial Moda Sahnesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Weinberg
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir Avrupa iş bölgesinde, sakin bir lüks estetiğine sahip yüksek moda kampanya sahnesi oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: Parfümeride Asidik Simyager Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Güneşle aydınlanmış, kaotik bir botanik parfümeride, melankolik bir dâhinin hiper-realist orta format portresi.
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: Güney Asyalı Kadın Portresi Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Detaylı özelliklere sahip genç bir Güney Asyalı kadını bir portre için tanımlayan bir prompt.
+
+#### Prompt
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: Bir Korkuluğa Yaslanmış Kaslı Adam Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Rahat bir pozda duran, kaslı genç bir adamın orta boy, üç çeyrek portresi için bir prompt.
+
+#### Prompt
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: Siyah Beyaz Moda Editoryal Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alex Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yakın çekim siyah beyaz bir moda editoryal portresi oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: Gerçekçi Kadın Karanlık Elf Zanaatkarı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ullr | Majd
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kadın bir karanlık elf zanaatkarının son derece gerçekçi bir görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: Kafedeki Kadının Kömür Kalem Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir kafede, dumanı tüten yanan bir sigara tutan zarif genç bir kadının dikey kömür kalem portresi.
+
+#### Prompt
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: Bilim Kurgu Filmleri için Sevimli Hikaye Kitabı Dioraması
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Gadgetify
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dört ünlü bilim kurgu filmi için sevimli 3B hikaye kitabı dioramalarının 2x2 ızgarasını oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: Üç Zarif Genç Kadının Yakın Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Oturan üç zarif genç kadının yakın çekim görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: Taş bir çıkıntıda oturan kızıl saçlı kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Talia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Açık havada samimi, düşünceli bir pozda uzun kızıl saçlı bir kadın görseli oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: Bahçe Veranda Masasındaki Karakterler
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** LilyFernwild
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kulübe bahçesindeki veranda masasında oturan, müzik çalan iki karakterin sahnesi.
+
+#### Prompt
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: Bir dal üzerinde örtülü bukalemunun yakın çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Heather Green
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Renkli, örtülü bir bukalemunun göz seviyesinden yakın çekim videosu oluşturmak için detaylı bir prompt.
+
+#### Prompt
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: Sabah Dağları ve Kahve Fincanı Sahnesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** mini singh
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Masadaki dağlar, sis ve bir kahve fincanından oluşan huzurlu bir sahne oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: Sabah Dağları ve Kahve Fincanı Sahnesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** mini singh
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dağlar, sis ve modern bir kahve fincanıyla huzurlu bir sabah sahnesi için bir prompt.
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: Lüks Casual Yaşam Tarzı Editoryal Çok Panelli Kolaj
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aiza
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Referans görselden gelen yüz kimliğini korumak için katı yüz kilidiyle çok panelli bir kolaj oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: Lüks Casual Yaşam Tarzı Editoryal Kolaj
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aiza
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Referans görselden gelen yüz kimliğini korumak için katı yüz kilidiyle çok panelli bir kolaj oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: Sinematik Çift Pozlama Moda Posteri
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Arina Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli bir kadın portresini koruyarak, çift pozlama efektiyle yüksek kaliteli bir moda posteri oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: Güney Asyalı Kadın Portresi Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Genç bir Güney Asyalı kadının detaylı yüz ve saç özelliklerini tanımlayan bir JSON prompt'u.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: Pastel Çıkartma Tarzı Koreli Kız Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ozair AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Seul'de gözlüklü, neşeli bir Koreli kızın gerçekçi sokak tarzı portresi için bir prompt.
+
+#### Prompt
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

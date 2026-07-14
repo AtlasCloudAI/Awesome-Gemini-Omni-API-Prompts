@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1396 |
+| 総プロンプト数 | 1416 |
 | カテゴリ数 | 8 |
 | プレビュー動画数 | 435 |
-| 最終更新 | 2026/07/13 |
+| 最終更新 | 2026/07/14 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -32669,6 +32669,421 @@ Black-and-white minimalist studio contact sheet portrait of a young person with 
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: シネマティックな白黒ファッション肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黒いタートルネックとブレザーを着たエレガントな若い男性の、ムーディーな白黒美学で描かれたハイファッション縦長ポートレート。
+
+#### プロンプト
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: ラグジュアリー・オールドマネー風エディトリアル・ファッションシーン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Weinberg
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ヨーロッパのビジネス街を舞台に、静かな高級感（クワイエット・ラグジュアリー）の美学を持つハイファッション広告キャンペーンシーンのためのプロンプト。
+
+#### プロンプト
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: 調香術の中の酸性錬金術師の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+混沌とした、陽光が降り注ぐ植物性香水工房に佇む、憂鬱な天才のハイパーリアルな中判フォーマットの肖像画。
+
+#### プロンプト
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: 南アジア系女性の肖像画プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+詳細な特徴を持つ若い南アジア系女性を描いた肖像画のためのプロンプト。
+
+#### プロンプト
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: 手すりにもたれる筋肉質な男性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カジュアルなポーズをとる筋肉質な若い男性の中程度の四半身肖像画のためのプロンプト。
+
+#### プロンプト
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: 白黒ファッション編集用ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+クローズアップの白黒ファッション編集用ポートレートを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: リアルな女性ダークエルフ・アーティフィサー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ullr | Majd
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+女性ダークエルフ・アーティフィサーの非常にリアルな画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: カフェにいる女性の木炭画ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+居心地の良いカフェで、漂う煙をたなびかせた火のついたタバコを持つエレガントな若い女性の縦向き木炭画ポートレートです。
+
+#### プロンプト
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: SF映画のためのキュートな立体絵本ジオラマ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+四つの有名なSF映画を題材にしたキュートな3D立体絵本ジオラマを2x2グリッドで生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: 三人のエレガントな若い女性のクローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+座っている三人のエレガントな若い女性のクローズアップ画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: 石の棚に座る赤褐色の髪の女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Talia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+長い赤褐色の髪をした女性が屋外で自然体で物思いにふけるポーズをとる画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: ガーデンパティオのテーブルにいるキャラクターたち
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** LilyFernwild
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+コテージガーデンのパティオテーブルで音楽を奏でる2人のキャラクターの情景です。
+
+#### プロンプト
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: 枝に止まるベールカメレオンのクローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カラフルなベールカメレオンのアイレベルでのクローズアップ動画を生成するための詳細なプロンプトです。
+
+#### プロンプト
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: 朝の山々とコーヒーマグの情景
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** mini singh
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+テーブル上の山々、霧、コーヒーマグからなる静かな情景を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: 朝の山々とコーヒーマグの情景
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** mini singh
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+山々、霧、そしてモダンなコーヒーマグが描かれた静かな朝の情景のためのプロンプトです。
+
+#### プロンプト
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: ラグジュアリーカジュアルライフスタイル編集用マルチパネルコラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aiza
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像から顔のアイデンティティを保持する厳密なフェイスロックを施したマルチパネルコラージュ生成のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: ラグジュアリーカジュアルライフスタイル編集用コラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aiza
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像から顔のアイデンティティを保持する厳密なフェイスロックを施したマルチパネルコラージュ生成のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: シネマティックなダブルエクスポージャーファッションポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Arina Ai
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の女性ポートレートを保持したダブルエクスポージャー効果を用いたハイエンドファッションポスター作成のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: 南アジア系女性ポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+若い南アジア系女性の詳細な顔と髪の特徴を記述したJSONプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: パステルステッカースタイルの韓国人女性ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ソウルで眼鏡をかけた明るい韓国人女性のリアルなストリートスタイルポートレートのためのプロンプトです。
+
+#### プロンプト
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1396 |
+| พรอมต์ทั้งหมด | 1416 |
 | จำนวนหมวดหมู่ | 8 |
 | จำนวนวิดีโอตัวอย่าง | 435 |
-| อัปเดตล่าสุด | 13/07/2569 |
+| อัปเดตล่าสุด | 14/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -32669,6 +32669,421 @@ Black-and-white minimalist studio contact sheet portrait of a young person with 
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: ภาพแฟชั่นขาวดำสไตล์ภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพแฟชั่นแนวตั้งระดับสูงของชายหนุ่มผู้สง่างามในชุดเสื้อคอเต่าและเบลเซอร์สีดำ ถูกสร้างขึ้นด้วยสุนทรียะขาวดำที่ให้อารมณ์ลึกลับ
+
+#### พรอมต์
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: ฉากแฟชั่นบรรณาธิการสไตล์เศรษฐีเก่า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Weinberg
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างฉากแคมเปญแฟชั่นระดับสูงด้วยสุนทรียะความหรูหราเรียบง่ายในย่านธุรกิจยุโรป
+
+#### พรอมต์
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: ภาพเหมือนนักเล่นแร่แปรธาตุผู้เปรี้ยวซ่าในร้านน้ำหอม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพเหมือนระดับไฮเปอร์เรียลลิสติกขนาดกลางของอัจฉริยะผู้โศกเศร้าในร้านน้ำหอมพฤกษศาสตร์อันวุ่นวายที่ทอแสงอาทิตย์
+
+#### พรอมต์
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: คำอธิบายภาพเหมือนหญิงชาวเอเชียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับภาพเหมือนหญิงสาวชาวเอเชียใต้ที่มีรายละเอียดใบหน้าเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: ภาพเหมือนชายกล้ามแน่นพิงราวบันได
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับภาพเหมือนระยะสามในสี่กลางตัวของชายหนุ่มกล้ามแน่นในท่าทางสบายๆ
+
+#### พรอมต์
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: ภาพแฟชั่นบรรณาธิการขาวดำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพแฟชั่นบรรณาธิการขาวดำระยะใกล้
+
+#### พรอมต์
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: เอลฟ์มืดหญิงช่างศิลป์สมจริง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ullr | Majd
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายเพื่อสร้างภาพสมจริงสูงของเอลฟ์มืดหญิงช่างศิลป์
+
+#### พรอมต์
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: ภาพเหมือนถ่านไม้ของผู้หญิงในร้านกาแฟ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพเหมือนแนวตั้งด้วยถ่านไม้ของหญิงสาวสุดเก๋ในร้านกาแฟอบอุ่น ถือบุหรี่ติดไฟพร้อมควันลอยอ้อยอิ่ง
+
+#### พรอมต์
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: ไดโอรามาหนังสือภาพนิทานน่ารักสำหรับภาพยนตร์ไซไฟ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายเพื่อสร้างตาราง 2x2 ของไดโอรามาหนังสือภาพ 3 มิติสุดน่ารักสำหรับภาพยนตร์ไซไฟชื่อดังสี่เรื่อง
+
+#### พรอมต์
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: ภาพระยะใกล้ของหญิงสาวสุดเก๋สามคน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพระยะใกล้ของหญิงสาวสุดเก๋สามคนกำลังนั่ง
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: ผู้หญิงผมแดงนั่งบนขอบหิน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Talia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างภาพผู้หญิงผมยาวสีแดงในท่าทางสบายๆ ครุ่นคิดกลางแจ้ง
+
+#### พรอมต์
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: ตัวละครที่โต๊ะลานสวน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** LilyFernwild
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ฉากของตัวละครสองคนนั่งที่โต๊ะลานในสวนกระท่อม กำลังเล่นดนตรี
+
+#### พรอมต์
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: ภาพระยะใกล้ของกิ้งก่าเครวลบนกิ่งไม้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heather Green
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายละเอียดสำหรับสร้างวิดีโอระยะใกล้ระดับสายตาของกิ้งก่าเครวลสีสันสดใส
+
+#### พรอมต์
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: ฉากภูเขาและแก้วกาแฟยามเช้า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** mini singh
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างฉากที่สงบนิ่งของภูเขา หมอก และแก้วกาแฟบนโต๊ะ
+
+#### พรอมต์
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: ฉากภูเขาและแก้วกาแฟยามเช้า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** mini singh
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับฉากยามเช้าที่สงบนิ่งกับภูเขา หมอก และแก้วกาแฟสไตล์โมเดิร์น
+
+#### พรอมต์
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: คอลลาจหลายช่องบทบรรณาธิการไลฟ์สไตล์แคชวลสุดหรู
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างคอลลาจหลายช่องโดยล็อกใบหน้าอย่างเคร่งครัดเพื่อรักษาอัตลักษณ์ใบหน้าจากภาพอ้างอิง
+
+#### พรอมต์
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: คอลลาจบทบรรณาธิการไลฟ์สไตล์แคชวลสุดหรู
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับสร้างคอลลาจหลายช่องโดยล็อกใบหน้าอย่างเคร่งครัดเพื่อรักษาอัตลักษณ์ใบหน้าจากภาพอ้างอิง
+
+#### พรอมต์
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: โปสเตอร์แฟชั่นภาพซ้อนทับแบบภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Arina Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับการสร้างโปสเตอร์แฟชั่นระดับไฮเอนด์ด้วยเอฟเฟกต์ภาพซ้อนทับ โดยคงภาพใบหน้าผู้หญิงเฉพาะไว้
+
+#### พรอมต์
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: คำบรรยายภาพเหมือนผู้หญิงเอเชียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายรูปแบบ JSON อธิบายผู้หญิงเอเชียใต่วัยหนุ่มสาวพร้อมรายละเอียดใบหน้าและทรงผม
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: ภาพเหมือนสาวเกาหลีสไตล์สติกเกอร์พาสเทล
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำบรรยายสำหรับการสร้างภาพเหมือนสไตล์ถนนสมจริงของสาวเกาหลียิ้มแย้มใส่แว่นในกรุงโซล
+
+#### พรอมต์
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

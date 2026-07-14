@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 1396 |
+| Kul Prompts | 1416 |
 | Categories | 10 |
 | Preview Videos | 435 |
-| Aakhri Update | 13/07/2026 |
+| Aakhri Update | 14/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -32679,6 +32679,421 @@ Black-and-white minimalist studio contact sheet portrait of a young person with 
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: सिनेमाई काले और सफेद फैशन चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक काले टर्टलनेक और ब्लेज़र में एक सुरुचिपूर्ण युवक का उच्च-फैशन ऊर्ध्वाधर चित्र, एक मनमौजी काले-सफेद सौंदर्यशास्त्र में प्रस्तुत।
+
+#### Prompt
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: लग्ज़री ओल्ड मनी एडिटोरियल फैशन दृश्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Weinberg
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+यूरोपीय व्यापार जिले में शांत लग्ज़री सौंदर्यशास्त्र के साथ एक उच्च-फैशन अभियान दृश्य उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: इत्रशाला में अम्लीय रसायनज्ञ का चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक अव्यवस्थित, धूप से लबालब वनस्पति इत्रशाला में एक उदासी से भरे प्रतिभाशाली व्यक्ति का अतियथार्थवादी मध्यम-फॉर्मेट चित्र।
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: दक्षिण एशियाई महिला चित्र प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक युवा दक्षिण एशियाई महिला का विस्तृत विशेषताओं के साथ वर्णन करने वाला एक चित्र प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: रेलिंग पर झुके एक मांसल पुरुष का चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Picts by AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक आकस्मिक मुद्रा में खड़े मांसल युवा पुरुष के मध्यम तीन-चौथाई चित्र के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: ब्लैक एंड व्हाइट फैशन एडिटोरियल चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alex Prompts
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+क्लोज-अप ब्लैक एंड व्हाइट फैशन एडिटोरियल चित्र बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: यथार्थवादी महिला डार्क एल्फ आर्टिफिसर
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ullr | Majd
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला डार्क एल्फ आर्टिफिसर की अत्यधिक यथार्थवादी छवि जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: कैफे में महिला का चारकोल चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक आरामदायक कैफे में एक सुंदर युवा महिला का लंबवत चारकोल चित्र, जो धूम्रपान करती एक सिगरेट पकड़े हुए है जिससे धुआं उठ रहा है।
+
+#### Prompt
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: साइ-फाई फिल्मों के लिए प्यारा स्टोरीबुक डायोरामा
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+चार प्रसिद्ध विज्ञान-कथा फिल्मों के लिए प्यारे 3डी स्टोरीबुक डायोरामा का 2x2 ग्रिड जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: तीन सुंदर युवा महिलाओं का क्लोज-अप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KeorUnreal
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+बैठी हुई तीन सुंदर युवा महिलाओं की क्लोज-अप छवि जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: पत्थर की चौखट पर बैठी लाल-भूरे बालों वाली महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Talia
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+बाहर एक सहज, विचारशील मुद्रा में लंबे लाल-भूरे बालों वाली एक महिला की छवि जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: बगीचे के पैटियो टेबल पर पात्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** LilyFernwild
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक कॉटेज बगीचे में पैटियो टेबल पर बैठे दो पात्रों का दृश्य, जो संगीत बजा रहे हैं।
+
+#### Prompt
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: एक डाली पर घूंघट वाले गिरगिट का क्लोज-अप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heather Green
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक रंगीन घूंघट वाले गिरगिट का विस्तृत, आँखों के स्तर का वीडियो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: सुबह के पहाड़ और कॉफी मग का दृश्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** mini singh
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक मेज पर पहाड़ों, धुंध और एक कॉफी मग का शांत दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: सुबह के पहाड़ और कॉफी मग का दृश्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** mini singh
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+पहाड़ों, धुंध और एक आधुनिक कॉफी मग के साथ एक शांत सुबह के दृश्य के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: लक्ज़री कैजुअल लाइफस्टाइल एडिटोरियल मल्टी-पैनल कोलाज
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aiza
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ छवि से चेहरे की पहचान को संरक्षित रखने के लिए सख्त चेहरा लॉक के साथ मल्टी-पैनल कोलाज जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: लक्ज़री कैजुअल लाइफस्टाइल एडिटोरियल कोलाज
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aiza
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ छवि से चेहरे की पहचान को संरक्षित रखने के लिए सख्त चेहरा लॉक के साथ मल्टी-पैनल कोलाज जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: सिनेमाई डबल एक्सपोज़र फैशन पोस्टर
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Arina Ai
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+डबल-एक्सपोज़र प्रभाव के साथ एक हाई-एंड फैशन पोस्टर बनाने के लिए एक प्रॉम्प्ट, जो एक विशिष्ट महिला चित्र को संरक्षित रखता है।
+
+#### Prompt
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: दक्षिण एशियाई महिला चित्र प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक युवा दक्षिण एशियाई महिला का विस्तृत चेहरे और बालों की विशेषताओं के साथ वर्णन करने वाला एक JSON प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: पेस्टल स्टिकर स्टाइल कोरियाई लड़की का चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सियोल में चश्मे वाली एक हंसमुख कोरियाई लड़की के यथार्थवादी स्ट्रीट-स्टाइल चित्र के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

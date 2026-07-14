@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1396%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1396 |
+| 전체 프롬프트 | 1416 |
 | 카테고리 수 | 8 |
 | 미리보기 비디오 수 | 435 |
-| 마지막 업데이트 | 2026. 07. 13. |
+| 마지막 업데이트 | 2026. 07. 14. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1294)
+### Twitter Community (1314)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -32669,6 +32669,421 @@ Black-and-white minimalist studio contact sheet portrait of a young person with 
 
 ```text
 Use the exact same face from the reference image and generate a stunning cinematic studio portrait where a breathtaking large-scale artistic painting dominates the background — the marriage of fine art photography and classical
+```
+
+### No. 1397: 영화적인 흑백 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검은 터틀넥과 블레이저를 입은 우아한 젊은 남성의 하이패션 세로 초상화로, 무드 있는 흑백 미학으로 렌더링되었습니다.
+
+#### 프롬프트
+
+```text
+A cinematic, high-fashion vertical portrait of an elegant and handsome young man, captured in a moody, black-and-white aesthetic. The subject is dressed in a sophisticated black turtleneck paired with a sharp, black blazer.
+```
+
+### No. 1398: 고급스러운 올드머니 에디토리얼 패션 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Weinberg
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+유럽 비즈니스 지구에서 조용한 고급스러움(quiet luxury)의 미학을 담은 하이패션 캠페인 장면을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Luxury old-money editorial aesthetic, quiet luxury, timeless sophistication, minimalist elegance, European business district atmosphere, premium tailoring, understated wealth, high-fashion campaign, cinematic realism, modern classic menswear, refined
+```
+
+### No. 1399: 향수 조합실의 신비로운 연금술사 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+혼란스럽고 햇살이 가득한 식물성 향수 조합실 안에서 우울한 천재를 그린 초현실적인 중형 포맷 초상화입니다.
+
+#### 프롬프트
+
+```text
+{
+  "vibe_title_en": "The Acidic Alchemist",
+  "master_prompt": "A hyper-realistic, medium-format portrait of The Melancholic Prodigy situated in a chaotic, sun-drenched botanical perfumery. The subject fits the 'Three-Quarter"
+}
+```
+
+### No. 1400: 남아시아 여성 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+상세한 특징을 가진 젊은 남아시아 여성의 초상화를 묘사하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A stunning young South Asian woman in her mid-20s, with flawless warm fair skin, long straight dark brown hair with soft natural waves cascading over her shoulders, a few strands gently framing her face, sharp arched
+```
+
+### No. 1401: 난간에 기대선 근육질 남성의 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+캐주얼한 자세로 포즈를 취한 근육질 청년의 중간 크기 3/4 구도 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A muscular young adult male stands in a medium three-quarter portrait, centered-left with his chest facing the camera and hips angled slightly right, leaning casually back against a railing. He wears a crisp, bright
+```
+
+### No. 1402: 흑백 패션 에디토리얼 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+클로즈업 흑백 패션 에디토리얼 초상화를 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+black and white photography, fashion editorial, a close up portrait of
+```
+
+### No. 1403: 리얼리즘 여성 다크 엘프 아티피서
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ullr | Majd
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성 다크 엘프 아티피서의 고도로 사실적인 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a highly realistic female dark elf artificer.
+```
+
+### No. 1404: 카페의 여성을 그린 숯 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+아늑한 카페에서 피어오르는 연기를 내뿜는 담배를 든 우아한 젊은 여성의 세로형 숯 초상화입니다.
+
+#### 프롬프트
+
+```text
+A vertical charcoal portrait captures an elegant and young woman in a cozy, atmospheric cafe setting. She is depicted with a gentle, thoughtful expression, holding a lit cigarette while delicate wisps of smoke drift
+```
+
+### No. 1405: 공상과학 영화를 위한 귀여운 스토리북 디오라마
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+네 편의 유명한 공상과학 영화를 위한 귀여운 3D 스토리북 디오라마 2x2 그리드를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT
+
+A = {
+  open storybook diorama,
+  cute 3D character world,
+  warm clay/vinyl miniature materials,
+  labeled
+```
+
+### No. 1406: 우아한 젊은 여성 세 명의 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KeorUnreal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+앉아 있는 우아한 젊은 여성 세 명의 클로즈업 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": {
+    "description": "Close-up of a Three elegant young women sitting"
+  }
+}
+```
+
+### No. 1407: 돌 난간에 앉은 갈색 머리 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Talia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+야외에서 자연스럽고 생각에 잠긴 포즈를 취한 긴 갈색 머리 여성의 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create an image features a woman with long, auburn-tinted hair sitting outdoors on a stone ledge. She is captured in a candid moment, gazing thoughtfully upward with a serene expression. She wears a black long-sleeved tunic adorned with
+```
+
+### No. 1408: 정원 파티오 테이블의 캐릭터들
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** LilyFernwild
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+시골집 정원의 파티오 테이블에 앉아 음악을 연주하는 두 캐릭터의 장면입니다.
+
+#### 프롬프트
+
+```text
+Scene: Lily and Blueberry sit at a patio table in the back garden patio of her cottage, playing music a looping
+```
+
+### No. 1409: 나뭇가지 위 베일 카멜레온 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heather Green
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+화려한 베일 카멜레온의 클로즈업, 아이 레벨 비디오를 생성하기 위한 상세 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A close-up, eye-level shot shows a veiled chameleon perched on a branch. The chameleon is facing right, with its head slightly tilted upwards. Its body is a vibrant mix of green,
+```
+
+### No. 1410: 아침 산과 커피 머그잔 풍경
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** mini singh
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+테이블 위에 산, 안개, 커피 머그잔이 있는 고요한 풍경을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern wooden table
+```
+
+### No. 1411: 아침 산과 커피 머그잔 풍경
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** mini singh
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+산, 안개, 그리고 모던한 커피 머그잔이 있는 고요한 아침 풍경을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+with warm golden sunlight breaking over majestic mountains, soft morning mist floating through lush green valleys, a glossy white coffee mug on a modern
+```
+
+### No. 1412: 럭셔리 캐주얼 라이프스타일 에디토리얼 멀티 패널 콜라주
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aiza
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 이미지의 얼굴 정체성을 보존하기 위해 엄격한 얼굴 고정 기능을 적용한 멀티 패널 콜라주 생성 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows
+```
+
+### No. 1413: 럭셔리 캐주얼 라이프스타일 에디토리얼 콜라주
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aiza
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+참조 이미지의 얼굴 정체성을 보존하기 위해 엄격한 얼굴 고정 기능을 적용한 멀티 패널 콜라주 생성 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Luxury Casual Lifestyle Editorial Multi-Panel Collage Prompt Strict Face Lock Version  Face Lock (Highest Priority) Use the uploaded image as the ONLY facial identity reference. Preserve 100% facial resemblance, facial structure, eye shape, eyebrows,
+```
+
+### No. 1414: 시네마틱 더블 익스포저 패션 포스터
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Arina Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 여성 초상화를 보존하면서 더블 익스포저 효과를 적용한 하이엔드 패션 포스터 제작을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a high-end cinematic double-exposure fashion poster using the uploaded reference photo, preserving the exact same female face, hairstyle, skin tone, facial
+```
+
+### No. 1415: 남아시아 여성 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+세부적인 얼굴과 머리카락 특징을 가진 젊은 남아시아 여성을 묘사하는 JSON 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A beautiful young South Asian woman in her mid-20s with a radiant, confident smile, long voluminous wavy dark brown hair cascading over her shoulders, warm glowing skin, subtle makeup with defined eyes, long lashes"
+}
+```
+
+### No. 1416: 파스텔 스티커 스타일 한국 여성 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+서울에서 안경을 쓴 명랑한 한국 여성의 리얼리즘 스트리트 스타일 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

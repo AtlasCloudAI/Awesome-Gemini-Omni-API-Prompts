@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 1416 |
+| 提示詞總數 | 1448 |
 | 分類數 | 8 |
-| 預覽影片數 | 435 |
-| 最後更新 | 2026/07/14 |
+| 預覽影片數 | 438 |
+| 最後更新 | 2026/07/15 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1314)
+### Twitter Community (1346)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -33084,6 +33084,668 @@ Create a high-end cinematic double-exposure fashion poster using the uploaded re
 
 ```text
 A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
+```
+
+### No. 1417: 探索 GlobalGPT AI 模型中心
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Paul Sims
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+此螢幕錄影展示用戶瀏覽 GlobalGPT 網站，突顯其多樣化的 AI 模型與圖像、影片生成工具，並呈現流暢的使用者介面轉場效果。
+
+#### 提示詞
+
+```text
+A fluid screen recording of a user interacting with the GlobalGPT AI models and tools hub website. The camera smoothly scrolls down the homepage, displaying various AI model carousels and newly released features. It then navigates to the 'Models & Tools' section, applying filters for 'Image' and then 'Video' to reveal specialized AI generators, all presented with a clean, modern UI/UX design.
+```
+
+### No. 1418: 超現實慢速雲霄飛車照片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個關於男子在刺激雲霄飛車上，以超現實、極度慢動作呈現的照片提示。
+
+#### 提示詞
+
+```text
+A hyper-realistic photo at 10,000 FPS ultra slow-motion of a thrilling roller coaster ride. A man
+```
+
+### No. 1419: 用於構圖與身份識別的相片參考
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Smiling Khan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指示 AI 使用上傳照片作為精確參考的提示，用於構圖、姿勢、表情，並保留人物的身份與外貌。
+
+#### 提示詞
+
+```text
+Use the uploaded photo as the exact reference for the composition, pose, facial expressions, framing, camera angle, and overall arrangement. Preserve the couple's identity, clothing, hairstyle, and
+```
+
+### No. 1420: 陶瓷與爬蟲肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅超寫實特寫肖像，描繪主角如同一尊活體雕塑，表面覆蓋著正在乾燥的白色塗層。
+
+#### 提示詞
+
+```text
+A hyper-realistic, avant-garde close-up portrait of The Protagonist transformed into a living sculpture. The subject's face is coated in a thin layer of drying white
+```
+
+### No. 1421: 電影級超寫實分鏡影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dogecoin Indonesia 🇮🇩
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成 10 秒電影級影片的提示，該影片基於一個六格超寫實分鏡圖。
+
+#### 提示詞
+
+```text
+buat gambar cinematic ultrarealistis dengan 6 panel scene storyboard, yang menceritakan karakter sedang (kegiatan yang inginkan).
+
+MAIN GOAL: Create a cinematic video from a multi-panel storyboard. 10s duration.
+```
+
+### No. 1422: 英俊男性攝影棚特寫肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成特寫肖像的提示，描繪一位留著鬍鬚和深色頭髮的英俊年輕男性，在具有溫暖戲劇性燈光的專業攝影棚中。
+
+#### 提示詞
+
+```text
+A handsome young man with a neatly groomed beard and wavy dark hair is captured in a series of close-up portraits, all set within a professional studio environment characterized by dramatic, warm lighting.
+```
+
+### No. 1423: 韓系 Tomboy 女性時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Trendy
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成圖像的提示，描繪一位自信、帶有韓系風格的 Tomboy 女性，身著精緻的街頭服飾。
+
+#### 提示詞
+
+```text
+Create a beautiful Korean-inspired tomboy woman with black sunglasses, a short wavy bob haircut, an oversized ivory bomber jacket over a black fitted top, charcoal parachute pants, and white sneakers, confidently
+```
+
+### No. 1424: 黑色背景上的抽象枯樹剪影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** enepty
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成抽象藝術作品的提示，該作品透過特定方法在黑色背景上創作出一棵無葉樹的剪影。
+
+#### 提示詞
+
+```text
+A pure abstract aesthetic artwork set against a completely flat, solid pitch-black background. The central focus is the silhouette of an elegant, leafless barren tree. However, this tree is created EXCLUSIVELY through a
+```
+
+### No. 1425: 極低角度時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shahid Wani
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅戲劇性的時尚肖像，採用極低角度拍攝，特寫一位頭髮被風吹拂的年輕東亞女性。
+
+#### 提示詞
+
+```text
+Fashion lifestyle portrait shot from extreme ground-level low angle looking dramatically upward, young East Asian woman with short wavy bob haircut, wind-blown hair with one strand crossing face while one eye makes sharp direct
+```
+
+### No. 1426: 銅色髮絲的溫馨夜間臥室自拍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Miz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成超寫實影像的提示，描繪一位擁有銅紅色頭髮的年輕女性在溫馨的夜間臥室場景中。
+
+#### 提示詞
+
+```text
+Ultra-realistic cozy nighttime bedroom selfie of a young woman with long naturally wavy copper-red hair styled with soft
+```
+
+### No. 1427: 手指愛心手勢專業攝影棚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作溫暖、專業的攝影棚肖像的提示，特寫一位做出手指愛心手勢的人物。
+
+#### 提示詞
+
+```text
+Professional studio portrait, using the face and likeness from the uploaded photo, subject making a finger heart gesture with one hand raised near chest height, thumb and index finger forming a small heart shape, warm
+```
+
+### No. 1428: 超寫實奢華辦公室編輯肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Natty Windstorm
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成超寫實肖像的提示，描繪一位在奢華辦公室場景中、擁有鉑金色頭髮的女性。
+
+#### 提示詞
+
+```text
+Ultra-realistic luxury office editorial portrait of a young platinum-blonde woman with soft shoulder-length beach waves and a center part, wearing
+```
+
+### No. 1429: 動態 AI 風格與場景轉場
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** each::labs
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+這部影片展示一位女性在寫實、動漫和娃娃風格之間無縫轉換，背景隨之變換，最終以醒目的氣球文字標誌揭示作結。
+
+#### 提示詞
+
+```text
+A medium shot of a young woman in a pink baseball cap and black sweatshirt. She transitions from realistic to an anime drawing, then to a Barbie-like doll, and back to realistic, performing finger heart gestures and smiling. The background evolves from a cozy room to a modern office with a view of the Golden Gate Bridge. The 'each labs' logo appears as expanding 3D metallic silver and orange balloons, concluding on a red and blue gradient background with a subtle dot pattern. Static camera.
+```
+
+### No. 1430: 奢華夜生活時尚編輯肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dockie
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅超寫實肖像，描繪一位在奢華夜生活場景中、擁有鉑金色頭髮的迷人女性。
+
+#### 提示詞
+
+```text
+Ultra-realistic luxury nightlife fashion editorial portrait of a glamorous young platinum-blonde woman with long voluminous beach
+```
+
+### No. 1431: 深紅禮服女性肖像系列
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成女性肖像的提示，該女性擁有黑髮和紅唇，身著深紅色禮服。
+
+#### 提示詞
+
+```text
+A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface
+```
+
+### No. 1432: Sabrina Carpenter 肖像生成提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pinodi
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化的提示，用於生成具有特定面部特徵的 Sabrina Carpenter 肖像。
+
+#### 提示詞
+
+```text
+{
+    "subject": {
+        "identity": {
+            "biometric_reference": "Sabrina Carpenter",
+            "gender": "female",
+            "facial_morphology": "heart-shaped face, soft"
+        }
+    }
+}
+```
+
+### No. 1433: 三聯幅女性主題合成影像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NUSRAT
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成三聯幅合成影像的提示，該影像以女性主題在不同場景中呈現。
+
+#### 提示詞
+
+```text
+"image_composition": "A three-panel composite image featuring the same female subject in different settings.",
+  "subject_details": {
+    "gender": "Female",
+    "appearance": "Young adult with long, dark, wavy hair, warm skin tone, and a https://t.co/JZ1sw3Z25T
+```
+
+### No. 1434: 黃金時分的南印度女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位年輕南印度女性在日落時分坐於草坪上的寫實肖像。
+
+#### 提示詞
+
+```text
+A stunning photorealistic portrait of a beautiful young South Indian woman in her mid-20s, sitting gracefully on a lush green lawn during golden hour sunset. She has warm tan
+```
+
+### No. 1435: 黃昏時分身穿黑色紗麗的印度女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位年輕印度女性在奢華環境中的寫實肖像，採用電影感燈光。
+
+#### 提示詞
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark eyes, full lips, long straight black hair with subtle highlights, wearing a modern black silk saree with gold embroidery, standing in a minimalist luxury penthouse with floor-to-ceiling windows overlooking a city skyline at dusk, soft cinematic lighting, photorealistic, 8K, ultra-detailed"
+}
+```
+
+### No. 1436: 驚艷印度女性肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成美麗年輕印度女性肖像的提示，並指定了具體的面部特徵。
+
+#### 提示詞
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark brown eyes with subtle eyeliner and long"}
+```
+
+### No. 1437: 身穿燕尾服的男子中景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成影片的提示，描繪一位身穿黑色燕尾服、打扮俐落的男子，以中景構圖置於畫面中央。
+
+#### 提示詞
+
+```text
+A man stands centrally composed in a medium shot, his body angled in a 45 degree turn with level shoulders and a balanced weight distribution, dressed sharply in a black double breasted tuxedo over a crisp white shirt
+```
+
+### No. 1438: 將圖像升級為8K電影靜幀
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Andy Orsow
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個將圖像升級至8K UHD、為背景和皮膚降噪，並創造電影靜幀效果的提示。
+
+#### 提示詞
+
+```text
+Faithfully upscale this image and increase its resolution to 8K UHD level with maximum detail and clarity. Denoise the background and his skin. No textured background. cinematic film still
+```
+
+### No. 1439: 帶有歡呼人群的AI新聞報導
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Christian Vivas
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位新聞主播報導新的AI模型，穿插城市街道上慶祝人群的場景以及街頭採訪畫面。
+
+#### 提示詞
+
+```text
+A news broadcast video. A professional male news anchor with a beard, wearing a blue suit, sits at a desk in a modern studio featuring large screens displaying a world map and a prominent 'BREAKING NEWS' banner. He speaks directly to the camera, with a slight zoom-in. The video then cuts to an energetic, dynamic wide shot of a large, diverse crowd of people on a bustling, sunny city street, cheering, clapping, and raising their arms in celebration, with some hugging. This transitions briefly back to the news anchor, then to a female reporter holding a 'FOX' branded microphone, interviewing an excited young man on the same city street, with the jubilant crowd and small French flags visible in the background. The young man raises his fists enthusiastically while shouting.
+```
+
+### No. 1440: 植物哀歌雕塑肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個超寫實、低角度的雕塑式肖像，強調修長的頸部與紀念碑般的體態。
+
+#### 提示詞
+
+```text
+A hyper-realistic, low-angle sculptural portrait of The Protagonist, framed from below to emphasize the elongation of the neck and the monumental stature
+```
+
+### No. 1441: 鎖定臉部的電影感復古肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成電影感復古肖像的提示，描繪一位身穿翡翠綠絲綢庫爾蒂的女性，並嚴格指示需鎖定參考圖像中的臉部。
+
+#### 提示詞
+
+```text
+Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. No AI alteration. ASPECT RATIO • 3:4. STYLE: Cinematic Vintage. SCENE: Woman in a heavy emerald green silk Kurti
+```
+
+### No. 1442: 身穿黑色西裝外套的超寫實律師肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tomilola _Ruth❤️
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個生成超寫實圖像的提示，描繪一位身著律師服裝的人物，並參考上傳的圖像。
+
+#### 提示詞
+
+```text
+with reference to the uploaded image create a hyper realistic image of me wearing a black blazers, black wide leg trousers under a fitted lawyer robe with white lace jabot, wearing white barrister
+```
+
+### No. 1443: AI推論非版權主題網格
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成2x2網格的提示，內容為AI推論的非版權主題，並附有主題分析與細節提取。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, 4 ai inferred topics that are not copyrighted {input = $ subject # 1. analyze the subject. silhouette = extract_silhouette(input) internal_rhythm = detect_repeated_details(input)
+```
+
+### No. 1444: 迪斯可球上的青蛙特寫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一隻鮮綠色青蛙在反光迪斯可球上的詳細特寫，背景為彩虹色。
+
+#### 提示詞
+
+```text
+a highly detailed close up of a vibrant green frog perched atop a reflective disco ball, sharp focus on the frog’s textured skin and glistening eyes, rainbow colored background
+```
+
+### No. 1445: 執著於皮膚細節的肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成超詳細工作室肖像的提示，重點聚焦於皮膚紋理。
+
+#### 提示詞
+
+```text
+Use the exact same face from the reference image and generate the most technically obsessive skin-detail studio portrait ever attempted — where human skin becomes the subject, the art, and the
+```
+
+### No. 1446: 女性四場景拼貼
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NUSRAT
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化提示，用於生成拼貼畫，展示同一位年輕女性在不同角色和環境中的樣貌。
+
+#### 提示詞
+
+```text
+{
+  "image_composition": "A collage of four distinct scenes featuring the same young woman in various roles and environments.",
+  "image_1": {
+    "setting": "Sunny ocean beach with mountains in the background",
+    "subject_action": "Emerging"
+  }
+}
+```
+
+### No. 1447: 奢華指甲油廣告
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zarlish
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個為奢華化妝品廣告設計的提示，呈現置於光滑黑色大理石上的寶石紅指甲油瓶。
+
+#### 提示詞
+
+```text
+A luxury cosmetic advertisement featuring a premium nail polish bottle placed on a glossy black marble surface with flowing liquid polish in rich ruby red.
+```
+
+### No. 1448: 參考臉部的新娘肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個使用參考臉部生成新娘肖像的提示，著重優雅與雜誌品質。
+
+#### 提示詞
+
+```text
+Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

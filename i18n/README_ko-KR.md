@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1416 |
+| 전체 프롬프트 | 1448 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 435 |
-| 마지막 업데이트 | 2026. 07. 14. |
+| 미리보기 비디오 수 | 438 |
+| 마지막 업데이트 | 2026. 07. 15. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1314)
+### Twitter Community (1346)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -33084,6 +33084,668 @@ Create a high-end cinematic double-exposure fashion poster using the uploaded re
 
 ```text
 A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
+```
+
+### No. 1417: GlobalGPT AI 모델 허브 탐색하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Paul Sims
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+이 화면 녹화는 사용자가 GlobalGPT 웹사이트를 탐색하며, 이미지 및 비디오 생성을 위한 다양한 AI 모델과 도구, 그리고 부드러운 UI 전환을 보여줍니다.
+
+#### 프롬프트
+
+```text
+A fluid screen recording of a user interacting with the GlobalGPT AI models and tools hub website. The camera smoothly scrolls down the homepage, displaying various AI model carousels and newly released features. It then navigates to the 'Models & Tools' section, applying filters for 'Image' and then 'Video' to reveal specialized AI generators, all presented with a clean, modern UI/UX design.
+```
+
+### No. 1418: 초현실적 슬로우 모션 롤러코스터 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Prompts
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+스릴 넘치는 롤러코스터를 타고 있는 남성의 초현실적이고 초고속 슬로우 모션 사진을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A hyper-realistic photo at 10,000 FPS ultra slow-motion of a thrilling roller coaster ride. A man
+```
+
+### No. 1419: 구도와 정체성을 위한 사진 참조
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Smiling Khan
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+AI에게 업로드된 사진을 구도, 포즈, 표정에 대한 정확한 참조로 사용하고, 주제의 정체성과 외모를 보존하도록 지시하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the uploaded photo as the exact reference for the composition, pose, facial expressions, framing, camera angle, and overall arrangement. Preserve the couple's identity, clothing, hairstyle, and
+```
+
+### No. 1420: 도자기와 파충류 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+마르고 있는 하얀 코팅을 입은 살아있는 조각상 같은 주인공의 하이퍼리얼리즘 클로즈업 초상화입니다.
+
+#### 프롬프트
+
+```text
+A hyper-realistic, avant-garde close-up portrait of The Protagonist transformed into a living sculpture. The subject's face is coated in a thin layer of drying white
+```
+
+### No. 1421: 시네마틱 초현실적 스토리보드 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dogecoin Indonesia 🇮🇩
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+6단 초현실적 스토리보드에서 10초 길이의 시네마틱 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+buat gambar cinematic ultrarealistis dengan 6 panel scene storyboard, yang menceritakan karakter sedang (kegiatan yang inginkan).
+
+MAIN GOAL: Create a cinematic video from a multi-panel storyboard. 10s duration.
+```
+
+### No. 1422: 잘생긴 남성 스튜디오 초상화 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+따뜻하고 드라마틱한 조명이 있는 전문 스튜디오에서 수염과 검은 머리를 가진 잘생긴 젊은 남성의 클로즈업 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A handsome young man with a neatly groomed beard and wavy dark hair is captured in a series of close-up portraits, all set within a professional studio environment characterized by dramatic, warm lighting.
+```
+
+### No. 1423: 한국식 톰보이 여성 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Trendy
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+디테일한 스트리트웨어를 입은 자신감 넘치는 한국풍 톰보이 여성의 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a beautiful Korean-inspired tomboy woman with black sunglasses, a short wavy bob haircut, an oversized ivory bomber jacket over a black fitted top, charcoal parachute pants, and white sneakers, confidently
+```
+
+### No. 1424: 검은 배경의 추상적인 메마른 나무 실루엣
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** enepty
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검은 배경 위에 특정 방법으로 생성된 잎이 없는 나무 실루엣을 특징으로 하는 추상 미술 작품을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A pure abstract aesthetic artwork set against a completely flat, solid pitch-black background. The central focus is the silhouette of an elegant, leafless barren tree. However, this tree is created EXCLUSIVELY through a
+```
+
+### No. 1425: 극단적인 로우앵글 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shahid Wani
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+극단적인 로우앵글에서 촬영된, 바람에 휘날리는 머리를 가진 젊은 동아시아 여성을 담은 드라마틱한 패션 초상화입니다.
+
+#### 프롬프트
+
+```text
+Fashion lifestyle portrait shot from extreme ground-level low angle looking dramatically upward, young East Asian woman with short wavy bob haircut, wind-blown hair with one strand crossing face while one eye makes sharp direct
+```
+
+### No. 1426: 구리빛 머리를 한 포근한 야간 침실 셀카
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Miz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+포근한 야간 침실 배경에서 구리빛 빨간 머리를 가진 젊은 여성의 초현실적 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic cozy nighttime bedroom selfie of a young woman with long naturally wavy copper-red hair styled with soft
+```
+
+### No. 1427: 손가락 하트 제스처를 한 전문 스튜디오 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+손가락으로 하트 모양을 만드는 주제를 담은 따뜻하고 전문적인 스튜디오 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Professional studio portrait, using the face and likeness from the uploaded photo, subject making a finger heart gesture with one hand raised near chest height, thumb and index finger forming a small heart shape, warm
+```
+
+### No. 1428: 초현실적 럭셔리 오피스 에디토리얼 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Natty Windstorm
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+럭셔리 오피스 배경에서 플래티넘 금발 여성의 초현실적 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic luxury office editorial portrait of a young platinum-blonde woman with soft shoulder-length beach waves and a center part, wearing
+```
+
+### No. 1429: 다이나믹 AI 스타일 및 장면 전환
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** each::labs
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+이 영상은 한 여성이 변화하는 배경 속에서 사실적, 애니메이션, 인형 스타일로 자연스럽게 전환되며, 마지막에 인상적인 풍선 텍스트 로고가 나타나는 내용을 담고 있습니다.
+
+#### 프롬프트
+
+```text
+A medium shot of a young woman in a pink baseball cap and black sweatshirt. She transitions from realistic to an anime drawing, then to a Barbie-like doll, and back to realistic, performing finger heart gestures and smiling. The background evolves from a cozy room to a modern office with a view of the Golden Gate Bridge. The 'each labs' logo appears as expanding 3D metallic silver and orange balloons, concluding on a red and blue gradient background with a subtle dot pattern. Static camera.
+```
+
+### No. 1430: 럭셔리 나이트라이프 패션 에디토리얼 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dockie
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+럭셔리 나이트라이프 배경에서 화려한 플래티넘 금발 여성의 초현실적 초상화입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic luxury nightlife fashion editorial portrait of a glamorous young platinum-blonde woman with long voluminous beach
+```
+
+### No. 1431: 진홍색 드레스의 여성 초상화 시리즈
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검은 머리와 빨간 립스틱을 한 여성이 진홍색 드레스를 입고 있는 사진 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface
+```
+
+### No. 1432: 사브리나 카펜터 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Pinodi
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+사브리나 카펜터의 특정 얼굴 특징을 가진 초상화를 생성하기 위한 구조화된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+    "subject": {
+        "identity": {
+            "biometric_reference": "Sabrina Carpenter",
+            "gender": "female",
+            "facial_morphology": "heart-shaped face, soft"
+        }
+    }
+}
+```
+
+### No. 1433: 3단 합성 여성 주제 이미지
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NUSRAT
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성 주제가 다른 배경에서 등장하는 3단 합성 이미지를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+"image_composition": "A three-panel composite image featuring the same female subject in different settings.",
+  "subject_details": {
+    "gender": "Female",
+    "appearance": "Young adult with long, dark, wavy hair, warm skin tone, and a https://t.co/JZ1sw3Z25T
+```
+
+### No. 1434: 골든 아워의 남인도 여성 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+일몰 시간대 잔디밭에 앉아 있는 젊은 남인도 여성의 사실적 초상화입니다.
+
+#### 프롬프트
+
+```text
+A stunning photorealistic portrait of a beautiful young South Indian woman in her mid-20s, sitting gracefully on a lush green lawn during golden hour sunset. She has warm tan
+```
+
+### No. 1435: 황혼의 검은색 사리를 입은 인도 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+시네마틱 조명이 적용된 고급스러운 환경 속 젊은 인도 여성의 사실적 초상화입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark eyes, full lips, long straight black hair with subtle highlights, wearing a modern black silk saree with gold embroidery, standing in a minimalist luxury penthouse with floor-to-ceiling windows overlooking a city skyline at dusk, soft cinematic lighting, photorealistic, 8K, ultra-detailed"
+}
+```
+
+### No. 1436: 눈에 띄는 인도 여성 초상화 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sadie 🥀
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+특정 얼굴 특징을 가진 아름다운 젊은 인도 여성의 초상화를 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark brown eyes with subtle eyeliner and long"}
+```
+
+### No. 1437: 턱시도를 입은 남성 미디엄 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+검은색 턱시도를 입고 날카롭게 차려입은 남성을 중앙 구도로 미디엄 샷에 담은 영상을 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A man stands centrally composed in a medium shot, his body angled in a 45 degree turn with level shoulders and a balanced weight distribution, dressed sharply in a black double breasted tuxedo over a crisp white shirt
+```
+
+### No. 1438: 8K 시네마틱 필름 스틸로 이미지 업스케일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Andy Orsow
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+이미지를 8K UHD로 업스케일하고, 배경과 피부의 노이즈를 제거하여 시네마틱 필름 스틸을 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Faithfully upscale this image and increase its resolution to 8K UHD level with maximum detail and clarity. Denoise the background and his skin. No textured background. cinematic film still
+```
+
+### No. 1439: 환호하는 군중과 함께하는 AI 뉴스 리포트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Christian Vivas
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+뉴스 앵커가 새로운 AI 모델에 대해 보도하며, 도시 거리에서의 축제 분위기 군중 장면과 거리 인터뷰 장면이 교차 편집됩니다.
+
+#### 프롬프트
+
+```text
+A news broadcast video. A professional male news anchor with a beard, wearing a blue suit, sits at a desk in a modern studio featuring large screens displaying a world map and a prominent 'BREAKING NEWS' banner. He speaks directly to the camera, with a slight zoom-in. The video then cuts to an energetic, dynamic wide shot of a large, diverse crowd of people on a bustling, sunny city street, cheering, clapping, and raising their arms in celebration, with some hugging. This transitions briefly back to the news anchor, then to a female reporter holding a 'FOX' branded microphone, interviewing an excited young man on the same city street, with the jubilant crowd and small French flags visible in the background. The young man raises his fists enthusiastically while shouting.
+```
+
+### No. 1440: 식물성 비탄 조각상 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+길게 뻗은 목과 기념비적 위엄을 강조하는 초현실적 로우앵글 조각상 초상화입니다.
+
+#### 프롬프트
+
+```text
+A hyper-realistic, low-angle sculptural portrait of The Protagonist, framed from below to emphasize the elongation of the neck and the monumental stature
+```
+
+### No. 1441: 얼굴 고정 기능이 적용된 시네마틱 빈티지 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Talia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+에메랄드 그린 실크 쿠르티를 입은 여성의 시네마틱 빈티지 초상화를 생성하는 프롬프트로, 참조 이미지의 얼굴을 엄격히 고정하라는 지시가 포함되어 있습니다.
+
+#### 프롬프트
+
+```text
+Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. No AI alteration. ASPECT RATIO • 3:4. STYLE: Cinematic Vintage. SCENE: Woman in a heavy emerald green silk Kurti
+```
+
+### No. 1442: 검은색 블레이저를 입은 초현실적 변호사 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Tomilola _Ruth❤️
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+업로드된 이미지를 참조하여, 변호사 복장을 입은 인물의 초현실적 이미지를 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+with reference to the uploaded image create a hyper realistic image of me wearing a black blazers, black wide leg trousers under a fitted lawyer robe with white lace jabot, wearing white barrister
+```
+
+### No. 1443: AI 추론 비저작권 주제 그리드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+주제 분석과 디테일 추출을 포함한, AI가 추론한 비저작권 주제들의 2x2 그리드를 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+2x2 grid, 16:9, 4 ai inferred topics that are not copyrighted {input = $ subject # 1. analyze the subject. silhouette = extract_silhouette(input) internal_rhythm = detect_repeated_details(input)
+```
+
+### No. 1444: 디스코 볼 위의 개구리 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Heather Green
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+무지개 배경과 반사되는 디스코 볼 위에 선명한 초록색 개구리의 디테일한 클로즈업입니다.
+
+#### 프롬프트
+
+```text
+a highly detailed close up of a vibrant green frog perched atop a reflective disco ball, sharp focus on the frog’s textured skin and glistening eyes, rainbow colored background
+```
+
+### No. 1445: 집요한 피부 디테일 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+피부 질감에 초점을 맞춘 초고해상도 스튜디오 초상화를 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the exact same face from the reference image and generate the most technically obsessive skin-detail studio portrait ever attempted — where human skin becomes the subject, the art, and the
+```
+
+### No. 1446: 네 장면의 여성 콜라주
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NUSRAT
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+동일한 젊은 여성이 다른 역할과 환경에 있는 콜라주를 생성하기 위한 구조화된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "image_composition": "A collage of four distinct scenes featuring the same young woman in various roles and environments.",
+  "image_1": {
+    "setting": "Sunny ocean beach with mountains in the background",
+    "subject_action": "Emerging"
+  }
+}
+```
+
+### No. 1447: 럭셔리 네일 폴리시 광고
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zarlish
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+광택 있는 검은색 대리석 위에 루비 레드 네일 폴리시 병을 특징으로 하는 고급 화장품 광고 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A luxury cosmetic advertisement featuring a premium nail polish bottle placed on a glossy black marble surface with flowing liquid polish in rich ruby red.
+```
+
+### No. 1448: 참조 얼굴을 활용한 신부 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ozair AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+우아함과 잡지 화질에 초점을 맞춰, 참조 얼굴을 사용하여 신부 초상화를 생성하는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

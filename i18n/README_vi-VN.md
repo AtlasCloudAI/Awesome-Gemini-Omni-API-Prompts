@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 1416 |
+| Tong so Prompt | 1448 |
 | So danh muc | 8 |
-| So video xem truoc | 435 |
-| Cap nhat lan cuoi | 14/07/2026 |
+| So video xem truoc | 438 |
+| Cap nhat lan cuoi | 15/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1314)
+### Twitter Community (1346)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -33084,6 +33084,668 @@ Một gợi ý để tạo chân dung phong cách đường phố chân thực v
 
 ```text
 A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
+```
+
+### No. 1417: Navigating GlobalGPT AI Models Hub
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Paul Sims
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+This screen recording demonstrates a user exploring the GlobalGPT website, highlighting its diverse range of AI models and tools for image and video generation with smooth UI transitions.
+
+#### Prompt
+
+```text
+A fluid screen recording of a user interacting with the GlobalGPT AI models and tools hub website. The camera smoothly scrolls down the homepage, displaying various AI model carousels and newly released features. It then navigates to the 'Models & Tools' section, applying filters for 'Image' and then 'Video' to reveal specialized AI generators, all presented with a clean, modern UI/UX design.
+```
+
+### No. 1418: Bức Ảnh Tàu Lượn Siêu Tốc Chuyển Động Chậm Siêu Thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Alex Prompts
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho bức ảnh siêu thực, chuyển động cực chậm về một người đàn ông trên chuyến đi tàu lượn siêu tốc đầy kịch tính.
+
+#### Prompt
+
+```text
+A hyper-realistic photo at 10,000 FPS ultra slow-motion of a thrilling roller coaster ride. A man
+```
+
+### No. 1419: Ảnh Tham Chiếu Cho Bố Cục và Nhận Dạng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Smiling Khan
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc hướng dẫn AI sử dụng ảnh đã tải lên làm tham chiếu chính xác cho bố cục, tư thế, biểu cảm, và để bảo tồn nhận dạng và ngoại hình của chủ thể.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the exact reference for the composition, pose, facial expressions, framing, camera angle, and overall arrangement. Preserve the couple's identity, clothing, hairstyle, and
+```
+
+### No. 1420: Chân Dung Sứ và Bò Sát
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung cận cảnh siêu thực của nhân vật chính như một tác phẩm điêu khắc sống với lớp phủ trắng đang khô.
+
+#### Prompt
+
+```text
+A hyper-realistic, avant-garde close-up portrait of The Protagonist transformed into a living sculpture. The subject's face is coated in a thin layer of drying white
+```
+
+### No. 1421: Video Phân Cảnh Điện Ảnh Siêu Thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Dogecoin Indonesia 🇮🇩
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo video điện ảnh dài 10 giây từ một phân cảnh siêu thực gồm sáu tấm.
+
+#### Prompt
+
+```text
+buat gambar cinematic ultrarealistis dengan 6 panel scene storyboard, yang menceritakan karakter sedang (kegiatan yang inginkan).
+
+MAIN GOAL: Create a cinematic video from a multi-panel storyboard. 10s duration.
+```
+
+### No. 1422: Chân Dung Cận Cảnh Người Đàn Ông Đẹp Trai Trong Studio
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo các bức chân dung cận cảnh của một chàng trai trẻ đẹp trai có râu và tóc đen trong studio chuyên nghiệp với ánh sáng ấm áp và kịch tính.
+
+#### Prompt
+
+```text
+A handsome young man with a neatly groomed beard and wavy dark hair is captured in a series of close-up portraits, all set within a professional studio environment characterized by dramatic, warm lighting.
+```
+
+### No. 1423: Chân Dung Thời Trang Người Phụ Nữ Tomboy Hàn Quốc
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Trendy
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo hình ảnh một người phụ nữ tomboy tự tin lấy cảm hứng từ Hàn Quốc trong bộ trang phục đường phố chi tiết.
+
+#### Prompt
+
+```text
+Create a beautiful Korean-inspired tomboy woman with black sunglasses, a short wavy bob haircut, an oversized ivory bomber jacket over a black fitted top, charcoal parachute pants, and white sneakers, confidently
+```
+
+### No. 1424: Hình Bóng Cây Trụi Lá Trừu Tượng Trên Nền Đen
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** enepty
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo tác phẩm nghệ thuật trừu tượng có hình bóng cây không lá được tạo ra bằng một phương pháp cụ thể trên nền đen.
+
+#### Prompt
+
+```text
+A pure abstract aesthetic artwork set against a completely flat, solid pitch-black background. The central focus is the silhouette of an elegant, leafless barren tree. However, this tree is created EXCLUSIVELY through a
+```
+
+### No. 1425: Chân Dung Thời Trang Góc Thấp Cực Đoan
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Shahid Wani
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung thời trang kịch tính được chụp từ góc cực thấp, có một phụ nữ trẻ Đông Á với mái tóc bay trong gió.
+
+#### Prompt
+
+```text
+Fashion lifestyle portrait shot from extreme ground-level low angle looking dramatically upward, young East Asian woman with short wavy bob haircut, wind-blown hair with one strand crossing face while one eye makes sharp direct
+```
+
+### No. 1426: Ảnh Tự Sướng Phòng Ngủ Ban Đêm Ấm Cúng Với Mái Tóc Đồng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Miz
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo hình ảnh siêu thực về một phụ nữ trẻ với mái tóc đỏ đồng trong bối cảnh phòng ngủ ban đêm ấm cúng.
+
+#### Prompt
+
+```text
+Ultra-realistic cozy nighttime bedroom selfie of a young woman with long naturally wavy copper-red hair styled with soft
+```
+
+### No. 1427: Chân Dung Studio Chuyên Nghiệp Với Cử Chỉ Trái Tim Tay
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Maddox
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo một bức chân dung studio ấm áp, chuyên nghiệp có chủ thể thực hiện cử chỉ trái tim bằng tay.
+
+#### Prompt
+
+```text
+Professional studio portrait, using the face and likeness from the uploaded photo, subject making a finger heart gesture with one hand raised near chest height, thumb and index finger forming a small heart shape, warm
+```
+
+### No. 1428: Chân Dung Biên Tập Văn Phòng Sang Trọng Siêu Thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Natty Windstorm
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo bức chân dung siêu thực về một người phụ nữ tóc bạch kim trong bối cảnh văn phòng sang trọng.
+
+#### Prompt
+
+```text
+Ultra-realistic luxury office editorial portrait of a young platinum-blonde woman with soft shoulder-length beach waves and a center part, wearing
+```
+
+### No. 1429: Chuyển Đổi Phong Cách AI & Cảnh Động
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** each::labs
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Video này có một người phụ nữ chuyển đổi liền mạch giữa các phong cách hiện thực, anime và búp bê, trên nền các phông nền thay đổi, và kết thúc bằng màn lộ diện logo chữ bóng bay ấn tượng.
+
+#### Prompt
+
+```text
+A medium shot of a young woman in a pink baseball cap and black sweatshirt. She transitions from realistic to an anime drawing, then to a Barbie-like doll, and back to realistic, performing finger heart gestures and smiling. The background evolves from a cozy room to a modern office with a view of the Golden Gate Bridge. The 'each labs' logo appears as expanding 3D metallic silver and orange balloons, concluding on a red and blue gradient background with a subtle dot pattern. Static camera.
+```
+
+### No. 1430: Chân Dung Biên Tập Thời Trang Cuộc Sống Về Đêm Sang Trọng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Dockie
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung siêu thực về một người phụ nữ tóc bạch kim quyến rũ trong bối cảnh cuộc sống về đêm sang trọng.
+
+#### Prompt
+
+```text
+Ultra-realistic luxury nightlife fashion editorial portrait of a glamorous young platinum-blonde woman with long voluminous beach
+```
+
+### No. 1431: Loạt Ảnh Chân Dung Người Phụ Nữ Mặc Váy Đỏ Thẫm
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo các bức chân dung chụp hình một người phụ nữ tóc đen, son đỏ mặc váy đỏ thẫm.
+
+#### Prompt
+
+```text
+A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface
+```
+
+### No. 1432: Lời Nhắc Chân Dung Sabrina Carpenter
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Pinodi
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc có cấu trúc để tạo chân dung Sabrina Carpenter với các đặc điểm khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+{
+    "subject": {
+        "identity": {
+            "biometric_reference": "Sabrina Carpenter",
+            "gender": "female",
+            "facial_morphology": "heart-shaped face, soft"
+        }
+    }
+}
+```
+
+### No. 1433: Hình Ảnh Ghép Ba Tấm Với Chủ Thể Nữ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** NUSRAT
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lời nhắc để tạo hình ảnh ghép ba tấm có chủ thể nữ trong các bối cảnh khác nhau.
+
+#### Prompt
+
+```text
+"image_composition": "A three-panel composite image featuring the same female subject in different settings.",
+  "subject_details": {
+    "gender": "Female",
+    "appearance": "Young adult with long, dark, wavy hair, warm skin tone, and a https://t.co/JZ1sw3Z25T
+```
+
+### No. 1434: Chân Dung Phụ Nữ Nam Ấn Độ Lúc Giờ Vàng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung chân thực của một phụ nữ Nam Ấn Độ trẻ ngồi trên bãi cỏ lúc hoàng hôn.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young South Indian woman in her mid-20s, sitting gracefully on a lush green lawn during golden hour sunset. She has warm tan
+```
+
+### No. 1435: Phụ Nữ Ấn Độ Mặc Sari Đen Lúc Hoàng Hôn
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung chân thực của một phụ nữ Ấn Độ trẻ trong một khung cảnh xa xỉ với ánh sáng điện ảnh.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark eyes, full lips, long straight black hair with subtle highlights, wearing a modern black silk saree with gold embroidery, standing in a minimalist luxury penthouse with floor-to-ceiling windows overlooking a city skyline at dusk, soft cinematic lighting, photorealistic, 8K, ultra-detailed"
+}
+```
+
+### No. 1436: Gợi Ý Chân Dung Phụ Nữ Ấn Độ Tuyệt Đẹp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sadie 🥀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra chân dung của một phụ nữ Ấn Độ trẻ đẹp với các đặc điểm khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark brown eyes with subtle eyeliner and long"}
+```
+
+### No. 1437: Người Đàn Ông Mặc Veston Cảnh Trung
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo video về một người đàn ông ăn mặc chỉnh chu trong bộ veston đen, được bố cục trung tâm trong một cảnh quay trung.
+
+#### Prompt
+
+```text
+A man stands centrally composed in a medium shot, his body angled in a 45 degree turn with level shoulders and a balanced weight distribution, dressed sharply in a black double breasted tuxedo over a crisp white shirt
+```
+
+### No. 1438: Nâng Cấp Hình Ảnh lên 8K Dạng Cảnh Phim Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Andy Orsow
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để nâng cấp hình ảnh lên 8K UHD, khử nhiễu nền và da, và tạo ra một cảnh phim điện ảnh.
+
+#### Prompt
+
+```text
+Faithfully upscale this image and increase its resolution to 8K UHD level with maximum detail and clarity. Denoise the background and his skin. No textured background. cinematic film still
+```
+
+### No. 1439: Bản Tin AI với Đám Đông Cổ Vũ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Christian Vivas
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một phát thanh viên đưa tin về một mô hình AI mới, xen kẽ với cảnh đám đông ăn mừng trên phố phường và một cuộc phỏng vấn đường phố.
+
+#### Prompt
+
+```text
+A news broadcast video. A professional male news anchor with a beard, wearing a blue suit, sits at a desk in a modern studio featuring large screens displaying a world map and a prominent 'BREAKING NEWS' banner. He speaks directly to the camera, with a slight zoom-in. The video then cuts to an energetic, dynamic wide shot of a large, diverse crowd of people on a bustling, sunny city street, cheering, clapping, and raising their arms in celebration, with some hugging. This transitions briefly back to the news anchor, then to a female reporter holding a 'FOX' branded microphone, interviewing an excited young man on the same city street, with the jubilant crowd and small French flags visible in the background. The young man raises his fists enthusiastically while shouting.
+```
+
+### No. 1440: Chân Dung Tượng Than Khắc Thực Vật
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung điêu khắc siêu thực, góc thấp, nhấn mạnh vào cổ dài và tầm vóc đồ sộ.
+
+#### Prompt
+
+```text
+A hyper-realistic, low-angle sculptural portrait of The Protagonist, framed from below to emphasize the elongation of the neck and the monumental stature
+```
+
+### No. 1441: Chân Dung Cổ Điển Điện Ảnh với Khóa Mặt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Talia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung cổ điển mang phong cách điện ảnh của một phụ nữ mặc áo kurti lụa xanh ngọc bích, với hướng dẫn nghiêm ngặt để khóa khuôn mặt từ một hình ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. No AI alteration. ASPECT RATIO • 3:4. STYLE: Cinematic Vintage. SCENE: Woman in a heavy emerald green silk Kurti
+```
+
+### No. 1442: Chân Dung Luật Sư Siêu Thực với Áo Blazer Đen
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Tomilola _Ruth❤️
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra hình ảnh siêu thực của một người mặc trang phục luật sư, tham chiếu từ một hình ảnh đã tải lên.
+
+#### Prompt
+
+```text
+with reference to the uploaded image create a hyper realistic image of me wearing a black blazers, black wide leg trousers under a fitted lawyer robe with white lace jabot, wearing white barrister
+```
+
+### No. 1443: Lưới Các Chủ Đề Không Vi Phạm Bản Quyền Do AI Suy Luận
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Gadgetify
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một lưới 2x2 các chủ đề không vi phạm bản quyền do AI suy luận, kèm theo phân tích chủ đề và trích xuất chi tiết.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, 4 ai inferred topics that are not copyrighted {input = $ subject # 1. analyze the subject. silhouette = extract_silhouette(input) internal_rhythm = detect_repeated_details(input)
+```
+
+### No. 1444: Ếch Trên Quả Cầu Disco Cận Cảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heather Green
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh cận chi tiết của một con ếch xanh tươi sáng trên một quả cầu disco phản chiếu với nền cầu vồng.
+
+#### Prompt
+
+```text
+a highly detailed close up of a vibrant green frog perched atop a reflective disco ball, sharp focus on the frog’s textured skin and glistening eyes, rainbow colored background
+```
+
+### No. 1445: Chân Dung Chi Tiết Da Liễu Ám Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung trong studio siêu chi tiết tập trung vào kết cấu da.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate the most technically obsessive skin-detail studio portrait ever attempted — where human skin becomes the subject, the art, and the
+```
+
+### No. 1446: Ảnh Ghép Người Phụ Nữ trong Bốn Cảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** NUSRAT
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý có cấu trúc để tạo ra một bức ảnh ghép có cùng một phụ nữ trẻ trong các vai trò và môi trường khác nhau.
+
+#### Prompt
+
+```text
+{
+  "image_composition": "A collage of four distinct scenes featuring the same young woman in various roles and environments.",
+  "image_1": {
+    "setting": "Sunny ocean beach with mountains in the background",
+    "subject_action": "Emerging"
+  }
+}
+```
+
+### No. 1447: Quảng Cáo Sơn Móng Tay Cao Cấp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Zarlish
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một quảng cáo mỹ phẩm xa xỉ, có hình chai sơn móng tay màu đỏ ruby trên nền đá cẩm thạch đen bóng.
+
+#### Prompt
+
+```text
+A luxury cosmetic advertisement featuring a premium nail polish bottle placed on a glossy black marble surface with flowing liquid polish in rich ruby red.
+```
+
+### No. 1448: Chân Dung Cô Dâu với Khuôn Mặt Tham Chiếu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung cô dâu sử dụng khuôn mặt tham chiếu, tập trung vào sự thanh lịch và chất lượng tạp chí.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

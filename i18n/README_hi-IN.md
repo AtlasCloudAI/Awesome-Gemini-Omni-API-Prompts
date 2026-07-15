@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1416%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 1416 |
+| Kul Prompts | 1448 |
 | Categories | 10 |
-| Preview Videos | 435 |
-| Aakhri Update | 14/07/2026 |
+| Preview Videos | 438 |
+| Aakhri Update | 15/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (1314)
+### Twitter Community (1346)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -33094,6 +33094,668 @@ Create a high-end cinematic double-exposure fashion poster using the uploaded re
 
 ```text
 A realistic street-style portrait of a fictional Korean girl with a messy low bun, round wire glasses, and a cheerful side-eye smile, standing against a pale mint wall in Seoul on an overcast
+```
+
+### No. 1417: ग्लोबलजीपीटी एआई मॉडल्स हब का नेविगेशन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Paul Sims
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077003882346213441.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+यह स्क्रीन रिकॉर्डिंग एक उपयोगकर्ता को ग्लोबलजीपीटी वेबसाइट का अन्वेषण करते हुए दर्शाती है, जो छवि और वीडियो निर्माण के लिए इसकी विविध एआई मॉडल्स और टूल्स को सहज यूआई ट्रांज़िशन के साथ उजागर करती है।
+
+#### Prompt
+
+```text
+A fluid screen recording of a user interacting with the GlobalGPT AI models and tools hub website. The camera smoothly scrolls down the homepage, displaying various AI model carousels and newly released features. It then navigates to the 'Models & Tools' section, applying filters for 'Image' and then 'Video' to reveal specialized AI generators, all presented with a clean, modern UI/UX design.
+```
+
+### No. 1418: हाइपर-यथार्थवादी स्लो-मोशन रोलर कोस्टर फोटो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alex Prompts
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक रोमांचक रोलर कोस्टर की सवारी करते हुए एक व्यक्ति की अतियथार्थवादी, अल्ट्रा स्लो-मोशन फोटो के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A hyper-realistic photo at 10,000 FPS ultra slow-motion of a thrilling roller coaster ride. A man
+```
+
+### No. 1419: संरचना और पहचान के लिए फोटो संदर्भ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Smiling Khan
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रॉम्प्ट जो एक एआई को संरचना, मुद्रा, भावों के लिए एक सटीक संदर्भ के रूप में अपलोड की गई तस्वीर का उपयोग करने और विषयों की पहचान और रूप को संरक्षित करने का निर्देश देता है।
+
+#### Prompt
+
+```text
+Use the uploaded photo as the exact reference for the composition, pose, facial expressions, framing, camera angle, and overall arrangement. Preserve the couple's identity, clothing, hairstyle, and
+```
+
+### No. 1420: पोर्सिलेन और रेप्टाइल पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक सूखने वाली सफेद कोटिंग के साथ एक जीवित मूर्तिकला के रूप में एक नायक का हाइपर-यथार्थवादी क्लोज-अप चित्र।
+
+#### Prompt
+
+```text
+A hyper-realistic, avant-garde close-up portrait of The Protagonist transformed into a living sculpture. The subject's face is coated in a thin layer of drying white
+```
+
+### No. 1421: सिनेमाई अल्ट्रारियलिस्टिक स्टोरीबोर्ड वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dogecoin Indonesia 🇮🇩
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+छह-पैनल अति-यथार्थवादी स्टोरीबोर्ड से 10-सेकंड का सिनेमाई वीडियो उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+buat gambar cinematic ultrarealistis dengan 6 panel scene storyboard, yang menceritakan karakter sedang (kegiatan yang inginkan).
+
+MAIN GOAL: Create a cinematic video from a multi-panel storyboard. 10s duration.
+```
+
+### No. 1422: सुंदर पुरुष स्टूडियो पोर्ट्रेट क्लोज-अप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गर्म, नाटकीय प्रकाश व्यवस्था वाले एक पेशेवर स्टूडियो में दाढ़ी और काले बालों वाले एक सुंदर युवा पुरुष के क्लोज-अप चित्र उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A handsome young man with a neatly groomed beard and wavy dark hair is captured in a series of close-up portraits, all set within a professional studio environment characterized by dramatic, warm lighting.
+```
+
+### No. 1423: कोरियाई टॉमबॉय महिला फैशन पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Trendy
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विस्तृत स्ट्रीटवियर आउटफिट में एक आत्मविश्वासी कोरियाई-प्रेरित टॉमबॉय महिला की छवि उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a beautiful Korean-inspired tomboy woman with black sunglasses, a short wavy bob haircut, an oversized ivory bomber jacket over a black fitted top, charcoal parachute pants, and white sneakers, confidently
+```
+
+### No. 1424: काले पृष्ठभूमि पर अमूर्त बंजर पेड़ की सिल्हूट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** enepty
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक अमूर्त कलाकृति उत्पन्न करने के लिए एक प्रॉम्प्ट जिसमें काले पृष्ठभूमि पर एक विशिष्ट विधि द्वारा बनाई गई पत्ती रहित पेड़ की सिल्हूट है।
+
+#### Prompt
+
+```text
+A pure abstract aesthetic artwork set against a completely flat, solid pitch-black background. The central focus is the silhouette of an elegant, leafless barren tree. However, this tree is created EXCLUSIVELY through a
+```
+
+### No. 1425: अत्यधिक लो-एंगल फैशन पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Shahid Wani
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक नाटकीय फैशन पोर्ट्रेट जो अत्यधिक निचले कोण से लिया गया है, जिसमें हवा से उड़ते बालों वाली एक युवा पूर्वी एशियाई महिला है।
+
+#### Prompt
+
+```text
+Fashion lifestyle portrait shot from extreme ground-level low angle looking dramatically upward, young East Asian woman with short wavy bob haircut, wind-blown hair with one strand crossing face while one eye makes sharp direct
+```
+
+### No. 1426: कॉपर हेयर के साथ आरामदायक रात्रि बेडरूम सेल्फी
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Miz
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+आरामदायक रात्रि बेडरूम सेटिंग में कॉपर-रेड बालों वाली एक युवा महिला की अति-यथार्थवादी छवि उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-realistic cozy nighttime bedroom selfie of a young woman with long naturally wavy copper-red hair styled with soft
+```
+
+### No. 1427: फिंगर हार्ट जेस्चर के साथ पेशेवर स्टूडियो पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Maddox
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+फिंगर हार्ट जेस्चर बनाते हुए एक विषय को दर्शाता एक गर्मजोशी भरा, पेशेवर स्टूडियो चित्र बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Professional studio portrait, using the face and likeness from the uploaded photo, subject making a finger heart gesture with one hand raised near chest height, thumb and index finger forming a small heart shape, warm
+```
+
+### No. 1428: अति-यथार्थवादी लक्जरी ऑफिस एडिटोरियल पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Natty Windstorm
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लक्जरी ऑफिस सेटिंग में एक प्लैटिनम-ब्लॉन्ड महिला का अति-यथार्थवादी चित्र उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra-realistic luxury office editorial portrait of a young platinum-blonde woman with soft shoulder-length beach waves and a center part, wearing
+```
+
+### No. 1429: गतिशील एआई शैली और दृश्य संक्रमण
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** each::labs
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077039981239914810.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+इस वीडियो में एक महिला यथार्थवादी, एनीमे और गुड़िया शैलियों के बीच निर्बाध रूप से संक्रमण करती है, बदलते पृष्ठभूमि के साथ, जो एक आकर्षक बैलून-टेक्स्ट लोगो रिवील पर समाप्त होता है।
+
+#### Prompt
+
+```text
+A medium shot of a young woman in a pink baseball cap and black sweatshirt. She transitions from realistic to an anime drawing, then to a Barbie-like doll, and back to realistic, performing finger heart gestures and smiling. The background evolves from a cozy room to a modern office with a view of the Golden Gate Bridge. The 'each labs' logo appears as expanding 3D metallic silver and orange balloons, concluding on a red and blue gradient background with a subtle dot pattern. Static camera.
+```
+
+### No. 1430: लक्जरी नाइटलाइफ़ फैशन एडिटोरियल पोर्ट्रेट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dockie
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लक्जरी नाइटलाइफ़ सेटिंग में एक ग्लैमरस प्लैटिनम-ब्लॉन्ड महिला का अति-यथार्थवादी चित्र।
+
+#### Prompt
+
+```text
+Ultra-realistic luxury nightlife fashion editorial portrait of a glamorous young platinum-blonde woman with long voluminous beach
+```
+
+### No. 1431: क्रिमसन ड्रेस में महिला पोर्ट्रेट श्रृंखला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+काले बाल और लाल लिपस्टिक वाली एक महिला का क्रिमसन ड्रेस में फोटोग्राफिक चित्र उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface
+```
+
+### No. 1432: सब्रिना कार्पेंटर पोर्ट्रेट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinodi
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विशिष्ट चेहरे की विशेषताओं के साथ सब्रिना कार्पेंटर का चित्र उत्पन्न करने के लिए एक संरचित प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+    "subject": {
+        "identity": {
+            "biometric_reference": "Sabrina Carpenter",
+            "gender": "female",
+            "facial_morphology": "heart-shaped face, soft"
+        }
+    }
+}
+```
+
+### No. 1433: तीन-पैनल सम्मिश्र महिला विषय छवि
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** NUSRAT
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक महिला विषय को विभिन्न सेटिंग्स में दर्शाती तीन-पैनल सम्मिश्र छवि के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+"image_composition": "A three-panel composite image featuring the same female subject in different settings.",
+  "subject_details": {
+    "gender": "Female",
+    "appearance": "Young adult with long, dark, wavy hair, warm skin tone, and a https://t.co/JZ1sw3Z25T
+```
+
+### No. 1434: गोल्डन आवर में दक्षिण भारतीय महिला का चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सूर्यास्त के समय लॉन पर बैठी एक युवा दक्षिण भारतीय महिला का फोटोरियलिस्टिक चित्र।
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young South Indian woman in her mid-20s, sitting gracefully on a lush green lawn during golden hour sunset. She has warm tan
+```
+
+### No. 1435: गोधूलि में काले साड़ी वाली भारतीय महिला
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सिनेमाई प्रकाश व्यवस्था के साथ एक शानदार सेटिंग में एक युवा भारतीय महिला का फोटोरियलिस्टिक चित्र।
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark eyes, full lips, long straight black hair with subtle highlights, wearing a modern black silk saree with gold embroidery, standing in a minimalist luxury penthouse with floor-to-ceiling windows overlooking a city skyline at dusk, soft cinematic lighting, photorealistic, 8K, ultra-detailed"
+}
+```
+
+### No. 1436: आकर्षक भारतीय महिला चित्र प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sadie 🥀
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विशिष्ट चेहरे की विशेषताओं वाली एक सुंदर युवा भारतीय महिला का चित्र बनाने के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s, South Asian beauty with fair glowing skin, sharp symmetrical facial features, high cheekbones, large expressive almond-shaped dark brown eyes with subtle eyeliner and long"}
+```
+
+### No. 1437: टक्सीडो में आदमी का मीडियम शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Picts by AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक काले टक्सीडो में तेजतर्रार तरीके से तैयार एक आदमी का वीडियो बनाने का प्रॉम्प्ट, जो मीडियम शॉट में केंद्रित रूप से प्रस्तुत किया गया है।
+
+#### Prompt
+
+```text
+A man stands centrally composed in a medium shot, his body angled in a 45 degree turn with level shoulders and a balanced weight distribution, dressed sharply in a black double breasted tuxedo over a crisp white shirt
+```
+
+### No. 1438: छवि को 8K सिनेमाई फिल्म स्टिल में अपस्केल करें
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Andy Orsow
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+किसी छवि को 8K UHD में अपस्केल करने, पृष्ठभूमि और त्वचा को डिनॉइज़ करने और एक सिनेमाई फिल्म स्टिल बनाने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Faithfully upscale this image and increase its resolution to 8K UHD level with maximum detail and clarity. Denoise the background and his skin. No textured background. cinematic film still
+```
+
+### No. 1439: जयजयकार करते हुए भीड़ के साथ एआई समाचार रिपोर्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Christian Vivas
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077075884259873118.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक समाचार एंकर एक नए एआई मॉडल पर रिपोर्ट करता है, जिसमें शहर की सड़क पर जश्न मनाती भीड़ और एक सड़क साक्षात्कार के दृश्य शामिल हैं।
+
+#### Prompt
+
+```text
+A news broadcast video. A professional male news anchor with a beard, wearing a blue suit, sits at a desk in a modern studio featuring large screens displaying a world map and a prominent 'BREAKING NEWS' banner. He speaks directly to the camera, with a slight zoom-in. The video then cuts to an energetic, dynamic wide shot of a large, diverse crowd of people on a bustling, sunny city street, cheering, clapping, and raising their arms in celebration, with some hugging. This transitions briefly back to the news anchor, then to a female reporter holding a 'FOX' branded microphone, interviewing an excited young man on the same city street, with the jubilant crowd and small French flags visible in the background. The young man raises his fists enthusiastically while shouting.
+```
+
+### No. 1440: बॉटनिकल लैमेंट मूर्तिकला चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लम्बी गर्दन और स्मारकीय कद पर जोर देते हुए एक अतियथार्थ, निचले कोण वाला मूर्तिकला चित्र।
+
+#### Prompt
+
+```text
+A hyper-realistic, low-angle sculptural portrait of The Protagonist, framed from below to emphasize the elongation of the neck and the monumental stature
+```
+
+### No. 1441: चेहरा लॉक के साथ सिनेमाई विंटेज चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Talia
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ छवि से चेहरे को सख्त निर्देशों के साथ लॉक करते हुए, पन्ना हरी रेशमी कुर्ती में एक महिला का सिनेमाई विंटेज चित्र बनाने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. No AI alteration. ASPECT RATIO • 3:4. STYLE: Cinematic Vintage. SCENE: Woman in a heavy emerald green silk Kurti
+```
+
+### No. 1442: ब्लैक ब्लेज़र के साथ अतियथार्थ वकील चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Tomilola _Ruth❤️
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+अपलोड की गई छवि का संदर्भ देते हुए, वकील के परिधान में एक व्यक्ति की अतियथार्थ छवि बनाने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+with reference to the uploaded image create a hyper realistic image of me wearing a black blazers, black wide leg trousers under a fitted lawyer robe with white lace jabot, wearing white barrister
+```
+
+### No. 1443: एआई द्वारा अनुमानित गैर-कॉपीराइट विषयों का ग्रिड
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विषय विश्लेषण और विस्तार निष्कर्षण के साथ एआई-अनुमानित, गैर-कॉपीराइट विषयों का 2x2 ग्रिड बनाने के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, 4 ai inferred topics that are not copyrighted {input = $ subject # 1. analyze the subject. silhouette = extract_silhouette(input) internal_rhythm = detect_repeated_details(input)
+```
+
+### No. 1444: डिस्को बॉल पर मेंढक का क्लोज़-अप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heather Green
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+इंद्रधनुषी पृष्ठभूमि के साथ एक चमकदार डिस्को बॉल पर एक जीवंत हरे मेंढक का विस्तृत क्लोज़-अप।
+
+#### Prompt
+
+```text
+a highly detailed close up of a vibrant green frog perched atop a reflective disco ball, sharp focus on the frog’s textured skin and glistening eyes, rainbow colored background
+```
+
+### No. 1445: अत्यधिक विस्तृत त्वचा वाला चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+त्वचा की बनावट पर ध्यान केंद्रित करते हुए एक अति-विस्तृत स्टूडियो चित्र बनाने के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate the most technically obsessive skin-detail studio portrait ever attempted — where human skin becomes the subject, the art, and the
+```
+
+### No. 1446: चार दृश्यों में एक महिला का कोलाज
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** NUSRAT
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक ही युवा महिला को अलग-अलग भूमिकाओं और वातावरण में दिखाते हुए एक कोलाज बनाने के लिए एक संरचित प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "image_composition": "A collage of four distinct scenes featuring the same young woman in various roles and environments.",
+  "image_1": {
+    "setting": "Sunny ocean beach with mountains in the background",
+    "subject_action": "Emerging"
+  }
+}
+```
+
+### No. 1447: लक्ज़री नेल पॉलिश विज्ञापन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Zarlish
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+चमकदार काले संगमरमर पर रूबी लाल नेल पॉलिश की बोतल दिखाते हुए एक लक्ज़री कॉस्मेटिक विज्ञापन के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A luxury cosmetic advertisement featuring a premium nail polish bottle placed on a glossy black marble surface with flowing liquid polish in rich ruby red.
+```
+
+### No. 1448: संदर्भ चेहरे के साथ दुल्हन का चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ चेहरे का उपयोग करके दुल्हन का चित्र बनाने का प्रॉम्प्ट, जो शानदार और मैगज़ीन क्वालिटी पर केंद्रित है।
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

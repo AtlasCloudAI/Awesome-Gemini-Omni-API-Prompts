@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una raccolta curata di esempi di prompt Gemini Omni con anteprime video OSS integrate.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Conteggio |
 | --- | ---: |
-| Prompt Totali | 1448 |
+| Prompt Totali | 1480 |
 | Categorie | 8 |
-| Video di Anteprima | 438 |
-| Ultimo Aggiornamento | 15/07/2026 |
+| Video di Anteprima | 443 |
+| Ultimo Aggiornamento | 16/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1346)
+### Twitter Community (1378)
 
 ### No. 103: Ritratto Romantico Naturale - Fotografia Editoriale
 
@@ -33746,6 +33746,650 @@ Una prompt per generare un ritratto da sposa utilizzando un volto di riferimento
 
 ```text
 Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
+```
+
+### No. 1449: Poster di Moda Cinematografico con Volto di Riferimento
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Tajammal Hussain
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per creare un collage di poster di moda cinematografico di alta gamma utilizzando un riferimento facciale specifico.
+
+#### Prompt
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent
+```
+
+### No. 1450: Poster Editoriale Atleta di Pallacanestro Femminile
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Smiling Khan
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per creare un poster editoriale sportivo cinematografico che ritrae una giocatrice di pallacanestro femminile.
+
+#### Prompt
+
+```text
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold
+```
+
+### No. 1451: Ritratto su spiaggia tropicale con capelli rosso rame
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Natty Windstorm
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto ultra-realistico di una giovane donna con capelli mossi rosso rame su una spiaggia tropicale.
+
+#### Prompt
+
+```text
+Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean
+```
+
+### No. 1452: Concetto della bolla fragile
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Atelier SG
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt poetico che descrive una bolla solitaria e fragile.
+
+#### Prompt
+
+```text
+A bubble that doesn't know it's the only fragile thing left.
+```
+
+### No. 1453: Ritratto di una donna sudasiatica con occhi blu-verdi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt che descrive una giovane donna con tratti sudasiatici, pelle olivastra chiara e occhi blu-verdi sorprendenti.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young woman in her mid-20s with South Asian/Indian features, fair-to-light olive skin, striking light blue-green eyes with defined eyeliner and long lashes, full lips with soft"
+```
+
+### No. 1454: Ritratto di donna in luce contemplativa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una serie di ritratti di una donna in quieta contemplazione, con luce e ombra dalle persiane che creano motivi a strisce.
+
+#### Prompt
+
+```text
+This series of portraits captures a woman in a moment of deep, quiet contemplation, framed by the interplay of light and shadow filtering through window blinds. The striped patterns of light cast across
+```
+
+### No. 1455: Prodotto gigante che sfonda il parabrezza di una Lamborghini
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Maddox
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una foto pubblicitaria surreale e iper-realistica di un prodotto gigante che sfonda il parabrezza di una Lamborghini.
+
+#### Prompt
+
+```text
+Hyper-realistic surreal advertising photograph of a giant oversized [product from uploaded photo] crashing through the windshield of a matte grey Lamborghini Huracán, shattering the glass dramatically. The car is parked on
+```
+
+### No. 1456: Donna dall'aspetto comune di oltre 50 anni
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Codrin
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di una donna dall'aspetto comune di oltre 50 anni.
+
+#### Prompt
+
+```text
+average looking 50+ year old woman
+```
+
+### No. 1457: Scatto cinematografico di donna in abito verde
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Arina Ai
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Uno scatto cinematografico a figura intera di una donna dell'Asia orientale con lunghi capelli neri, che indossa un top corto verde chiaro e una gonna a pieghe.
+
+#### Prompt
+
+```text
+Full-body cinematic shot of a beautiful adult East Asian woman with long straight black hair, wearing a stylish light green crop top and a matching light green short pleated skirt. She appears small in comparison as she is in
+```
+
+### No. 1458: Ritratto selfie ravvicinato con effetto pelle di vetro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Simply Ray
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per trasformare una foto in un ritratto selfie ravvicinato in interni di una donna con pelle chiara e un effetto pelle di vetro luminoso.
+
+#### Prompt
+
+```text
+Transform the photo into a close-up indoor selfie portrait of a beautiful young woman with fair, pale skin, a symmetrical face, and a very bright, smooth, glowing complexion with a natural glass skin effect, especially on the bridge of the nose
+```
+
+### No. 1459: Giovane donna con pelle chiara e capelli biondi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** J⭕DIE
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di una giovane donna con pelle chiara e lunghi capelli biondi mossi.
+
+#### Prompt
+
+```text
+A young woman with fair skin, long wavy blonde hair styled
+```
+
+### No. 1460: Ritratto in bianco e nero con illuminazione a chiaroscuro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un drammatico ritratto in bianco e nero di una donna serena con una forte illuminazione a chiaroscuro.
+
+#### Prompt
+
+```text
+A stunning black-and-white portrait of a woman looking upward with a serene and contemplative expression. The dramatic chiaroscuro lighting highlights the contours of her face, emphasizing her defined features
+```
+
+### No. 1461: Modella bruna in appartamento moderno di lusso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Ayushi Srivastava
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di una giovane modella bruna che posa in un appartamento moderno di notte.
+
+#### Prompt
+
+```text
+A stunning 22-year-old brunette model posing casually inside a modern luxury apartment at night. She has long dark brown hair tied
+```
+
+### No. 1462: Prompt per Scena Natalizia per Nicchia di Brand
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Amit Lunenfeld | AI Content + Aesthetic
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un modello di prompt per generare una scena a tema festivo personalizzata per una specifica nicchia di brand.
+
+#### Prompt
+
+```text
+Create a holiday scene for a [YOUR NICHE] brand.
+Use [ELEMENT FROM YOUR NICHE...
+```
+
+### No. 1463: Uomo sicuro di sé in completo che scatta un selfie allo specchio
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Picts by AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un video o un'immagine di un uomo affascinante in un elegante completo nero che scatta un selfie allo specchio.
+
+#### Prompt
+
+```text
+A confident handsome male stands facing the camera straight on taking a mirror selfie, his weight gently shifted while maintaining level shoulders in a sharply tailored black suit worn over an open white shirt, completed
+```
+
+### No. 1464: Creazione di immagini di moda di alta gamma
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Alex Prompts
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di moda di alta gamma.
+
+#### Prompt
+
+```text
+Create a high-end fashion image
+```
+
+### No. 1465: Fotografia di moda ultra-realistica di una donna gioiosa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Noah | AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare fotografie di moda e lifestyle ultra-realistiche che ritraggono una giovane donna gioiosa con dettagli specifici di capelli e occhiali.
+
+#### Prompt
+
+```text
+Ultra-realistic fashion lifestyle photography of a cheerful young woman with shoulder-length wavy dark brown hair, wearing round thin-metal eyeglasses, small hoop
+```
+
+### No. 1466: Fotografia Artistica con Impostazioni Cinematografiche della Fotocamera
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 绫花AIGC🌸
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta che specifica parametri di fotocamera e obiettivo per creare un'immagine artistica.
+
+#### Prompt
+
+```text
+Photography parameters: Arri Alexa 65, 50mm prime lens, f/2.0 aperture
+```
+
+### No. 1467: Primo Piano Surreale Cinematografico su Superficie a Scacchi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** timedoctor.eth
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una scena cinematografica surreale con un protagonista su un pavimento a scacchi lucido, incorniciato da un oggetto massiccio.
+
+#### Prompt
+
+```text
+A cinematic, surreal close-up of The Protagonist lying prone on a polished, obsidian-like checkered surface. The composition is aggressively framed by a massive,
+```
+
+### No. 1468: Richiesta Modulare per Foto di Strada
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Gadgetify
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta modulare per generare foto documentaristiche di strada con soggetti non posati in contesti urbani.
+
+#### Prompt
+
+```text
+input = [ stranger(s) / urban_context / unaware_action / capture_medium / juxtaposition ] run street_documentary_decisive_moment: subject_dna := unposed
+```
+
+### No. 1469: Ritratto di Street Fashion Ultra-Fotorealistico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Talia
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per creare un ritratto di street fashion dettagliato e fotorealistico basato su un'immagine di riferimento.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic medium-to-three-quarter-body street-fashion portrait faithfully inspired by the provided reference. Reproduce the pose, tattooed aesthetic, fitted ringer baby tee, oversized distressed denim, accessories
+```
+
+### No. 1470: Demo della Piattaforma AI GlobalGPT
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Alejandro Martinez | IA
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Questo screencast fornisce una panoramica completa della piattaforma GlobalGPT, mostrando i suoi vari modelli e strumenti AI per la creazione di immagini e video.
+
+#### Prompt
+
+```text
+A detailed screencast demonstrating the GlobalGPT website's user interface, highlighting its extensive collection of AI models and tools for image generation, video generation, and visual effects. The video features interactive mouse clicks navigating through the home page, models & tools section, image generator, and video generator, with smooth scrolling to showcase the full range of features.
+```
+
+### No. 1471: Apertura di una Scatola Chanel in un Hotel Lusso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Jessie_Ma
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare un video dell'apertura di una scatola Chanel contenente profumi e rossetti, ambientata in una suite d'albergo elegante.
+
+#### Prompt
+
+```text
+Use gemini omni, make this box i'm opening from Chanel, once i open it, there are chanel perfumes and some lipsticks inside. Change the background to the elegant, luxurious hotel suite shown in the reference image. keep my look unchanged.
+```
+
+### No. 1472: Piccola Volpe Astronauta in una Città Futuristica Abbandonata
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Zarlish
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare una scena di una piccola volpe astronauta luminosa che esplora una città futuristica deserta.
+
+#### Prompt
+
+```text
+A tiny glowing fox astronaut discovering an abandoned futuristic city
+```
+
+### No. 1473: Sito Web a Scorrimento per la Mitologia del Brand
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Bounce
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per un design di sito web in cui lo scorrimento rivela la storia del fondatore e la mitologia del brand, senza elementi di layout tradizionali.
+
+#### Prompt
+
+```text
+HE SELLS $10K SITES WHERE SCROLLING IS THE STORY AND THE BRAND IS THE LORE
+
+no hero + features + testimonials layout, no nav bar, no pricing table, the visitor lands on chapter one, scrolls, watches the founder story open frame by frame, scrolls again, meets the mythology of the
+```
+
+### No. 1474: Editoriale di Moda Lusso di una Donna Indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aiza
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per creare un poster collage multi-ritratto di una donna indiana realistica con pelle luminosa e capelli adornati di gelsomino.
+
+#### Prompt
+
+```text
+A luxury fashion editorial poster featuring a multi-portrait collage of an ultra-realistic young Indian woman. She has glowing skin with hyper-detailed realistic texture, an expressive smile, and long silky black hair adorned with fresh jasmine
+```
+
+### No. 1475: Ripristina Filmato Casalingo Strano
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glenn Williams
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per ripristinare un filmato casalingo strano allegato, senza domande o testo esplicativo.
+
+#### Prompt
+
+```text
+Restore the attached video. It's home footage. They've been at it a while. Apologies for the content, I know it's extremely strange. No questions, no explanatory text, just the restored video.
+```
+
+### No. 1476: Ritratto Fotorealistico di un Giovane Uomo Sorridente
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Dilshad Hussain
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare un ritratto realistico di un uomo sicuro di sé di 19 anni in una maglietta PUBG.
+
+#### Prompt
+
+```text
+Using uploaded face 100% realistic. A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black
+```
+
+### No. 1477: Donna Elegante con Capelli Rossi in Blazer Blu
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** NUSRAT
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto cinematografico fotorealistico di una donna alla moda con capelli rosso vibrante che indossa un blazer blu e gioielli d'argento.
+
+#### Prompt
+
+```text
+4k, high-resolution, photorealistic, cinematic shot of a stylish woman with short, vibrant red hair. She is wearing a structured, deep blue blazer and matching tailored trousers over a black lace camisole. She is adorned with layered silver
+```
+
+### No. 1478: Prodotto Gigante sulla Facciata di un Grattacielo di Vetro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Maddox
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una foto editoriale iperrealistica di un prodotto enorme incastrato su un grattacielo di vetro nel centro città, scattata da un'angolazione bassa.
+
+#### Prompt
+
+```text
+A hyper-realistic editorial photo taken from a low angle looking up at a massive glass skyscraper in a busy urban city center. A gigantic [PRODUCT FROM UPLOADED IMAGE] is stuck directly onto the glass facade of the building.
+```
+
+### No. 1479: Ritratto Ultra Dettagliato con Tratti Facciali Specifici
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Ozair AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare un ritratto altamente dettagliato con tratti facciali specifici basati su un'immagine di riferimento.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image — identical facial features, bone structure, hazel-green eyes, natural dark hair, full lips — and generate an intimate ultra-detailed skin portrait
+```
+
+### No. 1480: Cinematografia di un Amore Adolescenziale tra Vite Passate
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Sparkful
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per un video romantico adolescenziale su amanti di vite passate, focalizzata su riprese cinematografiche.
+
+#### Prompt
+
+```text
+Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
 ```
 
 Questo README e generato automaticamente dai dati in `data/prompts_by_locale`.

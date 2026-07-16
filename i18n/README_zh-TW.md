@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 1448 |
+| 提示詞總數 | 1480 |
 | 分類數 | 8 |
-| 預覽影片數 | 438 |
-| 最後更新 | 2026/07/15 |
+| 預覽影片數 | 443 |
+| 最後更新 | 2026/07/16 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1346)
+### Twitter Community (1378)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -33746,6 +33746,650 @@ A luxury cosmetic advertisement featuring a premium nail polish bottle placed on
 
 ```text
 Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
+```
+
+### No. 1449: 參考臉部之電影感時尚海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tajammal Hussain
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個使用特定臉部參考來創作高端電影感時尚海報拼貼的提示。
+
+#### 提示詞
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent
+```
+
+### No. 1450: 女性籃球運動員時尚海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Smiling Khan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作以女性籃球運動員為主題的電影感運動時尚海報的提示。
+
+#### 提示詞
+
+```text
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold
+```
+
+### No. 1451: 熱帶海灘上的銅紅色頭髮肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Natty Windstorm
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位年輕女性在熱帶海灘上的超寫實肖像，她有著波浪狀的銅紅色頭髮。
+
+#### 提示詞
+
+```text
+Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean
+```
+
+### No. 1452: 脆弱的泡泡概念
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Atelier SG
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個詩意的提示，描述一個孤獨、脆弱的泡泡。
+
+#### 提示詞
+
+```text
+A bubble that doesn't know it's the only fragile thing left.
+```
+
+### No. 1453: 擁有藍綠色眼眸的南亞女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+描述一位年輕女性的提示，她具有南亞特徵、淺橄欖色肌膚與引人注目的藍綠色眼眸。
+
+#### 提示詞
+
+```text
+{
+  "subject": "A stunning young woman in her mid-20s with South Asian/Indian features, fair-to-light olive skin, striking light blue-green eyes with defined eyeliner and long lashes, full lips with soft"
+```
+
+### No. 1454: 沈思光影中的女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位女性在安靜沈思中的肖像系列，來自百葉窗的光影創造出條紋圖案。
+
+#### 提示詞
+
+```text
+This series of portraits captures a woman in a moment of deep, quiet contemplation, framed by the interplay of light and shadow filtering through window blinds. The striped patterns of light cast across
+```
+
+### No. 1455: 巨型產品砸穿藍寶堅尼擋風玻璃
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張超寫實的超現實廣告照片，描繪一個巨型產品砸碎藍寶堅尼的擋風玻璃。
+
+#### 提示詞
+
+```text
+Hyper-realistic surreal advertising photograph of a giant oversized [product from uploaded photo] crashing through the windshield of a matte grey Lamborghini Huracán, shattering the glass dramatically. The car is parked on
+```
+
+### No. 1456: 相貌普通的50多歲女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Codrin
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成一位相貌普通、年齡超過50歲的女性圖像的提示。
+
+#### 提示詞
+
+```text
+average looking 50+ year old woman
+```
+
+### No. 1457: 身穿綠色服裝女性的電影感鏡頭
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Arina Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位東亞女性的全身電影感鏡頭，她有著長黑髮，身穿淺綠色短版上衣與百褶裙。
+
+#### 提示詞
+
+```text
+Full-body cinematic shot of a beautiful adult East Asian woman with long straight black hair, wearing a stylish light green crop top and a matching light green short pleated skirt. She appears small in comparison as she is in
+```
+
+### No. 1458: 帶有玻璃肌效果的近距離自拍肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Simply Ray
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個將照片轉化為近距離室內自拍肖像的提示，主角為一位擁有白皙肌膚並散發光澤玻璃肌效果的女性。
+
+#### 提示詞
+
+```text
+Transform the photo into a close-up indoor selfie portrait of a beautiful young woman with fair, pale skin, a symmetrical face, and a very bright, smooth, glowing complexion with a natural glass skin effect, especially on the bridge of the nose
+```
+
+### No. 1459: 擁有白皙肌膚與金髮的年輕女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成圖像的提示，內容為一位擁有白皙肌膚與長波浪金髮的年輕女性。
+
+#### 提示詞
+
+```text
+A young woman with fair skin, long wavy blonde hair styled
+```
+
+### No. 1460: 運用明暗對照法的黑白肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成戲劇性黑白肖像的提示，主角為一位寧靜的女性，並帶有強烈的明暗對照法光線。
+
+#### 提示詞
+
+```text
+A stunning black-and-white portrait of a woman looking upward with a serene and contemplative expression. The dramatic chiaroscuro lighting highlights the contours of her face, emphasizing her defined features
+```
+
+### No. 1461: 深褐色頭髮模特在現代豪華公寓
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ayushi Srivastava
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成圖像的提示，內容為一位年輕的深褐色頭髮模特在夜晚的現代公寓中擺姿勢。
+
+#### 提示詞
+
+```text
+A stunning 22-year-old brunette model posing casually inside a modern luxury apartment at night. She has long dark brown hair tied
+```
+
+### No. 1462: 品牌利基市場的節日場景提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Amit Lunenfeld | AI Content + Aesthetic
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個提示模板，用於生成為特定品牌利基市場客製化的節日主題場景。
+
+#### 提示詞
+
+```text
+Create a holiday scene for a [YOUR NICHE] brand.
+Use [ELEMENT FROM YOUR NICHE...
+```
+
+### No. 1463: 自信男士穿著西裝對鏡自拍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成影片或圖像的提示，內容為一位英俊男士穿著俐落的黑色西裝進行對鏡自拍。
+
+#### 提示詞
+
+```text
+A confident handsome male stands facing the camera straight on taking a mirror selfie, his weight gently shifted while maintaining level shoulders in a sharply tailored black suit worn over an open white shirt, completed
+```
+
+### No. 1464: 高端時尚影像創作
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成高端時尚影像的提示。
+
+#### 提示詞
+
+```text
+Create a high-end fashion image
+```
+
+### No. 1465: 超寫實時尚攝影：一位歡欣的女性
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Noah | AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用於生成超寫實時尚生活攝影的提示，主角為一位歡欣的年輕女性，包含特定的髮型與眼鏡細節。
+
+#### 提示詞
+
+```text
+Ultra-realistic fashion lifestyle photography of a cheerful young woman with shoulder-length wavy dark brown hair, wearing round thin-metal eyeglasses, small hoop
+```
+
+### No. 1466: 具電影感相機設定的藝術攝影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 绫花AIGC🌸
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指定相機和鏡頭參數以創建藝術圖像的提示。
+
+#### 提示詞
+
+```text
+Photography parameters: Arri Alexa 65, 50mm prime lens, f/2.0 aperture
+```
+
+### No. 1467: 棋盤格表面上的電影感超現實特寫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個超現實的電影場景，主角位於拋光的棋盤格地板上，被一個巨大物體所框住。
+
+#### 提示詞
+
+```text
+A cinematic, surreal close-up of The Protagonist lying prone on a polished, obsidian-like checkered surface. The composition is aggressively framed by a massive,
+```
+
+### No. 1468: 模組化街頭攝影提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個模組化提示，用於生成在城市環境中未經擺拍的街頭紀實照片。
+
+#### 提示詞
+
+```text
+input = [ stranger(s) / urban_context / unaware_action / capture_medium / juxtaposition ] run street_documentary_decisive_moment: subject_dna := unposed
+```
+
+### No. 1469: 超真實街頭時尚肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創建基於參考圖像的詳細、照片級真實的街頭時尚肖像的提示。
+
+#### 提示詞
+
+```text
+Create an ultra-photorealistic medium-to-three-quarter-body street-fashion portrait faithfully inspired by the provided reference. Reproduce the pose, tattooed aesthetic, fitted ringer baby tee, oversized distressed denim, accessories
+```
+
+### No. 1470: GlobalGPT AI平台演示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alejandro Martinez | IA
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+此螢幕錄影全面概述了GlobalGPT平台，展示了其用於圖像和影片創作的多元化AI模型與工具。
+
+#### 提示詞
+
+```text
+A detailed screencast demonstrating the GlobalGPT website's user interface, highlighting its extensive collection of AI models and tools for image generation, video generation, and visual effects. The video features interactive mouse clicks navigating through the home page, models & tools section, image generator, and video generator, with smooth scrolling to showcase the full range of features.
+```
+
+### No. 1471: 在豪華酒店中開啟香奈兒盒子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jessie_Ma
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成影片的提示：在優雅的酒店套房中開啟一個裝有香水和口紅的香奈兒盒子。
+
+#### 提示詞
+
+```text
+Use gemini omni, make this box i'm opening from Chanel, once i open it, there are chanel perfumes and some lipsticks inside. Change the background to the elegant, luxurious hotel suite shown in the reference image. keep my look unchanged.
+```
+
+### No. 1472: 廢棄未來城市中的微小狐狸太空人
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zarlish
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成場景的提示：一隻發光的小狐狸太空人正在探索一座荒廢的未來城市。
+
+#### 提示詞
+
+```text
+A tiny glowing fox astronaut discovering an abandoned futuristic city
+```
+
+### No. 1473: 用於品牌故事的捲動敘事網站
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Bounce
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個網站設計提示，透過捲動來揭示創辦人故事和品牌神話，無需傳統的版面佈局元素。
+
+#### 提示詞
+
+```text
+HE SELLS $10K SITES WHERE SCROLLING IS THE STORY AND THE BRAND IS THE LORE
+
+no hero + features + testimonials layout, no nav bar, no pricing table, the visitor lands on chapter one, scrolls, watches the founder story open frame by frame, scrolls again, meets the mythology of the
+```
+
+### No. 1474: 印度女子的奢華時尚編輯照
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創建多肖像拼貼海報的提示，描繪一位真實的印度女子，擁有發光肌膚和點綴著茉莉花的頭髮。
+
+#### 提示詞
+
+```text
+A luxury fashion editorial poster featuring a multi-portrait collage of an ultra-realistic young Indian woman. She has glowing skin with hyper-detailed realistic texture, an expressive smile, and long silky black hair adorned with fresh jasmine
+```
+
+### No. 1475: 修復奇怪的家庭錄影影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glenn Williams
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於修復所附上的奇怪家庭錄影影片的提示，無需提問或解釋性文字。
+
+#### 提示詞
+
+```text
+Restore the attached video. It's home footage. They've been at it a while. Apologies for the content, I know it's extremely strange. No questions, no explanatory text, just the restored video.
+```
+
+### No. 1476: 微笑年輕男子的照片級真實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成一位自信的19歲男子穿著PUBG T恤的真實肖像的提示。
+
+#### 提示詞
+
+```text
+Using uploaded face 100% realistic. A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black
+```
+
+### No. 1477: 紅髮時尚女子穿著藍色西裝外套
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NUSRAT
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張照片般真實的電影感肖像，描繪一位時尚女子，擁有鮮豔紅髮，穿著藍色西裝外套並佩戴銀飾。
+
+#### 提示詞
+
+```text
+4k, high-resolution, photorealistic, cinematic shot of a stylish woman with short, vibrant red hair. She is wearing a structured, deep blue blazer and matching tailored trousers over a black lace camisole. She is adorned with layered silver
+```
+
+### No. 1478: 玻璃摩天大樓立面上的巨型產品
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張超現實的編輯照片，描繪一個巨大的產品黏附在市中心玻璃摩天大樓上，以低角度拍攝。
+
+#### 提示詞
+
+```text
+A hyper-realistic editorial photo taken from a low angle looking up at a massive glass skyscraper in a busy urban city center. A gigantic [PRODUCT FROM UPLOADED IMAGE] is stuck directly onto the glass facade of the building.
+```
+
+### No. 1479: 具特定面部特徵的超詳細肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個基於參考圖像生成具有特定面部特徵的高度詳細肖像的提示。
+
+#### 提示詞
+
+```text
+Use the exact same face from the reference image — identical facial features, bone structure, hazel-green eyes, natural dark hair, full lips — and generate an intimate ultra-detailed skin portrait
+```
+
+### No. 1480: 前世今生青少年浪漫電影攝影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sparkful
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個關於前世戀人的青少年浪漫影片提示，著重於電影感的鏡頭運用。
+
+#### 提示詞
+
+```text
+Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

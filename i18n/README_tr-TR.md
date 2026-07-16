@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Olcut | Sayi |
 | --- | ---: |
-| Toplam Prompt | 1448 |
+| Toplam Prompt | 1480 |
 | Kategoriler | 8 |
-| Onizleme Videolari | 438 |
-| Son Guncelleme | 15.07.2026 |
+| Onizleme Videolari | 443 |
+| Son Guncelleme | 16.07.2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1346)
+### Twitter Community (1378)
 
 ### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
@@ -33746,6 +33746,650 @@ Bir referans yüz kullanarak, zarafet ve dergi kalitesine odaklanan bir gelin po
 
 ```text
 Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
+```
+
+### No. 1449: Referans Yüz ile Sinematik Moda Afişi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Tajammal Hussain
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli bir yüz referansı kullanarak yüksek kaliteli, sinematik bir moda afişi kolajı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent
+```
+
+### No. 1450: Kadın Basketbol Sporcusu Editoryal Afişi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Smiling Khan
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın basketbol oyuncusunu konu alan sinematik bir spor editoryal afişi oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold
+```
+
+### No. 1451: Bakır Kızıl Saçlı Tropik Plaj Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Natty Windstorm
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tropik bir plajda dalgalı bakır kızıl saçlı genç bir kadının ultra gerçekçi portresi.
+
+#### Prompt
+
+```text
+Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean
+```
+
+### No. 1452: Kırılgan Balon Kavramı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Atelier SG
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yalnız, kırılgan bir balonu şiirsel bir şekilde tanımlayan bir prompt.
+
+#### Prompt
+
+```text
+A bubble that doesn't know it's the only fragile thing left.
+```
+
+### No. 1453: Mavi-Yeşil Gözlü Güney Asyalı Bir Kadın Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Güney Asya özelliklerine, açık zeytin tenine ve çarpıcı mavi-yeşil gözlere sahip genç bir kadını tanımlayan bir prompt.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young woman in her mid-20s with South Asian/Indian features, fair-to-light olive skin, striking light blue-green eyes with defined eyeliner and long lashes, full lips with soft"
+```
+
+### No. 1454: Düşünceli Işıkta Bir Kadın Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sessiz bir tefekkür halindeki bir kadının portre serisi, panjurlardan gelen ışık ve gölgeler çizgili desenler oluşturuyor.
+
+#### Prompt
+
+```text
+This series of portraits captures a woman in a moment of deep, quiet contemplation, framed by the interplay of light and shadow filtering through window blinds. The striped patterns of light cast across
+```
+
+### No. 1455: Dev Ürünün Lamborghini Ön Camını Parçalaması
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Maddox
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dev bir ürünün bir Lamborghini'nin ön camını parçaladığı hiper gerçekçi sürreal bir reklam fotoğrafı.
+
+#### Prompt
+
+```text
+Hyper-realistic surreal advertising photograph of a giant oversized [product from uploaded photo] crashing through the windshield of a matte grey Lamborghini Huracán, shattering the glass dramatically. The car is parked on
+```
+
+### No. 1456: 50 yaş üstü sıradan görünümlü kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Codrin
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+50 yaş üstü, sıradan görünümlü bir kadının görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+average looking 50+ year old woman
+```
+
+### No. 1457: Yeşil kıyafetli kadının sinematik çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Arina Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Uzun siyah saçlı, açık yeşil bir crop top ve pilili etek giyen Doğu Asyalı bir kadının tam vücut sinematik çekimi.
+
+#### Prompt
+
+```text
+Full-body cinematic shot of a beautiful adult East Asian woman with long straight black hair, wearing a stylish light green crop top and a matching light green short pleated skirt. She appears small in comparison as she is in
+```
+
+### No. 1458: Cam Cilt Etkili Yakın Çekim Selfie Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Simply Ray
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir fotoğrafı, açık tenli ve parlayan cam cilt etkisine sahip bir kadının yakın çekim iç mekan selfie portresine dönüştürmek için bir prompt.
+
+#### Prompt
+
+```text
+Transform the photo into a close-up indoor selfie portrait of a beautiful young woman with fair, pale skin, a symmetrical face, and a very bright, smooth, glowing complexion with a natural glass skin effect, especially on the bridge of the nose
+```
+
+### No. 1459: Açık tenli ve sarışın saçlı genç kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** J⭕DIE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Açık tenli ve uzun dalgalı sarı saçlı genç bir kadının görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A young woman with fair skin, long wavy blonde hair styled
+```
+
+### No. 1460: Chiaroscuro Işıklandırmalı Siyah Beyaz Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Güçlü chiaroscuro ışıklandırmaya sahip, sakin bir kadının dramatik siyah beyaz portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning black-and-white portrait of a woman looking upward with a serene and contemplative expression. The dramatic chiaroscuro lighting highlights the contours of her face, emphasizing her defined features
+```
+
+### No. 1461: Modern Lüks Dairede Esmer Model
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ayushi Srivastava
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gece vakti modern bir dairede poz veren genç esmer bir modelin görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning 22-year-old brunette model posing casually inside a modern luxury apartment at night. She has long dark brown hair tied
+```
+
+### No. 1462: Marka Nişi için Tatil Sahnesi Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Amit Lunenfeld | AI Content + Aesthetic
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli bir marka nişi için özelleştirilmiş tatil temalı bir sahne oluşturmak için bir prompt şablonu.
+
+#### Prompt
+
+```text
+Create a holiday scene for a [YOUR NICHE] brand.
+Use [ELEMENT FROM YOUR NICHE...
+```
+
+### No. 1463: Takım elbiseli kendinden emin bir erkeğin ayna selfiesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Şık siyah bir takım elbise giymiş yakışıklı bir erkeğin ayna selfiesi çektiği bir video veya görsel oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A confident handsome male stands facing the camera straight on taking a mirror selfie, his weight gently shifted while maintaining level shoulders in a sharply tailored black suit worn over an open white shirt, completed
+```
+
+### No. 1464: Yüksek kaliteli moda görseli oluşturma
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alex Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yüksek kaliteli bir moda görseli oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a high-end fashion image
+```
+
+### No. 1465: Neşeli bir kadının ultra gerçekçi moda fotoğrafçılığı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Noah | AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli saç ve gözlük detaylarına sahip neşeli genç bir kadını içeren, ultra gerçekçi moda yaşam tarzı fotoğrafçılığı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-realistic fashion lifestyle photography of a cheerful young woman with shoulder-length wavy dark brown hair, wearing round thin-metal eyeglasses, small hoop
+```
+
+### No. 1466: Sinematik Kamera Ayarlarıyla Sanatsal Fotoğrafçılık
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 绫花AIGC🌸
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sanatsal bir görsel oluşturmak için kamera ve lens parametrelerini belirten bir prompt.
+
+#### Prompt
+
+```text
+Photography parameters: Arri Alexa 65, 50mm prime lens, f/2.0 aperture
+```
+
+### No. 1467: Kareli Yüzeyde Sinematik Sürreal Yakın Çekim
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Parlak kareli bir zeminde, devasa bir nesneyle çerçevelenmiş bir başrol oyuncusunu içeren sürreal bir sinematik sahne.
+
+#### Prompt
+
+```text
+A cinematic, surreal close-up of The Protagonist lying prone on a polished, obsidian-like checkered surface. The composition is aggressively framed by a massive,
+```
+
+### No. 1468: Modüler Sokak Fotoğrafı Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Gadgetify
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kentsel bağlamlarda, poz vermemiş öznelerle sokak belgesel fotoğrafları oluşturmak için modüler bir prompt.
+
+#### Prompt
+
+```text
+input = [ stranger(s) / urban_context / unaware_action / capture_medium / juxtaposition ] run street_documentary_decisive_moment: subject_dna := unposed
+```
+
+### No. 1469: Ultra-Foto Gerçekçi Sokak Modası Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Talia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir referans görseline dayalı, detaylı, foto-gerçekçi bir sokak modası portresi oluşturmak için prompt.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic medium-to-three-quarter-body street-fashion portrait faithfully inspired by the provided reference. Reproduce the pose, tattooed aesthetic, fitted ringer baby tee, oversized distressed denim, accessories
+```
+
+### No. 1470: GlobalGPT AI Platformu Tanıtımı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alejandro Martinez | IA
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bu ekran kaydı, GlobalGPT platformunun görsel ve video oluşturma için çeşitli AI modellerini ve araçlarını sergileyen kapsamlı bir genel bakış sunar.
+
+#### Prompt
+
+```text
+A detailed screencast demonstrating the GlobalGPT website's user interface, highlighting its extensive collection of AI models and tools for image generation, video generation, and visual effects. The video features interactive mouse clicks navigating through the home page, models & tools section, image generator, and video generator, with smooth scrolling to showcase the full range of features.
+```
+
+### No. 1471: Lüks Otelde Chanel Kutusu Açılışı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jessie_Ma
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Zarif bir otel süitinde, parfüm ve rujlar içeren bir Chanel kutusunun açılış videosunu oluşturmak için prompt.
+
+#### Prompt
+
+```text
+Use gemini omni, make this box i'm opening from Chanel, once i open it, there are chanel perfumes and some lipsticks inside. Change the background to the elegant, luxurious hotel suite shown in the reference image. keep my look unchanged.
+```
+
+### No. 1472: Terk Edilmiş Fütüristik Şehirde Minik Tilki Astronot
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zarlish
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Küçük, parlayan bir tilki astronotun, terk edilmiş fütüristik bir şehri keşfettiği bir sahne oluşturmak için prompt.
+
+#### Prompt
+
+```text
+A tiny glowing fox astronaut discovering an abandoned futuristic city
+```
+
+### No. 1473: Marka Mitolojisi için Kaydırmalı Hikaye Websitesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Bounce
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kaydırmanın, geleneksel düzen öğeleri olmadan bir kurucunun hikayesini ve marka mitolojisini ortaya çıkardığı bir web sitesi tasarımı için prompt.
+
+#### Prompt
+
+```text
+HE SELLS $10K SITES WHERE SCROLLING IS THE STORY AND THE BRAND IS THE LORE
+
+no hero + features + testimonials layout, no nav bar, no pricing table, the visitor lands on chapter one, scrolls, watches the founder story open frame by frame, scrolls again, meets the mythology of the
+```
+
+### No. 1474: Hintli Kadının Lüks Moda Editoryalı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aiza
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Parlayan cilt ve yaseminlerle süslenmiş saçlara sahip gerçekçi bir Hintli kadının çoklu portre kolaj posterini oluşturmak için prompt.
+
+#### Prompt
+
+```text
+A luxury fashion editorial poster featuring a multi-portrait collage of an ultra-realistic young Indian woman. She has glowing skin with hyper-detailed realistic texture, an expressive smile, and long silky black hair adorned with fresh jasmine
+```
+
+### No. 1475: Tuhaf Ev Videosu Görüntüsünü Onar
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glenn Williams
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Ekli, tuhaf bir ev videosu görüntüsünü soru sormadan veya açıklayıcı metin olmadan onarmak için prompt.
+
+#### Prompt
+
+```text
+Restore the attached video. It's home footage. They've been at it a while. Apologies for the content, I know it's extremely strange. No questions, no explanatory text, just the restored video.
+```
+
+### No. 1476: Gülümseyen genç erkeğin foto-gerçekçi portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dilshad Hussain
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+PUBG tişörtü giyen, kendinden emin 19 yaşında bir erkeğin gerçekçi portresini oluşturmak için prompt.
+
+#### Prompt
+
+```text
+Using uploaded face 100% realistic. A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black
+```
+
+### No. 1477: Mavi blazerli, kızıl saçlı şık kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** NUSRAT
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Canlı kızıl saçlı, mavi blazer ve gümüş takılar giyen modaya uygun bir kadının foto-gerçekçi sinematik portresi.
+
+#### Prompt
+
+```text
+4k, high-resolution, photorealistic, cinematic shot of a stylish woman with short, vibrant red hair. She is wearing a structured, deep blue blazer and matching tailored trousers over a black lace camisole. She is adorned with layered silver
+```
+
+### No. 1478: Cam gökdelen cephesinde devasa ürün
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Maddox
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir şehir merkezinde, cam bir gökdelene yapışmış devasa bir ürünün, alçak bir açıdan çekilmiş hiper-gerçekçi editoryal fotoğrafı.
+
+#### Prompt
+
+```text
+A hyper-realistic editorial photo taken from a low angle looking up at a massive glass skyscraper in a busy urban city center. A gigantic [PRODUCT FROM UPLOADED IMAGE] is stuck directly onto the glass facade of the building.
+```
+
+### No. 1479: Belirli Yüz Özelliklerine Sahip Ultra Detaylı Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ozair AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir referans görseline dayalı, belirli yüz özellikleriyle son derece detaylı bir portre oluşturmak için prompt.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image — identical facial features, bone structure, hazel-green eyes, natural dark hair, full lips — and generate an intimate ultra-detailed skin portrait
+```
+
+### No. 1480: Geçmiş Yaşamlar Gençlik Romantizmi Sinematografisi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sparkful
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Geçmiş yaşam aşıkları hakkında, sinematik kamera çalışmasına odaklanan bir gençlik romantizm videosu için prompt.
+
+#### Prompt
+
+```text
+Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
 ```
 
 Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

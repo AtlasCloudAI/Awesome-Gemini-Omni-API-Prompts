@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1448%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1448 |
+| 総プロンプト数 | 1480 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 438 |
-| 最終更新 | 2026/07/15 |
+| プレビュー動画数 | 443 |
+| 最終更新 | 2026/07/16 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1346)
+### Twitter Community (1378)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -33746,6 +33746,650 @@ A luxury cosmetic advertisement featuring a premium nail polish bottle placed on
 
 ```text
 Use the exact same face from the reference image and generate a breathtaking bridal portrait of a young woman in a stunning wedding dress — elegant, emotional, and magazine worthy. She wears a full luxury bridal gown
+```
+
+### No. 1449: 参照顔を用いた映画的なファッションポスターコラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tajammal Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔の参照画像を使用して、高級感のある映画的なファッションポスターコラージュを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Using uploaded face 100% realistic. Create a high-end cinematic fashion poster collage featuring the same young South Asian man from the reference photo, keeping his face highly accurate, natural, and consistent
+```
+
+### No. 1450: 女性バスケットボール選手 エディトリアルポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Smiling Khan
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+女性バスケットボール選手をフィーチャーした、映画的なスポーツエディトリアルポスター作成のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold
+```
+
+### No. 1451: コッパーレッドの髪を持つ女性のトロピカルビーチポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Natty Windstorm
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+トロピカルビーチに立つ、ウェーブのかかったコッパーレッドの髪を持つ若い女性の超リアルなポートレート。
+
+#### プロンプト
+
+```text
+Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean
+```
+
+### No. 1452: 儚い泡のコンセプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Atelier SG
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077397107376341353.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+孤独で儚い泡を詩的に描写するプロンプト。
+
+#### プロンプト
+
+```text
+A bubble that doesn't know it's the only fragile thing left.
+```
+
+### No. 1453: ブルーグリーンの瞳を持つ南アジア系女性のポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+南アジア系の特徴、明るいオリーブ色の肌、印象的なブルーグリーンの瞳を持つ若い女性を描写するプロンプト。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A stunning young woman in her mid-20s with South Asian/Indian features, fair-to-light olive skin, striking light blue-green eyes with defined eyeliner and long lashes, full lips with soft"
+```
+
+### No. 1454: 瞑想的な光の中の女性のポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+静かに瞑想する女性のポートレートシリーズ。ブラインドからの光と影が縞模様を形成している。
+
+#### プロンプト
+
+```text
+This series of portraits captures a woman in a moment of deep, quiet contemplation, framed by the interplay of light and shadow filtering through window blinds. The striped patterns of light cast across
+```
+
+### No. 1455: ランボルギーニのフロントガラスを突き破る巨大な製品
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+巨大な製品がランボルギーニのフロントガラスを粉砕する、ハイパーリアルなシュールな広告写真。
+
+#### プロンプト
+
+```text
+Hyper-realistic surreal advertising photograph of a giant oversized [product from uploaded photo] crashing through the windshield of a matte grey Lamborghini Huracán, shattering the glass dramatically. The car is parked on
+```
+
+### No. 1456: 50代以上の平均的な容姿の女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Codrin
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+50歳以上の平均的な容姿の女性の画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+average looking 50+ year old woman
+```
+
+### No. 1457: グリーンの衣装をまとった女性のシネマティックショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Arina Ai
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+長い黒髪を持ち、ライトグリーンのクロップトップとプリーツスカートを着た東アジア系女性の全身シネマティックショット。
+
+#### プロンプト
+
+```text
+Full-body cinematic shot of a beautiful adult East Asian woman with long straight black hair, wearing a stylish light green crop top and a matching light green short pleated skirt. She appears small in comparison as she is in
+```
+
+### No. 1458: グラススキン効果のあるクローズアップセルフィーポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Simply Ray
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+写真を、色白の肌と輝くグラススキン効果を持つ女性の、室内でのクローズアップセルフィーポートレートに変換するためのプロンプト。
+
+#### プロンプト
+
+```text
+Transform the photo into a close-up indoor selfie portrait of a beautiful young woman with fair, pale skin, a symmetrical face, and a very bright, smooth, glowing complexion with a natural glass skin effect, especially on the bridge of the nose
+```
+
+### No. 1459: 色白の肌とブロンドの髪を持つ若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** J⭕DIE
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+色白の肌と長くウェーブのかかったブロンドの髪を持つ若い女性の画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A young woman with fair skin, long wavy blonde hair styled
+```
+
+### No. 1460: キアロスクーロ照明を用いた白黒ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+強いキアロスクーロ照明で照らされた、穏やかな表情の女性のドラマチックな白黒ポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A stunning black-and-white portrait of a woman looking upward with a serene and contemplative expression. The dramatic chiaroscuro lighting highlights the contours of her face, emphasizing her defined features
+```
+
+### No. 1461: モダンな高級アパートメントに佇むブルネットのモデル
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ayushi Srivastava
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夜のモダンなアパートメントでポーズをとる若いブルネットのモデルの画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A stunning 22-year-old brunette model posing casually inside a modern luxury apartment at night. She has long dark brown hair tied
+```
+
+### No. 1462: ブランドニッチ向けホリデーシーンプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Amit Lunenfeld | AI Content + Aesthetic
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077432350666076512.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定のブランドニッチに合わせてカスタマイズされた、ホリデーをテーマにしたシーンを生成するためのプロンプトテンプレート。
+
+#### プロンプト
+
+```text
+Create a holiday scene for a [YOUR NICHE] brand.
+Use [ELEMENT FROM YOUR NICHE...
+```
+
+### No. 1463: 鏡の前でセルフィーを撮る自信に満ちたスーツ姿の男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シャープな黒いスーツを着たハンサムな男性が鏡の前でセルフィーを撮る動画または画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A confident handsome male stands facing the camera straight on taking a mirror selfie, his weight gently shifted while maintaining level shoulders in a sharply tailored black suit worn over an open white shirt, completed
+```
+
+### No. 1464: ハイエンドファッション画像の作成
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハイエンドなファッション画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a high-end fashion image
+```
+
+### No. 1465: 陽気な女性を捉えた超リアルなファッション写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Noah | AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の髪型と眼鏡のディテールを持つ、陽気な若い女性をフィーチャーした、超リアルなファッションライフスタイル写真を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-realistic fashion lifestyle photography of a cheerful young woman with shoulder-length wavy dark brown hair, wearing round thin-metal eyeglasses, small hoop
+```
+
+### No. 1466: 映画的なカメラ設定を用いた芸術的写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 绫花AIGC🌸
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+芸術的な画像を作成するための、カメラとレンズのパラメータを指定したプロンプトです。
+
+#### プロンプト
+
+```text
+Photography parameters: Arri Alexa 65, 50mm prime lens, f/2.0 aperture
+```
+
+### No. 1467: チェッカーフロア上のシュールで映画的なクローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+磨かれたチェッカーフロア上の主人公を、巨大な物体がフレームする、シュールで映画的なシーンです。
+
+#### プロンプト
+
+```text
+A cinematic, surreal close-up of The Protagonist lying prone on a polished, obsidian-like checkered surface. The composition is aggressively framed by a massive,
+```
+
+### No. 1468: モジュラー式ストリート写真プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+都市の文脈で、自然なポーズをとらない被写体を捉えたストリートドキュメンタリー写真を生成するためのモジュラー式プロンプトです。
+
+#### プロンプト
+
+```text
+input = [ stranger(s) / urban_context / unaware_action / capture_medium / juxtaposition ] run street_documentary_decisive_moment: subject_dna := unposed
+```
+
+### No. 1469: 超高精細ストリートファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Talia
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077492609551925520.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像に基づいて、詳細でフォトリアリスティックなストリートファッションのポートレートを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create an ultra-photorealistic medium-to-three-quarter-body street-fashion portrait faithfully inspired by the provided reference. Reproduce the pose, tattooed aesthetic, fitted ringer baby tee, oversized distressed denim, accessories
+```
+
+### No. 1470: GlobalGPT AIプラットフォームのデモ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alejandro Martinez | IA
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077508126983528796.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+このスクリーンキャストは、GlobalGPTプラットフォームの包括的な概要を提供し、画像や動画作成のための多様なAIモデルとツールを紹介しています。
+
+#### プロンプト
+
+```text
+A detailed screencast demonstrating the GlobalGPT website's user interface, highlighting its extensive collection of AI models and tools for image generation, video generation, and visual effects. The video features interactive mouse clicks navigating through the home page, models & tools section, image generator, and video generator, with smooth scrolling to showcase the full range of features.
+```
+
+### No. 1471: 高級ホテルでのシャネルボックス開封
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jessie_Ma
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+香水やリップスティックが入ったシャネルのボックスを、優雅なホテルスイートを舞台に開封するビデオを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use gemini omni, make this box i'm opening from Chanel, once i open it, there are chanel perfumes and some lipsticks inside. Change the background to the elegant, luxurious hotel suite shown in the reference image. keep my look unchanged.
+```
+
+### No. 1472: 廃墟の未来都市を探検する小さなキツネの宇宙飛行士
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zarlish
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+放棄された未来都市を探検する、小さな光るキツネの宇宙飛行士のシーンを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A tiny glowing fox astronaut discovering an abandoned futuristic city
+```
+
+### No. 1473: ブランドの神話を伝えるスクロール式ストーリーウェブサイト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Bounce
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077552706059895104.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+スクロールすることで創業者の物語やブランドの神話が明らかになるウェブサイトデザインのプロンプトで、従来のレイアウト要素は使用しません。
+
+#### プロンプト
+
+```text
+HE SELLS $10K SITES WHERE SCROLLING IS THE STORY AND THE BRAND IS THE LORE
+
+no hero + features + testimonials layout, no nav bar, no pricing table, the visitor lands on chapter one, scrolls, watches the founder story open frame by frame, scrolls again, meets the mythology of the
+```
+
+### No. 1474: インド人女性のラグジュアリーファッション編集画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aiza
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+輝く肌とジャスミンで飾られた髪を持つリアルなインド人女性の、複数のポートレートを組み合わせたコラージュポスターを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A luxury fashion editorial poster featuring a multi-portrait collage of an ultra-realistic young Indian woman. She has glowing skin with hyper-detailed realistic texture, an expressive smile, and long silky black hair adorned with fresh jasmine
+```
+
+### No. 1475: 奇妙なホームビデオ映像を修復
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glenn Williams
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+添付された奇妙なホームビデオ映像を、質問や説明文なしで修復するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Restore the attached video. It's home footage. They've been at it a while. Apologies for the content, I know it's extremely strange. No questions, no explanatory text, just the restored video.
+```
+
+### No. 1476: 笑顔の若い男性のフォトリアリスティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dilshad Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+PUBGのTシャツを着た自信に満ちた19歳の男性の、リアルなポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Using uploaded face 100% realistic. A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black
+```
+
+### No. 1477: 青いブレザーを着た赤毛のスタイリッシュな女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** NUSRAT
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+鮮やかな赤毛で青いブレザーと銀のジュエリーを身に着けた、ファッショナブルな女性の写実的で映画的なポートレートです。
+
+#### プロンプト
+
+```text
+4k, high-resolution, photorealistic, cinematic shot of a stylish woman with short, vibrant red hair. She is wearing a structured, deep blue blazer and matching tailored trousers over a black lace camisole. She is adorned with layered silver
+```
+
+### No. 1478: ガラス張りの超高層ビルに張り付いた巨大な製品
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+都市の中心部にあるガラス張りの超高層ビルに張り付いた巨大な製品を、ローアングルから撮影したハイパーリアルな編集写真です。
+
+#### プロンプト
+
+```text
+A hyper-realistic editorial photo taken from a low angle looking up at a massive glass skyscraper in a busy urban city center. A gigantic [PRODUCT FROM UPLOADED IMAGE] is stuck directly onto the glass facade of the building.
+```
+
+### No. 1479: 詳細な顔の特徴を指定した超高精細ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像に基づいて、特定の顔の特徴を持つ極めて詳細なポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use the exact same face from the reference image — identical facial features, bone structure, hazel-green eyes, natural dark hair, full lips — and generate an intimate ultra-detailed skin portrait
+```
+
+### No. 1480: 過去の人生を巡るティーン向け恋愛映画の撮影技法
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sparkful
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+前世で結ばれた恋人たちを描くティーン向け恋愛ビデオのためのプロンプトで、映画的なカメラワークに焦点を当てています。
+
+#### プロンプト
+
+```text
+Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

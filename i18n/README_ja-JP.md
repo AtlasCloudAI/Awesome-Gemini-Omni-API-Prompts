@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1480 |
+| 総プロンプト数 | 1502 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 443 |
-| 最終更新 | 2026/07/16 |
+| プレビュー動画数 | 448 |
+| 最終更新 | 2026/07/17 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1378)
+### Twitter Community (1400)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -34390,6 +34390,452 @@ Use the exact same face from the reference image — identical facial features, 
 
 ```text
 Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
+```
+
+### No. 1481: 白黒のアスリート男性ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Simply Ray
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カメラに向かって腕を組んだ自信に満ちたアスリート男性の、超リアリスティックな白黒スタジオポートレートです。
+
+#### プロンプト
+
+```text
+Ultra-realistic black-and-white studio portrait of a confident athletic man standing directly facing the camera with his arms folded across his chest. The man occupies approximately 75–80% of the vertical frame, cropped from mid-thigh upward.
+```
+
+### No. 1482: 手持ちミニDVカムコーダー映像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝐌
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+自分で撮影した手持ちミニDVカムコーダー映像のルックを持つビデオを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle
+```
+
+### No. 1483: 屋外地下鉄駅階段スペースのシーン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+クールで現代的な雰囲気を持つ、屋外地下鉄駅の外部階段スペースのビデオを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+An open-air subway station exterior stairwell sets a cool, atmospheric mood of contemporary
+```
+
+### No. 1484: ウルトラプレミアムなシネマティックマスターピースプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Noah | AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハイパーリアリスティックでシネマティックなビジュアルマスターピースを、ハリウッド級のストーリーテリングと高解像度仕様で生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+ULTRA-PREMIUM CINEMATIC MASTERPIECE | HOLLYWOOD AWARD-WINNING VISUAL STORYTELLING | HYPERREALISTIC | PHOTOREALISTIC | MUSEUM-GRADE FINE ART | IMAX 70MM | DOLBY VISION HDR | 16K ULTRA HD | RAW HUMAN
+```
+
+### No. 1485: 虹色の背景を持つ夢のようなパステルスタジオ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Talia
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+真珠のような白い背景と淡いピンクのサテン生地を使用した、柔らかく豪華なシーンを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Using my image create a dreamy pastel studio with a seamless pearly white iridescent backdrop and blush-pink satin fabric, creating a soft, luxurious, feminine atmosphere. She wears a blush-pink ribbed knit long-sleeve sweater with tiny
+```
+
+### No. 1486: シネマティックショットでのキャラクター同一性の維持
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Virena
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照画像を使用して、様々なダイナミックなカメラムーブメントにわたるキャラクターの顔の同一性を保持するビデオを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
+
+Duration: 10 seconds.
+```
+
+### No. 1487: ハイパーリアリスティックなHoudini流体シミュレーションによる料理生成
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Houdiniの流体シミュレーションを使用して、指定された料理の単一のハイパーリアリスティックな16:9画像を生成するための関数スタイルのプロンプトです。
+
+#### プロンプト
+
+```text
+Do this for $ dish : Function DrawDishHoudiniFluid(input dish) Input Variable: [INSERT DISH]  System Instruction: Generate ONE hyper-realistic 16:9
+```
+
+### No. 1488: 写真のようにリアルなインド人女性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+詳細な顔の特徴を持つ若いインド人女性の、写真のようにリアルな肖像画です。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a beautiful young Indian woman in her mid-20s, South Asian features, fair skin with subtle warm undertones, natural freckles, sharp defined eyebrows, large expressive dark brown eyes
+```
+
+### No. 1489: 自信に満ちた男性のミディアムポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+後ろになでつけたウェーブヘアと、落ち着いて自信に満ちたポーズをとる男性のミディアムポートレートのためのプロンプトです。
+
+#### プロンプト
+
+```text
+A confident man stands centered in a straight-on medium portrait, his level shoulders and balanced standing posture projecting a calm, deliberately posed presence. He features short, swept-back wavy hair, approximately
+```
+
+### No. 1490: スタジアムのゴールキーパー ヒーローイメージ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Mitchel Dumlao
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ブランドカラーを使用して、スタジアムでゴールキーパーとして立つ人物のヒーローイメージを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+me as a goalkeeper, brand colors, stadium, 9:16
+```
+
+### No. 1491: 深紅の憂鬱 ポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハッセルブラッドカメラで撮影された、憂鬱でベールに包まれたクローズアップポートレートのためのプロンプトです。
+
+#### プロンプト
+
+```text
+A tight, veiled close-up portrait of The Protagonist as a melancholic prodigy, shot on Hasselblad H6D-100c with a 110mm f/2 telephoto lens. The Protagonist wears a https://t.co/KpxRouOjh1
+```
+
+### No. 1492: ハイファッション ニューヨークストリートフォトシュート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黄昏時のニューヨークの路上で、自信に満ちた男性を被写体としたヴォーグスタイルのフォトシュートのためのプロンプトです。
+
+#### プロンプト
+
+```text
+A high-fashion Vogue-style photoshoot of a man posing confidently on a New York street at dusk.
+```
+
+### No. 1493: グリーンバック上のロゴ ポップインアニメーション
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CHRIS FIRST
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+グリーンバック背景上でロゴがポップインしてホバリングするアニメーションを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in
+```
+
+### No. 1494: 駐車場での最悪の一日 ストーリーボード
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Lukman Febrianto
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+4つのストーリーボードパネルに基づいた、駐車場で男性が経験するひどい一日の14秒間の動画のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Four storyboard panels. Fourteen seconds of a guy having the worst day of his life in a parking lot. The panels set the beats — Seedance filled everything in between.
+```
+
+### No. 1495: クローズアップ付き 写真のようにリアルなキャラクターシート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Travis Davids
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+クローズアップビューを含む、詳細で写真のようにリアルなキャラクターシートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a photorealistic character sheet. Include a closeup
+```
+
+### No. 1496: 吸血鬼マフィアガール アクションフィギュアの製品写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Thore Gundi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+吸血鬼マフィアガールのコレクターズアクションフィギュアの、ハイパーリアルな製品写真を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a hyper-realistic collectible action figure product photograph, using the attached character reference sheet
+```
+
+### No. 1497: 草の生えた丘の上のミニマリスト製品写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+広大な空と小さな木製サイドテーブルを背景にしたミニマリストな製品写真を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Minimalist product photography, [product from uploaded photo] placed on top of a small rounded green grassy hill, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside
+```
+
+### No. 1498: 参照顔を用いたパキスタンの花嫁カップルの肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+2枚の参照画像の顔を使用して、映画的で感情的なパキスタンの花嫁カップルの肖像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use the exact same faces from both reference images and generate a breathtaking Pakistani bridal couple portrait — deeply cultural, cinematic, and emotionally alive.
+```
+
+### No. 1499: 若いインド人女性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔の特徴とメイクアップを施した若いインド人女性の肖像画を生成するための詳細なプロンプトです。
+
+#### プロンプト
+
+```text
+A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes
+```
+
+### No. 1500: 超高精細ラグジュアリービューティー編集ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Virena
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+自信に満ちた落ち着きと優雅さを備えた若い女性のハイファッション風ポートレートを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create an ultra-realistic luxury beauty editorial portrait of a confident young woman in her early 20s with a poised, magnetic presence and effortless high-fashion elegance. She has a slim oval face with a softly sculpted jawline, a refined
+```
+
+### No. 1501: 若いインド人女性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sadie 🥀
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+詳細な顔の特徴を持つ若いインド人女性の肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes"
+}
+```
+
+### No. 1502: 親密で詳細な肌のクローズアップポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+執拗なほど詳細な肌の質感と、頬に優しく触れる指が特徴的な、温かく輝くクローズアップポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

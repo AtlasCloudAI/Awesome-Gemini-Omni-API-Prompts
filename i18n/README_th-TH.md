@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1480 |
+| พรอมต์ทั้งหมด | 1502 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 443 |
-| อัปเดตล่าสุด | 16/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 448 |
+| อัปเดตล่าสุด | 17/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1378)
+### Twitter Community (1400)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -34390,6 +34390,452 @@ Use the exact same face from the reference image — identical facial features, 
 
 ```text
 Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
+```
+
+### No. 1481: ภาพบุคคลชายนักกีฬาขาวดำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Simply Ray
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลสตูดิโอขาวดำสมจริงระดับสูงสุดของชายนักกีฬาที่มั่นใจ กำลังหันหน้าเข้าหากล้องและพับแขน
+
+#### พรอมต์
+
+```text
+Ultra-realistic black-and-white studio portrait of a confident athletic man standing directly facing the camera with his arms folded across his chest. The man occupies approximately 75–80% of the vertical frame, cropped from mid-thigh upward.
+```
+
+### No. 1482: วิดีโอจากกล้อง Mini DV แบบถือด้วยมือ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐌
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอที่มีลักษณะคล้ายฟุตเทจที่ถ่ายด้วยตัวเองจากกล้อง Mini DV แบบถือด้วยมือ
+
+#### พรอมต์
+
+```text
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle
+```
+
+### No. 1483: ฉากบันไดชานชาลาสถานีรถไฟใต้ดินแบบเปิดโล่ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอของบันไดภายนอกสถานีรถไฟใต้ดินแบบเปิดโล่ง ที่มีบรรยากาศเย็นสบายและร่วมสมัย
+
+#### พรอมต์
+
+```text
+An open-air subway station exterior stairwell sets a cool, atmospheric mood of contemporary
+```
+
+### No. 1484: พรอมต์ผลงานภาพยนตร์ระดับมาสเตอร์พีซคุณภาพสูงพิเศษ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Noah | AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับผลงานภาพยนตร์ไฮเปอร์เรียลลิสติกระดับมาสเตอร์พีซ ด้วยการเล่าเรื่องระดับฮอลลีวูดและคุณภาพความละเอียดสูง
+
+#### พรอมต์
+
+```text
+ULTRA-PREMIUM CINEMATIC MASTERPIECE | HOLLYWOOD AWARD-WINNING VISUAL STORYTELLING | HYPERREALISTIC | PHOTOREALISTIC | MUSEUM-GRADE FINE ART | IMAX 70MM | DOLBY VISION HDR | 16K ULTRA HD | RAW HUMAN
+```
+
+### No. 1485: สตูดิโอสีพาสเทลแสนฝันกับฉากหลังสีรุ้ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Talia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากที่อ่อนนุ่มและหรูหรา ด้วยฉากหลังสีขาวมุกและผ้าซาตินสีชมพูอ่อน
+
+#### พรอมต์
+
+```text
+Using my image create a dreamy pastel studio with a seamless pearly white iridescent backdrop and blush-pink satin fabric, creating a soft, luxurious, feminine atmosphere. She wears a blush-pink ribbed knit long-sleeve sweater with tiny
+```
+
+### No. 1486: รักษาอัตลักษณ์ของตัวละครในภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Virena
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอที่ใช้ภาพอ้างอิงเพื่อรักษาอัตลักษณ์ใบหน้าของตัวละครไว้ ระหว่างการเคลื่อนไหวกล้องแบบไดนามิกต่างๆ
+
+#### พรอมต์
+
+```text
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
+
+Duration: 10 seconds.
+```
+
+### No. 1487: การสร้างจานอาหารด้วยการจำลองของไหล Houdini แบบไฮเปอร์เรียลลิสติก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สไตล์ฟังก์ชันสำหรับสร้างภาพไฮเปอร์เรียลลิสติก 16:9 ของจานอาหารที่ระบุ โดยใช้การจำลองของไหล Houdini
+
+#### พรอมต์
+
+```text
+Do this for $ dish : Function DrawDishHoudiniFluid(input dish) Input Variable: [INSERT DISH]  System Instruction: Generate ONE hyper-realistic 16:9
+```
+
+### No. 1488: ภาพบุคคลหญิงสาวอินเดียสมจริงเหมือนภาพถ่าย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลหญิงสาวอินเดียที่สมจริงเหมือนภาพถ่าย พร้อมรายละเอียดใบหน้าที่ชัดเจน
+
+#### พรอมต์
+
+```text
+Photorealistic portrait of a beautiful young Indian woman in her mid-20s, South Asian features, fair skin with subtle warm undertones, natural freckles, sharp defined eyebrows, large expressive dark brown eyes
+```
+
+### No. 1489: ภาพบุคคลระยะกลางชายผู้มั่นใจ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับภาพบุคคลระยะกลางของชายผู้สงบ วางท่ามั่นใจ ด้วยทรงผมวาวีสลัดไปด้านหลัง
+
+#### พรอมต์
+
+```text
+A confident man stands centered in a straight-on medium portrait, his level shoulders and balanced standing posture projecting a calm, deliberately posed presence. He features short, swept-back wavy hair, approximately
+```
+
+### No. 1490: ภาพฮีโร่ผู้รักษาประตูในสนามกีฬา
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mitchel Dumlao
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพฮีโร่ของบุคคลในบทบาทผู้รักษาประตูในสนามกีฬา โดยใช้สีประจำแบรนด์
+
+#### พรอมต์
+
+```text
+me as a goalkeeper, brand colors, stadium, 9:16
+```
+
+### No. 1491: คำสั่งสร้างภาพบุคคลเศร้าสร้อยสีแดงเข้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับภาพบุคคลระยะใกล้ที่เศร้าสร้อย มีผ้าคลุมหน้า ถ่ายด้วยกล้อง Hasselblad
+
+#### พรอมต์
+
+```text
+A tight, veiled close-up portrait of The Protagonist as a melancholic prodigy, shot on Hasselblad H6D-100c with a 110mm f/2 telephoto lens. The Protagonist wears a https://t.co/KpxRouOjh1
+```
+
+### No. 1492: ภาพถ่ายแฟชั่นระดับสูงบนถนนในนิวยอร์ก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับการถ่ายภาพสไตล์นิตยสาร Vogue ของชายผู้มั่นใจบนถนนในนิวยอร์กช่วงพลบค่ำ
+
+#### พรอมต์
+
+```text
+A high-fashion Vogue-style photoshoot of a man posing confidently on a New York street at dusk.
+```
+
+### No. 1493: แอนิเมชันโลโก้เด้งปรากฏบนพื้นหลังกรีนสกรีน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CHRIS FIRST
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างแอนิเมชันให้โลโก้เด้งปรากฏและลอยนิ่งบนพื้นหลังกรีนสกรีน
+
+#### พรอมต์
+
+```text
+Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in
+```
+
+### No. 1494: สตอรี่บอร์ดวันที่แย่ที่สุดในลานจอดรถ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Lukman Febrianto
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับวิดีโอความยาวสิบสี่วินาทีเกี่ยวกับวันที่แย่ของชายคนหนึ่งในลานจอดรถ โดยอิงจากสตอรี่บอร์ดสี่ภาพ
+
+#### พรอมต์
+
+```text
+Four storyboard panels. Fourteen seconds of a guy having the worst day of his life in a parking lot. The panels set the beats — Seedance filled everything in between.
+```
+
+### No. 1495: ชีตตัวละครสมจริงเหมือนภาพถ่ายพร้อมภาพระยะใกล้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Travis Davids
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างชีตตัวละครที่ละเอียดและสมจริงเหมือนภาพถ่าย ซึ่งรวมถึงมุมมองระยะใกล้
+
+#### พรอมต์
+
+```text
+Create a photorealistic character sheet. Include a closeup
+```
+
+### No. 1496: ภาพถ่ายสินค้าตุ๊กตาตัวต่อสู้สาวมาเฟียแวมไพร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Thore Gundi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพถ่ายสินค้าที่สมจริงยิ่งของตุ๊กตาตัวต่อสู้สะสมสาวมาเฟียแวมไพร์
+
+#### พรอมต์
+
+```text
+Create a hyper-realistic collectible action figure product photograph, using the attached character reference sheet
+```
+
+### No. 1497: ภาพถ่ายผลิตภัณฑ์เรียบง่ายบนเนินหญ้า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพถ่ายผลิตภัณฑ์แบบมินิมอลที่มีท้องฟ้ากว้างใหญ่และโต๊ะข้างไม้ขนาดเล็ก
+
+#### พรอมต์
+
+```text
+Minimalist product photography, [product from uploaded photo] placed on top of a small rounded green grassy hill, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside
+```
+
+### No. 1498: ภาพคู่เจ้าสาวเจ้าบ่าวชาวปากีสถานพร้อมใบหน้าอ้างอิง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลคู่เจ้าสาวเจ้าบ่าวชาวปากีสถานในสไตล์ภาพยนตร์และอารมณ์ความรู้สึก โดยใช้ใบหน้าจากภาพอ้างอิงสองภาพ
+
+#### พรอมต์
+
+```text
+Use the exact same faces from both reference images and generate a breathtaking Pakistani bridal couple portrait — deeply cultural, cinematic, and emotionally alive.
+```
+
+### No. 1499: ภาพบุคคลหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งโดยละเอียดสำหรับสร้างภาพบุคคลหญิงสาวอินเดียพร้อมลักษณะใบหน้าและเครื่องสำอางเฉพาะ
+
+#### พรอมต์
+
+```text
+A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes
+```
+
+### No. 1500: ภาพบุคคลบรรณาธิการแฟชั่นหรูสมจริงระดับสูง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Virena
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลแฟชั่นระดับสูงของหญิงสาวผู้มั่นใจ มีท่าทางสง่างามและงดงาม
+
+#### พรอมต์
+
+```text
+Create an ultra-realistic luxury beauty editorial portrait of a confident young woman in her early 20s with a poised, magnetic presence and effortless high-fashion elegance. She has a slim oval face with a softly sculpted jawline, a refined
+```
+
+### No. 1501: ภาพบุคคลหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sadie 🥀
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลหญิงสาวอินเดียพร้อมรายละเอียดใบหน้าที่ชัดเจน
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes"
+}
+```
+
+### No. 1502: ภาพบุคคลระยะใกล้แสดงรายละเอียดผิวหนังอย่างใกล้ชิดและลึกซึ้ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลระยะใกล้ที่อบอุ่น สว่างไสว ด้วยรายละเอียดผิวหนังที่ถ่ายถอดอย่างพิถีพิถัน และมีนิ้วมือวางเบาๆ บนแก้ม
+
+#### พรอมต์
+
+```text
+Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

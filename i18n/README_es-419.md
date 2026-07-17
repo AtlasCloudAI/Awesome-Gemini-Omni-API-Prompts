@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una coleccion curada de ejemplos de prompts para Gemini Omni con vista previa de video OSS integrada.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Cantidad |
 | --- | ---: |
-| Prompts Totales | 1480 |
+| Prompts Totales | 1502 |
 | Categorias | 11 |
-| Videos de Vista Previa | 443 |
-| Ultima Actualizacion | 16/07/2026 |
+| Videos de Vista Previa | 448 |
+| Ultima Actualizacion | 17/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ A highly detailed, photorealistic portrait of a {argument name="subject descript
 
 <a id="category-11"></a>
 
-### Twitter Community (1378)
+### Twitter Community (1400)
 
 ### No. 103: Retrato Romántico de Naturaleza - Fotografía Editorial
 
@@ -34405,6 +34405,452 @@ Un prompt para un video de romance adolescente sobre amantes de vidas pasadas, e
 
 ```text
 Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
+```
+
+### No. 1481: Retrato en Blanco y Negro de Hombre Atlético
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Simply Ray
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un retrato de estudio ultra realista en blanco y negro de un hombre atlético y seguro de sí mismo, mirando a la cámara con los brazos cruzados.
+
+#### Prompt
+
+```text
+Ultra-realistic black-and-white studio portrait of a confident athletic man standing directly facing the camera with his arms folded across his chest. The man occupies approximately 75–80% of the vertical frame, cropped from mid-thigh upward.
+```
+
+### No. 1482: Grabación de Videocámara Mini DV de Mano
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** 𝐌
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar video con la apariencia de grabaciones caseras, filmadas a mano con una videocámara mini DV.
+
+#### Prompt
+
+```text
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle
+```
+
+### No. 1483: Escena de escalera exterior de estación de metro al aire libre
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** KeorUnreal
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar un video de la escalera exterior de una estación de metro al aire libre con una atmósfera contemporánea y fresca.
+
+#### Prompt
+
+```text
+An open-air subway station exterior stairwell sets a cool, atmospheric mood of contemporary
+```
+
+### No. 1484: Prompt de Obra Maestra Cinematográfica Ultra Premium
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Noah | AI
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para una obra maestra visual hiperrealista y cinematográfica con narrativa de grado Hollywood y especificaciones de alta resolución.
+
+#### Prompt
+
+```text
+ULTRA-PREMIUM CINEMATIC MASTERPIECE | HOLLYWOOD AWARD-WINNING VISUAL STORYTELLING | HYPERREALISTIC | PHOTOREALISTIC | MUSEUM-GRADE FINE ART | IMAX 70MM | DOLBY VISION HDR | 16K ULTRA HD | RAW HUMAN
+```
+
+### No. 1485: Estudio Pastel Soñador con Fondo Iridiscente
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Talia
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar una escena suave y lujosa con un fondo blanco perlado y tela de satén rosa pálido.
+
+#### Prompt
+
+```text
+Using my image create a dreamy pastel studio with a seamless pearly white iridescent backdrop and blush-pink satin fabric, creating a soft, luxurious, feminine atmosphere. She wears a blush-pink ribbed knit long-sleeve sweater with tiny
+```
+
+### No. 1486: Mantener la Identidad del Personaje en Tomas Cinematográficas
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Virena
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar un video que utiliza una imagen de referencia para preservar la identidad facial de un personaje a través de varios movimientos dinámicos de cámara.
+
+#### Prompt
+
+```text
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
+
+Duration: 10 seconds.
+```
+
+### No. 1487: Generación Hiperrealista de Plato con Simulación de Fluidos en Houdini
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Gadgetify
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt de estilo funcional para generar una sola imagen hiperrealista en formato 16:9 de un plato específico utilizando simulación de fluidos en Houdini.
+
+#### Prompt
+
+```text
+Do this for $ dish : Function DrawDishHoudiniFluid(input dish) Input Variable: [INSERT DISH]  System Instruction: Generate ONE hyper-realistic 16:9
+```
+
+### No. 1488: Retrato Fotorrealista de Mujer India
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un retrato fotorrealista de una mujer joven india con rasgos faciales detallados.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a beautiful young Indian woman in her mid-20s, South Asian features, fair skin with subtle warm undertones, natural freckles, sharp defined eyebrows, large expressive dark brown eyes
+```
+
+### No. 1489: Retrato Medio de Hombre Seguro de Sí Mismo
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Picts by AI
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para un retrato medio de un hombre tranquilo, posado con seguridad y con cabello ondulado hacia atrás.
+
+#### Prompt
+
+```text
+A confident man stands centered in a straight-on medium portrait, his level shoulders and balanced standing posture projecting a calm, deliberately posed presence. He features short, swept-back wavy hair, approximately
+```
+
+### No. 1490: Imagen Heroica de Portero en Estadio
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Mitchel Dumlao
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar una imagen heroica de una persona como portero en un estadio, utilizando los colores de la marca.
+
+#### Prompt
+
+```text
+me as a goalkeeper, brand colors, stadium, 9:16
+```
+
+### No. 1491: Prompt para Retrato Melancólico Carmesí
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** timedoctor.eth
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para un retrato melancólico y velado en primer plano, tomado con una cámara Hasselblad.
+
+#### Prompt
+
+```text
+A tight, veiled close-up portrait of The Protagonist as a melancholic prodigy, shot on Hasselblad H6D-100c with a 110mm f/2 telephoto lens. The Protagonist wears a https://t.co/KpxRouOjh1
+```
+
+### No. 1492: Sesión de Fotografía de Alta Moda en Calle de Nueva York
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Alex Prompts
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para una sesión de fotos al estilo Vogue de un hombre seguro de sí mismo en una calle de Nueva York al anochecer.
+
+#### Prompt
+
+```text
+A high-fashion Vogue-style photoshoot of a man posing confidently on a New York street at dusk.
+```
+
+### No. 1493: Animación de Logo que Aparece sobre Fondo Verde
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** CHRIS FIRST
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para animar un logo para que aparezca y se mantenga flotando sobre un fondo de pantalla verde.
+
+#### Prompt
+
+```text
+Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in
+```
+
+### No. 1494: Storyboard del Peor Día en el Estacionamiento
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Lukman Febrianto
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para un video de catorce segundos sobre el terrible día de un hombre en un estacionamiento, basado en cuatro paneles de storyboard.
+
+#### Prompt
+
+```text
+Four storyboard panels. Fourteen seconds of a guy having the worst day of his life in a parking lot. The panels set the beats — Seedance filled everything in between.
+```
+
+### No. 1495: Ficha de Personaje Fotorrealista con Primer Plano
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Travis Davids
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar una ficha de personaje detallada y fotorrealista que incluya una vista en primer plano.
+
+#### Prompt
+
+```text
+Create a photorealistic character sheet. Include a closeup
+```
+
+### No. 1496: Foto de Producto de Figura de Acción de Chica Vampiro de la Mafia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Thore Gundi
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar una fotografía de producto hiperrealista de una figura de acción coleccionable de una chica vampiro de la mafia.
+
+#### Prompt
+
+```text
+Create a hyper-realistic collectible action figure product photograph, using the attached character reference sheet
+```
+
+### No. 1497: Fotografía minimalista de producto en colina herbosa
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Maddox
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para crear una foto minimalista de producto, con un vasto cielo y una pequeña mesa auxiliar de madera.
+
+#### Prompt
+
+```text
+Minimalist product photography, [product from uploaded photo] placed on top of a small rounded green grassy hill, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside
+```
+
+### No. 1498: Retrato de Pareja Nupcial Pakistaní con Rostros de Referencia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar un retrato cinematográfico y emotivo de una pareja nupcial pakistaní, utilizando los rostros de dos imágenes de referencia.
+
+#### Prompt
+
+```text
+Use the exact same faces from both reference images and generate a breathtaking Pakistani bridal couple portrait — deeply cultural, cinematic, and emotionally alive.
+```
+
+### No. 1499: Retrato de una mujer joven india
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt detallado para generar un retrato de una mujer joven india con rasgos faciales y maquillaje específicos.
+
+#### Prompt
+
+```text
+A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes
+```
+
+### No. 1500: Retrato editorial de belleza y lujo ultrarealista
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Virena
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para crear un retrato de alta moda de una mujer joven segura, con una presencia serena y elegante.
+
+#### Prompt
+
+```text
+Create an ultra-realistic luxury beauty editorial portrait of a confident young woman in her early 20s with a poised, magnetic presence and effortless high-fashion elegance. She has a slim oval face with a softly sculpted jawline, a refined
+```
+
+### No. 1501: Retrato de una mujer joven india
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Sadie 🥀
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar un retrato de una mujer joven india con rasgos faciales detallados.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes"
+}
+```
+
+### No. 1502: Retrato Íntimo y Detallado de Piel en Primer Plano
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `es-419`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un prompt para generar un retrato en primer plano cálido y brillante, con detalles obsesivos en la piel y un dedo descansando suavemente en una mejilla.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
 ```
 
 Este README se genera automaticamente a partir de `data/prompts_by_locale`.

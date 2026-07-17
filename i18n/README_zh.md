@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1480 |
+| 提示词总数 | 1502 |
 | 分类数 | 16 |
-| 预览视频数 | 443 |
-| 最后更新 | 2026/07/16 |
+| 预览视频数 | 448 |
+| 最后更新 | 2026/07/17 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1378)
+### Twitter Community (1400)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -34430,6 +34430,452 @@ Use the exact same face from the reference image — identical facial features, 
 
 ```text
 Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
+```
+
+### No. 1481: 黑白运动型男子肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Simply Ray
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一张超写实的黑白工作室肖像，描绘一位自信的运动型男子，面对镜头，双臂交叉。
+
+#### 提示词
+
+```text
+Ultra-realistic black-and-white studio portrait of a confident athletic man standing directly facing the camera with his arms folded across his chest. The man occupies approximately 75–80% of the vertical frame, cropped from mid-thigh upward.
+```
+
+### No. 1482: 手持迷你DV摄像机镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝐌
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有自拍、手持迷你DV摄像机镜头外观的视频的提示。
+
+#### 提示词
+
+```text
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle
+```
+
+### No. 1483: 露天地铁站楼梯间场景
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成露天地铁站外部楼梯间视频的提示，氛围凉爽且现代。
+
+#### 提示词
+
+```text
+An open-air subway station exterior stairwell sets a cool, atmospheric mood of contemporary
+```
+
+### No. 1484: 超高品质电影杰作提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Noah | AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成超写实、电影视觉杰作的提示，具有好莱坞级别的叙事和高分辨率规格。
+
+#### 提示词
+
+```text
+ULTRA-PREMIUM CINEMATIC MASTERPIECE | HOLLYWOOD AWARD-WINNING VISUAL STORYTELLING | HYPERREALISTIC | PHOTOREALISTIC | MUSEUM-GRADE FINE ART | IMAX 70MM | DOLBY VISION HDR | 16K ULTRA HD | RAW HUMAN
+```
+
+### No. 1485: 梦幻柔彩工作室与虹彩背景
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成柔和、奢华场景的提示，场景包含珍珠白背景和腮红粉色的缎面织物。
+
+#### 提示词
+
+```text
+Using my image create a dreamy pastel studio with a seamless pearly white iridescent backdrop and blush-pink satin fabric, creating a soft, luxurious, feminine atmosphere. She wears a blush-pink ribbed knit long-sleeve sweater with tiny
+```
+
+### No. 1486: 在电影镜头中保持角色身份
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成视频的提示，它使用参考图像在各种动态摄像机运动中保持角色面部身份的一致性。
+
+#### 提示词
+
+```text
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
+
+Duration: 10 seconds.
+```
+
+### No. 1487: 超写实Houdini流体菜肴生成
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个函数式提示，用于使用Houdini流体模拟生成指定菜肴的单张超写实16:9图像。
+
+#### 提示词
+
+```text
+Do this for $ dish : Function DrawDishHoudiniFluid(input dish) Input Variable: [INSERT DISH]  System Instruction: Generate ONE hyper-realistic 16:9
+```
+
+### No. 1488: 写实印度女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅描绘年轻印度女性的写实肖像，包含详细的面部特征。
+
+#### 提示词
+
+```text
+Photorealistic portrait of a beautiful young Indian woman in her mid-20s, South Asian features, fair skin with subtle warm undertones, natural freckles, sharp defined eyebrows, large expressive dark brown eyes
+```
+
+### No. 1489: 自信男性半身肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作冷静、自信姿态男性的半身肖像提示，其发型为后梳波浪发。
+
+#### 提示词
+
+```text
+A confident man stands centered in a straight-on medium portrait, his level shoulders and balanced standing posture projecting a calm, deliberately posed presence. He features short, swept-back wavy hair, approximately
+```
+
+### No. 1490: 体育场中的守门员英雄形象
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mitchel Dumlao
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个使用品牌色彩，生成一个人在体育场中作为守门员的英雄形象图片的提示。
+
+#### 提示词
+
+```text
+me as a goalkeeper, brand colors, stadium, 9:16
+```
+
+### No. 1491: 深红忧郁肖像提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作忧郁、戴面纱的特写肖像的提示，使用哈苏相机拍摄。
+
+#### 提示词
+
+```text
+A tight, veiled close-up portrait of The Protagonist as a melancholic prodigy, shot on Hasselblad H6D-100c with a 110mm f/2 telephoto lens. The Protagonist wears a https://t.co/KpxRouOjh1
+```
+
+### No. 1492: 纽约街头高时尚摄影
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作《Vogue》风格摄影的提示，描绘黄昏时分纽约街头一位自信的男性。
+
+#### 提示词
+
+```text
+A high-fashion Vogue-style photoshoot of a man posing confidently on a New York street at dusk.
+```
+
+### No. 1493: 绿幕上的Logo弹入动画
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于制作Logo在绿幕背景上弹入并悬停的动画提示。
+
+#### 提示词
+
+```text
+Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in
+```
+
+### No. 1494: 停车场最糟糕一天的故事板
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Lukman Febrianto
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个基于四个故事板分镜，生成十四秒视频的提示，内容是关于一个男人在停车场经历的糟糕一天。
+
+#### 提示词
+
+```text
+Four storyboard panels. Fourteen seconds of a guy having the worst day of his life in a parking lot. The panels set the beats — Seedance filled everything in between.
+```
+
+### No. 1495: 带特写的写实角色设定图
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Travis Davids
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成详细的写实角色设定图的提示，其中包含一个特写视图。
+
+#### 提示词
+
+```text
+Create a photorealistic character sheet. Include a closeup
+```
+
+### No. 1496: 吸血鬼黑帮女孩可动人偶产品照片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Thore Gundi
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成超写实产品照片的提示，描绘一款吸血鬼黑帮女孩收藏级可动人偶。
+
+#### 提示词
+
+```text
+Create a hyper-realistic collectible action figure product photograph, using the attached character reference sheet
+```
+
+### No. 1497: 草坡上的极简主义产品摄影
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作极简主义产品照片的提示，包含广阔的天空和一张小型木质边桌。
+
+#### 提示词
+
+```text
+Minimalist product photography, [product from uploaded photo] placed on top of a small rounded green grassy hill, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside
+```
+
+### No. 1498: 参考面部生成的巴基斯坦新婚夫妇肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个使用两张参考图像中的面部，生成电影感且富有情感的巴基斯坦新婚夫妇肖像的提示。
+
+#### 提示词
+
+```text
+Use the exact same faces from both reference images and generate a breathtaking Pakistani bridal couple portrait — deeply cultural, cinematic, and emotionally alive.
+```
+
+### No. 1499: 年轻印度女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个详细的提示，用于生成一位具有特定面部特征和妆容的年轻印度女性肖像。
+
+#### 提示词
+
+```text
+A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes
+```
+
+### No. 1500: 超写实奢华美容时尚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Virena
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作高时尚肖像的提示，描绘一位自信的年轻女性，姿态端庄优雅。
+
+#### 提示词
+
+```text
+Create an ultra-realistic luxury beauty editorial portrait of a confident young woman in her early 20s with a poised, magnetic presence and effortless high-fashion elegance. She has a slim oval face with a softly sculpted jawline, a refined
+```
+
+### No. 1501: 年轻印度女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成年轻印度女性肖像的提示，包含详细的面部特征描绘。
+
+#### 提示词
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes"
+}
+```
+
+### No. 1502: 私密细腻肌肤肖像特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成温暖、发光特写肖像的提示，包含对肌肤的极致细节描绘，以及一根手指轻触脸颊的动作。
+
+#### 提示词
+
+```text
+Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1480%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Une collection de prompts Gemini Omni avec apercus video OSS integres.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Mesure | Nombre |
 | --- | ---: |
-| Nombre Total de Prompts | 1480 |
+| Nombre Total de Prompts | 1502 |
 | Categories | 11 |
-| Videos d'Apercu | 443 |
-| Derniere Mise a Jour | 16/07/2026 |
+| Videos d'Apercu | 448 |
+| Derniere Mise a Jour | 17/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Plan 1 (8 secondes) Un puissant personnage féminin. Plan large cinématographiq
 
 <a id="category-11"></a>
 
-### Twitter Community (1378)
+### Twitter Community (1400)
 
 ### No. 103: Portrait éditorial romantique en pleine nature
 
@@ -34405,6 +34405,452 @@ Une consigne pour une vidéo de romance adolescente sur des amants de vies anté
 
 ```text
 Teenage romance story with Astrid Rose & Thomas, past lives lovers this life first cousin. Focusing on camera cinemaphotography
+```
+
+### No. 1481: Portrait en Noir et Blanc d'un Homme Athlétique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Simply Ray
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait de studio ultra-réaliste en noir et blanc d'un homme athlétique et confiant, face à la caméra, les bras croisés.
+
+#### Prompt
+
+```text
+Ultra-realistic black-and-white studio portrait of a confident athletic man standing directly facing the camera with his arms folded across his chest. The man occupies approximately 75–80% of the vertical frame, cropped from mid-thigh upward.
+```
+
+### No. 1482: Séquences Tournées avec Caméscope Mini DV Portatif
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** 𝐌
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077761335585280363.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une vidéo ayant l'apparence de séquences auto-filmées, tournées à la main avec un caméscope mini DV.
+
+#### Prompt
+
+```text
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle
+```
+
+### No. 1483: Scène de Cage d'Escalier de Station de Métro à l'Air Libre
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** KeorUnreal
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une vidéo de la cage d'escalier extérieure d'une station de métro à l'air libre, avec une atmosphère contemporaine et fraîche.
+
+#### Prompt
+
+```text
+An open-air subway station exterior stairwell sets a cool, atmospheric mood of contemporary
+```
+
+### No. 1484: Prompt de Chef-d'Œuvre Cinématographique Ultra Premium
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Noah | AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour un chef-d'œuvre visuel cinématographique hyperréaliste, avec une narration digne d'Hollywood et des spécifications haute résolution.
+
+#### Prompt
+
+```text
+ULTRA-PREMIUM CINEMATIC MASTERPIECE | HOLLYWOOD AWARD-WINNING VISUAL STORYTELLING | HYPERREALISTIC | PHOTOREALISTIC | MUSEUM-GRADE FINE ART | IMAX 70MM | DOLBY VISION HDR | 16K ULTRA HD | RAW HUMAN
+```
+
+### No. 1485: Studio Pastel Rêveur avec Toile de Fond Iridescente
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Talia
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077782590606504110.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une scène douce et luxueuse avec une toile de fond blanc nacré et un tissu en satin rose pâle.
+
+#### Prompt
+
+```text
+Using my image create a dreamy pastel studio with a seamless pearly white iridescent backdrop and blush-pink satin fabric, creating a soft, luxurious, feminine atmosphere. She wears a blush-pink ribbed knit long-sleeve sweater with tiny
+```
+
+### No. 1486: Maintenir l'Identité du Personnage dans les Plans Cinématographiques
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Virena
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077790049618547067.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une vidéo qui utilise une image de référence pour préserver l'identité faciale d'un personnage à travers divers mouvements dynamiques de caméra.
+
+#### Prompt
+
+```text
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
+
+Duration: 10 seconds.
+```
+
+### No. 1487: Génération Hyper-Réaliste de Plat par Simulation de Fluides Houdini
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Gadgetify
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt de style fonctionnel pour générer une seule image hyper-réaliste au format 16:9 d'un plat spécifié en utilisant la simulation de fluides Houdini.
+
+#### Prompt
+
+```text
+Do this for $ dish : Function DrawDishHoudiniFluid(input dish) Input Variable: [INSERT DISH]  System Instruction: Generate ONE hyper-realistic 16:9
+```
+
+### No. 1488: Portrait photoréaliste d'une femme indienne
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glowecho
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait photoréaliste d'une jeune femme indienne avec des traits du visage détaillés.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a beautiful young Indian woman in her mid-20s, South Asian features, fair skin with subtle warm undertones, natural freckles, sharp defined eyebrows, large expressive dark brown eyes
+```
+
+### No. 1489: Portrait en plan moyen d'un homme confiant
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Picts by AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait en plan moyen d'un homme calme, posé avec confiance et aux cheveux ondulés coiffés en arrière.
+
+#### Prompt
+
+```text
+A confident man stands centered in a straight-on medium portrait, his level shoulders and balanced standing posture projecting a calm, deliberately posed presence. He features short, swept-back wavy hair, approximately
+```
+
+### No. 1490: Image héroïque d'un gardien de but dans un stade
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Mitchel Dumlao
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une image héroïque d'une personne en gardien de but dans un stade, en utilisant les couleurs de la marque.
+
+#### Prompt
+
+```text
+me as a goalkeeper, brand colors, stadium, 9:16
+```
+
+### No. 1491: Consigne pour portrait 'Mélancolie écarlate'
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** timedoctor.eth
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait rapproché mélancolique et voilé, réalisé avec un appareil photo Hasselblad.
+
+#### Prompt
+
+```text
+A tight, veiled close-up portrait of The Protagonist as a melancholic prodigy, shot on Hasselblad H6D-100c with a 110mm f/2 telephoto lens. The Protagonist wears a https://t.co/KpxRouOjh1
+```
+
+### No. 1492: Séance photo de mode à New York
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alex Prompts
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour une séance photo style Vogue d'un homme confiant dans une rue de New York au crépuscule.
+
+#### Prompt
+
+```text
+A high-fashion Vogue-style photoshoot of a man posing confidently on a New York street at dusk.
+```
+
+### No. 1493: Animation d'apparition de logo sur fond vert
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** CHRIS FIRST
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077877168730706019.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour animer un logo afin qu'il apparaisse en surgissant et qu'il plane sur un fond vert.
+
+#### Prompt
+
+```text
+Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in
+```
+
+### No. 1494: Storyboard 'Le pire jour sur le parking'
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Lukman Febrianto
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2077893842473533921.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour une vidéo de quatorze secondes sur le terrible jour d'un homme sur un parking, basée sur quatre vignettes de storyboard.
+
+#### Prompt
+
+```text
+Four storyboard panels. Fourteen seconds of a guy having the worst day of his life in a parking lot. The panels set the beats — Seedance filled everything in between.
+```
+
+### No. 1495: Fiche de personnage photoréaliste avec gros plan
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Travis Davids
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une fiche de personnage détaillée et photoréaliste incluant une vue en gros plan.
+
+#### Prompt
+
+```text
+Create a photorealistic character sheet. Include a closeup
+```
+
+### No. 1496: Photo de produit de figurine d'action Vampire Mafia Girl
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Thore Gundi
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une photographie de produit hyper-réaliste d'une figurine de collection Vampire Mafia Girl.
+
+#### Prompt
+
+```text
+Create a hyper-realistic collectible action figure product photograph, using the attached character reference sheet
+```
+
+### No. 1497: Photographie de produit minimaliste sur colline herbeuse
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Maddox
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour créer une photo de produit minimaliste avec un vaste ciel et une petite table d'appoint en bois.
+
+#### Prompt
+
+```text
+Minimalist product photography, [product from uploaded photo] placed on top of a small rounded green grassy hill, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside
+```
+
+### No. 1498: Portrait de couple de mariés pakistanais avec visages de référence
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ozair AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer un portrait cinématographique et émotionnel d'un couple de mariés pakistanais en utilisant les visages de deux images de référence.
+
+#### Prompt
+
+```text
+Use the exact same faces from both reference images and generate a breathtaking Pakistani bridal couple portrait — deeply cultural, cinematic, and emotionally alive.
+```
+
+### No. 1499: Portrait d'une jeune femme indienne
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glowecho
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne détaillée pour générer un portrait d'une jeune femme indienne avec des traits du visage et un maquillage spécifiques.
+
+#### Prompt
+
+```text
+A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes
+```
+
+### No. 1500: Portrait éditorial de beauté luxe ultra-réaliste
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Virena
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour créer un portrait haute couture d'une jeune femme confiante, à la présence posée et élégante.
+
+#### Prompt
+
+```text
+Create an ultra-realistic luxury beauty editorial portrait of a confident young woman in her early 20s with a poised, magnetic presence and effortless high-fashion elegance. She has a slim oval face with a softly sculpted jawline, a refined
+```
+
+### No. 1501: Portrait d'une jeune femme indienne
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sadie 🥀
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer un portrait d'une jeune femme indienne avec des traits du visage détaillés.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with flawless fair skin, sharp and defined facial features, high cheekbones, full lips with soft pink-nude gloss, and expressive large dark brown eyes with thick long lashes"
+}
+```
+
+### No. 1502: Portrait rapproché intime et détaillé de la peau
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ozair AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer un portrait rapproché chaleureux et lumineux avec un rendu obsessionnel des détails de la peau et un doigt reposant doucement sur une joue.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
 ```
 
 Ce README est genere automatiquement depuis `data/prompts_by_locale`.

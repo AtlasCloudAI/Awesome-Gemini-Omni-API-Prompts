@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1502 |
+| 提示词总数 | 1531 |
 | 分类数 | 16 |
-| 预览视频数 | 448 |
-| 最后更新 | 2026/07/17 |
+| 预览视频数 | 452 |
+| 最后更新 | 2026/07/18 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1400)
+### Twitter Community (1429)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -34876,6 +34876,597 @@ Create an ultra-realistic luxury beauty editorial portrait of a confident young 
 
 ```text
 Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
+```
+
+### No. 1503: 血月下的东京晴空塔
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Marcio Lima 利真 マルシオ 💎
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个低角度拍摄的东京晴空塔夜景，构图居中，具有深邃的渐变效果。
+
+#### 提示词
+
+```text
+Low-angle shot of Tokyo Skytree at night, perfectly centered composition, deep gradient
+```
+
+### No. 1504: 图像增强与重绘提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KWAGDY
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于增强和重绘现有插图，同时保留其核心元素的提示。
+
+#### 提示词
+
+```text
+Use the uploaded image as the exact main reference. Enhance and professionally redraw the existing illustration without changing its original concept, composition, character identity, product, Arabic text, or number of camels.
+```
+
+### No. 1505: 女性电影感时尚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成一系列高时尚肖像摄影的提示，主角是一位深色波浪发型的东亚女性，背景为深色纹理墙面。
+
+#### 提示词
+
+```text
+A series of cinematic, high-fashion portrait photographs captures the same East Asian woman with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall.
+```
+
+### No. 1506: 南亚女性肖像提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成拥有特定面部特征的年轻南亚印度女性肖像的详细提示。
+
+#### 提示词
+
+```text
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched"
+```
+
+### No. 1507: 南亚印度女性肖像提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成神似帕里内蒂·乔普拉的年轻南亚印度女性肖像的提示。
+
+#### 提示词
+
+```text
+A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly
+```
+
+### No. 1508: 深红笑声主角大笑特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个超写实、带有动态模糊的特写镜头，描绘主角在混乱的、天鹅绒帷幔装饰的制帽工坊中大笑。
+
+#### 提示词
+
+```text
+A hyper-realistic, motion-blurred close-up of The Protagonist caught completely off-guard in a burst of genuine laughter inside a chaotic, velvet-draped millinery
+```
+
+### No. 1509: 用于图像生成的面部身份参考
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Professor
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个指示人工智能使用上传的面部图像作为主要参考以保留面部身份的提示。
+
+#### 提示词
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows,
+```
+
+### No. 1510: 欧洲桥上女性电影感肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shahid Wani
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个电影感写实场景：一位身穿粉色碎花连衣裙的年轻女子走在古老的欧洲桥上，回头张望。
+
+#### 提示词
+
+```text
+Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile
+```
+
+### No. 1511: 印度女性超写实影棚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成拥有特定面容的自信印度女性超写实影棚肖像的提示。
+
+#### 提示词
+
+```text
+Ultra-photorealistic studio portrait of a confident Indian woman with medium warm skin tone, exact same face and identity as the reference image (keep the face 100% identical, do not alter facial
+```
+
+### No. 1512: 年轻女性照片级写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成拥有白皙皮肤、蓝眼睛和粉嫩嘴唇的美丽年轻女性照片级写实肖像的提示。
+
+#### 提示词
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, fair skin with a natural glow, striking blue eyes with subtle eyeliner and mascara, soft pink glossy lips, high cheekbones
+```
+
+### No. 1513: 多镜头专业产品广告
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zyncria
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创建专业产品广告的提示，包含特写、细节镜头和使用场景，并配有流畅转场和环境音效。
+
+#### 提示词
+
+```text
+Anuncio profesional del producto con distintas tomas: primer plano, detalle, contexto de uso. Transiciones fluidas, audio ambiente.
+```
+
+### No. 1514: 坐在椅子上的自信男性专业肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成坐在经典木椅上、干净现代的男性肖像的提示。
+
+#### 提示词
+
+```text
+Create a professional, high-quality portrait of a clean-shaven man with a natural, confident expression, captured in a vertical format. The subject should be seated on a classic wooden chair
+```
+
+### No. 1515: 穿米色西装外套的男性回头一瞥
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成穿着米色西装外套的男性回头张望的视频或图像的提示。
+
+#### 提示词
+
+```text
+A handsome male stands positioned on the right with his back to the camera, his level shoulders perfectly centered as his head turns over his left shoulder to gaze away toward the left. He wears an off-white blazer
+```
+
+### No. 1516: 根据照片生成模拟人生风格角色
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alex Prompts
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个根据个人照片生成模拟人生游戏风格图像的提示。
+
+#### 提示词
+
+```text
+Based on my photo, create a photo in the style of The Sims game, character creation
+```
+
+### No. 1517: 身穿牛仔服饰的女子影棚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅全身影棚肖像，描绘一位自信的长发棕发女子，身穿时尚牛仔服饰，背景为灰色。
+
+#### 提示词
+
+```text
+A full-body studio portrait of a beautiful woman with long, wavy brown hair, posing confidently against a solid gray background. She is wearing a chic casual denim outfit, featuring a strapless light-blue denim corset top and matching
+```
+
+### No. 1518: [姓名]的影棚时尚编辑照
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成高清影棚时尚摄影的提示，描绘一位自信的主体直视镜头。
+
+#### 提示词
+
+```text
+A stunning, professional studio editorial fashion photograph, in high definition, featuring [NAME] in a confident, expressive mid-shot. She looks directly into the camera with a
+```
+
+### No. 1519: 写实AI皮肤纹理
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 0xAIGOAT.exe
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+本视频演示了如何通过使用特定的关键词和打光技巧来生成具有写实皮肤纹理和自然光照的AI图像，以避免常见的“塑料感”外观。
+
+#### 提示词
+
+```text
+Hyperrealistic extreme close-up video of a young East Asian woman's face. Showcase natural skin texture with visible pores, freckles, and subtle imperfections. Utilize dramatic cinematic lighting, with soft side light creating chiaroscuro effects and highlighting contours. Macro lens, shallow depth of field. Subject exhibits subtle blinking, slight head turns, and eye movements. Studio setting with a dark, minimalist background. Use negative prompts: no smooth skin, no glossy look, no perfection.
+```
+
+### No. 1520: 掠食本能黑色电影感特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个超写实、电影感的特写镜头提示，透过雨痕斑驳的玻璃拍摄一个正在经历超现实转变的主体。
+
+#### 提示词
+
+```text
+{
+  "vibe_title_en": "Predatory Instinct Noir",
+  "master_prompt": "A hyper-realistic, cinematic close-up of The Protagonist, shot through a rain-streaked antique glass pane (foreground layer). The subject is undergoing a surreal,"}
+```
+
+### No. 1521: 课桌上女子的写实照片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一张细节丰富的写实照片，描绘一位深棕色头发的年轻女子坐在教室的木制课桌上。
+
+#### 提示词
+
+```text
+A highly detailed realistic photograph of the same young woman with long wavy dark brown hair sitting casually on a wooden school desk in a classroom. She is leaning slightly forward with one hand
+```
+
+### No. 1522: 多肉植物群向卡通乌龟的转变
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Matan Cohen-Grumi
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于编辑视频的提示，将一簇多肉植物转变为一个扁平的2D卡通渲染乌龟，其龟壳鳞片由多肉植物构成。
+
+#### 提示词
+
+```text
+When the marker bloops the big round succulent cluster, it's revealed to be a giant turtle: turn it into a flat-2D cel-shaded cartoon turtle whose shell scutes ARE the succulent rosettes — and redraw those succulents in the same flat 2D
+```
+
+### No. 1523: GlobalGPT AI平台展示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Choya
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一段动态屏幕录制，展示了现代GlobalGPT AI平台的导航界面，重点突出了其广泛的聊天、图像和视频生成工具。
+
+#### 提示词
+
+```text
+A clean, modern UI screen recording of the 'GlobalGPT' website interface. The view starts on the homepage, smoothly scrolls down past 'Cutting-Edge Video & Image Models' and 'Newly Released AI Models & Features'. The user then clicks 'Models & Tools' on the sidebar, followed by a click on the 'Image' filter, scrolling to reveal 'Image Generator' and 'Image Editor' sections. Finally, the user clicks 'Video' on the sidebar, scrolling down to showcase 'Video Generator' and 'Visual Effects'. The interface features a bright white background with vibrant purple and blue accents.
+```
+
+### No. 1524: 无缝拼接的随性生活风照片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创建无缝拼贴的提示，将两张用iPhone 15 Pro拍摄的随性生活风照片组合在一起。
+
+#### 提示词
+
+```text
+A seamless collage of two candid lifestyle photographs placed directly next to each other with no borders, no frames, no gaps, no dividers. Shot casually on iPhone 15 Pro, natural light, no filters, authentic everyday
+```
+
+### No. 1525: 年轻印度女性的写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅年轻印度女性的写实肖像，她跪在优雅的室内走廊中。
+
+#### 提示词
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural glow
+```
+
+### No. 1526: 旅途之人的电影感画面
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Soul | AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成超写实、电影感画面的提示，描绘一个坚定的人在真实地貌上进行一场情感之旅。
+
+#### 提示词
+
+```text
+Create an ultra-photorealistic, cinematic image of a determined person on an emotional journey of perseverance. The scene unfolds across a realistic landscape: on one side, the person is running with strength and hope; in the middle,
+```
+
+### No. 1527: 写实印度女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sadie 🥀
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成写实肖像的提示，描绘一位跪在优雅走廊中的年轻印度女性。
+
+#### 提示词
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural
+```
+
+### No. 1528: 自信年轻男子的写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** FaKHaR ThInD
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成写实肖像的提示，描绘一位面带微笑、身穿PUBG T恤的19岁男子。
+
+#### 提示词
+
+```text
+A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black letters across the chest, and blac
+```
+
+### No. 1529: 吉百利巧克力饮品广告故事板
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝐌
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于为巧克力饮品产品生成高级商业广告故事板布局的提示。
+
+#### 提示词
+
+```text
+TITLE:
+Cadbury 3 in 1 Chocolate Drink
+
+FORMAT:
+• Premium commercial storyboard sheet
+• Single-page portrait layout
+• Professional Swiss editorial grid
+• 3 × 4 storyboard layout (12 scenes)
+• Clean white premium paper background
+```
+
+### No. 1530: 女战斗机飞行员电影感肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** liana
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅电影感合成肖像，描绘一位戴着飞行员墨镜的女战斗机飞行员，墨镜中映照着日落时分的机场景象。
+
+#### 提示词
+
+```text
+A cinematic composite portrait featuring a female fighter pilot with a short, layered brown haircut. In the foreground, a close-up shot of her face wearing aviator sunglasses that reflect a sunset airfield scene. In the background, a full-body
+```
+
+### No. 1531: 胶片颗粒感随性肖像拼贴
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成四格拼贴的提示，要求呈现同一面孔的随性肖像，捕捉房间内的自然瞬间，并带有胶片颗粒美学风格。
+
+#### 提示词
+
+```text
+Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

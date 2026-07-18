@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1502 |
+| พรอมต์ทั้งหมด | 1531 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 448 |
-| อัปเดตล่าสุด | 17/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 452 |
+| อัปเดตล่าสุด | 18/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1400)
+### Twitter Community (1429)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -34836,6 +34836,597 @@ Create an ultra-realistic luxury beauty editorial portrait of a confident young 
 
 ```text
 Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
+```
+
+### No. 1503: โตเกียวสกายทรีใต้จันทร์สีเลือด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Marcio Lima 利真 マルシオ 💎
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพถ่ายมุมต่ำของโตเกียวสกายทรีในเวลากลางคืน มีการจัดองค์ประกอบแบบกึ่งกลางและไล่ระดับสีลึก
+
+#### พรอมต์
+
+```text
+Low-angle shot of Tokyo Skytree at night, perfectly centered composition, deep gradient
+```
+
+### No. 1504: พรอมต์ปรับปรุงและวาดภาพใหม่
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KWAGDY
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับปรับปรุงและวาดภาพประกอบที่มีอยู่ใหม่ โดยยังคงรักษาธาตุแท้หลักของภาพไว้
+
+#### พรอมต์
+
+```text
+Use the uploaded image as the exact main reference. Enhance and professionally redraw the existing illustration without changing its original concept, composition, character identity, product, Arabic text, or number of camels.
+```
+
+### No. 1505: ภาพบุคคลแฟชั่นแบบภาพยนตร์ของหญิงสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างชุดภาพบุคคลแฟชั่นระดับสูงของหญิงสาวเอเชียตะวันออกที่มีผมดำเป็นลอน ฉากหลังเป็นผนังสีเข้มมีพื้นผิว
+
+#### พรอมต์
+
+```text
+A series of cinematic, high-fashion portrait photographs captures the same East Asian woman with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall.
+```
+
+### No. 1506: พรอมต์ภาพบุคคลหญิงเอเชียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์รายละเอียดสำหรับสร้างภาพบุคคลของหญิงสาวอินเดียเอเชียใต้ที่มีลักษณะใบหน้าเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched"
+```
+
+### No. 1507: พรอมต์ภาพบุคคลหญิงอินเดียเอเชียใต้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sadie 🥀
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลของหญิงสาวอินเดียเอเชียใต้ที่มีลักษณะคล้าย Parineeti Chopra
+
+#### พรอมต์
+
+```text
+A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly
+```
+
+### No. 1508: ตัวเอกใน Crimson Laughter หัวเราะแบบคลอสอัพ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพคลอสอัพเหมือนจริงสุดขีดที่มีการเบลอจากการเคลื่อนไหวของตัวเอกกำลังหัวเราะในร้านหมวกที่วุ่นวายและมีผ้าซาตินสีแดงเข้มห้อยระย้า
+
+#### พรอมต์
+
+```text
+A hyper-realistic, motion-blurred close-up of The Protagonist caught completely off-guard in a burst of genuine laughter inside a chaotic, velvet-draped millinery
+```
+
+### No. 1509: อ้างอิงเอกลักษณ์ใบหน้าสำหรับการสร้างภาพ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Professor
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่สั่งให้ AI ใช้ภาพใบหน้าที่อัปโหลดเป็นข้อมูลอ้างอิงหลักเพื่อรักษาเอกลักษณ์ใบหน้า
+
+#### พรอมต์
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows,
+```
+
+### No. 1510: ภาพบุคคลแบบภาพยนตร์ของหญิงสาวบนสะพานยุโรป
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Shahid Wani
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ฉากภาพยนตร์เหมือนจริงของหญิงสาวในชุดเดรสลายดอกไม้สีชมพูกำลังมองกลับมาขณะเดินข้ามสะพานยุโรปเก่าแก่
+
+#### พรอมต์
+
+```text
+Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile
+```
+
+### No. 1511: ภาพบุคคลในสตูดิโอเหมือนจริงของหญิงอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ANKIT PATEL 🇮🇳 | AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลในสตูดิโอที่เหมือนจริงสุดขีดของหญิงอินเดียผู้มั่นใจที่มีใบหน้าเฉพาะ
+
+#### พรอมต์
+
+```text
+Ultra-photorealistic studio portrait of a confident Indian woman with medium warm skin tone, exact same face and identity as the reference image (keep the face 100% identical, do not alter facial
+```
+
+### No. 1512: ภาพบุคคลเหมือนจริงของหญิงสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลเหมือนจริงของหญิงสาวสวยผิวขาวนวล ตาสีฟ้า และริมฝีปากสีชมพูอ่อน
+
+#### พรอมต์
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, fair skin with a natural glow, striking blue eyes with subtle eyeliner and mascara, soft pink glossy lips, high cheekbones
+```
+
+### No. 1513: โฆษณาสินค้ามืออาชีพพร้อมหลายมุมมอง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Zyncria
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างโฆษณาสินค้ามืออาชีพที่มีภาพคลอสอัพ ภาพรายละเอียด และบริบทการใช้งาน พร้อมการเปลี่ยนผ่านที่ลื่นไหลและเสียงบรรยากาศ
+
+#### พรอมต์
+
+```text
+Anuncio profesional del producto con distintas tomas: primer plano, detalle, contexto de uso. Transiciones fluidas, audio ambiente.
+```
+
+### No. 1514: ภาพบุคคลระดับมืออาชีพของชายมั่นใจบนเก้าอี้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพบุคคลที่สะอาดตาและทันสมัยของผู้ชายนั่งบนเก้าอี้ไม้คลาสสิก
+
+#### พรอมต์
+
+```text
+Create a professional, high-quality portrait of a clean-shaven man with a natural, confident expression, captured in a vertical format. The subject should be seated on a classic wooden chair
+```
+
+### No. 1515: ผู้ชายมองข้ามไหล่ในเสื้อเบลเซอร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอหรือภาพของผู้ชายมองกลับข้ามไหล่ขณะสวมเสื้อเบลเซอร์สีขาวหม่น
+
+#### พรอมต์
+
+```text
+A handsome male stands positioned on the right with his back to the camera, his level shoulders perfectly centered as his head turns over his left shoulder to gaze away toward the left. He wears an off-white blazer
+```
+
+### No. 1516: ตัวละครสไตล์ซิมส์จากรูปถ่าย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพในสไตล์เกม The Sims จากรูปถ่ายส่วนบุคคล
+
+#### พรอมต์
+
+```text
+Based on my photo, create a photo in the style of The Sims game, character creation
+```
+
+### No. 1517: ภาพบุคคลในสตูดิโอของผู้หญิงในชุดเดนิม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Talia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลเต็มตัวในสตูดิโอของผู้หญิงผมยาวสีน้ำตาลที่มั่นใจ สวมชุดเดนิมสไตล์ชิค พื้นหลังสีเทา
+
+#### พรอมต์
+
+```text
+A full-body studio portrait of a beautiful woman with long, wavy brown hair, posing confidently against a solid gray background. She is wearing a chic casual denim outfit, featuring a strapless light-blue denim corset top and matching
+```
+
+### No. 1518: ภาพแฟชันแนวสตูดิโอของ [ชื่อ]
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Giulia
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพถ่ายแฟชันความละเอียดสูงในสตูดิโอ ของบุคคลที่มั่นใจกำลังมองมาที่กล้อง
+
+#### พรอมต์
+
+```text
+A stunning, professional studio editorial fashion photograph, in high definition, featuring [NAME] in a confident, expressive mid-shot. She looks directly into the camera with a
+```
+
+### No. 1519: พื้นผิวผิวหนัง AI แบบสมจริง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 0xAIGOAT.exe
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+วิดีโอนี้สาธิตวิธีสร้างภาพ AI ที่มีพื้นผิวผิวหนังสมจริงและแสงธรรมชาติ โดยใช้คำหลักและเทคนิคการจัดแสงเฉพาะเพื่อหลีกเลี่ยงลักษณะ 'พลาสติก' ที่พบบ่อย
+
+#### พรอมต์
+
+```text
+Hyperrealistic extreme close-up video of a young East Asian woman's face. Showcase natural skin texture with visible pores, freckles, and subtle imperfections. Utilize dramatic cinematic lighting, with soft side light creating chiaroscuro effects and highlighting contours. Macro lens, shallow depth of field. Subject exhibits subtle blinking, slight head turns, and eye movements. Studio setting with a dark, minimalist background. Use negative prompts: no smooth skin, no glossy look, no perfection.
+```
+
+### No. 1520: ภาพคลูอัพสไตล์นัวร์แห่งสัญชาตญาณนักล่า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพคลูอัพเหนือจริงแบบภาพยนตร์ ถ่ายผ่านกระจกที่มีรอยฝน ของบุคคลที่กำลังเกิดการเปลี่ยนแปลงเหนือจริง
+
+#### พรอมต์
+
+```text
+{
+  "vibe_title_en": "Predatory Instinct Noir",
+  "master_prompt": "A hyper-realistic, cinematic close-up of The Protagonist, shot through a rain-streaked antique glass pane (foreground layer). The subject is undergoing a surreal,"}
+```
+
+### No. 1521: ภาพถ่ายเหมือนจริงของผู้หญิงบนโต๊ะเรียน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sharon Riley
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพถ่ายเหมือนจริงรายละเอียดสูงของหญิงสาวผมสีน้ำตาลเข้มนั่งบนโต๊ะไม้ในห้องเรียน
+
+#### พรอมต์
+
+```text
+A highly detailed realistic photograph of the same young woman with long wavy dark brown hair sitting casually on a wooden school desk in a classroom. She is leaning slightly forward with one hand
+```
+
+### No. 1522: การเปลี่ยนรูปกลุ่มไม้อวบน้ำเป็นเต่าการ์ตูน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Matan Cohen-Grumi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับตัดต่อวิดีโอ เพื่อเปลี่ยนรูปกลุ่มไม้อวบน้ำให้กลายเป็นเต่าการ์ตูนแบบ 2D แบนเรียบ มีลวดลายกระดองเหมือนไม้อวบน้ำ
+
+#### พรอมต์
+
+```text
+When the marker bloops the big round succulent cluster, it's revealed to be a giant turtle: turn it into a flat-2D cel-shaded cartoon turtle whose shell scutes ARE the succulent rosettes — and redraw those succulents in the same flat 2D
+```
+
+### No. 1523: การนำเสนอแพลตฟอร์ม AI GlobalGPT
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Choya
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+วิดีโอการบันทึกหน้าจอแบบไดนามิกที่นำทางผ่านแพลตฟอร์ม AI GlobalGPT ที่ทันสมัย โดยเน้นย้ำเครื่องมือสร้างแชท ภาพ และวิดีโอที่หลากหลาย
+
+#### พรอมต์
+
+```text
+A clean, modern UI screen recording of the 'GlobalGPT' website interface. The view starts on the homepage, smoothly scrolls down past 'Cutting-Edge Video & Image Models' and 'Newly Released AI Models & Features'. The user then clicks 'Models & Tools' on the sidebar, followed by a click on the 'Image' filter, scrolling to reveal 'Image Generator' and 'Image Editor' sections. Finally, the user clicks 'Video' on the sidebar, scrolling down to showcase 'Video Generator' and 'Visual Effects'. The interface features a bright white background with vibrant purple and blue accents.
+```
+
+### No. 1524: คอลลาจไร้รอยต่อของภาพไลฟ์สไตล์แบบสบาย ๆ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างคอลลาจไร้รอยต่อของภาพถ่ายไลฟ์สไตล์แบบสบาย ๆ สองภาพที่ถ่ายด้วย iPhone 15 Pro
+
+#### พรอมต์
+
+```text
+A seamless collage of two candid lifestyle photographs placed directly next to each other with no borders, no frames, no gaps, no dividers. Shot casually on iPhone 15 Pro, natural light, no filters, authentic everyday
+```
+
+### No. 1525: ภาพบุคคลเหมือนจริงของหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลเหมือนจริงของหญิงสาวอินเดียที่กำลังคุกเข่าอยู่ในโถงทางเดินในร่มที่หรูหรา
+
+#### พรอมต์
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural glow
+```
+
+### No. 1526: ภาพสไตล์ภาพยนตร์ของบุคคลในการเดินทาง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Soul | AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเหมือนจริงระดับสูง สไตล์ภาพยนตร์ ที่แสดงถึงบุคคลที่มุ่งมั่นในการเดินทางอันเต็มไปด้วยอารมณ์ความรู้สึกข้ามภูมิทัศน์ที่สมจริง
+
+#### พรอมต์
+
+```text
+Create an ultra-photorealistic, cinematic image of a determined person on an emotional journey of perseverance. The scene unfolds across a realistic landscape: on one side, the person is running with strength and hope; in the middle,
+```
+
+### No. 1527: ภาพบุคคลหญิงอินเดียเหมือนจริง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sadie 🥀
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลเหมือนจริงของหญิงสาวอินเดียที่กำลังคุกเข่าอยู่ในโถงทางเดินที่หรูหรา
+
+#### พรอมต์
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural
+```
+
+### No. 1528: ภาพบุคคลเหมือนจริงของชายหนุ่มมั่นใจ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** FaKHaR ThInD
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลเหมือนจริงของชายวัย 19 ปีที่ยิ้มและสวมเสื้อยืดเกม PUBG
+
+#### พรอมต์
+
+```text
+A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black letters across the chest, and blac
+```
+
+### No. 1529: สตอรี่บอร์ดโฆษณาเครื่องดื่มช็อกโกแลต Cadbury
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐌
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างโครงร่างสตอรี่บอร์ดโฆษณาแบบพรีเมียมสำหรับผลิตภัณฑ์เครื่องดื่มช็อกโกแลต
+
+#### พรอมต์
+
+```text
+TITLE:
+Cadbury 3 in 1 Chocolate Drink
+
+FORMAT:
+• Premium commercial storyboard sheet
+• Single-page portrait layout
+• Professional Swiss editorial grid
+• 3 × 4 storyboard layout (12 scenes)
+• Clean white premium paper background
+```
+
+### No. 1530: ภาพบุคคลสไตล์ภาพยนตร์ของนักบินหญิง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** liana
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลเชิงประกอบสไตล์ภาพยนตร์ของนักบินหญิงสวมแว่นกันแดดนักบินที่สะท้อนภาพสนามบินยามพระอาทิตย์ตก
+
+#### พรอมต์
+
+```text
+A cinematic composite portrait featuring a female fighter pilot with a short, layered brown haircut. In the foreground, a close-up shot of her face wearing aviator sunglasses that reflect a sunset airfield scene. In the background, a full-body
+```
+
+### No. 1531: ภาพคอลลาจบุคคลแบบสบาย ๆ พร้อมเอฟเฟกต์เกรนฟิล์ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพคอลลาจสี่ช่องของภาพบุคคลแบบสบาย ๆ ที่มีใบหน้าเดียวกัน จับภาพช่วงเวลาธรรมดา ๆ ในห้องพร้อมสุนทรียะของเกรนฟิล์ม
+
+#### พรอมต์
+
+```text
+Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

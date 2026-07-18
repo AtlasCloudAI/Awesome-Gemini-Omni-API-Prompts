@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Olcut | Sayi |
 | --- | ---: |
-| Toplam Prompt | 1502 |
+| Toplam Prompt | 1531 |
 | Kategoriler | 8 |
-| Onizleme Videolari | 448 |
-| Son Guncelleme | 17.07.2026 |
+| Onizleme Videolari | 452 |
+| Son Guncelleme | 18.07.2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1400)
+### Twitter Community (1429)
 
 ### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
@@ -34836,6 +34836,597 @@ Obsesif cilt detaylandırması ve parmağın yanağa nazikçe dokunuşuyla, sıc
 
 ```text
 Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
+```
+
+### No. 1503: Kanlı ay altında Tokyo Skytree
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Marcio Lima 利真 マルシオ 💎
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gece vakti, merkez kompozisyon ve derin gradyanla çekilmiş Tokyo Skytree'nin alçak açılı bir çekimi.
+
+#### Prompt
+
+```text
+Low-angle shot of Tokyo Skytree at night, perfectly centered composition, deep gradient
+```
+
+### No. 1504: Görüntü İyileştirme ve Yeniden Çizim Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KWAGDY
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Mevcut bir illüstrasyonun temel öğelerini korurken onu iyileştirmek ve yeniden çizmek için bir prompt.
+
+#### Prompt
+
+```text
+Use the uploaded image as the exact main reference. Enhance and professionally redraw the existing illustration without changing its original concept, composition, character identity, product, Arabic text, or number of camels.
+```
+
+### No. 1505: Bir Kadının Sinematik Moda Portreleri
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Koyu dokulu bir duvar önünde koyu dalgalı saçlı bir Doğu Asyalı kadını içeren bir dizi yüksek moda portre fotoğrafı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A series of cinematic, high-fashion portrait photographs captures the same East Asian woman with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall.
+```
+
+### No. 1506: Güney Asyalı Kadın Portresi Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli yüz özelliklerine sahip genç bir Güney Asyalı Hintli kadının portresini oluşturmak için detaylı bir prompt.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched"
+```
+
+### No. 1507: Güney Asyalı Hintli Kadın Portresi Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sadie 🥀
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Parineeti Chopra'ya benzeyen genç bir Güney Asyalı Hintli kadının portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly
+```
+
+### No. 1508: Kızıl Kahkaha Protagonisti Gülüş Yakın Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kaotik, kadife perdeli bir şapkacı dükkanında gülen bir protagonistin hiper-gerçekçi, hareket bulanıklıklı yakın çekimi.
+
+#### Prompt
+
+```text
+A hyper-realistic, motion-blurred close-up of The Protagonist caught completely off-guard in a burst of genuine laughter inside a chaotic, velvet-draped millinery
+```
+
+### No. 1509: Görüntü Oluşturma için Yüz Kimliği Referansı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Professor
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yüz kimliğini korumak için birincil referans olarak yüklenen bir yüz görüntüsünü kullanması için bir yapay zekaya talimat veren bir prompt.
+
+#### Prompt
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows,
+```
+
+### No. 1510: Avrupa Köprüsündeki Kadın Sinematik Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Shahid Wani
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Pembe çiçekli bir elbise giymiş genç bir kadının, eski bir Avrupa köprüsünden geçerken geriye baktığı fotoğraf gerçekçiliğinde sinematik bir sahne.
+
+#### Prompt
+
+```text
+Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile
+```
+
+### No. 1511: Fotoğraf Gerçekçiliğinde Hintli Kadın Stüdyo Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ANKIT PATEL 🇮🇳 | AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli bir yüze sahip, kendinden emin bir Hintli kadının ultra fotoğraf gerçekçiliğinde stüdyo portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-photorealistic studio portrait of a confident Indian woman with medium warm skin tone, exact same face and identity as the reference image (keep the face 100% identical, do not alter facial
+```
+
+### No. 1512: Genç bir kadının fotoğraf gerçekçiliğinde portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Açık tenli, mavi gözlü ve yumuşak pembe dudaklı güzel bir genç kadının fotoğraf gerçekçiliğinde portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, fair skin with a natural glow, striking blue eyes with subtle eyeliner and mascara, soft pink glossy lips, high cheekbones
+```
+
+### No. 1513: Çoklu Çekimli Profesyonel Ürün Reklamı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zyncria
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yakın çekimler, detay görüntüleri ve kullanım bağlamı içeren, pürüzsüz geçişler ve ortam sesiyle profesyonel bir ürün reklamı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Anuncio profesional del producto con distintas tomas: primer plano, detalle, contexto de uso. Transiciones fluidas, audio ambiente.
+```
+
+### No. 1514: Sandalyede Oturan Kendinden Emin Bir Erkeğin Profesyonel Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Klasik ahşap bir sandalyede oturan bir erkeğin temiz, modern bir portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a professional, high-quality portrait of a clean-shaven man with a natural, confident expression, captured in a vertical format. The subject should be seated on a classic wooden chair
+```
+
+### No. 1515: Blazerli Omuz Üstü Bakan Erkek
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Açık renk bir blazer giyerken omzunun üzerinden geriye bakan bir erkeğin videosunu veya görüntüsünü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A handsome male stands positioned on the right with his back to the camera, his level shoulders perfectly centered as his head turns over his left shoulder to gaze away toward the left. He wears an off-white blazer
+```
+
+### No. 1516: Fotoğraftan Sims Tarzı Karakter
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Alex Prompts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kişisel bir fotoğrafa dayanarak The Sims oyunu tarzında bir görüntü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Based on my photo, create a photo in the style of The Sims game, character creation
+```
+
+### No. 1517: Kot Kıyafetli Bir Kadının Stüdyo Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Talia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Uzun kahverengi saçlı, şık bir kot kıyafet giyen, kendinden emin bir kadının gri bir fon önünde çekilmiş tam boy stüdyo portresi.
+
+#### Prompt
+
+```text
+A full-body studio portrait of a beautiful woman with long, wavy brown hair, posing confidently against a solid gray background. She is wearing a chic casual denim outfit, featuring a strapless light-blue denim corset top and matching
+```
+
+### No. 1518: [İSİM] için Stüdyo Editoryal Moda Fotoğrafı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kameraya bakan kendinden emin bir öznenin yüksek çözünürlüklü stüdyo moda fotoğrafını oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning, professional studio editorial fashion photograph, in high definition, featuring [NAME] in a confident, expressive mid-shot. She looks directly into the camera with a
+```
+
+### No. 1519: Gerçekçi AI Cilt Dokuları
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 0xAIGOAT.exe
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bu video, yaygın 'plastik' görünümden kaçınmak için belirli anahtar kelimeler ve ışıklandırma teknikleri kullanarak gerçekçi cilt dokuları ve doğal ışıklandırmaya sahip AI görüntüleri oluşturmayı gösterir.
+
+#### Prompt
+
+```text
+Hyperrealistic extreme close-up video of a young East Asian woman's face. Showcase natural skin texture with visible pores, freckles, and subtle imperfections. Utilize dramatic cinematic lighting, with soft side light creating chiaroscuro effects and highlighting contours. Macro lens, shallow depth of field. Subject exhibits subtle blinking, slight head turns, and eye movements. Studio setting with a dark, minimalist background. Use negative prompts: no smooth skin, no glossy look, no perfection.
+```
+
+### No. 1520: Yırtıcı İçgüdü Noir Sinematik Yakın Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yağmur damlalı camdan çekilen, sürreal bir dönüşüm geçiren bir öznenin hiper-gerçekçi, sinematik yakın çekim sahnesi.
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "Predatory Instinct Noir",
+  "master_prompt": "A hyper-realistic, cinematic close-up of The Protagonist, shot through a rain-streaked antique glass pane (foreground layer). The subject is undergoing a surreal,"}
+```
+
+### No. 1521: Okul Sırasındaki Kadının Gerçekçi Fotoğrafı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sharon Riley
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir sınıfta ahşap bir sıranın üzerinde oturan, koyu kahverengi saçlı genç bir kadının detaylı gerçekçi fotoğrafı.
+
+#### Prompt
+
+```text
+A highly detailed realistic photograph of the same young woman with long wavy dark brown hair sitting casually on a wooden school desk in a classroom. She is leaning slightly forward with one hand
+```
+
+### No. 1522: Sukulent Kümesinden Çizgi Film Kaplumbağasına Dönüşüm
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Matan Cohen-Grumi
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir sukulent kümesini, sukulent kabuk pulları olan düz 2D cel-shaded bir çizgi film kaplumbağasına dönüştürmek için bir video düzenleme prompt'u.
+
+#### Prompt
+
+```text
+When the marker bloops the big round succulent cluster, it's revealed to be a giant turtle: turn it into a flat-2D cel-shaded cartoon turtle whose shell scutes ARE the succulent rosettes — and redraw those succulents in the same flat 2D
+```
+
+### No. 1523: GlobalGPT AI Platformu Tanıtımı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Choya
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Modern GlobalGPT AI platformunda gezinerek, kapsamlı sohbet, görüntü ve video oluşturma araçlarını vurgulayan dinamik bir ekran kaydı.
+
+#### Prompt
+
+```text
+A clean, modern UI screen recording of the 'GlobalGPT' website interface. The view starts on the homepage, smoothly scrolls down past 'Cutting-Edge Video & Image Models' and 'Newly Released AI Models & Features'. The user then clicks 'Models & Tools' on the sidebar, followed by a click on the 'Image' filter, scrolling to reveal 'Image Generator' and 'Image Editor' sections. Finally, the user clicks 'Video' on the sidebar, scrolling down to showcase 'Video Generator' and 'Visual Effects'. The interface features a bright white background with vibrant purple and blue accents.
+```
+
+### No. 1524: Doğal Yaşam Tarzı Fotoğraflarının Sorunsuz Kolajı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Maddox
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+iPhone 15 Pro ile çekilmiş iki doğal yaşam tarzı fotoğrafının sorunsuz bir kolajını oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A seamless collage of two candid lifestyle photographs placed directly next to each other with no borders, no frames, no gaps, no dividers. Shot casually on iPhone 15 Pro, natural light, no filters, authentic everyday
+```
+
+### No. 1525: Genç Hintli Bir Kadının Foto-Gerçekçi Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Zarif bir iç koridorda diz çökmüş genç bir Hintli kadının foto-gerçekçi portresi.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural glow
+```
+
+### No. 1526: Bir Yolculuktaki Kişinin Sinematik Görüntüsü
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Soul | AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi bir manzara üzerinde duygusal bir yolculuktaki kararlı bir kişiyi betimleyen ultra foto-gerçekçi, sinematik bir görüntü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic, cinematic image of a determined person on an emotional journey of perseverance. The scene unfolds across a realistic landscape: on one side, the person is running with strength and hope; in the middle,
+```
+
+### No. 1527: Foto-Gerçekçi Hintli Kadın Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sadie 🥀
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Zarif bir koridorda diz çökmüş genç bir Hintli kadının foto-gerçekçi portresi için bir prompt.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural
+```
+
+### No. 1528: Kendinden Emin Genç Bir Erkeğin Foto-Gerçekçi Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** FaKHaR ThInD
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+PUBG tişörtü giyen, gülümseyen 19 yaşında bir erkeğin foto-gerçekçi portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black letters across the chest, and blac
+```
+
+### No. 1529: Cadbury Çikolatalı İçecek Reklam Senaryosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** 𝐌
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir çikolatalı içecek ürünü için premium bir reklam senaryosu şablonu oluşturmak üzere bir prompt.
+
+#### Prompt
+
+```text
+TITLE:
+Cadbury 3 in 1 Chocolate Drink
+
+FORMAT:
+• Premium commercial storyboard sheet
+• Single-page portrait layout
+• Professional Swiss editorial grid
+• 3 × 4 storyboard layout (12 scenes)
+• Clean white premium paper background
+```
+
+### No. 1530: Kadın Savaş Pilotu Sinematik Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** liana
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Güneş batımındaki bir havaalanını yansıtan pilot gözlükleri takan bir kadın savaş pilotunun sinematik kompozit portresi.
+
+#### Prompt
+
+```text
+A cinematic composite portrait featuring a female fighter pilot with a short, layered brown haircut. In the foreground, a close-up shot of her face wearing aviator sunglasses that reflect a sunset airfield scene. In the background, a full-body
+```
+
+### No. 1531: Film Grain Estetiğiyle Doğal Portre Kolajı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ozair AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tutarlı bir yüzün yer aldığı, bir odada samani anların film grain estetiğiyle yakalandığı dört karelik doğal portre kolajı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
 ```
 
 Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

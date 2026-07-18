@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 1502 |
+| Tong so Prompt | 1531 |
 | So danh muc | 8 |
-| So video xem truoc | 448 |
-| Cap nhat lan cuoi | 17/07/2026 |
+| So video xem truoc | 452 |
+| Cap nhat lan cuoi | 18/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1400)
+### Twitter Community (1429)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -34836,6 +34836,597 @@ Một gợi ý để tạo ra một bức chân dung cận cảnh ấm áp, rự
 
 ```text
 Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
+```
+
+### No. 1503: Tokyo Skytree Dưới Trăng Máu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Marcio Lima 利真 マルシオ 💎
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh quay góc thấp của Tokyo Skytree vào ban đêm với bố cục trung tâm và gradient sâu.
+
+#### Prompt
+
+```text
+Low-angle shot of Tokyo Skytree at night, perfectly centered composition, deep gradient
+```
+
+### No. 1504: Prompt Nâng Cấp và Vẽ Lại Hình Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KWAGDY
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để nâng cấp và vẽ lại một minh họa hiện có trong khi vẫn giữ nguyên các yếu tố cốt lõi của nó.
+
+#### Prompt
+
+```text
+Use the uploaded image as the exact main reference. Enhance and professionally redraw the existing illustration without changing its original concept, composition, character identity, product, Arabic text, or number of camels.
+```
+
+### No. 1505: Chân Dung Thời Trang Điện Ảnh Của Một Phụ Nữ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo một loạt ảnh chân dung thời trang cao cấp có một phụ nữ Đông Á với mái tóc đen gợn sóng trên nền tường tối có kết cấu.
+
+#### Prompt
+
+```text
+A series of cinematic, high-fashion portrait photographs captures the same East Asian woman with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall.
+```
+
+### No. 1506: Prompt Chân Dung Phụ Nữ Nam Á
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt chi tiết để tạo chân dung một phụ nữ trẻ Nam Á Ấn Độ với các đặc điểm khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched"
+```
+
+### No. 1507: Prompt Chân Dung Phụ Nữ Nam Á Ấn Độ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sadie 🥀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo chân dung một phụ nữ trẻ Nam Á Ấn Độ giống với Parineeti Chopra.
+
+#### Prompt
+
+```text
+A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly
+```
+
+### No. 1508: Cận Cảnh Nhân Vật Chính Crimson Laughter Đang Cười
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh cận siêu thực, có hiệu ứng mờ chuyển động của nhân vật chính đang cười trong một xưởng làm mũ hỗn loạn được phủ nhung.
+
+#### Prompt
+
+```text
+A hyper-realistic, motion-blurred close-up of The Protagonist caught completely off-guard in a burst of genuine laughter inside a chaotic, velvet-draped millinery
+```
+
+### No. 1509: Tham Chiếu Nhận Diện Khuôn Mặt Để Tạo Hình Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Professor
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt hướng dẫn AI sử dụng hình ảnh khuôn mặt đã tải lên làm tham chiếu chính để bảo toàn nhận dạng khuôn mặt.
+
+#### Prompt
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows,
+```
+
+### No. 1510: Chân Dung Điện Ảnh Người Phụ Nữ Trên Cầu Châu Âu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Shahid Wani
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh điện ảnh chân thực về một phụ nữ trẻ mặc váy hoa hồng ngoái nhìn lại khi đi bộ qua một cây cầu cổ ở châu Âu.
+
+#### Prompt
+
+```text
+Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile
+```
+
+### No. 1511: Chân Dung Trong Studio Siêu Chân Thực Của Phụ Nữ Ấn Độ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ANKIT PATEL 🇮🇳 | AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo chân dung trong studio siêu chân thực của một phụ nữ Ấn Độ tự tin với khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+Ultra-photorealistic studio portrait of a confident Indian woman with medium warm skin tone, exact same face and identity as the reference image (keep the face 100% identical, do not alter facial
+```
+
+### No. 1512: Chân Dung Chân Thực Của Một Phụ Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo chân dung chân thực của một phụ nữ trẻ xinh đẹp với làn da trắng, đôi mắt xanh và đôi môi hồng mềm mại.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, fair skin with a natural glow, striking blue eyes with subtle eyeliner and mascara, soft pink glossy lips, high cheekbones
+```
+
+### No. 1513: Quảng Cáo Sản Phẩm Chuyên Nghiệp Với Nhiều Cảnh Quay
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Zyncria
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo quảng cáo sản phẩm chuyên nghiệp có các cảnh cận cảnh, chi tiết và ngữ cảnh sử dụng với chuyển cảnh mượt mà và âm thanh nền.
+
+#### Prompt
+
+```text
+Anuncio profesional del producto con distintas tomas: primer plano, detalle, contexto de uso. Transiciones fluidas, audio ambiente.
+```
+
+### No. 1514: Chân Dung Chuyên Nghiệp Của Người Đàn Ông Tự Tin Trên Ghế
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo một bức chân dung sạch sẽ, hiện đại về một người đàn ông ngồi trên chiếc ghế gỗ cổ điển.
+
+#### Prompt
+
+```text
+Create a professional, high-quality portrait of a clean-shaven man with a natural, confident expression, captured in a vertical format. The subject should be seated on a classic wooden chair
+```
+
+### No. 1515: Người Đàn Ông Ngoái Nhìn Qua Vai Trong Áo Blazer
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo video hoặc hình ảnh một người đàn ông ngoái nhìn lại qua vai trong khi mặc áo blazer màu trắng ngà.
+
+#### Prompt
+
+```text
+A handsome male stands positioned on the right with his back to the camera, his level shoulders perfectly centered as his head turns over his left shoulder to gaze away toward the left. He wears an off-white blazer
+```
+
+### No. 1516: Nhân Vật Phong Cách Sims Từ Ảnh Cá Nhân
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Alex Prompts
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một prompt để tạo hình ảnh theo phong cách trò chơi The Sims dựa trên một bức ảnh cá nhân.
+
+#### Prompt
+
+```text
+Based on my photo, create a photo in the style of The Sims game, character creation
+```
+
+### No. 1517: Chân dung studio của một phụ nữ mặc đồ denim
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Talia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung studio toàn thân của một phụ nữ tự tin với mái tóc dài màu nâu, mặc một bộ đồ denim sành điệu trên nền xám.
+
+#### Prompt
+
+```text
+A full-body studio portrait of a beautiful woman with long, wavy brown hair, posing confidently against a solid gray background. She is wearing a chic casual denim outfit, featuring a strapless light-blue denim corset top and matching
+```
+
+### No. 1518: Ảnh Thời trang Biên tập trong Studio của [TÊN]
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Giulia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức ảnh thời trang trong studio độ nét cao về một đối tượng tự tin đang nhìn vào máy ảnh.
+
+#### Prompt
+
+```text
+A stunning, professional studio editorial fashion photograph, in high definition, featuring [NAME] in a confident, expressive mid-shot. She looks directly into the camera with a
+```
+
+### No. 1519: Kết Cấu Da Thực tế trong Ảnh AI
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 0xAIGOAT.exe
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Video này minh họa cách tạo ra hình ảnh AI với kết cấu da thực tế và ánh sáng tự nhiên bằng cách sử dụng các từ khóa và kỹ thuật chiếu sáng cụ thể để tránh vẻ ngoài 'nhựa' phổ biến.
+
+#### Prompt
+
+```text
+Hyperrealistic extreme close-up video of a young East Asian woman's face. Showcase natural skin texture with visible pores, freckles, and subtle imperfections. Utilize dramatic cinematic lighting, with soft side light creating chiaroscuro effects and highlighting contours. Macro lens, shallow depth of field. Subject exhibits subtle blinking, slight head turns, and eye movements. Studio setting with a dark, minimalist background. Use negative prompts: no smooth skin, no glossy look, no perfection.
+```
+
+### No. 1520: Cảnh Cận Điện ảnh Đen Bản Năng Săn Mồi
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh quay cận cảnh siêu thực, mang tính điện ảnh xuyên qua tấm kính vệt mưa của một đối tượng đang trải qua một sự biến đổi siêu thực.
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "Predatory Instinct Noir",
+  "master_prompt": "A hyper-realistic, cinematic close-up of The Protagonist, shot through a rain-streaked antique glass pane (foreground layer). The subject is undergoing a surreal,"}
+```
+
+### No. 1521: Bức Ảnh Thực tế Người Phụ nữ Trên Bàn Học
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sharon Riley
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức ảnh thực tế chi tiết về một phụ nữ trẻ với mái tóc nâu sẫm ngồi trên một chiếc bàn gỗ trong lớp học.
+
+#### Prompt
+
+```text
+A highly detailed realistic photograph of the same young woman with long wavy dark brown hair sitting casually on a wooden school desk in a classroom. She is leaning slightly forward with one hand
+```
+
+### No. 1522: Chuyển Đổi Cụm Sen Đá thành Rùa Hoạt Hình
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Matan Cohen-Grumi
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để chỉnh sửa video, biến đổi một cụm sen đá thành một chú rùa hoạt hình 2D phẳng với kiểu tô màu cel-shading và các tấm mai làm từ sen đá.
+
+#### Prompt
+
+```text
+When the marker bloops the big round succulent cluster, it's revealed to be a giant turtle: turn it into a flat-2D cel-shaded cartoon turtle whose shell scutes ARE the succulent rosettes — and redraw those succulents in the same flat 2D
+```
+
+### No. 1523: Trình diễn Nền tảng AI GlobalGPT
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Choya
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một đoạn ghi màn hình năng động điều hướng qua nền tảng AI GlobalGPT hiện đại, làm nổi bật loạt công cụ trò chuyện, tạo hình ảnh và video phong phú của nó.
+
+#### Prompt
+
+```text
+A clean, modern UI screen recording of the 'GlobalGPT' website interface. The view starts on the homepage, smoothly scrolls down past 'Cutting-Edge Video & Image Models' and 'Newly Released AI Models & Features'. The user then clicks 'Models & Tools' on the sidebar, followed by a click on the 'Image' filter, scrolling to reveal 'Image Generator' and 'Image Editor' sections. Finally, the user clicks 'Video' on the sidebar, scrolling down to showcase 'Video Generator' and 'Visual Effects'. The interface features a bright white background with vibrant purple and blue accents.
+```
+
+### No. 1524: Ảnh Ghép Liền Mạch của Các Bức Ảnh Đời Sống Tự Nhiên
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Maddox
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức ảnh ghép liền mạch gồm hai bức ảnh đời sống tự nhiên được chụp bằng iPhone 15 Pro.
+
+#### Prompt
+
+```text
+A seamless collage of two candid lifestyle photographs placed directly next to each other with no borders, no frames, no gaps, no dividers. Shot casually on iPhone 15 Pro, natural light, no filters, authentic everyday
+```
+
+### No. 1525: Chân dung siêu thực của một phụ nữ trẻ Ấn Độ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung siêu thực về một phụ nữ trẻ Ấn Độ đang quỳ gối trong một hành lang trong nhà thanh lịch.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural glow
+```
+
+### No. 1526: Hình ảnh Điện ảnh về Một Người Trên Hành Trình
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Soul | AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một hình ảnh siêu thực, mang tính điện ảnh mô tả một người quyết tâm trên hành trình đầy cảm xúc băng qua một cảnh quan chân thực.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic, cinematic image of a determined person on an emotional journey of perseverance. The scene unfolds across a realistic landscape: on one side, the person is running with strength and hope; in the middle,
+```
+
+### No. 1527: Chân dung Siêu thực Người Phụ nữ Ấn Độ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sadie 🥀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một bức chân dung siêu thực về một phụ nữ trẻ Ấn Độ đang quỳ gối trong một hành lang thanh lịch.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural
+```
+
+### No. 1528: Chân dung siêu thực của một chàng trai trẻ tự tin
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** FaKHaR ThInD
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung siêu thực về một chàng trai 19 tuổi tươi cười mặc áo phông PUBG.
+
+#### Prompt
+
+```text
+A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black letters across the chest, and blac
+```
+
+### No. 1529: Bảng Phân Cảnh Quảng Cáo Đồ Uống Sô-cô-la Cadbury
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝐌
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra bố cục bảng phân cảnh quảng cáo cao cấp cho một sản phẩm đồ uống sô-cô-la.
+
+#### Prompt
+
+```text
+TITLE:
+Cadbury 3 in 1 Chocolate Drink
+
+FORMAT:
+• Premium commercial storyboard sheet
+• Single-page portrait layout
+• Professional Swiss editorial grid
+• 3 × 4 storyboard layout (12 scenes)
+• Clean white premium paper background
+```
+
+### No. 1530: Chân dung điện ảnh nữ phi công chiến đấu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** liana
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung tổng hợp mang tính điện ảnh về một nữ phi công chiến đấu đeo kính phi công phản chiếu cảnh hoàng hôn trên đường băng.
+
+#### Prompt
+
+```text
+A cinematic composite portrait featuring a female fighter pilot with a short, layered brown haircut. In the foreground, a close-up shot of her face wearing aviator sunglasses that reflect a sunset airfield scene. In the background, a full-body
+```
+
+### No. 1531: Bộ Ảnh Chân Dung Tự Nhiên với Hiệu Ứng Hạt Phim
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bộ ảnh ghép bốn ô gồm các chân dung đời thường với cùng một khuôn mặt, ghi lại những khoảnh khắc tự nhiên trong một căn phòng với phong cách thẩm mỹ hạt phim.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

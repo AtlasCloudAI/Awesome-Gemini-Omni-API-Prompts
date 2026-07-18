@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1502 |
+| 総プロンプト数 | 1531 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 448 |
-| 最終更新 | 2026/07/17 |
+| プレビュー動画数 | 452 |
+| 最終更新 | 2026/07/18 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1400)
+### Twitter Community (1429)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -34836,6 +34836,597 @@ Create an ultra-realistic luxury beauty editorial portrait of a confident young 
 
 ```text
 Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
+```
+
+### No. 1503: ブラッドムーンに照らされる東京スカイツリー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marcio Lima 利真 マルシオ 💎
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ブラッドムーン（血のように赤い月）の下、夜の東京スカイツリーをローアングルで捉え、中央構図と深いグラデーションで表現したショットを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Low-angle shot of Tokyo Skytree at night, perfectly centered composition, deep gradient
+```
+
+### No. 1504: 画像の強化と再描画プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KWAGDY
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+既存のイラストの核心的要素を保持しつつ、強化と再描画を行うためのプロンプトです。
+
+#### プロンプト
+
+```text
+Use the uploaded image as the exact main reference. Enhance and professionally redraw the existing illustration without changing its original concept, composition, character identity, product, Arabic text, or number of camels.
+```
+
+### No. 1505: 女性のシネマティックなファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ダークでテクスチャのある壁を背景に、黒いウェーブヘアの東アジア系女性をフィーチャーした、一連のハイファッションなポートレート写真を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A series of cinematic, high-fashion portrait photographs captures the same East Asian woman with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall.
+```
+
+### No. 1506: 南アジア系女性のポートレートプロンプト（詳細指定）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔の特徴を持つ、若い南アジア系インド人女性のポートレートを生成するための詳細なプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched"
+```
+
+### No. 1507: 南アジア系インド人女性のポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sadie 🥀
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+パリニーティ・チョープラに似た、若い南アジア系インド人女性のポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly
+```
+
+### No. 1508: 主人公の深紅の笑い（クローズアップ・モーションブラー）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ベルベットのカーテンがかかった混沌とした帽子店で、主人公が笑う、ハイパーリアルでモーションブラーのかかったクローズアップショットを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A hyper-realistic, motion-blurred close-up of The Protagonist caught completely off-guard in a burst of genuine laughter inside a chaotic, velvet-draped millinery
+```
+
+### No. 1509: 画像生成のための顔の同一性保持リファレンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Professor
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+アップロードされた顔画像を、顔の同一性を保持するための主要なリファレンスとして使用するようAIに指示するプロンプトです。
+
+#### プロンプト
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows,
+```
+
+### No. 1510: ヨーロッパの橋を歩く女性のシネマティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Shahid Wani
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ピンクの花柄ドレスを着た若い女性が、古いヨーロッパの橋を渡りながら振り返る、写真のようにリアルで映画的なシーンを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile
+```
+
+### No. 1511: インド人女性の超フォトリアリスティックなスタジオポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔立ちを持つ、自信に満ちたインド人女性の、超高精細なスタジオポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-photorealistic studio portrait of a confident Indian woman with medium warm skin tone, exact same face and identity as the reference image (keep the face 100% identical, do not alter facial
+```
+
+### No. 1512: 若い女性のフォトリアリスティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+白い肌、青い瞳、柔らかいピンクの唇を持つ美しい若い女性の、写真のようにリアルなポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, fair skin with a natural glow, striking blue eyes with subtle eyeliner and mascara, soft pink glossy lips, high cheekbones
+```
+
+### No. 1513: 複数ショットを用いたプロフェッショナルな製品広告
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zyncria
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+クローズアップ、ディテールショット、使用シーンをスムーズなトランジションと環境音で組み合わせた、プロフェッショナルな製品広告を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Anuncio profesional del producto con distintas tomas: primer plano, detalle, contexto de uso. Transiciones fluidas, audio ambiente.
+```
+
+### No. 1514: クラシックな木製椅子に座る自信に満ちた男性のプロフェッショナルポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+クラシックな木製椅子に座る男性の、クリーンでモダンなポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a professional, high-quality portrait of a clean-shaven man with a natural, confident expression, captured in a vertical format. The subject should be seated on a classic wooden chair
+```
+
+### No. 1515: オフホワイトのブレザーを着た男性の振り返りショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+オフホワイトのブレザーを着た男性が肩越しに振り返る様子の動画または画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A handsome male stands positioned on the right with his back to the camera, his level shoulders perfectly centered as his head turns over his left shoulder to gaze away toward the left. He wears an off-white blazer
+```
+
+### No. 1516: 写真からのシムズ風キャラクター生成
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+個人写真を基に、ゲーム『The Sims』のスタイルで画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Based on my photo, create a photo in the style of The Sims game, character creation
+```
+
+### No. 1517: デニムを着た女性のスタジオポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Talia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+グレーの背景を前に、シックなデニムの衣装を着た、長い茶髪の自信に満ちた女性の全身スタジオポートレート。
+
+#### プロンプト
+
+```text
+A full-body studio portrait of a beautiful woman with long, wavy brown hair, posing confidently against a solid gray background. She is wearing a chic casual denim outfit, featuring a strapless light-blue denim corset top and matching
+```
+
+### No. 1518: [名前]のスタジオ・エディトリアル・ファッションフォト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カメラを見つめる自信に満ちた被写体の、高解像度なスタジオファッション写真を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A stunning, professional studio editorial fashion photograph, in high definition, featuring [NAME] in a confident, expressive mid-shot. She looks directly into the camera with a
+```
+
+### No. 1519: リアルなAI肌の質感
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 0xAIGOAT.exe
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+この動画は、特定のキーワードとライティング技法を用いて、AI画像にリアルな肌の質感と自然な照明を生成し、ありがちな「プラスチック」感を回避する方法を実演します。
+
+#### プロンプト
+
+```text
+Hyperrealistic extreme close-up video of a young East Asian woman's face. Showcase natural skin texture with visible pores, freckles, and subtle imperfections. Utilize dramatic cinematic lighting, with soft side light creating chiaroscuro effects and highlighting contours. Macro lens, shallow depth of field. Subject exhibits subtle blinking, slight head turns, and eye movements. Studio setting with a dark, minimalist background. Use negative prompts: no smooth skin, no glossy look, no perfection.
+```
+
+### No. 1520: 捕食本能のノワール・シネマティッククローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+雨の滴るガラス越しに捉えた、超現実的な変容を遂げる被写体の、ハイパーリアルで映画的なクローズアップショット。
+
+#### プロンプト
+
+```text
+{
+  "vibe_title_en": "Predatory Instinct Noir",
+  "master_prompt": "A hyper-realistic, cinematic close-up of The Protagonist, shot through a rain-streaked antique glass pane (foreground layer). The subject is undergoing a surreal,"}
+```
+
+### No. 1521: 学校の机に座る女性のリアルな写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sharon Riley
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+教室の木製の机に座る、ダークブラウンの髪をした若い女性の、詳細でリアルな写真。
+
+#### プロンプト
+
+```text
+A highly detailed realistic photograph of the same young woman with long wavy dark brown hair sitting casually on a wooden school desk in a classroom. She is leaning slightly forward with one hand
+```
+
+### No. 1522: 多肉植物の群れからカートゥーンカメへの変身
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Matan Cohen-Grumi
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+多肉植物の群れを、平らな2Dセルシェーディングのカートゥーンカメ（甲羅の鱗板は多肉植物風）に変身させる動画編集のためのプロンプト。
+
+#### プロンプト
+
+```text
+When the marker bloops the big round succulent cluster, it's revealed to be a giant turtle: turn it into a flat-2D cel-shaded cartoon turtle whose shell scutes ARE the succulent rosettes — and redraw those succulents in the same flat 2D
+```
+
+### No. 1523: GlobalGPT AIプラットフォームのショーケース
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Choya
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+モダンなGlobalGPT AIプラットフォームをナビゲートする動的な画面録画。チャット、画像、動画生成など幅広いツールを紹介します。
+
+#### プロンプト
+
+```text
+A clean, modern UI screen recording of the 'GlobalGPT' website interface. The view starts on the homepage, smoothly scrolls down past 'Cutting-Edge Video & Image Models' and 'Newly Released AI Models & Features'. The user then clicks 'Models & Tools' on the sidebar, followed by a click on the 'Image' filter, scrolling to reveal 'Image Generator' and 'Image Editor' sections. Finally, the user clicks 'Video' on the sidebar, scrolling down to showcase 'Video Generator' and 'Visual Effects'. The interface features a bright white background with vibrant purple and blue accents.
+```
+
+### No. 1524: 自然なライフスタイル写真のシームレスコラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+iPhone 15 Proで撮影された2枚の自然なライフスタイル写真を、シームレスにコラージュするためのプロンプト。
+
+#### プロンプト
+
+```text
+A seamless collage of two candid lifestyle photographs placed directly next to each other with no borders, no frames, no gaps, no dividers. Shot casually on iPhone 15 Pro, natural light, no filters, authentic everyday
+```
+
+### No. 1525: 若いインド人女性のフォトリアリスティックな肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+優雅な屋内ホールでひざまずく若いインド人女性の、写真のようにリアルな肖像画。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural glow
+```
+
+### No. 1526: 旅路にある人物のシネマティックな画像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Soul | AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+リアルな風景を横断する、決意に満ちた人物の感情的な旅路を描いた、超高精細で映画的な画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create an ultra-photorealistic, cinematic image of a determined person on an emotional journey of perseverance. The scene unfolds across a realistic landscape: on one side, the person is running with strength and hope; in the middle,
+```
+
+### No. 1527: フォトリアリスティックなインド人女性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sadie 🥀
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+優雅なホールでひざまずく若いインド人女性の、写真のようにリアルな肖像画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural
+```
+
+### No. 1528: 自信に満ちた若い男性のフォトリアリスティックな肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** FaKHaR ThInD
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+PUBGのTシャツを着て微笑む19歳の男性の、写真のようにリアルな肖像画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black letters across the chest, and blac
+```
+
+### No. 1529: キャドバリーチョコレートドリンクCM用ストーリーボード
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝐌
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+チョコレートドリンク製品のプレミアムなCMストーリーボードレイアウトを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+TITLE:
+Cadbury 3 in 1 Chocolate Drink
+
+FORMAT:
+• Premium commercial storyboard sheet
+• Single-page portrait layout
+• Professional Swiss editorial grid
+• 3 × 4 storyboard layout (12 scenes)
+• Clean white premium paper background
+```
+
+### No. 1530: 女性戦闘機パイロットのシネマティックポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** liana
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+サングラスに夕焼けの飛行場が映る女性戦闘機パイロットの、映画的な合成ポートレート。
+
+#### プロンプト
+
+```text
+A cinematic composite portrait featuring a female fighter pilot with a short, layered brown haircut. In the foreground, a close-up shot of her face wearing aviator sunglasses that reflect a sunset airfield scene. In the background, a full-body
+```
+
+### No. 1531: フィルムグレインのカジュアルポートレートコラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+一貫した顔を持つカジュアルなポートレートを4コマのコラージュで生成するためのプロンプト。室内での自然な瞬間を、フィルムグレインの美学で捉えます。
+
+#### プロンプト
+
+```text
+Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

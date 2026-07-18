@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1502%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Une collection de prompts Gemini Omni avec apercus video OSS integres.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Mesure | Nombre |
 | --- | ---: |
-| Nombre Total de Prompts | 1502 |
+| Nombre Total de Prompts | 1531 |
 | Categories | 11 |
-| Videos d'Apercu | 448 |
-| Derniere Mise a Jour | 17/07/2026 |
+| Videos d'Apercu | 452 |
+| Derniere Mise a Jour | 18/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Plan 1 (8 secondes) Un puissant personnage féminin. Plan large cinématographiq
 
 <a id="category-11"></a>
 
-### Twitter Community (1400)
+### Twitter Community (1429)
 
 ### No. 103: Portrait éditorial romantique en pleine nature
 
@@ -34851,6 +34851,597 @@ Une consigne pour générer un portrait rapproché chaleureux et lumineux avec u
 
 ```text
 Use the exact same face from the reference image and generate the most intimately detailed skin portrait — a warm glowing close-up where one finger gently rests against one cheek and a genuine
+```
+
+### No. 1503: Tokyo Skytree sous une lune de sang
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Marcio Lima 利真 マルシオ 💎
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un plan en contre-plongée de Tokyo Skytree la nuit, avec une composition centrée et un dégradé profond.
+
+#### Prompt
+
+```text
+Low-angle shot of Tokyo Skytree at night, perfectly centered composition, deep gradient
+```
+
+### No. 1504: Instruction d'amélioration et de redessin d'image
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** KWAGDY
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour améliorer et redessiner une illustration existante tout en préservant ses éléments principaux.
+
+#### Prompt
+
+```text
+Use the uploaded image as the exact main reference. Enhance and professionally redraw the existing illustration without changing its original concept, composition, character identity, product, Arabic text, or number of camels.
+```
+
+### No. 1505: Portraits de mode cinématographiques d'une femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Minahil
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer une série de photographies de portrait haute couture mettant en scène une femme est-asiatique aux cheveux foncés ondulés, devant un mur texturé sombre.
+
+#### Prompt
+
+```text
+A series of cinematic, high-fashion portrait photographs captures the same East Asian woman with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall.
+```
+
+### No. 1506: Instruction pour portrait d'une femme d'Asie du Sud
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glowecho
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction détaillée pour générer un portrait d'une jeune femme indienne d'Asie du Sud avec des traits faciaux spécifiques.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched"
+```
+
+### No. 1507: Instruction pour portrait d'une femme indienne d'Asie du Sud
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sadie 🥀
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer un portrait d'une jeune femme indienne d'Asie du Sud ressemblant à Parineeti Chopra.
+
+#### Prompt
+
+```text
+A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly
+```
+
+### No. 1508: Gros plan du protagoniste de Crimson Laughter en train de rire
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** timedoctor.eth
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un gros plan hyper-réaliste avec flou de mouvement d'un protagoniste riant dans une chapellerie chaotique drapée de velours.
+
+#### Prompt
+
+```text
+A hyper-realistic, motion-blurred close-up of The Protagonist caught completely off-guard in a burst of genuine laughter inside a chaotic, velvet-draped millinery
+```
+
+### No. 1509: Référence d'identité faciale pour génération d'image
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Professor
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction demandant à une IA d'utiliser une image de visage téléchargée comme référence principale pour préserver l'identité faciale.
+
+#### Prompt
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows,
+```
+
+### No. 1510: Portrait cinématographique d'une femme sur un pont européen
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Shahid Wani
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une scène cinématographique photoréaliste d'une jeune femme en robe florale rose qui se retourne en marchant sur un vieux pont européen.
+
+#### Prompt
+
+```text
+Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile
+```
+
+### No. 1511: Portrait studio photoréaliste d'une femme indienne
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** ANKIT PATEL 🇮🇳 | AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer un portrait studio ultra-photoréaliste d'une femme indienne confiante avec un visage spécifique.
+
+#### Prompt
+
+```text
+Ultra-photorealistic studio portrait of a confident Indian woman with medium warm skin tone, exact same face and identity as the reference image (keep the face 100% identical, do not alter facial
+```
+
+### No. 1512: Portrait photoréaliste d'une jeune femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glowecho
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer un portrait photoréaliste d'une belle jeune femme à la peau claire, aux yeux bleus et aux lèvres rose doux.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, fair skin with a natural glow, striking blue eyes with subtle eyeliner and mascara, soft pink glossy lips, high cheekbones
+```
+
+### No. 1513: Publicité produit professionnelle avec plans multiples
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Zyncria
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour créer une publicité produit professionnelle présentant des gros plans, des plans de détail et un contexte d'utilisation, avec des transitions fluides et une ambiance sonore.
+
+#### Prompt
+
+```text
+Anuncio profesional del producto con distintas tomas: primer plano, detalle, contexto de uso. Transiciones fluidas, audio ambiente.
+```
+
+### No. 1514: Portrait professionnel d'un homme confiant sur une chaise
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Minahil
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer un portrait propre et moderne d'un homme assis sur une chaise en bois classique.
+
+#### Prompt
+
+```text
+Create a professional, high-quality portrait of a clean-shaven man with a natural, confident expression, captured in a vertical format. The subject should be seated on a classic wooden chair
+```
+
+### No. 1515: Homme regardant par-dessus son épaule en blazer
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Picts by AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer une vidéo ou une image d'un homme regardant en arrière par-dessus son épaule, portant un blazer blanc cassé.
+
+#### Prompt
+
+```text
+A handsome male stands positioned on the right with his back to the camera, his level shoulders perfectly centered as his head turns over his left shoulder to gaze away toward the left. He wears an off-white blazer
+```
+
+### No. 1516: Personnage de style Sims à partir d'une photo
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alex Prompts
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078162243158446242.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une instruction pour générer une image dans le style du jeu Les Sims à partir d'une photo personnelle.
+
+#### Prompt
+
+```text
+Based on my photo, create a photo in the style of The Sims game, character creation
+```
+
+### No. 1517: Portrait en studio d'une femme en jean
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Talia
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait en studio en pied d'une femme confiante aux cheveux longs bruns, portant une tenue chic en jean sur fond gris.
+
+#### Prompt
+
+```text
+A full-body studio portrait of a beautiful woman with long, wavy brown hair, posing confidently against a solid gray background. She is wearing a chic casual denim outfit, featuring a strapless light-blue denim corset top and matching
+```
+
+### No. 1518: Photo de mode éditoriale en studio de [NOM]
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Giulia
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une photographie de mode en studio haute définition d'un sujet confiant regardant la caméra.
+
+#### Prompt
+
+```text
+A stunning, professional studio editorial fashion photograph, in high definition, featuring [NAME] in a confident, expressive mid-shot. She looks directly into the camera with a
+```
+
+### No. 1519: Textures de peau réalistes en IA
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** 0xAIGOAT.exe
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078178670100062566.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Cette vidéo démontre comment générer des images IA avec des textures de peau réalistes et un éclairage naturel en utilisant des mots-clés spécifiques et des techniques d'éclairage pour éviter l'apparence 'plastique' courante.
+
+#### Prompt
+
+```text
+Hyperrealistic extreme close-up video of a young East Asian woman's face. Showcase natural skin texture with visible pores, freckles, and subtle imperfections. Utilize dramatic cinematic lighting, with soft side light creating chiaroscuro effects and highlighting contours. Macro lens, shallow depth of field. Subject exhibits subtle blinking, slight head turns, and eye movements. Studio setting with a dark, minimalist background. Use negative prompts: no smooth skin, no glossy look, no perfection.
+```
+
+### No. 1520: Gros plan cinématographique noir de l'instinct prédateur
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** timedoctor.eth
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un gros plan hyper-réaliste et cinématographique à travers une vitre striée de pluie, montrant un sujet subissant une transformation surréaliste.
+
+#### Prompt
+
+```text
+{
+  "vibe_title_en": "Predatory Instinct Noir",
+  "master_prompt": "A hyper-realistic, cinematic close-up of The Protagonist, shot through a rain-streaked antique glass pane (foreground layer). The subject is undergoing a surreal,"}
+```
+
+### No. 1521: Photographie réaliste d'une femme sur un bureau d'école
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sharon Riley
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une photographie réaliste détaillée d'une jeune femme aux cheveux brun foncé assise sur un bureau en bois dans une salle de classe.
+
+#### Prompt
+
+```text
+A highly detailed realistic photograph of the same young woman with long wavy dark brown hair sitting casually on a wooden school desk in a classroom. She is leaning slightly forward with one hand
+```
+
+### No. 1522: Transformation d'un groupe de succulentes en tortue de dessin animé
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Matan Cohen-Grumi
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour éditer une vidéo, transformant un groupe de succulentes en une tortue de dessin animé en 2D avec un rendu cel-shading et des écailles de carapace en forme de succulentes.
+
+#### Prompt
+
+```text
+When the marker bloops the big round succulent cluster, it's revealed to be a giant turtle: turn it into a flat-2D cel-shaded cartoon turtle whose shell scutes ARE the succulent rosettes — and redraw those succulents in the same flat 2D
+```
+
+### No. 1523: Présentation de la plateforme IA GlobalGPT
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Choya
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078253330904867207.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un enregistrement d'écran dynamique naviguant sur la plateforme IA moderne GlobalGPT, mettant en avant sa vaste gamme d'outils de génération de chat, d'images et de vidéos.
+
+#### Prompt
+
+```text
+A clean, modern UI screen recording of the 'GlobalGPT' website interface. The view starts on the homepage, smoothly scrolls down past 'Cutting-Edge Video & Image Models' and 'Newly Released AI Models & Features'. The user then clicks 'Models & Tools' on the sidebar, followed by a click on the 'Image' filter, scrolling to reveal 'Image Generator' and 'Image Editor' sections. Finally, the user clicks 'Video' on the sidebar, scrolling down to showcase 'Video Generator' and 'Visual Effects'. The interface features a bright white background with vibrant purple and blue accents.
+```
+
+### No. 1524: Collage homogène de photos de style de vie spontanées
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Maddox
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour créer un collage homogène de deux photographies de style de vie spontanées prises sur un iPhone 15 Pro.
+
+#### Prompt
+
+```text
+A seamless collage of two candid lifestyle photographs placed directly next to each other with no borders, no frames, no gaps, no dividers. Shot casually on iPhone 15 Pro, natural light, no filters, authentic everyday
+```
+
+### No. 1525: Portrait photoréaliste d'une jeune femme indienne
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glowecho
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait photoréaliste d'une jeune femme indienne agenouillée dans un couloir intérieur élégant.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural glow
+```
+
+### No. 1526: Image cinématographique d'une personne en voyage
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Soul | AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une image ultra-photoréaliste et cinématographique représentant une personne déterminée lors d'un voyage émotionnel à travers un paysage réaliste.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic, cinematic image of a determined person on an emotional journey of perseverance. The scene unfolds across a realistic landscape: on one side, the person is running with strength and hope; in the middle,
+```
+
+### No. 1527: Portrait photoréaliste d'une femme indienne
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sadie 🥀
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour un portrait photoréaliste d'une jeune femme indienne agenouillée dans un couloir élégant.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, kneeling gracefully on a polished speckled granite floor in an elegant indoor hallway. She has smooth fair-to-light brown skin with a natural
+```
+
+### No. 1528: Portrait photoréaliste d'un jeune homme confiant
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** FaKHaR ThInD
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer un portrait photoréaliste d'un homme souriant de 19 ans portant un t-shirt PUBG.
+
+#### Prompt
+
+```text
+A high-quality, photorealistic portrait of a confident 19 years young smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "PUBG" printed in bold black letters across the chest, and blac
+```
+
+### No. 1529: Storyboard publicitaire pour boisson chocolatée Cadbury
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** 𝐌
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078315376660939132.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer une mise en page de storyboard publicitaire premium pour un produit de boisson chocolatée.
+
+#### Prompt
+
+```text
+TITLE:
+Cadbury 3 in 1 Chocolate Drink
+
+FORMAT:
+• Premium commercial storyboard sheet
+• Single-page portrait layout
+• Professional Swiss editorial grid
+• 3 × 4 storyboard layout (12 scenes)
+• Clean white premium paper background
+```
+
+### No. 1530: Portrait cinématographique d'une pilote de chasse
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** liana
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait composite cinématographique d'une pilote de chasse portant des lunettes d'aviateur reflétant un terrain d'aviation au coucher du soleil.
+
+#### Prompt
+
+```text
+A cinematic composite portrait featuring a female fighter pilot with a short, layered brown haircut. In the foreground, a close-up shot of her face wearing aviator sunglasses that reflect a sunset airfield scene. In the background, a full-body
+```
+
+### No. 1531: Collage de portraits spontanés avec grain argentique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ozair AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un prompt pour générer un collage en quatre cases de portraits décontractés avec un visage cohérent, capturant des moments spontanés dans une pièce avec une esthétique de grain de film.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
 ```
 
 Ce README est genere automatiquement depuis `data/prompts_by_locale`.

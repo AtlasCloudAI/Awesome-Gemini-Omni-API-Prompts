@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1570%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1531 |
+| พรอมต์ทั้งหมด | 1570 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 452 |
-| อัปเดตล่าสุด | 18/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 455 |
+| อัปเดตล่าสุด | 19/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1429)
+### Twitter Community (1468)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -35427,6 +35427,823 @@ A cinematic composite portrait featuring a female fighter pilot with a short, la
 
 ```text
 Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
+```
+
+### No. 1532: ภาพระยะใกล้สมจริงสไตล์มือสมัครเล่นกลางแจ้งด้วย iPhone
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับภาพถ่ายระยะใกล้สมจริงสไตล์มือสมัครเล่น ถ่ายกลางแจ้งด้วย iPhone
+
+#### พรอมต์
+
+```text
+Masterpiece realistic amateur close-up outdoor iphone
+```
+
+### No. 1533: เซลฟีมุมมองจากบนลงล่างด้วยเครื่องสำอางสไตล์ Douyin แบบแท้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Simply Ray
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพเซลฟีบุคคลมุมมองจากบนลงล่างที่มีความสมมาตรของใบหน้าแบบสมบูรณ์และสุนทรียภาพเครื่องสำอางแบบเยาวชนสไตล์ Douyin
+
+#### พรอมต์
+
+```text
+Don't change her face original—100% authentic with perfect facial symmetry. She should have a youthful, feminine appearance. Create a captivating, intimate top-down portrait selfie inspired by the popular Douyin makeup aesthetic, featuring a
+```
+
+### No. 1534: ภาพประกอบบุคคลแนวคิวบิสม์ด้วยรูปทรงเรขาคณิตโดดเด่น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** zayan
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพบุคคลแนวคิวบิสม์ที่มีระนาบสีรูปหลายเหลี่ยมที่แตกแยกและรูปทรงมุมแหลมในสไตล์ป็อปอาร์ตสมัยใหม่
+
+#### พรอมต์
+
+```text
+A bold geometric cubist portrait illustration with fragmented polygonal color planes and faceted angular shapes, inspired by modern pop-art and abstract expressionism. Dynamic digital painting
+```
+
+### No. 1535: ภาพบุคคลระยะใกล้ของหญิงสาวที่มีผิวกระจก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Anissa
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายเพื่อแปลงภาพถ่ายให้เป็นภาพบุคคลระยะใกล้ของหญิงสาวสวยที่มีผิวขาวซีด เปล่งปลั่ง คล้ายกระจก
+
+#### พรอมต์
+
+```text
+Transform the photo into a close-up portrait of a beautiful young woman with pale white skin, a perfectly symmetrical face, and an exceptionally bright, smooth, glowing complexion with a glass skin effect, especially on the bridge of her nose
+```
+
+### No. 1536: AI อนุมานสูตรนำเข้าสำหรับอินโฟกราฟิก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078475123519328579.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078475123519328579.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+สูตรคำอธิบายสำหรับสร้างอินโฟกราฟิกตามปรากฏการณ์ ช่วงเวลา มิติข้อมูล และกลุ่มผู้ชม
+
+#### พรอมต์
+
+```text
+ai infers: input ::= phenomenon + time_span + data_dimension + audience
+```
+
+### No. 1537: ภาพบุคคลในป่าฤดูใบไม้ร่วงอันหม่นหมองบนสะพาน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ahmad Faraz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลแบบภาพยนตร์ของชายหนุ่มบนสะพานในป่าที่มีหมอกหนา ด้านข้าง
+
+#### พรอมต์
+
+```text
+A moody cinematic outdoor lifestyle portrait of a young male figure standing on a weathered wooden footbridge in a misty autumn forest, captured in full side profile. One foot is propped up on the wooden railing while the other remains grounded, body
+```
+
+### No. 1538: ภาพเหมือนสมจริงของหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายโดยละเอียดสำหรับสร้างภาพเหมือนสมจริงของหญิงสาวอินเดียที่มีลักษณะใบหน้าและเครื่องสำอางเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+A stunning photorealistic portrait of a beautiful young Indian woman in her mid-20s, sharp facial features, high cheekbones, full lips with glossy nude-pink lipstick, expressive dark brown eyes with perfect eyeliner and subtle
+```
+
+### No. 1539: ภาพบุคคลระยะใกล้บนหน้าจอกล้อง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างภาพยนตร์ที่แสดงภาพบุคคลบนหน้าจอของกล้องดิจิทัลขนาดกะทัดรัด
+
+#### พรอมต์
+
+```text
+Use facial features of [ATTACHED PHOTO].
+
+A close-up shot of a [woman / man] displayed on the screen 
+of a compact Canon digital camera. The camera body surrounds 
+the image with its buttons, dials, and textured surface
+```
+
+### No. 1540: งานศิลปะนามธรรมแบบเรียบง่ายด้วยเทคนิคของเหลว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** enepty
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ชิ้นงานศิลปะนามธรรมด้วยเทคนิคของเหลวที่มีสายน้ำสีน้ำเงินเข้มและรอยกระเซ็นบนพื้นหลังสีขาว
+
+#### พรอมต์
+
+```text
+A minimalist and expressive abstract fluid artwork on a pristine pure white background. The composition is created entirely from elegant, flowing streams and dynamic splashes of deep dark blue liquid
+```
+
+### No. 1541: ภาพระยะใกล้สุดสมจริงของการหักเหของเหลว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพระยะใกล้สุดสมจริงของใบหน้าที่สะท้อนอยู่ในน้ำที่หกบนโต๊ะหินชนวน
+
+#### พรอมต์
+
+```text
+A hyper-realistic, avant-garde close-up photography shot reflecting The Protagonist's face in a pool of dark, spilled water on a textured slate table inside a humid
+```
+
+### No. 1542: ตารางไดโอรามาดินเหนียวสีลูกกวาดจากภาพยนตร์เอเลี่ยน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Gadgetify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์เพื่อสร้างตารางภาพ 2x2 ของฉากไดโอรามาดินเหนียวสีลูกกวาดที่แสดงภาพยนตร์ฮอลลีวูดเกี่ยวกับเอเลี่ยนในสไตล์สเก็ตช์ป๊อป
+
+#### พรอมต์
+
+```text
+2x2 grid, 16:9, do this for alien holloywood movies in this Style  = { <candy_sketch_pop_world> MEDIUM: Candy-colored clay diorama fused with energetic pencil doodle illustration and graphic
+```
+
+### No. 1543: พรอมต์ภาพเหมือนหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ JSON ที่อธิบายลักษณะใบหน้าและรูปลักษณ์ของหญิงสาวชาวอินเดีย
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A young Indian woman in her mid-20s with South Asian features, fair to medium skin tone with a warm glow, sharp jawline, full lips with matte pink lipstick, defined eyebrows, subtle eye"
+```
+
+### No. 1544: ภาพถ่ายสินค้าขนาดจิ๋วน่ารักระดับไฮเอนด์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Amira Zairi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพถ่ายสินค้ามินิเจอร์ด้วยสุนทรียภาพการโฆษณาระดับไฮเอนด์
+
+#### พรอมต์
+
+```text
+Create tiny, adorable product shots that look like high-end ads
+```
+
+### No. 1545: อลิซาเบธ โอลเซน ที่สนามเทนนิสข้างคอร์ต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอของอลิซาเบธ โอลเซน และคนอื่นๆ ที่การแข่งขันเทนนิส
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "description": "A beautiful elizabeth olsen with fair skin, short sleek"
+```
+
+### No. 1546: ทางแยกทางหลวงไซเบอร์พังก์ในสไตล์ศิลปะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** sayobonita
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างทางแยกทางหลวงในสไตล์ไซเบอร์พังก์เชิงศิลปะ
+
+#### พรอมต์
+
+```text
+A highway interchange in an artistic cyberpunk style.
+```
+
+### No. 1547: การนำเสนอสตอรี่บอร์ดเชิงพาณิชย์ระดับพรีเมียม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐌
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078516405251801458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078516405251801458.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสตอรี่บอร์ดหรูหน้าเดียวที่มีแปดเฟรมในรูปแบบภาพแนวตั้งอัตราส่วน 3:4
+
+#### พรอมต์
+
+```text
+TITLE: Premium Commercial Storyboard Presentation 
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+• 8 storyboard frames
+• Editorial
+```
+
+### No. 1548: ภาพเหมือนทางการของชายผู้มั่นใจ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพเหมือนทางการของชายผู้มั่นใจที่มีหนวดเคราและทรงผมที่จัดแต่งเรียบร้อย
+
+#### พรอมต์
+
+```text
+A confident male subject stands perfectly centered, facing the camera straight on with level shoulders in a static, formal pose. He features perfectly groomed stubble and meticulously styled hair with tapered sides and a
+```
+
+### No. 1549: พรอมต์ภาพ Nano Banana Pro
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glena jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่มีโครงสร้างเพื่อสั่งให้ AI สร้างภาพตามข้อมูลอ้างอิงที่อัปโหลด โดยรักษาเอกลักษณ์ของตัวแบบไว้
+
+#### พรอมต์
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "face": "Use uploaded reference image, keep identity"
+      }
+    }
+  }
+}
+```
+
+### No. 1550: ฟิกเกอร์แอคชันไฮเปอร์เรียลลิสติกจากภาพอ้างอิง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Kami AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์เพื่อเปลี่ยนภาพอ้างอิงให้เป็นฟิกเกอร์ 3D มินิเจอร์ที่มีรายละเอียด เก็บรักษาลักษณะส่วนตัวและท่าทางทั้งหมดไว้
+
+#### พรอมต์
+
+```text
+Turn the uploaded reference person into a hyper-realistic collectible action figure / 3D miniature figurine (exact facial features, hairstyle, outfit, pose preserved from photo — no changes to identity). The tiny figure is standing
+```
+
+### No. 1551: พรอมต์อ้างอิงเอกลักษณ์ใบหน้า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aatif J
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์ที่สั่งให้ AI ใช้ภาพใบหน้าที่อัปโหลดเป็นข้อมูลอ้างอิงและรักษาเอกลักษณ์ใบหน้าให้เหมือนเดิมด้วยความแม่นยำสูงสุด
+
+#### พรอมต์
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows, eyes, nose, lips
+```
+
+### No. 1552: ภาพถ่ายในสตูดิโอสุดหรูของหญิงสาวบนเก้าอี้โซฟา
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** remix.camera
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพถ่ายในสตูดิโอระดับมืออาชีพแบบเต็มตัวของหญิงสาวที่นั่งอย่างสง่างามบนเก้าอี้โซฟาหนังสมัยใหม่
+
+#### พรอมต์
+
+```text
+A full-length studio photograph with a sophisticated and professional aesthetic. It captures a female figure sitting elegantly in a modern brown leather armchair with a metal swivel base. The subject sits confidently, with her body at a slight angle, looking
+```
+
+### No. 1553: ภาพเหมือนในสตูดิโออันน่าประทับใจของชายหนุ่มรูปงาม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aatif J
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพเหมือนในสตูดิโอระดับมืออาชีพของชายหนุ่มรูปงามพร้อมแสงไฟที่สร้างบรรยากาศน่าประทับใจ
+
+#### พรอมต์
+
+```text
+Handsome studio portrait, dramatic style.
+```
+
+### No. 1554: ภาพเหมือนระยะใกล้สุดสมจริงระดับภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ayushi Srivastava
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพเหมือนระยะใกล้สุดสมจริงระดับภาพยนตร์ของหญิงสาวที่สวยงาม
+
+#### พรอมต์
+
+```text
+An ultra-realistic cinematic close-up portrait of a beautiful young woman, photographed from a
+```
+
+### No. 1555: ภาพเหมือนสีพาสเทลอ่อนของหญิงสาวที่กำลังยิ้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพแนวตั้งของหญิงสาวผมเป็นลอนและมีกระบนใบหน้า วาดด้วยสไตล์ศิลปะสีพาสเทลอ่อนนุ่ม
+
+#### พรอมต์
+
+```text
+A vertical portrait of a young woman with wavy, light brown hair and gentle freckles, captured in a soft pastel art style. She is smiling warmly while resting her chin on her hands, which are held together near her
+```
+
+### No. 1556: หญิงสาวผิวขาวที่โดนแดดและผมเปียกชื้น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AI STUFF
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งอธิบายหญิงสาวผิวขาวที่มีร่องรอยการโดนแดดให้เห็น และมีผมยาวสีน้ำตาลมัดมวยแบบระเกะระกะ
+
+#### พรอมต์
+
+```text
+{
+"subject": {
+"description": "Young woman with white skin and visible sun exposure",
+"hair": "Long straight natural brown hair, pulled back into a high, slightly messy bun, appearing damp or slicked back with some loose strands near the hairline"
+}
+```
+
+### No. 1557: ภาพบุคคลเหนือจริงของการเปลี่ยนแปลงที่เป็นของเหลว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพบุคคลแนวบรรณาธิการแบบอาวองการ์ด แสดงตัวละครหลักอยู่ในสภาวะเหนือจริงของการเปลี่ยนแปลงที่เป็นของเหลว
+
+#### พรอมต์
+
+```text
+A hyper-realistic, avant-garde editorial portrait of The Protagonist captured in a surreal state of fluid metamorphosis. The framing follows a classic three-quarter
+```
+
+### No. 1558: ภาพเซลฟี่เหมือนจริงของซิดนีย์ สวีนีย์ในชุดฟุตบอลทีมฝรั่งเศส
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sharon Riley
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพเหมือนจริงของซิดนีย์ สวีนีย์ในชุดฟุตบอลทีมชาติฝรั่งเศส ถ่ายเซลฟี่เล่นๆ จากมุมบนขณะอยู่บนเตียง
+
+#### พรอมต์
+
+```text
+A realistic portrait of Sydney Sweeney wearing a France football uniform, lying on white pillows in bed and taking a playful selfie from above. She has her natural blonde hair styled long
+```
+
+### No. 1559: ภาพถ่ายหาดทรายเขตร้อนสุดหรูสมจริงระดับสูง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพถ่ายเซลล์เบรอรีตี้ระดับไฮเอนด์ในบรรยากาศหาดทรายเขตร้อน
+
+#### พรอมต์
+
+```text
+{
+    "style": [
+    "ultra realistic luxury tropical beach photograph",
+    "high-end celebrity"
+}
+```
+
+### No. 1560: สะพานลอนดอน พระอาทิตย์ตก คืน คลื่นยักษ์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozar
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2078585848430219556.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078585848430219556.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ลำดับคำสั่งเพื่อเปลี่ยนคลิปสะพานลอนดอนตอนกลางวัน ให้เป็นตอนพระอาทิตย์ตก ตอนกลางคืน และมีคลื่นยักษ์
+
+#### พรอมต์
+
+```text
+cloudy day turned into sunset
+→ then into night
+→ a giant wave rising over the
+```
+
+### No. 1561: ภาพบุคคลของผู้หญิงจากมุมสูง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** David
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลของผู้หญิงสวยที่มองจากมุมสูง
+
+#### พรอมต์
+
+```text
+Portrait of a beautiful woman from a high vantage point.
+```
+
+### No. 1562: วัยรุ่นบนซูเปอร์คาร์หรูแห่งอนาคต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Zarlish
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพของเด็กหนุ่มวัยรุ่นที่มั่นใจในชุดสูท บนซูเปอร์คาร์แห่งอนาคตที่ได้รับแรงบันดาลใจจากบูกัตติ
+
+#### พรอมต์
+
+```text
+Luxury Has No Age
+A confident 16-year-old boy sitting on the roof of a futuristic luxury supercar (Bugatti-inspired, no logos), wearing an expensive black tailored suit, premium
+```
+
+### No. 1563: ภาพสตูดิโอของผู้หญิงที่มีสี่อารมณ์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพสตูดิโอของหญิงสาวที่มีลักษณะเฉพาะและเครื่องแต่งกาย พร้อมพื้นหลังสีแดง แสดงอารมณ์ที่แตกต่างกันสี่แบบ
+
+#### พรอมต์
+
+```text
+A studio portrait of the same beautiful young woman with long wavy dark hair, straight bangs, striking blue eyes, wearing a white graphic T-shirt, a silver necklace, and a wristwatch, against a solid red seamless background. Four different expressions:
+```
+
+### No. 1564: ภาพเหมือนสมจริงของผู้หญิงอินเดียวัยหนุ่มสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเหมือนสมจริงของผู้หญิงอินเดียวัยหนุ่มสาวที่มีลักษณะใบหน้าและโทนผิวเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, South Asian features, fair-to-medium warm skin tone with natural glow, sharp defined jawline, high cheekbones, full natural lips
+```
+
+### No. 1565: ภาพบุคคลสมจริงในสวนโดยใช้ใบหน้าอ้างอิง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลสมจริงในบรรยากาศสวน โดยใช้ใบหน้าอ้างอิงเฉพาะ
+
+#### พรอมต์
+
+```text
+Use the exact same face from the reference image and generate a portrait that looks like it was actually photographed on location by a professional photographer — every single element grounded
+```
+
+### No. 1566: ภาพเหมือนสมจริงของผู้หญิงอินเดียวัยหนุ่มสาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sadie 🥀
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเหมือนสมจริงของผู้หญิงอินเดียวัยหนุ่มสาวที่มีลักษณะใบหน้าและโทนผิวเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, South Asian features, fair-to-medium warm skin tone with natural glow, sharp defined jawline, high cheekbones, full natural lips with soft pink
+```
+
+### No. 1567: นักฟุตบอลเตะบอลลอยออกจากหน้าจอแล็ปท็อป
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** NiceGen.ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างวิดีโอที่นักฟุตบอลบนหน้าจอแล็ปท็อปเตะบอล ทำให้บอลลอยออกมาและตกลงบนมือ
+
+#### พรอมต์
+
+```text
+The soccer player on the laptop screen softly taps the ball; it gently floats out of the screen and settles lightly into the open palm — no
+```
+
+### No. 1568: ภาพผู้หญิงเอเชียตะวันออกพร้อมผมปลิวสะบัดจากลม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** lovimg_com
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลไลฟ์สไตล์ที่สวยงามของหญิงสาวชาวเอเชียตะวันออกที่มีผมบ็อบสั้นสีดำ ผมของเธอปลิวสะบัดผ่านใบหน้าอย่างน่าทึ่งจากลมทะเลที่พัดแรง
+
+#### พรอมต์
+
+```text
+Aesthetic lifestyle portrait of young East Asian woman with short black bob haircut with blunt bangs, strong ocean breeze dramatically blowing all hair across face completely concealing the eyes
+```
+
+### No. 1569: ภาพประกอบแนวคิดไอเท็มที่ทำจากธนบัตรดอลลาร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพประกอบของสิ่งของที่ทำขึ้นทั้งหมดจากธนบัตรดอลลาร์สหรัฐฯ
+
+#### พรอมต์
+
+```text
+A creative conceptual illustration of a [ITEM] made entirely from a US dollar bill. The [ITEM PARTS] are shaped and textured exactly like a one dollar bill — George Washington's portrait, "ONE DOLLAR" text, green treasury
+```
+
+### No. 1570: ภาพบุคคลแนวซินีมาติกมืดซ่อนเร้น พร้อมรายละเอียดผิวหนังที่ย้ำคิดย้ำทำ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพบุคคลที่มีอารมณ์มืดหม่นและน่าตื่นเต้น พร้อมรายละเอียดผิวหนังขั้นสุดและแสงเงาที่เข้มข้น
+
+#### พรอมต์
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

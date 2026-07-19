@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1531%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1570%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Uma colecao curada de exemplos de prompts Gemini Omni com previews de video OSS incorporados.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Quantidade |
 | --- | ---: |
-| Total de Prompts | 1531 |
+| Total de Prompts | 1570 |
 | Categorias | 8 |
-| Videos de Previa | 452 |
-| Ultima Atualizacao | 18/07/2026 |
+| Videos de Previa | 455 |
+| Ultima Atualizacao | 19/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1429)
+### Twitter Community (1468)
 
 ### No. 103: Fotografia Editorial de Retrato Romântico na Natureza
 
@@ -35427,6 +35427,823 @@ Um prompt para gerar uma colagem de quatro quadros com retratos casuais de um ro
 
 ```text
 Use the exact same face from the reference image and generate a 4-grid casual portrait collage — the energy of real candid moments captured in a single room, film grain aesthetic, completely unforced
+```
+
+### No. 1532: Close-up Realista de iPhone ao Ar Livre Amador
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** KeorUnreal
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para uma fotografia realista em close-up, de estilo amador, tirada ao ar livre com um iPhone.
+
+#### Prompt
+
+```text
+Masterpiece realistic amateur close-up outdoor iphone
+```
+
+### No. 1533: Selfie Autêntico de Maquilhagem Douyin de Cima para Baixo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Simply Ray
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para criar um selfie de retrato de cima para baixo com simetria facial perfeita e uma estética juvenil de maquilhagem Douyin.
+
+#### Prompt
+
+```text
+Don't change her face original—100% authentic with perfect facial symmetry. She should have a youthful, feminine appearance. Create a captivating, intimate top-down portrait selfie inspired by the popular Douyin makeup aesthetic, featuring a
+```
+
+### No. 1534: Ilustração de Retrato Cubista Geométrico Ousado
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** zayan
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para criar um retrato cubista com planos de cor poligonais fragmentados e formas angulares num estilo pop-art moderno.
+
+#### Prompt
+
+```text
+A bold geometric cubist portrait illustration with fragmented polygonal color planes and faceted angular shapes, inspired by modern pop-art and abstract expressionism. Dynamic digital painting
+```
+
+### No. 1535: Retrato em close-up de uma mulher com pele de vidro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Anissa
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para transformar uma fotografia num retrato em close-up de uma bela jovem com pele pálida, brilhante e semelhante a vidro.
+
+#### Prompt
+
+```text
+Transform the photo into a close-up portrait of a beautiful young woman with pale white skin, a perfectly symmetrical face, and an exceptionally bright, smooth, glowing complexion with a glass skin effect, especially on the bridge of her nose
+```
+
+### No. 1536: IA Infere Fórmula de Entrada para Infográficos
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Gadgetify
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2078475123519328579.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078475123519328579.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma fórmula de prompt para gerar infográficos com base num fenómeno, período de tempo, dimensão de dados e público-alvo.
+
+#### Prompt
+
+```text
+ai infers: input ::= phenomenon + time_span + data_dimension + audience
+```
+
+### No. 1537: Retrato de Floresta Outonal Melancólico numa Ponte
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ahmad Faraz
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um retrato cinematográfico de um jovem numa ponte de floresta enevoada, visto de perfil.
+
+#### Prompt
+
+```text
+A moody cinematic outdoor lifestyle portrait of a young male figure standing on a weathered wooden footbridge in a misty autumn forest, captured in full side profile. One foot is propped up on the wooden railing while the other remains grounded, body
+```
+
+### No. 1538: Retrato fotorrealista de uma jovem indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt detalhado para gerar um retrato fotorrealista de uma jovem indiana com características faciais e maquilhagem específicas.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young Indian woman in her mid-20s, sharp facial features, high cheekbones, full lips with glossy nude-pink lipstick, expressive dark brown eyes with perfect eyeliner and subtle
+```
+
+### No. 1539: Retrato em Close-up no Ecrã da Câmara
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Maddox
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para uma imagem cinematográfica que mostra o retrato de uma pessoa exibido no ecrã de uma câmara digital compacta.
+
+#### Prompt
+
+```text
+Use facial features of [ATTACHED PHOTO].
+
+A close-up shot of a [woman / man] displayed on the screen 
+of a compact Canon digital camera. The camera body surrounds 
+the image with its buttons, dials, and textured surface
+```
+
+### No. 1540: Obra de Arte Fluida Abstrata Minimalista
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** enepty
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma peça de arte fluida abstrata com fluxos e respingos de azul profundo sobre um fundo branco.
+
+#### Prompt
+
+```text
+A minimalist and expressive abstract fluid artwork on a pristine pure white background. The composition is created entirely from elegant, flowing streams and dynamic splashes of deep dark blue liquid
+```
+
+### No. 1541: Grande Plano Hiper Realista de Refração Líquida
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** timedoctor.eth
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma tomada hiper realista em grande plano de um rosto refletido em água derramada sobre uma mesa de ardósia.
+
+#### Prompt
+
+```text
+A hyper-realistic, avant-garde close-up photography shot reflecting The Protagonist's face in a pool of dark, spilled water on a textured slate table inside a humid
+```
+
+### No. 1542: Grelha de Diorama de Argila Doce de Filme Alienígena
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Gadgetify
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para gerar uma grelha 2x2 de cenas de diorama de argila coloridas como doces, representando filmes de Hollywood alienígenas num estilo sketch-pop.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for alien holloywood movies in this Style  = { <candy_sketch_pop_world> MEDIUM: Candy-colored clay diorama fused with energetic pencil doodle illustration and graphic
+```
+
+### No. 1543: Instrução para retrato de jovem mulher indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução em JSON que descreve as características faciais e a aparência de uma jovem mulher indiana.
+
+#### Prompt
+
+```text
+{
+  "subject": "A young Indian woman in her mid-20s with South Asian features, fair to medium skin tone with a warm glow, sharp jawline, full lips with matte pink lipstick, defined eyebrows, subtle eye"
+```
+
+### No. 1544: Fotografias de Produto Minúsculas e Adoráveis de Alta Gama
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Amira Zairi
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para criar fotografias de produto em miniatura com uma estética publicitária de alta gama.
+
+#### Prompt
+
+```text
+Create tiny, adorable product shots that look like high-end ads
+```
+
+### No. 1545: Elizabeth Olsen à Beira do Campo num Jogo de Ténis
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** KeorUnreal
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para gerar um vídeo de Elizabeth Olsen e outras pessoas num jogo de ténis.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "A beautiful elizabeth olsen with fair skin, short sleek"
+```
+
+### No. 1546: Intercâmbio Rodoviário Cyberpunk Artístico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** sayobonita
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para gerar um intercâmbio rodoviário num estilo cyberpunk artístico.
+
+#### Prompt
+
+```text
+A highway interchange in an artistic cyberpunk style.
+```
+
+### No. 1547: Apresentação Premium de Storyboard Comercial
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 𝐌
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2078516405251801458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078516405251801458.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para um storyboard de luxo de uma única página com oito quadros num formato retrato 3:4.
+
+#### Prompt
+
+```text
+TITLE: Premium Commercial Storyboard Presentation 
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+• 8 storyboard frames
+• Editorial
+```
+
+### No. 1548: Retrato Formal de um Sujeito Masculino Confiante
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Picts by AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para gerar um retrato formal de um sujeito masculino confiante com barba por fazer aparada e cabelo estilizado.
+
+#### Prompt
+
+```text
+A confident male subject stands perfectly centered, facing the camera straight on with level shoulders in a static, formal pose. He features perfectly groomed stubble and meticulously styled hair with tapered sides and a
+```
+
+### No. 1549: Instrução de Imagem Nano Banana Pro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Glena jenner
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução estruturada que ordena a uma IA gerar uma imagem com base numa referência carregada, preservando a identidade do sujeito.
+
+#### Prompt
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image, keep identity exact",
+      "appearance": {
+        "face": "Use uploaded reference image, keep identity"
+      }
+    }
+  }
+}
+```
+
+### No. 1550: Figura de ação hiper-realista a partir de foto de referência
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kami AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para transformar uma foto de referência numa miniatura de figurino 3D detalhada, preservando todas as características pessoais e a pose.
+
+#### Prompt
+
+```text
+Turn the uploaded reference person into a hyper-realistic collectible action figure / 3D miniature figurine (exact facial features, hairstyle, outfit, pose preserved from photo — no changes to identity). The tiny figure is standing
+```
+
+### No. 1551: Instrução de Referência de Identidade Facial
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Aatif J
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução que ordena à IA que use uma imagem facial carregada como referência e preserve a identidade facial exata com a máxima precisão.
+
+#### Prompt
+
+```text
+Use my uploaded face image as the primary facial identity reference. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, eyebrows, eyes, nose, lips
+```
+
+### No. 1552: Foto de Estúdio Sofisticada de Mulher numa Poltrona
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** remix.camera
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para uma fotografia de estúdio profissional de corpo inteiro de uma mulher sentada elegantemente numa poltrona de couro moderna.
+
+#### Prompt
+
+```text
+A full-length studio photograph with a sophisticated and professional aesthetic. It captures a female figure sitting elegantly in a modern brown leather armchair with a metal swivel base. The subject sits confidently, with her body at a slight angle, looking
+```
+
+### No. 1553: Retrato de Estúdio Dramático de um Homem Bonito
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Aatif J
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para gerar um retrato de estúdio profissional de um homem bonito com iluminação dramática.
+
+#### Prompt
+
+```text
+Handsome studio portrait, dramatic style.
+```
+
+### No. 1554: Retrato Cinematográfico Ultra Realista em Grande Plano
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ayushi Srivastava
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma instrução para gerar um retrato cinematográfico ultra realista em grande plano de uma bela jovem.
+
+#### Prompt
+
+```text
+An ultra-realistic cinematic close-up portrait of a beautiful young woman, photographed from a
+```
+
+### No. 1555: Retrato a Pastel Suave de uma Mulher Sorridente
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Minahil
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um retrato vertical de uma jovem com cabelo ondulado e sardas, representado num estilo artístico de pastel suave.
+
+#### Prompt
+
+```text
+A vertical portrait of a young woman with wavy, light brown hair and gentle freckles, captured in a soft pastel art style. She is smiling warmly while resting her chin on her hands, which are held together near her
+```
+
+### No. 1556: Jovem mulher com exposição solar e cabelo húmido
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AI STUFF
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt que descreve uma jovem mulher de pele branca, com exposição solar visível e cabelo castanho comprido num coque desarrumado.
+
+#### Prompt
+
+```text
+{
+"subject": {
+"description": "Young woman with white skin and visible sun exposure",
+"hair": "Long straight natural brown hair, pulled back into a high, slightly messy bun, appearing damp or slicked back with some loose strands near the hairline"
+}
+```
+
+### No. 1557: Retrato Hiper-realista de Metamorfose Fluida
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** timedoctor.eth
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um retrato editorial de vanguarda que retrata um protagonista num estado surreal de transformação fluida.
+
+#### Prompt
+
+```text
+A hyper-realistic, avant-garde editorial portrait of The Protagonist captured in a surreal state of fluid metamorphosis. The framing follows a classic three-quarter
+```
+
+### No. 1558: Retrato Selfie de Sydney Sweeney com Equipamento de Futebol Francês
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sharon Riley
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um retrato realista de Sydney Sweeney com o equipamento de futebol da França a tirar uma selfie divertida de cima, na cama.
+
+#### Prompt
+
+```text
+A realistic portrait of Sydney Sweeney wearing a France football uniform, lying on white pillows in bed and taking a playful selfie from above. She has her natural blonde hair styled long
+```
+
+### No. 1559: Fotografia Ultra Realista de Praia Tropical de Luxo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** KeorUnreal
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma fotografia de celebridade de alta qualidade num cenário de praia tropical.
+
+#### Prompt
+
+```text
+{
+    "style": [
+    "ultra realistic luxury tropical beach photograph",
+    "high-end celebrity"
+}
+```
+
+### No. 1560: Pôr do Sol, Noite e Onda Gigante na Ponte de Londres
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ozar
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2078585848430219556.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078585848430219556.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma sequência de prompts para transformar um vídeo diurno da Ponte de Londres em pôr do sol, noite e uma onda gigante.
+
+#### Prompt
+
+```text
+cloudy day turned into sunset
+→ then into night
+→ a giant wave rising over the
+```
+
+### No. 1561: Retrato de uma mulher a partir de um ponto de vista elevado
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** David
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar um retrato de uma mulher bonita vista de um ângulo alto.
+
+#### Prompt
+
+```text
+Portrait of a beautiful woman from a high vantage point.
+```
+
+### No. 1562: Adolescente num Supercarro de Luxo Futurista
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Zarlish
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar uma imagem de um adolescente confiante de fato num supercarro futurista inspirado na Bugatti.
+
+#### Prompt
+
+```text
+Luxury Has No Age
+A confident 16-year-old boy sitting on the roof of a futuristic luxury supercar (Bugatti-inspired, no logos), wearing an expensive black tailored suit, premium
+```
+
+### No. 1563: Retrato de estúdio de mulher com quatro expressões
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Aiza
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato de estúdio de uma jovem mulher com características e vestuário específicos contra um fundo vermelho, mostrando quatro expressões diferentes.
+
+#### Prompt
+
+```text
+A studio portrait of the same beautiful young woman with long wavy dark hair, straight bangs, striking blue eyes, wearing a white graphic T-shirt, a silver necklace, and a wristwatch, against a solid red seamless background. Four different expressions:
+```
+
+### No. 1564: Retrato fotorealista de uma jovem mulher indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar um retrato fotorealista de uma jovem mulher indiana com características faciais e tom de pele específicos.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, South Asian features, fair-to-medium warm skin tone with natural glow, sharp defined jawline, high cheekbones, full natural lips
+```
+
+### No. 1565: Retrato Realista de Jardim com Rosto de Referência
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar um retrato realista num cenário de jardim usando uma referência facial específica.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a portrait that looks like it was actually photographed on location by a professional photographer — every single element grounded
+```
+
+### No. 1566: Retrato Fotorealista de uma Jovem Mulher Indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sadie 🥀
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar um retrato fotorealista de uma jovem mulher indiana com características faciais e tom de pele específicos.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young Indian woman in her mid-20s, South Asian features, fair-to-medium warm skin tone with natural glow, sharp defined jawline, high cheekbones, full natural lips with soft pink
+```
+
+### No. 1567: Jogador de Futebol Faz Bola Flutuar da Tela do Portátil
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** NiceGen.ai
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um vídeo onde um jogador de futebol no ecrã de um portátil toca numa bola, fazendo com que esta flutue para fora e aterre numa mão.
+
+#### Prompt
+
+```text
+The soccer player on the laptop screen softly taps the ball; it gently floats out of the screen and settles lightly into the open palm — no
+```
+
+### No. 1568: Retrato de Mulher do Leste Asiático com Cabelo ao Vento
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** lovimg_com
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para um retrato de estilo de vida estético de uma jovem mulher do Leste Asiático com um bob preto curto, o cabelo dramaticamente soprado sobre o rosto por uma forte brisa oceânica.
+
+#### Prompt
+
+```text
+Aesthetic lifestyle portrait of young East Asian woman with short black bob haircut with blunt bangs, strong ocean breeze dramatically blowing all hair across face completely concealing the eyes
+```
+
+### No. 1569: Ilustração Conceptual de um Item Feito de Nota de Dólar
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Maddox
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para criar uma ilustração de um item feito inteiramente de uma nota de dólar americano.
+
+#### Prompt
+
+```text
+A creative conceptual illustration of a [ITEM] made entirely from a US dollar bill. The [ITEM PARTS] are shaped and textured exactly like a one dollar bill — George Washington's portrait, "ONE DOLLAR" text, green treasury
+```
+
+### No. 1570: Retrato Cinematográfico Sombrio com Detalhes Obsessivos de Pele
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Um prompt para gerar um retrato sombrio e dramático com detalhes extremos de pele e iluminação.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image
 ```
 
 Este README e gerado automaticamente a partir de `data/prompts_by_locale`.

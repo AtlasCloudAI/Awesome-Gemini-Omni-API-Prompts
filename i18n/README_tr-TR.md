@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1570%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Olcut | Sayi |
 | --- | ---: |
-| Toplam Prompt | 1570 |
+| Toplam Prompt | 1610 |
 | Kategoriler | 8 |
-| Onizleme Videolari | 455 |
-| Son Guncelleme | 19.07.2026 |
+| Onizleme Videolari | 457 |
+| Son Guncelleme | 20.07.2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1468)
+### Twitter Community (1508)
 
 ### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
@@ -36244,6 +36244,815 @@ Aşırı cilt detayı ve ışıklandırmayla karanlık, dramatik bir portre olu�
 
 ```text
 Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image
+```
+
+### No. 1571: Tarihi Rustik Bir Ortamda Zarif Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tarihi bir açık hava ortamında, koyu yeşil omuzları açıkta bırakan bir elbise giyen, koyu saçlı bir kadının zarif portresi için bir prompt.
+
+#### Prompt
+
+```text
+An elegant and enchanting portrait of a beautiful young woman with dark, loosely styled hair, posing gracefully in a historic, rustic outdoor setting. She is wearing a stunning off-the-shoulder dark green
+```
+
+### No. 1572: Yansıtıcı güneş gözlüklü dramatik portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aijaz
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Siyah bir arka plana karşı yukarı bakan, güneş gözlüklerinde bir şehir manzarası yansıyan, fade saç kesimli ve sakallı bir erkeğin 3:4 portresi.
+
+#### Prompt
+
+```text
+A dramatic 3:4 portrait of a man with a sharp fade haircut and a short beard, looking slightly upward against a solid black background. He is wearing round, silver-rimmed sunglasses that perfectly reflect a black and white cityscape
+```
+
+### No. 1573: Genç bir kadının fotoğraf gerçekçiliğinde portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kızılımsı kırmızı saçlı ve yeşil gözlü genç bir kadının fotoğraf gerçekçiliğinde portresi.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s with fair skin, long voluminous wavy auburn-red hair cascading over her shoulders, striking green eyes with defined brows, full lips with soft pink
+```
+
+### No. 1574: Krem Rengi Kanepe Üzerinde Pakistan Ordusu Subayı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dilshad Hussain
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Üniformalı, rahat poz vermiş bir askeri subayın görselini oluşturmak için tanımlayıcı bir prompt.
+
+#### Prompt
+
+```text
+A Pakistan Army officer sitting casually on a cream sofa in his digital camouflage uniform. He has a resting his chin on his hand with an elbow on the armrest, legs crossed. Wears tan combat boots. Name tape "Muhammad Rustam"
+```
+
+### No. 1575: Premium Ticari Senaryo Tahtası Sunumu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AI SabaKhan
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Lüks reklamcılık için, 3:4 portre formatında, müşteriye hazır tek sayfalık bir senaryo tahtası oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+TITLE: Premium Commercial Storyboard Presentation 
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+```
+
+### No. 1576: Bir kadının fotoğraf gerçekçiliğinde sinematik portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** dreamy digital arts
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Düz bir duvar önünde, yumuşak stüdyo ışığı altında, bir kadının fotoğraf gerçekçiliğinde ve sinematik yakın plan portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
+```
+
+### No. 1577: Otantik özellikleri olan genç ve kadınsı portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anissa
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Orijinal yüz özellikleri korunmuş, simetrik bir yüze ve doğal bir büst yapısına sahip bir kadının yüksek çözünürlüklü portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Maintain her original facial features exactly as they are, preserving her 100% authentic appearance and perfectly symmetrical face. She should look youthful and feminine, with a naturally full bust (not flat). Create a high-resolution
+```
+
+### No. 1578: Kişinin Fotoğraf Gerçekçiliğinde Doğal Yaşam Tarzı Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Uzun saçlı bir kişinin, yaşam tarzı ortamında, fotoğraf gerçekçiliğinde ve doğal bir orta plan çekimini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A photorealistic, candid lifestyle medium shot of [NAME] with long hair cascading over her shoulders, captured from a
+```
+
+### No. 1579: Kimlik Referanslı Yüksek Moda Editoryalı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Al-Shamus
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Elbise, atmosfer ve yüz için belirli görsel referanslar kullanarak ultra gerçekçi yüksek moda fotoğrafçılığı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic.
+
+Use the uploaded identity photo ONLY for:
+- exact face identity
+```
+
+### No. 1580: İtalyan Influencer'ın Amatör Spor Salonu Selfiesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KeorUnreal
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir influencer'ın kıyafetini denediği, genç bir İtalyan influencer'ın amatör spor salonu selfiesini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Amateur gym portrait iphone selfie of an italian influencer around 23yo trying outfit that boost her crazy
+```
+
+### No. 1581: Yüz Kimliğini ve Özelliklerini Koru
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Simply Ray
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir yapay zekaya, tüm spesifik yüz ve stilistik detayları değiştirmeden korumasını talimatlandıran bir prompt.
+
+#### Prompt
+
+```text
+Preserve the exact facial identity, facial features, facial proportions, hairstyle, bangs, eyebrows, eyelashes, eye shape, nose, lips, skin tone, makeup, outfit, lighting, color grading, and overall mood. Do not beautify, modify, or
+```
+
+### No. 1582: Bir kadının ultra-gerçekçi plaj gün batımı portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** lovimg_com
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Altın saatte, plajda, koyu saçlı bir kadının gerçekçi portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-realistic beach sunset portrait of a beautiful young woman with long silky dark brown hair and soft glowing skin, standing by the ocean shoreline during golden hour. She wears an elegant black
+```
+
+### No. 1583: Kadın Profesyonel Fotoğraf Kolajı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli saç ve göz detaylarına sahip güzel genç bir kadını içeren yüksek kaliteli bir fotoğraf kolajı oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a high-quality, professional photography collage featuring a beautiful young woman with long, flowing dark brown hair and warm, expressive eyes. The composite should consist of four distinct close-up
+```
+
+### No. 1584: Endonezya Batik Tarzında 2D Düz İllüstrasyon
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** enepty
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Geleneksel Endonezya batik mürekkep estetiğini ve balmumu direnç tekniklerini kullanarak detaylı bir 2D illüstrasyon oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A highly detailed 2D flat illustration of [MASUKKAN NAMA OBJEK DI SINI], drawn exclusively using traditional Indonesian batik ink aesthetics and delicate canting (wax-resist)
+```
+
+### No. 1585: Rinestonlu Tayt İçinde Elvis Rubber Duck (Ördek)
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Heather Green
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Pompadour saç modeli ve rinestonlu bir taytla Elvis Presley kılığına girmiş sarı bir banyo ördeğinin görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+a yellow rubber duck dressed like Elvis, slick black pompadour hairstyle, white rhinestone-studded jumpsuit with a high collar and wide belt, tiny sunglasses and a vintage
+```
+
+### No. 1586: Mavi Balo Elbisesi İçinde Sinematik Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Zarif açık mavi bir balo elbisesi içindeki bir kadının sinematik portresi için bir prompt.
+
+#### Prompt
+
+```text
+A high-quality, cinematic portrait of a beautiful young woman captured in a series of elegant poses. She is wearing an exquisite, floor-length light blue ballgown with intricate lace detailing on the bodice
+```
+
+### No. 1587: Genç bir kadının fotoğraf gerçekçiliğinde portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Açık tenli, dalgalı saçları uzay topuzu yapılmış ve keskin çene hatlarına sahip genç bir kadının fotoğraf gerçekçiliğinde portresi.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young woman in her early 20s with fair skin, light brown to blonde wavy hair styled in two cute high space buns with loose strands framing her face, sharp jawline
+```
+
+### No. 1588: Dev pembe fotoğraf makinesi üzerinde şatafatlı kadın portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hania Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dev pembe bir anlık fotoğraf makinesinin üzerine oturmuş, şatafatlı sarışın bir kadının hiper-gerçekçi dikey portresi.
+
+#### Prompt
+
+```text
+A hyper-realistic vertical portrait of a glamorous young blonde woman with long wavy hair, bold winged eyeliner, glossy nude lips, and gold hoop earrings, sitting perched on top of a giant oversized pink Instax Mini instant camera.
+```
+
+### No. 1589: Sinematik Bowers & Wilkins Kulaklık Reklam Afişi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Al-Shamus
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Karanlık bir stüdyoda lüks kulaklıkların yakın çekimini içeren, ultra premium sinematik bir reklam afişi oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-premium cinematic advertising poster for Bowers & Wilkins Px8 luxury wireless headphones. Extreme macro close-up portrait of a sophisticated musician in a dark immersive studio environment. The headphones dominate the frame, with the
+```
+
+### No. 1590: Hiperrealist Avangart Portre Sol Üçte Bir
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kadrajın sol üçte birinde, negatif alanla konumlandırılmış bir kahramanın hiper-gerçekçi, avangart fotoğrafik portresi.
+
+#### Prompt
+
+```text
+A hyper-realistic, avant-garde photographic portrait of The Protagonist, positioned strictly on the far left third of the frame, leaving vast negative space on the right.
+```
+
+### No. 1591: Güneş ışığı alan gotik kütüphanede sarışın kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Güneş ışığıyla aydınlanan, görkemli bir gotik kütüphanenin içinde, zarif bir topuz yapmış sarışın bir kadının sinematik fantazi fotoğrafı.
+
+#### Prompt
+
+```text
+A cinematic, highly detailed fantasy photograph of a beautiful blonde woman with her hair styled in an elegant updo, standing gracefully inside a majestic, sunlit gothic library.
+```
+
+### No. 1592: Rüya Gibi Ultra Gerçekçi Sinematik Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anissa
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yüz özellikleri üzerinde belirli kısıtlamalar ve sinematik film gren estetiği ile spontane, rüya gibi bir portre için bir prompt.
+
+#### Prompt
+
+```text
+Do not change the facial features, facial proportions, or hair color. A spontaneous shot that feels like a vague memory or a dream, a dreamlike memory, as if it were accidentally captured. Ultra-realistic photography with a cinematic film-grain
+```
+
+### No. 1593: Genç Bir Kadının Fotoğraf Gerçekçiliğinde Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Çilek sarısı saçlı genç bir kadının detaylı, fotoğraf gerçekçiliğinde portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, long voluminous wavy strawberry-blonde to copper-red hair cascading over her shoulders and back
+```
+
+### No. 1594: Kömür rengi çizgili takım elbiseli yakışıklı adam
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kameraya bakan, şık giyimli bir adamın videosunu veya görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A handsome male stands straight-on facing the camera with centered weight and level shoulders, sharply dressed in a structured charcoal gray double-breasted pinstripe suit. His hair is meticulously styled in a textured
+```
+
+### No. 1595: Zarif Bir Kadının Sinematik Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ayushi Srivastava
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Profilden, dalgalı kahverengi saçlı, zarif genç bir kadının yüksek çözünürlüklü, sinematik stüdyo portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A high-resolution, cinematic studio portrait of a sophisticated young woman with wavy brown hair, captured in a striking profile
+```
+
+### No. 1596: Ogre canavarları tarafından avlanan büyülü orman
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Soraya Thorne
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kişinin, büyülü bir ormanda, ogre benzeri canavarlar ve onların canavar binekleri tarafından avlanmasını anlatan anlatısal bir prompt.
+
+#### Prompt
+
+```text
+I thought I was just wandering through the magic forest until a pack of ogre-like monsters and their beast mounts started hunting me.
+```
+
+### No. 1597: Rahat Modern Yatak Odasında Ayna Selfiesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Sharon Riley
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Modern bir yatak odasında, sarışın bir kadının tam vücut ayna selfiesini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A stunning full-body mirror selfie of a beautiful woman in a cozy modern bedroom, taking a confident photo with a gray iPhone in her right hand. She has fair skin, blonde wavy hair styled in a half-up bun with a small
+```
+
+### No. 1598: Protagonistin Sinematik İki Renkli Orta Plan Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+İki renkli bir paletle, savunmasız, sinematik bir portre için bir prompt.
+
+#### Prompt
+
+```text
+A cinematic bi-color mid-shot (chest-up) of The Protagonist. The Fragile Moment: looking away and slightly down, soft, vulnerable, raw human
+```
+
+### No. 1599: Stadyumda Coşkulu İspanya Taraftarı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir futbol finali sırasında, dolu bir stadyumda tezahürat yapan bir kadın taraftarın canlı bir fotoğrafı.
+
+#### Prompt
+
+```text
+A vibrant, high-energy photograph capturing a jubilant female fan celebrating in a packed stadium during a major football championship final. She is wearing a red Spain national team jersey and a scarf
+```
+
+### No. 1600: Alacakaranlıkta balkonda zarif bir kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aatif J
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Parlayan bir şehir silüeti ve uzaktaki bir simge yapıyla, alacakaranlıkta bir balkonda duran zarif bir kadının sinematik portresi.
+
+#### Prompt
+
+```text
+Create a stunning, cinematic portrait of an elegant woman standing on a balcony at twilight, with the soft, glowing lights of a city skyline—featuring a distant, iconic landmark—providing a moody, atmospheric
+```
+
+### No. 1601: Fiziksel olarak doğru bir lineer derinlik haritası oluştur
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** OAK
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Beyazın en yakın öğeleri, siyahın ise en uzakları temsil ettiği gri tonlamalı bir derinlik haritasına dönüştürmek için bir prompt.
+
+#### Prompt
+
+```text
+Convert this image into a physically accurate grayscale linear depth map. White = nearest, black = farthest. Preserve geometry
+```
+
+### No. 1602: Sadece Derinlikli Sinematik Senaryo Panosu Oluşturucu Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** OAK
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir görselden ve onun derinlik haritasından 3x3'lük sadece derinlikli bir senaryo panosu oluşturmak için bir sistem prompt'u.
+
+#### Prompt
+
+```text
+You are a cinematic storyboard generator working in DEPTH-ONLY STORYBOARD MODE. You will receive: IMAGE 1 —
+```
+
+### No. 1603: Düşünceli Bir Kadının Kasvetli Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aatif J
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Koyu saçlı genç bir kadının, loş ve kasvetli bir ortamda atmosferik portrelerini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+These moody, atmospheric portraits capture a young woman with dark, wavy hair and an intense, contemplative gaze in a dimly lit, somber environment. The lighting is low-key and dramatic, casting soft shadows that
+```
+
+### No. 1604: Bir Odaya Giren Sydney Sweeney
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AI Society
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sydney Sweeney'nin, esrarengiz, ışık değiştiren bir varlıkla bir odaya girdiği bir video oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Sydney Sweeney: Enter a room as if the air itself is shifting to make space for your light
+```
+
+### No. 1605: Filipinli Portresi için Görsel Referans
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Saira
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli yüz ve fiziksel özellikleri korumak için yüklenen bir görseli referans olarak kullanma talimatı veren bir prompt.
+
+#### Prompt
+
+```text
+Use the uploaded image as the main reference. Preserve the subject's exact facial identity, natural Filipina features, warm confident smile, expressive eyes, long wavy black hair, and realistic body proportions.
+```
+
+### No. 1606: Sareeli Sinematik Siyah ve Kırmızı Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aiza
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Uzun koyu saçlı, beyaz saree ve gümüş takılar takan bir kızın, rüya gibi 90'lar film-noir tarzında, sinematik siyah-kırmızı portresi.
+
+#### Prompt
+
+```text
+Cinematic black-and-red portrait of the girl from the first uploaded photo, 100% same face. Long wavy dark hair. White stone-work saree, black blouse, silver oxidized jewelry. High-contrast lighting, soft glow, dreamy 90s film-noir, subtle film
+```
+
+### No. 1607: Mistik Deliryum Nöbetindeki Petro
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jaquelin M.
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Petro'nun mistik bir deliryum nöbetinin ortasını tasvir eden bir illüstrasyon.
+
+#### Prompt
+
+```text
+ilustra a Petro en la mitad de un episodio de delirio místico.
+```
+
+### No. 1608: Genç Bir Kadının Fotoğraf Gerçekçiliğinde Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Platin sarışın saçlı ve mavi-yeşil gözlü genç bir kadının fotoğraf gerçekçiliğinde portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s, fair skin with a subtle golden glow, long voluminous wavy platinum blonde hair cascading over her shoulders, sharp almond-shaped blue-green
+```
+
+### No. 1609: Monokrom Moda Editoryal Afişi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zunaira Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kendinden emin genç bir kadını ultra gerçekçi, sinematik siyah-beyaz bir moda afişinde göstermek için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white
+```
+
+### No. 1610: Cheeseburger Tutan Mavi Gözlü Kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zarlish
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sarışın saçlı ve mavi gözlü, mavi tişört giyen genç bir kadının cheeseburger tuttuğu bir portre oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
 ```
 
 Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1570%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1570 |
+| 総プロンプト数 | 1610 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 455 |
-| 最終更新 | 2026/07/19 |
+| プレビュー動画数 | 457 |
+| 最終更新 | 2026/07/20 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1468)
+### Twitter Community (1508)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -36244,6 +36244,815 @@ A creative conceptual illustration of a [ITEM] made entirely from a US dollar bi
 
 ```text
 Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image
+```
+
+### No. 1571: 歴史ある素朴な設定でのエレガントなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+歴史的な屋外設定で、ダークグリーンのオフショルダードレスを着た黒髪の女性のエレガントなポートレートのためのプロンプトです。
+
+#### プロンプト
+
+```text
+An elegant and enchanting portrait of a beautiful young woman with dark, loosely styled hair, posing gracefully in a historic, rustic outdoor setting. She is wearing a stunning off-the-shoulder dark green
+```
+
+### No. 1572: 反射するサングラスをかけたドラマチックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aijaz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+フェードとあごひげを生やした男性が、黒い背景を見上げ、そのサングラスに都市の景色が映り込んでいる3:4のポートレートです。
+
+#### プロンプト
+
+```text
+A dramatic 3:4 portrait of a man with a sharp fade haircut and a short beard, looking slightly upward against a solid black background. He is wearing round, silver-rimmed sunglasses that perfectly reflect a black and white cityscape
+```
+
+### No. 1573: 若い女性のフォトリアリスティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+赤褐色の髪と緑色の瞳を持つ若い女性のフォトリアリスティックなポートレートです。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s with fair skin, long voluminous wavy auburn-red hair cascading over her shoulders, striking green eyes with defined brows, full lips with soft pink
+```
+
+### No. 1574: クリーム色のソファに座るパキスタン陸軍将校
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dilshad Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+制服を着てカジュアルなポーズをとる軍将校の画像を生成するための詳細なプロンプトです。
+
+#### プロンプト
+
+```text
+A Pakistan Army officer sitting casually on a cream sofa in his digital camouflage uniform. He has a resting his chin on his hand with an elbow on the armrest, legs crossed. Wears tan combat boots. Name tape "Muhammad Rustam"
+```
+
+### No. 1575: プレミアム商業用ストーリーボードプレゼンテーション
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI SabaKhan
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ラグジュアリー広告向けの、クライアント提出用3:4縦長フォーマットのシングルページストーリーボードを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+TITLE: Premium Commercial Storyboard Presentation 
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+```
+
+### No. 1576: 女性のフォトリアリスティックなシネマティックポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** dreamy digital arts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シンプルな壁を背景に、ソフトなスタジオ照明で撮影された女性のフォトリアリスティックでシネマティックなクローズアップポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
+```
+
+### No. 1577: 若々しい女性のポートレート：本物の特徴を備えて
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Anissa
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+オリジナルの顔の特徴を保ち、対称的な顔と自然なバストを持つ女性の高解像度ポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Maintain her original facial features exactly as they are, preserving her 100% authentic appearance and perfectly symmetrical face. She should look youthful and feminine, with a naturally full bust (not flat). Create a high-resolution
+```
+
+### No. 1578: 人物のフォトリアリスティックな自然なライフスタイルショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+長い髪を持つ人物の、ライフスタイル設定におけるフォトリアリスティックで自然なミディアムショットを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A photorealistic, candid lifestyle medium shot of [NAME] with long hair cascading over her shoulders, captured from a
+```
+
+### No. 1579: アイデンティティ参照を用いたハイファッション編集写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Al-Shamus
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ガウン、雰囲気、顔の特定の画像参照を用いて、超高精細なハイファッション写真を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic.
+
+Use the uploaded identity photo ONLY for:
+- exact face identity
+```
+
+### No. 1580: イタリア人インフルエンサーのアマチュア風ジム自撮り
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+若いイタリア人インフルエンサーが衣装を試着しているアマチュア風ジム自撮りを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Amateur gym portrait iphone selfie of an italian influencer around 23yo trying outfit that boost her crazy
+```
+
+### No. 1581: 顔のアイデンティティと特徴の保持
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Simply Ray
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+AIに、すべての特定の顔の特徴とスタイルの詳細を変更せずに維持するよう指示するプロンプト。
+
+#### プロンプト
+
+```text
+Preserve the exact facial identity, facial features, facial proportions, hairstyle, bangs, eyebrows, eyelashes, eye shape, nose, lips, skin tone, makeup, outfit, lighting, color grading, and overall mood. Do not beautify, modify, or
+```
+
+### No. 1582: 女性の超リアリスティックなビーチ夕焼けポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** lovimg_com
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ゴールデンアワーのビーチで、黒髪の女性のリアリスティックなポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-realistic beach sunset portrait of a beautiful young woman with long silky dark brown hair and soft glowing skin, standing by the ocean shoreline during golden hour. She wears an elegant black
+```
+
+### No. 1583: 女性のプロフェッショナル写真コラージュ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の髪と目の詳細を持つ美しい若い女性をフィーチャーした、高品質な写真コラージュを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a high-quality, professional photography collage featuring a beautiful young woman with long, flowing dark brown hair and warm, expressive eyes. The composite should consist of four distinct close-up
+```
+
+### No. 1584: インドネシア・バティック様式の2Dフラットイラスト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** enepty
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+伝統的なインドネシアのバティックインクの美学とろうけつ染め技法を用いた、詳細な2Dイラストを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A highly detailed 2D flat illustration of [MASUKKAN NAMA OBJEK DI SINI], drawn exclusively using traditional Indonesian batik ink aesthetics and delicate canting (wax-resist)
+```
+
+### No. 1585: ラメジャンプスーツのエルビス・ラバーダック
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ポンパドールヘアとラメジャンプスーツを身に着けたエルビス・プレスリー風の黄色いラバーダックの画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+a yellow rubber duck dressed like Elvis, slick black pompadour hairstyle, white rhinestone-studded jumpsuit with a high collar and wide belt, tiny sunglasses and a vintage
+```
+
+### No. 1586: ブルーのバルーンガウンを着たシネマティック・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+エレガントな淡いブルーのバルーンガウンを着た女性の、シネマティックなポートレートのためのプロンプト。
+
+#### プロンプト
+
+```text
+A high-quality, cinematic portrait of a beautiful young woman captured in a series of elegant poses. She is wearing an exquisite, floor-length light blue ballgown with intricate lace detailing on the bodice
+```
+
+### No. 1587: 若い女性のフォトリアリスティック・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+色白の肌、スペースバンに結ったウェーブヘア、シャープな顎のラインを持つ若い女性の、フォトリアリスティックなポートレート。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a stunning young woman in her early 20s with fair skin, light brown to blonde wavy hair styled in two cute high space buns with loose strands framing her face, sharp jawline
+```
+
+### No. 1588: 巨大なピンクのカメラに座るグラマラスな女性のポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hania Ai
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+巨大なピンクのインスタントカメラに座るグラマラスなブロンド女性の、ハイパーリアリスティックな縦長ポートレート。
+
+#### プロンプト
+
+```text
+A hyper-realistic vertical portrait of a glamorous young blonde woman with long wavy hair, bold winged eyeliner, glossy nude lips, and gold hoop earrings, sitting perched on top of a giant oversized pink Instax Mini instant camera.
+```
+
+### No. 1589: シネマティック・バワーズ＆ウィルキンス・ヘッドフォン広告ポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Al-Shamus
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+暗いスタジオ内の高級ヘッドフォンのクローズアップを特徴とする、超高級感のあるシネマティックな広告ポスターを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-premium cinematic advertising poster for Bowers & Wilkins Px8 luxury wireless headphones. Extreme macro close-up portrait of a sophisticated musician in a dark immersive studio environment. The headphones dominate the frame, with the
+```
+
+### No. 1590: 左三分割のハイパーリアリスティック・アバンギャルド・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+フレームの左三分の一に配置され、ネガティブスペースを持つ主人公の、ハイパーリアリスティックなアバンギャルドな写真ポートレート。
+
+#### プロンプト
+
+```text
+A hyper-realistic, avant-garde photographic portrait of The Protagonist, positioned strictly on the far left third of the frame, leaving vast negative space on the right.
+```
+
+### No. 1591: 陽光差し込むゴシック図書館のブロンド女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+壮大で陽光差し込むゴシック様式の図書館内で、エレガントなアップスタイルをしたブロンド女性の、シネマティックなファンタジー写真。
+
+#### プロンプト
+
+```text
+A cinematic, highly detailed fantasy photograph of a beautiful blonde woman with her hair styled in an elegant updo, standing gracefully inside a majestic, sunlit gothic library.
+```
+
+### No. 1592: 夢想的な超リアル・シネマティック・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Anissa
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+顔の特徴に関する特定の制約と、シネマティックなフィルムグレインの美学を持つ、自然発生的で夢想的なポートレートのためのプロンプト。
+
+#### プロンプト
+
+```text
+Do not change the facial features, facial proportions, or hair color. A spontaneous shot that feels like a vague memory or a dream, a dreamlike memory, as if it were accidentally captured. Ultra-realistic photography with a cinematic film-grain
+```
+
+### No. 1593: 若い女性のフォトリアリスティック・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ストロベリーブロンドの髪を持つ若い女性の、詳細なフォトリアリスティックなポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, long voluminous wavy strawberry-blonde to copper-red hair cascading over her shoulders and back
+```
+
+### No. 1594: チャコール・ピンストライプスーツのハンサムな男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+カメラを向いたシャープな服装の男性の、動画または画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A handsome male stands straight-on facing the camera with centered weight and level shoulders, sharply dressed in a structured charcoal gray double-breasted pinstripe suit. His hair is meticulously styled in a textured
+```
+
+### No. 1595: 洗練された女性のシネマティック・ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ayushi Srivastava
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+プロフィールを向いたウェーブのかかった茶髪の洗練された若い女性の、高解像度でシネマティックなスタジオポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A high-resolution, cinematic studio portrait of a sophisticated young woman with wavy brown hair, captured in a striking profile
+```
+
+### No. 1596: オーガの怪物に追われる魔法の森
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Soraya Thorne
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+魔法の森で、オーガのような怪物とその獣の騎乗獣に追いかけられる人物を描写する物語調のプロンプトです。
+
+#### プロンプト
+
+```text
+I thought I was just wandering through the magic forest until a pack of ogre-like monsters and their beast mounts started hunting me.
+```
+
+### No. 1597: 居心地の良いモダンな寝室でのミラーセルフィー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sharon Riley
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+モダンな寝室で、ブロンドの女性が全身を映したミラーセルフィーを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A stunning full-body mirror selfie of a beautiful woman in a cozy modern bedroom, taking a confident photo with a gray iPhone in her right hand. She has fair skin, blonde wavy hair styled in a half-up bun with a small
+```
+
+### No. 1598: 主人公の映画的なバイカラー・ミッドショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+バイカラーパレットを用いた、繊細で映画的な肖像画のためのプロンプトです。
+
+#### プロンプト
+
+```text
+A cinematic bi-color mid-shot (chest-up) of The Protagonist. The Fragile Moment: looking away and slightly down, soft, vulnerable, raw human
+```
+
+### No. 1599: スタジアムで歓喜するスペインファンの女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+サッカーの決勝戦で満員のスタジアム内で応援する女性ファンの、活気に満ちた写真です。
+
+#### プロンプト
+
+```text
+A vibrant, high-energy photograph capturing a jubilant female fan celebrating in a packed stadium during a major football championship final. She is wearing a red Spain national team jersey and a scarf
+```
+
+### No. 1600: 黄昏時のバルコニーに立つ優雅な女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aatif J
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夕暮れ時のバルコニーに立ち、輝く都市のスカイラインと遠くのランドマークを背景にした、映画的な肖像画です。
+
+#### プロンプト
+
+```text
+Create a stunning, cinematic portrait of an elegant woman standing on a balcony at twilight, with the soft, glowing lights of a city skyline—featuring a distant, iconic landmark—providing a moody, atmospheric
+```
+
+### No. 1601: 物理的に正確な線形深度マップを作成
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** OAK
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+画像を白が最も近い要素、黒が最も遠い要素を表すグレースケールの深度マップに変換するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Convert this image into a physically accurate grayscale linear depth map. White = nearest, black = farthest. Preserve geometry
+```
+
+### No. 1602: 深度のみの映画的なストーリーボード生成用プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** OAK
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+画像とその深度マップから、3x3の深度のみのストーリーボードを生成するためのシステムプロンプトです。
+
+#### プロンプト
+
+```text
+You are a cinematic storyboard generator working in DEPTH-ONLY STORYBOARD MODE. You will receive: IMAGE 1 —
+```
+
+### No. 1603: 物思いにふける女性のムーディーな肖像画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aatif J
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+薄暗く陰鬱な設定で、黒髪の若い女性の雰囲気のある肖像画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+These moody, atmospheric portraits capture a young woman with dark, wavy hair and an intense, contemplative gaze in a dimly lit, somber environment. The lighting is low-key and dramatic, casting soft shadows that
+```
+
+### No. 1604: シドニー・スウィーニーが部屋に入ってくる
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI Society
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+シドニー・スウィーニーが、エーテル的で光が揺らめく存在感で部屋に入ってくる動画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Sydney Sweeney: Enter a room as if the air itself is shifting to make space for your light
+```
+
+### No. 1605: フィリピン人女性の肖像画用画像リファレンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Saira
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+アップロードされた画像をリファレンスとして使用し、特定の顔や身体的特徴を保持するよう指示するプロンプトです。
+
+#### プロンプト
+
+```text
+Use the uploaded image as the main reference. Preserve the subject's exact facial identity, natural Filipina features, warm confident smile, expressive eyes, long wavy black hair, and realistic body proportions.
+```
+
+### No. 1606: サリーをまとった映画的な黒と赤の肖像画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aiza
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+長い黒髪の少女が白いサリーと銀のジュエリーを身に着け、夢のような90年代フィルムノワールスタイルで描かれた、映画的な黒と赤の肖像画です。
+
+#### プロンプト
+
+```text
+Cinematic black-and-red portrait of the girl from the first uploaded photo, 100% same face. Long wavy dark hair. White stone-work saree, black blouse, silver oxidized jewelry. High-contrast lighting, soft glow, dreamy 90s film-noir, subtle film
+```
+
+### No. 1607: 神秘的な妄想状態にあるペトロ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jaquelin M.
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+神秘的な妄想発作の真っ只中にいるペトロを描いたイラストです。
+
+#### プロンプト
+
+```text
+ilustra a Petro en la mitad de un episodio de delirio místico.
+```
+
+### No. 1608: 若い女性のフォトリアリスティックな肖像画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+プラチナブロンドの髪と青緑色の瞳を持つ若い女性の、写真のようにリアルな肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s, fair skin with a subtle golden glow, long voluminous wavy platinum blonde hair cascading over her shoulders, sharp almond-shaped blue-green
+```
+
+### No. 1609: モノクロームのファッション・エディトリアル・ポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zunaira Ai
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+自信に満ちた若い女性をフィーチャーした、超リアルで映画的な白黒のファッションポスターを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white
+```
+
+### No. 1610: 青い瞳の女性がチーズバーガーを持っている
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zarlish
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+金髪で青い瞳の若い女性が、青いシャツを着てチーズバーガーを持っている肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1570%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 1570 |
+| 提示詞總數 | 1610 |
 | 分類數 | 8 |
-| 預覽影片數 | 455 |
-| 最後更新 | 2026/07/19 |
+| 預覽影片數 | 457 |
+| 最後更新 | 2026/07/20 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1468)
+### Twitter Community (1508)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -36244,6 +36244,815 @@ A creative conceptual illustration of a [ITEM] made entirely from a US dollar bi
 
 ```text
 Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image
+```
+
+### No. 1571: 歷史鄉村背景中的優雅肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成深色頭髮女性在歷史性戶外場景中、穿著墨綠色露肩禮服的優雅肖像提示。
+
+#### 提示詞
+
+```text
+An elegant and enchanting portrait of a beautiful young woman with dark, loosely styled hair, posing gracefully in a historic, rustic outdoor setting. She is wearing a stunning off-the-shoulder dark green
+```
+
+### No. 1572: 戴反光太陽眼鏡的戲劇性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aijaz
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位留著漸層髮型和鬍鬚的男子在黑色背景前向上看的3:4肖像，其太陽眼鏡反射出城市景觀。
+
+#### 提示詞
+
+```text
+A dramatic 3:4 portrait of a man with a sharp fade haircut and a short beard, looking slightly upward against a solid black background. He is wearing round, silver-rimmed sunglasses that perfectly reflect a black and white cityscape
+```
+
+### No. 1573: 年輕女性的寫實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位擁有赤褐色頭髮和綠色眼睛的年輕女性的寫實肖像。
+
+#### 提示詞
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s with fair skin, long voluminous wavy auburn-red hair cascading over her shoulders, striking green eyes with defined brows, full lips with soft pink
+```
+
+### No. 1574: 坐在奶油色沙發上的巴基斯坦陸軍軍官
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成穿著制服、姿勢休閒的軍官圖像的描述性提示。
+
+#### 提示詞
+
+```text
+A Pakistan Army officer sitting casually on a cream sofa in his digital camouflage uniform. He has a resting his chin on his hand with an elbow on the armrest, legs crossed. Wears tan combat boots. Name tape "Muhammad Rustam"
+```
+
+### No. 1575: 高級商業故事板簡報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI SabaKhan
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於為奢侈品廣告創建單頁、可供客戶審閱的3:4直式故事板提示。
+
+#### 提示詞
+
+```text
+TITLE: Premium Commercial Storyboard Presentation 
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+```
+
+### No. 1576: 女性的寫實電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** dreamy digital arts
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成女性在素牆前、採用柔和影棚燈光的寫實電影感特寫肖像提示。
+
+#### 提示詞
+
+```text
+Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
+```
+
+### No. 1577: 帶有真實特徵的年輕女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anissa
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成高解析度女性肖像的提示，要求保留原始面部特徵、對稱的臉型和自然的胸型。
+
+#### 提示詞
+
+```text
+Maintain her original facial features exactly as they are, preserving her 100% authentic appearance and perfectly symmetrical face. She should look youthful and feminine, with a naturally full bust (not flat). Create a high-resolution
+```
+
+### No. 1578: 人物的寫實生活風格抓拍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成人物在生活風格場景中、留著長髮的寫實中景抓拍照提示。
+
+#### 提示詞
+
+```text
+A photorealistic, candid lifestyle medium shot of [NAME] with long hair cascading over her shoulders, captured from a
+```
+
+### No. 1579: 帶有身份參考的高級時尚編輯照
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Al-Shamus
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個使用特定圖像參考來生成超寫實高級時尚攝影的提示，參考內容包括禮服、氛圍和臉部。
+
+#### 提示詞
+
+```text
+Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic.
+
+Use the uploaded identity photo ONLY for:
+- exact face identity
+```
+
+### No. 1580: 義大利網紅的業餘健身房自拍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成年輕義大利網紅試穿服裝的業餘健身房自拍照提示。
+
+#### 提示詞
+
+```text
+Amateur gym portrait iphone selfie of an italian influencer around 23yo trying outfit that boost her crazy
+```
+
+### No. 1581: 保留面部特徵與身份
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Simply Ray
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指示人工智慧保持所有特定面部及風格細節而不作改動的提示。
+
+#### 提示詞
+
+```text
+Preserve the exact facial identity, facial features, facial proportions, hairstyle, bangs, eyebrows, eyelashes, eye shape, nose, lips, skin tone, makeup, outfit, lighting, color grading, and overall mood. Do not beautify, modify, or
+```
+
+### No. 1582: 女性在海灘日落時分的超寫實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** lovimg_com
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成寫實肖像的提示，描繪一位深色頭髮的女子在海灘黃金時分的景象。
+
+#### 提示詞
+
+```text
+Ultra-realistic beach sunset portrait of a beautiful young woman with long silky dark brown hair and soft glowing skin, standing by the ocean shoreline during golden hour. She wears an elegant black
+```
+
+### No. 1583: 女性專業攝影拼貼
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作高品質攝影拼貼的提示，主角是一位美麗的年輕女性，具有特定的髮型和眼睛細節。
+
+#### 提示詞
+
+```text
+Create a high-quality, professional photography collage featuring a beautiful young woman with long, flowing dark brown hair and warm, expressive eyes. The composite should consist of four distinct close-up
+```
+
+### No. 1584: 印尼蠟染風格的 2D 平面插畫
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** enepty
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成詳細 2D 插畫的提示，運用傳統印尼蠟染墨水美學及蠟染防染技術。
+
+#### 提示詞
+
+```text
+A highly detailed 2D flat illustration of [MASUKKAN NAMA OBJEK DI SINI], drawn exclusively using traditional Indonesian batik ink aesthetics and delicate canting (wax-resist)
+```
+
+### No. 1585: 身穿亮片連身服的貓王造型橡皮鴨
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成圖像的提示，描繪一隻黃色橡皮鴨裝扮成貓王，梳著龐畢度髮型並身穿亮片連身服。
+
+#### 提示詞
+
+```text
+a yellow rubber duck dressed like Elvis, slick black pompadour hairstyle, white rhinestone-studded jumpsuit with a high collar and wide belt, tiny sunglasses and a vintage
+```
+
+### No. 1586: 身穿藍色舞會禮服的電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成電影感肖像的提示，描繪一位身穿優雅淺藍色舞會禮服的女子。
+
+#### 提示詞
+
+```text
+A high-quality, cinematic portrait of a beautiful young woman captured in a series of elegant poses. She is wearing an exquisite, floor-length light blue ballgown with intricate lace detailing on the bodice
+```
+
+### No. 1587: 年輕女性的寫實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅年輕女性的寫實肖像，擁有白皙皮膚、紮成太空雙髻的波浪髮型以及清晰的下顎線。
+
+#### 提示詞
+
+```text
+Photorealistic portrait of a stunning young woman in her early 20s with fair skin, light brown to blonde wavy hair styled in two cute high space buns with loose strands framing her face, sharp jawline
+```
+
+### No. 1588: 坐在巨型粉紅相機上的魅力女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hania Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅超寫實的垂直肖像，描繪一位魅力四射的金髮女子坐在一台巨型粉紅色拍立得相機上。
+
+#### 提示詞
+
+```text
+A hyper-realistic vertical portrait of a glamorous young blonde woman with long wavy hair, bold winged eyeliner, glossy nude lips, and gold hoop earrings, sitting perched on top of a giant oversized pink Instax Mini instant camera.
+```
+
+### No. 1589: 電影感 Bowers & Wilkins 耳機廣告海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Al-Shamus
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作超高級電影感廣告海報的提示，特寫展示置於黑暗工作室中的奢華耳機。
+
+#### 提示詞
+
+```text
+Ultra-premium cinematic advertising poster for Bowers & Wilkins Px8 luxury wireless headphones. Extreme macro close-up portrait of a sophisticated musician in a dark immersive studio environment. The headphones dominate the frame, with the
+```
+
+### No. 1590: 左三分之一構圖的超寫實前衛肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅超寫實的前衛攝影肖像，主角位於畫面的左三分之一處，並留有負空間。
+
+#### 提示詞
+
+```text
+A hyper-realistic, avant-garde photographic portrait of The Protagonist, positioned strictly on the far left third of the frame, leaving vast negative space on the right.
+```
+
+### No. 1591: 陽光哥德式圖書館中的金髮女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅電影感奇幻攝影，描繪一位梳著優雅髮髻的金髮女子，身處宏偉、陽光灑落的哥德式圖書館內。
+
+#### 提示詞
+
+```text
+A cinematic, highly detailed fantasy photograph of a beautiful blonde woman with her hair styled in an elegant updo, standing gracefully inside a majestic, sunlit gothic library.
+```
+
+### No. 1592: 夢幻超寫實電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anissa
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成自發性、夢幻感肖像的提示，對面部特徵有特定限制，並帶有電影膠片顆粒的美學風格。
+
+#### 提示詞
+
+```text
+Do not change the facial features, facial proportions, or hair color. A spontaneous shot that feels like a vague memory or a dream, a dreamlike memory, as if it were accidentally captured. Ultra-realistic photography with a cinematic film-grain
+```
+
+### No. 1593: 年輕女性的寫實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個詳細的提示，用於生成一位擁有草莓金髮的年輕女性的寫實肖像。
+
+#### 提示詞
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, long voluminous wavy strawberry-blonde to copper-red hair cascading over her shoulders and back
+```
+
+### No. 1594: 身穿炭灰色細條紋西裝的英俊男子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成影片或圖像的提示，描繪一位面對鏡頭、穿著考究的男子。
+
+#### 提示詞
+
+```text
+A handsome male stands straight-on facing the camera with centered weight and level shoulders, sharply dressed in a structured charcoal gray double-breasted pinstripe suit. His hair is meticulously styled in a textured
+```
+
+### No. 1595: 優雅女性的電影感肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ayushi Srivastava
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成高解析度、電影感工作室肖像的提示，描繪一位側臉、擁有波浪棕色頭髮的優雅年輕女性。
+
+#### 提示詞
+
+```text
+A high-resolution, cinematic studio portrait of a sophisticated young woman with wavy brown hair, captured in a striking profile
+```
+
+### No. 1596: 被食人魔怪物獵捕的魔法森林
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Soraya Thorne
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個敘述性提示，描述一個人在魔法森林中被食人魔般的怪物及其野獸坐騎獵捕。
+
+#### 提示詞
+
+```text
+I thought I was just wandering through the magic forest until a pack of ogre-like monsters and their beast mounts started hunting me.
+```
+
+### No. 1597: 溫馨現代臥室中的鏡子自拍
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成全身鏡子自拍的提示，描繪一位金髮女子在現代臥室中。
+
+#### 提示詞
+
+```text
+A stunning full-body mirror selfie of a beautiful woman in a cozy modern bedroom, taking a confident photo with a gray iPhone in her right hand. She has fair skin, blonde wavy hair styled in a half-up bun with a small
+```
+
+### No. 1598: 主角的電影感雙色中景肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作脆弱感、電影感肖像的提示，採用雙色調色板。
+
+#### 提示詞
+
+```text
+A cinematic bi-color mid-shot (chest-up) of The Protagonist. The Fragile Moment: looking away and slightly down, soft, vulnerable, raw human
+```
+
+### No. 1599: 體育場內歡呼的西班牙女球迷
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一張充滿活力的照片，捕捉足球決賽期間，一位女球迷在擠滿觀眾的體育場內歡呼的瞬間。
+
+#### 提示詞
+
+```text
+A vibrant, high-energy photograph capturing a jubilant female fan celebrating in a packed stadium during a major football championship final. She is wearing a red Spain national team jersey and a scarf
+```
+
+### No. 1600: 黃昏時分陽台上的優雅女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅電影感的肖像，描繪黃昏時分一位優雅女子站在陽台上，背景是發光的城市天際線和遠處的地標。
+
+#### 提示詞
+
+```text
+Create a stunning, cinematic portrait of an elegant woman standing on a balcony at twilight, with the soft, glowing lights of a city skyline—featuring a distant, iconic landmark—providing a moody, atmospheric
+```
+
+### No. 1601: 建立物理精確的線性深度圖
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** OAK
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個將圖像轉換為灰階深度圖的提示，其中白色代表最近元素，黑色代表最遠元素。
+
+#### 提示詞
+
+```text
+Convert this image into a physically accurate grayscale linear depth map. White = nearest, black = farthest. Preserve geometry
+```
+
+### No. 1602: 僅深度電影分鏡生成器提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** OAK
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個系統提示，用於從圖像及其深度圖生成一個3x3的僅深度分鏡圖。
+
+#### 提示詞
+
+```text
+You are a cinematic storyboard generator working in DEPTH-ONLY STORYBOARD MODE. You will receive: IMAGE 1 —
+```
+
+### No. 1603: 沉思女子的憂鬱肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作氛圍感肖像的提示，描繪一位深色頭髮的年輕女子，處於光線昏暗、陰鬱的環境中。
+
+#### 提示詞
+
+```text
+These moody, atmospheric portraits capture a young woman with dark, wavy hair and an intense, contemplative gaze in a dimly lit, somber environment. The lighting is low-key and dramatic, casting soft shadows that
+```
+
+### No. 1604: 席德妮·史威尼進入房間
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Society
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成影片的提示，內容為席德妮·史威尼進入一個房間，帶有飄渺、光影變幻的氣場。
+
+#### 提示詞
+
+```text
+Sydney Sweeney: Enter a room as if the air itself is shifting to make space for your light
+```
+
+### No. 1605: 菲律賓女子肖像圖像參考
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Saira
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指示使用上傳圖像作為參考的提示，以保留特定的面部和身體特徵。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the main reference. Preserve the subject's exact facial identity, natural Filipina features, warm confident smile, expressive eyes, long wavy black hair, and realistic body proportions.
+```
+
+### No. 1606: 身著紗麗的電影感黑紅肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅電影感的黑紅肖像，描繪一位留著深色長髮的女孩，身穿白色紗麗並佩戴銀飾，風格夢幻，帶有90年代黑色電影的氛圍。
+
+#### 提示詞
+
+```text
+Cinematic black-and-red portrait of the girl from the first uploaded photo, 100% same face. Long wavy dark hair. White stone-work saree, black blouse, silver oxidized jewelry. High-contrast lighting, soft glow, dreamy 90s film-noir, subtle film
+```
+
+### No. 1607: 處於神秘譫妄發作中的佩德羅
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jaquelin M.
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅描繪佩德羅處於神秘譫妄發作中的插圖。
+
+#### 提示詞
+
+```text
+ilustra a Petro en la mitad de un episodio de delirio místico.
+```
+
+### No. 1608: 年輕女子的寫實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成寫實肖像的提示，描繪一位擁有白金金髮和藍綠色眼睛的年輕女子。
+
+#### 提示詞
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s, fair skin with a subtle golden glow, long voluminous wavy platinum blonde hair cascading over her shoulders, sharp almond-shaped blue-green
+```
+
+### No. 1609: 單色時尚編輯海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zunaira Ai
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成超現實、電影感黑白時尚海報的提示，主角是一位自信的年輕女子。
+
+#### 提示詞
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white
+```
+
+### No. 1610: 手持芝士漢堡的藍眼女子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zarlish
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成肖像的提示，描繪一位金髮藍眼的年輕女子，身穿藍色襯衫，手持一個芝士漢堡。
+
+#### 提示詞
+
+```text
+A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

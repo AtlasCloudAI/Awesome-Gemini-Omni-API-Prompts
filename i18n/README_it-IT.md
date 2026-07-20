@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1570%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una raccolta curata di esempi di prompt Gemini Omni con anteprime video OSS integrate.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Conteggio |
 | --- | ---: |
-| Prompt Totali | 1570 |
+| Prompt Totali | 1610 |
 | Categorie | 8 |
-| Video di Anteprima | 455 |
-| Ultimo Aggiornamento | 19/07/2026 |
+| Video di Anteprima | 457 |
+| Ultimo Aggiornamento | 20/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1468)
+### Twitter Community (1508)
 
 ### No. 103: Ritratto Romantico Naturale - Fotografia Editoriale
 
@@ -36244,6 +36244,815 @@ Una richiesta per generare un ritratto scuro e drammatico con dettagli estremi d
 
 ```text
 Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image
+```
+
+### No. 1571: Ritratto elegante in un ambiente storico e rustico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un ritratto elegante di una donna con capelli scuri in un ambiente storico all'aperto, che indossa un vestito verde scuro scollato sulle spalle.
+
+#### Prompt
+
+```text
+An elegant and enchanting portrait of a beautiful young woman with dark, loosely styled hair, posing gracefully in a historic, rustic outdoor setting. She is wearing a stunning off-the-shoulder dark green
+```
+
+### No. 1572: Ritratto drammatico con occhiali da sole riflettenti
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aijaz
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto in formato 3:4 di un uomo con un taglio fade e barba, che guarda verso l'alto contro uno sfondo nero, i cui occhiali da sole riflettono uno skyline cittadino.
+
+#### Prompt
+
+```text
+A dramatic 3:4 portrait of a man with a sharp fade haircut and a short beard, looking slightly upward against a solid black background. He is wearing round, silver-rimmed sunglasses that perfectly reflect a black and white cityscape
+```
+
+### No. 1573: Ritratto fotorealistico di una giovane donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto fotorealistico di una giovane donna con capelli rosso mogano e occhi verdi.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s with fair skin, long voluminous wavy auburn-red hair cascading over her shoulders, striking green eyes with defined brows, full lips with soft pink
+```
+
+### No. 1574: Ufficiale dell'Esercito Pakistano su un divano color crema
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Dilshad Hussain
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt descrittivo per generare l'immagine di un ufficiale militare in uniforme posato in modo casuale.
+
+#### Prompt
+
+```text
+A Pakistan Army officer sitting casually on a cream sofa in his digital camouflage uniform. He has a resting his chin on his hand with an elbow on the armrest, legs crossed. Wears tan combat boots. Name tape "Muhammad Rustam"
+```
+
+### No. 1575: Presentazione storyboard commerciale premium
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** AI SabaKhan
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078793130661519478.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per creare uno storyboard di una singola pagina, pronto per il cliente, in formato verticale 3:4 per la pubblicità di lusso.
+
+#### Prompt
+
+```text
+TITLE: Premium Commercial Storyboard Presentation 
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury advertising agency presentation board
+• Client-ready storyboard layout
+```
+
+### No. 1576: Ritratto cinematografico fotorealistico di una donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** dreamy digital arts
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto ravvicinato, fotorealistico e cinematografico di una donna contro un muro neutro con illuminazione soft da studio.
+
+#### Prompt
+
+```text
+Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
+```
+
+### No. 1577: Ritratto femminile giovanile con tratti autentici
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Anissa
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto ad alta risoluzione di una donna con i tratti facciali originali preservati, un viso simmetrico e un seno naturale.
+
+#### Prompt
+
+```text
+Maintain her original facial features exactly as they are, preserving her 100% authentic appearance and perfectly symmetrical face. She should look youthful and feminine, with a naturally full bust (not flat). Create a high-resolution
+```
+
+### No. 1578: Scatto di vita candidato e fotorealistico di una persona
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Giulia
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare uno scatto di vita a mezzo busto, candidato e fotorealistico, di una persona con i capelli lunghi.
+
+#### Prompt
+
+```text
+A photorealistic, candid lifestyle medium shot of [NAME] with long hair cascading over her shoulders, captured from a
+```
+
+### No. 1579: Editoriale di alta moda con riferimento identitario
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Al-Shamus
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare fotografia ultra-realistica di alta moda utilizzando riferimenti d'immagine specifici per l'abito, l'atmosfera e il volto.
+
+#### Prompt
+
+```text
+Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic.
+
+Use the uploaded identity photo ONLY for:
+- exact face identity
+```
+
+### No. 1580: Selfie amatoriale in palestra di un'influencer italiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** KeorUnreal
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un selfie amatoriale in palestra di una giovane influencer italiana che prova un outfit.
+
+#### Prompt
+
+```text
+Amateur gym portrait iphone selfie of an italian influencer around 23yo trying outfit that boost her crazy
+```
+
+### No. 1581: Preservare l'Identità e i Tratti del Viso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Simply Ray
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt che istruisce un'IA a mantenere tutti i dettagli facciali e stilistici specifici senza alterazioni.
+
+#### Prompt
+
+```text
+Preserve the exact facial identity, facial features, facial proportions, hairstyle, bangs, eyebrows, eyelashes, eye shape, nose, lips, skin tone, makeup, outfit, lighting, color grading, and overall mood. Do not beautify, modify, or
+```
+
+### No. 1582: Ritratto ultra-realistico di una donna al tramonto sulla spiaggia
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** lovimg_com
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto realistico di una donna con capelli scuri sulla spiaggia durante l'ora dorata.
+
+#### Prompt
+
+```text
+Ultra-realistic beach sunset portrait of a beautiful young woman with long silky dark brown hair and soft glowing skin, standing by the ocean shoreline during golden hour. She wears an elegant black
+```
+
+### No. 1583: Collage Fotografico Professionale di una Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per creare un collage fotografico di alta qualità che ritrae una bella giovane donna con dettagli specifici di capelli e occhi.
+
+#### Prompt
+
+```text
+Create a high-quality, professional photography collage featuring a beautiful young woman with long, flowing dark brown hair and warm, expressive eyes. The composite should consist of four distinct close-up
+```
+
+### No. 1584: Illustrazione 2D Piatta in Stile Batik Indonesiano
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** enepty
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'illustrazione 2D dettagliata utilizzando l'estetica dell'inchiostro batik tradizionale indonesiano e tecniche di resistenza alla cera.
+
+#### Prompt
+
+```text
+A highly detailed 2D flat illustration of [MASUKKAN NAMA OBJEK DI SINI], drawn exclusively using traditional Indonesian batik ink aesthetics and delicate canting (wax-resist)
+```
+
+### No. 1585: Anatra di Gomma Elvis in Tuta con Paillettes
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Heather Green
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un'immagine di un'anatra di gomma gialla vestita come Elvis Presley, con un'acconciatura pompadour e una tuta con paillettes.
+
+#### Prompt
+
+```text
+a yellow rubber duck dressed like Elvis, slick black pompadour hairstyle, white rhinestone-studded jumpsuit with a high collar and wide belt, tiny sunglasses and a vintage
+```
+
+### No. 1586: Ritratto Cinematografico in Abito da Ballo Blu
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un ritratto cinematografico di una donna in un elegante abito da ballo azzurro chiaro.
+
+#### Prompt
+
+```text
+A high-quality, cinematic portrait of a beautiful young woman captured in a series of elegant poses. She is wearing an exquisite, floor-length light blue ballgown with intricate lace detailing on the bodice
+```
+
+### No. 1587: Ritratto fotorealistico di una giovane donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto fotorealistico di una giovane donna con pelle chiara, capelli mossi raccolti in due chignon (space buns) e una mandibola ben definita.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young woman in her early 20s with fair skin, light brown to blonde wavy hair styled in two cute high space buns with loose strands framing her face, sharp jawline
+```
+
+### No. 1588: Ritratto di una donna glamour su una gigantesca fotocamera rosa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Hania Ai
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto verticale iperrealistico di una donna bionda glamour seduta su una gigantesca fotocamera istantanea rosa.
+
+#### Prompt
+
+```text
+A hyper-realistic vertical portrait of a glamorous young blonde woman with long wavy hair, bold winged eyeliner, glossy nude lips, and gold hoop earrings, sitting perched on top of a giant oversized pink Instax Mini instant camera.
+```
+
+### No. 1589: Poster Pubblicitario Cinematografico per Cuffie Bowers & Wilkins
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Al-Shamus
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per creare un poster pubblicitario cinematografico ultra-premium che presenta un primo piano di cuffie di lusso in uno studio scuro.
+
+#### Prompt
+
+```text
+Ultra-premium cinematic advertising poster for Bowers & Wilkins Px8 luxury wireless headphones. Extreme macro close-up portrait of a sophisticated musician in a dark immersive studio environment. The headphones dominate the frame, with the
+```
+
+### No. 1590: Ritratto Iperrealistico Avant-Garde al Terzo Sinistro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** timedoctor.eth
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto fotografico iperrealistico e avant-garde di un protagonista posizionato sul terzo sinistro dell'inquadratura con spazio negativo.
+
+#### Prompt
+
+```text
+A hyper-realistic, avant-garde photographic portrait of The Protagonist, positioned strictly on the far left third of the frame, leaving vast negative space on the right.
+```
+
+### No. 1591: Donna bionda in una biblioteca gotica illuminata dal sole
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una fotografia fantasy cinematografica di una donna bionda con un'acconciatura elegante all'interno di una maestosa biblioteca gotica illuminata dal sole.
+
+#### Prompt
+
+```text
+A cinematic, highly detailed fantasy photograph of a beautiful blonde woman with her hair styled in an elegant updo, standing gracefully inside a majestic, sunlit gothic library.
+```
+
+### No. 1592: Ritratto Cinematografico Ultra Realistico e Onirico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Anissa
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per un ritratto spontaneo e onirico con vincoli specifici sui tratti del viso e un'estetica cinematografica con grana della pellicola.
+
+#### Prompt
+
+```text
+Do not change the facial features, facial proportions, or hair color. A spontaneous shot that feels like a vague memory or a dream, a dreamlike memory, as if it were accidentally captured. Ultra-realistic photography with a cinematic film-grain
+```
+
+### No. 1593: Ritratto Fotorealistico di una Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt dettagliato per generare un ritratto fotorealistico di una giovane donna con capelli biondo fragola.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, long voluminous wavy strawberry-blonde to copper-red hair cascading over her shoulders and back
+```
+
+### No. 1594: Uomo affascinante in completo a righe di carbone
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Picts by AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un video o un'immagine di un uomo elegantemente vestito che guarda dritto in camera.
+
+#### Prompt
+
+```text
+A handsome male stands straight-on facing the camera with centered weight and level shoulders, sharply dressed in a structured charcoal gray double-breasted pinstripe suit. His hair is meticulously styled in a textured
+```
+
+### No. 1595: Ritratto Cinematografico di una Donna Sofisticata
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Ayushi Srivastava
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt per generare un ritratto da studio cinematografico ad alta risoluzione di una giovane donna sofisticata con capelli castani mossi di profilo.
+
+#### Prompt
+
+```text
+A high-resolution, cinematic studio portrait of a sophisticated young woman with wavy brown hair, captured in a striking profile
+```
+
+### No. 1596: Foresta magica braccata da mostri orchi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Soraya Thorne
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2078886782083481684.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt narrativa che descrive una persona braccata da mostri simili a orchi e dalle loro bestie da sella in una foresta magica.
+
+#### Prompt
+
+```text
+I thought I was just wandering through the magic forest until a pack of ogre-like monsters and their beast mounts started hunting me.
+```
+
+### No. 1597: Selfie allo Specchio in una Camera da Letto Moderna e Accogliente
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Sharon Riley
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per generare un selfie a figura intera allo specchio di una donna bionda in una camera da letto moderna.
+
+#### Prompt
+
+```text
+A stunning full-body mirror selfie of a beautiful woman in a cozy modern bedroom, taking a confident photo with a gray iPhone in her right hand. She has fair skin, blonde wavy hair styled in a half-up bun with a small
+```
+
+### No. 1598: Primo Piano Cinematografico a Due Colori del Protagonista
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** timedoctor.eth
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per un ritratto cinematografico vulnerabile, con una palette a due colori.
+
+#### Prompt
+
+```text
+A cinematic bi-color mid-shot (chest-up) of The Protagonist. The Fragile Moment: looking away and slightly down, soft, vulnerable, raw human
+```
+
+### No. 1599: Tifosa della Spagna Giubilante nello Stadio
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una fotografia vibrante di una tifosa che esulta in uno stadio gremito durante una finale di calcio.
+
+#### Prompt
+
+```text
+A vibrant, high-energy photograph capturing a jubilant female fan celebrating in a packed stadium during a major football championship final. She is wearing a red Spain national team jersey and a scarf
+```
+
+### No. 1600: Donna elegante sul balcone al crepuscolo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aatif J
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto cinematografico di una donna elegante su un balcone al tramonto, con uno skyline cittadino luminoso e un monumento in lontananza.
+
+#### Prompt
+
+```text
+Create a stunning, cinematic portrait of an elegant woman standing on a balcony at twilight, with the soft, glowing lights of a city skyline—featuring a distant, iconic landmark—providing a moody, atmospheric
+```
+
+### No. 1601: Crea una mappa di profondità lineare fisicamente accurata
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** OAK
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per convertire un'immagine in una mappa di profondità in scala di grigi in cui il bianco rappresenta gli elementi più vicini e il nero quelli più lontani.
+
+#### Prompt
+
+```text
+Convert this image into a physically accurate grayscale linear depth map. White = nearest, black = farthest. Preserve geometry
+```
+
+### No. 1602: Prompt Generatore di Storyboard Cinematografico Solo Profondità
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** OAK
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt di sistema per generare uno storyboard 3x3 basato solo sulla profondità da un'immagine e dalla sua mappa di profondità.
+
+#### Prompt
+
+```text
+You are a cinematic storyboard generator working in DEPTH-ONLY STORYBOARD MODE. You will receive: IMAGE 1 —
+```
+
+### No. 1603: Ritratto Malinconico di una Donna Contemplativa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aatif J
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per creare ritratti atmosferici di una giovane donna con capelli scuri in un ambiente poco illuminato e sommesso.
+
+#### Prompt
+
+```text
+These moody, atmospheric portraits capture a young woman with dark, wavy hair and an intense, contemplative gaze in a dimly lit, somber environment. The lighting is low-key and dramatic, casting soft shadows that
+```
+
+### No. 1604: Sydney Sweeney che Entra in una Stanza
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** AI Society
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per generare un video di Sydney Sweeney che entra in una stanza con una presenza eterea e mutevole alla luce.
+
+#### Prompt
+
+```text
+Sydney Sweeney: Enter a room as if the air itself is shifting to make space for your light
+```
+
+### No. 1605: Riferimento Immagine per Ritratto di Filippina
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Saira
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt che istruisce a utilizzare un'immagine caricata come riferimento per preservare specifici tratti facciali e fisici.
+
+#### Prompt
+
+```text
+Use the uploaded image as the main reference. Preserve the subject's exact facial identity, natural Filipina features, warm confident smile, expressive eyes, long wavy black hair, and realistic body proportions.
+```
+
+### No. 1606: Ritratto Cinematografico in Bianco e Nero e Rosso con Sari
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aiza
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un ritratto cinematografico in bianco e nero e rosso di una ragazza con lunghi capelli scuri, che indossa un sari bianco e gioielli d'argento, in uno stile onirico da film noir anni '90.
+
+#### Prompt
+
+```text
+Cinematic black-and-red portrait of the girl from the first uploaded photo, 100% same face. Long wavy dark hair. White stone-work saree, black blouse, silver oxidized jewelry. High-contrast lighting, soft glow, dreamy 90s film-noir, subtle film
+```
+
+### No. 1607: Petro in un episodio di delirio mistico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Jaquelin M.
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un'illustrazione che raffigura Petro nel mezzo di un episodio di delirio mistico.
+
+#### Prompt
+
+```text
+ilustra a Petro en la mitad de un episodio de delirio místico.
+```
+
+### No. 1608: Ritratto Fotorealistico di una Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per generare un ritratto fotorealistico di una giovane donna con capelli biondo platino e occhi blu-verdi.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young woman in her mid-20s, fair skin with a subtle golden glow, long voluminous wavy platinum blonde hair cascading over her shoulders, sharp almond-shaped blue-green
+```
+
+### No. 1609: Poster Editoriale di Moda in Monocromia
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Zunaira Ai
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per generare un poster di moda ultra-realistico e cinematografico in bianco e nero, raffigurante una giovane donna sicura di sé.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white
+```
+
+### No. 1610: Donna con Occhi Azzurri che Tiene un Cheeseburger
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Zarlish
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una prompt per generare un ritratto di una giovane donna con capelli biondi e occhi azzurri, che indossa una maglietta blu e tiene un cheeseburger.
+
+#### Prompt
+
+```text
+A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
 ```
 
 Questo README e generato automaticamente dai dati in `data/prompts_by_locale`.

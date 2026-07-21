@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Une collection de prompts Gemini Omni avec apercus video OSS integres.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Mesure | Nombre |
 | --- | ---: |
-| Nombre Total de Prompts | 1610 |
+| Nombre Total de Prompts | 1637 |
 | Categories | 11 |
-| Videos d'Apercu | 457 |
-| Derniere Mise a Jour | 20/07/2026 |
+| Videos d'Apercu | 463 |
+| Derniere Mise a Jour | 21/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Plan 1 (8 secondes) Un puissant personnage féminin. Plan large cinématographiq
 
 <a id="category-11"></a>
 
-### Twitter Community (1508)
+### Twitter Community (1535)
 
 ### No. 103: Portrait éditorial romantique en pleine nature
 
@@ -37068,6 +37068,554 @@ Une instruction pour générer un portrait d'une jeune femme blonde aux yeux ble
 
 ```text
 A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
+```
+
+### No. 1611: Art Batik abstrait moderne sur soie
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** enepty
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une œuvre d'art expressionniste abstraite moderne utilisant les techniques traditionnelles du Batik indonésien sur de la soie fine.
+
+#### Prompt
+
+```text
+A breathtaking modern abstract expressionist artwork created entirely through traditional Indonesian Batik wax-resist and ink dyeing techniques on fine silk.
+```
+
+### No. 1612: Scène d'action culinaire cinématographique avec une cheffe
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Sharon Riley
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une vidéo dynamique d'une cheffe blonde dans une cuisine professionnelle.
+
+#### Prompt
+
+```text
+A cinematic, action-packed cooking scene in a professional restaurant kitchen featuring a confident young Western female chef with long wavy blonde hair tied into a
+```
+
+### No. 1613: Femme sereine profitant d'un après-midi calme dans un parc
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Minahil
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une vidéo d'une femme dans un parc, capturant des moments de joie et de réflexion dans une lumière naturelle chaude.
+
+#### Prompt
+
+```text
+A serene woman in a beige knit sweater and denim jeans enjoys a quiet afternoon in a park, capturing candid moments of joy, writing, and gentle reflection. The warm, natural light illuminates her soft
+```
+
+### No. 1614: Portrait photoréaliste d'une femme envoyant un baiser
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glowecho
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne détaillée pour générer un portrait photoréaliste d'une jeune femme aux yeux bleus et aux lèvres roses en train de faire un baiser.
+
+#### Prompt
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, striking bright blue eyes with long lashes, full glossy pink lips puckered in a kiss, soft natural lighting, shallow depth of field, high detail, 8K
+```
+
+### No. 1615: Portrait de mode ultra-réaliste d'une Sud-Asiatique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** AIwithMinal
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer un portrait de mode détaillé et réaliste d'une jeune femme sud-asiatique.
+
+#### Prompt
+
+```text
+Ultra-realistic DSLR fashion portrait of a beautiful young South Asian woman with long, voluminous dark chocolate-brown wavy hair, soft face-framing layers, fair glowing skin with natural texture, expressive warm brown almond-shaped eyes
+```
+
+### No. 1616: Photographie de studio de produits - Fruits
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Maddox
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour créer une photographie de studio de fruits mûrs sur fond blanc avec un éclairage doux.
+
+#### Prompt
+
+```text
+Studio product photography of a ripe [fruit type] on pure white seamless background, soft diffused lighting from top-left, subtle reflection on glossy white surface. The logo "[product from uploaded photo]" is deeply
+```
+
+### No. 1617: Vol de drone au-dessus d'une forêt tropicale
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Doreen
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une vue aérienne d'une forêt tropicale luxuriante enveloppée de brume lors d'un magnifique lever de soleil à la lumière dorée.
+
+#### Prompt
+
+```text
+A drone flying over a dense tropical rainforest at sunrise, mist between trees, smooth aerial movement, soft golden lighting.
+```
+
+### No. 1618: Portrait hyper-réaliste d'un homme en marche
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Tajammal Hussain
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer un portrait cinématographique et hyper-réaliste d'un beau jeune homme barbu marchant avec assurance.
+
+#### Prompt
+
+```text
+Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a handsome young man with thick styled dark hair, a mustache, and a beard. He is confidently walking forward, looking slightly
+```
+
+### No. 1619: Portrait cinématographique rustique sur une barrière de ferme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ahmad Faraz
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait extérieur cinématographique d'un homme assis sur une barrière de ferme patinée par le temps.
+
+#### Prompt
+
+```text
+A rustic cinematic outdoor lifestyle portrait of a male figure seated casually atop a weathered rusty metal farm gate, one arm resting on the top rail for support, gazing off to the side with a calm, quietly confident, and relaxed expression.
+```
+
+### No. 1620: Consigne pour personnage féminin Nano Banana Pro
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Glena jenner
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne structurée pour générer un personnage féminin jeune adulte avec des spécifications détaillées pour les cheveux et l'apparence.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "gender": "female",
+      "age_group": "young adult",
+      "hair": "long hair gathered into a high ponytail, flowing across the cushion above the head with smooth volume and glossy texture",
+      "skin_tone":
+```
+
+### No. 1621: Portrait ultra-réaliste d'une beauté sur un coussin crème
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Jahan Zaib
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait rapproché et cinématographique d'une femme allongée sur un coussin luxueux.
+
+#### Prompt
+
+```text
+Ultra-realistic close-up beauty portrait of a stunning young woman reclining gracefully on a luxurious cream pillow, captured from a soft diagonal angle that creates an intimate, cinematic composition. She wears a fitted deep
+```
+
+### No. 1622: Illustration en style BD de la partie supérieure du corps
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Haybrook
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une illustration de style bande dessinée à fort contraste, avec des contours à l'encre et des aplats de couleur.
+
+#### Prompt
+
+```text
+High-contrast digital comic-style illustration with bold black ink outlines, cross-hatching shading, and flat saturated color blocks. Upper-body composition on a solid flat background. Strong directional light with hard comic-style shadow edges.
+```
+
+### No. 1623: Tournoi professionnel réaliste de combat de gifles
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alpha Mom
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une vidéo d'un tournoi professionnel réaliste de combat de gifles (slap fighting).
+
+#### Prompt
+
+```text
+a realistic professional slap-fighting tournament.
+```
+
+### No. 1624: Gros plan préservant les traits faciaux originaux
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Anissa
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une image en gros plan en intérieur d'une femme aux traits faciaux préservés, beauté naturelle, symétrie, jeunesse et poitrine généreuse.
+
+#### Prompt
+
+```text
+Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest. A close-up indoor
+```
+
+### No. 1625: Homme confiant en costume de lin beige prenant la pose
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Picts by AI
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une vidéo ou une image d'un homme en costume adoptant une pose détendue et confiante.
+
+#### Prompt
+
+```text
+A confident man in a beige linen suit and sunglasses sits center-left, angled in a relaxed 45-degree turn while casually leaning to his right. His facial expression is neutral and deliberately posed, with his eyes
+```
+
+### No. 1626: Portrait mélancolique alchimique aux tons d'or et de cendre volcanique
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** timedoctor.eth
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un portrait au format moyen d'un protagoniste dans un style mélancolique et éditorial, avec des tons d'or et de cendre volcanique.
+
+#### Prompt
+
+```text
+Medium Format Hasselblad H6D-100c, 50mm f/2.8 lens. The Protagonist in a three-quarter editorial mid-shot (waist-up). The body is angled at
+```
+
+### No. 1627: Témoignage UGC avec une femme récurrente
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Mehdi
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une vidéo de témoignage de type contenu généré par les utilisateurs, mettant en scène une femme récurrente dans un cadre naturel de cuisine.
+
+#### Prompt
+
+```text
+one consistent woman, same face, same voice, top to bottom
+she pulls the Gruns bag into frame, talks straight to camera
+natural morning light, real fridge clutter, nothing staged
+```
+
+### No. 1628: Transition de scène vers la dimension parallèle
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** CHRIS FIRST
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne vidéo pour une scène qui commence normalement et bascule lentement vers la dimension parallèle (Upside Down).
+
+#### Prompt
+
+```text
+The video starts completely normal, showing the original, unmodified scene. Immediately after the start, a slow, detail-by-detail transition into the 'Upside Down' dimension begins.
+```
+
+### No. 1629: Portrait vertical d'une femme avec un chapeau coloré
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ayushi Srivastava
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait photographique vertical d'une jeune femme portant un chapeau coloré, devant un mur.
+
+#### Prompt
+
+```text
+Vertical 9:16 photographed portrait. A young woman standing in front of a wall wearing a colorful hat. Tight vertical waist-up portrait, subject slightly right of center, face in the upper third with little headroom, torso. Prada fine nylon
+```
+
+### No. 1630: Rockstar féminine sur scène de concert
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Ash
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une image d'une rockstar féminine énergique se produisant sur la scène d'un concert.
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 1631: Grille de dioramas de sitcoms en style noir au crayon
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Gadgetify
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une grille 2x2 de quatre sitcoms célèbres dans un style graphique noir à fort contraste, combiné à une construction d'univers en croquis au crayon et une mise en scène en diorama.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous sitcoms: <noir_pencil_diorama> MEDIUM: High-contrast noir graphic design fused with dense pencil-sketch worldbuilding and shallow handmade diorama staging.
+```
+
+### No. 1632: Portrait cinématographique de profil avec traînées de lumière néon
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** shahroze khan
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait cinématographique utilisant des traînées de lumière néon, une mise au point douce et une palette de couleurs lavande-bleue.
+
+#### Prompt
+
+```text
+A cinematic side-profile portrait of a young man wearing a dark
+```
+
+### No. 1633: Portrait en studio d'un sujet aux cheveux roux
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Giulia
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour un portrait photographique en studio, en plan américain à hauteur des yeux, d'une personne aux cheveux roux ondulés et volumineux.
+
+#### Prompt
+
+```text
+Medium full shot, eye-level studio photograph of [NAME] with voluminous wavy red hair with natural, luminous highlights that accentuate movement, captured
+```
+
+### No. 1634: Affiche Bollywood ultra-réaliste avec référence faciale
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Dilshad Hussain
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour générer une affiche cinématographique Bollywood hyper-réaliste mettant en scène l'utilisateur dans une tenue et une pose spécifiques.
+
+#### Prompt
+
+```text
+Using uploaded face as reference. Create a Ultra hyper-realistic cinematic Bollywood poster: me in a net sky-color open blazer with white shirt, white pant, white sneakers. Below, the me is sitting on foor
+```
+
+### No. 1635: Femme joyeuse riant sur une plage
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Maddox
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne cinématographique pour une jeune femme joyeuse aux cheveux auburn bouclés riant sur une plage de sable.
+
+#### Prompt
+
+```text
+A joyful young woman with curly auburn hair kneeling on a sandy beach, wearing a light blue ribbed tank top and denim shorts, a white tropical flower tucked behind her ear, laughing with one arm raised in the air.
+```
+
+### No. 1636: Vidéo explicative dynamique en plan poitrine
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Vlad Dubchak
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un jeune homme présente énergiquement des informations directement à la caméra dans un studio moderne et épuré, illustrant un montage vidéo dynamique.
+
+#### Prompt
+
+```text
+A young man with glasses and a brown sleeveless shirt stands against a dark grey background. He speaks directly to the camera with energetic facial expressions and engaging body language, including leaning in and making hand gestures. The camera features subtle, dynamic movements, maintaining a close-up shot of his upper body. The style is modern, clean, and well-lit, suitable for an engaging short-form explainer video.
+```
+
+### No. 1637: Affiche de collage éditorial moderne avec paysages cinématographiques
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** FaKHaR ThInD
+- **Langue:** `fr-FR`
+- **Video:** [Voir]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Description
+
+Une consigne pour créer une affiche moderne avec des panneaux superposés de scènes cinématographiques et une figure graphique centrale.
+
+#### Prompt
+
+```text
+Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
 ```
 
 Ce README est genere automatiquement depuis `data/prompts_by_locale`.

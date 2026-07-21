@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1610 |
+| 提示词总数 | 1637 |
 | 分类数 | 16 |
-| 预览视频数 | 457 |
-| 最后更新 | 2026/07/20 |
+| 预览视频数 | 463 |
+| 最后更新 | 2026/07/21 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1508)
+### Twitter Community (1535)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -37093,6 +37093,554 @@ Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:
 
 ```text
 A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
+```
+
+### No. 1611: 丝绸上的现代抽象蜡染艺术
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** enepty
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成在精美丝绸上运用传统印尼蜡染技术创作的现代抽象表现主义艺术品的提示词。
+
+#### 提示词
+
+```text
+A breathtaking modern abstract expressionist artwork created entirely through traditional Indonesian Batik wax-resist and ink dyeing techniques on fine silk.
+```
+
+### No. 1612: 女性厨师电影感烹饪动作场景
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成专业厨房中金发女厨师的动态视频的提示词。
+
+#### 提示词
+
+```text
+A cinematic, action-packed cooking scene in a professional restaurant kitchen featuring a confident young Western female chef with long wavy blonde hair tied into a
+```
+
+### No. 1613: 公园中享受宁静午后的恬静女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成公园中女性的视频、捕捉温暖自然光下喜悦与沉思时刻的提示词。
+
+#### 提示词
+
+```text
+A serene woman in a beige knit sweater and denim jeans enjoys a quiet afternoon in a park, capturing candid moments of joy, writing, and gentle reflection. The warm, natural light illuminates her soft
+```
+
+### No. 1614: 女性飞吻的写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成一位蓝眼睛、粉红嘴唇、噘嘴飞吻的年轻女性写实肖像的详细提示词。
+
+#### 提示词
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, striking bright blue eyes with long lashes, full glossy pink lips puckered in a kiss, soft natural lighting, shallow depth of field, high detail, 8K
+```
+
+### No. 1615: 超写实南亚时尚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AIwithMinal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成一位年轻南亚女性的细致、写实时尚肖像的提示词。
+
+#### 提示词
+
+```text
+Ultra-realistic DSLR fashion portrait of a beautiful young South Asian woman with long, voluminous dark chocolate-brown wavy hair, soft face-framing layers, fair glowing skin with natural texture, expressive warm brown almond-shaped eyes
+```
+
+### No. 1616: 水果影棚产品摄影
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作成熟水果在白色背景和柔和灯光下的影棚产品摄影的提示词。
+
+#### 提示词
+
+```text
+Studio product photography of a ripe [fruit type] on pure white seamless background, soft diffused lighting from top-left, subtle reflection on glossy white surface. The logo "[product from uploaded photo]" is deeply
+```
+
+### No. 1617: 热带雨林上空的无人机飞行
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Doreen
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅在美丽日出时分、金色阳光照耀下、薄雾笼罩的茂密热带雨林的鸟瞰图。
+
+#### 提示词
+
+```text
+A drone flying over a dense tropical rainforest at sunrise, mist between trees, smooth aerial movement, soft golden lighting.
+```
+
+### No. 1618: 行走男性的超写实肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tajammal Hussain
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成一位蓄有胡须、自信行走的英俊青年男性的电影感超写实肖像的提示词。
+
+#### 提示词
+
+```text
+Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a handsome young man with thick styled dark hair, a mustache, and a beard. He is confidently walking forward, looking slightly
+```
+
+### No. 1619: 农场栅栏上的质朴电影感肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ahmad Faraz
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成男性坐在饱经风霜的农场栅栏上的户外电影感肖像的提示词。
+
+#### 提示词
+
+```text
+A rustic cinematic outdoor lifestyle portrait of a male figure seated casually atop a weathered rusty metal farm gate, one arm resting on the top rail for support, gazing off to the side with a calm, quietly confident, and relaxed expression.
+```
+
+### No. 1620: 纳米香蕉专业版女性角色提示词
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glena jenner
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有详细头发和外貌规格的青年女性角色的结构化提示词。
+
+#### 提示词
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "gender": "female",
+      "age_group": "young adult",
+      "hair": "long hair gathered into a high ponytail, flowing across the cushion above the head with smooth volume and glossy texture",
+      "skin_tone":
+```
+
+### No. 1621: 奶油枕上的超写实美女肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jahan Zaib
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成女性倚靠在奢华枕头上、具有电影感特写肖像的提示词。
+
+#### 提示词
+
+```text
+Ultra-realistic close-up beauty portrait of a stunning young woman reclining gracefully on a luxurious cream pillow, captured from a soft diagonal angle that creates an intimate, cinematic composition. She wears a fitted deep
+```
+
+### No. 1622: 数字漫画风格上半身插画
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Haybrook
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成高对比度、带有墨水轮廓和平涂色彩的漫画风格插画的提示词。
+
+#### 提示词
+
+```text
+High-contrast digital comic-style illustration with bold black ink outlines, cross-hatching shading, and flat saturated color blocks. Upper-body composition on a solid flat background. Strong directional light with hard comic-style shadow edges.
+```
+
+### No. 1623: 写实职业扇耳光锦标赛
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alpha Mom
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成写实职业扇耳光锦标赛视频的提示。
+
+#### 提示词
+
+```text
+a realistic professional slap-fighting tournament.
+```
+
+### No. 1624: 保留原始面部特征特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anissa
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成女性室内特写图像的提示，要求保留面部特征、自然美感、对称性、青春感和丰满胸部。
+
+#### 提示词
+
+```text
+Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest. A close-up indoor
+```
+
+### No. 1625: 自信男子身着米色亚麻西装摆姿势
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成视频或图像的提示，描绘一位身着西装、摆出放松自信姿势的男子。
+
+#### 提示词
+
+```text
+A confident man in a beige linen suit and sunglasses sits center-left, angled in a relaxed 45-degree turn while casually leaning to his right. His facial expression is neutral and deliberately posed, with his eyes
+```
+
+### No. 1626: 忧郁炼金术：金色与火山灰肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个中画幅肖像提示，描绘一位主角，风格忧郁且具有编辑感，色调为金色和火山灰。
+
+#### 提示词
+
+```text
+Medium Format Hasselblad H6D-100c, 50mm f/2.8 lens. The Protagonist in a three-quarter editorial mid-shot (waist-up). The body is angled at
+```
+
+### No. 1627: 用户生成内容风格证言视频（同一女性）
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mehdi
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成用户生成内容风格证言视频的提示，视频中一位固定的女性出现在自然的厨房环境中。
+
+#### 提示词
+
+```text
+one consistent woman, same face, same voice, top to bottom
+she pulls the Gruns bag into frame, talks straight to camera
+natural morning light, real fridge clutter, nothing staged
+```
+
+### No. 1628: 颠倒世界场景过渡
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CHRIS FIRST
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个视频提示，描绘一个场景从正常状态缓慢过渡到颠倒世界维度。
+
+#### 提示词
+
+```text
+The video starts completely normal, showing the original, unmodified scene. Immediately after the start, a slow, detail-by-detail transition into the 'Upside Down' dimension begins.
+```
+
+### No. 1629: 戴彩色帽子的女子竖版肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ayushi Srivastava
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成年轻女子戴彩色帽子、倚靠墙壁的竖版摄影肖像的提示。
+
+#### 提示词
+
+```text
+Vertical 9:16 photographed portrait. A young woman standing in front of a wall wearing a colorful hat. Tight vertical waist-up portrait, subject slightly right of center, face in the upper third with little headroom, torso. Prada fine nylon
+```
+
+### No. 1630: 演唱会舞台上的女摇滚明星
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ash
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成在演唱会舞台上表演的、富有冲击力的女摇滚明星图像的提示。
+
+#### 提示词
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 1631: 黑色铅笔微缩模型情景喜剧网格
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成2x2网格的提示，将四部著名情景喜剧以高对比度的黑色图形风格，结合铅笔素描世界构建和微缩模型布景呈现。
+
+#### 提示词
+
+```text
+2x2 grid, 16:9, do this for 4 famous sitcoms: <noir_pencil_diorama> MEDIUM: High-contrast noir graphic design fused with dense pencil-sketch worldbuilding and shallow handmade diorama staging.
+```
+
+### No. 1632: 电影感侧脸肖像：霓虹光轨
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** shahroze khan
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个使用霓虹光轨、柔焦和薰衣草蓝调色板的电影感肖像提示。
+
+#### 提示词
+
+```text
+A cinematic side-profile portrait of a young man wearing a dark
+```
+
+### No. 1633: 红发人物影棚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成中全景、平视角度的影棚摄影提示，拍摄对象拥有浓密的波浪状红发。
+
+#### 提示词
+
+```text
+Medium full shot, eye-level studio photograph of [NAME] with voluminous wavy red hair with natural, luminous highlights that accentuate movement, captured
+```
+
+### No. 1634: 超写实宝莱坞海报（带面部参考）
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成超写实电影感宝莱坞海报的提示，海报中用户以特定服装和姿势出现。
+
+#### 提示词
+
+```text
+Using uploaded face as reference. Create a Ultra hyper-realistic cinematic Bollywood poster: me in a net sky-color open blazer with white shirt, white pant, white sneakers. Below, the me is sitting on foor
+```
+
+### No. 1635: 沙滩上欢笑的快乐女子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个电影感提示，描绘一位有着卷曲赤褐色头发的年轻女子在沙滩上快乐欢笑。
+
+#### 提示词
+
+```text
+A joyful young woman with curly auburn hair kneeling on a sandy beach, wearing a light blue ribbed tank top and denim shorts, a white tropical flower tucked behind her ear, laughing with one arm raised in the air.
+```
+
+### No. 1636: 活力讲解者头部特写视频
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Vlad Dubchak
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位年轻男子在干净现代的演播室环境中，充满活力地直接向镜头讲解信息，展示了动态的视频编辑效果。
+
+#### 提示词
+
+```text
+A young man with glasses and a brown sleeveless shirt stands against a dark grey background. He speaks directly to the camera with energetic facial expressions and engaging body language, including leaning in and making hand gestures. The camera features subtle, dynamic movements, maintaining a close-up shot of his upper body. The style is modern, clean, and well-lit, suitable for an engaging short-form explainer video.
+```
+
+### No. 1637: 现代编辑拼贴海报：电影感风景
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** FaKHaR ThInD
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作现代海报的提示，包含堆叠的电影场景面板和一个中心图形人物。
+
+#### 提示词
+
+```text
+Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

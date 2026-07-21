@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1610 |
+| 総プロンプト数 | 1637 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 457 |
-| 最終更新 | 2026/07/20 |
+| プレビュー動画数 | 463 |
+| 最終更新 | 2026/07/21 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1508)
+### Twitter Community (1535)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -37053,6 +37053,554 @@ Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:
 
 ```text
 A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
+```
+
+### No. 1611: シルク上のモダンアブストラクトバティックアート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** enepty
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+伝統的なインドネシアのバティック技法を用いて、上質なシルク上にモダンな抽象表現主義のアートワークを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A breathtaking modern abstract expressionist artwork created entirely through traditional Indonesian Batik wax-resist and ink dyeing techniques on fine silk.
+```
+
+### No. 1612: 女性シェフによる映画的なアクション調理シーン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sharon Riley
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+プロのキッチンで働くブロンドの女性シェフのダイナミックなビデオを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A cinematic, action-packed cooking scene in a professional restaurant kitchen featuring a confident young Western female chef with long wavy blonde hair tied into a
+```
+
+### No. 1613: 静かな午後を楽しむ公園の女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+公園にいる女性のビデオを生成し、温かな自然光の中で喜びと内省の瞬間を捉えるためのプロンプトです。
+
+#### プロンプト
+
+```text
+A serene woman in a beige knit sweater and denim jeans enjoys a quiet afternoon in a park, capturing candid moments of joy, writing, and gentle reflection. The warm, natural light illuminates her soft
+```
+
+### No. 1614: キスを吹きかける女性のフォトリアリスティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+青い目とピンクの唇でキスを吹きかける若い女性の、詳細なフォトリアリスティックなポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, striking bright blue eyes with long lashes, full glossy pink lips puckered in a kiss, soft natural lighting, shallow depth of field, high detail, 8K
+```
+
+### No. 1615: 超リアルな南アジア風ファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AIwithMinal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+若い南アジア人女性の詳細でリアルなファッションポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-realistic DSLR fashion portrait of a beautiful young South Asian woman with long, voluminous dark chocolate-brown wavy hair, soft face-framing layers, fair glowing skin with natural texture, expressive warm brown almond-shaped eyes
+```
+
+### No. 1616: フルーツのスタジオ製品写真
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+白い背景とソフトな照明で、熟したフルーツのスタジオ製品写真を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Studio product photography of a ripe [fruit type] on pure white seamless background, soft diffused lighting from top-left, subtle reflection on glossy white surface. The logo "[product from uploaded photo]" is deeply
+```
+
+### No. 1617: 熱帯雨林上空のドローン飛行
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Doreen
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+美しい日の出の黄金の光の中で、霧に覆われた緑豊かな熱帯雨林の航空写真です。
+
+#### プロンプト
+
+```text
+A drone flying over a dense tropical rainforest at sunrise, mist between trees, smooth aerial movement, soft golden lighting.
+```
+
+### No. 1618: 歩く男性のハイパーリアルなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tajammal Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+自信を持って歩く、ひげを生やしたハンサムな若い男性の、映画的でハイパーリアルなポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a handsome young man with thick styled dark hair, a mustache, and a beard. He is confidently walking forward, looking slightly
+```
+
+### No. 1619: 農場の門での素朴な映画的ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ahmad Faraz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+風化した農場の門に座る男性の、映画的な屋外ポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A rustic cinematic outdoor lifestyle portrait of a male figure seated casually atop a weathered rusty metal farm gate, one arm resting on the top rail for support, gazing off to the side with a calm, quietly confident, and relaxed expression.
+```
+
+### No. 1620: Nano Banana Pro 女性キャラクタープロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glena jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+詳細な髪型や外見の仕様を持つ若年成人女性キャラクターを生成するための構造化されたプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "gender": "female",
+      "age_group": "young adult",
+      "hair": "long hair gathered into a high ponytail, flowing across the cushion above the head with smooth volume and glossy texture",
+      "skin_tone":
+```
+
+### No. 1621: クリーム色の枕の上の超リアルな美女ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jahan Zaib
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+豪華な枕にもたれる女性のクローズアップで、映画的なポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra-realistic close-up beauty portrait of a stunning young woman reclining gracefully on a luxurious cream pillow, captured from a soft diagonal angle that creates an intimate, cinematic composition. She wears a fitted deep
+```
+
+### No. 1622: デジタルコミックスタイル上半身イラスト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Haybrook
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+インクの輪郭線とフラットカラーを用いた、ハイコントラストなコミックスタイルのイラストを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+High-contrast digital comic-style illustration with bold black ink outlines, cross-hatching shading, and flat saturated color blocks. Upper-body composition on a solid flat background. Strong directional light with hard comic-style shadow edges.
+```
+
+### No. 1623: リアルなプロフェッショナル・スラップファイトトーナメント
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alpha Mom
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+リアルなプロフェッショナル・スラップファイト（平手打ち格闘技）トーナメントの動画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+a realistic professional slap-fighting tournament.
+```
+
+### No. 1624: 元の顔の特徴を保持したクローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Anissa
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+顔の特徴を保持し、自然な美しさ、対称性、若々しさ、豊かなバストを備えた女性の室内クローズアップ画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest. A close-up indoor
+```
+
+### No. 1625: ベージュのリネンスーツを着た自信に満ちた男性のポージング
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+スーツを着た男性がリラックスした自信に満ちたポーズをとる動画または画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A confident man in a beige linen suit and sunglasses sits center-left, angled in a relaxed 45-degree turn while casually leaning to his right. His facial expression is neutral and deliberately posed, with his eyes
+```
+
+### No. 1626: メランコリックな錬金術 金と火山灰のポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+金と火山灰のトーンで彩られた、メランコリックでエディトリアルなスタイルの主人公を捉えたミディアムフォーマットのポートレートのためのプロンプトです。
+
+#### プロンプト
+
+```text
+Medium Format Hasselblad H6D-100c, 50mm f/2.8 lens. The Protagonist in a three-quarter editorial mid-shot (waist-up). The body is angled at
+```
+
+### No. 1627: 一貫した女性が登場するUGC風証言動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Mehdi
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+自然なキッチンの設定で、一貫した同じ女性が登場するユーザー生成コンテンツ（UGC）スタイルの証言動画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+one consistent woman, same face, same voice, top to bottom
+she pulls the Gruns bag into frame, talks straight to camera
+natural morning light, real fridge clutter, nothing staged
+```
+
+### No. 1628: 逆さ世界へのシーン遷移
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** CHRIS FIRST
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+通常の状態から始まり、ゆっくりと「逆さ世界」の次元へと移行していくシーンを作成するための動画プロンプトです。
+
+#### プロンプト
+
+```text
+The video starts completely normal, showing the original, unmodified scene. Immediately after the start, a slow, detail-by-detail transition into the 'Upside Down' dimension begins.
+```
+
+### No. 1629: カラフルな帽子を被った女性の縦向きポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ayushi Srivastava
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+壁を背景に、カラフルな帽子を被った若い女性を撮影した縦向きポートレート写真のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Vertical 9:16 photographed portrait. A young woman standing in front of a wall wearing a colorful hat. Tight vertical waist-up portrait, subject slightly right of center, face in the upper third with little headroom, torso. Prada fine nylon
+```
+
+### No. 1630: コンサートステージ上の女性ロックスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ash
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+コンサートステージ上でパフォーマンスするアグレッシブな女性ロックスターの画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 1631: ノワール風ペンシル・ジオラマ シチュエーションコメディグリッド
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+有名なシチュエーションコメディ4作品を、ハイコントラストのノワール・グラフィックスタイルと、ペンシルスケッチの世界観構築、ジオラマ風演出を組み合わせた2x2グリッドで生成するプロンプトです。
+
+#### プロンプト
+
+```text
+2x2 grid, 16:9, do this for 4 famous sitcoms: <noir_pencil_diorama> MEDIUM: High-contrast noir graphic design fused with dense pencil-sketch worldbuilding and shallow handmade diorama staging.
+```
+
+### No. 1632: ネオン光の軌跡を伴う映画的な横顔ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** shahroze khan
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ネオンの光の軌跡、ソフトフォーカス、ラベンダーブルーのパレットを使用した映画的なポートレートを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A cinematic side-profile portrait of a young man wearing a dark
+```
+
+### No. 1633: 赤毛の被写体のスタジオポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ボリュームのあるウェーブのかかった赤毛の人物を、ミディアムフルショット、アイレベルで撮影したスタジオ写真のためのプロンプトです。
+
+#### プロンプト
+
+```text
+Medium full shot, eye-level studio photograph of [NAME] with voluminous wavy red hair with natural, luminous highlights that accentuate movement, captured
+```
+
+### No. 1634: 顔参照付き超リアルボリウッドポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dilshad Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ユーザーを特定の衣装とポーズでフィーチャーした、ハイパーリアルで映画的なボリウッドポスターを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Using uploaded face as reference. Create a Ultra hyper-realistic cinematic Bollywood poster: me in a net sky-color open blazer with white shirt, white pant, white sneakers. Below, the me is sitting on foor
+```
+
+### No. 1635: ビーチで笑う喜びに満ちた女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+巻き毛の赤毛をした若い女性が砂浜で笑っている、映画的な喜びのシーンを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A joyful young woman with curly auburn hair kneeling on a sandy beach, wearing a light blue ribbed tank top and denim shorts, a white tropical flower tucked behind her ear, laughing with one arm raised in the air.
+```
+
+### No. 1636: エネルギッシュなトーキングヘッド解説動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Vlad Dubchak
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+清潔でモダンなスタジオで、若い男性がカメラに向かってエネルギッシュに情報を提示し、ダイナミックな映像編集を実演するプロンプトです。
+
+#### プロンプト
+
+```text
+A young man with glasses and a brown sleeveless shirt stands against a dark grey background. He speaks directly to the camera with energetic facial expressions and engaging body language, including leaning in and making hand gestures. The camera features subtle, dynamic movements, maintaining a close-up shot of his upper body. The style is modern, clean, and well-lit, suitable for an engaging short-form explainer video.
+```
+
+### No. 1637: 映画的風景を組み合わせたモダンなエディトリアル・コラージュポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** FaKHaR ThInD
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+映画的なシーンをパネル状に重ね、中央にグラフィックな人物を配したモダンなポスターを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

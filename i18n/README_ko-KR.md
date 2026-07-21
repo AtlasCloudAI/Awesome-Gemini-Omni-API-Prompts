@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1610%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 1610 |
+| 전체 프롬프트 | 1637 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 457 |
-| 마지막 업데이트 | 2026. 07. 20. |
+| 미리보기 비디오 수 | 463 |
+| 마지막 업데이트 | 2026. 07. 21. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1508)
+### Twitter Community (1535)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -37053,6 +37053,554 @@ Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:
 
 ```text
 A beautiful young woman with crystal-blue eyes, long golden blonde hair, a glowing champagne-fair complexion, wearing a royal blue high-neck full-sleeve shirt, holding a juicy cheeseburger and a
+```
+
+### No. 1611: 실크 위의 현대적 추상 바틱 예술
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** enepty
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+고급 실크 위에 전통 인도네시아 바틱 기법을 사용한 현대적 추상 표현주의 예술 작품을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A breathtaking modern abstract expressionist artwork created entirely through traditional Indonesian Batik wax-resist and ink dyeing techniques on fine silk.
+```
+
+### No. 1612: 여성 셰프의 시네마틱 액션 요리 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sharon Riley
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079203347924656158.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+전문 주방에서 금발 여성 셰프의 역동적인 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A cinematic, action-packed cooking scene in a professional restaurant kitchen featuring a confident young Western female chef with long wavy blonde hair tied into a
+```
+
+### No. 1613: 고요한 오후를 즐기는 공원의 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Minahil
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+따뜻한 자연광 속에서 기쁨과 성찰의 순간을 포착한, 공원에 있는 여성의 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A serene woman in a beige knit sweater and denim jeans enjoys a quiet afternoon in a park, capturing candid moments of joy, writing, and gentle reflection. The warm, natural light illuminates her soft
+```
+
+### No. 1614: 키스를 날리는 여성의 사진처럼 사실적인 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glowecho
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+파란 눈과 핑크빛 입술을 가진 젊은 여성이 키스를 위해 입술을 오므린 모습의 사진처럼 사실적인 초상화를 생성하기 위한 상세 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A stunning photorealistic portrait of a beautiful young woman in her mid-20s, Caucasian with fair flawless skin, striking bright blue eyes with long lashes, full glossy pink lips puckered in a kiss, soft natural lighting, shallow depth of field, high detail, 8K
+```
+
+### No. 1615: 초현실적 남아시아 패션 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIwithMinal
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+젊은 남아시아 여성의 디테일하고 사실적인 패션 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic DSLR fashion portrait of a beautiful young South Asian woman with long, voluminous dark chocolate-brown wavy hair, soft face-framing layers, fair glowing skin with natural texture, expressive warm brown almond-shaped eyes
+```
+
+### No. 1616: 과일의 스튜디오 제품 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+부드러운 조명과 흰색 배경 위에 놓인 익은 과일의 스튜디오 제품 사진을 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Studio product photography of a ripe [fruit type] on pure white seamless background, soft diffused lighting from top-left, subtle reflection on glossy white surface. The logo "[product from uploaded photo]" is deeply
+```
+
+### No. 1617: 열대 우림 위 드론 비행
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Doreen
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079221139902263397.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+아름다운 일출과 황금빛 빛 속 안개로 덮인 무성한 우림의 공중 뷰입니다.
+
+#### 프롬프트
+
+```text
+A drone flying over a dense tropical rainforest at sunrise, mist between trees, smooth aerial movement, soft golden lighting.
+```
+
+### No. 1618: 걷는 남성의 하이퍼리얼리즘 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Tajammal Hussain
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+수염이 난 잘생긴 젊은 남성이 자신감 있게 걷는 모습의 시네마틱하고 하이퍼리얼리즘적인 초상화를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a handsome young man with thick styled dark hair, a mustache, and a beard. He is confidently walking forward, looking slightly
+```
+
+### No. 1619: 농장 대문 위의 소박한 시네마틱 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ahmad Faraz
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+낡은 농장 대문에 앉아 있는 남성의 시네마틱 야외 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A rustic cinematic outdoor lifestyle portrait of a male figure seated casually atop a weathered rusty metal farm gate, one arm resting on the top rail for support, gazing off to the side with a calm, quietly confident, and relaxed expression.
+```
+
+### No. 1620: 나노 바나나 프로 여성 캐릭터 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Glena jenner
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+상세한 머리카락과 외모 사양을 가진 젊은 성인 여성 캐릭터를 생성하기 위한 구조화된 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "gender": "female",
+      "age_group": "young adult",
+      "hair": "long hair gathered into a high ponytail, flowing across the cushion above the head with smooth volume and glossy texture",
+      "skin_tone":
+```
+
+### No. 1621: 크림색 베개 위의 초현실적 미인 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jahan Zaib
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+고급스러운 베개에 기대어 누워 있는 여성의 근접 촬영, 시네마틱 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra-realistic close-up beauty portrait of a stunning young woman reclining gracefully on a luxurious cream pillow, captured from a soft diagonal angle that creates an intimate, cinematic composition. She wears a fitted deep
+```
+
+### No. 1622: 디지털 코믹 스타일 상반신 일러스트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Haybrook
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+잉크 아웃라인과 평면 색채를 사용한 고대비 코믹 스타일 일러스트를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+High-contrast digital comic-style illustration with bold black ink outlines, cross-hatching shading, and flat saturated color blocks. Upper-body composition on a solid flat background. Strong directional light with hard comic-style shadow edges.
+```
+
+### No. 1623: 현실적인 프로페셔널 싸대기 격투 토너먼트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alpha Mom
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079235877570486429.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현실적인 프로페셔널 싸대기 격투 토너먼트 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+a realistic professional slap-fighting tournament.
+```
+
+### No. 1624: 원본 얼굴 특징을 보존한 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Anissa
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+보존된 얼굴 특징, 자연스러운 아름다움, 대칭, 젊음, 풍만한 가슴을 가진 여성의 실내 클로즈업 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest. A close-up indoor
+```
+
+### No. 1625: 베이지색 리넨 수트를 입고 포즈를 취하는 자신감 넘치는 남성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Picts by AI
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+수트를 입은 남성이 편안하고 자신감 있는 포즈를 취하는 영상 또는 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A confident man in a beige linen suit and sunglasses sits center-left, angled in a relaxed 45-degree turn while casually leaning to his right. His facial expression is neutral and deliberately posed, with his eyes
+```
+
+### No. 1626: 우울한 연금술 풍의 금빛 화산재 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** timedoctor.eth
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+금과 화산재 톤으로 우울하고 에디토리얼한 스타일의 주인공을 담은 중형 포맷 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Medium Format Hasselblad H6D-100c, 50mm f/2.8 lens. The Protagonist in a three-quarter editorial mid-shot (waist-up). The body is angled at
+```
+
+### No. 1627: 일관된 여성이 등장하는 UGC 추천 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mehdi
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079264086852874277.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+자연스러운 주방 환경에서 일관된 한 여성이 등장하는 사용자 제작 콘텐츠 스타일의 추천 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+one consistent woman, same face, same voice, top to bottom
+she pulls the Gruns bag into frame, talks straight to camera
+natural morning light, real fridge clutter, nothing staged
+```
+
+### No. 1628: 업사이드 다운 차원 장면 전환
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CHRIS FIRST
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079285978993172717.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+정상적인 장면에서 시작하여 서서히 업사이드 다운 차원으로 전환되는 영상 장면을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+The video starts completely normal, showing the original, unmodified scene. Immediately after the start, a slow, detail-by-detail transition into the 'Upside Down' dimension begins.
+```
+
+### No. 1629: 다채로운 모자를 쓴 여성의 세로 방향 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ayushi Srivastava
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+벽을 배경으로 다채로운 모자를 쓴 젊은 여성의 세로 방향 촬영 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Vertical 9:16 photographed portrait. A young woman standing in front of a wall wearing a colorful hat. Tight vertical waist-up portrait, subject slightly right of center, face in the upper third with little headroom, torso. Prada fine nylon
+```
+
+### No. 1630: 콘서트 무대 위의 여성 록스타
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ash
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+공격적인 여성 록스타가 콘서트 무대에서 공연하는 이미지를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 1631: 누아르 연필 디오라마 시트콤 그리드
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Gadgetify
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+고대비 누아르 그래픽 스타일과 연필 스케치 월드빌딩, 디오라마 스테이징이 결합된, 유명 시트콤 4개를 2x2 그리드로 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+2x2 grid, 16:9, do this for 4 famous sitcoms: <noir_pencil_diorama> MEDIUM: High-contrast noir graphic design fused with dense pencil-sketch worldbuilding and shallow handmade diorama staging.
+```
+
+### No. 1632: 네온 빛 자국이 있는 시네마틱 측면 프로필 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** shahroze khan
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+네온 빛 자국, 소프트 포커스, 라벤더-블루 색상 팔레트를 사용한 시네마틱 초상화를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A cinematic side-profile portrait of a young man wearing a dark
+```
+
+### No. 1633: 붉은 머리 피사체의 스튜디오 초상화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Giulia
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+풍성하고 물결치는 붉은 머리를 가진 인물의, 중간 풀샷에 아이레벨로 촬영된 스튜디오 사진을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Medium full shot, eye-level studio photograph of [NAME] with voluminous wavy red hair with natural, luminous highlights that accentuate movement, captured
+```
+
+### No. 1634: 얼굴 참조가 포함된 초현실적 볼리우드 포스터
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Dilshad Hussain
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+사용자가 특정 의상과 포즈를 취한 모습을 담은, 초현실적이고 시네마틱한 볼리우드 포스터를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Using uploaded face as reference. Create a Ultra hyper-realistic cinematic Bollywood poster: me in a net sky-color open blazer with white shirt, white pant, white sneakers. Below, the me is sitting on foor
+```
+
+### No. 1635: 해변에서 웃는 즐거운 여성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maddox
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+모래사장에서 웃고 있는, 곱슬거리는 적갈색 머리의 즐거운 젊은 여성의 시네마틱 이미지를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A joyful young woman with curly auburn hair kneeling on a sandy beach, wearing a light blue ribbed tank top and denim shorts, a white tropical flower tucked behind her ear, laughing with one arm raised in the air.
+```
+
+### No. 1636: 역동적인 토킹 헤드 설명 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Vlad Dubchak
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079390907397529642.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+청년이 깔끔하고 모던한 스튜디오 환경에서 카메라를 정면으로 바라보며 역동적으로 정보를 전달하는, 동적인 영상 편집을 보여주는 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+A young man with glasses and a brown sleeveless shirt stands against a dark grey background. He speaks directly to the camera with energetic facial expressions and engaging body language, including leaning in and making hand gestures. The camera features subtle, dynamic movements, maintaining a close-up shot of his upper body. The style is modern, clean, and well-lit, suitable for an engaging short-form explainer video.
+```
+
+### No. 1637: 시네마틱 풍경이 담긴 모던 에디토리얼 콜라주 포스터
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** FaKHaR ThInD
+- **언어:** `ko-KR`
+- **비디오:** [보기]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 설명
+
+시네마틱 장면을 패널로 겹쳐 구성하고 중앙에 그래픽 피규어를 배치한 모던 포스터 제작을 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

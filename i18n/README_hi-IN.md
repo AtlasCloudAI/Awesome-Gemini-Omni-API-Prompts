@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 1637 |
+| Kul Prompts | 1664 |
 | Categories | 10 |
-| Preview Videos | 463 |
-| Aakhri Update | 21/07/2026 |
+| Preview Videos | 465 |
+| Aakhri Update | 22/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (1535)
+### Twitter Community (1562)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -37611,6 +37611,559 @@ A young man with glasses and a brown sleeveless shirt stands against a dark grey
 
 ```text
 Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
+```
+
+### No. 1638: नैनो बनाना प्रो महिला विषय प्रोम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glena jenner
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+पहचान के लिए एक संदर्भ छवि का उपयोग करते हुए एक युवा वयस्क महिला का वीडियो उत्पन्न करने के लिए एक संरचित प्रोम्प्ट।
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "identity": "Use uploaded reference image for the exact facial identity, facial structure, eye color, hair color, and skin tone.",
+      "gender": "female",
+      "age_group": "young adult",
+      "hairstyle":
+```
+
+### No. 1639: सूर्यास्त समुद्र तट पर दक्षिण एशियाई महिला चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+सूर्यास्त के समय एक चट्टानी समुद्र तट पर बहते बालों वाली एक युवा महिला का सिनेमाई, फोटो-यथार्थवादी चित्र।
+
+#### Prompt
+
+```text
+Ultra photorealistic cinematic portrait of a beautiful young South Asian woman in her mid-20s standing on a rocky beach at sunset. She has long voluminous dark brown hair flowing in the breeze, warm glowing
+```
+
+### No. 1640: शांत महिला का फोटो-यथार्थवादी सौंदर्य संपादकीय चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ANKIT PATEL 🇮🇳 | AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक शांत युवा महिला का फोटो-यथार्थवादी जीवनशैली और सौंदर्य संपादकीय छवि उत्पन्न करने का एक प्रोम्प्ट।
+
+#### Prompt
+
+```text
+A photorealistic lifestyle/beauty editorial medium shot of a woman in her early-to-mid 20s with fair-to-light skin and a calm, serene expression, sitting
+```
+
+### No. 1641: पूर्वी एशियाई महिला चित्र प्रोम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** David
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गोरी त्वचा और नाजुक सुविधाओं वाली एक युवा पूर्वी एशियाई महिला का चित्र उत्पन्न करने का एक प्रोम्प्ट।
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 1642: एशियाई महिला का सिनेमाई गोल्डन आवर चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Minahil
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक गर्म गोल्डन आवर सेटिंग में चमकती त्वचा और लाल होंठों वाली एक परिष्कृत एशियाई महिला का सिनेमाई चित्र उत्पन्न करने का एक प्रोम्प्ट।
+
+#### Prompt
+
+```text
+A cinematic and elegant portrait series of a sophisticated Asian woman with glowing, dewy skin, defined cheekbones, and striking matte red lips, set against a warm, soft-focus golden hour background.
+```
+
+### No. 1643: स्किबिडी टॉयलेट शैली पुरुष चरित्र शीट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Kinovi.AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+स्किबिडी टॉयलेट की शैली में एक पुरुष चरित्र के लिए चरित्र शीट उत्पन्न करने का एक प्रोम्प्ट।
+
+#### Prompt
+
+```text
+Make a character sheet of male character inspired by the same artstyle and designs as the uploaded images. He is male.
+```
+
+### No. 1644: फोटो-यथार्थवादी दक्षिण एशियाई महिला चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+हवा में उड़ते घुंघराले बालों वाली एक युवा दक्षिण एशियाई महिला का एक फोटो-यथार्थवादी चित्र।
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young South Asian woman in her mid-20s with warm olive skin, long wavy dark brown hair with reddish highlights blowing gently in the wind, striking dark eyes, defined
+```
+
+### No. 1645: पहचान संरक्षण के साथ सिनेमाई चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Simply Ray
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक युवा महिला का अति-यथार्थवादी सिनेमाई चित्र उत्पन्न करने का निर्देश, जो एक संदर्भ फोटो से चेहरे की पहचान को सख्ती से संरक्षित करता है।
+
+#### Prompt
+
+```text
+Use the uploaded reference photo as the exact facial identity. Preserve facial features, skin tone, and identity with high accuracy. Do not alter the person's face. Aspect ratio 9:16.
+
+Ultra-realistic cinematic portrait of a beautiful young woman
+```
+
+### No. 1646: सफेद गर्मी के परिधान में आत्मविश्वासी पुरुष
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Picts by AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक पूर्ण सफेद गर्मी के परिधान में एक केंद्रित, आरामदायक पुरुष का वीडियो उत्पन्न करने का एक प्रोम्प्ट।
+
+#### Prompt
+
+```text
+A confident man stands perfectly centered facing the camera with a relaxed posture, level shoulders, and evenly distributed weight, wearing an all-white summer outfit featuring an unbuttoned warm white shirt and matching
+```
+
+### No. 1647: फोटो संदर्भ से सटीक समानता संरक्षित करें
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Oogie
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रोम्प्ट जो एक एआई को निर्देश देता है कि वह एक अपलोड की गई चेहरे की फोटो को एकमात्र पहचान संदर्भ के रूप में उपयोग करे, सभी चेहरे के विवरण और बनावट को बिना किसी परिवर्तन के संरक्षित करे।
+
+#### Prompt
+
+```text
+Use the uploaded face photo as the ONLY identity reference. Preserve exact likeness, age, facial proportions, eyes, nose, lips, skin tone, hair texture, natural skin texture and overall appearance. No face drift, no face mixing, no beautifying
+```
+
+### No. 1648: विज्ञान-फंतासी फिल्म नोवर अभिव्यंजनावादी पोस्टर ग्रिड
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+चार प्रसिद्ध अंतरिक्ष फिल्मों के लिए एकरंगी नोवर अभिव्यंजनावादी पोस्टरों का 2x2 ग्रिड उत्पन्न करने का एक प्रोम्प्ट।
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous space movies: RENDER_CHAIN = "[$SUBJECT :: monochrome_noir_raincut :: expressionist__poster]"
+
+MORPH_RULES = {
+    "palette": "pure black, stark white, silver"
+}
+```
+
+### No. 1649: संदर्भ छवि से अति-यथार्थवादी सिनेमाई चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Marcos
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रोम्प्ट जो प्रदान की गई संदर्भ छवि के चेहरे के लक्षणों का कड़ाई से पालन करते हुए एक फोटो-यथार्थवादी चित्र उत्पन्न करने के लिए है।
+
+#### Prompt
+
+```text
+Ultra-realistic, photorealistic cinematic portrait strictly based on the provided reference image. Use my uploaded face 1:1 -fully preserve facial structure, proportions, age, skin texture, and natural imperfections. No beautification
+```
+
+### No. 1650: थका हुआ मौन नीला कोहरा गुलाबी रेशम
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** timedoctor.eth
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक थके हुए प्रोटैगोनिस्ट की हाई-एंड सिनेमाई एडिटोरियल तस्वीर, जो हॅसलब्लैड कैमरे से ली गई है।
+
+#### Prompt
+
+```text
+High-end cinematic editorial photography, Medium format Hasselblad H6D-100c, 80mm f/1.9 lens. The Protagonist, an exhausted
+```
+
+### No. 1651: कोज़ी रेनी बुकस्टोर डेड्रीम सिनेमाई शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Aatif J
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक कोज़ी इंडोर सेटिंग में बारिश से भरी खिड़की से बाहर देखती हुई एक युवा महिला का सिनेमाई मीडियम शॉट।
+
+#### Prompt
+
+```text
+A cinematic, cozy indoor medium shot captures a young woman with warm, wavy light-brown hair and soft features, gazing thoughtfully out of a paneled wooden window streaked with raindrops.
+```
+
+### No. 1652: ब्लैक एंड व्हाइट मिनिमल एडिटोरियल इमेज
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Marco "Shikoba" Riccetti
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+नेगेटिव स्पेस और सॉफ्ट विंडो लाइट के साथ एक ब्लैक एंड व्हाइट एडिटोरियल फोटो के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Black and white editorial image of a [ subject / scene ]  in a minimal setting. The composition emphasizes negative space, with soft light entering from a large window. Shot with a centered
+```
+
+### No. 1653: सिनेमाई लो-एंगल चित्र गोल्डन बैकलाइट के साथ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** shahroze khan
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गहराई और भावना पैदा करने के लिए गोल्डन बैकलाइट, वॉल्यूमेट्रिक किरणों और एक डार्क सिल्हूट का उपयोग करके एक सिनेमाई चित्र के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A cinematic low-angle side-profile portrait of a young man standing inside a
+```
+
+### No. 1654: डिज़नी स्टाइल यंग बॉय कैरेक्टर शीट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Kinovi.AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+डिज़नी जैसी कला शैली में एक युवा लड़के के लिए कैरेक्टर शीट उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a character sheet of a young boy in Disney-like artstyle.
+```
+
+### No. 1655: वॉयस ऑफ कस्टमर एनालिस्ट प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KNOX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+वीडियो विज्ञापन उत्पन्न करने के लिए सेल्स कॉल ट्रांसक्रिप्ट का विश्लेषण करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+You are a voice-of-customer analyst. I am
+```
+
+### No. 1656: लंबे बालों वाली महिला का फोटोरियलिस्टिक चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Giulia
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लंबे बालों वाली एक महिला का फोटोरियलिस्टिक, आँखों के स्तर का चित्र, जो सामने की ओर खड़ी है और उसका सिर थोड़ा झुका हुआ है।
+
+#### Prompt
+
+```text
+A photorealistic medium full shot, eye-level portrait of [NAME] with long hair, standing face-forward with her head slightly tilted
+```
+
+### No. 1657: टूर डी फ्रांस मोटरसाइकिल कैमरा प्रसारण
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** TechHalla
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+टूर डी फ्रांस के पहाड़ी चरण के दौरान एक रेस मोटरसाइकिल से निरंतर सिंगल-टेक ट्रैकिंग शॉट के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. Continuous single-take tracking shot filmed from a race moto
+```
+
+### No. 1658: लाइव एक्शन एनिमे स्टिकर कम्पोजिट व्लॉग
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Marcus Byrne
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+लाइव-एक्शन फुटेज को 2डी एनिमे स्टिकर शैली के साथ जोड़ने वाले 15-सेकंड के व्लॉग के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+[Magic Pen Vlog · 15s · 9:16]
+[Style] Live-action + 2D anime sticker composite.
+```
+
+### No. 1659: अल्ट्रा-रियलिस्टिक लक्ज़री सिनेमाई फैशन पोस्टर
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dilshad Hussain
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+अल्ट्रा-रियलिस्टिक, सिनेमाई गुणवत्ता के साथ एक संदर्भ चेहरे को संरक्षित करते हुए एक फैशन पोस्टर बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Using uploaded face as reference. Create an ultra-realistic luxury cinematic fashion poster featuring the exact same man from the reference image. Preserve the face 100% identical with the original facial
+```
+
+### No. 1660: डार्क सिनेमाई ऑब्सेसिव स्किन डिटेल चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ चेहरे का उपयोग करके एक चित्र उत्पन्न करने के लिए एक प्रॉम्प्ट, जो डार्क सिनेमाई त्वचा विवरण और एक नई मुद्रा पर केंद्रित है।
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic obsessive skin detail portrait — same devastating concept, completely different pose and angle
+```
+
+### No. 1661: फोटोरियलिस्टिक दक्षिण एशियाई महिला सेल्फी चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Glowecho
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+विशिष्ट विशेषताओं वाली एक युवा दक्षिण एशियाई महिला का फोटोरियलिस्टिक सेल्फी चित्र उत्पन्न करने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Photorealistic selfie portrait of a beautiful young South Asian woman in her mid-20s with warm glowing skin, long voluminous wavy brown hair with caramel highlights cascading over her shoulders, wearing round
+```
+
+### No. 1662: समुद्र तट सूर्यास्त पोलरॉइड कैमरा सिनेमाई दृश्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Maddox
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक व्यक्ति सूर्यास्त के समय समुद्र तट पर एक बेबी ब्लू इंस्टेंट कैमरा पकड़े हुए है, जिससे एक पोलरॉइड तस्वीर निकल रही है।
+
+#### Prompt
+
+```text
+Person from reference image 2 holding a baby blue Fujifilm Instax Mini 11 camera on a sandy beach at golden hour sunset, their hand and outfit matching reference image 2. A polaroid photo ejecting from the top of the
+```
+
+### No. 1663: अतियथार्थवादी सिनेमाई गेमिंग चित्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ozair AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक संदर्भ चेहरे का उपयोग करके अतियथार्थवादी सिनेमाई गेमिंग चित्र उत्पन्न करने के लिए एक प्रॉम्प्ट, जो लाइव स्ट्रीमिंग प्रोफ़ाइल चित्र के लिए आदर्श है।
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a hyper-realistic cinematic gaming portrait — the ultimate live streaming setup shot that every gamer wants as their profile picture and every brand wants
+```
+
+### No. 1664: महिला विषय की पहचान और समानता संरक्षण
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Saira
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक प्रॉम्प्ट जो एक अपलोड की गई छवि का उपयोग करके एक महिला विषय की पहचान, विशेषताओं और आयु को संरक्षित करते हुए उच्च-गुणवत्ता वाला आउटपुट बनाने का निर्देश देता है।
+
+#### Prompt
+
+```text
+Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

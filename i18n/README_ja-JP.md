@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1637 |
+| 総プロンプト数 | 1664 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 463 |
-| 最終更新 | 2026/07/21 |
+| プレビュー動画数 | 465 |
+| 最終更新 | 2026/07/22 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1535)
+### Twitter Community (1562)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -37601,6 +37601,559 @@ A young man with glasses and a brown sleeveless shirt stands against a dark grey
 
 ```text
 Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
+```
+
+### No. 1638: ナノバナナプロ女性被写体プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glena jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+アイデンティティの参照画像を使用して、若い成人女性のビデオを生成するための構造化されたプロンプト。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "identity": "Use uploaded reference image for the exact facial identity, facial structure, eye color, hair color, and skin tone.",
+      "gender": "female",
+      "age_group": "young adult",
+      "hairstyle":
+```
+
+### No. 1639: 夕日のビーチでの南アジア人女性ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夕日の岩場のビーチで、流れるような髪を持つ若い女性の映画的で写真のようにリアルなポートレート。
+
+#### プロンプト
+
+```text
+Ultra photorealistic cinematic portrait of a beautiful young South Asian woman in her mid-20s standing on a rocky beach at sunset. She has long voluminous dark brown hair flowing in the breeze, warm glowing
+```
+
+### No. 1640: 穏やかな女性の写真のようにリアルなビューティー・エディトリアル
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+落ち着いた若い女性の、写真のようにリアルなライフスタイルおよびビューティー・エディトリアル画像を生成するプロンプト。
+
+#### プロンプト
+
+```text
+A photorealistic lifestyle/beauty editorial medium shot of a woman in her early-to-mid 20s with fair-to-light skin and a calm, serene expression, sitting
+```
+
+### No. 1641: 東アジア人女性ポートレートプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** David
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+色白の肌と繊細な特徴を持つ若い東アジア人女性のポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 1642: アジア人女性の映画的ゴールデンアワーポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+温かいゴールデンアワーの設定で、輝く肌と赤い唇を持つ洗練されたアジア人女性の映画的ポートレートのプロンプト。
+
+#### プロンプト
+
+```text
+A cinematic and elegant portrait series of a sophisticated Asian woman with glowing, dewy skin, defined cheekbones, and striking matte red lips, set against a warm, soft-focus golden hour background.
+```
+
+### No. 1643: スキビディ・トイレ風男性キャラクターシート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kinovi.AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+スキビディ・トイレのスタイルで男性キャラクターのキャラクターシートを生成するプロンプト。
+
+#### プロンプト
+
+```text
+Make a character sheet of male character inspired by the same artstyle and designs as the uploaded images. He is male.
+```
+
+### No. 1644: 写真のようにリアルな南アジア人女性のポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+風になびくウェーブヘアを持つ若い南アジア人女性の、写真のようにリアルなポートレート。
+
+#### プロンプト
+
+```text
+Photorealistic portrait of a stunning young South Asian woman in her mid-20s with warm olive skin, long wavy dark brown hair with reddish highlights blowing gently in the wind, striking dark eyes, defined
+```
+
+### No. 1645: アイデンティティ保持を伴う映画的ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Simply Ray
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+若い女性の超リアルな映画的ポートレートを生成し、参照写真からの顔のアイデンティティを厳密に保持する指示。
+
+#### プロンプト
+
+```text
+Use the uploaded reference photo as the exact facial identity. Preserve facial features, skin tone, and identity with high accuracy. Do not alter the person's face. Aspect ratio 9:16.
+
+Ultra-realistic cinematic portrait of a beautiful young woman
+```
+
+### No. 1646: 白い夏服を着た自信に満ちた男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+中央に配置され、リラックスした、全身白の夏服を着た男性のビデオを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A confident man stands perfectly centered facing the camera with a relaxed posture, level shoulders, and evenly distributed weight, wearing an all-white summer outfit featuring an unbuttoned warm white shirt and matching
+```
+
+### No. 1647: 写真参照から正確な肖像を保持
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Oogie
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+AIに、アップロードされた単一の顔写真を唯一のアイデンティティ参照として使用し、すべての顔の詳細と質感を変更せずに保持するよう指示するプロンプト。
+
+#### プロンプト
+
+```text
+Use the uploaded face photo as the ONLY identity reference. Preserve exact likeness, age, facial proportions, eyes, nose, lips, skin tone, hair texture, natural skin texture and overall appearance. No face drift, no face mixing, no beautifying
+```
+
+### No. 1648: SF映画ノワール表現主義ポスターグリッド
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gadgetify
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+4つの有名な宇宙映画のためのモノクロノワール表現主義ポスターを2x2グリッドで生成するプロンプト。
+
+#### プロンプト
+
+```text
+2x2 grid, 16:9, do this for 4 famous space movies: RENDER_CHAIN = "[$SUBJECT :: monochrome_noir_raincut :: expressionist__poster]"
+
+MORPH_RULES = {
+    "palette": "pure black, stark white, silver"
+}
+```
+
+### No. 1649: 参照画像からの超リアルな映画的ポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marcos
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+提供された参照画像の顔の特徴に厳密に準拠した、写真のようにリアルなポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Ultra-realistic, photorealistic cinematic portrait strictly based on the provided reference image. Use my uploaded face 1:1 -fully preserve facial structure, proportions, age, skin texture, and natural imperfections. No beautification
+```
+
+### No. 1650: 「疲れ果てた静寂、青い霧、ピンクのシルク」
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ハッセルブラッドカメラで撮影された、疲れ果てた主人公を捉えたハイエンドな映画的なエディトリアル写真を作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+High-end cinematic editorial photography, Medium format Hasselblad H6D-100c, 80mm f/1.9 lens. The Protagonist, an exhausted
+```
+
+### No. 1651: 雨の日、居心地の良い書店での夢想 映画的なショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aatif J
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+居心地の良い室内設定で、雨の降る窓の外を眺める若い女性を捉えた、映画的なミディアムショットを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A cinematic, cozy indoor medium shot captures a young woman with warm, wavy light-brown hair and soft features, gazing thoughtfully out of a paneled wooden window streaked with raindrops.
+```
+
+### No. 1652: 白黒のミニマルなエディトリアル画像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marco "Shikoba" Riccetti
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ネガティブスペースと柔らかい窓からの光を特徴とする、白黒のエディトリアル写真を作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Black and white editorial image of a [ subject / scene ]  in a minimal setting. The composition emphasizes negative space, with soft light entering from a large window. Shot with a centered
+```
+
+### No. 1653: 映画的なローアングルポートレート（ゴールデンバックライト付き）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** shahroze khan
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ゴールデンバックライト、体積光、暗いシルエットを使用して、奥行きと感情を生み出す映画的なポートレートを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A cinematic low-angle side-profile portrait of a young man standing inside a
+```
+
+### No. 1654: ディズニー風 少年キャラクターシート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kinovi.AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ディズニーに似たアートスタイルで、少年のキャラクターシートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a character sheet of a young boy in Disney-like artstyle.
+```
+
+### No. 1655: 顧客の声（VoC）分析プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KNOX
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ビデオ広告を生成するために、セールスコールの文字起こしデータを分析するためのプロンプト。
+
+#### プロンプト
+
+```text
+You are a voice-of-customer analyst. I am
+```
+
+### No. 1656: ロングヘアの女性のフォトリアリスティックなポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ロングヘアの女性の、アイレベルで真正面を向き、頭をわずかに傾けたフォトリアリスティックなポートレート。
+
+#### プロンプト
+
+```text
+A photorealistic medium full shot, eye-level portrait of [NAME] with long hair, standing face-forward with her head slightly tilted
+```
+
+### No. 1657: ツール・ド・フランス オートバイカメラによる放送映像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** TechHalla
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ツール・ド・フランスの山岳ステージで、レースオートバイからの連続ワンカット追跡ショットを撮影するためのプロンプト。
+
+#### プロンプト
+
+```text
+Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. Continuous single-take tracking shot filmed from a race moto
+```
+
+### No. 1658: 実写とアニメ風ステッカーを合成したVlog
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marcus Byrne
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+実写映像と2Dアニメ風ステッカースタイルを組み合わせた15秒間のVlogを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+[Magic Pen Vlog · 15s · 9:16]
+[Style] Live-action + 2D anime sticker composite.
+```
+
+### No. 1659: ウルトラリアリスティックな高級感ある映画的なファッションポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dilshad Hussain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照用の顔を保ちながら、ウルトラリアリスティックで映画的な品質のファッションポスターを作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Using uploaded face as reference. Create an ultra-realistic luxury cinematic fashion poster featuring the exact same man from the reference image. Preserve the face 100% identical with the original facial
+```
+
+### No. 1660: ダークで映画的な、執着的な肌のディテールに焦点を当てたポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照用の顔画像を使用し、ダークで映画的な肌のディテールと新しいポーズに焦点を当てたポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic obsessive skin detail portrait — same devastating concept, completely different pose and angle
+```
+
+### No. 1661: フォトリアリスティックな南アジア系女性のセルフィーポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の特徴を持つ若い南アジア系女性のフォトリアリスティックなセルフィーポートレートを生成するための詳細なプロンプト。
+
+#### プロンプト
+
+```text
+Photorealistic selfie portrait of a beautiful young South Asian woman in her mid-20s with warm glowing skin, long voluminous wavy brown hair with caramel highlights cascading over her shoulders, wearing round
+```
+
+### No. 1662: ビーチの夕日、ポラロイドカメラの映画的なシーン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夕日のビーチで、人物がベビーブルーのインスタントカメラを持ち、ポラロイド写真が排出される様子。
+
+#### プロンプト
+
+```text
+Person from reference image 2 holding a baby blue Fujifilm Instax Mini 11 camera on a sandy beach at golden hour sunset, their hand and outfit matching reference image 2. A polaroid photo ejecting from the top of the
+```
+
+### No. 1663: ハイパーリアリスティックな映画的なゲーミングポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozair AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+参照用の顔画像を使用して、ライブストリーミングのプロフィール画像に最適な、ハイパーリアリスティックで映画的なゲーミングポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Use the exact same face from the reference image and generate a hyper-realistic cinematic gaming portrait — the ultimate live streaming setup shot that every gamer wants as their profile picture and every brand wants
+```
+
+### No. 1664: 女性被写体のアイデンティティと肖像の保存
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Saira
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+アップロードされた画像を使用して、女性被写体のアイデンティティ、特徴、年齢を保ちながら高品質な出力を作成する指示プロンプト。
+
+#### プロンプト
+
+```text
+Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

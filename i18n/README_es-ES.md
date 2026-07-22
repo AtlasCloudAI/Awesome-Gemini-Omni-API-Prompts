@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una coleccion curada de ejemplos de prompts para Gemini Omni con vista previa de video OSS integrada.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Cantidad |
 | --- | ---: |
-| Prompts Totales | 1637 |
+| Prompts Totales | 1664 |
 | Categorias | 10 |
-| Videos de Vista Previa | 463 |
-| Ultima Actualizacion | 21/07/2026 |
+| Videos de Vista Previa | 465 |
+| Ultima Actualizacion | 22/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Animación de revelación de producto de alta gama. Usa el logo de referencia co
 
 <a id="category-10"></a>
 
-### Twitter Community (1535)
+### Twitter Community (1562)
 
 ### No. 103: Fotografía Editorial de Retrato Romántico en la Naturaleza
 
@@ -37611,6 +37611,559 @@ Una indicación para crear un póster moderno con paneles apilados de escenas ci
 
 ```text
 Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
+```
+
+### No. 1638: Instrucción para sujeto femenino de Nano Banana Pro
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Glena jenner
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción estructurada para generar un video de una mujer joven adulta utilizando una imagen de referencia para la identidad.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "identity": "Use uploaded reference image for the exact facial identity, facial structure, eye color, hair color, and skin tone.",
+      "gender": "female",
+      "age_group": "young adult",
+      "hairstyle":
+```
+
+### No. 1639: Retrato de mujer del sur de Asia en una playa al atardecer
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un retrato cinematográfico y fotorrealista de una mujer joven con cabello fluido en una playa rocosa al atardecer.
+
+#### Prompt
+
+```text
+Ultra photorealistic cinematic portrait of a beautiful young South Asian woman in her mid-20s standing on a rocky beach at sunset. She has long voluminous dark brown hair flowing in the breeze, warm glowing
+```
+
+### No. 1640: Editorial de belleza fotorrealista de una mujer serena
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** ANKIT PATEL 🇮🇳 | AI
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar una imagen editorial de belleza y estilo de vida fotorrealista de una mujer joven y tranquila.
+
+#### Prompt
+
+```text
+A photorealistic lifestyle/beauty editorial medium shot of a woman in her early-to-mid 20s with fair-to-light skin and a calm, serene expression, sitting
+```
+
+### No. 1641: Instrucción para retrato de mujer del este de Asia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** David
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar un retrato de una mujer joven del este de Asia con piel clara y rasgos delicados.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 1642: Retrato cinematográfico de una mujer asiática en la hora dorada
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Minahil
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para un retrato cinematográfico de una mujer asiática sofisticada con piel radiante y labios rojos en un entorno cálido de la hora dorada.
+
+#### Prompt
+
+```text
+A cinematic and elegant portrait series of a sophisticated Asian woman with glowing, dewy skin, defined cheekbones, and striking matte red lips, set against a warm, soft-focus golden hour background.
+```
+
+### No. 1643: Hoja de personaje masculino al estilo Skibidi Toilet
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Kinovi.AI
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar una hoja de personaje para un personaje masculino en el estilo de Skibidi Toilet.
+
+#### Prompt
+
+```text
+Make a character sheet of male character inspired by the same artstyle and designs as the uploaded images. He is male.
+```
+
+### No. 1644: Retrato fotorrealista de una mujer del sur de Asia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un retrato fotorrealista de una mujer joven del sur de Asia con cabello ondulado moviéndose con el viento.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young South Asian woman in her mid-20s with warm olive skin, long wavy dark brown hair with reddish highlights blowing gently in the wind, striking dark eyes, defined
+```
+
+### No. 1645: Retrato cinematográfico con preservación de la identidad
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Simply Ray
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar un retrato cinematográfico ultrarealista de una mujer joven, preservando estrictamente la identidad facial de una foto de referencia.
+
+#### Prompt
+
+```text
+Use the uploaded reference photo as the exact facial identity. Preserve facial features, skin tone, and identity with high accuracy. Do not alter the person's face. Aspect ratio 9:16.
+
+Ultra-realistic cinematic portrait of a beautiful young woman
+```
+
+### No. 1646: Hombre seguro de sí mismo con atuendo blanco de verano
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Picts by AI
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar un video de un hombre relajado y centrado, con un atuendo completamente blanco de verano.
+
+#### Prompt
+
+```text
+A confident man stands perfectly centered facing the camera with a relaxed posture, level shoulders, and evenly distributed weight, wearing an all-white summer outfit featuring an unbuttoned warm white shirt and matching
+```
+
+### No. 1647: Preservar la semejanza exacta a partir de una referencia fotográfica
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Oogie
+- **Idioma:** `es-ES`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para que una IA utilice una única foto de rostro subida como la única referencia de identidad, preservando todos los detalles y texturas faciales sin alteración.
+
+#### Prompt
+
+```text
+Use the uploaded face photo as the ONLY identity reference. Preserve exact likeness, age, facial proportions, eyes, nose, lips, skin tone, hair texture, natural skin texture and overall appearance. No face drift, no face mixing, no beautifying
+```
+
+### No. 1648: Cuadrícula de pósters expresionistas noir de películas de ciencia ficción
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Gadgetify
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar una cuadrícula de 2x2 de pósters monocromáticos de estilo expresionista noir para cuatro famosas películas espaciales.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous space movies: RENDER_CHAIN = "[$SUBJECT :: monochrome_noir_raincut :: expressionist__poster]"
+
+MORPH_RULES = {
+    "palette": "pure black, stark white, silver"
+}
+```
+
+### No. 1649: Retrato cinematográfico ultrarealista a partir de una referencia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Marcos
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar un retrato fotorrealista que se adhiere estrictamente a las características faciales de una imagen de referencia proporcionada.
+
+#### Prompt
+
+```text
+Ultra-realistic, photorealistic cinematic portrait strictly based on the provided reference image. Use my uploaded face 1:1 -fully preserve facial structure, proportions, age, skin texture, and natural imperfections. No beautification
+```
+
+### No. 1650: Silencio agotado, niebla azul, seda rosa
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** timedoctor.eth
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una foto editorial cinematográfica de alta gama de un protagonista exhausto, capturada con una cámara Hasselblad.
+
+#### Prompt
+
+```text
+High-end cinematic editorial photography, Medium format Hasselblad H6D-100c, 80mm f/1.9 lens. The Protagonist, an exhausted
+```
+
+### No. 1651: Plano cinematográfico de ensueño en una librería acogedora en un día lluvioso
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Aatif J
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un plano medio cinematográfico de una joven mirando por la ventana en un día lluvioso, en un entorno interior acogedor.
+
+#### Prompt
+
+```text
+A cinematic, cozy indoor medium shot captures a young woman with warm, wavy light-brown hair and soft features, gazing thoughtfully out of a paneled wooden window streaked with raindrops.
+```
+
+### No. 1652: Imagen editorial minimalista en blanco y negro
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Marco "Shikoba" Riccetti
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para una foto editorial en blanco y negro con espacio negativo y luz suave de ventana.
+
+#### Prompt
+
+```text
+Black and white editorial image of a [ subject / scene ]  in a minimal setting. The composition emphasizes negative space, with soft light entering from a large window. Shot with a centered
+```
+
+### No. 1653: Retrato cinematográfico en contrapicado con luz trasera dorada
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** shahroze khan
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para un retrato cinematográfico que utiliza luz trasera dorada, rayos volumétricos y una silueta oscura para crear profundidad y emoción.
+
+#### Prompt
+
+```text
+A cinematic low-angle side-profile portrait of a young man standing inside a
+```
+
+### No. 1654: Hoja de personaje de un niño joven al estilo Disney
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Kinovi.AI
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar una hoja de personaje de un niño joven en un estilo artístico similar al de Disney.
+
+#### Prompt
+
+```text
+Create a character sheet of a young boy in Disney-like artstyle.
+```
+
+### No. 1655: Instrucción para Analista de la Voz del Cliente
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** KNOX
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para analizar transcripciones de llamadas de ventas con el fin de generar anuncios de video.
+
+#### Prompt
+
+```text
+You are a voice-of-customer analyst. I am
+```
+
+### No. 1656: Retrato fotorealista de una mujer con cabello largo
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Giulia
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Un retrato fotorealista a la altura de los ojos de una mujer con cabello largo, de pie de frente con la cabeza ligeramente inclinada.
+
+#### Prompt
+
+```text
+A photorealistic medium full shot, eye-level portrait of [NAME] with long hair, standing face-forward with her head slightly tilted
+```
+
+### No. 1657: Transmisión de cámara en motocicleta del Tour de Francia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** TechHalla
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para un plano de seguimiento continuo en una sola toma desde una motocicleta de carrera durante una etapa de montaña del Tour de Francia.
+
+#### Prompt
+
+```text
+Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. Continuous single-take tracking shot filmed from a race moto
+```
+
+### No. 1658: Vlog compuesto de acción real y pegatinas de anime en 2D
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Marcus Byrne
+- **Idioma:** `es-ES`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para un vlog de 15 segundos que combina imágenes de acción real con un estilo de pegatinas de anime en 2D.
+
+#### Prompt
+
+```text
+[Magic Pen Vlog · 15s · 9:16]
+[Style] Live-action + 2D anime sticker composite.
+```
+
+### No. 1659: Póster de moda cinematográfico de lujo ultrarealista
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Dilshad Hussain
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para crear un póster de moda que preserve un rostro de referencia con calidad ultrarealista y cinematográfica.
+
+#### Prompt
+
+```text
+Using uploaded face as reference. Create an ultra-realistic luxury cinematic fashion poster featuring the exact same man from the reference image. Preserve the face 100% identical with the original facial
+```
+
+### No. 1660: Retrato de detalle de piel obsesivo y cinematográfico en tonos oscuros
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar un retrato usando un rostro de referencia, enfocándose en detalles cinematográficos oscuros de la piel y una nueva pose.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic obsessive skin detail portrait — same devastating concept, completely different pose and angle
+```
+
+### No. 1661: Retrato de selfie fotorealista de una mujer del sur de Asia
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Glowecho
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción detallada para generar un retrato de selfie fotorealista de una joven del sur de Asia con rasgos específicos.
+
+#### Prompt
+
+```text
+Photorealistic selfie portrait of a beautiful young South Asian woman in her mid-20s with warm glowing skin, long voluminous wavy brown hair with caramel highlights cascading over her shoulders, wearing round
+```
+
+### No. 1662: Escena cinematográfica con cámara Polaroid en la playa al atardecer
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Maddox
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una persona sostiene una cámara instantánea azul bebé en una playa al atardecer, mientras expulsa una foto polaroid.
+
+#### Prompt
+
+```text
+Person from reference image 2 holding a baby blue Fujifilm Instax Mini 11 camera on a sandy beach at golden hour sunset, their hand and outfit matching reference image 2. A polaroid photo ejecting from the top of the
+```
+
+### No. 1663: Retrato cinematográfico hiperrealista para videojuegos
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Ozair AI
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para generar un retrato cinematográfico hiperrealista para videojuegos utilizando un rostro de referencia, ideal para una foto de perfil de transmisión en vivo.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a hyper-realistic cinematic gaming portrait — the ultimate live streaming setup shot that every gamer wants as their profile picture and every brand wants
+```
+
+### No. 1664: Preservación de la Identidad y Semejanza de un Sujeto Femenino
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Saira
+- **Idioma:** `es-ES`
+- **Video:** [Ver]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descripcion
+
+Una instrucción para usar una imagen cargada con el fin de preservar la identidad, rasgos y edad de un sujeto femenino, generando una salida de alta calidad.
+
+#### Prompt
+
+```text
+Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
 ```
 
 Este README se genera automaticamente a partir de `data/prompts_by_locale`.

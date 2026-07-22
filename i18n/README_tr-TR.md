@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Olcut | Sayi |
 | --- | ---: |
-| Toplam Prompt | 1637 |
+| Toplam Prompt | 1664 |
 | Kategoriler | 8 |
-| Onizleme Videolari | 463 |
-| Son Guncelleme | 21.07.2026 |
+| Onizleme Videolari | 465 |
+| Son Guncelleme | 22.07.2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1535)
+### Twitter Community (1562)
 
 ### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
@@ -37601,6 +37601,559 @@ Sinematik sahnelerden oluşan istiflenmiş paneller ve merkezi bir grafik figür
 
 ```text
 Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
+```
+
+### No. 1638: Nano Banana Pro Kadın Özne Prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glena jenner
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kimlik için bir referans görsel kullanarak genç yetişkin bir kadının videosunu oluşturmak için yapılandırılmış bir prompt.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "identity": "Use uploaded reference image for the exact facial identity, facial structure, eye color, hair color, and skin tone.",
+      "gender": "female",
+      "age_group": "young adult",
+      "hairstyle":
+```
+
+### No. 1639: Gün batımı plajında Güney Asyalı kadın portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gün batımında kayalık bir plajda, uçuşan saçları olan genç bir kadının sinematik, fotogerçekçi portresi.
+
+#### Prompt
+
+```text
+Ultra photorealistic cinematic portrait of a beautiful young South Asian woman in her mid-20s standing on a rocky beach at sunset. She has long voluminous dark brown hair flowing in the breeze, warm glowing
+```
+
+### No. 1640: Sakin Bir Kadının Fotogerçekçi Güzellik Editoryalı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ANKIT PATEL 🇮🇳 | AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sakin bir genç kadının fotogerçekçi yaşam tarzı ve güzellik editoryal görselini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A photorealistic lifestyle/beauty editorial medium shot of a woman in her early-to-mid 20s with fair-to-light skin and a calm, serene expression, sitting
+```
+
+### No. 1641: Doğu Asyalı kadın portre prompt'u
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** David
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Açık tenli ve narin özelliklere sahip genç bir Doğu Asyalı kadının portresini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 1642: Asyalı Kadının Sinematik Altın Saat Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Minahil
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir altın saat ortamında, ışıldayan cildi ve kırmızı dudakları olan sofistike bir Asyalı kadının sinematik portresi için bir prompt.
+
+#### Prompt
+
+```text
+A cinematic and elegant portrait series of a sophisticated Asian woman with glowing, dewy skin, defined cheekbones, and striking matte red lips, set against a warm, soft-focus golden hour background.
+```
+
+### No. 1643: Skibidi Toilet Tarzı Erkek Karakter Sayfası
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kinovi.AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Skibidi Toilet tarzında bir erkek karakter için karakter sayfası oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Make a character sheet of male character inspired by the same artstyle and designs as the uploaded images. He is male.
+```
+
+### No. 1644: Fotogerçekçi Güney Asyalı Kadın Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Rüzgarda uçuşan dalgalı saçları olan genç bir Güney Asyalı kadının fotogerçekçi portresi.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young South Asian woman in her mid-20s with warm olive skin, long wavy dark brown hair with reddish highlights blowing gently in the wind, striking dark eyes, defined
+```
+
+### No. 1645: Kimlik Koruma ile Sinematik Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Simply Ray
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Genç bir kadının, bir referans fotoğraftaki yüz kimliğini sıkı bir şekilde koruyarak ultra gerçekçi sinematik portresini oluşturmak için bir talimat.
+
+#### Prompt
+
+```text
+Use the uploaded reference photo as the exact facial identity. Preserve facial features, skin tone, and identity with high accuracy. Do not alter the person's face. Aspect ratio 9:16.
+
+Ultra-realistic cinematic portrait of a beautiful young woman
+```
+
+### No. 1646: Beyaz Yaz Kıyafetli Kendinden Emin Erkek
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Picts by AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tamamı beyaz bir yaz kıyafeti içinde, kadrajda ve rahatlamış bir erkeğin videosunu oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+A confident man stands perfectly centered facing the camera with a relaxed posture, level shoulders, and evenly distributed weight, wearing an all-white summer outfit featuring an unbuttoned warm white shirt and matching
+```
+
+### No. 1647: Fotoğraf Referansından Tam Benzerliği Koru
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Oogie
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir Yapay Zekaya, yüklenen tek bir yüz fotoğrafını kimlik için tek referans olarak kullanmasını, tüm yüz detaylarını ve dokularını değiştirmeden korumasını talep eden bir prompt.
+
+#### Prompt
+
+```text
+Use the uploaded face photo as the ONLY identity reference. Preserve exact likeness, age, facial proportions, eyes, nose, lips, skin tone, hair texture, natural skin texture and overall appearance. No face drift, no face mixing, no beautifying
+```
+
+### No. 1648: Bilim Kurgu Film Noir Ekspresyonist Poster Izgarası
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Gadgetify
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dört ünlü uzay filmi için monokrom noir ekspresyonist posterlerden oluşan 2x2'lik bir ızgara oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous space movies: RENDER_CHAIN = "[$SUBJECT :: monochrome_noir_raincut :: expressionist__poster]"
+
+MORPH_RULES = {
+    "palette": "pure black, stark white, silver"
+}
+```
+
+### No. 1649: Referanstan Ultra Gerçekçi Sinematik Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Marcos
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sağlanan bir referans görselinin yüz özelliklerine sıkı sıkıya bağlı kalarak fotogerçekçi bir portre oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra-realistic, photorealistic cinematic portrait strictly based on the provided reference image. Use my uploaded face 1:1 -fully preserve facial structure, proportions, age, skin texture, and natural imperfections. No beautification
+```
+
+### No. 1650: Bitkin Sessizlik Mavi Sis Pembe İpek
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** timedoctor.eth
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bitkin bir kahramanın yüksek kaliteli sinematik editoryal fotoğrafı, Hasselblad kamera ile çekilmiş.
+
+#### Prompt
+
+```text
+High-end cinematic editorial photography, Medium format Hasselblad H6D-100c, 80mm f/1.9 lens. The Protagonist, an exhausted
+```
+
+### No. 1651: Rahat Yağmurlu Kitapçı Hayal Kurma Sinematik Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Aatif J
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Rah bir iç mekanda, yağmurlu bir pencereden dışarı bakan genç bir kadının sinematik orta plan çekimi.
+
+#### Prompt
+
+```text
+A cinematic, cozy indoor medium shot captures a young woman with warm, wavy light-brown hair and soft features, gazing thoughtfully out of a paneled wooden window streaked with raindrops.
+```
+
+### No. 1652: Siyah Beyaz Minimal Editoryal Görsel
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Marco "Shikoba" Riccetti
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Negatif alan ve yumuşak pencere ışığı ile siyah beyaz bir editoryal fotoğraf için talimat.
+
+#### Prompt
+
+```text
+Black and white editorial image of a [ subject / scene ]  in a minimal setting. The composition emphasizes negative space, with soft light entering from a large window. Shot with a centered
+```
+
+### No. 1653: Altın Arkalık Işıkla Sinematik Alçak Açılı Portre
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** shahroze khan
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Derinlik ve duygu yaratmak için altın arkadan aydınlatma, hacimsel ışın hüzmesi ve koyu bir siluet kullanan sinematik bir portre talimatı.
+
+#### Prompt
+
+```text
+A cinematic low-angle side-profile portrait of a young man standing inside a
+```
+
+### No. 1654: Disney Tarzı Genç Erkek Çocuk Karakter Sayfası
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kinovi.AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Disney benzeri bir sanat tarzında, genç bir erkek çocuk için bir karakter sayfası oluşturmak için talimat.
+
+#### Prompt
+
+```text
+Create a character sheet of a young boy in Disney-like artstyle.
+```
+
+### No. 1655: Müşteri Sesi Analisti Talimatı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KNOX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Video reklamları oluşturmak için satış görüşme transkriptlerini analiz etmeye yönelik bir talimat.
+
+#### Prompt
+
+```text
+You are a voice-of-customer analyst. I am
+```
+
+### No. 1656: Uzun Saçlı Bir Kadının Foto-gerçekçi Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Giulia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Uzun saçlı, yüzü öne dönük, başı hafif yana eğik duran bir kadının göz hizasında, foto-gerçekçi bir portresi.
+
+#### Prompt
+
+```text
+A photorealistic medium full shot, eye-level portrait of [NAME] with long hair, standing face-forward with her head slightly tilted
+```
+
+### No. 1657: Tour de France Motosiklet Kamera Yayını
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** TechHalla
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tour de France dağ etabı sırasında bir yarış motosikletinden kesintisiz, tek planlı takip çekimi için talimat.
+
+#### Prompt
+
+```text
+Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. Continuous single-take tracking shot filmed from a race moto
+```
+
+### No. 1658: Canlı Çekim Anime Sticker Kompozit Vlog
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Marcus Byrne
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Canlı çekim görüntüleri ile 2D anime sticker stilini birleştiren 15 saniyelik bir vlog için talimat.
+
+#### Prompt
+
+```text
+[Magic Pen Vlog · 15s · 9:16]
+[Style] Live-action + 2D anime sticker composite.
+```
+
+### No. 1659: Ultra-gerçekçi lüks sinematik moda posteri
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dilshad Hussain
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Ultra-gerçekçi, sinematik kalitede bir referans yüzü koruyarak bir moda posteri oluşturmak için bir talimat.
+
+#### Prompt
+
+```text
+Using uploaded face as reference. Create an ultra-realistic luxury cinematic fashion poster featuring the exact same man from the reference image. Preserve the face 100% identical with the original facial
+```
+
+### No. 1660: Karanlık Sinematik Takıntılı Cilt Detayı Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ozair AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir referans yüz kullanarak, karanlık sinematik cilt detaylarına ve yeni bir poza odaklanan bir portre oluşturmak için bir talimat.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic obsessive skin detail portrait — same devastating concept, completely different pose and angle
+```
+
+### No. 1661: Foto-gerçekçi Güney Asyalı Kadın Selfie Portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Glowecho
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli özelliklere sahip genç bir Güney Asyalı kadının foto-gerçekçi bir selfie portresini oluşturmak için detaylı bir talimat.
+
+#### Prompt
+
+```text
+Photorealistic selfie portrait of a beautiful young South Asian woman in her mid-20s with warm glowing skin, long voluminous wavy brown hair with caramel highlights cascading over her shoulders, wearing round
+```
+
+### No. 1662: Plaj Gün Batımı Polaroid Kamera Sinematik Sahnesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Maddox
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kişi, gün batımında bir plajda bebek mavisi bir anlık fotoğraf makinesi tutuyor ve bir polaroid fotoğraf çıkıyor.
+
+#### Prompt
+
+```text
+Person from reference image 2 holding a baby blue Fujifilm Instax Mini 11 camera on a sandy beach at golden hour sunset, their hand and outfit matching reference image 2. A polaroid photo ejecting from the top of the
+```
+
+### No. 1663: Hiper-gerçekçi sinematik oyun portresi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Ozair AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir referans yüz kullanarak hiper-gerçekçi, sinematik bir oyun portresi oluşturmak için ideal, canlı yayın profil fotoğrafı amaçlı bir talimat.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a hyper-realistic cinematic gaming portrait — the ultimate live streaming setup shot that every gamer wants as their profile picture and every brand wants
+```
+
+### No. 1664: Kadın Öznenin Kimliğini ve Benzerliğini Koruma
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Saira
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yüklenen bir görseli kullanarak, bir kadın öznenin kimliğini, özelliklerini ve yaşını korurken yüksek kaliteli bir çıktı oluşturmak için bir talimat.
+
+#### Prompt
+
+```text
+Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
 ```
 
 Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

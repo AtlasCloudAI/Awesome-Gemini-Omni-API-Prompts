@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 1637 |
+| 提示詞總數 | 1664 |
 | 分類數 | 8 |
-| 預覽影片數 | 463 |
-| 最後更新 | 2026/07/21 |
+| 預覽影片數 | 465 |
+| 最後更新 | 2026/07/22 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1535)
+### Twitter Community (1562)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -37601,6 +37601,559 @@ A young man with glasses and a brown sleeveless shirt stands against a dark grey
 
 ```text
 Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
+```
+
+### No. 1638: Nano Banana Pro女性主體提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glena jenner
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個結構化的提示，用於生成一位年輕成年女性的影片，並使用參考圖像來定義其身份特徵。
+
+#### 提示詞
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "identity": "Use uploaded reference image for the exact facial identity, facial structure, eye color, hair color, and skin tone.",
+      "gender": "female",
+      "age_group": "young adult",
+      "hairstyle":
+```
+
+### No. 1639: 日落海灘上的南亞女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位年輕女性的電影級寫實肖像，擁有飄逸長髮，背景是日落時分的岩石海灘。
+
+#### 提示詞
+
+```text
+Ultra photorealistic cinematic portrait of a beautiful young South Asian woman in her mid-20s standing on a rocky beach at sunset. She has long voluminous dark brown hair flowing in the breeze, warm glowing
+```
+
+### No. 1640: 寧靜女性的寫實美容時尚攝影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成寫實生活風格與美容時尚圖像的提示，內容為一位平靜的年輕女性。
+
+#### 提示詞
+
+```text
+A photorealistic lifestyle/beauty editorial medium shot of a woman in her early-to-mid 20s with fair-to-light skin and a calm, serene expression, sitting
+```
+
+### No. 1641: 東亞女性肖像提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** David
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成年輕東亞女性肖像的提示，該女性擁有白皙皮膚和精緻五官。
+
+#### 提示詞
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 1642: 亞洲女性的電影級黃金時刻肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成電影級肖像的提示，內容為一位精緻的亞洲女性，擁有發光的肌膚和紅唇，處於溫暖的黃金時刻環境中。
+
+#### 提示詞
+
+```text
+A cinematic and elegant portrait series of a sophisticated Asian woman with glowing, dewy skin, defined cheekbones, and striking matte red lips, set against a warm, soft-focus golden hour background.
+```
+
+### No. 1643: Skibidi Toilet風格男性角色設定表
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kinovi.AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成Skibidi Toilet風格男性角色設定表的提示。
+
+#### 提示詞
+
+```text
+Make a character sheet of male character inspired by the same artstyle and designs as the uploaded images. He is male.
+```
+
+### No. 1644: 寫實南亞女性肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一位年輕南亞女性的寫實肖像，波浪狀的頭髮在風中飄揚。
+
+#### 提示詞
+
+```text
+Photorealistic portrait of a stunning young South Asian woman in her mid-20s with warm olive skin, long wavy dark brown hair with reddish highlights blowing gently in the wind, striking dark eyes, defined
+```
+
+### No. 1645: 保留身份特徵的電影級肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Simply Ray
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指示生成年輕女性超寫實電影級肖像的指令，嚴格依據參考照片保留其面部身份特徵。
+
+#### 提示詞
+
+```text
+Use the uploaded reference photo as the exact facial identity. Preserve facial features, skin tone, and identity with high accuracy. Do not alter the person's face. Aspect ratio 9:16.
+
+Ultra-realistic cinematic portrait of a beautiful young woman
+```
+
+### No. 1646: 身穿白色夏季服裝的自信男子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成影片的提示，內容為一位居中、放鬆、身穿全白色夏季服裝的男子。
+
+#### 提示詞
+
+```text
+A confident man stands perfectly centered facing the camera with a relaxed posture, level shoulders, and evenly distributed weight, wearing an all-white summer outfit featuring an unbuttoned warm white shirt and matching
+```
+
+### No. 1647: 從照片參考中保留精確容貌
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Oogie
+- **語言:** `zh-TW`
+- **影片:** [查看](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指示AI使用單一上傳的臉部照片作為唯一身份參考的提示，保留所有面部細節和紋理而不作任何改動。
+
+#### 提示詞
+
+```text
+Use the uploaded face photo as the ONLY identity reference. Preserve exact likeness, age, facial proportions, eyes, nose, lips, skin tone, hair texture, natural skin texture and overall appearance. No face drift, no face mixing, no beautifying
+```
+
+### No. 1648: 科幻電影黑色表現主義海報網格
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成2x2網格的提示，內容為四部著名太空電影的單色黑色表現主義風格海報。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, do this for 4 famous space movies: RENDER_CHAIN = "[$SUBJECT :: monochrome_noir_raincut :: expressionist__poster]"
+
+MORPH_RULES = {
+    "palette": "pure black, stark white, silver"
+}
+```
+
+### No. 1649: 依據參考圖像生成超寫實電影級肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Marcos
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成超寫實肖像的提示，嚴格遵循所提供參考圖像的面部特徵。
+
+#### 提示詞
+
+```text
+Ultra-realistic, photorealistic cinematic portrait strictly based on the provided reference image. Use my uploaded face 1:1 -fully preserve facial structure, proportions, age, skin texture, and natural imperfections. No beautification
+```
+
+### No. 1650: 疲憊的靜默藍霧粉紅絲綢
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅高級電影感編輯照片，描繪一位疲憊的主角，使用哈蘇相機拍攝。
+
+#### 提示詞
+
+```text
+High-end cinematic editorial photography, Medium format Hasselblad H6D-100c, 80mm f/1.9 lens. The Protagonist, an exhausted
+```
+
+### No. 1651: 舒適雨日書店白日夢電影鏡頭
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個電影感的中景鏡頭，描繪一位年輕女子在舒適的室內環境中凝視著雨天的窗外。
+
+#### 提示詞
+
+```text
+A cinematic, cozy indoor medium shot captures a young woman with warm, wavy light-brown hair and soft features, gazing thoughtfully out of a paneled wooden window streaked with raindrops.
+```
+
+### No. 1652: 黑白極簡編輯圖片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Marco "Shikoba" Riccetti
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作黑白編輯照片的提示，包含留白空間和柔和的窗戶光線。
+
+#### 提示詞
+
+```text
+Black and white editorial image of a [ subject / scene ]  in a minimal setting. The composition emphasizes negative space, with soft light entering from a large window. Shot with a centered
+```
+
+### No. 1653: 電影感低角度金色背光肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** shahroze khan
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作電影感肖像的提示，運用金色背光、體積光線和深色剪影來營造深度和情感。
+
+#### 提示詞
+
+```text
+A cinematic low-angle side-profile portrait of a young man standing inside a
+```
+
+### No. 1654: 迪士尼風格小男孩角色設定圖
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kinovi.AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成迪士尼風格藝術風格下的小男孩角色設定圖的提示。
+
+#### 提示詞
+
+```text
+Create a character sheet of a young boy in Disney-like artstyle.
+```
+
+### No. 1655: 客戶心聲分析師提示
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KNOX
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於分析銷售通話記錄以生成影片廣告的提示。
+
+#### 提示詞
+
+```text
+You are a voice-of-customer analyst. I am
+```
+
+### No. 1656: 長髮女性的寫實肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Giulia
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅與眼睛同高、寫實的長髮女性肖像，她正面站立，頭部微微傾斜。
+
+#### 提示詞
+
+```text
+A photorealistic medium full shot, eye-level portrait of [NAME] with long hair, standing face-forward with her head slightly tilted
+```
+
+### No. 1657: 環法自行車賽摩托車攝影機轉播
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TechHalla
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於環法自行車賽山地賽段中，從比賽摩托車上進行連續單一鏡頭跟蹤拍攝的提示。
+
+#### 提示詞
+
+```text
+Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. Continuous single-take tracking shot filmed from a race moto
+```
+
+### No. 1658: 真人動漫貼紙合成Vlog
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Marcus Byrne
+- **語言:** `zh-TW`
+- **影片:** [查看](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作15秒Vlog的提示，結合真人實拍片段與2D動漫貼紙風格。
+
+#### 提示詞
+
+```text
+[Magic Pen Vlog · 15s · 9:16]
+[Style] Live-action + 2D anime sticker composite.
+```
+
+### No. 1659: 超寫實奢華電影級時尚海報
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作時尚海報的提示，旨在保留參考臉部並呈現超寫實、電影級的品質。
+
+#### 提示詞
+
+```text
+Using uploaded face as reference. Create an ultra-realistic luxury cinematic fashion poster featuring the exact same man from the reference image. Preserve the face 100% identical with the original facial
+```
+
+### No. 1660: 黑暗電影感執著膚質細節肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個使用參考臉部生成肖像的提示，專注於黑暗電影感的皮膚細節和新的姿勢。
+
+#### 提示詞
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic obsessive skin detail portrait — same devastating concept, completely different pose and angle
+```
+
+### No. 1661: 寫實南亞女性自拍肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於生成具有特定特徵的年輕南亞女性寫實自拍肖像的詳細提示。
+
+#### 提示詞
+
+```text
+Photorealistic selfie portrait of a beautiful young South Asian woman in her mid-20s with warm glowing skin, long voluminous wavy brown hair with caramel highlights cascading over her shoulders, wearing round
+```
+
+### No. 1662: 海灘日落拍立得相機電影場景
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個人在日落時分的海灘上拿著一台淺藍色拍立得相機，一張拍立得照片正被彈出。
+
+#### 提示詞
+
+```text
+Person from reference image 2 holding a baby blue Fujifilm Instax Mini 11 camera on a sandy beach at golden hour sunset, their hand and outfit matching reference image 2. A polaroid photo ejecting from the top of the
+```
+
+### No. 1663: 超寫實電影級遊戲肖像
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個使用參考臉部生成超寫實電影級遊戲肖像的提示，適合用於直播個人資料圖片。
+
+#### 提示詞
+
+```text
+Use the exact same face from the reference image and generate a hyper-realistic cinematic gaming portrait — the ultimate live streaming setup shot that every gamer wants as their profile picture and every brand wants
+```
+
+### No. 1664: 女性主體身份與肖像特徵保留
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Saira
+- **語言:** `zh-TW`
+- **影片:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個指示使用上傳圖像來保留女性主體的身份、特徵和年齡，同時生成高品質輸出的提示。
+
+#### 提示詞
+
+```text
+Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

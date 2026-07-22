@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1637%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 1637 |
+| Tong so Prompt | 1664 |
 | So danh muc | 8 |
-| So video xem truoc | 463 |
-| Cap nhat lan cuoi | 21/07/2026 |
+| So video xem truoc | 465 |
+| Cap nhat lan cuoi | 22/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1535)
+### Twitter Community (1562)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -37601,6 +37601,559 @@ Một gợi ý để tạo ra một tấm áp phích hiện đại với các kh
 
 ```text
 Create a modern editorial collage poster featuring four vertically stacked rounded-rectangle panels in the background, each displaying cinematic landscape scenes. The foreground should feature a central figure in a dynamic pose, rendered in a bold graphic style with clean lines and vibrant colors. Include stylized typography with a futuristic font for the title 'NEXUS' at the top.
+```
+
+### No. 1638: Lệnh Tạo Đối Tượng Nữ Cho Nano Banana Pro
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glena jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh có cấu trúc để tạo video về một phụ nữ trẻ trưởng thành sử dụng hình ảnh tham chiếu cho danh tính.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "appearance": {
+      "identity": "Use uploaded reference image for the exact facial identity, facial structure, eye color, hair color, and skin tone.",
+      "gender": "female",
+      "age_group": "young adult",
+      "hairstyle":
+```
+
+### No. 1639: Chân dung phụ nữ Nam Á trên bãi biển lúc hoàng hôn
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung điện ảnh, chân thực như ảnh chụp của một phụ nữ trẻ với mái tóc bay trên bãi biển đá lúc hoàng hôn.
+
+#### Prompt
+
+```text
+Ultra photorealistic cinematic portrait of a beautiful young South Asian woman in her mid-20s standing on a rocky beach at sunset. She has long voluminous dark brown hair flowing in the breeze, warm glowing
+```
+
+### No. 1640: Ảnh Biên Tập Vẻ Đẹp Chân Thực Của Người Phụ Nữ Bình Thản
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ANKIT PATEL 🇮🇳 | AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một hình ảnh biên tập về lối sống và vẻ đẹp chân thực như ảnh chụp của một phụ nữ trẻ bình tĩnh.
+
+#### Prompt
+
+```text
+A photorealistic lifestyle/beauty editorial medium shot of a woman in her early-to-mid 20s with fair-to-light skin and a calm, serene expression, sitting
+```
+
+### No. 1641: Lệnh tạo chân dung phụ nữ Đông Á
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** David
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một bức chân dung của một phụ nữ trẻ Đông Á với làn da trắng và các đường nét thanh tú.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 1642: Chân Dung Điện Ảnh Phụ Nữ Châu Á Trong Giờ Vàng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh cho một bức chân dung điện ảnh về một phụ nữ Châu Á tinh tế với làn da rạng rỡ và đôi môi đỏ trong khung cảnh ấm áp của giờ vàng.
+
+#### Prompt
+
+```text
+A cinematic and elegant portrait series of a sophisticated Asian woman with glowing, dewy skin, defined cheekbones, and striking matte red lips, set against a warm, soft-focus golden hour background.
+```
+
+### No. 1643: Bảng Nhân Vật Nam Theo Phong Cách Skibidi Toilet
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Kinovi.AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một bảng nhân vật cho một nhân vật nam theo phong cách của Skibidi Toilet.
+
+#### Prompt
+
+```text
+Make a character sheet of male character inspired by the same artstyle and designs as the uploaded images. He is male.
+```
+
+### No. 1644: Chân Dung Phụ Nữ Nam Á Chân Thực Như Ảnh Chụp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung chân thực như ảnh chụp của một phụ nữ trẻ Nam Á với mái tóc gợn sóng bay trong gió.
+
+#### Prompt
+
+```text
+Photorealistic portrait of a stunning young South Asian woman in her mid-20s with warm olive skin, long wavy dark brown hair with reddish highlights blowing gently in the wind, striking dark eyes, defined
+```
+
+### No. 1645: Chân Dung Điện Ảnh Với Sự Bảo Toàn Danh Tính
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Simply Ray
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một hướng dẫn để tạo một bức chân dung điện ảnh siêu thực về một phụ nữ trẻ, bảo toàn nghiêm ngặt danh tính khuôn mặt từ một bức ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Use the uploaded reference photo as the exact facial identity. Preserve facial features, skin tone, and identity with high accuracy. Do not alter the person's face. Aspect ratio 9:16.
+
+Ultra-realistic cinematic portrait of a beautiful young woman
+```
+
+### No. 1646: Người Đàn Ông Tự Tin Trong Trang Phục Mùa Hè Màu Trắng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo video về một người đàn ông thư giãn, được căn giữa, mặc bộ đồ mùa hè toàn màu trắng.
+
+#### Prompt
+
+```text
+A confident man stands perfectly centered facing the camera with a relaxed posture, level shoulders, and evenly distributed weight, wearing an all-white summer outfit featuring an unbuttoned warm white shirt and matching
+```
+
+### No. 1647: Bảo Toàn Chân Dung Chính Xác Từ Ảnh Tham Chiếu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Oogie
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh hướng dẫn AI sử dụng một bức ảnh khuôn mặt đã tải lên làm tham chiếu danh tính duy nhất, bảo toàn tất cả chi tiết và kết cấu khuôn mặt mà không thay đổi.
+
+#### Prompt
+
+```text
+Use the uploaded face photo as the ONLY identity reference. Preserve exact likeness, age, facial proportions, eyes, nose, lips, skin tone, hair texture, natural skin texture and overall appearance. No face drift, no face mixing, no beautifying
+```
+
+### No. 1648: Lưới Poster Biểu Hiện Phim Đen Khoa Học Viễn Tưởng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Gadgetify
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một lưới 2x2 các poster phim đen theo phong cách biểu hiện đơn sắc cho bốn bộ phim không gian nổi tiếng.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 famous space movies: RENDER_CHAIN = "[$SUBJECT :: monochrome_noir_raincut :: expressionist__poster]"
+
+MORPH_RULES = {
+    "palette": "pure black, stark white, silver"
+}
+```
+
+### No. 1649: Chân dung điện ảnh siêu thực từ hình ảnh tham chiếu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Marcos
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một bức chân dung chân thực như ảnh chụp, tuân thủ nghiêm ngặt các đặc điểm khuôn mặt từ hình ảnh tham chiếu được cung cấp.
+
+#### Prompt
+
+```text
+Ultra-realistic, photorealistic cinematic portrait strictly based on the provided reference image. Use my uploaded face 1:1 -fully preserve facial structure, proportions, age, skin texture, and natural imperfections. No beautification
+```
+
+### No. 1650: Sự Im Lặng Kiệt Sức Sương Xanh Lụa Hồng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức ảnh biên tập điện ảnh cao cấp về một nhân vật chính kiệt sức, được chụp bằng máy ảnh Hasselblad.
+
+#### Prompt
+
+```text
+High-end cinematic editorial photography, Medium format Hasselblad H6D-100c, 80mm f/1.9 lens. The Protagonist, an exhausted
+```
+
+### No. 1651: Cảnh Quay Điện Ảnh Mơ Mộng Trong Hiệu Sách Ấm Cúng Ngày Mưa
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aatif J
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh quay trung cảnh điện ảnh của một phụ nữ trẻ đang nhìn ra ngoài cửa sổ mưa trong một khung cảnh trong nhà ấm cúng.
+
+#### Prompt
+
+```text
+A cinematic, cozy indoor medium shot captures a young woman with warm, wavy light-brown hair and soft features, gazing thoughtfully out of a paneled wooden window streaked with raindrops.
+```
+
+### No. 1652: Hình Ảnh Biên Tập Tối Giản Đen Trắng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Marco "Shikoba" Riccetti
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh cho một bức ảnh biên tập đen trắng với không gian âm và ánh sáng cửa sổ dịu nhẹ.
+
+#### Prompt
+
+```text
+Black and white editorial image of a [ subject / scene ]  in a minimal setting. The composition emphasizes negative space, with soft light entering from a large window. Shot with a centered
+```
+
+### No. 1653: Chân Dung Góc Thấp Điện Ảnh Với Ánh Sáng Vàng Ngược
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** shahroze khan
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh cho một bức chân dung điện ảnh sử dụng ánh sáng vàng ngược, tia sáng thể tích và hình bóng tối để tạo chiều sâu và cảm xúc.
+
+#### Prompt
+
+```text
+A cinematic low-angle side-profile portrait of a young man standing inside a
+```
+
+### No. 1654: Bảng Nhân Vật Cậu Bé Phong Cách Disney
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Kinovi.AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một bảng nhân vật cho một cậu bé theo phong cách nghệ thuật giống Disney.
+
+#### Prompt
+
+```text
+Create a character sheet of a young boy in Disney-like artstyle.
+```
+
+### No. 1655: Lệnh Phân Tích Giọng Nói Khách Hàng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KNOX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để phân tích bản ghi âm cuộc gọi bán hàng nhằm tạo ra các quảng cáo video.
+
+#### Prompt
+
+```text
+You are a voice-of-customer analyst. I am
+```
+
+### No. 1656: Chân dung chân thực của một phụ nữ tóc dài
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Giulia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức chân dung chân thực, tầm mắt ngang, của một phụ nữ tóc dài, đứng hướng mặt về phía trước với đầu hơi nghiêng.
+
+#### Prompt
+
+```text
+A photorealistic medium full shot, eye-level portrait of [NAME] with long hair, standing face-forward with her head slightly tilted
+```
+
+### No. 1657: Phát Sóng Camera Xe Máy Tour de France
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** TechHalla
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh cho một cảnh quay theo dõi liên tục một mạch từ một chiếc xe máy đua trong chặng leo núi của Tour de France.
+
+#### Prompt
+
+```text
+Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. Continuous single-take tracking shot filmed from a race moto
+```
+
+### No. 1658: Vlog Ghép Hình Sticker Anime Hành Động Thật
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Marcus Byrne
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh cho một vlog dài 15 giây kết hợp cảnh quay hành động thật với phong cách sticker anime 2D.
+
+#### Prompt
+
+```text
+[Magic Pen Vlog · 15s · 9:16]
+[Style] Live-action + 2D anime sticker composite.
+```
+
+### No. 1659: Áp phích thời trang điện ảnh sang trọng siêu thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Dilshad Hussain
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo một áp phích thời trang bảo toàn khuôn mặt tham chiếu với chất lượng siêu thực và đậm chất điện ảnh.
+
+#### Prompt
+
+```text
+Using uploaded face as reference. Create an ultra-realistic luxury cinematic fashion poster featuring the exact same man from the reference image. Preserve the face 100% identical with the original facial
+```
+
+### No. 1660: Chân Dung Chi Tiết Da Ám Ảnh Tối Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một bức chân dung sử dụng khuôn mặt tham chiếu, tập trung vào chi tiết da theo phong cách điện ảnh tối và một tư thế mới.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a dark cinematic obsessive skin detail portrait — same devastating concept, completely different pose and angle
+```
+
+### No. 1661: Chân Dung Tự Sướng Người Phụ Nữ Nam Á Chân Thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh chi tiết để tạo ra một chân dung tự sướng chân thực của một phụ nữ trẻ Nam Á với những đặc điểm cụ thể.
+
+#### Prompt
+
+```text
+Photorealistic selfie portrait of a beautiful young South Asian woman in her mid-20s with warm glowing skin, long voluminous wavy brown hair with caramel highlights cascading over her shoulders, wearing round
+```
+
+### No. 1662: Cảnh Điện Ảnh Máy Ảnh Polaroid Hoàng Hôn Bãi Biển
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Maddox
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một người cầm máy ảnh lấy liền màu xanh da trời sáng trên bãi biển lúc hoàng hôn, với một tấm ảnh polaroid đang được đẩy ra.
+
+#### Prompt
+
+```text
+Person from reference image 2 holding a baby blue Fujifilm Instax Mini 11 camera on a sandy beach at golden hour sunset, their hand and outfit matching reference image 2. A polaroid photo ejecting from the top of the
+```
+
+### No. 1663: Chân dung game điện ảnh siêu thực
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ozair AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh để tạo ra một chân dung game điện ảnh siêu thực bằng cách sử dụng khuôn mặt tham chiếu, lý tưởng cho ảnh đại diện phát trực tiếp.
+
+#### Prompt
+
+```text
+Use the exact same face from the reference image and generate a hyper-realistic cinematic gaming portrait — the ultimate live streaming setup shot that every gamer wants as their profile picture and every brand wants
+```
+
+### No. 1664: Bảo Toàn Nhận Diện và Hình Ảnh Chủ Thể Nữ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Saira
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một lệnh hướng dẫn sử dụng hình ảnh đã tải lên để bảo toàn nhận diện, đặc điểm và độ tuổi của một chủ thể nữ trong khi tạo ra đầu ra chất lượng cao.
+
+#### Prompt
+
+```text
+Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

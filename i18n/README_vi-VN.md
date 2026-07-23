@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1689%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 1664 |
+| Tong so Prompt | 1689 |
 | So danh muc | 8 |
-| So video xem truoc | 465 |
-| Cap nhat lan cuoi | 22/07/2026 |
+| So video xem truoc | 470 |
+| Cap nhat lan cuoi | 23/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1562)
+### Twitter Community (1587)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -38154,6 +38154,527 @@ Một lệnh hướng dẫn sử dụng hình ảnh đã tải lên để bảo 
 
 ```text
 Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
+```
+
+### No. 1665: Người Phụ Nữ Trong Đấu Trường Khoa Học Viễn Tưởng Tương Lai
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sharon Riley
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho cảnh quay rộng kịch tính về một người phụ nữ tóc vàng đứng đầy chiến thắng trong một đấu trường tương lai mờ ảo.
+
+#### Prompt
+
+```text
+A dramatic wide shot of a beautiful Western woman with long wavy blonde hair in a ponytail, fair skin, athletic and toned physique, standing triumphantly in the center of a massive futuristic sci-fi arena filled with haze and god rays. She wears a fitted
+```
+
+### No. 1666: Sử dụng hình ảnh khuôn mặt đã tải lên làm tham chiếu nhận dạng chính
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Professor
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý hướng dẫn mô hình video AI ưu tiên và bảo toàn chính xác nhận dạng khuôn mặt từ hình ảnh tham chiếu đã tải lên.
+
+#### Prompt
+
+```text
+Use my uploaded face image as the primary facial identity reference with the highest identity weight. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape
+```
+
+### No. 1667: Chân dung nam thanh niên tự tin
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Picts by AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một bức chân dung của một thanh niên đứng tự tin với mái tóc đen ngắn.
+
+#### Prompt
+
+```text
+A young male stands confidently in the center of the frame, facing the camera with a straight posture, centered weight distribution, and level, relaxed shoulders. He has short dark hair measuring two to three inches
+```
+
+### No. 1668: Bóng Hình Hồng Y Tối Trong Hồ Sơ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** timedoctor.eth
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức ảnh định dạng trung siêu thực của một nhân vật chính trong bóng hình hồ sơ tối nghiêm ngặt trên nền đen.
+
+#### Prompt
+
+```text
+A hyper-realistic, medium format photograph of The Protagonist captured in a strict dark profile silhouette against a pitch-black background.
+```
+
+### No. 1669: Gợi Ý Kịch Bản Phân Cảnh Quảng Cáo Giày Sneaker Hạng Sang
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝐌
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo một trang phân cảnh cao cấp cho chiến dịch thời trang giày dép ở định dạng chân dung 3:4.
+
+#### Prompt
+
+```text
+Luxury Sneaker Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Fashion footwear campaign
+• Client presentation
+• 8 cinematic storyboard scenes
+HEADER:
+• Modern luxury typography
+• Sports
+```
+
+### No. 1670: Chân Dung Phòng Thu Cận Cảnh Cao Cấp với Tham Chiếu Khuôn Mặt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Anissa
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một chân dung phòng thu cận cảnh chân thực bằng cách sử dụng hình ảnh tham chiếu khuôn mặt cụ thể.
+
+#### Prompt
+
+```text
+Create image: use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and natural asymmetry. Create a premium close-up studio
+```
+
+### No. 1671: Chân dung một phụ nữ trẻ với đôi mắt màu nâu lục
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chân dung nhân vật chi tiết mô tả ngoại hình của một phụ nữ trẻ, bao gồm tông màu da, kiểu tóc và màu mắt.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young woman in her mid-20s with fair-to-light olive skin, shoulder-length dark brown hair styled in a loose updo with soft strands framing her face, striking light hazel-green eyes with subtle makeup"
+}
+```
+
+### No. 1672: Bảo Toàn Nhận Diện Người Phụ Nữ Mặc Corset Ren Trắng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glena jenner
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo video hoặc hình ảnh về một người phụ nữ có các đặc điểm khuôn mặt cụ thể và một chiếc corset ren trắng thanh lịch.
+
+#### Prompt
+
+```text
+Subject: A woman with the face, hair color, eye color, facial features, proportions, and overall identity matching the reference image. Preserve identity consistency and recognizable appearance.
+
+Outfit: Elegant white lace corset featuring intricate
+```
+
+### No. 1673: Người Trượt Tuyết Trên Núi Tuyết
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** NAYAK
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh quay theo dõi năng động ghi lại một người trượt tuyết đang xuống một ngọn núi phủ đầy tuyết đẹp dưới bầu trời trong xanh.
+
+#### Prompt
+
+```text
+An extreme long shot, cinematic tracking shot of a person skiing down a vast, pristine snowy mountain with a clear blue sky. The skier is carving through fresh powder, with snow dynamically kicking up. Ultra-realistic, high detail, exhilarating motion.
+```
+
+### No. 1674: Ánh Sáng Quán Cà Phê và Thay Đổi Phông Nền
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Pascual ⚡
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để điều chỉnh ánh sáng thành hiệu ứng nắng chiều và thay đổi phông nền thành một khu vườn thực vật.
+
+#### Prompt
+
+```text
+fix the lighting, make it look like afternoon sun, swap the background to a botanical garden.
+```
+
+### No. 1675: Chân Dung Thời Trang Cao Cấp với Tóc Màu Tím
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Wareen AI 💟
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một bức chân dung biên tập thời trang cao cấp của một phụ nữ trẻ với mái tóc tím rực rỡ và bộ jumpsuit đen.
+
+#### Prompt
+
+```text
+A high-fashion editorial portrait of a young woman with vibrant purple short hair in a chic bob cut with bangs, light freckles across her nose, wearing dark stylish sunglasses. She is wearing a sleek, sleeveless black tailored jumpsuit.
+```
+
+### No. 1676: Chân dung studio chân thực của một người đàn ông đeo kính
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aatif J
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung studio chi tiết của một người đàn ông trẻ với tóc xoăn, râu và đeo kính.
+
+#### Prompt
+
+```text
+A realistic, high-detail studio portrait of a handsome young man with wavy brown hair, a neat short beard, and clear transparent round glasses. He is wearing a dark grey jacket over a muted brown t-shirt, looking off to the side
+```
+
+### No. 1677: Chân dung studio đen trắng của một người đàn ông
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aatif J
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một bức chân dung đen trắng bảo toàn danh tính và các chi tiết của đối tượng.
+
+#### Prompt
+
+```text
+Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle
+```
+
+### No. 1678: Chân dung Than Chì của Cô Bé Cười
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Minahil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một bức vẽ than chì chi tiết về một cô gái trẻ với mái tóc xoăn và áo len dệt kim.
+
+#### Prompt
+
+```text
+A detailed charcoal portrait drawing of a young, smiling girl with long, wavy dark hair adorned with a ribbon headband. She is wearing a textured cable-knit sweater with a rounded Peter Pan collar.
+```
+
+### No. 1679: Gợi ý Hiệu Chỉnh Tương Đồng Sophie Thatcher
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** KeorUnreal
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý có cấu trúc để tạo nội dung với mức độ tương đồng được hiệu chỉnh theo Sophie Thatcher.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "likeness_calibration": "Sophie Thatcher"
+    }
+  }
+}
+```
+
+### No. 1680: Tạo một bức tranh theo phong cách Audubon
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Stu Weiss🇮🇱🇺🇸
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một hình ảnh theo phong cách tranh vẽ của Audubon.
+
+#### Prompt
+
+```text
+Generate as a Audubon painting
+```
+
+### No. 1681: Cảnh Quay Video Sản Phẩm với Sương Đỏ và Quét Macro
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** sowny
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý mô tả hai cảnh quay cụ thể cho video sản phẩm, bao gồm cảnh rộng có sương mù đỏ và cảnh quét macro.
+
+#### Prompt
+
+```text
+Shot 1: wide, screen off, red mist on a reflective floor.
+Shot 2: macro pan along the
+```
+
+### No. 1682: Columbina Genshin Impact Cận Cảnh Đơn Sắc U Ám
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Olivia Bernardo
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo ra một bức chân dung cận cảnh đơn sắc, u ám của Columbina từ Genshin Impact.
+
+#### Prompt
+
+```text
+columbina_(genshin_impact). A moody, monochrome close-up
+```
+
+### No. 1683: Minh Họa Kỳ Lạ Phong Cách Hồi Cổ Thật Tuyệt Vời
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heather Green
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một bức minh họa hồi cổ sống động với dòng chữ ảo giác trên nền màu xanh lá cây chanh.
+
+#### Prompt
+
+```text
+A vibrant, retro-style illustration features bold, bubbly lettering against a bright lime-green background. The text reads "YOUR WEIRDNESS IS WONDERFUL" in a playful, psychedelic font. Surrounding the text are colorful
+```
+
+### No. 1684: Áp Phích Quảng Cáo Sang Trọng với Trang Phục Màu Cam
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Aiza
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một áp phích 3D siêu thực của một người phụ nữ trong bộ trang phục thiết kế màu cam sáng và phụ kiện vàng.
+
+#### Prompt
+
+```text
+A dynamic luxury commercial advertising poster featuring a hyper-realistic 3D render of an energetic young woman, with the uploaded female face as reference, wearing a premium bright orange designer outfit, luxury accessories, and stylish gold-tinted
+```
+
+### No. 1685: Cảnh Cận Cảnh Macro của Đôi Tay Thời Trang với Kem
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Maddox
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một cảnh thời trang cận cảnh, tối đa hóa chi tiết, có găng tay lông màu đỏ tươi và áo khoác xanh lá cầm kem.
+
+#### Prompt
+
+```text
+Close-up macro shot of furry gloved hands in magenta pink fur with gold pointed nail tips, wearing an oversized green fleece coat, holding [ice cream from uploaded photo] up close to the camera, playful maximalist fashion
+```
+
+### No. 1686: Người đàn ông phong cách trên mái nhà vào ban đêm
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Muhammad Jamil
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một cảnh quay điện ảnh góc thấp của một người đàn ông mặc vest dựa vào lan can mái nhà vào ban đêm.
+
+#### Prompt
+
+```text
+A cinematic low-angle medium shot captures a stylish man with uploaded face as reference leaning casually back against a concrete rooftop ledge at night, wearing a sharp black suit, unbuttoned white dress shirt, loosened black
+```
+
+### No. 1687: Cảnh Nhân Vật Giả Tưởng Đen Tối Châu Á Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ciara | Yuri Cinematic
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý cho một video 10 giây có sự xuất hiện của một nữ hoàng ác quỷ và một tiên nữ trong bối cảnh giả tưởng đen tối.
+
+#### Prompt
+
+```text
+A 10-second cinematic Asian dark fantasy scene featuring two distinct original fictional characters: Character A (Female Demon Empress on the LEFT, crimson aura) and Character B (Female Fairy on the RIGHT, blue aura). VISUAL & CAMERA TIMELINE: [0-2s] Starts with a dramatic
+```
+
+### No. 1688: Nữ thần thần tượng Hàn Quốc Ino Yamanaka
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** David
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý để tạo hình ảnh nhân vật Ino Yamanaka với phong cách thẩm mỹ nữ thần thần tượng Hàn Quốc.
+
+#### Prompt
+
+```text
+Korean idol goddess vibe of character Ino Yamanaka.
+```
+
+### No. 1689: Chân dung một phụ nữ trẻ Ấn Độ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Glowecho
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một gợi ý chi tiết để tạo ra chân dung một phụ nữ trẻ Ấn Độ với các đặc điểm khuôn mặt và tóc cụ thể.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with warm medium skin tone, long voluminous dark wavy hair cascading over one shoulder, expressive dark brown eyes with subtle eyeliner and mascara, full lips with soft"
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

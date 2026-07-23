@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1689%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1664 |
+| 総プロンプト数 | 1689 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 465 |
-| 最終更新 | 2026/07/22 |
+| プレビュー動画数 | 470 |
+| 最終更新 | 2026/07/23 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1562)
+### Twitter Community (1587)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -38154,6 +38154,527 @@ Use the exact same face from the reference image and generate a hyper-realistic 
 
 ```text
 Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
+```
+
+### No. 1665: 未来的なSFアリーナの女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sharon Riley
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+かすんだ未来的なアリーナで勝利のポーズを取るブロンドの女性を捉えた、ドラマチックなワイドショットのプロンプトです。
+
+#### プロンプト
+
+```text
+A dramatic wide shot of a beautiful Western woman with long wavy blonde hair in a ponytail, fair skin, athletic and toned physique, standing triumphantly in the center of a massive futuristic sci-fi arena filled with haze and god rays. She wears a fitted
+```
+
+### No. 1666: アップロードした顔画像を主要なアイデンティティ参照として使用
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Professor
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+AIビデオモデルに対し、アップロードした参照画像から得られる正確な顔のアイデンティティを優先し維持するよう指示するプロンプトです。
+
+#### プロンプト
+
+```text
+Use my uploaded face image as the primary facial identity reference with the highest identity weight. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape
+```
+
+### No. 1667: 自信に満ちた若い男性のポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Picts by AI
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+短い黒髪で自信を持って立つ若い男性の肖像画を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+A young male stands confidently in the center of the frame, facing the camera with a straight posture, centered weight distribution, and level, relaxed shoulders. He has short dark hair measuring two to three inches
+```
+
+### No. 1668: 深紅の君主 ダークプロフィールシルエット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+黒い背景を背に、厳格なダークプロフィールシルエットで立つ主人公を捉えた、ハイパーリアルな中判フォーマットの写真です。
+
+#### プロンプト
+
+```text
+A hyper-realistic, medium format photograph of The Protagonist captured in a strict dark profile silhouette against a pitch-black background.
+```
+
+### No. 1669: ラグジュアリスニーカーCM用ストーリーボードプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝐌
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+3:4縦長フォーマットで、ファッションフットウェアキャンペーンのためのプレミアムな1ページストーリーボードを生成するプロンプトです。
+
+#### プロンプト
+
+```text
+Luxury Sneaker Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Fashion footwear campaign
+• Client presentation
+• 8 cinematic storyboard scenes
+HEADER:
+• Modern luxury typography
+• Sports
+```
+
+### No. 1670: 顔参照画像を使用したプレミアムクローズアップスタジオポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Anissa
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔参照画像を使用して、リアルなクローズアップスタジオポートレートを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create image: use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and natural asymmetry. Create a premium close-up studio
+```
+
+### No. 1671: ヘーゼルグリーンの瞳を持つ若い女性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+肌の色、髪型、瞳の色を含む、若い女性の外見を詳細に描写したキャラクター肖像画のプロンプトです。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A beautiful young woman in her mid-20s with fair-to-light olive skin, shoulder-length dark brown hair styled in a loose updo with soft strands framing her face, striking light hazel-green eyes with subtle makeup"
+}
+```
+
+### No. 1672: 白いレースコルセットの女性のアイデンティティ維持
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glena jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔の特徴とエレガントな白いレースコルセットを身に着けた女性の動画または画像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Subject: A woman with the face, hair color, eye color, facial features, proportions, and overall identity matching the reference image. Preserve identity consistency and recognizable appearance.
+
+Outfit: Elegant white lace corset featuring intricate
+```
+
+### No. 1673: 雪山のスキーヤー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** NAYAK
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+澄み切った空の下、美しい雪山を滑り降りるスキーヤーを捉えたダイナミックなトラッキングショットです。
+
+#### プロンプト
+
+```text
+An extreme long shot, cinematic tracking shot of a person skiing down a vast, pristine snowy mountain with a clear blue sky. The skier is carving through fresh powder, with snow dynamically kicking up. Ultra-realistic, high detail, exhilarating motion.
+```
+
+### No. 1674: カフェの照明と背景の変更
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Pascual ⚡
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+照明を午後の日差し効果に調整し、背景を植物園に変更するためのプロンプトです。
+
+#### プロンプト
+
+```text
+fix the lighting, make it look like afternoon sun, swap the background to a botanical garden.
+```
+
+### No. 1675: 紫の髪のハイファッションポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Wareen AI 💟
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+鮮やかな紫の髪と黒いジャンプスーツを身に着けた若い女性の、ハイファッション・エディトリアル風ポートレートのためのプロンプト。
+
+#### プロンプト
+
+```text
+A high-fashion editorial portrait of a young woman with vibrant purple short hair in a chic bob cut with bangs, light freckles across her nose, wearing dark stylish sunglasses. She is wearing a sleek, sleeveless black tailored jumpsuit.
+```
+
+### No. 1676: 眼鏡をかけた男性のリアルなスタジオポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aatif J
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ウェーブのかかった髪、あごひげ、眼鏡を特徴とする若い男性の、詳細なスタジオポートレートを生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+A realistic, high-detail studio portrait of a handsome young man with wavy brown hair, a neat short beard, and clear transparent round glasses. He is wearing a dark grey jacket over a muted brown t-shirt, looking off to the side
+```
+
+### No. 1677: 男性の白黒スタジオポートレート
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aatif J
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+被写体の個性と細部を保った、白黒ポートレートのためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle
+```
+
+### No. 1678: 笑顔の少女の木炭肖像画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Minahil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ウェーブのかかった髪とケーブルニットのセーターを着た少女の、詳細な木炭画。
+
+#### プロンプト
+
+```text
+A detailed charcoal portrait drawing of a young, smiling girl with long, wavy dark hair adorned with a ribbon headband. She is wearing a textured cable-knit sweater with a rounded Peter Pan collar.
+```
+
+### No. 1679: ソフィー・サッチャー似のキャリブレーション・プロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ソフィー・サッチャーに似た容姿に調整されたコンテンツを生成するための構造化されたプロンプト。
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "identity": {
+      "likeness_calibration": "Sophie Thatcher"
+    }
+  }
+}
+```
+
+### No. 1680: オーデュボン風の絵画を生成
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Stu Weiss🇮🇱🇺🇸
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+オーデュボンの絵画のスタイルで画像を作成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Generate as a Audubon painting
+```
+
+### No. 1681: 赤い霧とマクロパンを用いたプロダクトビデオショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** sowny
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+赤い霧が立ち込めるワイドショットとマクロパンを含む、2つの特定のショットで構成されるプロダクトビデオのためのプロンプト。
+
+#### プロンプト
+
+```text
+Shot 1: wide, screen off, red mist on a reflective floor.
+Shot 2: macro pan along the
+```
+
+### No. 1682: 『原神』コロンビーナのムーディーなモノクローム・クローズアップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Olivia Bernardo
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+『原神』のキャラクター「コロンビーナ」の、ムーディーなモノクロームのクローズアップ肖像画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+columbina_(genshin_impact). A moody, monochrome close-up
+```
+
+### No. 1683: レトロで奇妙なものは素晴らしいイラスト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ライムグリーンの背景にサイケデリックなテキストが描かれた、鮮やかなレトロ調イラストのためのプロンプト。
+
+#### プロンプト
+
+```text
+A vibrant, retro-style illustration features bold, bubbly lettering against a bright lime-green background. The text reads "YOUR WEIRDNESS IS WONDERFUL" in a playful, psychedelic font. Surrounding the text are colorful
+```
+
+### No. 1684: オレンジの衣装をまとったラグジュアリーな商業ポスター
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Aiza
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+鮮やかなオレンジ色のデザイナー衣装とゴールドのアクセサリーを身に着けた女性の、ハイパーリアルな3Dポスターのためのプロンプト。
+
+#### プロンプト
+
+```text
+A dynamic luxury commercial advertising poster featuring a hyper-realistic 3D render of an energetic young woman, with the uploaded female face as reference, wearing a premium bright orange designer outfit, luxury accessories, and stylish gold-tinted
+```
+
+### No. 1685: ファッショナブルな手とアイスクリームのクローズアップマクロショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+マゼンタ色のファーグローブとグリーンのコートを着た手がアイスクリームを持つ、マキシマリストなファッションシーンのクローズアップ画像のためのプロンプト。
+
+#### プロンプト
+
+```text
+Close-up macro shot of furry gloved hands in magenta pink fur with gold pointed nail tips, wearing an oversized green fleece coat, holding [ice cream from uploaded photo] up close to the camera, playful maximalist fashion
+```
+
+### No. 1686: 夜の屋上に立つスタイリッシュな男性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Muhammad Jamil
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+夜の屋上の手すりにもたれかかるスーツ姿の男性を、映画的なローアングルショットで捉えた画像。
+
+#### プロンプト
+
+```text
+A cinematic low-angle medium shot captures a stylish man with uploaded face as reference leaning casually back against a concrete rooftop ledge at night, wearing a sharp black suit, unbuttoned white dress shirt, loosened black
+```
+
+### No. 1687: 映画的なアジアン・ダークファンタジーキャラクターシーン
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ciara | Yuri Cinematic
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ダークファンタジー設定で、悪魔の女帝と妖精をフィーチャーした10秒間の動画のためのプロンプト。
+
+#### プロンプト
+
+```text
+A 10-second cinematic Asian dark fantasy scene featuring two distinct original fictional characters: Character A (Female Demon Empress on the LEFT, crimson aura) and Character B (Female Fairy on the RIGHT, blue aura). VISUAL & CAMERA TIMELINE: [0-2s] Starts with a dramatic
+```
+
+### No. 1688: 韓国アイドルの女神 山中いの
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** David
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+韓国アイドルの女神のような美学を持つキャラクター「山中いの」の画像を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Korean idol goddess vibe of character Ino Yamanaka.
+```
+
+### No. 1689: 若いインド人女性の肖像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+特定の顔立ちと髪の特徴を持つ若いインド人女性の肖像画を生成するための詳細なプロンプト。
+
+#### プロンプト
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with warm medium skin tone, long voluminous dark wavy hair cascading over one shoulder, expressive dark brown eyes with subtle eyeliner and mascara, full lips with soft"
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

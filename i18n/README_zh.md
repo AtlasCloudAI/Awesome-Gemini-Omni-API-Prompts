@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1689%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1664 |
+| 提示词总数 | 1689 |
 | 分类数 | 16 |
-| 预览视频数 | 465 |
-| 最后更新 | 2026/07/22 |
+| 预览视频数 | 470 |
+| 最后更新 | 2026/07/23 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1562)
+### Twitter Community (1587)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -38194,6 +38194,527 @@ Use the exact same face from the reference image and generate a hyper-realistic 
 
 ```text
 Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
+```
+
+### No. 1665: 未来科幻竞技场中的女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成金发女子在朦胧的未来竞技场中胜利站立的戏剧性广角镜头提示。
+
+#### 提示词
+
+```text
+A dramatic wide shot of a beautiful Western woman with long wavy blonde hair in a ponytail, fair skin, athletic and toned physique, standing triumphantly in the center of a massive futuristic sci-fi arena filled with haze and god rays. She wears a fitted
+```
+
+### No. 1666: 使用上传的面部图像作为主要身份参考
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Professor
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个指示AI视频模型优先保留并精确复现上传参考图像中面部身份的提示。
+
+#### 提示词
+
+```text
+Use my uploaded face image as the primary facial identity reference with the highest identity weight. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape
+```
+
+### No. 1667: 自信的年轻男性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Picts by AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个描绘一位深色短发年轻男子自信站立的肖像提示。
+
+#### 提示词
+
+```text
+A young male stands confidently in the center of the frame, facing the camera with a straight posture, centered weight distribution, and level, relaxed shoulders. He has short dark hair measuring two to three inches
+```
+
+### No. 1668: 深红君主暗色侧影轮廓
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一张超写实的中画幅照片，描绘了主角在黑色背景下的严格暗色侧影轮廓。
+
+#### 提示词
+
+```text
+A hyper-realistic, medium format photograph of The Protagonist captured in a strict dark profile silhouette against a pitch-black background.
+```
+
+### No. 1669: 奢华运动鞋广告故事板提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝐌
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成时尚鞋履广告单页高级故事板的提示，采用3:4竖版格式。
+
+#### 提示词
+
+```text
+Luxury Sneaker Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Fashion footwear campaign
+• Client presentation
+• 8 cinematic storyboard scenes
+HEADER:
+• Modern luxury typography
+• Sports
+```
+
+### No. 1670: 使用面部参考的高级特写影棚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Anissa
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个使用特定面部参考图像生成逼真特写影棚肖像的提示。
+
+#### 提示词
+
+```text
+Create image: use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and natural asymmetry. Create a premium close-up studio
+```
+
+### No. 1671: 拥有淡褐色眼睛的年轻女性肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个详细的角色肖像提示，描述了一位年轻女性的外貌，包括肤色、发型和眼睛颜色。
+
+#### 提示词
+
+```text
+{
+  "subject": "A beautiful young woman in her mid-20s with fair-to-light olive skin, shoulder-length dark brown hair styled in a loose updo with soft strands framing her face, striking light hazel-green eyes with subtle makeup"
+}
+```
+
+### No. 1672: 身着白色蕾丝束身衣的女性身份保持
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glena jenner
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有特定面部特征、身着优雅白色蕾丝束身衣的女性视频或图像的提示。
+
+#### 提示词
+
+```text
+Subject: A woman with the face, hair color, eye color, facial features, proportions, and overall identity matching the reference image. Preserve identity consistency and recognizable appearance.
+
+Outfit: Elegant white lace corset featuring intricate
+```
+
+### No. 1673: 雪山上的滑雪者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** NAYAK
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个动态跟拍镜头，捕捉滑雪者在晴朗天空下从美丽的雪山滑降的场景。
+
+#### 提示词
+
+```text
+An extreme long shot, cinematic tracking shot of a person skiing down a vast, pristine snowy mountain with a clear blue sky. The skier is carving through fresh powder, with snow dynamically kicking up. Ultra-realistic, high detail, exhilarating motion.
+```
+
+### No. 1674: 咖啡店灯光与背景替换
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Pascual ⚡
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个调整灯光为午后阳光效果，并将背景更换为植物园的提示。
+
+#### 提示词
+
+```text
+fix the lighting, make it look like afternoon sun, swap the background to a botanical garden.
+```
+
+### No. 1675: 紫色头发的高时尚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Wareen AI 💟
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成高时尚编辑肖像的提示，描绘一位有着鲜艳紫色头发、身穿黑色连体裤的年轻女性。
+
+#### 提示词
+
+```text
+A high-fashion editorial portrait of a young woman with vibrant purple short hair in a chic bob cut with bangs, light freckles across her nose, wearing dark stylish sunglasses. She is wearing a sleek, sleeveless black tailored jumpsuit.
+```
+
+### No. 1676: 戴眼镜男士的写实影棚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成年轻男士详细影棚肖像的提示，他有着波浪发、胡须并戴着眼镜。
+
+#### 提示词
+
+```text
+A realistic, high-detail studio portrait of a handsome young man with wavy brown hair, a neat short beard, and clear transparent round glasses. He is wearing a dark grey jacket over a muted brown t-shirt, looking off to the side
+```
+
+### No. 1677: 一位男士的黑白影棚肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成黑白肖像的提示，要求保留人物身份和细节。
+
+#### 提示词
+
+```text
+Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle
+```
+
+### No. 1678: 微笑女孩的炭笔肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Minahil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅年轻女孩的详细炭笔画，她有着波浪发，身穿绞花针织毛衣。
+
+#### 提示词
+
+```text
+A detailed charcoal portrait drawing of a young, smiling girl with long, wavy dark hair adorned with a ribbon headband. She is wearing a textured cable-knit sweater with a rounded Peter Pan collar.
+```
+
+### No. 1679: 索菲·撒切尔肖像校准提示
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成内容的结构化提示，其肖像已校准为索菲·撒切尔。
+
+#### 提示词
+
+```text
+{
+  "subject": {
+    "identity": {
+      "likeness_calibration": "Sophie Thatcher"
+    }
+  }
+}
+```
+
+### No. 1680: 生成一幅奥杜邦风格画作
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Stu Weiss🇮🇱🇺🇸
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于创作奥杜邦绘画风格图像的提示。
+
+#### 提示词
+
+```text
+Generate as a Audubon painting
+```
+
+### No. 1681: 带有红雾和微距平移的产品视频镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sowny
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个描述产品视频两个特定镜头的提示，包括带有红雾的广角镜头和一个微距平移镜头。
+
+#### 提示词
+
+```text
+Shot 1: wide, screen off, red mist on a reflective floor.
+Shot 2: macro pan along the
+```
+
+### No. 1682: 《原神》哥伦比娅忧郁单色特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Olivia Bernardo
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成《原神》角色哥伦比娅忧郁单色特写肖像的提示。
+
+#### 提示词
+
+```text
+columbina_(genshin_impact). A moody, monochrome close-up
+```
+
+### No. 1683: 复古怪诞即美妙插画
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成充满活力的复古插画的提示，背景为石灰绿色，带有迷幻文字。
+
+#### 提示词
+
+```text
+A vibrant, retro-style illustration features bold, bubbly lettering against a bright lime-green background. The text reads "YOUR WEIRDNESS IS WONDERFUL" in a playful, psychedelic font. Surrounding the text are colorful
+```
+
+### No. 1684: 橙色服装的奢华商业海报
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成身穿亮橙色设计师服装、佩戴金色配饰的女性超写实3D海报的提示。
+
+#### 提示词
+
+```text
+A dynamic luxury commercial advertising poster featuring a hyper-realistic 3D render of an energetic young woman, with the uploaded female face as reference, wearing a premium bright orange designer outfit, luxury accessories, and stylish gold-tinted
+```
+
+### No. 1685: 手持冰淇淋的时尚手部微距特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成极繁主义时尚场景的提示，特写品红色毛皮手套和绿色外套手持冰淇淋。
+
+#### 提示词
+
+```text
+Close-up macro shot of furry gloved hands in magenta pink fur with gold pointed nail tips, wearing an oversized green fleece coat, holding [ice cream from uploaded photo] up close to the camera, playful maximalist fashion
+```
+
+### No. 1686: 夜晚屋顶上的时尚男士
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Muhammad Jamil
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个电影感的低角度镜头，描绘夜晚一位身着西装的男士倚靠在屋顶边缘。
+
+#### 提示词
+
+```text
+A cinematic low-angle medium shot captures a stylish man with uploaded face as reference leaning casually back against a concrete rooftop ledge at night, wearing a sharp black suit, unbuttoned white dress shirt, loosened black
+```
+
+### No. 1687: 电影感亚洲暗黑奇幻角色场景
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ciara | Yuri Cinematic
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成包含恶魔女皇和仙子的10秒暗黑奇幻场景视频的提示。
+
+#### 提示词
+
+```text
+A 10-second cinematic Asian dark fantasy scene featuring two distinct original fictional characters: Character A (Female Demon Empress on the LEFT, crimson aura) and Character B (Female Fairy on the RIGHT, blue aura). VISUAL & CAMERA TIMELINE: [0-2s] Starts with a dramatic
+```
+
+### No. 1688: 韩国偶像女神山中井野
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** David
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有韩国偶像女神美学的山中井野角色图像的提示。
+
+#### 提示词
+
+```text
+Korean idol goddess vibe of character Ino Yamanaka.
+```
+
+### No. 1689: 一位年轻印度女性的肖像
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一个用于生成具有特定面部和头发特征的年轻印度女性肖像的详细提示。
+
+#### 提示词
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with warm medium skin tone, long voluminous dark wavy hair cascading over one shoulder, expressive dark brown eyes with subtle eyeliner and mascara, full lips with soft"
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

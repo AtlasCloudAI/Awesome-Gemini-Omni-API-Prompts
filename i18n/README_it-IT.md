@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1689%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una raccolta curata di esempi di prompt Gemini Omni con anteprime video OSS integrate.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Conteggio |
 | --- | ---: |
-| Prompt Totali | 1664 |
+| Prompt Totali | 1689 |
 | Categorie | 8 |
-| Video di Anteprima | 465 |
-| Ultimo Aggiornamento | 22/07/2026 |
+| Video di Anteprima | 470 |
+| Ultimo Aggiornamento | 23/07/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1562)
+### Twitter Community (1587)
 
 ### No. 103: Ritratto Romantico Naturale - Fotografia Editoriale
 
@@ -38154,6 +38154,527 @@ Una richiesta che istruisce a utilizzare un'immagine caricata per preservare l'i
 
 ```text
 Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
+```
+
+### No. 1665: Donna in Arena Futuristica Sci-Fi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Sharon Riley
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per un'ampia inquadratura drammatica di una donna bionda in piedi, trionfante, in un'arena futuristicamente nebbiosa.
+
+#### Prompt
+
+```text
+A dramatic wide shot of a beautiful Western woman with long wavy blonde hair in a ponytail, fair skin, athletic and toned physique, standing triumphantly in the center of a massive futuristic sci-fi arena filled with haze and god rays. She wears a fitted
+```
+
+### No. 1666: Utilizza l'immagine del volto caricata come riferimento identitario primario
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Professor
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta che istruisce un modello di video AI a dare priorità e preservare l'esatta identità facciale da un'immagine di riferimento caricata.
+
+#### Prompt
+
+```text
+Use my uploaded face image as the primary facial identity reference with the highest identity weight. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape
+```
+
+### No. 1667: Ritratto di giovane uomo sicuro di sé
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Picts by AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per un ritratto di un giovane uomo in piedi con sicurezza, con capelli corti e scuri.
+
+#### Prompt
+
+```text
+A young male stands confidently in the center of the frame, facing the camera with a straight posture, centered weight distribution, and level, relaxed shoulders. He has short dark hair measuring two to three inches
+```
+
+### No. 1668: Sovrano Cremisi, silhouette di profilo scuro
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** timedoctor.eth
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una fotografia iperrealistica in formato medio di un protagonista in una rigorosa silhouette di profilo scuro contro uno sfondo nero.
+
+#### Prompt
+
+```text
+A hyper-realistic, medium format photograph of The Protagonist captured in a strict dark profile silhouette against a pitch-black background.
+```
+
+### No. 1669: Richiesta per Storyboard Commerciale di Sneaker di Lusso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 𝐌
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare uno storyboard premium di una singola pagina per una campagna di calzature di moda in formato verticale 3:4.
+
+#### Prompt
+
+```text
+Luxury Sneaker Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Fashion footwear campaign
+• Client presentation
+• 8 cinematic storyboard scenes
+HEADER:
+• Modern luxury typography
+• Sports
+```
+
+### No. 1670: Ritratto Studio Primo Piano Premium con Riferimento Facciale
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Anissa
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare un ritratto studio realistico in primo piano utilizzando un'immagine di riferimento facciale specifica.
+
+#### Prompt
+
+```text
+Create image: use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and natural asymmetry. Create a premium close-up studio
+```
+
+### No. 1671: Ritratto di una giovane donna con occhi nocciola-verdi
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta dettagliata per un ritratto di personaggio che descrive l'aspetto di una giovane donna, includendo tono della pelle, acconciatura e colore degli occhi.
+
+#### Prompt
+
+```text
+{
+  "subject": "A beautiful young woman in her mid-20s with fair-to-light olive skin, shoulder-length dark brown hair styled in a loose updo with soft strands framing her face, striking light hazel-green eyes with subtle makeup"
+}
+```
+
+### No. 1672: Preservazione dell'Identità di una Donna in Corsetto Bianco di Pizzo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glena jenner
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per generare un video o un'immagine di una donna con tratti facciali specifici e un elegante corsetto bianco di pizzo.
+
+#### Prompt
+
+```text
+Subject: A woman with the face, hair color, eye color, facial features, proportions, and overall identity matching the reference image. Preserve identity consistency and recognizable appearance.
+
+Outfit: Elegant white lace corset featuring intricate
+```
+
+### No. 1673: Sciatore su Montagna Innevata
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** NAYAK
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un'inquadratura dinamica in movimento cattura uno sciatore che discende una bellissima montagna innevata sotto un cielo sereno.
+
+#### Prompt
+
+```text
+An extreme long shot, cinematic tracking shot of a person skiing down a vast, pristine snowy mountain with a clear blue sky. The skier is carving through fresh powder, with snow dynamically kicking up. Ultra-realistic, high detail, exhilarating motion.
+```
+
+### No. 1674: Illuminazione e Sfondo per Caffetteria
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Pascual ⚡
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per regolare l'illuminazione con un effetto di sole pomeridiano e cambiare lo sfondo in un giardino botanico.
+
+#### Prompt
+
+```text
+fix the lighting, make it look like afternoon sun, swap the background to a botanical garden.
+```
+
+### No. 1675: Ritratto di Alta Moda con Capelli Viola
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Wareen AI 💟
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per un ritratto editoriale di alta moda di una giovane donna con capelli viola vivaci e una tuta nera.
+
+#### Prompt
+
+```text
+A high-fashion editorial portrait of a young woman with vibrant purple short hair in a chic bob cut with bangs, light freckles across her nose, wearing dark stylish sunglasses. She is wearing a sleek, sleeveless black tailored jumpsuit.
+```
+
+### No. 1676: Ritratto realistico in studio di un uomo con occhiali
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aatif J
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per generare un ritratto dettagliato in studio di un giovane uomo con capelli mossi, barba e occhiali.
+
+#### Prompt
+
+```text
+A realistic, high-detail studio portrait of a handsome young man with wavy brown hair, a neat short beard, and clear transparent round glasses. He is wearing a dark grey jacket over a muted brown t-shirt, looking off to the side
+```
+
+### No. 1677: Ritratto in bianco e nero in studio di un uomo
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aatif J
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per un ritratto in bianco e nero che preservi l'identità e i dettagli del soggetto.
+
+#### Prompt
+
+```text
+Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle
+```
+
+### No. 1678: Ritratto a Carboncino di Ragazza Sorridente
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Minahil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un disegno dettagliato a carboncino di una giovane ragazza con capelli mossi e un maglione a coste.
+
+#### Prompt
+
+```text
+A detailed charcoal portrait drawing of a young, smiling girl with long, wavy dark hair adorned with a ribbon headband. She is wearing a textured cable-knit sweater with a rounded Peter Pan collar.
+```
+
+### No. 1679: Prompt di Calibrazione Somiglianza Sophie Thatcher
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** KeorUnreal
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione strutturata per generare contenuti con una somiglianza calibrata su Sophie Thatcher.
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "identity": {
+      "likeness_calibration": "Sophie Thatcher"
+    }
+  }
+}
+```
+
+### No. 1680: Genera un dipinto in stile Audubon
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Stu Weiss🇮🇱🇺🇸
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per creare un'immagine nello stile di un dipinto di Audubon.
+
+#### Prompt
+
+```text
+Generate as a Audubon painting
+```
+
+### No. 1681: Riprese Video di Prodotto con Foschia Rossa e Macro Pan
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** sowny
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione di due riprese specifiche per un video prodotto, inclusa un'inquadratura ampia con foschia rossa e una macro panoramica.
+
+#### Prompt
+
+```text
+Shot 1: wide, screen off, red mist on a reflective floor.
+Shot 2: macro pan along the
+```
+
+### No. 1682: Primissimo Piano Malinconico in Monocromo di Columbina (Genshin Impact)
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Olivia Bernardo
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per generare un ritratto malinconico in primo piano e monocromo di Columbina da Genshin Impact.
+
+#### Prompt
+
+```text
+columbina_(genshin_impact). A moody, monochrome close-up
+```
+
+### No. 1683: Illustrazione Retro 'La Stranezza è Meravigliosa'
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Heather Green
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per un'illustrazione retro vivace con testo psichedelico su sfondo verde lime.
+
+#### Prompt
+
+```text
+A vibrant, retro-style illustration features bold, bubbly lettering against a bright lime-green background. The text reads "YOUR WEIRDNESS IS WONDERFUL" in a playful, psychedelic font. Surrounding the text are colorful
+```
+
+### No. 1684: Poster Commerciale di Lusso con Abito Arancione
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Aiza
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per un poster iperrealistico in 3D di una donna in un vivace abito arancione di design e accessori dorati.
+
+#### Prompt
+
+```text
+A dynamic luxury commercial advertising poster featuring a hyper-realistic 3D render of an energetic young woman, with the uploaded female face as reference, wearing a premium bright orange designer outfit, luxury accessories, and stylish gold-tinted
+```
+
+### No. 1685: Primissimo Piano Macro di Mani Alla Moda con Gelato
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Maddox
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per una scena di moda maximalista in primo piano, con guanti di pelliccia magenta e un cappotto verde che reggono un gelato.
+
+#### Prompt
+
+```text
+Close-up macro shot of furry gloved hands in magenta pink fur with gold pointed nail tips, wearing an oversized green fleece coat, holding [ice cream from uploaded photo] up close to the camera, playful maximalist fashion
+```
+
+### No. 1686: Uomo Elegante sul Tetto di Notte
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Muhammad Jamil
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un'inquadratura cinematografica dal basso di un uomo in abito appoggiato al parapetto di un tetto di notte.
+
+#### Prompt
+
+```text
+A cinematic low-angle medium shot captures a stylish man with uploaded face as reference leaning casually back against a concrete rooftop ledge at night, wearing a sharp black suit, unbuttoned white dress shirt, loosened black
+```
+
+### No. 1687: Scena Cinematografica di Personaggio Dark Fantasy Asiatico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Ciara | Yuri Cinematic
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per un video di 10 secondi con un'imperatrice demone e una fata in un'ambientazione dark fantasy.
+
+#### Prompt
+
+```text
+A 10-second cinematic Asian dark fantasy scene featuring two distinct original fictional characters: Character A (Female Demon Empress on the LEFT, crimson aura) and Character B (Female Fairy on the RIGHT, blue aura). VISUAL & CAMERA TIMELINE: [0-2s] Starts with a dramatic
+```
+
+### No. 1688: Dea Idol Coreana Ino Yamanaka
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** David
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione per generare un'immagine del personaggio Ino Yamanaka con un'estetica da dea idol coreana.
+
+#### Prompt
+
+```text
+Korean idol goddess vibe of character Ino Yamanaka.
+```
+
+### No. 1689: Ritratto di una giovane donna indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Glowecho
+- **Lingua:** `it-IT`
+- **Video:** [Vedi]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una descrizione dettagliata per generare un ritratto di una giovane donna indiana con specifici tratti facciali e capelli.
+
+#### Prompt
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with warm medium skin tone, long voluminous dark wavy hair cascading over one shoulder, expressive dark brown eyes with subtle eyeliner and mascara, full lips with soft"
 ```
 
 Questo README e generato automaticamente dai dati in `data/prompts_by_locale`.

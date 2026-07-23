@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1664%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1689%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1664 |
+| พรอมต์ทั้งหมด | 1689 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 465 |
-| อัปเดตล่าสุด | 22/07/2569 |
+| จำนวนวิดีโอตัวอย่าง | 470 |
+| อัปเดตล่าสุด | 23/07/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1562)
+### Twitter Community (1587)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -38154,6 +38154,527 @@ Use the exact same face from the reference image and generate a hyper-realistic 
 
 ```text
 Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions. Create a high-quality
+```
+
+### No. 1665: ผู้หญิงในสนามไซไฟอนาคต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Sharon Riley
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับภาพกว้างอันน่าทึ่งของหญิงสาวผมบลอนด์ยืนอย่างภาคภูมิใจในสนามแห่งอนาคตที่เต็มไปด้วยหมอกควัน
+
+#### พรอมต์
+
+```text
+A dramatic wide shot of a beautiful Western woman with long wavy blonde hair in a ponytail, fair skin, athletic and toned physique, standing triumphantly in the center of a massive futuristic sci-fi arena filled with haze and god rays. She wears a fitted
+```
+
+### No. 1666: ใช้ภาพใบหน้าที่อัปโหลดเป็นอ้างอิงเอกลักษณ์หลัก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Professor
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งที่บอกโมเดลวิดีโอ AI ให้ให้ความสำคัญและรักษาเอกลักษณ์ใบหน้าที่แน่นอนจากภาพอ้างอิงที่อัปโหลด
+
+#### พรอมต์
+
+```text
+Use my uploaded face image as the primary facial identity reference with the highest identity weight. Preserve my exact facial identity with maximum accuracy. My face must remain instantly recognizable, including my face shape
+```
+
+### No. 1667: ภาพเหมือนชายหนุ่มมั่นใจ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Picts by AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับภาพเหมือนชายหนุ่มยืนอย่างมั่นใจด้วยทรงผมสั้นสีเข้ม
+
+#### พรอมต์
+
+```text
+A young male stands confidently in the center of the frame, facing the camera with a straight posture, centered weight distribution, and level, relaxed shoulders. He has short dark hair measuring two to three inches
+```
+
+### No. 1668: เงาดำโปรไฟล์เข้ม Crimson Sovereign
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพถ่ายไฮเปอร์เรียลลิสติกฟอร์มกลางของตัวเอกในเงาดำโปรไฟล์เข้มตัดกับพื้นหลังสีดำ
+
+#### พรอมต์
+
+```text
+A hyper-realistic, medium format photograph of The Protagonist captured in a strict dark profile silhouette against a pitch-black background.
+```
+
+### No. 1669: พรอมต์สตอรี่บอร์ดโฆษณารองเท้าสนีกเกอร์หรู
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐌
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079976076898628068.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างสตอรี่บอร์ดระดับพรีเมียมหนึ่งหน้า สำหรับแคมเปญแฟชั่นรองเท้า ในรูปแบบแนวตั้งอัตราส่วน 3:4
+
+#### พรอมต์
+
+```text
+Luxury Sneaker Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Fashion footwear campaign
+• Client presentation
+• 8 cinematic storyboard scenes
+HEADER:
+• Modern luxury typography
+• Sports
+```
+
+### No. 1670: ภาพเหมือนสตูดิโอระยะใกล้ระดับพรีเมียมพร้อมอ้างอิงใบหน้า
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Anissa
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพเหมือนสตูดิโอระยะใกล้สมจริงโดยใช้ภาพอ้างอิงใบหน้าที่เฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+Create image: use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and natural asymmetry. Create a premium close-up studio
+```
+
+### No. 1671: ภาพเหมือนผู้หญิงสาวที่มีดวงตาสีน้ำตาลอมเขียว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสร้างภาพเหมือนตัวละครโดยละเอียด อธิบายลักษณะภายนอกของผู้หญิงสาว รวมถึงโทนสีผิว ทรงผม และสีตา
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A beautiful young woman in her mid-20s with fair-to-light olive skin, shoulder-length dark brown hair styled in a loose updo with soft strands framing her face, striking light hazel-green eyes with subtle makeup"
+}
+```
+
+### No. 1672: การคงเอกลักษณ์ของผู้หญิงในชุดคอร์เซ็ตลูกไม้สีขาว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glena jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างวิดีโอหรือภาพของผู้หญิงที่มีลักษณะใบหน้าเฉพาะและสวมคอร์เซ็ตลูกไม้สีขาวสุดสง่างาม
+
+#### พรอมต์
+
+```text
+Subject: A woman with the face, hair color, eye color, facial features, proportions, and overall identity matching the reference image. Preserve identity consistency and recognizable appearance.
+
+Outfit: Elegant white lace corset featuring intricate
+```
+
+### No. 1673: นักสกีบนภูเขาหิมะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** NAYAK
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079983940086165986.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพเคลื่อนไหวแบบติดตามจับภาพนักสกีกำลังเลื่อนลงมาจากภูเขาที่ปกคลุมด้วยหิมะสวยงามภายใต้ท้องฟ้าแจ่มใส
+
+#### พรอมต์
+
+```text
+An extreme long shot, cinematic tracking shot of a person skiing down a vast, pristine snowy mountain with a clear blue sky. The skier is carving through fresh powder, with snow dynamically kicking up. Ultra-realistic, high detail, exhilarating motion.
+```
+
+### No. 1674: การเปลี่ยนแสงและพื้นหลังร้านกาแฟ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Pascual ⚡
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2079988096205046218.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำสั่งสำหรับปรับแสงให้เป็นบรรยากาศแสงอาทิตย์ยามบ่ายและเปลี่ยนพื้นหลังเป็นสวนพฤกษศาสตร์
+
+#### พรอมต์
+
+```text
+fix the lighting, make it look like afternoon sun, swap the background to a botanical garden.
+```
+
+### No. 1675: ภาพแฟชั่นระดับสูงของหญิงสาวผมสีม่วง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Wareen AI 💟
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับภาพแฟชั่นระดับสูงสไตล์บรรณาธิการของหญิงสาวผมสีม่วงสดใสสวมจัมป์สูทสีดำ
+
+#### พรอมต์
+
+```text
+A high-fashion editorial portrait of a young woman with vibrant purple short hair in a chic bob cut with bangs, light freckles across her nose, wearing dark stylish sunglasses. She is wearing a sleek, sleeveless black tailored jumpsuit.
+```
+
+### No. 1676: ภาพเหมือนในสตูดิโอสมจริงของชายสวมแว่นตา
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aatif J
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับการสร้างภาพเหมือนในสตูดิโอโดยละเอียดของชายหนุ่มผมหยิกมีเคราและสวมแว่นตา
+
+#### พรอมต์
+
+```text
+A realistic, high-detail studio portrait of a handsome young man with wavy brown hair, a neat short beard, and clear transparent round glasses. He is wearing a dark grey jacket over a muted brown t-shirt, looking off to the side
+```
+
+### No. 1677: ภาพเหมือนขาวดำในสตูดิโอของชายคนหนึ่ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aatif J
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับภาพเหมือนขาวดำที่คงไว้ซึ่งตัวตนและรายละเอียดของบุคคล
+
+#### พรอมต์
+
+```text
+Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle
+```
+
+### No. 1678: ภาพเหมือนถ่านไม้ของเด็กหญิงยิ้มแย้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Minahil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพวาดถ่านไม้โดยละเอียดของเด็กหญิงผมหยิกสวมเสื้อสเวตเตอร์ถักลายสายเคเบิล
+
+#### พรอมต์
+
+```text
+A detailed charcoal portrait drawing of a young, smiling girl with long, wavy dark hair adorned with a ribbon headband. She is wearing a textured cable-knit sweater with a rounded Peter Pan collar.
+```
+
+### No. 1679: คำอธิบายสำหรับปรับเทียบความเหมือนโซฟี แทตเชอร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายที่มีโครงสร้างสำหรับการสร้างเนื้อหาที่ปรับเทียบความเหมือนให้คล้ายกับโซฟี แทตเชอร์
+
+#### พรอมต์
+
+```text
+{
+  "subject": {
+    "identity": {
+      "likeness_calibration": "Sophie Thatcher"
+    }
+  }
+}
+```
+
+### No. 1680: สร้างภาพวาดสไตล์ออดูบง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Stu Weiss🇮🇱🇺🇸
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายเพื่อสร้างภาพในสไตล์ของภาพวาดออดูบง
+
+#### พรอมต์
+
+```text
+Generate as a Audubon painting
+```
+
+### No. 1681: ช็อตวิดีโอผลิตภัณฑ์พร้อมหมอกสีแดงและการแพนภาพมาโคร
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** sowny
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080058616636158032.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายที่ระบุช็อตสองแบบสำหรับวิดีโอผลิตภัณฑ์ รวมถึงช็อตวายด์ที่มีหมอกสีแดงและการแพนภาพมาโคร
+
+#### พรอมต์
+
+```text
+Shot 1: wide, screen off, red mist on a reflective floor.
+Shot 2: macro pan along the
+```
+
+### No. 1682: ภาพคลอสอัพขาวดำอารมณ์หนักของโคลัมบินาจากเกนชินอิมแพคต์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Olivia Bernardo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับการสร้างภาพเหมือนคลอสอัพขาวดำอารมณ์หนักของโคลัมบินาจากเกนชินอิมแพคต์
+
+#### พรอมต์
+
+```text
+columbina_(genshin_impact). A moody, monochrome close-up
+```
+
+### No. 1683: ภาพวาดเรโทรสุดแปลกประหลาดแสนวิเศษ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heather Green
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับภาพวาดเรโทรสีสันสดใสพร้อมตัวอักษรไซเคเดลิกบนพื้นหลังสีเขียวไลม์
+
+#### พรอมต์
+
+```text
+A vibrant, retro-style illustration features bold, bubbly lettering against a bright lime-green background. The text reads "YOUR WEIRDNESS IS WONDERFUL" in a playful, psychedelic font. Surrounding the text are colorful
+```
+
+### No. 1684: โปสเตอร์โฆษณาระดับลักซ์ชูรีพร้อมชุดสวมใส่สีส้ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aiza
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับโปสเตอร์ 3 มิติไฮเปอร์เรียลลิสติกของหญิงสาวในชุดดีไซเนอร์สีส้มสดใสและเครื่องประดับสีทอง
+
+#### พรอมต์
+
+```text
+A dynamic luxury commercial advertising poster featuring a hyper-realistic 3D render of an energetic young woman, with the uploaded female face as reference, wearing a premium bright orange designer outfit, luxury accessories, and stylish gold-tinted
+```
+
+### No. 1685: ภาพมาโครคลอสอัพมือแฟชั่นกำลังถือไอศกรีม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับฉากแฟชั่นแบบแม็กซิมอลลิสต์แบบคลอสอัพ ที่มีถุงมือขนสีม่วงแดงและเสื้อโค้ทสีเขียวกำลังถือไอศกรีม
+
+#### พรอมต์
+
+```text
+Close-up macro shot of furry gloved hands in magenta pink fur with gold pointed nail tips, wearing an oversized green fleece coat, holding [ice cream from uploaded photo] up close to the camera, playful maximalist fashion
+```
+
+### No. 1686: ชายสไตล์ลิ้มบนดาดฟ้ายามค่ำคืน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Muhammad Jamil
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ภาพถ่ายมุมต่ำแบบภาพยนตร์ของชายใส่สูทพิงราวขอบดาดฟ้าในยามค่ำคืน
+
+#### พรอมต์
+
+```text
+A cinematic low-angle medium shot captures a stylish man with uploaded face as reference leaning casually back against a concrete rooftop ledge at night, wearing a sharp black suit, unbuttoned white dress shirt, loosened black
+```
+
+### No. 1687: ฉากตัวละครแฟนตาซีมืดสไตล์เอเชียระดับภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ciara | Yuri Cinematic
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2080127633363456139.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับวิดีโอความยาว 10 วินาทีที่นำเสนอจักรพรรดินีปีศาจและนางฟ้าในบรรยากาศแฟนตาซีมืด
+
+#### พรอมต์
+
+```text
+A 10-second cinematic Asian dark fantasy scene featuring two distinct original fictional characters: Character A (Female Demon Empress on the LEFT, crimson aura) and Character B (Female Fairy on the RIGHT, blue aura). VISUAL & CAMERA TIMELINE: [0-2s] Starts with a dramatic
+```
+
+### No. 1688: ไอดอลเกาหลีเทพธิดาอิโนะ ยามานากะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** David
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายเพื่อสร้างภาพตัวละครอิโนะ ยามานากะในสไตล์เทพธิดาไอดอลเกาหลี
+
+#### พรอมต์
+
+```text
+Korean idol goddess vibe of character Ino Yamanaka.
+```
+
+### No. 1689: ภาพเหมือนหญิงสาวอินเดีย
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+คำอธิบายโดยละเอียดสำหรับการสร้างภาพเหมือนหญิงสาวอินเดียที่มีลักษณะใบหน้าและทรงผมเฉพาะเจาะจง
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A stunning young Indian woman in her mid-20s with warm medium skin tone, long voluminous dark wavy hair cascading over one shoulder, expressive dark brown eyes with subtle eyeliner and mascara, full lips with soft"
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

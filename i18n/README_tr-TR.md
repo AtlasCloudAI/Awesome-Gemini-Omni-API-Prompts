@@ -26,7 +26,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 | Toplam Prompt | 1689 |
 | Kategoriler | 8 |
 | Onizleme Videolari | 470 |
-| Son Guncelleme | 24.07.2026 |
+| Son Guncelleme | 25.07.2026 |
 
 ### 🧩 Supported Models
 

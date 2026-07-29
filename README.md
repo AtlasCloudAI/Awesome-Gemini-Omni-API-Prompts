@@ -26,7 +26,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 | Total Prompts | 1689 |
 | Categories | 8 |
 | Preview Videos | 470 |
-| Last Updated | 07/28/2026 |
+| Last Updated | 07/29/2026 |
 
 ### 🧩 Supported Models
 
@@ -8088,9 +8088,9 @@ According to my nano banana 2 prompt 😂
 - **Source:** `x`
 - **Author:** Saul
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2071674746932998144/pu/vid/avc1/720x1280/3cqCh1X4hz5hZ6Lb.mp4?tag=12)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071674875425521753.mp4)
 
-<video src="https://video.twimg.com/ext_tw_video/2071674746932998144/pu/vid/avc1/720x1280/3cqCh1X4hz5hZ6Lb.mp4?tag=12" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071674875425521753.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8317,9 +8317,9 @@ Noah
 - **Source:** `x`
 - **Author:** Pacho
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071688497501507584/vid/avc1/1080x1920/vsB5l9tU7CwQgJzC.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071688938880897476.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071688497501507584/vid/avc1/1080x1920/vsB5l9tU7CwQgJzC.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071688938880897476.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8340,9 +8340,9 @@ here is the part that did not add up.
 - **Source:** `x`
 - **Author:** ضاري AI
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2071692325173301248/pu/vid/avc1/720x1280/jkYuo_x_SXPqijR_.mp4?tag=12)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071692376704450846.mp4)
 
-<video src="https://video.twimg.com/ext_tw_video/2071692325173301248/pu/vid/avc1/720x1280/jkYuo_x_SXPqijR_.mp4?tag=12" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071692376704450846.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8364,9 +8364,9 @@ here is the part that did not add up.
 - **Source:** `x`
 - **Author:** Voyz
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071692965492269056/vid/avc1/720x1280/WORTSuhEzSx5PtZz.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071693328362443238.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071692965492269056/vid/avc1/720x1280/WORTSuhEzSx5PtZz.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071693328362443238.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8418,9 +8418,9 @@ Web App &amp; Instagram links are in bio — comment under our Instagram posts o
 - **Source:** `x`
 - **Author:** Saylor
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071680713720508416/vid/avc1/720x1280/-nUpAD9kxP-3pDLo.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071701560309227618.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071680713720508416/vid/avc1/720x1280/-nUpAD9kxP-3pDLo.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071701560309227618.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8442,9 +8442,9 @@ Across the top the whole time: This AI makes $100,000 a year. He points at her. 
 - **Source:** `x`
 - **Author:** ضاري AI
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2071714031820533760/pu/vid/avc1/720x1280/F8kyhyoSlpG6T0Gd.mp4?tag=12)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071714071410602070.mp4)
 
-<video src="https://video.twimg.com/ext_tw_video/2071714031820533760/pu/vid/avc1/720x1280/F8kyhyoSlpG6T0Gd.mp4?tag=12" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071714071410602070.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8565,9 +8565,9 @@ Nano Banana Pro via AI Studio, prompt ⬇️
 - **Source:** `x`
 - **Author:** 0xAI42.exe
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071705926164189185/vid/avc1/720x1280/9Z8geEW1zPQN01RO.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071729172892774472.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071705926164189185/vid/avc1/720x1280/9Z8geEW1zPQN01RO.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071729172892774472.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8686,9 +8686,9 @@ Prompt Below 👇
 - **Source:** `x`
 - **Author:** Falentez
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071711501589655552/vid/avc1/576x1024/V-Zgp6_RoeG6dCat.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071745537133416661.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071711501589655552/vid/avc1/576x1024/V-Zgp6_RoeG6dCat.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071745537133416661.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8709,9 +8709,9 @@ Here’s the exact
 - **Source:** `x`
 - **Author:** Ozair AI
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071749977089650688/vid/avc1/448x672/WkELHYNEsLM-L1Ii.mp4?tag=25)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071750128764109235.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071749977089650688/vid/avc1/448x672/WkELHYNEsLM-L1Ii.mp4?tag=25" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071750128764109235.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8790,9 +8790,9 @@ Nano Banana Pro via AI Studio, prompt ↓
 - **Source:** `x`
 - **Author:** ضاري AI
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2071763582879223808/pu/vid/avc1/720x1280/zLBvgpXgy01MRmrk.mp4?tag=12)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071763695852724352.mp4)
 
-<video src="https://video.twimg.com/ext_tw_video/2071763582879223808/pu/vid/avc1/720x1280/zLBvgpXgy01MRmrk.mp4?tag=12" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071763695852724352.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -8919,9 +8919,9 @@ Instead of writing
 - **Source:** `x`
 - **Author:** Brent Lynch
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071776503134867456/vid/avc1/1280x720/Ws8ukDqLNKL620eY.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071778626706833910.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071776503134867456/vid/avc1/1280x720/Ws8ukDqLNKL620eY.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071778626706833910.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -9539,9 +9539,9 @@ Create a
 - **Source:** `x`
 - **Author:** Princess of X
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071822310173011968/vid/avc1/1080x1920/-dIi8qvVT4RlbmHF.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071822401097367624.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071822310173011968/vid/avc1/1080x1920/-dIi8qvVT4RlbmHF.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071822401097367624.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -9726,9 +9726,9 @@ Nano banana pro 🍌 prompt below 👇🏻👇🏻👇🏻
 - **Source:** `x`
 - **Author:** Sharon Riley
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071830981858701312/vid/avc1/1920x1080/Dm2BjMbv5dY4gG3b.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071832528382767324.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071830981858701312/vid/avc1/1920x1080/Dm2BjMbv5dY4gG3b.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071832528382767324.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -10042,9 +10042,9 @@ A moody, cinematic portrait of a beautiful South Asian woman looking directly at
 - **Source:** `x`
 - **Author:** Luca Ai
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071852228160151552/vid/avc1/1280x720/XyDTRzj-5FfLcW8M.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071852353884447069.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071852228160151552/vid/avc1/1280x720/XyDTRzj-5FfLcW8M.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071852353884447069.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -10090,9 +10090,9 @@ My kids wanted a bedtime story — a new one, about a boy and a dragon. So inste
 - **Source:** `x`
 - **Author:** Julian Goldie SEO
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071811657420910592/vid/avc1/1280x720/OdNgie8ZvBfGn4FL.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071858778102800612.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071811657420910592/vid/avc1/1280x720/OdNgie8ZvBfGn4FL.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071858778102800612.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -10120,9 +10120,9 @@ The Gemini Upgrades:
 - **Source:** `x`
 - **Author:** Hannah Ai
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071859767845212160/vid/avc1/1280x720/bTTDcnKrKZbze-Io.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071859883197030841.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071859767845212160/vid/avc1/1280x720/bTTDcnKrKZbze-Io.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071859883197030841.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -10361,9 +10361,9 @@ A cinematic, high-quality photograph of a young woman with long, light brown hai
 - **Source:** `x`
 - **Author:** Orlixx
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071878947013378048/vid/avc1/1080x1920/CF1CRaE7QFrBSFhy.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071879024603734331.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2071878947013378048/vid/avc1/1080x1920/CF1CRaE7QFrBSFhy.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2071879024603734331.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -37797,9 +37797,9 @@ A confident man stands perfectly centered facing the camera with a relaxed postu
 - **Source:** `x`
 - **Author:** Oogie
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2079613105571828043.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2079613045932986368/vid/avc1/1440x2560/XvVfQeZNYnJvBZkQ.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2079613105571828043.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 
@@ -38021,9 +38021,9 @@ Real live Tour de France motorcycle camera broadcast, Stage 14 mountain climb. C
 - **Source:** `x`
 - **Author:** Marcus Byrne
 - **Language:** `en-US`
-- **Video:** [View](https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2079714481555603471.mp4)
 
-<video src="https://video.twimg.com/amplify_video/2079714194316984321/vid/avc1/640x1138/bPP98Ycm8WMKPmbG.mp4" controls muted playsinline width="720"></video>
+<video src="https://static.atlascloud.ai/uploads/gemini-omni/twitter/x_2079714481555603471.mp4" controls muted playsinline width="720"></video>
 
 #### Description
 

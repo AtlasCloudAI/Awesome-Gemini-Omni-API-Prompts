@@ -26,7 +26,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 | Kul Prompts | 1689 |
 | Categories | 10 |
 | Preview Videos | 470 |
-| Aakhri Update | 30/07/2026 |
+| Aakhri Update | 31/07/2026 |
 
 ### 🧩 Supported Models
 

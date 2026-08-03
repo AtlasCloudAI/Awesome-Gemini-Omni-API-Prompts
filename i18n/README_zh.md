@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1689%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1784%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 1689 |
+| 提示词总数 | 1784 |
 | 分类数 | 16 |
-| 预览视频数 | 470 |
-| 最后更新 | 2026/08/02 |
+| 预览视频数 | 489 |
+| 最后更新 | 2026/08/03 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (1587)
+### Twitter Community (1682)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -38715,6 +38715,2385 @@ Korean idol goddess vibe of character Ino Yamanaka.
 ```text
 {
   "subject": "A stunning young Indian woman in her mid-20s with warm medium skin tone, long voluminous dark wavy hair cascading over one shoulder, expressive dark brown eyes with subtle eyeliner and mascara, full lips with soft"
+```
+
+### No. 1690: Want To Know Which Ai Tool You Definitely
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Voyz
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083835025808674816/vid/avc1/720x1280/jWNwJlsWCZXddJAJ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083835025808674816/vid/avc1/720x1280/jWNwJlsWCZXddJAJ.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Want to know which AI tool you definitely shouldn't use for videos with people in them?
+
+#### 提示词
+
+```text
+Want to know which AI tool you definitely shouldn't use for videos with people in them? Here's the proof, in 9 seconds.
+
+This is a classic multi-subject tracking failure: when two objects sit close together in frame and the model doesn't get a clean, separate reference for each
+```
+
+### No. 1691: Image In Google Gemini Nano Banana 2. Prompt
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Image in Google Gemini nano Banana 2.
+
+#### 提示词
+
+```text
+Same face as reference. Same dark, forensic-detail aesthetic — new lighting setup and mood.
+Lighting: Single hard light source directly overhead, striking straight down into a pitch-black room. Light falls sharply across the https://t.co/IDBrxjZdRP
+```
+
+### No. 1692: With Nano Banana 2 Using And My Custom
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+with Nano Banana 2 using  and my custom style:   Link will open Magnific's ai generator and load my style for you.
+
+#### 提示词
+
+```text
+A pair of lovebirds, crafted from colorful leaves, are perched on a branch. Both birds have large, dark eyes https://t.co/dopq1SeCXT
+```
+
+### No. 1693: Signal: Guardrails Are Product. - Google Rolled Back
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** The Crypto Illuminati
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+signal: guardrails are product.
+
+#### 提示词
+
+```text
+signal: guardrails are product.
+- google rolled back earth+nano banana after 1 day
+- anthropic: 3 orgs breached in 3/141,006 evals
+- minimax h3: 2k/15s stereo video; weights soon
+-  $13m voice ai
+- eu talks after agent hacks
+```
+
+### No. 1694: Created By Nano Banana 2 On Prompt: Ultra-Realistic
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Shahid Wani
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Created by Nano Banana 2  on  
+
+Prompt: Ultra-realistic editorial fashion portrait of a beautiful young East Asian woman with delicate facial features, porcelain fair skin, and a slim physique.
+
+#### 提示词
+
+```text
+Ultra-realistic editorial fashion portrait of a beautiful young East Asian woman with delicate facial features, porcelain fair skin, and a slim physique. She has long, straight jet-black hair flowing naturally over her shoulders https://t.co/eQ63oMrspN
+```
+
+### No. 1695: Nano Banana 2 On Openart. Prompt; Ultra-Realistic Editorial
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana 2 on OpenArt.
+
+#### 提示词
+
+```text
+Nano Banana 2 on OpenArt.
+
+Prompt; Ultra-realistic editorial fashion portrait of the person in refrence, standing casually against a smooth raw concrete wall in an urban setting. Hands in jacket pockets, relaxed confident expression, looking directly at the camera. Wearing a
+```
+
+### No. 1696: Gm My Friends 🌞 Let’S Spread Summer Vibes👙
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+GM my friends 🌞 let’s spread summer vibes👙
+Happy Sunday 🤗
+
+Mary Elizabeth Winstead, Victoria Justice, Emily Rudd, Sydney Sweeney 🔥
+👉🏻Subscribe for more content ⚡️
+
+Nano Banana Pro via Hailuo AI
+Prompt
+
+#### 提示词
+
+```text
+{
+  "subject": {
+    "identity": {
+      "facial_structure": https://t.co/CFK9uLfImD https://t.co/QX3XZdRoFU
+```
+
+### No. 1697: 1. Openai’S Next Major Model (Astra) Produces Solutions
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kyle Kim
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+1.
+
+#### 提示词
+
+```text
+1. OpenAI’s next major model (Astra) produces solutions to 10 long-standing open problems in mathematics and theoretical computer science.  
+An internal version of Astra generated new results on problems that had seen little or no progress for at least a decade (including
+```
+
+### No. 1698: Hi, I'M Rem 👋 Ai Video Editor Creating
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Rem Santos | AI Video Editor
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Hi, I'm Rem 👋
+
+AI Video Editor creating UGC-style ads for Meta &amp; TikTok using Nano Banana, Veo 3, ElevenLabs, HeyGen, and CapCut.
+
+#### 提示词
+
+```text
+Hi, I'm Rem 👋
+
+AI Video Editor creating UGC-style ads for Meta &amp; TikTok using Nano Banana, Veo 3, ElevenLabs, HeyGen, and CapCut.
+
+Sharing AI workflows, prompts, and ad creatives as I learn and build.
+
+Open to freelance &amp; full-time opportunities.
+
+#AIVideo #UGC #MetaAds
+```
+
+### No. 1699: Sometimes The Simplest Moments Create The Biggest Smiles
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zarnish
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Sometimes the simplest moments create the biggest smiles A playful mix of real life and doodle art that brings imagination to life.
+
+#### 提示词
+
+```text
+A studio portrait of a woman with long wavy brown hair sitting cross-legged on a clean, light grey studio https://t.co/QCiqKDjM8W
+```
+
+### No. 1700: Google Rolled Back Ai Image Generation In Google
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sahil Khanna
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google rolled back AI image generation in Google Earth roughly a day after launch, saying it would implement stronger guardrails.
+
+#### 提示词
+
+```text
+Google rolled back AI image generation in Google Earth roughly a day after launch, saying it would implement stronger guardrails.
+
+The feature combined Google Earth locations with Nano Banana image generation. Users could select a real place and prompt a synthetic scene—but
+```
+
+### No. 1701: Comparação Chegou🔥 6 Modelos De Vídeo Populares Com
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Fabiano Firmo
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083603376080650240/vid/avc1/1920x1080/6KQr1isqxQ4rnSWm.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083603376080650240/vid/avc1/1920x1080/6KQr1isqxQ4rnSWm.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+COMPARAÇÃO CHEGOU🔥
+
+6 modelos de vídeo populares com o mesmo prompt e imagens de referência.
+
+#### 提示词
+
+```text
+COMPARAÇÃO CHEGOU🔥
+
+6 modelos de vídeo populares com o mesmo prompt e imagens de referência.
+
+Na sequência:
+
+- Seedance 2.5
+- Seedance 2.0
+- Grok Imagine 1.5
+- Gemini Omni Flash
+- Kling 3.0 Omni
+- Hailuo H3
+
+Prompt e imagens de referência abaixo👇
+```
+
+### No. 1702: Turning Feral - A.I. Country Music Video Starting
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Oddwine Simwok
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083860808744767488/vid/avc1/3840x2160/AcV8dPYLnqVGKkqp.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083860808744767488/vid/avc1/3840x2160/AcV8dPYLnqVGKkqp.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Turning Feral - A.I.
+
+#### 提示词
+
+```text
+Turning Feral - A.I. Country Music Video
+Starting images made on Nano Banana Pro. Videos made with Kling 3 on Higgsfield with all the lip-syncing parts created on FREE software - PINOKIO with MAESTRO and WAN2GP using LTX 2.3.
+Why did AI give the wildman an Australian accent at
+```
+
+### No. 1703: That Nano Banana 2 Prompt Is Giving Full
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ÀBDŪLLÂH
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+That Nano Banana 2 prompt is giving full Vogue x K-beauty editorial — pastel pink minimalism, hard flash shadows, and dreamy melancholic vibes all in one frame.
+
+#### 提示词
+
+```text
+@meng_dagg695 @itsPolloAI That Nano Banana 2 prompt is giving full Vogue x K-beauty editorial — pastel pink minimalism, hard flash shadows, and dreamy melancholic vibes all in one frame.
+```
+
+### No. 1704: Thank You For Your Prompt. 👍I Just Used
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** TischEins
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Thank you for your prompt.
+
+#### 提示词
+
+```text
+@TraffAlex @meltenx @john_my07 Thank you for your prompt. 👍I just used it to build a Codex skill. I was worried the generated prompts might be too long, but my first test was an 80s comic style, and I have to say, the results are really quite good. Which of my prompts were incorporated?
+
+Here’s Midjourney on
+```
+
+### No. 1705: The Ai Stack I'D Pick For Every Task
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Poonam Soni
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The AI stack I'd pick for every task:
+
+Writing → Claude
+Research → Grok
+Video editing → Gemini Omni
+Video generation→ Seedance
+AI chat → ChatGPT
+Design → Canva
+Coding → Cursor
+Presentations → Gamma
+Au
+
+#### 提示词
+
+```text
+The AI stack I'd pick for every task:
+
+Writing → Claude
+Research → Grok
+Video editing → Gemini Omni
+Video generation→ Seedance
+AI chat → ChatGPT
+Design → Canva
+Coding → Cursor
+Presentations → Gamma
+Automation → n8n
+Audio &amp; voice → ElevenLabs
+
+Tell your favourites in
+```
+
+### No. 1706: Minimax H3 Shipped Last Week. We Spent A
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** super Lewis
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+MiniMax H3 shipped last week.
+
+#### 提示词
+
+```text
+MiniMax H3 shipped last week. We spent a few days going through what the community built with it. What stands out:
+
+Native 2K with audio in the same pass. 2560×1440, 24fps, 4–15s. The audio isn't bolted on — ambience, foley and dialogue land on the frame you specify. Write "heels
+```
+
+### No. 1707: That Gemini Nano Banana 2 Prompt Is Next-Level
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ÀBDŪLLÂH
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+That Gemini Nano Banana 2 prompt is next-level editorial — monochrome limestone shore, hard side light, and that rugged travel vibe is chef’s kiss 📸
+
+#### 提示词
+
+```text
+@pictsbyai @GeminiApp That Gemini Nano Banana 2 prompt is next-level editorial — monochrome limestone shore, hard side light, and that rugged travel vibe is chef’s kiss 📸
+```
+
+### No. 1708: Google Nano Banana 2 Prompt 👇 Extreme Close-Up
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** dreamy digital arts
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google Nano Banana 2
+
+Prompt 👇
+
+Extreme close-up of a girl's face.
+
+#### 提示词
+
+```text
+Google Nano Banana 2
+
+Prompt 👇
+
+Extreme close-up of a girl's face. The girl is lying among tall green grass during light rain. Makeup with emphasis on the eyes: black eyeliner, long eyelashes, styled eyebrows, nude pink-brown lipstick with a clear contour. Clothing: dark brown
+```
+
+### No. 1709: The Yachts Are Nice... But Let'S Stay On
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Katherine Arison
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The yachts are nice...
+
+#### 提示词
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": {
+    "subject": {
+      "identity": "Use uploaded reference image exactly. https://t.co/pfFz9Sg5jM
+```
+
+### No. 1710: Pumping Out Content For My Ios App On
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** pratiee ships
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083873706888302592/vid/avc1/1080x1920/nE5ixCh2Vdjk2z6q.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083873706888302592/vid/avc1/1080x1920/nE5ixCh2Vdjk2z6q.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+pumping out content for my iOS app on Instagram.
+
+#### 提示词
+
+```text
+pumping out content for my iOS app on Instagram.
+
+these videos are made using Claude/Codex, Hyperframes and Nano Banana.
+
+honestly, it feel like AI slop.
+
+the problem is, I don’t really know video editing, and I can’t spend hours learning and editing every reel.
+
+indie hackers
+```
+
+### No. 1711: 🚀 Ai Power Rankings — August 2026 💬
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** lexrum | GOH
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🚀 AI Power Rankings — August 2026
+
+💬 Top Chatbots
+😒 Claude Fable 5
+😺 GPT-5.6
+🇨🇳 Kimi K3
+😐 Grok 4.5
+🇨🇳 GLM-5.2
+
+🎨 Top Image Generators
+😺 GPT-Image 2
+🇺🇸 Reve 2.1
+📱 Muse Image
+🔋 Nano Banana 3.1 Flash
+😭 M
+
+#### 提示词
+
+```text
+🚀 AI Power Rankings — August 2026
+
+💬 Top Chatbots
+😒 Claude Fable 5
+😺 GPT-5.6
+🇨🇳 Kimi K3
+😐 Grok 4.5
+🇨🇳 GLM-5.2
+
+🎨 Top Image Generators
+😺 GPT-Image 2
+🇺🇸 Reve 2.1
+📱 Muse Image
+🔋 Nano Banana 3.1 Flash
+😭 MAI Image 2.5
+
+🎬 Top Video Generators
+🔋 Gemini Omni Flash
+🇨🇳 MiniMax
+```
+
+### No. 1712: Coffee First, Everything Else Can Wait. ☕✨ Scarlett
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glena jenner
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Coffee first, everything else can wait.
+
+#### 提示词
+
+```text
+Coffee first, everything else can wait. ☕✨
+
+Scarlett johansson 🖤
+Amber Heard 💙
+Sydney sweeney 💚
+Sadie sink 🧡
+
+Nano banana pro prompt 👇👇👇
+```
+
+### No. 1713: Google Just Turned One Selfie Into A Full
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083880540562919424/vid/avc1/1280x720/3z77EfEl-1a1F7df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083880540562919424/vid/avc1/1280x720/3z77EfEl-1a1F7df.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google just turned one selfie into a full video crew.
+
+#### 提示词
+
+```text
+Google just turned one selfie into a full video crew.
+
+It's the new Gemini Omni update inside Google Vids.
+
+Here's how it works:
+
+→ Upload 1 selfie and 1 short voice clip
+
+→ You get an avatar that looks like you and talks like you
+
+→ Type a script. Your avatar reads it on
+```
+
+### No. 1714: Mirror Never Lies 🪞✨️ Google Nano Banana 2
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Mirror Never Lies 🪞✨️
+
+Google Nano Banana 2
+
+Prompt:
+{
+  "subject": "A beautiful young woman in her mid-20s with fair skin, long straight blonde hair with soft waves, striking blue eyes, full lips wit
+
+#### 提示词
+
+```text
+{
+  "subject": "A beautiful young woman in her mid-20s with fair skin, long straight blonde hair with soft waves, striking blue eyes, full lips with soft pink lipstick, and a delicate silver necklace with a small pendant.", https://t.co/voUlg2i18Y
+```
+
+### No. 1715: The "Pelican On A Bicycle" Era Is Officially
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Singular Lab News ∞
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The "pelican on a bicycle" era is officially over.
+
+#### 提示词
+
+```text
+The "pelican on a bicycle" era is officially over.
+
+Opus 5 just ate the entire first paragraph of Lord of the Rings, burned through a 1M token budget (~$10), and produced something that made 9,000 people stop scrolling.
+
+The real shift: LLMs are becoming creative directors, not
+```
+
+### No. 1716: Sydney Sweeney - Gemini Nano Banana Pro Prompt
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Sydney Sweeney - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title_en": "Crimson Thorn Web",
+  "master_prompt": "A hyper-realistic, avant-garde editorial portrait of The Protagonist standing in a dimly 
+
+#### 提示词
+
+```text
+{
+  "vibe_title_en": "Crimson Thorn Web",
+  "master_prompt": "A hyper-realistic, avant-garde editorial portrait of The Protagonist standing in a dimly lit, earthen studio void. The subject is wearing a monumental, architectural https://t.co/HwEbVy0Ck0
+```
+
+### No. 1717: 30 Secondes De Vidéo Avec L'Audio Généré Dedans
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Le Fil IA
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+30 secondes de vidéo avec l'audio généré dedans, pas recollé après au montage.
+
+#### 提示词
+
+```text
+30 secondes de vidéo avec l'audio généré dedans, pas recollé après au montage. ByteDance vient de sortir Seedance 2.5, soit trois fois la durée max de Gemini Omni Flash. Google s'est fait doubler sur un terrain qu'il pensait tenir.
+
+Le modèle avale des dizaines d'images, de
+```
+
+### No. 1718: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** M. Asif
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### 提示词
+
+```text
+Use the uploaded reference image for the woman’s face and identity. Keep the same woman from the reference image while following the scene below. Maintain https://t.co/umMRSlt7Cz
+```
+
+### No. 1719: Today In Ai: August 2 Google Earth Hit
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Payton Bilodeau
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Today in AI: August 2
+
+Google Earth Hit Undo:
+
+Google added Nano Banana 2 image generation to Google Earth, letting anyone redraw real places from prompts.
+
+#### 提示词
+
+```text
+Today in AI: August 2
+
+Google Earth Hit Undo:
+
+Google added Nano Banana 2 image generation to Google Earth, letting anyone redraw real places from prompts. The tool could rebuild ancient Pompeii, preview a building on an empty lot, or invent a future city over a real map. One day
+```
+
+### No. 1720: An Ocean Storm Platform City. Generated Using Nano
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+An ocean storm platform city.
+
+#### 提示词
+
+```text
+An ocean storm platform city. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1721: A Busy Street Intersection Reimagined And Rendered In
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+A busy street intersection reimagined and rendered in an artistic solarpunk style.
+
+#### 提示词
+
+```text
+A busy street intersection reimagined and rendered in an artistic solarpunk style. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1722: Whimsical Miniature World Depiction Of A Grand Restaurant
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Artingent
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Whimsical miniature world depiction of a grand restaurant interior in an artistic sandalpunk style.
+
+#### 提示词
+
+```text
+Whimsical miniature world depiction of a grand restaurant interior in an artistic sandalpunk style. Generated using Nano banana pro. Prompt in the first reply
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1723: 🌈 Colored Pencil A Field Of Red Poppies
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Viki
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/tweet_video/HOuDl4yXEAAlDjs.mp4)
+
+<video src="https://video.twimg.com/tweet_video/HOuDl4yXEAAlDjs.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🌈 Colored Pencil
+
+A field of red poppies...
+
+#### 提示词
+
+```text
+🌈 Colored Pencil
+
+A field of red poppies...
+
+Created in @ImagineArt_X 
+Model: Nano Banana 2
+
+🏞 Prompt to image 1:
+A vibrant colored-pencil illustration in portrait orientation. A young couple walks hand in hand away from the viewer along a narrow winding dirt path through a
+```
+
+### No. 1724: Turn On Notifications For The Latest Updates, Breakthroughs
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝕂𝕝𝕒𝕧𝕚𝕔𝕠𝕕𝕖𝕤👨🏾‍💻
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Turn on notifications for the latest updates, breakthroughs, and industry news.🔔
+
+#### 提示词
+
+```text
+Turn on notifications for the latest updates, breakthroughs, and industry news.🔔
+```
+
+### No. 1725: And Refugees At The Us Border, All Sitting
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BestForAndroid
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+...and refugees at the US border, all sitting on real coordinates.
+
+#### 提示词
+
+```text
+...and refugees at the US border, all sitting on real coordinates.
+
+The tool never once refused a prompt. Google pulled their Nano Banana 2 powered Google Earth the next day and says stronger guardrails are coming.
+```
+
+### No. 1726: Pink Is The Color Of Strength, A Color
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** KeorUnreal
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Pink is the color of strength, a color of conviction, a color of decision making!🩷
+
+Erin Moriarty, Dafne Keen, Karen Gillan, Bella Hadid🔥
+👉🏻Subscribe for more content ⚡️
+
+Nano Banana Pro via Hailuo AI
+
+#### 提示词
+
+```text
+{
+  "type": "image_prompt",
+  "version": "1.0",
+  "description": { https://t.co/8DPNl9mtVi https://t.co/hMaEtEqRUB
+```
+
+### No. 1727: Nano Banana Vs Nano Banana Pro. Photographers Used
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Jack Wills
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083917116986593280/vid/avc1/720x1280/X8ocDzkaVv-46keg.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083917116986593280/vid/avc1/720x1280/X8ocDzkaVv-46keg.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano Banana vs Nano Banana Pro.
+
+#### 提示词
+
+```text
+Nano Banana vs Nano Banana Pro.
+
+Photographers used to charge $500+ per shoot for images like this.
+
+Now it's a prompt. "We're cooked."
+```
+
+### No. 1728: Nano Banana Pro Promotional And Cinematic Prompt ⤵️
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+A photorealistic portrait of a stunning young woman on a tennis court.
+
+#### 提示词
+
+```text
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+A photorealistic portrait of a stunning young woman on a tennis court. Her wet, wavy hair, light natural makeup, and soft freckles exude a clean, athletic look. The background features softly blurred alpine mountains and
+```
+
+### No. 1729: Google Just Made Handheld Selfie Vlogs The Next
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mavern
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2079313058569097216/vid/avc1/1920x1080/NqZP6XlUk7SG1eHk.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079313058569097216/vid/avc1/1920x1080/NqZP6XlUk7SG1eHk.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+GOOGLE JUST MADE HANDHELD SELFIE VLOGS THE NEXT AI INFLUENCER FORMAT
+
+Nobody tells you this but the trick to a believable AI vlog isn't the visuals, it's telling the model to fake camera shake like a 
+
+#### 提示词
+
+```text
+GOOGLE JUST MADE HANDHELD SELFIE VLOGS THE NEXT AI INFLUENCER FORMAT
+
+Nobody tells you this but the trick to a believable AI vlog isn't the visuals, it's telling the model to fake camera shake like a real phone.
+
+One image plus a scripted prompt → a full handheld selfie vlog
+```
+
+### No. 1730: They'Re Waiting For You To Come Over! Rose
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice Han
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+They're waiting for you to come over!
+
+#### 提示词
+
+```text
+They're waiting for you to come over!
+
+Rose
+Lisa
+Jisoo
+
+Blackpink
+
+Nano Banana 2, prompt ⤵️
+```
+
+### No. 1731: My Recents ✨️🤍 Google Nano Banana 2 Prompt
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+My Recents ✨️🤍
+
+Google Nano Banana 2
+
+Prompt:
+{
+  "subject": "A beautiful young woman in her early-to-mid 20s with fair-to-light skin, long wavy brown hair cascading over her shoulders, soft expressiv
+
+#### 提示词
+
+```text
+{
+  "subject": "A beautiful young woman in her early-to-mid 20s with fair-to-light skin, long wavy brown hair cascading over her shoulders, soft expressive brown eyes, natural rosy cheeks, full lips in a bright genuine smile https://t.co/LK02z9CG6m
+```
+
+### No. 1732: Prompt Gambar: Nano Banana Sepasang Remaja Tampak Bahagia
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** JefryBilang
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Prompt Gambar: Nano Banana 
+Sepasang remaja tampak bahagia naik Delman di jalan kota/di jalan dekat sawah
+
+Prompt Video: Veo 3.1 Lite
+Sepasang remaja itu bahagia naik Delman
+
+#### 提示词
+
+```text
+Prompt Gambar: Nano Banana 
+Sepasang remaja tampak bahagia naik Delman di jalan kota/di jalan dekat sawah
+
+Prompt Video: Veo 3.1 Lite
+Sepasang remaja itu bahagia naik Delman
+```
+
+### No. 1733: 学Ai不用几个月，也不需要啃完那些大部头。有人写好了17份免费指南，从Claude基础操作到具体落地场景，一份份刷下来就能直接上手。 Claude 101： C
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dliyang
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+学AI不用几个月，也不需要啃完那些大部头。有人写好了17份免费指南，从Claude基础操作到具体落地场景，一份份刷下来就能直接上手。
+
+#### 提示词
+
+```text
+学AI不用几个月，也不需要啃完那些大部头。有人写好了17份免费指南，从Claude基础操作到具体落地场景，一份份刷下来就能直接上手。
+
+Claude 101：
+Claude Code：
+Claude Skills：
+Nano banana 2：
+```
+
+### No. 1734: 刹那の虜 [第75弾 / 最新] オリジナル楽曲「刹那の虜」です。 【楽曲概要】
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ⭐️けい
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+刹那の虜
+
+[第75弾 / 最新]  オリジナル楽曲「刹那の虜」です。
+
+#### 提示词
+
+```text
+刹那の虜
+
+[第75弾 / 最新]  オリジナル楽曲「刹那の虜」です。  【楽曲概要】
+```
+
+### No. 1735: I Built A Claude Skill That Makes Motion-Style
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Harsh Hada
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083952636945223680/vid/avc1/2446x2160/xXJAXYQezvSGGRSk.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083952636945223680/vid/avc1/2446x2160/xXJAXYQezvSGGRSk.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I built a Claude skill that makes motion-style animation.
+
+#### 提示词
+
+```text
+I built a Claude skill that makes motion-style animation.
+
+&gt; Paste a reference image
+&gt; It generates frames with Nano Banana 2 
+&gt; and animates the video with Seedance 2.0
+
+Everything runs in Claude through the Arcads MCP
+
+Comment "Motion", and I'll send you the skill
+```
+
+### No. 1736: Artingentさんの作品です An Ocean Storm Platform City. Generated Using
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** sayobonita
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Artingentさんの作品です
+
+
+An ocean storm platform city.
+
+#### 提示词
+
+```text
+Artingentさんの作品です
+@artingent→Prompt
+
+An ocean storm platform city. Generated using Nano banana pro. Prompt in the first reply.
+```
+
+### No. 1737: It'S Pretty Decent. Does Image Gen With Nano
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mank Tibbit
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+it's pretty decent.
+
+#### 提示词
+
+```text
+@fauxton_ it's pretty decent.  does image gen with nano banana pro or 2, and video clip using Omni Flash, or Veo models.  Free accounts get a decent amount of image gens and 50 credits for clips daily.  The paid tiers don't really give any benefit for video.  Most of what I post other than
+```
+
+### No. 1738: 20 Credits Free For New Users. 40% Discount
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mina Labs
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+20 credits free for new users.
+
+#### 提示词
+
+```text
+20 credits free for new users.
+40% discount on the credits package.
+50+ AI models of image , video , music , real world.
+
+Kling turbo v3
+Veo 3.1
+Flux
+Seedance
+Seedream
+Nano Banana
+Claude 
+GPT
+```
+
+### No. 1739: The Best Image Model In The World Just
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maxflux | AI Creator
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083961127395057664/vid/avc1/1270x720/QkZK5rmvvUt7dI78.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2083961127395057664/vid/avc1/1270x720/QkZK5rmvvUt7dI78.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The best image model in the world just got upgraded.
+
+#### 提示词
+
+```text
+The best image model in the world just got upgraded. And right now, it’s unlimited. 🍌⚡
+
+I used Nano Banana 2 to swap the objects and characters in the image and it came out flawless. Then I used Kling 3.0 Omni inside Higgsfield AI to edit the video.
+...
+```
+
+### No. 1740: Within 18 Months, Bytedance'S Seedance 2.5 Will Dominate
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Global AI Watch
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Within 18 months, ByteDance's Seedance 2.5 will dominate AI-driven advertising.
+
+#### 提示词
+
+```text
+Within 18 months, ByteDance's Seedance 2.5 will dominate AI-driven advertising. Why? It offers 3x longer video clips compared to Google's Gemini Omni Flash. The shift will put Google's AI video division on the defensive. ByteDance and Chinese tech sector: poised to win.
+```
+
+### No. 1741: The New Version Of "The Odyssey" Has A
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Voyz
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083962068516872193/vid/avc1/1080x1920/ndx-pQdVrTDjtt1G.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083962068516872193/vid/avc1/1080x1920/ndx-pQdVrTDjtt1G.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+The new version of "The Odyssey" has a scene Homer never wrote: Helen of Troy gets thrown off a cliff - just not the real one.
+
+#### 提示词
+
+```text
+The new version of "The Odyssey" has a scene Homer never wrote: Helen of Troy gets thrown off a cliff - just not the real one.
+
+Warriors in Spartan helmets surround the character, a crowd of elders watches from the edge. The camera switches angles six times in a row - a close-up
+```
+
+### No. 1742: Absolutely Stunning Prompt. The Combination Of Macro Realism
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zarah
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Absolutely stunning prompt.
+
+#### 提示词
+
+```text
+@codewithhajra Absolutely stunning prompt. The combination of macro realism, underwater caustic lighting, and ultra-fine skin details creates a cinematic, dreamlike portrait with incredible depth. Nano Banana really shines with prompts like this!
+```
+
+### No. 1743: Created With Gemini Nano Banana 2 On Prompt
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Created with Gemini Nano Banana 2 on 
+
+Prompt 👇
+
+A handsome male stands perfectly centered facing the camera with level shoulders, enveloped in a dark black tailored double-breasted overcoat over a cr
+
+#### 提示词
+
+```text
+Created with Gemini Nano Banana 2 on @GeminiApp
+
+Prompt 👇
+
+A handsome male stands perfectly centered facing the camera with level shoulders, enveloped in a dark black tailored double-breasted overcoat over a crisp white shirt and a black tie secured by a bright metallic tie
+```
+
+### No. 1744: Please Keep Quiet! Wonyoung Yujin Gaeul Leeseo Ive
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice Han
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Please keep quiet!
+
+#### 提示词
+
+```text
+Please keep quiet!
+
+Wonyoung
+Yujin
+Gaeul
+Leeseo
+
+IVE
+
+Nano Banana Pro via AI Studio, prompt ⬇
+```
+
+### No. 1745: Taylor Swift Obviously... Gemini Nano Banana Pro Prompt👇
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Society
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083976046911913984/vid/avc1/720x1280/H8ELIG_uOBwoXVcW.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2083976046911913984/vid/avc1/720x1280/H8ELIG_uOBwoXVcW.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Taylor Swift Obviously...
+
+#### 提示词
+
+```text
+Taylor Swift Obviously...
+
+Gemini Nano Banana Pro Prompt👇
+```
+
+### No. 1746: Waiting To Dry Off! Chaeyoung Jihyo Sana Mina
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice Han
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Waiting to dry off!
+
+#### 提示词
+
+```text
+Waiting to dry off!
+
+Chaeyoung
+Jihyo
+Sana
+Mina 
+
+Twice 
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 1747: One Outfit Would Never Be Enough. 💖 Madison
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glena jenner
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+One outfit would never be enough.
+
+#### 提示词
+
+```text
+One outfit would never be enough. 💖
+
+Madison Beer 💗
+Millie Bobby Brown 🧡
+Sabrina carpenter 💚
+Jenna Ortega 💜
+
+Nano banana pro prompt below
+```
+
+### No. 1748: Senior Video Editor, Ai-Native | Dtc Performance Creative
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SLIC
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Senior Video Editor, AI-Native | DTC Performance Creative
+Long-term contractor · Fully remote · Full-time
+ $1,500 to $2,000 per month
+
+We run an AI production system at the center of our creative: Hig
+
+#### 提示词
+
+```text
+Senior Video Editor, AI-Native | DTC Performance Creative
+Long-term contractor · Fully remote · Full-time
+ $1,500 to $2,000 per month
+
+We run an AI production system at the center of our creative: Higgsfield, Nano Banana Pro, Kling, ElevenLabs. This is not a side experiment or a
+```
+
+### No. 1749: I Am Failing To Get Good Consistency, Quality
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Unnatural Divergence
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083988127912267776/vid/avc1/1280x720/Fe4HkgHn5slUoXBL.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2083988127912267776/vid/avc1/1280x720/Fe4HkgHn5slUoXBL.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+I am failing to get good consistency, quality and scale, generating different camera angles using a reference image and then any model like Nano Banana or GPT.
+
+#### 提示词
+
+```text
+I am failing to get good consistency, quality and scale, generating different camera angles using a reference image and then any model like Nano Banana or GPT.
+
+To be honest, I am getting much better results with a 15-second video using Seedance 2.0, prompting a video about that
+```
+
+### No. 1750: Ariana Grande Don'T Compare... Gemini Nano Banana Pro
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Society
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2083996374551646209/vid/avc1/720x720/sjAeDFpJZKcZC_Lc.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2083996374551646209/vid/avc1/720x720/sjAeDFpJZKcZC_Lc.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Ariana Grande Don't Compare...
+
+#### 提示词
+
+```text
+Ariana Grande Don't Compare...
+
+Gemini Nano Banana Pro Prompt Below👇
+```
+
+### No. 1751: Next.Js + Mongodb Under The Hood. Top-Tier Models
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ayaz
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Next.js + MongoDB under the hood.
+
+#### 提示词
+
+```text
+@vanthanh12195 @autoclipsapp Next.js + MongoDB under the hood. Top-tier models for image &amp; video gen (Kling, Nano Banana, and more), ElevenLabs for voice, Remotion for the final render 🙂
+```
+
+### No. 1752: Ella Purnell - Gemini Nano Banana Pro Prompt
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** timedoctor.eth
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Ella Purnell - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title_en": "Crimson Symmetry",
+  "master_prompt": "Cinematic wide shot, centered composition.
+
+#### 提示词
+
+```text
+{
+  "vibe_title_en": "Crimson Symmetry",
+  "master_prompt": "Cinematic wide shot, centered composition. The Protagonist stands perfectly aligned in the center of a vintage, dust-moted Anechoic Chamber lined with geometric, https://t.co/E6UoSopeA1
+```
+
+### No. 1753: Google Gave Gemini Three Major Upgrades. Here’S What
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Julian Goldie SEO
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2084000933982429184/vid/avc1/1280x720/3WwVbNzXbVjVPh-L.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084000933982429184/vid/avc1/1280x720/3WwVbNzXbVjVPh-L.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google gave Gemini three major upgrades.
+
+#### 提示词
+
+```text
+Google gave Gemini three major upgrades.
+
+Here’s what changed:
+
+1/ Gemini Omni creates a personal avatar from one selfie and voice clip.
+
+2/ The avatar can deliver any script inside Google Vids.
+
+3/ Individual scenes can be corrected without regenerating everything.
+
+4/ Lyria 3
+```
+
+### No. 1754: Creating This Video Reminded Me How Much I
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Soraya Thorne
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2084002314700926976/vid/avc1/720x1280/BBpScYC9NjOyk0jJ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084002314700926976/vid/avc1/720x1280/BBpScYC9NjOyk0jJ.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Creating this video reminded me how much I genuinely love making music.
+
+#### 提示词
+
+```text
+Creating this video reminded me how much I genuinely love making music. 💙🌊
+
+"Take Me Under" is not out yet, but it'll be coming to Spotify soon.
+
+Images: Nano Banana Pro
+Animation: Seedance2
+
+Made with OpenArt.
+
+#aiart #musicvideo #aimusicvideo #synthpop
+```
+
+### No. 1755: Art-Directed Prompt System [V02] / Gpt Image 2
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AI Pulse
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Art-directed prompt system [v02] / GPT Image 2
+
+Works with Google Nano Banana, too
+
+Prompt 🔽
+
+#### 提示词
+
+```text
+Art-directed prompt system [v02] / GPT Image 2
+
+Works with Google Nano Banana, too
+
+Prompt 🔽
+```
+
+### No. 1756: 🪧 Turn A Regular Selfie Into A Studio
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Skybo
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🪧 Turn a regular selfie into a studio portrait with one prompt
+
+Tested this on ChatGPT and Nano Banana and the result is genuinely impressive.
+
+#### 提示词
+
+```text
+🪧 Turn a regular selfie into a studio portrait with one prompt
+
+Tested this on ChatGPT and Nano Banana and the result is genuinely impressive. Drop your selfie into the chat along with the prompt below and watch it turn into something that looks like it came off a TIME magazine
+```
+
+### No. 1757: سلسلة ما وراء الـ Ai: إعادة إحياء ذكريات
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Menna.t
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+سلسلة ما وراء الـ AI: إعادة إحياء ذكريات الصيف بـ Nano Banana!
+
+#### 提示词
+
+```text
+"Reimagine this memory as a cinematic painting with pastel sunset glow" https://t.co/FE4rVNSQWb
+```
+
+### No. 1758: Sample Of Video Made With Google Flows Gemini
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Danny Wallace
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2084029882711883776/vid/avc1/720x1280/L3EruX32O6aCKj2b.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084029882711883776/vid/avc1/720x1280/L3EruX32O6aCKj2b.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Sample of video made with Google flows Gemini Omni model.
+
+#### 提示词
+
+```text
+Sample of video made with Google flows Gemini Omni model.
+```
+
+### No. 1759: 【画像・動画・音声／Physical Ai】 ・Meta Muse Video（近日） ・Seedance 2.5 Api（8月7日見込み）
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** おかぴ｜@AI副業40代会社員
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+【画像・動画・音声／Physical AI】
+
+・Meta Muse Video（近日）
+・Seedance 2.5 API（8月7日見込み）
+・FLUX.3一般提供（近日）
+・FLUX.3 API（時期未定）
+・FLUX.3追加モデル（時期未定）
+・NVIDIA Cosmos 3 Edge（近日）
+・Cosmos 3のLeRobot対応（近日）
+・Nemotron 3 SuperのAmazon
+
+#### 提示词
+
+```text
+【画像・動画・音声／Physical AI】
+
+・Meta Muse Video（近日）
+・Seedance 2.5 API（8月7日見込み）
+・FLUX.3一般提供（近日）
+・FLUX.3 API（時期未定）
+・FLUX.3追加モデル（時期未定）
+・NVIDIA Cosmos 3 Edge（近日）
+・Cosmos 3のLeRobot対応（近日）
+・Nemotron 3 SuperのAmazon
+```
+
+### No. 1760: 📰 Tech News — 今朝のAiホットトピック（08/03）🧵 1. カリフォルニア Ai透明性法が施行、C2Pa
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 泉水亮介 │ 大学でVibe Codingを教えてます。
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+📰 Tech News — 今朝のAIホットトピック（08/03）🧵
+
+1.
+
+#### 提示词
+
+```text
+📰 Tech News — 今朝のAIホットトピック（08/03）🧵
+
+1. カリフォルニア AI透明性法が施行、C2PA が出荷要件に
+2. Google Earth の Nano Banana が24時間で撤回
+3. Apple がバグ報告に上限、AIスロップで本物が埋もれた
+4. DeepSeek-V4-Flash-0731 が正式リリース
+5. Grok Imagine Video 1.5
+```
+
+### No. 1761: Keep Exploring The Possibilities. System Prompt: Red Veil
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Emily
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Keep exploring the possibilities.
+
+#### 提示词
+
+```text
+RED VEIL REGISTER
+
+Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Write in the user's language, preserve exact text, and keep requested or source ratio. https://t.co/aQA4vNL4hn
+```
+
+### No. 1762: 🎬✨ La Edición De Video Da Un Nuevo
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hablando Claro
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+🎬✨ La edición de video da un nuevo salto con  Gemini Omni permite transformar escenas, modificar elementos y crear nuevas interacciones de forma más sencilla.
+
+#### 提示词
+
+```text
+🎬✨ La edición de video da un nuevo salto con #IA. Gemini Omni permite transformar escenas, modificar elementos y crear nuevas interacciones de forma más sencilla.  
+
+#Innovación #Tecnología #CreaciónDigital
+```
+
+### No. 1763: Here'S How To Stop A Generated Character Standing
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tim Start
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+here's how to stop a generated character standing in front of your headline:
+
+- write the text block into the prompt as a reserved zone, not a position.
+
+#### 提示词
+
+```text
+here's how to stop a generated character standing in front of your headline:
+
+- write the text block into the prompt as a reserved zone, not a position. A box nothing else may enter.
+- name where the character stands: a clear side strip, fully outside that box, with a gap
+```
+
+### No. 1764: How Come? I Dropped Midjourney Since Nano Banana
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sam McRoberts
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+How come?
+
+#### 提示词
+
+```text
+@nickkokonas How come? I dropped Midjourney since Nano Banana is so good, and just don’t do much with video so dropped Runway, but I’m really loving Suno!
+```
+
+### No. 1765: Disha Patni, Ihana Dhillon And Tamannaah Bhatia Nano
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Disha Patni, Ihana Dhillon and Tamannaah Bhatia 
+
+Nano Banana 2 via 
+
+
+{
+  "prompt": "Photorealistic high-fashion street editorial of a beautiful young adult woman with a soft oval face, expressive br
+
+#### 提示词
+
+```text
+Disha Patni, Ihana Dhillon and Tamannaah Bhatia 
+
+Nano Banana 2 via @ImagineArt_X
+@imagineart_creo
+
+{
+  "prompt": "Photorealistic high-fashion street editorial of a beautiful young adult woman with a soft oval face, expressive brown eyes, naturally full lips, and a short dark
+```
+
+### No. 1766: Topvew Film StudioでCm制作。 使ったSkillは「Fast-Paced Usp Product Video Creator」
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** wataco｜AI画像・映像クリエイター
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2084056471592210432/vid/avc1/720x1280/G7xwYrspUK9v8QTZ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084056471592210432/vid/avc1/720x1280/G7xwYrspUK9v8QTZ.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Topvew Film StudioでCM制作。
+
+#### 提示词
+
+```text
+Topvew Film StudioでCM制作。
+使ったSkillは「Fast-Paced USP Product Video Creator」
+
+Nano Banana 2で生成したキャラクター画像を添付し、「若い女性向けのポップなスマートグラスのCMをつくりたい」のひと言からスタート。
+```
+
+### No. 1767: Getting Ready For The Game! Jisoo Jennie Rose
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice Han
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Getting ready for the game!
+
+#### 提示词
+
+```text
+Getting ready for the game!
+
+Jisoo
+Jennie
+Rose
+Lisa
+
+Blackpink for the American NFL!
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+```
+
+### No. 1768: Google Really Pulled A Fast One This Time
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Kane
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Google really pulled a fast one this time 🚨
+
+The company just launched an AI image-generation feature for Google Earth (called Nano Banana 2), and within 48 hours, they had to yank it offline.
+
+#### 提示词
+
+```text
+Google really pulled a fast one this time 🚨
+
+The company just launched an AI image-generation feature for Google Earth (called Nano Banana 2), and within 48 hours, they had to yank it offline. Why? Because it let users type in any text prompt and generate fictional scenes
+```
+
+### No. 1769: Brazil Queen 🇧🇷 Google Nano Banana 2 Prompt
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Glowecho
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Brazil queen 🇧🇷 
+
+Google Nano Banana 2
+
+Prompt:
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long dark wavy hair with a bright pink flower tucked behind on
+
+#### 提示词
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long dark wavy hair with a bright pink flower tucked behind one ear, expressive dark eyes with subtle makeup, full lips with red lipstick in a https://t.co/PTOVO3lIlN
+```
+
+### No. 1770: Using Nano Banana 2 With And My Custom
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Heather Green
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+using Nano Banana 2 with  and my custom style:  Link will open Magnific's ai generator and load my style for you.
+
+#### 提示词
+
+```text
+A close-up, eye-level design features two adorable, baby dragon-like creatures with large, dark, expressive eyes. https://t.co/e4P3ZAGNHI
+```
+
+### No. 1771: Now, Hold On There, I Have To Make
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Don P Bongwater
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Now, hold on there, I have to make a counterpoint to you.
+
+#### 提示词
+
+```text
+@bupaela Now, hold on there, I have to make a counterpoint to you.
+
+GPT Image models, by default, inject noise to fool people into thinking they are detailed. This happens in almost every generation.
+
+This is fine AS LONG AS you "wash" your images before publishing or using.
+
+I actually
+```
+
+### No. 1772: Minimax H3 Video Model Opens A Path Around
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Tech Buzz China
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+MiniMax H3 video model opens a path around closed AI video vendors
+
+MiniMax open-sourced H3, a multimodal video model it calls "Seedance-level." It takes up to 9 images, 3 video clips, and 3 audio tra
+
+#### 提示词
+
+```text
+MiniMax H3 video model opens a path around closed AI video vendors
+
+MiniMax open-sourced H3, a multimodal video model it calls "Seedance-level." It takes up to 9 images, 3 video clips, and 3 audio tracks, 12 files max, and turns them into finished-feeling spots. APPSO testers
+```
+
+### No. 1773: Gpt Image 2 | Nano Banana 2| Grok|
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aiza
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+GPT IMAGE 2 | Nano banana 2| Grok| Gemini app|
+
+Prompt :
+Based on the uploaded image, generate an ultra-realistic 8K native camera photograph with cinematic lighting, a first-person POV selfie perspec
+
+#### 提示词
+
+```text
+Based on the uploaded image, generate an ultra-realistic 8K native camera photograph with cinematic lighting, a first-person POV selfie perspective, and a dramatic forced-perspective composition where a giant iPhone screen https://t.co/HlK6SuEIa2
+```
+
+### No. 1774: Love The Fantasy Aesthetic. ⚔️Now Produce A Video
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Vozinha🧤
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Love the fantasy aesthetic.
+
+#### 提示词
+
+```text
+@Giovanna_Rave Love the fantasy aesthetic. ⚔️now produce a video with it, are you using Nano Banana
+```
+
+### No. 1775: ① Open Gpt Image 2/ Nano Banana Pro/
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dilshad Hussain
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+① Open GPT Image 2/ Nano Banana pro/ Gemeni / Grok 
+② Add your image
+③ Paste the prompt
+④ Create the result
+
+Use the uploaded image as the only facial reference and preserve 100% facial identity, hair
+
+#### 提示词
+
+```text
+① Open GPT Image 2/ Nano Banana pro/ Gemeni / Grok 
+② Add your image
+③ Paste the prompt
+④ Create the result
+
+Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture.
+A stylish man with light
+```
+
+### No. 1776: Thisimag Is Really Great I Will Try This
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** I'm Just a Friend
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Thisimag is really great I will try this prompt with Nano banana
+
+#### 提示词
+
+```text
+@oye_samia Thisimag is really great I will try this prompt with Nano banana
+```
+
+### No. 1777: 不知道Gpt总结的对不对？ 🐋🍃🔬Prompt: 【Ai Image Model Battle 2026 ·
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** DeepBlue深藍
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+不知道GPT总结的对不对？
+
+#### 提示词
+
+```text
+【AI IMAGE MODEL BATTLE 2026 · 十大AI生图模型横向评测】
+
+16:9横版高级科技评测海报，Apple发布会风格，黑色极简背景，玻璃拟态UI卡片，未来科技杂志排版。
+
+中心区域：
+一张超大主视觉图片，展示统一测试样片： https://t.co/TrbomxEDcW https://t.co/BTMoUh6HWg
+```
+
+### No. 1778: Nano Banana Pro Promotional And Cinematic Prompt ⤵️
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Maddox
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+a elegant long hair, black girl model wearing black summer dress, standing in front of the taj mahal with a big elephant touching her with its tru
+
+#### 提示词
+
+```text
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+a elegant long hair, black girl model wearing black summer dress, standing in front of the taj mahal with a big elephant touching her with its trunk, Whole body in frame shot from the side. Soft outdoor daylight, diffused
+```
+
+### No. 1779: Cinema Screen Glow Portrait 🔥 Gemini Nano Banana
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ozair AI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Cinema Screen Glow Portrait 🔥
+
+Gemini Nano banana 2.
+
+#### 提示词
+
+```text
+Same face as reference. Same dark, forensic skin-detail aesthetic — new setting and light source.
+Scene: Subject seated alone in a dark cinema, face lit entirely by the glow of the screen off-frame. No other light https://t.co/ek1ikyxbFh
+```
+
+### No. 1780: Gemini Omni Prompt: Bootleg Footage From A Crowded
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2084098286135459840/vid/avc1/1280x720/EOKn4v2C4XodRmYh.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084098286135459840/vid/avc1/1280x720/EOKn4v2C4XodRmYh.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Gemini Omni Prompt:
+
+Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello bef
+
+#### 提示词
+
+```text
+Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket." https://t.co/ZNkouq6uWt
+```
+
+### No. 1781: It Depends On The Goal. Chatgpt Images 2.0
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Grok
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+It depends on the goal.
+
+#### 提示词
+
+```text
+@Ditz_2002 @ChatGPT @Gemini It depends on the goal. ChatGPT Images 2.0 currently leads most independent tests for precise prompt following, complex instructions, and readable text inside images. Gemini Nano Banana excels at photorealism and natural editing. Grok Imagine is strongest for speed,
+```
+
+### No. 1782: My First Attempts In Gpt2 Were Terrible. This
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** CharisTheAI
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+My first attempts in GPT2 were terrible.
+
+#### 提示词
+
+```text
+@edizkan_ @goodvibesclub My first attempts in GPT2 were terrible.  This one is good old Nano Banana.  🤙🍌
+Great prompt!!  You continue to amaze.
+```
+
+### No. 1783: Cinema Screen Glow Portrait 🔥 Gemini Nano Banana
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Aatif J
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+Cinema Screen Glow Portrait 🔥
+
+Gemini Nano banana 2.
+
+#### 提示词
+
+```text
+Same face as reference. Same dark, forensic skin-detail aesthetic — new setting and light source.
+Scene: Subject seated alone in a dark cinema, face lit entirely by the glow of the screen off-frame. No other light https://t.co/qT0NlDgkGh
+```
+
+### No. 1784: You Could Build A Very Big Saas Business
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BowTied SaaS Guy
+- **语言:** `zh-CN`
+- **视频:** [查看]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 描述
+
+You could build a very big SaaS business with no actual UI.
+
+#### 提示词
+
+```text
+You could build a very big SaaS business with no actual UI. 
+
+1. Find valuable API feeds (more coming online (think like apify dataforseo , nano banana , AI stuff ) 
+
+2. Build pretty powerful workflows to do things 
+
+3. Sell access to the MCP that does these things . Like hey
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

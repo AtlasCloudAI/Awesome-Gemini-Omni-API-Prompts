@@ -26,7 +26,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 | 総プロンプト数 | 1784 |
 | カテゴリ数 | 8 |
 | プレビュー動画数 | 489 |
-| 最終更新 | 2026/08/03 |
+| 最終更新 | 2026/08/04 |
 
 ### 🧩 Supported Models
 

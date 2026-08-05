@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1784%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1879%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 1784 |
+| พรอมต์ทั้งหมด | 1879 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 489 |
-| อัปเดตล่าสุด | 04/08/2569 |
+| จำนวนวิดีโอตัวอย่าง | 507 |
+| อัปเดตล่าสุด | 05/08/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1682)
+### Twitter Community (1777)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -41054,6 +41054,2372 @@ You could build a very big SaaS business with no actual UI.
 2. Build pretty powerful workflows to do things 
 
 3. Sell access to the MCP that does these things . Like hey
+```
+
+### No. 1785: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+Use the uploaded reference image as the only identity reference. Preserve her exact facial identity, facial proportions, eye shape, eyebrows, nose, https://t.co/yKImj33mlw
+```
+
+### No. 1786: Google Just Turned Gemini Into A Complete Ai
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Julian Goldie SEO
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084244399282851840/vid/avc1/1280x720/oGYi9WomJ0lAfX3U.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084244399282851840/vid/avc1/1280x720/oGYi9WomJ0lAfX3U.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+GOOGLE JUST TURNED GEMINI INTO A COMPLETE AI CONTENT MACHINE.
+
+#### พรอมต์
+
+```text
+GOOGLE JUST TURNED GEMINI INTO A COMPLETE AI CONTENT MACHINE.
+
+Most people saw the updates.
+
+Almost nobody noticed what they become when you connect them together.
+
+Video:
+
+→ Google Vids now creates a digital avatar from 1 selfie + 1 voice clip
+
+→ Gemini Omni writes, generates,
+```
+
+### No. 1787: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+A high-end cinematic portrait of a stylish male model in his late 20s, sharp masculine features, defined jawline, confident expression, perfectly https://t.co/XV9vQPtvmZ
+```
+
+### No. 1788: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+Use the uploaded reference image as the only identity reference. Preserve her exact facial identity, facial proportions, eye shape, eyebrows, nose, https://t.co/x7DT9wXdc4
+```
+
+### No. 1789: Tools: Gemini Omni Prompt: Title: Cinematic Crime Drama
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** @Ralik
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tools: Gemini Omni
+
+Prompt: 
+
+Title: Cinematic Crime Drama – Counterfeit Money Printing Operation (10 Seconds)
+Create a 10-second cinematic sequence depicting a fictional underground counterfeit money
+
+#### พรอมต์
+
+```text
+Title: Cinematic Crime Drama – Counterfeit Money Printing Operation (10 Seconds)
+Create a 10-second cinematic sequence depicting a fictional underground counterfeit money operation inside an industrial warehouse. The scene should resemble a high-end
+```
+
+### No. 1790: Pro Tip For Using Nano Banana To Create
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dominik Martin
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Pro tip for using nano banana to create any visuals:
+
+Ask Claude to create a prompt for you, explain exactly what you want and Claude will spit out a super prompt for Gaminis Nano Banana.
+
+#### พรอมต์
+
+```text
+Pro tip for using nano banana to create any visuals:
+
+Ask Claude to create a prompt for you, explain exactly what you want and Claude will spit out a super prompt for Gaminis Nano Banana.
+
+The results are 10x better.
+```
+
+### No. 1791: 🎨 Ai Art &Amp; Visuals Roundup — August
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AlexAImaginator
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+🎨 AI ART &amp; VISUALS ROUNDUP — August 04, 2026
+
+1️⃣ META LAUNCHES MUSE IMAGE AND MUSE VIDEO — FIRST AI GENERATION MODELS FROM SUPERINTELLIGENCE LABS
+
+Meta has officially unveiled Muse Image and Muse
+
+#### พรอมต์
+
+```text
+🎨 AI ART &amp; VISUALS ROUNDUP — August 04, 2026
+
+1️⃣ META LAUNCHES MUSE IMAGE AND MUSE VIDEO — FIRST AI GENERATION MODELS FROM SUPERINTELLIGENCE LABS
+
+Meta has officially unveiled Muse Image and Muse Video, marking the debut of its first dedicated AI media generation models from
+```
+
+### No. 1792: Gpt Image 2 × Gemini Omni Flash Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐌
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084615059872055296/vid/avc1/1280x720/ABbl7rlHXgJab1L6.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084615059872055296/vid/avc1/1280x720/ABbl7rlHXgJab1L6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+GPT image 2 × Gemini Omni flash 
+
+Prompt - Use the uploaded storyboard as the exact reference for sequence, composition, pacing and timing.
+
+#### พรอมต์
+
+```text
+GPT image 2 × Gemini Omni flash 
+
+Prompt - Use the uploaded storyboard as the exact reference for sequence, composition, pacing and timing. Duration: 10 seconds. Aspect Ratio: 16:9. Camera: completely static front camera, no movement, zoom, pan, tilt or rotation. Environment:
+```
+
+### No. 1793: Nano Banana Create Stunning Images, Explore Ideas, And
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** katsudo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Nano Banana  
+
+Create stunning images, explore ideas, and keep your entire creative workflow in one place with 9xchat Image Studio.
+
+#### พรอมต์
+
+```text
+Nano Banana  #GeminiNanoBanana
+
+Create stunning images, explore ideas, and keep your entire creative workflow in one place with 9xchat Image Studio.
+
+No switching between apps. No losing context. Just prompt, create, refine, and ship.
+
+Every AI model. One memory. One workspace
+```
+
+### No. 1794: Catch If If You Can Gemini Nano Banana
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** simeon-sanai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Catch if if you can 
+
+Gemini nano banana pro 
+Prompt:
+{
+  "generation_directive": {
+    "identity_source": {
+      "instruction": "The uploaded reference photograph is the sole and definitive source f
+
+#### พรอมต์
+
+```text
+{
+  "generation_directive": {
+    "identity_source": {
+      "instruction": "The uploaded reference photograph is the sole and definitive source for the subject's identity",
+      "requirements": [
+        "Preserve facial https://t.co/PV8KbbFeys
+```
+
+### No. 1795: Nano Banana Pro Promotional And Cinematic Prompt📸:⤵️ Create
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Nano banana pro promotional and Cinematic Prompt📸:⤵️
+
+Create an ultra-detailed hyper-realistic beauty editorial photograph of a model interacting with an oversized skincare or beauty product container
+
+#### พรอมต์
+
+```text
+Nano banana pro promotional and Cinematic Prompt📸:⤵️
+
+Create an ultra-detailed hyper-realistic beauty editorial photograph of a model interacting with an oversized skincare or beauty product container as the main hero prop, giant product scaled dramatically larger than the
+```
+
+### No. 1796: Every Brand Should See This. Marketing Agencies Take
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** alex
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084617013037580288/vid/avc1/1920x1080/0CkvAXReqmmr7Kkw.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084617013037580288/vid/avc1/1920x1080/0CkvAXReqmmr7Kkw.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Every brand should see this.
+
+#### พรอมต์
+
+```text
+Every brand should see this.
+
+marketing agencies take weeks to answer one question:
+
+what should this brand’s ads look like?
+
+your website already answers it.
+
+Arcads’ new Ad Agent just reads the site and runs the whole thing:
+
+→ learns your brand and product story
+→ researches
+```
+
+### No. 1797: Heels And Glossy Fits ❤️ Tzuyu, Sana, Jihyo
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice Han
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Heels and glossy fits ❤️
+
+Tzuyu, Sana, Jihyo, Momo
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt ⤵️
+
+#### พรอมต์
+
+```text
+Heels and glossy fits ❤️
+
+Tzuyu, Sana, Jihyo, Momo
+
+Twice
+
+Nano Banana Pro via AI Studio, prompt ⤵️
+```
+
+### No. 1798: Gm My Friends 🌞 Let'S Go In Gotham
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+GM my friends 🌞 let's go in Gotham to fight the crime😎 Who is your favorite Batgirl?🦇
+
+Olivia Rodrigo, Megan Fox, Madison Beer, Elizabeth Olsen🔥
+👉🏻 Subscribe for more content⚡
+
+Nano Banana 2/Pro via H
+
+#### พรอมต์
+
+```text
+{
+  "prompt": "Ultra-realistic cinematic portrait of a https://t.co/X0ZfRxPdYj
+```
+
+### No. 1799: Eternal Dream In The Clouds 203 Nano Banana
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hesdof
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084613097084592128/vid/avc1/1920x1080/saxjCzyCOAnnNkFE.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084613097084592128/vid/avc1/1920x1080/saxjCzyCOAnnNkFE.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Eternal Dream in the Clouds  203
+
+Nano banana pro 2 on Gemini
+
+Video Prompt:
+16:9 aspect ratio.
+
+#### พรอมต์
+
+```text
+16:9 aspect ratio. A stunning woman seen from behind, with long wavy blonde hair. Her body is enhanced by an advanced next-generation cybernetic metal exoskeleton armor suit. The armor features a sleek https://t.co/666Cd9OF3l
+```
+
+### No. 1800: My Dream School Is Anywhere They Are! Haneul
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice Han
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+My dream school is anywhere they are!
+
+#### พรอมต์
+
+```text
+My dream school is anywhere they are!
+
+Haneul
+Julie
+Natty
+Belle
+
+Kiss of LIfe
+
+Nano Banana 2, prompt ⤵️
+```
+
+### No. 1801: An Orbital Shipyard Assembly Mech. Generated Using Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artingent
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+An orbital shipyard assembly mech.
+
+#### พรอมต์
+
+```text
+An orbital shipyard assembly mech. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1802: A Monumental Light Spire District Reimagined And Rendered
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artingent
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+A monumental light spire district reimagined and rendered in an artistic decopunk style.
+
+#### พรอมต์
+
+```text
+A monumental light spire district reimagined and rendered in an artistic decopunk style. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1803: It Was Only Greatful Till It Gave Us
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Prime Archetype / Thumbnail designer
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+it was only greatful till it gave us concepts, and a 60-70% ready thumb but now gpt and nano banana 2 are so advanced they make the whole with a single prompt man i just started this field and spent s
+
+#### พรอมต์
+
+```text
+@UzairTVisuals it was only greatful till it gave us concepts, and a 60-70% ready thumb but now gpt and nano banana 2 are so advanced they make the whole with a single prompt man i just started this field and spent so much time in learning and its so disgusting
+```
+
+### No. 1804: Whimsical Miniature World Depiction Of A Grand Restaurant
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artingent
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Whimsical miniature world depiction of a grand restaurant interior reimagined and rendered in an artistic biopunk style.
+
+#### พรอมต์
+
+```text
+Whimsical miniature world depiction of a grand restaurant interior reimagined and rendered in an artistic biopunk style. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1805: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+An ultra-realistic editorial lifestyle portrait of a stylish young woman sitting in a modern café, leaning slightly toward the camera while holding a https://t.co/zLnx3oeO20
+```
+
+### No. 1806: Seedance 2.0 For Ai Ofm Is F*Cking Insane
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** xaiofm
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084627568251092992/vid/avc1/720x1280/B61dcALemCMzWx29.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084627568251092992/vid/avc1/720x1280/B61dcALemCMzWx29.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+seedance 2.0 for AI OFM is f*cking insane &amp; the instagram algorithm is on its knees for it
+
+one still from nano banana pro.
+
+#### พรอมต์
+
+```text
+seedance 2.0 for AI OFM is f*cking insane &amp; the instagram algorithm is on its knees for it
+
+one still from nano banana pro. one prompt. 90 seconds. $0.80. full motion reel that looks like real phone footage not CGI
+
+a gooner commented "you can tell she's a real one by the way she
+```
+
+### No. 1807: Sam Altman Annonce Que La "Singularité Est Là"
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** VISION IA
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Sam Altman annonce que la "singularité est là".
+
+#### พรอมต์
+
+```text
+Sam Altman annonce que la "singularité est là". Vous savez... Certains ont l'impression que ça ralentit, mais c'est factuellement faux. En réalité, c’est nous qui nous sommes habitués, car le rythme est devenu si régulier que nous avons arrêté de mesurer les progrès quasi
+```
+
+### No. 1808: Lumina Is Truly A Great Tool For E-Commerce
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BESTOOL
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084631837541097472/vid/avc1/496x864/d389-dnxcdh-iyUT.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084631837541097472/vid/avc1/496x864/d389-dnxcdh-iyUT.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Lumina is truly a great tool for e-commerce.
+
+#### พรอมต์
+
+```text
+Lumina is truly a great tool for e-commerce. I input three images — a character headshot, a product image, and an environment image — and after running them through the configured workflow, I get a promotional video for the product. So convenient!
+
+Besides Seedream and Seedance,
+```
+
+### No. 1809: Ask Gemini Omni Flash To Recreate One Ugc
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Elara AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Ask Gemini Omni Flash to recreate one UGC video from new camera angles.
+
+#### พรอมต์
+
+```text
+@ImaStudio_ai Ask Gemini Omni Flash to recreate one UGC video from new camera angles.
+Upload the original clip.
+Then prompt the shots you need:
+→ face close-up
+→ product detail
+→ side tracking shot
+→ rear view
+→ wide establishing shot
+It keeps the same model, outfit, bag, movement, and
+```
+
+### No. 1810: Sora Is Still Alive. Even Though There Are
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIdriving
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084634900766892032/vid/avc1/1280x720/CxdbzUMIUR4m2q_4.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2084634900766892032/vid/avc1/1280x720/CxdbzUMIUR4m2q_4.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Sora is still alive.
+
+#### พรอมต์
+
+```text
+Sora is still alive.
+Even though there are many newer models now, like Gemini Omni, Seedance 2.5, or Hailuo H3, and despite all the hype and its much lower quality,
+Sora has this sort of romanticism and emotion to it that no other generator has reached.
+video&amp;music by AIDRIVING
+```
+
+### No. 1811: Recent Thumbnails I Did 🪄 Went A Bit
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Daksh | Thumbnail Strategist
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Recent thumbnails I did 🪄
+
+Went a bit into finzar style for the first one.
+
+#### พรอมต์
+
+```text
+Recent thumbnails I did 🪄
+
+Went a bit into finzar style for the first one. instantly communicates the topic after a look at the timeline, and the not ai slop is what separates it from the average video when someone looks it up
+
+For the second one, went with what i thought would
+```
+
+### No. 1812: Millie Bobby Brown - Gemini Nano Banana Pro
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Millie Bobby Brown - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title": "Ters Yüz Podyumu",
+  "vibe_title_en": "The Upside-Down Runway",
+  "hook_psychology": "Lüks moda estetiğinin, 'Stranger Things' e
+
+#### พรอมต์
+
+```text
+{
+  "vibe_title": "Ters Yüz Podyumu",
+  "vibe_title_en": "The Upside-Down Runway",
+  "hook_psychology": "Lüks moda estetiğinin, 'Stranger Things' evreninin organik çürümesi ve kaotik dokusuyla yarattığı bu sert tezat, https://t.co/4v8110jZDg
+```
+
+### No. 1813: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+Ultra-realistic photo on an iPhone without processing, vertical 9:16, three quarters each. A woman is sitting relaxed on a beige outdoor sofa against https://t.co/oZezZPcHzI
+```
+
+### No. 1814: Image-To-Video Arena のTop4を同一プロンプトでテストしてみたよ 今回はシンプルだけどあえて誤魔化しが効かない待機モーション編〜 みんなは
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** JetCapBoy
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084643097250807809/vid/avc1/1920x1080/k6cWSrbCHDcTlNHx.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084643097250807809/vid/avc1/1920x1080/k6cWSrbCHDcTlNHx.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Image-to-Video Arena のTop4を同一プロンプトでテストしてみたよ
+今回はシンプルだけどあえて誤魔化しが効かない待機モーション編〜
+みんなはどのモデルがいいと思います？
+
+#### พรอมต์
+
+```text
+Image-to-Video Arena のTop4を同一プロンプトでテストしてみたよ
+今回はシンプルだけどあえて誤魔化しが効かない待機モーション編〜
+みんなはどのモデルがいいと思います？
+1. Seedance2.0
+2. MiniMax H3
+3. Grok Imagen Video1.5
+4. Gemini Omni Flash
+```
+
+### No. 1815: I Made A Romantic Yacht Commercial With Zero
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AI펄스
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084645912920653824/vid/avc1/720x1280/6f-15Mwy7rsjuIr4.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084645912920653824/vid/avc1/720x1280/6f-15Mwy7rsjuIr4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+I made a romantic yacht commercial 
+with zero filming.
+
+#### พรอมต์
+
+```text
+I made a romantic yacht commercial 
+with zero filming.
+
+No camera. No cast. No studio.
+
+My AI production team
+
+Claude (direction) · Nano Banana Pro + ChatGPT (images) · Seedance 2.0 (video) · Suno (music).
+```
+
+### No. 1816: Every Seat Becomes The Best Seat When The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glena jenner
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Every seat becomes the best seat when the look is this good.
+
+#### พรอมต์
+
+```text
+Every seat becomes the best seat when the look is this good. ✨
+
+❤️ Jenna Ortega
+💛 Millie Bobby Brown
+🩷 Madison Beer
+🧡 Scarlett Johansson
+
+Nano banana pro prompt below
+```
+
+### No. 1817: 5 Providers = 5 Accounts, 5 Api Keys
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Orlando international
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+5 providers = 5 accounts, 5 API keys, 5 dashboards, 5 invoices.
+
+#### พรอมต์
+
+```text
+5 providers = 5 accounts, 5 API keys, 5 dashboards, 5 invoices.
+
+Prizm = 1 key for all of them. Veo, Kling, Seedance, Nano Banana, ElevenLabs.
+
+Load a balance once and generate video, images, and voice from the same place.
+```
+
+### No. 1818: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+Use the uploaded reference image as the only identity reference. Preserve her exact facial identity, facial proportions, eye shape, eyebrows, nose, lips, https://t.co/WEPa0lQtcd
+```
+
+### No. 1819: "Stacks On Repeat" – Ai Music Video Full
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Marco
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084656294313488384/vid/avc1/1280x720/cgjO5n6G4ngPTKb_.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084656294313488384/vid/avc1/1280x720/cgjO5n6G4ngPTKb_.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+"Stacks on Repeat" – AI Music Video
+
+FULL 2.5min track below!
+
+#### พรอมต์
+
+```text
+"Stacks on Repeat" – AI Music Video
+
+FULL 2.5min track below! Hailuo COOKED with H3!!
+
+// Image: Nano Banana Pro / GPT-2
+// Video: Hailuo AI H3
+// Sound: Suno AI
+// Edit: CapCut
+// Art Direction: ai_artworkgen (me!)
+
+I'd love to hear what you guys think in the comments. 
+Also if
+```
+
+### No. 1820: I Use Midjourney + Advanced Prompt Image 2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Paweł Padykuła Visuals • Art & Motion 🎨 🎞️
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+I use Midjourney + advanced prompt image 2 video In Gemini Omni = 👏✨️
+
+#### พรอมต์
+
+```text
+@DrSadek_ I use Midjourney + advanced prompt image 2 video In Gemini Omni = 👏✨️
+```
+
+### No. 1821: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+High-end fashion editorial photography using image reference for face structure. Extreme profile close-up of a woman looking up with striking, vivid https://t.co/wGM8HszHRQ
+```
+
+### No. 1822: Luxurious Lifestyle 🔥 Image On Google Gemini Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ozair AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Luxurious lifestyle 🔥
+
+Image on Google gemini nano banana 2.
+
+#### พรอมต์
+
+```text
+Use the exact same face from the reference image and generate a breathtakingly realistic luxurious palace rooftop portrait — the kind of image that looks like it was actually shot on location at a historic https://t.co/t4VMnT5uOq
+```
+
+### No. 1823: Me And The Beautiful Cafe 🍸 Google Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glowecho
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Me and the beautiful Cafe 🍸
+
+Google Nano Banana 2
+
+Prompt:
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long dark wavy hair, a soft pink rose flower tucked
+
+#### พรอมต์
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long dark wavy hair, a soft pink rose flower tucked behind one ear, expressive dark eyes with subtle makeup, full lips with soft https://t.co/JP489g2rJ8
+```
+
+### No. 1824: Are You Following Them? Lisa, Jisoo, Jennie, Rosé
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice Han
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Are you following them?
+
+#### พรอมต์
+
+```text
+Are you following them?
+
+Lisa, Jisoo, Jennie, Rosé
+
+Blackpink
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 1825: Ai Locomotive Duel Nano Banana Pro Vs Seedream
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Space Rocker
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+AI Locomotive Duel
+
+Nano Banana Pro vs Seedream 5 Pro 
+Which one do you prefer?
+
+#### พรอมต์
+
+```text
+AI Locomotive Duel
+
+Nano Banana Pro vs Seedream 5 Pro 
+Which one do you prefer? 
+Prompt in the reply.
+```
+
+### No. 1826: Artingentさんの作品です A Monumental Light Spire District Reimagined And
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** sayobonita
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Artingentさんの作品です
+
+
+A monumental light spire district reimagined and rendered in an artistic decopunk style.
+
+#### พรอมต์
+
+```text
+Artingentさんの作品です
+@artingent→Prompt
+
+A monumental light spire district reimagined and rendered in an artistic decopunk style. Generated using Nano banana pro. Prompt in the first reply.
+```
+
+### No. 1827: The Last Light Of The Day And A
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Viki
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+The last light of the day  
+and a quiet moment that feels endless.
+
+#### พรอมต์
+
+```text
+The last light of the day  
+and a quiet moment that feels endless.
+
+Model: Nano Banana 2 and Seedream V5 pro
+
+Prompt 1:
+A serene, dreamlike landscape featuring a large glowing sun low on the horizon, casting a warm red and pink hue across the sky and water. On the left, tall
+```
+
+### No. 1828: Exact Prompt Not Shared Publicly. Reconstructed Json Matching
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Grok
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Exact prompt not shared publicly.
+
+#### พรอมต์
+
+```text
+@CelebNudesXXX @faheemcho Exact prompt not shared publicly. Reconstructed JSON matching the Nano Banana Pro images:
+
+{"subjects":["Sabrina Carpenter purple","Jenna Ortega gold","Millie Bobby Brown red","Madison Beer pink"],"outfit":"short sparkly chainmail mesh mini dress, deep backless, chain straps,
+```
+
+### No. 1829: Introducing Globalgpt Your All-In-One Ai Workspace 👉 Chat
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084676926481027072/vid/avc1/1280x720/o48YtL7ZoDt3L78x.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2084676926481027072/vid/avc1/1280x720/o48YtL7ZoDt3L78x.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Introducing GlobalGPT  Your all-in-one AI workspace
+
+👉 
+
+Chat →  GPT-5.6, Gemini 3.6 Flash, Claude Fable 5...
+
+#### พรอมต์
+
+```text
+Introducing GlobalGPT @GlbGPT: Your all-in-one AI workspace
+
+👉 
+
+Chat →  GPT-5.6, Gemini 3.6 Flash, Claude Fable 5...
+AI image → GPT-IMAGE-2, Nano Banana 2...
+AI video → Seedance 2.0, Grok Imagine video 1.5, Sora 2, Kling 3.0...
+AI audio → Eleven Lab
+```
+
+### No. 1830: ① Open Gpt Image 2/ Nano Banana Pro/
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Tajammal Hussain
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+① Open GPT Image 2/ Nano Banana pro/ Gemeni / Grok 
+② Add your image
+③ Paste the prompt
+④ Create the result⤵️
+Use the uploaded image as the only facial reference and preserve 100% facial identity, hai
+
+#### พรอมต์
+
+```text
+① Open GPT Image 2/ Nano Banana pro/ Gemeni / Grok 
+② Add your image
+③ Paste the prompt
+④ Create the result⤵️
+Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin textur
+```
+
+### No. 1831: 🍌Let’S Share More Bananas. 😁 Here’S A Little
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** TischEins
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+🍌Let’s share more bananas.
+
+#### พรอมต์
+
+```text
+🍌Let’s share more bananas. 😁 Here’s a little prompt to play around with in Nano Banana. Fill the words in [WITH YOURE WORDS].
+
+➡️Create a hyper-detailed black-and-white typographic portrait of the man in [YOURE IMAGE]. Build the entire face exclusively from bold motivational
+```
+
+### No. 1832: 🍌Let’S Share More Bananas. 😁 Here’S A Little
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** TischEins
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+🍌Let’s share more bananas.
+
+#### พรอมต์
+
+```text
+🍌Let’s share more bananas. 😁 Here’s a little prompt to play around with in Nano Banana. Fill the words in [WITH YOURE WORDS].
+
+➡️Create a hyper-detailed black-and-white typographic portrait of the [MAN, WOMAN, ANIMAL] in [YOURE IMAGE]. Build the entire face exclusively from
+```
+
+### No. 1833: Bug Life [第77弾 / 最新] オリジナル楽曲「Bug Life」です。 90年代ブーンバップ（Boom
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ⭐️けい
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Bug Life
+
+[第77弾 / 最新]  オリジナル楽曲「Bug Life」です。
+
+#### พรอมต์
+
+```text
+Bug Life
+
+[第77弾 / 最新]  オリジナル楽曲「Bug Life」です。  90年代ブーンバップ（Boom
+```
+
+### No. 1834: Seedance 2.5 Vs Minimax H3 Vs Grok Imagine
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** thehype.
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084696462890311680/vid/avc1/1440x1080/aOF1x5GqVyEr8DPc.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084696462890311680/vid/avc1/1440x1080/aOF1x5GqVyEr8DPc.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+seedance 2.5 vs minimax h3 vs grok imagine 1.5 vs gemini omni
+
+three scenes, 30 seconds each, all are inspired by legendary movie moments — can you guess all three of them?
+
+#### พรอมต์
+
+```text
+seedance 2.5 vs minimax h3 vs grok imagine 1.5 vs gemini omni
+
+three scenes, 30 seconds each, all are inspired by legendary movie moments — can you guess all three of them?
+
+• two duelists with energy blades on a platform above molten metal
+• a soldier sprinting through a
+```
+
+### No. 1835: Simply Upload Your Photo To Chatgpt 2.0, Nano
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** M. Asif
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Simply upload your photo to ChatGPT 2.0, Nano Banana, or another AI image generator, and paste the prompt below.
+
+#### พรอมต์
+
+```text
+Use the uploaded reference image as the only identity reference. Preserve her exact facial identity, facial proportions, eye shape, eyebrows, nose, https://t.co/h0DIUAeQZ8
+```
+
+### No. 1836: So I Left A 3Rd Leg In This
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Glenn Williams
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084702395078971392/vid/avc1/886x1920/6G-f8oVUPUKtCR1m.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084702395078971392/vid/avc1/886x1920/6G-f8oVUPUKtCR1m.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+So I left a 3rd leg in this video so I could show you how I edit my videos with  Aleph 2.0.
+
+#### พรอมต์
+
+```text
+So I left a 3rd leg in this video so I could show you how I edit my videos with @runwayml Aleph 2.0.
+
+For this I'm in my mobile browser, I prefer to work in there when I'm not at my PC.
+
+I start by selecting the earliest keyframe with the extra leg, and use Nano Banana to edit
+```
+
+### No. 1837: Cozy Never Looked This Good 🤍 Elizabeth Olsen
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** William AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cozy never looked this good 🤍
+
+Elizabeth Olsen 😍
+
+Nano Banana Pro 🍌 
+
+Prompt:
+{
+  "aspect_ratio": "4:5",
+"image_reference": "1000032040.jpg",
+  "subject": {
+    "ethnicity": "American woman",
+    "hai
+
+#### พรอมต์
+
+```text
+{
+  "aspect_ratio": "4:5",
+"image_reference": "1000032040.jpg",
+  "subject": {
+    "ethnicity": "American woman",
+    "hair": "Dark, shoulder-length, wavy, relaxed styling",
+    "appearance": https://t.co/7PWBrNHk6j
+```
+
+### No. 1838: Images Created On Nano Banana Pro🍌🍌 Save It
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompts
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Images created on Nano Banana Pro🍌🍌 Save it for yourself and take cool photos
+
+Upload photo of yourself and add Prompt:👇👇👇👇👇
+
+Subject: A charming late-20s man.
+
+#### พรอมต์
+
+```text
+👇👇👇👇👇
+
+Subject: A charming late-20s man. Clothing: Short-sleeve patterned silk shirt (geometric print), tailored cream-colored trousers. Footwear: Clean https://t.co/iIFcQQ8MQ8
+```
+
+### No. 1839: Here’S A Video Showing The Process Of Making
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Cortney Harrington
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084709387869020160/vid/avc1/1920x1080/TAgj87ZFsorG3Dzv.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084709387869020160/vid/avc1/1920x1080/TAgj87ZFsorG3Dzv.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Here’s a video showing the process of making the Chongqing chase with the video agent in CineLeopard Production Planner.
+
+#### พรอมต์
+
+```text
+Here’s a video showing the process of making the Chongqing chase with the video agent in CineLeopard Production Planner. I used Grok 4.5 for planning, Nano Banana Pro for images, and Grok Imagine 1.5 for video.
+
+Get CineLeopard Production Planner:
+```
+
+### No. 1840: Amanda Seyfried - Gemini Nano Banana Pro Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** timedoctor.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Amanda Seyfried - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title_en": "Velvet Panic",
+  "master_prompt": "A hyper-realistic, medium-format editorial portrait of The Protagonist situated in a conceptu
+
+#### พรอมต์
+
+```text
+{
+  "vibe_title_en": "Velvet Panic",
+  "master_prompt": "A hyper-realistic, medium-format editorial portrait of The Protagonist situated in a conceptual 'Soundproof Chamber' entirely upholstered in thick, deep yellow velvet. The https://t.co/mP9g9tv2vM
+```
+
+### No. 1841: Keep The Sheet Boring On Purpose. Neutral Grey
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PJ Ace
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Keep the sheet boring on purpose.
+
+#### พรอมต์
+
+```text
+Keep the sheet boring on purpose.
+
+Neutral grey background. Flat light. Real skin with visible pores, no retouch. The cinema look does not live in the character sheet — it lives in the locations and in the video prompts. If you bake film grain and cinematic lenses into the sheet,
+```
+
+### No. 1842: Generate Locations For Your Future Camera Angles. A
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PJ Ace
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate locations for your future camera angles.
+
+#### พรอมต์
+
+```text
+Generate locations for your future camera angles.
+
+A frontal "pretty picture" of a room becomes flat wallpaper on wide shots. 
+
+And when the camera looks past its edges, the model invents new surroundings — different ones every time. What works is a 3/4 view of the location: the
+```
+
+### No. 1843: Realistic Embossing Logo In Nano Banana Prompt⬇️
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Viktor Poletaev
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+realistic embossing logo in Nano Banana
+
+prompt⬇️
+
+#### พรอมต์
+
+```text
+realistic embossing logo in Nano Banana
+
+prompt⬇️
+```
+
+### No. 1844: Hiring Alert! My Clients Are Looking For: 1
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Coinmachine
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+HIRING ALERT!
+
+#### พรอมต์
+
+```text
+HIRING ALERT!
+
+My clients are looking for:
+1- A Frontend dev / next.js / React
+
+2- An AI video producer / Grok / Nano banana → Google Veo 3 → Davinci Resolve
+
+If you are really good, apply in DM
+```
+
+### No. 1845: Let’S Go To A Costume Party With Uniform
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KeorUnreal
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Let’s go to a costume party with uniform tonight 👮🏻Who wants to join!?😏
+Good night, sleep well🌟
+
+Sophie Rain, Keeley Hazell, Kylie Jenner🔥
+👉🏻Subscribe for more content⚡️
+
+Nano Banana 2 via Hailuo AI
+P
+
+#### พรอมต์
+
+```text
+An intimate private vehicle cabin gliding through the nocturnal city https://t.co/9eCQ0fzz9F https://t.co/wu47DSxrmP
+```
+
+### No. 1846: Huge! This Is The Best Video Model That
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dev Sharma
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Huge!
+
+#### พรอมต์
+
+```text
+Huge! This is the best video model that people can really own and work with. It matches Gemini Omni in performance, endlessly customisable and going to be open weights too. 
+
+American 🇺🇸 open source for the win.
+```
+
+### No. 1847: Creative Workflow / Nano Banana I Built A
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Amira Zairi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Creative Workflow / Nano Banana
+
+I built a reusable Nano Banana prompt that turns logos into realistic engraved horseshoes while keeping every generation clean and consistent
+
+Prompt below
+
+#### พรอมต์
+
+```text
+Creative Workflow / Nano Banana
+
+I built a reusable Nano Banana prompt that turns logos into realistic engraved horseshoes while keeping every generation clean and consistent
+
+Prompt below
+```
+
+### No. 1848: Um Vídeo De Ia Feito Pelo Nano Banana
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Concierge do porão...
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Um vídeo de IA feito pelo nano banana q qq assinatura de 90 reais faz.
+
+#### พรอมต์
+
+```text
+Um vídeo de IA feito pelo nano banana q qq assinatura de 90 reais faz. Tão economizando bastante hein?
+```
+
+### No. 1849: 10 Github Repos That Will Save You Thousands
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** m0h
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+10 GITHUB REPOS THAT WILL SAVE YOU THOUSANDS IN SAAS SUBSCRIPTIONS.
+
+#### พรอมต์
+
+```text
+10 GITHUB REPOS THAT WILL SAVE YOU THOUSANDS IN SAAS SUBSCRIPTIONS.
+
+all completely free and open-source. every one of them replaces a tool people are paying monthly for right now.
+
+bookmark this for later.
+
+1️⃣ palmier pro (palmier-io/palmier-pro) ⭐ 13k
+
+swift-native mac video
+```
+
+### No. 1850: Ai Image Generation With Google Nano Banana Pro
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Oxim
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+AI Image Generation with Google Nano Banana Pro
+
+Tittle : Night Club
+
+Prompt Below
+
+#### พรอมต์
+
+```text
+AI Image Generation with Google Nano Banana Pro
+
+Tittle : Night Club
+
+Prompt Below
+```
+
+### No. 1851: Ocean Breeze, Golden Skin, And Island State Of
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Natty Windstorm
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Ocean breeze, golden skin, and island state of mind.
+
+#### พรอมต์
+
+```text
+{
+  "prompt": "Ultra-realistic luxury tropical beach fashion editorial portrait of a young woman with long https://t.co/chCDdzIU67
+```
+
+### No. 1852: Chasing Sunsets Where The Ocean Meets Forever. 🌅🌊✨
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dockie
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Chasing sunsets where the ocean meets forever.
+
+#### พรอมต์
+
+```text
+{
+  "prompt": "Ultra-realistic luxury tropical sunset editorial portrait of a young platinum-blonde woman with https://t.co/nf4YPSaK35
+```
+
+### No. 1853: Pretty With A Dangerous Side Effect 💜⛓️ Made
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Miz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+pretty with a dangerous side effect 💜⛓️ 
+
+made with  Nano Banana Pro🫣
+
+Try this prompt:
+
+{
+  "prompt": "Create a hyper-realistic vertical fashion portrait of an adult woman posing inside a dark underg
+
+#### พรอมต์
+
+```text
+{
+  "prompt": "Create a hyper-realistic vertical fashion portrait of an adult woman posing inside a dark underground parking garage illuminated by vivid purple, https://t.co/r1OHOMbXH4
+```
+
+### No. 1854: Jenna Ortega Different Breed... Gemini Nano Banana Pro
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AI Society
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Jenna Ortega Different Breed...
+
+#### พรอมต์
+
+```text
+Jenna Ortega Different Breed...
+
+Gemini Nano Banana Pro Prompt Below👇
+```
+
+### No. 1855: The Attached Promotional Video Features A Person Gesturing
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** freesoul.base.eth
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+The attached promotional video features a person gesturing with on-screen text overlays announcing “Gemini Omni is Free!” to drive engagement and user-generated content sharing in replies.
+
+#### พรอมต์
+
+```text
+@GeminiApp The attached promotional video features a person gesturing with on-screen text overlays announcing “Gemini Omni is Free!” to drive engagement and user-generated content sharing in replies.
+```
+
+### No. 1856: Arena Is Getting Dog Shit For Video Stuff…
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** mesmer
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Arena is getting dog shit for video stuff… like text they were already really bad at..
+
+#### พรอมต์
+
+```text
+Arena is getting dog shit for video stuff… like text they were already really bad at.. how are they even at 100m ARR
+
+actual leaderboard is like see dance, Gemini omni, veo 3.1, h3, grok 1.5, veo 3.1 fast and rest is unusable
+```
+
+### No. 1857: A Bit Of A Windy Day! Kazuha, Sakura
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice Han
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+A bit of a windy day!
+
+#### พรอมต์
+
+```text
+A bit of a windy day!
+
+Kazuha, Sakura, Chaewon, Yunjin
+
+Le Sserafim
+
+Nano Banana Pro via AI Studio, prompt ⤵️
+```
+
+### No. 1858: Minimax H3 By Is 2Nd Overall On Video
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Design Arena
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+MiniMax H3 by  is 2nd overall on Video Arena with an Elo of 1325.
+
+#### พรอมต์
+
+```text
+MiniMax H3 by @MiniMax_AI is 2nd overall on Video Arena with an Elo of 1325.
+
+This is a 209 Elo increase from @MiniMax_AI’s previous video model, MiniMax Hailuo-2.3 (Pro), putting them behind Gemini Omni Flash by @GoogleDeepMind and ahead of Seedance 2.0 Mini by @BytePlusGlobal.
+```
+
+### No. 1859: Gemini Omni Te Deja Crear 10 Videos Gratis
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maximiliano Firtman
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Gemini Omni te deja crear 10 videos gratis hasta hoy a la medianoche de California; parece una respuesta a la viralización de videos hechos con nuevos modelos abiertos de video.
+
+#### พรอมต์
+
+```text
+Gemini Omni te deja crear 10 videos gratis hasta hoy a la medianoche de California; parece una respuesta a la viralización de videos hechos con nuevos modelos abiertos de video.
+```
+
+### No. 1860: The Complete Workflow Behind Building, Scaling, And Monetizing
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Capital Atlas
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+The complete workflow behind building, scaling, and monetizing a consistent AI personality.
+
+#### พรอมต์
+
+```text
+The complete workflow behind building, scaling, and monetizing a consistent AI personality.
+```
+
+### No. 1861: These Are Ai-Generated Story Shorts Common In 2026
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Grok
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+These are AI-generated story shorts common in 2026.
+
+#### พรอมต์
+
+```text
+@WilliamSpecter @Aesthetic_Misss These are AI-generated story shorts common in 2026.
+
+Workflow:
+1. Script scenes + character details in ChatGPT.
+2. Generate consistent fruit character reference images (Google Flow/Nano Banana or similar).
+3. Animate with Kling 3.0 Omni (upload refs as Elements for identity lock)
+```
+
+### No. 1862: Had Another Go With Gemini Omni. Still Failed
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Wombat
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084785008804577282/vid/avc1/720x1280/lODgZfQ_9nCYuwDt.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2084785008804577282/vid/avc1/720x1280/lODgZfQ_9nCYuwDt.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Had another go with Gemini Omni.
+
+#### พรอมต์
+
+```text
+Had another go with Gemini Omni. Still failed. You can see him "pop" from one form to another. Explicit instruction to keep his form consistent didn't work. Also, the content of that glass seems to be literally spirits. #AIfail
+
+#1: Starting image
+#2: Video
+#3: Isolated frames
+```
+
+### No. 1863: Who'S Winning The Jackpot??? Minnie, Miyeon, Soyeon, Yuqi
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice Han
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Who's winning the jackpot???
+
+#### พรอมต์
+
+```text
+Who's winning the jackpot???
+
+Minnie, Miyeon, Soyeon, Yuqi
+
+I-dle
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 1864: [Nano Banana 2 Prompt] | Ar 9:16 4K
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Feyber | AI Creator
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+[Nano Banana 2 Prompt] | ar 9:16 4K 
+Created on   
+
+Mermaid in Stair
+
+A beautiful young East Asian woman with long straight black hair and neat bangs, fair porcelain skin, delicate facial features, la
+
+#### พรอมต์
+
+```text
+[Nano Banana 2 Prompt] | ar 9:16 4K 
+Created on @TopviewAIhq @topviewaijp #Topview
+
+Mermaid in Stair
+
+A beautiful young East Asian woman with long straight black hair and neat bangs, fair porcelain skin, delicate facial features, large expressive eyes with soft makeup, and full
+```
+
+### No. 1865: เมื่อวาน Update Ai Model Commercial Prompter ที่เทรนมากับมือ เลยลองเทสระบบสักหน่
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ข้าวมันกุ๊ก | GYU
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+เมื่อวาน update AI model commercial prompter ที่เทรนมากับมือ เลยลองเทสระบบสักหน่อย ผลออกมาคือ AI ฉันเรียบร้อยมาก ลอง Prompt แบบลวกๆ ละให้นางขยายความต่อ ผมออกมาเป็นแบบนี้ จาก Prompt เดียวกัน
+ซ้าย Nano 
+
+#### พรอมต์
+
+```text
+เมื่อวาน update AI model commercial prompter ที่เทรนมากับมือ เลยลองเทสระบบสักหน่อย ผลออกมาคือ AI ฉันเรียบร้อยมาก ลอง Prompt แบบลวกๆ ละให้นางขยายความต่อ ผมออกมาเป็นแบบนี้ จาก Prompt เดียวกัน
+ซ้าย Nano banana 2
+ขวา ChatGPT 2
+Scene Kallang stadium swimming pool, 🇸🇬
+```
+
+### No. 1866: With Nano Banana 2 Using And My Custom
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Heather Green
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+with Nano Banana 2 using  and my custom style:  Link will open Magnific's ai generator and load my style for you.
+
+#### พรอมต์
+
+```text
+a delicate fairy with iridescent butterfly wings, glowing softly with magical light, hovering in an enchanted https://t.co/f7YbdrYJZC
+```
+
+### No. 1867: Ready For A Workout, Or Just A Photo?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice Han
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Ready for a workout, or just a photo?
+
+#### พรอมต์
+
+```text
+Ready for a workout, or just a photo?
+
+Jennie, Rose, Lisa, Jisoo
+
+Blackpink
+
+Nano Banana 2, prompt ⬇
+```
+
+### No. 1868: Eternal Dream In The Clouds 205 Nano Banana
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hesdof
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084808590603546624/vid/avc1/720x1280/lAxNOWsz738wT5Zu.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084808590603546624/vid/avc1/720x1280/lAxNOWsz738wT5Zu.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Eternal Dream in the Clouds  205
+
+   Nano banana pro 2 on Gemini
+
+A cinematic 9-second fantasy video.
+
+#### พรอมต์
+
+```text
+Eternal Dream in the Clouds  205
+
+   Nano banana pro 2 on Gemini
+
+A cinematic 9-second fantasy video. A majestic blue dragon with detailed scales, beige underbelly, curved horns and large bat-like wings stands in the shallow water of a misty mountain lake surrounded by pine
+```
+
+### No. 1869: 🌸 Take The Prompt &Amp; Tweak It. ↓
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** king jomo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+🌸 Take The Prompt &amp; Tweak It.
+
+#### พรอมต์
+
+```text
+🌸 Take The Prompt &amp; Tweak It.  ↓   
+🌅(ChatGPT Image 2/Grok AI / Gemini Nano Banana Prompt Free)   
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #xart #ttpti #prompt #ai    ------   
+
+Contemporary neo-Japanese
+```
+
+### No. 1870: 🌸 Take The Prompt &Amp; Tweak It. ↓
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** king jomo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+🌸 Take The Prompt &amp; Tweak It.
+
+#### พรอมต์
+
+```text
+🌸 Take The Prompt &amp; Tweak It.  ↓   
+🌅(ChatGPT Image 2/Grok AI / Gemini Nano Banana Prompt Free)   
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #xart #ttpti #prompt #ai    
+
+------   
+
+Contemporary
+```
+
+### No. 1871: ❛ As A Woman In A World That
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** king jomo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+❛ as a woman in a world that tells you what you should be or do, in that chaos you should find solace.
+
+#### พรอมต์
+
+```text
+❛ as a woman in a world that tells you what you should be or do, in that chaos you should find solace. anything for your calm ❜  
+
+-----
+PROMPT IN ALT &amp; COMMENT. 
+-----
+🌸 Take The Prompt &amp; Tweak It.  ↓   
+
+🌅(ChatGPT Image 2/Grok AI / Gemini Nano Banana Prompt Free)   
+
+#AI
+```
+
+### No. 1872: Meow. 😻🐾 ---------------------------------- Prompt In Alt &Amp; Comment
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** king jomo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+meow.
+
+#### พรอมต์
+
+```text
+meow. 😻🐾
+
+----------------------------------  
+PROMPT IN ALT &amp; COMMENT.  ----------------------------------  
+🌸 Take The Prompt &amp; Tweak It.  ↓    ----------------------------------  
+🌅(ChatGPT Image 2/Grok AI / Gemini Nano Banana Prompt Free)
+```
+
+### No. 1873: Video Down 15-21%. Nano Banana 2 Lite Down
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** reapi
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Video down 15-21%.
+
+#### พรอมต์
+
+```text
+Video down 15-21%. Nano Banana 2 Lite down 25%. Seedream 5.0 Pro 2K down 30%.
+
+Full list inside — every tier, not a "starting from" teaser. Video bills per second, failed generations refunded.
+```
+
+### No. 1874: Heyyy. 🤍 ---------------------------------- Prompt In Alt &Amp; Comment
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** king jomo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+heyyy.
+
+#### พรอมต์
+
+```text
+heyyy. 🤍
+
+----------------------------------  
+PROMPT IN ALT &amp; COMMENT. 
+----------------------------------  
+🌸 Take The Prompt &amp; Tweak It.  ↓    
+----------------------------------  
+🌅(ChatGPT Image 2/Grok AI / Gemini Nano Banana Prompt Free)
+```
+
+### No. 1875: Nano Banana Pro Promotional And Cinematic Prompt ⤵️
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Maddox
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+Your favorite celebrity… reimagined as a luxury caricature.
+
+#### พรอมต์
+
+```text
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+Your favorite celebrity… reimagined as a luxury caricature.
+Just the right amount of exaggeration to make the face unforgettable.
+
+Copy the prompt, replace the brackets, and test it 👇
+Realistic premium caricature portrait of
+```
+
+### No. 1876: 💭 Elegance In Deep Blue Shadows. 🤍
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** king jomo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+💭 Elegance in deep blue shadows.
+
+#### พรอมต์
+
+```text
+💭 Elegance in deep blue shadows. 🤍 
+
+.
+
+.
+
+💛🩷💜🧡
+----------------------------------  
+PROMPT IN ALT &amp; COMMENT.  ----------------------------------  
+🌸 Take The Prompt &amp; Tweak It.  ↓    
+----------------------------------  
+🌅(ChatGPT Image 2/Grok AI / Gemini 
+Nano Banana
+```
+
+### No. 1877: Ai Influencer Yapping Reels Are The Most Broken
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** xaiofm
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084822717803397120/vid/avc1/720x1280/9gBRthYk4F5KKeWg.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084822717803397120/vid/avc1/720x1280/9gBRthYk4F5KKeWg.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+AI influencer yapping reels are the most broken format on instagram right now
+
+one still from nano banana pro.
+
+#### พรอมต์
+
+```text
+AI influencer yapping reels are the most broken format on instagram right now
+
+one still from nano banana pro. one prompt into seedance 2.0. 90 seconds. full reel. no editing
+
+a girl answering "what's your body count" in a parked car &amp; it looks like she filmed it on her iphone
+```
+
+### No. 1878: Minimax H3 在 Video Arena 整体排名第二，Elo 分数为 1325。
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** FeiZ
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+MiniMax H3 在 Video Arena 整体排名第二，Elo 分数为 1325。
+
+#### พรอมต์
+
+```text
+@MiniMax_AI  MiniMax H3 在 Video Arena 整体排名第二，Elo 分数为 1325。  
+
+这是@MiniMax_AI 之前视频模型 MiniMax Hailuo-2.3 (Pro) 的 Elo 分数提高了 209 分，使其落后于@GoogleDeepMind 的 Gemini Omni Flash，但领先于@BytePlusGlobal 的 Seedance 2.0
+```
+
+### No. 1879: Gemini Omni Works Farr Better Than Seedance Model
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Masudul hasan Ishan
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2084833704946659328/vid/avc1/1280x720/CJkKssXQmnof0LxG.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2084833704946659328/vid/avc1/1280x720/CJkKssXQmnof0LxG.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Gemini Omni works Farr better than seedance model 
+But i made this together for making this.
+
+#### พรอมต์
+
+```text
+Gemini Omni works Farr better than seedance model 
+But i made this together for making this. Should I try something different prompt in seedance 2.5
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

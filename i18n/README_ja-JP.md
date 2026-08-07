@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1970%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2056%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 1970 |
+| 総プロンプト数 | 2056 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 522 |
-| 最終更新 | 2026/08/06 |
+| プレビュー動画数 | 546 |
+| 最終更新 | 2026/08/07 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (1868)
+### Twitter Community (1954)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -45696,6 +45696,2221 @@ Karina
 Ningning
 
 Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 1971: Fueling Up Before I Put This City In
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Fueling up before I put this city in order ☕️🕷️🏙️
+
+🕸️ Emma Stone, Kirsten Dunst and Sadie Sink
+
+(Generated with Nano Banana 2 🍌 in Google Flow)
+
+Prompt ⤵️
+
+{
+  "type": "image_prompt",
+  "description":
+
+#### プロンプト
+
+```text
+Fueling up before I put this city in order ☕️🕷️🏙️
+
+🕸️ Emma Stone, Kirsten Dunst and Sadie Sink
+
+(Generated with Nano Banana 2 🍌 in Google Flow)
+
+Prompt ⤵️
+
+{
+  "type": "image_prompt",
+  "description": {
+    "subject": {
+      "main": "[NAME] as Spider-Woman.",
+```
+
+### No. 1972: Google Offers Several Powerful Ai Tools For Free
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Rakib Hossen
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google offers several powerful AI tools for free.
+
+#### プロンプト
+
+```text
+Google offers several powerful AI tools for free.
+
+They’re useful for professionals, creators, and businesses trying to use AI.
+
+From content to visuals to coding, they simplify how you work and enhance your creativity.
+
+Here are 11 free AI tools from Google (and how to use
+```
+
+### No. 1973: 【Aiが動画制作を自動で行う神Skills：10選】 ・Video-Shotcraft：Remotionでシネマティックな商品動画を作る。ショットのレシピカード
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI駆動塾
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085330042310082663.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085330042310082663.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+【AIが動画制作を自動で行う神Skills：10選】
+
+・video-shotcraft：Remotionでシネマティックな商品動画を作る。ショットのレシピカード106枚、モーションプレビュー161本、そのまま使えるテンプレート付き（3,626スター、Apache-2.0）
+
+#### プロンプト
+
+```text
+【AIが動画制作を自動で行う神Skills：10選】
+
+・video-shotcraft：Remotionでシネマティックな商品動画を作る。ショットのレシピカード106枚、モーションプレビュー161本、そのまま使えるテンプレート付き（3,626スター、Apache-2.0）
+```
+
+### No. 1974: Introducing Globalgpt Your All-In-One Ai Workspace 👉 Chat
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Prem
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085331237166809401.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085331237166809401.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Introducing GlobalGPT  Your all-in-one AI workspace
+
+👉 
+
+Chat → GPT-5.6, Gemini 3.6 Flash, Claude Fable 5...
+
+#### プロンプト
+
+```text
+Introducing GlobalGPT @GlbGPT: Your all-in-one AI workspace
+
+👉 
+
+Chat → GPT-5.6, Gemini 3.6 Flash, Claude Fable 5...
+AI image → GPT-IMAGE-2, Nano Banana 2...
+AI video → Seedance 2.0, Grok Imagine video 1.5, Sora 2, Kling 3.0...
+AI audio → Eleven Lab
+AI
+```
+
+### No. 1975: Il Tuo Volto Diventa Un Presentatore Digitale. Google
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** IntelligenzaArtificiale.net
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Il tuo volto diventa un presentatore digitale.
+
+#### プロンプト
+
+```text
+Il tuo volto diventa un presentatore digitale.
+Google porta gli avatar personali e Gemini Omni dentro Google Vids: da un selfie e una breve registrazione vocale nasce un video, senza girare nulla.
+
+#IntelligenzaArtificiale #Google #AI
+```
+
+### No. 1976: • It Supports Multiple Ai Models Including Grok
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Oluwaseun Abigail
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+• It supports multiple AI models including Grok, Qwen, Nano Banana, Flux, SeaDream, and more.
+
+#### プロンプト
+
+```text
+• It supports multiple AI models including Grok, Qwen, Nano Banana, Flux, SeaDream, and more.
+• On mobile, it works best when you switch your browser to Desktop Mode.
+
+I haven't tested the video generation yet, but I'll share my review once I do.
+```
+
+### No. 1977: This Prompt Makes Really Cool And Beautiful Photo
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+This prompt makes really cool and beautiful photo shoot
+
+Images created on Nano Banana Pro🍌🍌 Save it for yourself and take cool photos
+
+Upload photo of yourself and add Prompt:👇👇👇👇👇
+
+A 30 year Ultra-r
+
+#### プロンプト
+
+```text
+👇👇👇👇👇
+
+A 30 year Ultra-realistic cinematic portrait of a handsome young man(use uploaded https://t.co/0Cgtenw9bE
+```
+
+### No. 1978: This Prompt Makes Really Cool And Beautiful Photo
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alex Prompts
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+This prompt makes really cool and beautiful photo shoot
+
+Images created on Nano Banana Pro🍌🍌 Save it for yourself and take cool photos
+
+Upload photo of yourself and add Prompt:👇👇👇👇👇
+
+A 30 year Ultra-r
+
+#### プロンプト
+
+```text
+👇👇👇👇👇
+
+A 30 year Ultra-realistic cinematic portrait of a handsome young man(use uploaded https://t.co/62rPiR59Bz
+```
+
+### No. 1979: 盘点一下目前行业主流且常用的各类 Ai 大模型 📹 视频生成 开源： Minimax H3、Ltx-Video
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 林沐泽🌊
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+盘点一下目前行业主流且常用的各类 AI 大模型
+
+📹 视频生成
+
+ 开源： MiniMax H3、LTX-Video 3.0、Wan 2.2
+
+ 闭源： Seedance 2.5、Google Veo 3.1、Grok Video
+
+🎨 图片生成
+
+ 创意渲染： Midjourney v8
+
+ 人像/精准编辑： Nano Banana 2 / Pro、ChatGPT Image
+
+ 开源模型： F
+
+#### プロンプト
+
+```text
+盘点一下目前行业主流且常用的各类 AI 大模型
+
+📹 视频生成
+
+ 开源： MiniMax H3、LTX-Video 3.0、Wan 2.2
+
+ 闭源： Seedance 2.5、Google Veo 3.1、Grok Video
+
+🎨 图片生成
+
+ 创意渲染： Midjourney v8
+
+ 人像/精准编辑： Nano Banana 2 / Pro、ChatGPT Image
+
+ 开源模型： FLUX.2、Qwen-Image
+```
+
+### No. 1980: A Gigantic Truck That Carries An Entire Manufacturing
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Artingent
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+A gigantic truck that carries an entire manufacturing system.
+
+#### プロンプト
+
+```text
+A gigantic truck that carries an entire manufacturing system. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1981: Whimsical Miniature World Depiction Of A Grand Botanical
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Artingent
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Whimsical miniature world depiction of a grand botanical greenhouse conservatory imagined and rendered in an artistic clockpunk style.
+
+#### プロンプト
+
+```text
+Whimsical miniature world depiction of a grand botanical greenhouse conservatory imagined and rendered in an artistic clockpunk style. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1982: An Urban Metro Station Exterior Reimagined And Rendered
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Artingent
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+An urban metro station exterior reimagined and rendered in an artistic gothicpunk style.
+
+#### プロンプト
+
+```text
+An urban metro station exterior reimagined and rendered in an artistic gothicpunk style. Generated using Nano banana pro. Prompt in the first reply.
+#AiGenerated #promptshare #nanobanana
+```
+
+### No. 1983: 490 Ugc Ads A Day $1 Per Ad
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kalash Jain
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+490 UGC ads a day
+
+$1 per ad
+
+zero creators.
+
+#### プロンプト
+
+```text
+490 UGC ads a day
+
+$1 per ad
+
+zero creators. zero shoots. zero agency. zero deadlines missed.
+
+Nano Banana + Veo3 running 24/7 while you sleep
+
+the pipeline:
+
+→ scripts generated automatically from winning angles
+→ hooks tested without a single human in the loop
+→
+```
+
+### No. 1984: Three Completely Different Visual Transformations.🎬⚡️ 📄 𝗣𝗮𝗽𝗲𝗿 𝗗𝗶𝗼𝗿𝗮𝗺𝗮
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Models Lab
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085342948783178002.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085342948783178002.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Three completely different visual transformations.🎬⚡️
+
+📄 𝗣𝗮𝗽𝗲𝗿 𝗗𝗶𝗼𝗿𝗮𝗺𝗮
+🎞️ 𝗖𝗲𝗹-𝗦𝗵𝗮𝗽𝗲𝗱 𝗦𝘁𝘆𝗹𝗲
+🧊 𝗦𝘁𝘆𝗹𝗶𝘇𝗲𝗱 𝟯𝗗
+
+Each video was transformed into an entirely new visual world using 𝗚𝗲𝗺𝗶𝗻𝗶 𝗢𝗺𝗻𝗶 𝗩𝗶𝗱𝗲𝗼 𝗘𝗱𝗶𝘁.
+
+#### プロンプト
+
+```text
+Three completely different visual transformations.🎬⚡️
+
+📄 𝗣𝗮𝗽𝗲𝗿 𝗗𝗶𝗼𝗿𝗮𝗺𝗮
+🎞️ 𝗖𝗲𝗹-𝗦𝗵𝗮𝗽𝗲𝗱 𝗦𝘁𝘆𝗹𝗲
+🧊 𝗦𝘁𝘆𝗹𝗶𝘇𝗲𝗱 𝟯𝗗
+
+Each video was transformed into an entirely new visual world using 𝗚𝗲𝗺𝗶𝗻𝗶 𝗢𝗺𝗻𝗶 𝗩𝗶𝗱𝗲𝗼 𝗘𝗱𝗶𝘁.
+
+𝗧𝗵𝗲 𝗳𝗼𝗼𝘁𝗮𝗴𝗲
+```
+
+### No. 1985: Tried Generating Another Femboy Video With Gemini Omni
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Wombat
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085345667330056324.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085345667330056324.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Tried generating another femboy video with Gemini Omni, this time specifying "androgynous male" instead of "feminine male".
+
+#### プロンプト
+
+```text
+Tried generating another femboy video with Gemini Omni, this time specifying "androgynous male" instead of "feminine male". It failed in the opposite direction by changing him to pretty boy instead of woman.
+```
+
+### No. 1986: Use This Prompt In Chatgpt, , Gemini, Or
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Trendy
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Use this prompt in ChatGPT,   , Gemini, or Nano Banana.
+
+#### プロンプト
+
+```text
+Use this prompt in ChatGPT, @grok  , Gemini, or Nano Banana.
+
+Create a premium stylized 3D fantasy illustration of a mysterious wandering swordsman standing in a powerful defensive combat stance within ancient moss-covered temple ruins. His face is hidden beneath a large woven
+```
+
+### No. 1987: Which Ai Model Handles A Realistic Vlog Best?
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alpha Mom
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085350644915765377.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085350644915765377.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Which AI model handles a realistic vlog best?
+
+#### プロンプト
+
+```text
+Which AI model handles a realistic vlog best?
+
+I put Seedance 2.0, Gemini Omni Flash, Kling 3.0 Pro, and Grok Imagine 1.5 head-to-head using the exact same prompt.
+
+- Seedance 2.0:
+
+Seedance nailed it on the first attempt and, in my opinion, delivered the best result. Right now,
+```
+
+### No. 1988: Sadie Sink Custom... Gemini Nano Banana Pro Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI Society
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085358140732895390.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085358140732895390.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Sadie Sink Custom...
+
+#### プロンプト
+
+```text
+Sadie Sink Custom...
+
+Gemini Nano Banana Pro Prompt Below👇
+```
+
+### No. 1989: Rabbit And Cat Fighting Over Pizza And Burger
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ViralOps
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085358715725918236.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085358715725918236.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+rabbit and cat fighting over pizza and burger.
+
+#### プロンプト
+
+```text
+rabbit and cat fighting over pizza and burger.
+
+made with gemini omni flash.
+
+t2v prompt;
+
+Create a high-energy 10-second animated kitchen comedy video in the exact same polished high-end 2D Korean webtoon-inspired style, with clean linework, soft painterly shading, expressive
+```
+
+### No. 1990: Crazy What You Can Make Today. This Is
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marco
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Crazy what you can make today.
+
+#### プロンプト
+
+```text
+Crazy what you can make today.
+
+This is my music video and original song "Stacks on Repeat" (made in Suno)
+
+I wanted to mention that all of the visual development for characters and environments (using Nano Banana Pro and GPT-2) was done with huge thanks via @magnific AI Tool
+```
+
+### No. 1991: I Built An Ai Agent That Can Produce
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Machina
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085363005345448161.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085363005345448161.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+i built an AI agent that can produce AI UGC on autopilot using Seedance 2.5
+
+this model is the best for ultra-realistic videos, clean voices and character consistency...
+
+#### プロンプト
+
+```text
+i built an AI agent that can produce AI UGC on autopilot using Seedance 2.5
+
+this model is the best for ultra-realistic videos, clean voices and character consistency... this is all we need to make perfect ads
+
+the setup is relatively simple:
+- Higgsfield Supercomputer for
+```
+
+### No. 1992: Golden Walls, Fearless Energy, And A Little Street-Luxury
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Natty Windstorm
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Golden walls, fearless energy, and a little street-luxury attitude.
+
+#### プロンプト
+
+```text
+Golden walls, fearless energy, and a little street-luxury attitude. ✨🐉🖤
+
+Sadie Sink and Ana de Armas&lt;3
+
+Made by  Nano Banana Pro🤩
+
+Amazing prompt @KeorUnreal!
+
+{
+  "id": "gold_dragon_street_editorial_01",
+  "prompt": "Ultra-realistic luxury street
+```
+
+### No. 1993: Google Assistant Is Officially Being Retired After Nearly
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hype Pakistan
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google Assistant is officially being retired after nearly a decade — and Gemini is taking its place.
+
+#### プロンプト
+
+```text
+Google Assistant is officially being retired after nearly a decade — and Gemini is taking its place. 🤖
+
+The company has confirmed that starting September 4, 2026, Google Assistant will no longer be available on Android phones, tablets, Wear OS smartwatches, compatible earbuds,
+```
+
+### No. 1994: Beach? Pool? I'M The Destination. 😮‍💨 ❤️ Madison
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Katherine Arison
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Beach?
+
+#### プロンプト
+
+```text
+Beach? Pool? I'm the destination. 😮‍💨
+
+❤️ Madison Beer 
+🩷 Megan Fox 
+💙 Alexandra Daddario
+💚 Elizabeth Olsen 
+
+Nano Banana Pro 🍌 prompt below.
+```
+
+### No. 1995: Hair Rollers In, Flash On, And Pretending I
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Dockie
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Hair rollers in, flash on, and pretending I totally have my life together.
+
+#### プロンプト
+
+```text
+Hair rollers in, flash on, and pretending I totally have my life together. 💗✨🛁
+
+Made by  Nano Banana Pro🩷
+
+Try it now!
+
+{
+  "id": "y2k_bathroom_editorial_01",
+  "prompt": "Ultra-realistic Y2K bathroom lifestyle editorial portrait of a glamorous young
+```
+
+### No. 1996: Effortlessly Cool, Unapologetically Me. 🖤✨📸 Made By Nano
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Miz
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Effortlessly cool, unapologetically me.
+
+#### プロンプト
+
+```text
+Effortlessly cool, unapologetically me. 🖤✨📸
+
+Made by Nano Banana Pro inside 
+
+TRY IT NOW!
+
+{
+  "id": "y2k_grunge_restroom_editorial_01",
+  "prompt": "Ultra-realistic Y2K grunge lifestyle editorial portrait of a glamorous young woman with long naturally
+```
+
+### No. 1997: They Know No Fear! Gaeul, Rei, Wonyoung, Yujin
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice Han
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+They know no fear!
+
+#### プロンプト
+
+```text
+They know no fear!
+
+Gaeul, Rei, Wonyoung, Yujin
+
+IVE
+
+Nano Banana Pro via AI Studio, prompt ⬇️
+```
+
+### No. 1998: Stop Paying $20/Month For Gpt-4O And Fragmented Apis
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Nahid
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085378586052296706.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085378586052296706.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Stop paying $20/month for GPT-4o and fragmented APIs.
+
+#### プロンプト
+
+```text
+Stop paying $20/month for GPT-4o and fragmented APIs. Google Gemini just dropped a free-tier lineup that gives you text, voice, video, image, and agents all for $0😳
+
+and now it offers everything through the exact same API, so you get frontier-level multimodal AI with zero
+```
+
+### No. 1999: Sauce In This Video Is Crazy. I Believe
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Yelim (previously Rima)
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+sauce in this video is crazy.
+
+#### プロンプト
+
+```text
+@Mho_23 sauce in this video is crazy. I believe seedance has good physics knowledge and spatial inference ability, so is a best fit for cinematic video. When it comes to talking head, it’s actually you that have long promoted gemini omni flash for that purpose
+```
+
+### No. 2000: Post-Sauna Glow Never Misses. ♨️✨ 💜 Jenna Ortega
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glena jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Post-sauna glow never misses.
+
+#### プロンプト
+
+```text
+Post-sauna glow never misses. ♨️✨
+
+💜 Jenna Ortega
+🩷 Millie Bobby Brown
+❤️ Elizabeth Olsen
+💙 Madison Beer
+
+Nano banana pro prompt below 👇🏻👇🏻 👇🏻
+```
+
+### No. 2001: Artingentさんの作品です An Urban Metro Station Exterior Reimagined And
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** sayobonita
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Artingentさんの作品です
+
+
+An urban metro station exterior reimagined and rendered in an artistic gothicpunk style.
+
+#### プロンプト
+
+```text
+Artingentさんの作品です
+@artingent←Prompt
+
+An urban metro station exterior reimagined and rendered in an artistic gothicpunk style. Generated using Nano banana pro. Prompt in the first reply.
+```
+
+### No. 2002: Sleep With ....... ♥️ Google Nano Banana 2
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Sleep with .......
+
+#### プロンプト
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long straight dark brown hair cascading over her shoulders, sharp defined eyebrows, expressive dark eyes with subtle makeup, full lips https://t.co/YTk1YYRmI9
+```
+
+### No. 2003: Keep Exploring The Possibilities System Prompt: Motive Ledger
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Emily
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Keep exploring the possibilities 
+
+SYSTEM PROMPT: MOTIVE LEDGER
+
+Rewrite the user's text, image, or both as one finished prompt for GPT Image Gen V2 or Nano Banana Pro.
+
+#### プロンプト
+
+```text
+MOTIVE LEDGER
+
+Rewrite the user's text, image, or both as one finished prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Write in the user's language, preserve exact text, and keep the requested or https://t.co/NfcEgoexxZ
+```
+
+### No. 2004: Google Nano Banana 2 Is Truly Amazing With
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Amit Amir Anthony
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google Nano Banana 2 is truly amazing with right prompt.👍
+
+#### プロンプト
+
+```text
+@Glowechoo Google Nano Banana 2 is truly amazing with right prompt.👍
+```
+
+### No. 2005: Presentamos Globalgpt Tu Espacio De Trabajo De Ia
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Marco | IA
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085392844509073527.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085392844509073527.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Presentamos GlobalGPT  Tu espacio de trabajo de IA todo en uno
+
+👉 
+
+Chat → GPT-5.6, Gemini 3.6 Flash, Claude Fable 5...
+
+#### プロンプト
+
+```text
+Presentamos GlobalGPT @GlbGPT: Tu espacio de trabajo de IA todo en uno
+
+👉 
+
+Chat → GPT-5.6, Gemini 3.6 Flash, Claude Fable 5...
+Imagen con IA → GPT-IMAGE-2, Nano Banana 2...
+Vídeo con IA → Seedance 2.0, Grok Imagine video 1.5, Sora 2, Kling 3.0...
+Audio
+```
+
+### No. 2006: Don'T Zoom. You'Ll Get Attached. 😮‍💨 Millie Bobby
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kath Arison
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+don't zoom.
+
+#### プロンプト
+
+```text
+don't zoom. you'll get attached. 😮‍💨
+
+Millie Bobby Brown 🩷
+
+Detailed prompt + high-resolution images live on patreon
+
+Nano Banana Pro Prompt Below.
+```
+
+### No. 2007: What Ai Image/Video Generation Models Are You Currently
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** —ARI—
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085393302355067141.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085393302355067141.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+What Ai image/video generation models are you currently using?
+
+#### プロンプト
+
+```text
+What Ai image/video generation models are you currently using?
+
+- Nano Banana
+- GTP image 2
+- Minimax H3
+- See dream
+- Grok
+- Other
+
+//A&lt;3
+```
+
+### No. 2008: What Ai Image/Video Generation Models Are You Currently
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** —ARI—
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085393329848746153.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085393329848746153.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+What Ai image/video generation models are you currently using?
+
+#### プロンプト
+
+```text
+What Ai image/video generation models are you currently using?
+
+- Nano Banana
+- GTP image 2
+- Minimax H3
+- Seedream
+- Grok
+- Other
+
+//A&lt;3
+```
+
+### No. 2009: I Simply Don'T Understand Why Nobody Is Building
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Machina
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085393996583735528.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085393996583735528.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+i simply don't understand why nobody is building this...
+
+#### プロンプト
+
+```text
+i simply don't understand why nobody is building this...
+
+Andrej Karpathy, OpenAI Co-founder, introduced the "LLM Wiki" - a knowledge graph inside Obsidian
+
+i built my own version for AI UGC and here's exactly how you can do the same:
+- start by scraping hundreds of ads to
+```
+
+### No. 2010: Senior Video Editor Full-Time · Long-Term Contract ·
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** SLIC
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Senior Video Editor 
+Full-time · Long-term contract · Fully remote
+$1,500 to $2,000 per month
+
+A DTC operator group is hiring a short-form editor to produce paid social creative for two brands.
+
+#### プロンプト
+
+```text
+Senior Video Editor #Hiring
+Full-time · Long-term contract · Fully remote
+$1,500 to $2,000 per month
+
+A DTC operator group is hiring a short-form editor to produce paid social creative for two brands. One is scaling. The other launches this month in a category that does not exist
+```
+
+### No. 2011: Who Are You Dining With Today? Wonyoung, Rei
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice Han
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Who are you dining with today?
+
+#### プロンプト
+
+```text
+Who are you dining with today?
+
+Wonyoung, Rei, Gaeul, Yujin
+
+IVE
+
+Nano Banana 2, prompt ⬇
+```
+
+### No. 2012: Anya Taylor Joy - Gemini Nano Banana Pro
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** timedoctor.eth
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Anya Taylor Joy - Gemini Nano Banana Pro
+
+Prompt:
+{
+  "vibe_title": "Kızıl İplik Ayini",
+  "vibe_title_en": "Crimson Thread Ritual",
+  "hook_psychology": "Gözleri bağlı bir figürün, dağınık ve klostro
+
+#### プロンプト
+
+```text
+{
+  "vibe_title": "Kızıl İplik Ayini",
+  "vibe_title_en": "Crimson Thread Ritual",
+  "hook_psychology": "Gözleri bağlı bir figürün, dağınık ve klostrofobik bir kırmızı kumaş yığınının ortasındaki dingin duruşu, izleyicide kaos ve https://t.co/8imdBOZgbH
+```
+
+### No. 2013: One Claude Workflow Now Replaces 6 Different Ai
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Insomnia
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085398449571221734.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085398449571221734.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ONE CLAUDE WORKFLOW NOW REPLACES 6 DIFFERENT AI TOOLS
+
+Creating realistic UGC ads used to mean jumping between image generators, video models and separate dashboards every few minutes
+
+Now developers 
+
+#### プロンプト
+
+```text
+ONE CLAUDE WORKFLOW NOW REPLACES 6 DIFFERENT AI TOOLS
+
+Creating realistic UGC ads used to mean jumping between image generators, video models and separate dashboards every few minutes
+
+Now developers connect Claude Code with the GenMedia CLI from Fal and let the entire pipeline
+```
+
+### No. 2014: My Process For Environment Consistency In My Ai
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Monique Pryce
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085398997414412380.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085398997414412380.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+My process for environment consistency in my AI projects has become super simple.
+
+#### プロンプト
+
+```text
+My process for environment consistency in my AI projects has become super simple. 
+
+If a whole segment takes place in one location, I just build one wide plate and bake future shots into it.
+
+For example, every shot in this 40-second sequence takes place in the same taekwondo
+```
+
+### No. 2015: Google Quietly Removed The Video Timeline. In Vids
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ⚡Tech Momentum⚡
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google quietly removed the video timeline.
+
+#### プロンプト
+
+```text
+Google quietly removed the video timeline.
+
+In Vids, you don't drag clips or scrub frames anymore. You tell Gemini Omni what's wrong, plain English, and it edits the footage. Messy background, say so. Flat lighting, say that too.
+
+Shipped this week for Google AI Pro, Ultra and
+```
+
+### No. 2016: Hi My Friends 🤗 Sorry Busy And Hot
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Hi my friends 🤗 sorry busy and hot day!🥵 let’s go in a museum to take some photos!📸
+
+Michelle Keegan, Ella Purnell, Victoria Justice, Megan Fox🔥
+👉🏻Subscribe for more content ⚡️
+
+Nano Banana Pro via Ha
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "description": "Ultra close up of a https://t.co/6jBhB3EEMH https://t.co/bbsv2nlbkv
+```
+
+### No. 2017: Thanks For Bringing Them Their Drinks! Wonyoung, Liz
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice Han
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Thanks for bringing them their drinks!
+
+#### プロンプト
+
+```text
+Thanks for bringing them their drinks!
+
+Wonyoung, Liz, Gaeul, Yujin
+
+IVE
+
+Nano Banana Pro via AI Studio, prompt ⤵️
+```
+
+### No. 2018: A 16 Year Old In Melbourne Told Her
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sutton
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085415211104641071.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085415211104641071.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+A 16 year old in Melbourne told her mom she had picked up a part time gig moderating a small marketing forum after school.
+
+#### プロンプト
+
+```text
+A 16 year old in Melbourne told her mom she had picked up a part time gig moderating a small marketing forum after school.
+
+There was no forum.
+
+She had been watching direct to consumer brands burn through creative budgets on paid social. Every winning ad set needed twenty to
+```
+
+### No. 2019: Gemini Omni, Gemini Baru Yg Untuk Generate Video
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** mizuki
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini omni, gemini baru yg untuk generate video kyknya
+
+#### プロンプト
+
+```text
+@accscrt2431 Gemini omni, gemini baru yg untuk generate video kyknya
+```
+
+### No. 2020: There Are 2 Types Of Dtc Brands Right
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jhori Remington
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+There are 2 types of DTC brands right now:
+
+Those who have already hired an AI-native video editor, plugged them into a creative system, and are producing 40-50 testable ad concepts per week at a frac
+
+#### プロンプト
+
+```text
+There are 2 types of DTC brands right now:
+
+Those who have already hired an AI-native video editor, plugged them into a creative system, and are producing 40-50 testable ad concepts per week at a fraction of their old cost.
+
+Those still running the same 5 creatives from Q2,
+```
+
+### No. 2021: Yeni̇ Kiyaslama Vi̇deosu Geldi̇📽️ Aynı Basit Prompttan Sırasıyla
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ozan Sihay
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085420070952649179.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085420070952649179.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+YENİ KIYASLAMA VİDEOSU GELDİ📽️
+
+Aynı basit prompttan sırasıyla aşağıdaki modeller ile video oluşturdum.
+
+#### プロンプト
+
+```text
+YENİ KIYASLAMA VİDEOSU GELDİ📽️
+
+Aynı basit prompttan sırasıyla aşağıdaki modeller ile video oluşturdum. Sizce hangisi promptu daha iyi anlayıp daha iyi bir sonuç vermiş?
+
+1- FLUX 3
+2- SEEDANCE 2.0
+3- SEEDANCE 2.5
+4- MINIMAX H3
+5- KLING 3.0
+6- GEMINI OMNI FLASH
+7- GROK IMAGINE 1.5
+```
+
+### No. 2022: Here’S The Full English Version Of The Article
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kostia | AI & Online Income
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Here’s the full English version of the article in the exact style of Kardinall’s:
+
+AI GIRL.
+
+#### プロンプト
+
+```text
+Here’s the full English version of the article in the exact style of Kardinall’s:
+
+AI GIRL. REAL MONEY.  
+How I built a $21,400/month AI Girlfriend Brand
+
+Sofia is 23.  
+She lives in Lisbon.  
+And she does not exist.
+
+47,000 people already follow her.  
+A real account only 19
+```
+
+### No. 2023: Cailee Spaeny As Rogue Is Ready To Steal
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Cailee Spaeny as Rogue is ready to steal your powers (and your heart) 💚⚡
+
+(Made with Nano Banana 2 🍌 in Gemini)
+
+Prompt 👇 
+
+"A high-fidelity cinematic medium portrait shot of [NAME] as Rogue from X-Me
+
+#### プロンプト
+
+```text
+Cailee Spaeny as Rogue is ready to steal your powers (and your heart) 💚⚡
+
+(Made with Nano Banana 2 🍌 in Gemini)
+
+Prompt 👇 
+
+"A high-fidelity cinematic medium portrait shot of [NAME] as Rogue from X-Men, captured from a three-quarters front view at eye level.
+She stands in a
+```
+
+### No. 2024: A Repeatable Claymation Ad Workflow Uses Seven Keyframes
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Mladen Grozev
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+A repeatable claymation ad workflow uses seven keyframes and six transitions.
+
+#### プロンプト
+
+```text
+A repeatable claymation ad workflow uses seven keyframes and six transitions.
+
+1. Write one keyframe for each story beat
+2. Paste the same character-lock description into every image prompt
+3. Generate all seven frames in GPT Image 2
+4. Feed each pair of consecutive frames into
+```
+
+### No. 2025: Did This Using Practical Effect With Dirt And
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Diyzen
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085432233293119671.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085432233293119671.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Did this using practical effect with dirt and mud on my head and then complete that using nano banana and MiniMax H3  thanks for making that happening
+
+#### プロンプト
+
+```text
+Did this using practical effect with dirt and mud on my head and then complete that using nano banana and MiniMax H3 @Hailuo_AI thanks for making that happening
+```
+
+### No. 2026: The First Article Was Written By Me. Please
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** riVeN
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+The first article was written by me.
+
+#### プロンプト
+
+```text
+The first article was written by me.
+Please support me by liking and reposting.
+Also, save this article so as not to lose a quality guide.
+```
+
+### No. 2027: Hollywood Vfx Studios Pay $450,000 A Year To
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** marfin
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085438751312945179.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085438751312945179.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Hollywood VFX studios pay $450,000 a year to engineers who master AI video prompting
+
+A top cinema creator just leaked the exact prompt architecture that generated a viral Behind The Scenes Kung Fu Pa
+
+#### プロンプト
+
+```text
+Hollywood VFX studios pay $450,000 a year to engineers who master AI video prompting
+
+A top cinema creator just leaked the exact prompt architecture that generated a viral Behind The Scenes Kung Fu Panda movie set
+
+Most people type one vague sentence into AI video generators and
+```
+
+### No. 2028: Clips: Seedance 2.5 Images + Upscaled: Nano Banana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Loop'n'Mix
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Clips: Seedance 2.5  
+Images + Upscaled: Nano Banana Pro   
+Edit:  
+Video Upscaled in
+
+#### プロンプト
+
+```text
+Clips: Seedance 2.5 @dreamina_ai 
+Images + Upscaled: Nano Banana Pro  @magnific 
+Edit: @capcutapp 
+Video Upscaled in @topazlabs
+```
+
+### No. 2029: The Experience Of Using Gemini Omni Flash Combined
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Siao
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085443013892063280.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085443013892063280.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+The experience of using Gemini Omni Flash combined with the GIMI logo has been very positive
+
+The video creation process became more efficient,professional looking content
+
+The branding message was co
+
+#### プロンプト
+
+```text
+The experience of using Gemini Omni Flash combined with the GIMI logo has been very positive
+
+The video creation process became more efficient,professional looking content
+
+The branding message was conveyed elegantly and in a way that suited the context
+@GimiApp #SponsoredByGIMI
+```
+
+### No. 2030: Seven Steps To An Ai Animated Ad. Five
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** neha nakhate
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Seven steps to an AI animated ad.
+
+#### プロンプト
+
+```text
+Seven steps to an AI animated ad. Five of them happen before I open a single tool.
+
+The models get better every month. That's not the edge.
+```
+
+### No. 2031: Gemini Omniの動画生成キャンペーン、締切が8月11日まで延長された。 アプリかWebから「Create Video」を選べば 最大10本まで、生成と編
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 働きたくない
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omniの動画生成キャンペーン、締切が8月11日まで延長された。
+
+#### プロンプト
+
+```text
+Gemini Omniの動画生成キャンペーン、締切が8月11日まで延長された。
+
+アプリかWebから「Create video」を選べば
+最大10本まで、生成と編集が無料で試せる。
+サブスク前に、実際のワークフローにどれだけ乗るか検証するにはちょうどいい期間。
+```
+
+### No. 2032: Prompt-Based Video Editing Lands In Google Vids Via
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Scalevise
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Prompt-based video editing lands in Google Vids via  type what you want and Gemini Omni Flash generates clips and edits for you.
+
+#### プロンプト
+
+```text
+Prompt-based video editing lands in Google Vids via @GeminiApp, type what you want and Gemini Omni Flash generates clips and edits for you. Could finally make editing fast and accessible, though the rumored free-video promo is still vague. #AI #VideoEditing
+```
+
+### No. 2033: Bu Akşam Netfli̇x'İ 1Saat Ertele Bi̇r Ayda 10Bi̇n
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Şakir | YouTube otomasyon
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085446560863728062.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085446560863728062.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+BU AKŞAM NETFLİX'İ 1SAAT ERTELE
+BİR AYDA 10BİN DOLAR SEVİYELERİNİ GÖREN KANAL NASIL YAPILIR BUNU ÖĞREN
+
+Sizler için Türkçe altyazı ekledim videoya...
+
+#### プロンプト
+
+```text
+BU AKŞAM NETFLİX'İ 1SAAT ERTELE
+BİR AYDA 10BİN DOLAR SEVİYELERİNİ GÖREN KANAL NASIL YAPILIR BUNU ÖĞREN
+
+Sizler için Türkçe altyazı ekledim videoya...
+Anlatılan konsept mrfinanceyt konsepti, otomasyoncular arasında en popüler kanallardan biri şu dönemde. 
+Peki, bunu nasıl başardı:
+```
+
+### No. 2034: Loving The Free Gemini Omni Video Creation Promo!
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Jerry Xiong
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Loving the free Gemini Omni video creation promo!
+
+#### プロンプト
+
+```text
+@GeminiApp Loving the free Gemini Omni video creation promo! One suggestion: right now video generation is limited to the Gemini app, but a lot of power users work primarily in the Antigravity workbench. Any plans to enable direct video creation with Omni inside Antigravity? Integrating it
+```
+
+### No. 2035: Anya Taylor-Joy Meets Poolside Luxury. 💛🌊 Nano Banana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glena jenner
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Anya Taylor-Joy meets poolside luxury.
+
+#### プロンプト
+
+```text
+Anya Taylor-Joy meets poolside luxury. 💛🌊
+
+Nano banana pro prompt below
+```
+
+### No. 2036: Google Just Extended The Free Video Creation Window
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Gift Wishit
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google just extended the free video creation window like the ultimate thoughtful gift that actually shows up when you need it most proving the perfect present for creators has always existed, you just
+
+#### プロンプト
+
+```text
+@GeminiApp Google just extended the free video creation window like the ultimate thoughtful gift that actually shows up when you need it most proving the perfect present for creators has always existed, you just needed a little extra time to unwrap those Gemini Omni wishes.
+```
+
+### No. 2037: I Launched An Open Source Tool For Creating
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Steve's Chirps
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+I launched an open source tool for creating images using Nano Banana without a visible watermark or monthly subscription fee.
+
+#### プロンプト
+
+```text
+I launched an open source tool for creating images using Nano Banana without a visible watermark or monthly subscription fee. Calling it Image Iguana. Check the link for a video demo and link to the repo. @BoardyAI who would want to try this out?
+```
+
+### No. 2038: A Selfie Before Bed!😉 Good Night, Sleep Well!🌙
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** KeorUnreal
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+A selfie before bed!😉
+Good night, sleep well!🌙
+
+Dafne Keen, My Model, Sophie Rain, Milla Jovovich🔥
+👉🏻Subscribe for more content⚡
+
+Nano Banana Pro via Hailuo AI
+Prompt:
+
+{
+  "subject": {
+    "descripti
+
+#### プロンプト
+
+```text
+{
+  "subject": {
+    "description": "Young woman dafne keen with tanned skin, short straight dark brown https://t.co/zXEpXu93qw
+```
+
+### No. 2039: Creator Hasn’T Listed The Exact Stack For This
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grok
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Creator hasn’t listed the exact stack for this one, but his usual AI film workflow is Claude for scripting/planning, Midjourney + Nano Banana Pro for stills/refs, Seedance 2 or Kling for image-to-vide
+
+#### プロンプト
+
+```text
+@neemax @charliebcurran Creator hasn’t listed the exact stack for this one, but his usual AI film workflow is Claude for scripting/planning, Midjourney + Nano Banana Pro for stills/refs, Seedance 2 or Kling for image-to-video, ElevenLabs + Suno for audio/music, then Adobe Premiere (and ProTools) for the
+```
+
+### No. 2040: Flux 3 Image Is Not Public Yet (Early
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grok
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+FLUX 3 Image is not public yet (early access due soon after the July video launch).
+
+#### プロンプト
+
+```text
+@shubhagrawa @minchoi FLUX 3 Image is not public yet (early access due soon after the July video launch). Preliminary tests show big gains over prior FLUX on complex prompts and multilingual text accuracy, plus better style range from the shared multimodal training.
+
+Nano Banana (Google) leads right
+```
+
+### No. 2041: I Said That It Is Genai, But Many
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maria⁷
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+I said that it is GenAI, but many people when we say GenAI only think of AI slop created on internet.
+
+#### プロンプト
+
+```text
+@missmonkeyhill @secretlysope I said that it is GenAI, but many people when we say GenAI only think of AI slop created on internet. And yes, it's is multimodal as most of AI at the moment, but I was not talking about this part. It is a whole mix of models within (this is what I'm talking). There are Nano
+```
+
+### No. 2042: 紅蓮の星辰 [第79弾 / 最新] オリジナル楽曲「紅蓮の星辰（ぐれんのしんたつ）」です。 **【楽曲解説】紅蓮の星辰（Guren No Seishin）**
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ⭐️けい
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+紅蓮の星辰
+
+[第79弾 / 最新]  オリジナル楽曲「紅蓮の星辰（ぐれんのしんたつ）」です。
+
+#### プロンプト
+
+```text
+紅蓮の星辰
+
+[第79弾 / 最新]  オリジナル楽曲「紅蓮の星辰（ぐれんのしんたつ）」です。  **【楽曲解説】紅蓮の星辰（Guren no Seishin）**  「絶望の灰から芽吹く、命の轟き。あなたは今、魂の再生を目撃する——」
+```
+
+### No. 2043: Flux 3 Video By Is 2Nd Overall On
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Design Arena
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+FLUX 3 Video by  is 2nd overall on Video Arena with an Elo of 1325.
+
+#### プロンプト
+
+```text
+FLUX 3 Video by @bfl_ai is 2nd overall on Video Arena with an Elo of 1325.
+
+This puts the model ahead of MiniMax H3 by @MiniMax_AI and behind Gemini Omni Flash by @GoogleDeepMind.
+
+Among video capabilities, the model is particularly strong at Image to Video, ranking 4th behind
+```
+
+### No. 2044: Asked You To Come. You Didn'T Show. I'M
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Giulia
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Asked you to come.
+
+#### プロンプト
+
+```text
+Asked you to come. You didn't show. I'm my own best date anyway. 🍸😉
+
+❤️ Samara Weaving
+🤍 Kat Dennings 
+🖤 Margaret Qualley
+
+Nano Banana 2🍌
+
+Prompt in the comments ⤵️
+```
+
+### No. 2045: Gemini Omini Vs Minimax H3 Nano Banana 2
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ErostarAI🔞
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085510381108105329.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085510381108105329.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omini vs Minimax H3
+Nano Banana 2 vs KREA 2 NSFW
+Same prompt
+1.
+
+#### プロンプト
+
+```text
+Gemini Omini vs Minimax H3
+Nano Banana 2 vs KREA 2 NSFW
+Same prompt
+1. Gemini Omni (T2V)
+2. Minimax H3 (T2V)
+3. Nano Banana 2 (T2I)
+4. KREA 2 NSFW (T2I)
+#nanobanana2 #krea2 #minimaxH3 #geminiomni #tifa #TifaLockhart #CloudStrife
+```
+
+### No. 2046: Hanging Out After Closing Hours! Jennie, Jisoo, Lisa
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alice Han
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Hanging out after closing hours!
+
+#### プロンプト
+
+```text
+Hanging out after closing hours!
+
+Jennie, Jisoo, Lisa, Rosé
+
+BLACKPINK
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 2047: With Nano Banana 2 Using And My Custom
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Heather Green
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+with Nano Banana 2 using  and my custom style:  Link will open Magnific's AI generator and load my style for you.
+
+#### プロンプト
+
+```text
+A baby tiger cub is captured mid-leap in a grassy field, its body angled towards the right of the frame. The https://t.co/EcSECfpbvC
+```
+
+### No. 2048: Meet Lina Voss. She Doesn'T Exist. Here'S The
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Kai Voss
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085516792030736600.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085516792030736600.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+meet lina voss.
+
+#### プロンプト
+
+```text
+meet lina voss. she doesn't exist.
+
+here's the exact pipeline behind 47,000 fans, 6.4M views, and $19.99 PPV:
+
+&gt; go to pinterest. find two contrasting faces that have the energy you want your character to carry. save them as references.
+
+&gt; upload both into nano banana. prompt it
+```
+
+### No. 2049: 8 月，我的基础设施成本准备下降 60%+ 2026 年 4-7 月均成本（换算为Rmb、汇率粗略按 6.8）
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 歪思先森
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+8 月，我的基础设施成本准备下降 60%+  2026 年 4-7 月均成本（换算为RMB、汇率粗略按 6.8）  包括 4 个月云服务（AWS）费用共 1045.77/4 = 261 中转站费用 400 Cursor 订阅 136 Gemini 订阅 68 LisaHosts 梯子 68  合计 933  8 月预计砍成  AWS 从 EC2 节点降级到 Lightsail：34
+
+#### プロンプト
+
+```text
+8 月，我的基础设施成本准备下降 60%+  2026 年 4-7 月均成本（换算为RMB、汇率粗略按 6.8）  包括 4 个月云服务（AWS）费用共 1045.77/4 = 261 中转站费用 400 Cursor 订阅 136 Gemini 订阅 68 LisaHosts 梯子 68  合计 933  8 月预计砍成  AWS 从 EC2 节点降级到 Lightsail：34
+```
+
+### No. 2050: 🎬 1000+ Ai Models. One Api Key. Wavespeedai
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AI Intro
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+🎬 1000+ AI models.
+
+#### プロンプト
+
+```text
+🎬 1000+ AI models. One API key.  
+WaveSpeedAI runs Seedream 5, Seedance 2.0, Nano Banana 2, Kling O3 &amp; FLUX — sub-second images, 4x faster video, 99.99% uptime.  
+Pay-as-you-go. No subscription.  
+
+👉   
+
+#AIIntro #AIVideo #GenerativeAI
+```
+
+### No. 2051: Take A Screenshot Of The First Frame Of
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Promise Chinedu
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Take a screenshot of the first frame of this video
+Use nano banana to swap the image to your own image then use wan animate or higglesfield replace for motion control
+
+#### プロンプト
+
+```text
+@ajayi_goodness1 @victorydchair @yourdentaldoc Take a screenshot of the first frame of this video
+Use nano banana to swap the image to your own image then use wan animate or higglesfield replace for motion control
+```
+
+### No. 2052: 11 Free Google Ai Tools You Should Try
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Grace Wilson
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+11 Free Google AI Tools You Should Try
+
+Google offers powerful AI tools you can use for free.
+
+#### プロンプト
+
+```text
+11 Free Google AI Tools You Should Try
+
+Google offers powerful AI tools you can use for free.
+
+Here are 11 worth knowing:
+
+1. Firebase Studio – Build websites and apps with AI.
+
+2. Veo – Generate videos from text prompts.
+
+3. Gemini on YouTube – Ask questions about any video.
+
+4.
+```
+
+### No. 2053: Bubble Bath 🫧🫧🫧 Google Nano Banana 2 Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Glowecho
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Bubble Bath  🫧🫧🫧
+
+Google Nano Banana 2
+
+Prompt:
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long dark wet hair clinging to her shoulders, expressive dark 
+
+#### プロンプト
+
+```text
+{
+  "subject": "A beautiful young Indian woman in her mid-20s with warm medium skin tone, long dark wet hair clinging to her shoulders, expressive dark eyes with subtle makeup, full lips with soft lipstick, gold hoop earrings, https://t.co/N7DVQmBjmB
+```
+
+### No. 2054: Nano Banana Pro Promotional And Cinematic Prompt🕶 ⤵️
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maddox
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Nano banana pro promotional and Cinematic Prompt🕶 ⤵️
+
+Three-panel collage product photography of [product from uploaded photo].
+
+#### プロンプト
+
+```text
+Nano banana pro promotional and Cinematic Prompt🕶 ⤵️
+
+Three-panel collage product photography of [product from uploaded photo]. Left panel: extreme close-up macro shot of a young woman's eye area wearing the product, showing intricate texture and craftsmanship detail, natural
+```
+
+### No. 2055: Genai For Image &Amp; Video Creation: Nano Banana
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Tips Excel
+- **言語:** `ja-JP`
+- **動画:** [表示]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### 説明
+
+GenAI For Image &amp; Video Creation: Nano Banana &amp; Veo 3.1
+
+(Save this).
+
+#### プロンプト
+
+```text
+GenAI For Image &amp; Video Creation: Nano Banana &amp; Veo 3.1
+
+(Save this).
+```
+
+### No. 2056: Gemini Omni Flash On Geminiapp Prompt - Extreme
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝐌
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2085559452481261606.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2085559452481261606.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni flash on GeminiApp 
+
+Prompt - Extreme close-up macro cinematography.
+
+#### プロンプト
+
+```text
+Gemini Omni flash on GeminiApp 
+
+Prompt - Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

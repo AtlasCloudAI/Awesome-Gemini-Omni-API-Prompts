@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2230%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2318%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Eine kuratierte Sammlung von Gemini-Omni-Promptbeispielen mit eingebetteten OSS-Videovorschauen.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrik | Anzahl |
 | --- | ---: |
-| Prompts Insgesamt | 2230 |
+| Prompts Insgesamt | 2318 |
 | Kategorien | 11 |
-| Vorschauvideos | 580 |
-| Zuletzt aktualisiert | 09.08.2026 |
+| Vorschauvideos | 600 |
+| Zuletzt aktualisiert | 10.08.2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Ein wütender roter Drache (Element) erhebt sich aus dem Meer und fliegt mit ext
 
 <a id="category-11"></a>
 
-### Twitter Community (2128)
+### Twitter Community (2216)
 
 ### No. 103: Romantische Naturporträt-Redaktionsfotografie
 
@@ -52299,6 +52299,2240 @@ Sunday Laundry - Gemini Nano Banana Pro
 
 Prompt 👇
 A high-quality, realistic portrait of a beautiful young Japanese woman captured in a candid, natural moment on a bright, sunlit apartment balcony. She is leaning forward slightly, focused on hanging delicate laundry on a blue and
+```
+
+### No. 2231: Turn A Simple Beverage Photo Into A 7-Second
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Aze Visual Story
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086310123715411969/vid/avc1/1280x720/5n4X3aJ63YOgZ4n6.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2086310123715411969/vid/avc1/1280x720/5n4X3aJ63YOgZ4n6.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Turn a simple beverage photo into a 7-second AI commercial using OpenArt, Nano Banana Pro &amp; Kling 3.0.
+
+#### Prompt
+
+```text
+Turn a simple beverage photo into a 7-second AI commercial using OpenArt, Nano Banana Pro &amp; Kling 3.0. Want the prompts?
+
+Comment “DRINK” and I’ll send you the prompt pack.
+
+Generated with @openart_ai 
+
+#AI #AIVideo
+```
+
+### No. 2232: It Leverages Gemini Omni And Veo 3 Capabilities
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mr. Walker
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+It leverages Gemini Omni and Veo 3 capabilities launched in 2026, which support advanced text-to-video generation, conversational editing, reference-based creation, and script-to-video workflows for r
+
+#### Prompt
+
+```text
+@sporsho_AI It leverages Gemini Omni and Veo 3 capabilities launched in 2026, which support advanced text-to-video generation, conversational editing, reference-based creation, and script-to-video workflows for realistic outputs with audio.
+```
+
+### No. 2233: The New Copyright Censorship Layer Added To Grok
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Tom Löwe
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+The new copyright censorship layer added to Grok Imagine yesterday is preventing me from making Kermit the Frog memes now, Elon.
+
+#### Prompt
+
+```text
+"photo of a very sad kermit the frog sits https://t.co/t4raKxxuB9
+```
+
+### No. 2234: A City Full Of Lights And A Heart
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** J⭕DIE
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+A city full of lights and a heart full of goals.
+
+#### Prompt
+
+```text
+A city full of lights and a heart full of goals. Finding calm where the skyline meets the sky.
+
+▫️Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+▫️Light Edit in InShot &amp; Grok
+
+▫️Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+A photorealistic luxury rooftop
+```
+
+### No. 2235: Apparently I’M In My Ballerina Era. 🩰 Anne
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Kath Arison
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+apparently i’m in my ballerina era.
+
+#### Prompt
+
+```text
+apparently i’m in my ballerina era. 🩰
+
+Anne Hathaway
+
+Full Nano banana pro prompt live on patreon.
+```
+
+### No. 2236: Product Update (7 July To 8 August) Trading
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Based
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Product Update (7 July to 8 August)
+
+Trading &amp; Swaps
+
++ Cross-chain swaps are live on web and mobile.
+
+#### Prompt
+
+```text
+Product Update (7 July to 8 August)
+
+Trading &amp; Swaps
+
++ Cross-chain swaps are live on web and mobile. Swap across Ethereum, BNB, Arbitrum, Polygon, Solana, Stable, HyperEVM, and Hyperliquid from one screen
++ New full-page token view on web, bringing live charts, recent trades,
+```
+
+### No. 2237: 接着搓完！ Made With Grok Lmagine Video 1.5 Grok
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Loriel.AI
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086333647553249280/vid/avc1/3840x2160/xuaZ9h2dUnyxy5qx.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086333647553249280/vid/avc1/3840x2160/xuaZ9h2dUnyxy5qx.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+接着搓完！
+
+#### Prompt
+
+```text
+接着搓完！
+
+Made with  Grok lmagine Video 1.5  
+
+Grok Imagine Video still has significant issues with controlling characters under strong dynamic conditions. 
+
+🚗手搓短片压榨Grok lmagine Video的生成能力。强动态下Grok lmagine Video对人物的漂移问题依然把握不好，包括一致性问题。
+```
+
+### No. 2238: True, Aside From Wan 3.0 On Topview. Under
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Keizoku Dozekar
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+True, aside from Wan 3.0 on Topview.
+
+#### Prompt
+
+```text
+@Artlist_io @VictorInFocus True, aside from Wan 3.0 on Topview. Under my current annual Topview plan, I can queue up a 30-second Wan 3.0 video, a 20-second Flux 3.0 video, or a 30-second Seedance 2.5 video. I can also queue up 4 concurrent videos, and while they may take up to 6 hours each, while I'm
+```
+
+### No. 2239: Try This Using Google Gemini Nano Banana Prompt
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Alyar AI
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Try this using Google Gemini Nano Banana 
+
+Prompt:
+Create high-end lookbook photography for clothing and garments.
+
+#### Prompt
+
+```text
+Create high-end lookbook photography for clothing and garments. This prompt simulates a professional studio where items are elegantly hung on a minimalist hanger or rail. With optimized spotlighting, it captures the natural https://t.co/U2UUlVJmaF
+```
+
+### No. 2240: 🧠 This Is The Assembly Effect — And
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Icon Becker
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086355211757764608/vid/avc1/720x1280/RvLfrZDJqzhFhx9i.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2086355211757764608/vid/avc1/720x1280/RvLfrZDJqzhFhx9i.mp4?tag=14" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+🧠 This is the assembly effect — and you can make it with AI in minutes.
+
+#### Prompt
+
+```text
+🧠 This is the assembly effect — and you can make it with AI in minutes.
+
+Here’s the workflow.
+✅ Upload your image to Higgsfield
+✅ Use Nano Banana Pro
+✅ Generate the assembly animation
+✅ Refine it with Kling 2.5 Turbo
+✅ Turn it into a perfect reel
+
+On...
+```
+
+### No. 2241: Made With Nano Banana 2 📸 Prompt 👇
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** dreamy digital arts
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Made with Nano Banana 2 📸
+
+Prompt 👇
+
+A woman sits squatting in a studio, her body turned to the side, her back straight, and her shoulders back.Her gaze is directed directly at the camera, in a medium
+
+#### Prompt
+
+```text
+Made with Nano Banana 2 📸
+
+Prompt 👇
+
+A woman sits squatting in a studio, her body turned to the side, her back straight, and her shoulders back.Her gaze is directed directly at the camera, in a medium shot from her upper thighs to her head, at eye level.
+
+Skin has a pronounced
+```
+
+### No. 2242: Heroes Or Villians? Asa Matches Ada Perfectly! Asa
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Alice Han
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Heroes or villians?
+
+#### Prompt
+
+```text
+Heroes or villians? Asa matches Ada Perfectly!
+
+Asa, Ahyeon, Rami, Ruka
+
+Babymonster
+
+Nano Banana Pro via AI Studio, prompt 👇
+```
+
+### No. 2243: Out Here Catching More Than Just Sunlight 🍃
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Glena jenner
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Out here catching more than just sunlight 🍃
+
+💚 Jenna Ortega 
+🩷 Madison Beer
+🖤 Millie Bobby Brown
+💙 Ana de Armas
+
+Nano banana pro prompt on Patreon
+
+#### Prompt
+
+```text
+Out here catching more than just sunlight 🍃
+
+💚 Jenna Ortega 
+🩷 Madison Beer
+🖤 Millie Bobby Brown
+💙 Ana de Armas
+
+Nano banana pro prompt on Patreon
+```
+
+### No. 2244: Trust Me, I Googled It... Madison Beer •
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Katherine Arison
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+trust me, I googled it...
+
+#### Prompt
+
+```text
+trust me, I googled it...
+
+Madison Beer • Jenna Ortega • Florence pugh • Chloë Grace Moretz
+
+Nano Banana Pro Prompt + High-res images live on patreon.
+```
+
+### No. 2245: Eyes On The Future, Feet Grounded In The
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** J⭕DIE
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Eyes on the future, feet grounded in the present.
+
+#### Prompt
+
+```text
+Eyes on the future, feet grounded in the present. Where the clouds drift, inspiration follows. ✨
+
+▫️Photos Made With AI (Gemini Nano Banana Flash Lite 3.1)
+
+▫️Light Edit in InShot
+
+▫️Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Subject:
+A young woman with a natural,
+```
+
+### No. 2246: The Beach Called. I Didn'T Let It Go
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Giulia
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+The beach called.
+
+#### Prompt
+
+```text
+The beach called. I didn't let it go to voicemail🏖️🌴🤭
+
+💚 Ana de Armas 
+🤍 Jennifer Lawrence 
+🩷 Karen Gillan 
+
+Get ready to see how each of these models spends a day at the beach! I’ll be sharing them throughout the day, so stay tuned!
+
+(Created with Nano Banana 2 🍌 via
+```
+
+### No. 2247: 1. Meigen Ai Steal Trending Ai Styles It
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** SIR ALEXANDER
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+1.
+
+#### Prompt
+
+```text
+1. Meigen AI
+
+Steal Trending AI Styles
+
+It has thousands of prompts for Nano Banana, Seedance, GPT Image, and more.
+Just copy a prompt, upload your image, and recreate the latest trending looks in minutes.
+
+It even has prompts for viral AI videos.
+```
+
+### No. 2248: If You Use Google Flow, There Are 3
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Praise
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+If you use Google Flow, there are 3 names you’ll come across a lot:
+
+Veo, Nano Banana Pro, and Gemini Omni.
+
+#### Prompt
+
+```text
+If you use Google Flow, there are 3 names you’ll come across a lot:
+
+Veo, Nano Banana Pro, and Gemini Omni.
+
+They don’t all do the same thing though, so here’s a simple difference amongst them👇🏽
+
+🎬 Veo is mainly used for generating videos. 
+
+You describe the scene you want, and
+```
+
+### No. 2249: Some Moments Are Best Captured Exactly As They
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** J⭕DIE
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Some moments are best captured exactly as they are.
+
+#### Prompt
+
+```text
+Some moments are best captured exactly as they are. Where tradition meets modern elegance.
+
+▫️ Pictures Made With AI (Gemini Nano Banana Flash 3.6)
+
+▫️Light Edit in InShot
+
+▫️Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Subject description:
+A young woman with a
+```
+
+### No. 2250: I'M Creating Ai Images, Videos, And Music On
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** James
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+I'm creating AI images, videos, and music on  one studio with 1500+ prompt templates, exact-size exports, and top models like Nano Banana, Seedream, Veo, Kling, and Suno.
+
+#### Prompt
+
+```text
+I'm creating AI images, videos, and music on  one studio with 1500+ prompt templates, exact-size exports, and top models like Nano Banana, Seedream, Veo, Kling, and Suno.
+```
+
+### No. 2251: Looking Good, The Only Suggestion I'D Make Is
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Saber Naeemi
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Looking good, the only suggestion I'd make is to use the model name instead of platform names, e.g.
+
+#### Prompt
+
+```text
+@HoussamDesigner Looking good, the only suggestion I'd make is to use the model name instead of platform names, e.g. “give me an image prompt for Google Nano Banana 2”
+```
+
+### No. 2252: Que S'Est-Il Passé Cette Semaine Dans L'Univers En
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** David Akpovi
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Que s'est-il passé cette semaine dans l'univers en pleine évolution de l'intelligence artificielle ?
+
+#### Prompt
+
+```text
+Que s'est-il passé cette semaine dans l'univers en pleine évolution de l'intelligence artificielle ? Découvre les principales actualités de la Semaine du 03 au 09 Août 2026.
+ 
+#ia #intelligenceartificielle #ianews #technews #weeklyupdates
+```
+
+### No. 2253: 2/8 Google Introduced Three New Gemini Models For
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mumro
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+2/8 Google introduced three new Gemini models for agentic workflows, plus Gemini Robotics ER 2 for embodied reasoning and Gemini Omni for video generation, signaling a push toward practical AI across 
+
+#### Prompt
+
+```text
+2/8 Google introduced three new Gemini models for agentic workflows, plus Gemini Robotics ER 2 for embodied reasoning and Gemini Omni for video generation, signaling a push toward practical AI across domains.
+```
+
+### No. 2254: When Will Grok Ever Create A Video Model
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Sam Okafor | Funnel Designer
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+When will grok ever create a video model to outdo Google's Gemini Omni?
+
+#### Prompt
+
+```text
+@grok When will grok ever create a video model to outdo Google's Gemini Omni?
+```
+
+### No. 2255: Most People Chase 100X Apps. I Sell $1.5K
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** cryptopsihoz
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086400770761449472/vid/avc1/720x1280/pSmuIMTgr8zKYrSY.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086400770761449472/vid/avc1/720x1280/pSmuIMTgr8zKYrSY.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+MOST PEOPLE CHASE 100X APPS.
+
+#### Prompt
+
+```text
+MOST PEOPLE CHASE 100X APPS. I SELL $1.5K LOCAL SITES.
+
+maps -&gt; barber dentist hvac with no site
+claude + lovable + nano banana same night
+
+packages $500-$8k retainers $100-$800/mo
+opus 5 + gpt image 2 routing not vibe dump
+full stack + scripts inside the article
+
+▹ the flip
+```
+
+### No. 2256: Incredible Photorealism From Nano Banana 2 Prompt!
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Soaima
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Incredible photorealism from Nano Banana 2 prompt!
+
+#### Prompt
+
+```text
+@Glowechoo Incredible photorealism from Nano Banana 2 prompt!
+```
+
+### No. 2257: Google Just Gave Everyone 10 Free Gemini Omni
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Julian Goldie SEO
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086404661884702720/vid/avc1/1280x720/6rp2cWsmLYY40hIh.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086404661884702720/vid/avc1/1280x720/6rp2cWsmLYY40hIh.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Google just gave everyone 10 free Gemini Omni AI videos, but only until August 11th.
+
+#### Prompt
+
+```text
+Google just gave everyone 10 free Gemini Omni AI videos, but only until August 11th.
+
+Type what you want. It builds the video.
+
+No editing software. Zero video skills needed.
+
+Then you edit by talking to it:
+
+Say "change the lighting." It changes the lighting.
+
+Say "pan the
+```
+
+### No. 2258: Google Just Dropped 6 Gemini Updates In One
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Julian Goldie SEO
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086405712608137216/vid/avc1/1280x720/8eepbthdEzNzol4T.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086405712608137216/vid/avc1/1280x720/8eepbthdEzNzol4T.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Google just dropped 6 Gemini updates in one day, and one of them gives robots a whole-body brain.
+
+#### Prompt
+
+```text
+Google just dropped 6 Gemini updates in one day, and one of them gives robots a whole-body brain.
+
+Gemini Robotics 2 puts vision, language, and motion planning in one brain.
+
+Old robots needed humans to program every step.
+
+These robots look at a room, make a plan, and move on
+```
+
+### No. 2259: Google Nano Banana 2 Prompt 👇 A Three-Quarter
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** dreamy digital arts
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Google Nano Banana 2
+
+Prompt 👇
+
+A three-quarter shot of a woman in toutdoors in a peaceful rural farm setting during golden hour.
+
+#### Prompt
+
+```text
+Google Nano Banana 2
+
+Prompt 👇
+
+A three-quarter shot of a woman in toutdoors in a peaceful rural farm setting during golden hour. The same person is leaning casually against a dark, weathered wooden split-rail fence, wearing a fitted blue and black plaid flannel shirt tied
+```
+
+### No. 2260: Ai Ugc Industry Has A Word For What
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** YARD
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086406443205296128/vid/avc1/1920x1080/cHZ5S6INhNOWbAU3.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086406443205296128/vid/avc1/1920x1080/cHZ5S6INhNOWbAU3.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+AI UGC INDUSTRY HAS A WORD FOR WHAT IT'S ACTUALY SELLING
+
+entire pitch is generating content designed to look like a real person filmed it
+
+on their phone, unscripted, casual That's not a side effect
+
+
+#### Prompt
+
+```text
+AI UGC INDUSTRY HAS A WORD FOR WHAT IT'S ACTUALY SELLING
+
+entire pitch is generating content designed to look like a real person filmed it
+
+on their phone, unscripted, casual That's not a side effect
+
+pipeline actually requires to pull it off:
+
+Base image with intentional
+```
+
+### No. 2261: He Hasn'T Disclosed The Exact Tools Used For
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Grok
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+He hasn't disclosed the exact tools used for this specific RIP CITY trailer.
+
+#### Prompt
+
+```text
+@trebor69_FC @elonmusk He hasn't disclosed the exact tools used for this specific RIP CITY trailer. From his past work, he commonly relies on Kling for video generation along with image tools like Midjourney, Nano Banana (via Hedra), and similar AI models.
+```
+
+### No. 2262: It’S Ridiculous. How Come Nano Banana Which Is
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** mark
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+It’s ridiculous.
+
+#### Prompt
+
+```text
+@mark_k It’s ridiculous. How come nano banana which is 8 months old looks better and video models are getting very good as well but meanwhile image models seem stuck in progress
+```
+
+### No. 2263: Gemini Omni Macht Videoerstellung Zur Konversation. Fünf Builder
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** KI & Automatisierung 🛠️
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Gemini Omni macht Videoerstellung zur Konversation.
+
+#### Prompt
+
+```text
+Gemini Omni macht Videoerstellung zur Konversation.
+
+Fünf Builder zeigen: Reden statt schneiden. Das Modell bearbeitet Videos und visualisiert Ideen – ohne klassische Timeline.
+
+Der Kern: Der Einstieg sinkt massiv. Wer eine Idee klar beschreiben kann, produziert Content. Handwerk
+```
+
+### No. 2264: Google'S Gemini Omni Flash Edits Videos You Already
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Julian Goldie SEO
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086422431158439936/vid/avc1/1280x720/hGQBNUrFMiFQbvhJ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086422431158439936/vid/avc1/1280x720/hGQBNUrFMiFQbvhJ.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Google's Gemini Omni Flash edits videos you ALREADY filmed by just talking to it.
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash edits videos you ALREADY filmed by just talking to it.
+
+Film your friend walking down the street.
+
+Type "make it snow." Same video, same walk, now snowing.
+
+Type "turn my friend into a robot." Done.
+
+Old AI video started from scratch every prompt. New
+```
+
+### No. 2265: Gm My Friends🌞 Let'S Start The Day With
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** KeorUnreal
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+GM my friends🌞 let's start the day with the right pose!😏
+
+Emily Ratajkowski, Keeley Hazell, Alexandra Daddario🔥
+👉🏻Subscribe for more content⚡
+
+Nano Banana 2 via Hailuo AI
+Prompt:
+
+{
+  "subject": {
+   
+
+#### Prompt
+
+```text
+{
+  "subject": {
+    "description": "Young American woman emily ratajkowski with fair skin, long https://t.co/BhJ3bIs1gl
+```
+
+### No. 2266: 🪡3/10 Now Go To: Higgsfield — Nano Banana
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Kolby.crypto {33.3}🧵
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+🪡3/10
+
+Now go to:
+
+Higgsfield — Nano Banana Pro - 
+
+Upload your 3 references and use the prompt I provide in my Telegram.
+
+#### Prompt
+
+```text
+🪡3/10
+
+Now go to:
+
+Higgsfield — Nano Banana Pro - 
+
+Upload your 3 references and use the prompt I provide in my Telegram.
+
+One important detail:
+
+Give your model a recognizable feature.
+
+A tattoo.
+A beauty mark.
+A small scar.
+Something that stays
+```
+
+### No. 2267: Btw, If You Need A Prompt For Nano
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Leo Mishin
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Btw, if you need a prompt for nano banana to generate miro map visual based on the actual content of the video shoot me a dm on WhatsApp
+
+#### Prompt
+
+```text
+@alicrtv Btw, if you need a prompt for nano banana to generate miro map visual based on the actual content of the video shoot me a dm on WhatsApp
+```
+
+### No. 2268: People Think Learning Ai Takes Months. It'S Really
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Cooper Tech Hub
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+People think learning AI takes months.
+
+#### Prompt
+
+```text
+People think learning AI takes months. 
+
+It's really just a couple of hours. 
+
+And I wrote 17 free guides to start right away:
+
+Claude 101: 
+Claude Code: 
+Claude Skills: 
+Nano banana 2:
+```
+
+### No. 2269: Gfs V43 Fast Runner Via Interested In Creating
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Ravikanth K.A.
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+GFS V43 Fast Runner  via  Interested in creating your own version of this video for your own commercial projects or for monetisation of your channel?
+
+#### Prompt
+
+```text
+GFS V43 Fast Runner  via @YouTube Interested in creating your own version of this video for your own commercial projects or for monetisation of your channel? The complete production system and the workflow used to create this video is available for
+```
+
+### No. 2270: Nano Banana Pro Promotional And Cinematic Prompt ⤵️
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Maddox
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+A vibrant mixed media composition blending high-end studio fashion photography with bold 2D vector art overlays, featuring a stylish subject with 
+
+#### Prompt
+
+```text
+Nano banana pro promotional and Cinematic Prompt ⤵️ 
+
+A vibrant mixed media composition blending high-end studio fashion photography with bold 2D vector art overlays, featuring a stylish subject with uploaded face as reference posing dynamically against a clean, neutral grey
+```
+
+### No. 2271: Cool Prompt Nano-Banana Did A Great Job 🦾
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** NIK
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Cool prompt
+
+Nano-banana did a great job 🦾
+
+#### Prompt
+
+```text
+@kingofdairyque Cool prompt
+
+Nano-banana did a great job 🦾
+```
+
+### No. 2272: There Is Still No Nano Banana Pro Moment
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** AIGIRL
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+There is still no nano banana pro moment for video generation yet.
+
+#### Prompt
+
+```text
+There is still no nano banana pro moment for video generation yet. 
+Nano banana pro gives you results in 1 shot. 
+But even seedance 2.5 you find issues with physics
+```
+
+### No. 2273: First, You Need A Source Frame. My Usual
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Ksenia
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+First, you need a source frame.
+
+#### Prompt
+
+```text
+First, you need a source frame. My usual process: Midjourney for composition → swap in the right setting with Nano Banana Pro.
+
+But this time I just needed a different angle of the character, so I used multi-shot in @higgsfield . Pick one of the options → done.
+
+Then record
+```
+
+### No. 2274: Red, Green And Yellow Embroidery That Turns Simplicity
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** J⭕DIE
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Red, Green and Yellow embroidery that turns simplicity into art.
+
+#### Prompt
+
+```text
+Red, Green and Yellow embroidery that turns simplicity into art.
+
+▫️Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+▫️Light Edit in InShot
+
+▫️Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:👇
+
+Subject description:
+A Young woman with a refined, natural appearance and
+```
+
+### No. 2275: I Built An Ai Influencer That People Can’T
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mavern
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2079467487582715905/vid/avc1/1920x1080/rtmma3D9NP-ljgxK.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079467487582715905/vid/avc1/1920x1080/rtmma3D9NP-ljgxK.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+I BUILT AN AI INFLUENCER THAT PEOPLE CAN’T TELL IS FAKE
+
+Nobody tells you this but realistic AI influencers don’t start with video.
+
+#### Prompt
+
+```text
+I BUILT AN AI INFLUENCER THAT PEOPLE CAN’T TELL IS FAKE
+
+Nobody tells you this but realistic AI influencers don’t start with video.
+
+They start with one ultra-detailed image that becomes the foundation for every piece of content.
+
+One reference image → an AI creator that stays
+```
+
+### No. 2276: 1. Sidoku Teaches A Clean Workflow For Ai
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Rodrigo Bressane
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+1.
+
+#### Prompt
+
+```text
+1. SIDOKU teaches a clean workflow for AI hero images
+
+Sketch the concept, build a precise moodboard, let ChatGPT turn the references into a detailed prompt, then iterate in Midjourney or Nano Banana.
+```
+
+### No. 2277: Let’S Go To The Beach Today!🌞👙 Emma Myers
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** KeorUnreal
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Let’s go to the beach today!🌞👙
+
+Emma Myers, Ester Expòsito, Brie Larson, Natalie Dyer❤️🩵🧡💚
+👉🏻Subscribe for more content⚡️
+
+Nano Banana Pro via Hailuo AI
+Prompt:
+
+An exceptional, high-end professional 
+
+#### Prompt
+
+```text
+An exceptional, high-end professional fashion and photojournalism photograph in a 9:16 vertical aspect ratio https://t.co/XgcD72l3BV https://t.co/2A9OS4JlEx
+```
+
+### No. 2278: Artingentさんの作品です Aug 5 A Crystal Energy Distribution Chamber
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** sayobonita
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Artingentさんの作品です
+
+
+Aug 5
+A crystal energy distribution chamber imagined and rendered in an artistic decopunk style.
+
+#### Prompt
+
+```text
+Artingentさんの作品です
+@artingent←Prompt
+
+Aug 5
+A crystal energy distribution chamber imagined and rendered in an artistic decopunk style. Generated using Nano banana pro. Prompt in the first reply
+```
+
+### No. 2279: Did You Know Gemini Omni Flash Is Free
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mark Davis
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Did you know Gemini Omni Flash is free on YouTube Shorts.
+
+#### Prompt
+
+```text
+Did you know Gemini Omni Flash is free on YouTube Shorts.
+
+Mix images, audio, video, and text, then edit by talking to it. Paid Gemini users get it in the app and Flow.
+
+If you make product clips, learn that chat-edit flow now while Shorts access is free.
+```
+
+### No. 2280: Arkadaşlar Görsel Model Konusunda Nano Banana Pro (Gemini)
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** ssm
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Arkadaşlar görsel model konusunda Nano Banana Pro (Gemini) - GPT2 (Chatgpt) birbirine yakın modeller.
+
+#### Prompt
+
+```text
+@kiyashaber842 Arkadaşlar görsel model konusunda Nano Banana Pro (Gemini) - GPT2 (Chatgpt) birbirine yakın modeller. Video modeli olarak Seedance koydu götürüyor. Dil modeli olarak bizim jargonumuza yakın betimlemeler yapabildiği için Grok. Kodlama ve programcılık için Claude. öptüm bye
+```
+
+### No. 2281: [Nano Banana 2 Prompt] | Ar 9:16 4K
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Feyber | AI Creator
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+[Nano Banana 2 Prompt] | ar 9:16 4K
+Created on   
+
+Photorealistic portrait of a cute young East Asian woman in her early 20s sitting on a soft pink quilted bedspread in a cozy bedroom.
+
+#### Prompt
+
+```text
+[Nano Banana 2 Prompt] | ar 9:16 4K
+Created on @TopviewAIhq @topviewaijp #Topview
+
+Photorealistic portrait of a cute young East Asian woman in her early 20s sitting on a soft pink quilted bedspread in a cozy bedroom. She has long wavy light-brown hair cascading over her
+```
+
+### No. 2282: Five Ai Builds Worth Seeing: A Luxury Home
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** AI Experience
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Five AI builds worth seeing: a luxury home, video, pixel worlds, physics, and sci-fi.
+
+#### Prompt
+
+```text
+Five AI builds worth seeing: a luxury home, video, pixel worlds, physics, and sci-fi.
+
+1. Luxury Home Workflow
+
+Nano Banana 2 and Gemini Omni Flash design a luxury country house with a pool. Prompt and workflow are shared.
+```
+
+### No. 2283: Seedream 5.0 Pro Or Nano Banana 2? 🍌⚡
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Magica
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/ext_tw_video/2086483104315625472/pu/vid/avc1/720x720/5zo4_V8OW9-DAoBw.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2086483104315625472/pu/vid/avc1/720x720/5zo4_V8OW9-DAoBw.mp4?tag=12" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Seedream 5.0 Pro or Nano Banana 2?
+
+#### Prompt
+
+```text
+Seedream 5.0 Pro or Nano Banana 2? 🍌⚡
+Same prompt, both models, zero app switching — all on Magica.
+
+Try it yourself and decide the winner.
+```
+
+### No. 2284: Ai動画生成の案件で、 実際にどう戦っているのかを少しだけ紹介します。 今、この瞬間 作業しております。 まず、最近かなりクオリティが高い Nano Banan
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Issei Satonaka / STP 代表 / 映像クリエイター
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+AI動画生成の案件で、
+実際にどう戦っているのかを少しだけ紹介します。
+
+#### Prompt
+
+```text
+AI動画生成の案件で、
+実際にどう戦っているのかを少しだけ紹介します。
+
+今、この瞬間　作業しております。
+
+まず、最近かなりクオリティが高い
+Nano Banana Proで実写画像を調整しつつ
+Seedanceで動画素材に変換生成。
+
+当然、一発でOKなんてほぼ出ません。
+生成 → 確認 → 修正 → 再生成。
+```
+
+### No. 2285: Google Gemini-Nano Banana Pro Gave It The Same
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Tim Jayas
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Google Gemini-Nano Banana Pro
+
+gave it the same prompt which i used for GPT-image 2 and Grok Imagine 2.0
+
+#### Prompt
+
+```text
+Google Gemini-Nano Banana Pro
+
+gave it the same prompt which i used for GPT-image 2 and Grok Imagine 2.0
+```
+
+### No. 2286: That'S A Wrap! I Hope You'Ve Found This
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Marco
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+THAT'S A WRAP!
+
+#### Prompt
+
+```text
+THAT'S A WRAP!
+
+I hope you've found this helpful.
+
+I think it is absolutely insane that you can get this many awesome shots and dope lip sync from a few starting images and an audio clip!
+
+Images: @midjourney + Nano Banana Pro / GPT-2 (via @magnific AI Tool Suite)
+Video:
+```
+
+### No. 2287: Nano Banana Go Just Dey Generate Rubbish Sometimes
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mr Babs
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Nano Banana go just dey generate rubbish sometimes , how many negative prompt I want add like this now 😏
+
+#### Prompt
+
+```text
+Nano Banana go just dey generate rubbish sometimes , how many negative prompt I want add like this now 😏
+```
+
+### No. 2288: Same Prompt: Photo Of A Woman Using A
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** choke belt
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Same prompt: Photo of a woman using a Hitachi.
+
+#### Prompt
+
+```text
+Photo of a woman using a Hitachi. Left Nano Banana, right Grok. That sums it up quite well. https://t.co/83Af8iCxHC
+```
+
+### No. 2289: This New Google Flow Update Is Wild 🤯
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Julian Goldie SEO
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+This new Google Flow update is WILD 🤯
+
+Your AI video tool can now plan before it acts.
+
+#### Prompt
+
+```text
+This new Google Flow update is WILD 🤯
+
+Your AI video tool can now plan before it acts.
+
+Flow Agent handles whole jobs instead of one tiny edit.
+
+Gemini Omni Flash even remembers what you changed before. 👀
+
+Old videos in your camera roll just became useful again. 😂
+
+👉 Link in
+```
+
+### No. 2290: Ai Video Models Aren'T The Meta Anymore. Locked
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Luella
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086509680281436160/vid/avc1/576x1024/_S_WxwGPP-5tShIr.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086509680281436160/vid/avc1/576x1024/_S_WxwGPP-5tShIr.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+AI VIDEO MODELS AREN'T THE META ANYMORE.
+
+#### Prompt
+
+```text
+AI VIDEO MODELS AREN'T THE META ANYMORE.
+LOCKED DIGITAL MODELS ARE.
+
+ngl video gen already feels table stakes
+kling, wan 2.1, dream, comfyui, runpod
+image-to-video, character swap, replace the girl
+everyone can ship a 7-second clip tonight
+
+that's not the edge
+
+the edge is a
+```
+
+### No. 2291: A Perfect Day In The Water Park! Mina
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Alice Han
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+A perfect day in the water park!
+
+#### Prompt
+
+```text
+A perfect day in the water park!
+
+Mina, Momo, Sana, Tzuyu
+
+TWICE
+
+Nano Banana Pro via AI Studio, prompt ⤵️
+```
+
+### No. 2292: Gemini Omni Can Generate Video From Text Or
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Julian Goldie SEO
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086370840791355392/vid/avc1/1280x720/x8bb4Q-TIhHrNAcS.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086370840791355392/vid/avc1/1280x720/x8bb4Q-TIhHrNAcS.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Gemini Omni can generate video from text or images.
+
+#### Prompt
+
+```text
+Gemini Omni can generate video from text or images.
+
+It also understands:
+
+→ Motion
+
+→ Camera movement
+
+→ Lighting
+
+→ Sound
+
+And you can edit the result by simply chatting with it.
+
+“Change the lighting.”
+
+“Make the camera pan slower.”
+
+No timeline editing required.
+```
+
+### No. 2293: Bring Competition Together. -Kasey'S Selfie Was Generated Using
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** will
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Bring competition together.
+
+#### Prompt
+
+```text
+Bring competition together.
+
+-Kasey's selfie was generated using ChatGPT
+-Kasey's actual video (using such selfie) was generated through Grok Imagine: 
+
+(also threw in Nano Banana to show the difference between ChatGPT's Images v2 vs. Nano Banana)
+```
+
+### No. 2294: Creative Workflow / Nano Banana Luxury Brands, Reimagined
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Amira Zairi
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Creative Workflow / Nano Banana
+
+Luxury brands, reimagined as crystal-clear lollipops
+
+This Nano Banana prompt blends iconic branding with translucent candy textures to create playful concepts that lo
+
+#### Prompt
+
+```text
+Creative Workflow / Nano Banana
+
+Luxury brands, reimagined as crystal-clear lollipops
+
+This Nano Banana prompt blends iconic branding with translucent candy textures to create playful concepts that look almost good enough to eat
+
+Prompt below
+```
+
+### No. 2295: This Ai Tool Can Build An Animated Ai
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mavern
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2079468146533003265/vid/avc1/1920x1080/0AJ75aJeNiaJ3vls.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079468146533003265/vid/avc1/1920x1080/0AJ75aJeNiaJ3vls.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+THIS AI TOOL CAN BUILD AN ANIMATED AI INFLUENCER THAT NEVER BREAKS CHARACTER
+
+Nobody tells you this but the secret to realistic AI influencers isn’t the animation.
+
+#### Prompt
+
+```text
+THIS AI TOOL CAN BUILD AN ANIMATED AI INFLUENCER THAT NEVER BREAKS CHARACTER
+
+Nobody tells you this but the secret to realistic AI influencers isn’t the animation.
+
+It’s creating a character the AI can recognize before you generate a single video.
+
+One consistent character →
+```
+
+### No. 2296: No. Grok Image 2.0 Generates And Edits From
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Grok
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+No.
+
+#### Prompt
+
+```text
+@elevendr69 @imagine No. Grok Image 2.0 generates and edits from your text prompt plus any reference images you upload (up to 5 in Quality Mode). It does not search the web or pull external image references the way GPT Image 2 or Nano Banana 2 can.
+```
+
+### No. 2297: [Nano Banana 2 Prompt] | Ar 9:16 4K
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Feyber | AI Creator
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+[Nano Banana 2 Prompt] | ar 9:16 4K
+Created on   
+
+A photorealistic portrait of a young East Asian woman (resembling Jennie from Blackpink) with long straight dark brown hair loosely falling over her 
+
+#### Prompt
+
+```text
+[Nano Banana 2 Prompt] | ar 9:16 4K
+Created on @TopviewAIhq @topviewaijp #Topview
+
+A photorealistic portrait of a young East Asian woman (resembling Jennie from Blackpink) with long straight dark brown hair loosely falling over her shoulders, fair skin, soft smile showing teeth,
+```
+
+### No. 2298: Elizabeth Olsen As Rogue Will Go Hard 🔥
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Noah
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Elizabeth Olsen as Rogue will go hard 🔥
+
+Nano Banana Pro 🍌 
+
+Prompt 👇
+
+#### Prompt
+
+```text
+Elizabeth Olsen as Rogue will go hard 🔥
+
+Nano Banana Pro 🍌 
+
+Prompt 👇
+```
+
+### No. 2299: The Current Gpt-Image 2 That Is Available Is
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** LegendarySaiyajin
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+The current GPT-image 2 that is available is already superior to nano banana 2.
+
+#### Prompt
+
+```text
+@Rob3rtWozny @chetaslua The current GPT-image 2 that is available is already superior to nano banana 2. So I think you may be a bit behind on this one.
+
+Every single video gen you're seeing is relying right now on GPT image 2.
+```
+
+### No. 2300: Upload That Your Blury Image On Google Nano
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** NJASI CHIABUOTU
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Upload that your blury  image on Google Nano Banana pro and add this to your prompt:
+
+Shot on a 50 mm prime lens, f/
+1.4, ISO 200, 1/160 s, portrait
+orientation, tight-frame portrait,
+ultra-shallow de
+
+#### Prompt
+
+```text
+Shot on a 50 mm prime lens, f/
+1.4, ISO 200, 1/160 s, portrait
+orientation, tight-frame portrait,
+ultra-shallow depth of field. Soft
+diffused key light from screen
+front, low-contrast fill from
+```
+
+### No. 2301: Chatgpt + Nano Banana + Google Flow. Chatgpt
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** NJASI CHIABUOTU
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086556232760852480/vid/avc1/2160x3840/BehOfq9RIT64Ow4P.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086556232760852480/vid/avc1/2160x3840/BehOfq9RIT64Ow4P.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Chatgpt + Nano banana + Google Flow.
+
+#### Prompt
+
+```text
+Chatgpt + Nano banana + Google Flow.
+
+Chatgpt for script writing 
+
+Nano banana pro for image creation 
+
+Google flow for video creation.
+```
+
+### No. 2302: Your Product Photos Are Costing You Sales. Upload
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Mina Labs
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Your product photos are costing you sales.
+
+#### Prompt
+
+```text
+Your product photos are costing you sales.
+Upload the photo you took on your phone. Type “on a clean white background” or a marble counter, or a sunny café table. Download a studio-quality shot in seconds. Pick Bria to keep your product exactly as photographed, or Nano Banana to
+```
+
+### No. 2303: For Those Asking Me How I Came Up
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Olatunde AI
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+For those asking me how I came up with my UGC POSTER, lemme put you on.
+
+#### Prompt
+
+```text
+For those asking me how I came up with my UGC POSTER, lemme put you on. 
+
+Attach your Storyboard with the below prompt and run it on ChatGPT or Nano Banana. Add the relevant info.
+
+"Generate 1 carousel hero shot image containing the company information. Aspect ratio: 9:16."
+```
+
+### No. 2304: Limited Free Video Gens Are A Smart Way
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Grok
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Limited free video gens are a smart way to drive trials of new AI features.
+
+#### Prompt
+
+```text
+@jabba44994 @GeminiApp Limited free video gens are a smart way to drive trials of new AI features. Gemini Omni handles multimodal inputs well for short clips and conversational edits. The original cutoff got extended to Aug 11, so the window is still open for anyone wanting to test it.
+```
+
+### No. 2305: Here'S A Truth The Ai Insiders Are Gatekeeping
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Ai Freelancer
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086562101678505985/vid/avc1/1214x720/Qttg_fGBgUOWhdsm.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086562101678505985/vid/avc1/1214x720/Qttg_fGBgUOWhdsm.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Here's a truth the AI insiders are gatekeeping: Gemini Omni + GPT Images 2 can literally rewrite any video.
+
+#### Prompt
+
+```text
+Here's a truth the AI insiders are gatekeeping: Gemini Omni + GPT Images 2 can literally rewrite any video. Swap dialogue, replace characters, add or delete objects—for pennies. It's not a demo, it's production-ready. Stop waiting for permission to use it.
+```
+
+### No. 2306: I Tried Creating The Video Using Only Text
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Giulia
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+I tried creating the video using only text, but it didn't work.
+
+#### Prompt
+
+```text
+@jimangiesmokie1 I tried creating the video using only text, but it didn't work. So I generated the image with Nano Banana and animated it with Grok Imagine.
+```
+
+### No. 2307: She Didn'T Describe A Video. She Screenshotted Someone
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** riVeN
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086565116074463234/vid/avc1/720x1280/zkkyJ_pbjO2i2tQw.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086565116074463234/vid/avc1/720x1280/zkkyJ_pbjO2i2tQw.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+she didn't describe a video.
+
+#### Prompt
+
+```text
+she didn't describe a video. she screenshotted someone else's channel and asked claude for a month of content in that style
+
+what came back wasn't a plan. claude called higgsfield, generated the scene in nano banana 2, rendered it to motion in kling 3.0, then said it would stitch
+```
+
+### No. 2308: Escaped The Ordinary And Found My Kind Of
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Glena jenner
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Escaped the ordinary and found my kind of blue.
+
+#### Prompt
+
+```text
+Escaped the ordinary and found my kind of blue. 🌊✨
+
+Sydney Sweeney • Billie Eilish • Charli D'Amelio • Scarlett johansson
+
+Nano banana pro prompt on Patreon
+```
+
+### No. 2309: Tested Flux 3, Cosmos 3, Gemini Omni Flash
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** twelve
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086562924890562560/vid/avc1/1298x1104/5e-okoTBwQ8zcigU.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086562924890562560/vid/avc1/1298x1104/5e-okoTBwQ8zcigU.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+tested FLUX 3, Cosmos 3, Gemini Omni Flash, Wan 2.7, MiniMax H3, same prompt: one die, two quarter-turn rolls, a brief camera look-away.
+
+#### Prompt
+
+```text
+one die, two quarter-turn rolls, a brief camera look-away.
+
+0/5 did the rolls. 5/5 broke the die: duplicate faces or impossible neighbors. 2 spawned an extra die mid-clip.
+
+bottom right is the correct https://t.co/osXrzY4J7U
+```
+
+### No. 2310: 3/5: Gemini Omni Flash. Keynote: "Not A Video
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** twelve
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086570360342990848/vid/avc1/1280x720/hS4HtA_Ibh46ZAVO.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086570360342990848/vid/avc1/1280x720/hS4HtA_Ibh46ZAVO.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+3/5: Gemini Omni Flash.
+
+#### Prompt
+
+```text
+3/5: Gemini Omni Flash. keynote: "not a video generator but a world model."
+
+output: "2" changes to "3" without motion at 0:04; three "5" faces appear at 0:06; shot returns with two dice — one briefly flashes in and out.
+
+rolls: 0/2 · look-away: yes · legal die: no
+```
+
+### No. 2311: Lots Of Really Solid Improvement! We Still Need
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** X Girls
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+lots of really solid improvement!
+
+#### Prompt
+
+```text
+@pratoshdwivedi @elonmusk @grok lots of really solid improvement! we still need a proper Grok Imagine omni video model like Gemini Omni and Seedance though. right now you can't use uploaded video/audio references for characters.
+```
+
+### No. 2312: Same Prompt!! Nano Banana Vs Imagine Image 2.0
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** MO 🔶 BNB
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Same prompt!!
+
+#### Prompt
+
+```text
+@doganuraldesign Same prompt!!
+Nano Banana vs Imagine Image 2.0
+Nano Banana wins 🙌
+```
+
+### No. 2313: With Nano Banana 2 Using And My Custom
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Heather Green
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+with Nano Banana 2 using  and my custom style:  Link will open Magnific's AI generator and load my style for you.
+
+#### Prompt
+
+```text
+A close-up, profile shot shows a puffin with its beak full of small fish. The puffin's head is turned to the https://t.co/i0PUUAK2tU
+```
+
+### No. 2314: Keep Exploring The Possibilities Even The Weird Ones
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Emily
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Keep exploring the possibilities even the weird ones.
+
+#### Prompt
+
+```text
+WORLDKNOT CHRONICLE
+
+Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Write in the user's language, preserve text, and keep requested or source ratio.
+
+Use three https://t.co/GJW7jCU9WE
+```
+
+### No. 2315: I Used To Think Creating Cinematic Fantasy Battles
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Caden Flux
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086617826098597890/vid/avc1/1920x1080/V1dQ-pvQ7nNdnYXA.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086617826098597890/vid/avc1/1920x1080/V1dQ-pvQ7nNdnYXA.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+I used to think creating cinematic fantasy battles with AI was still a major challenge…  
+
+But this result completely changed my perspective🔥 
+
+Testing   with Seedance 2.5, MiniMax H3, and Nano Banana
+
+#### Prompt
+
+```text
+I used to think creating cinematic fantasy battles with AI was still a major challenge…  
+
+But this result completely changed my perspective🔥 
+
+Testing @newtake_kr  with Seedance 2.5, MiniMax H3, and Nano Banana shows how far AI video generation has come.  
+
+The action
+```
+
+### No. 2316: Nano Banana Pro Promotional And Cinematic Prompt🖤 ⤵️
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Maddox
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Nano banana pro promotional and Cinematic Prompt🖤 ⤵️
+
+Create a romantic black-and-white studio portrait of a real skinny, not medium weighed, couple standing in front of a wall with a heart-shaped lig
+
+#### Prompt
+
+```text
+Nano banana pro promotional and Cinematic Prompt🖤 ⤵️
+
+Create a romantic black-and-white studio portrait of a real skinny, not medium weighed, couple standing in front of a wall with a heart-shaped light projected behind them. The couple must maintain their real and original
+```
+
+### No. 2317: Gemini Nano Banana Pro Prompt Ultra-Realistic High-End Fashion
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 𝐀𝐲𝐫𝐚
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen]()
+
+<video src="" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Gemini Nano Banana Pro 
+Prompt 
+
+Ultra-realistic high-end fashion editorial portrait of a sophisticated woman posed sideways across a vintage wooden chair, with her head gently supported by one hand w
+
+#### Prompt
+
+```text
+Gemini Nano Banana Pro 
+Prompt 
+
+Ultra-realistic high-end fashion editorial portrait of a sophisticated woman posed sideways across a vintage wooden chair, with her head gently supported by one hand while maintaining a calm, confident direct gaze into the camera. She has long,
+```
+
+### No. 2318: Nano Banana 2 × Gemini Omni Flash Building
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 𝐌
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://video.twimg.com/amplify_video/2086643004144828416/vid/avc1/1280x720/62d2xNDRuRszMRa3.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086643004144828416/vid/avc1/1280x720/62d2xNDRuRszMRa3.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Nano Banana 2 × Gemini Omni flash 
+
+Building a Tiny Luxury Home High in the Trees 🏡
+
+Prompt &amp; workflow 👇🏻
+
+#### Prompt
+
+```text
+Nano Banana 2 × Gemini Omni flash 
+
+Building a Tiny Luxury Home High in the Trees 🏡
+
+Prompt &amp; workflow 👇🏻
 ```
 
 Diese README wird automatisch aus `data/prompts_by_locale` erzeugt.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2503%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Eine kuratierte Sammlung von Gemini-Omni-Promptbeispielen mit eingebetteten OSS-Videovorschauen.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrik | Anzahl |
 | --- | ---: |
-| Prompts Insgesamt | 2503 |
+| Prompts Insgesamt | 2511 |
 | Kategorien | 11 |
-| Vorschauvideos | 655 |
-| Zuletzt aktualisiert | 12.08.2026 |
+| Vorschauvideos | 663 |
+| Zuletzt aktualisiert | 14.08.2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Ein wütender roter Drache (Element) erhebt sich aus dem Meer und fliegt mit ext
 
 <a id="category-11"></a>
 
-### Twitter Community (2401)
+### Twitter Community (2409)
 
 ### No. 103: Romantische Naturporträt-Redaktionsfotografie
 
@@ -59343,6 +59343,199 @@ When the Cinematic Fantasy of  is brought to Life with  Gemini Omni Flash, it is
 When the Cinematic Fantasy of @midjourney is brought to Life with @GeminiApp Gemini Omni Flash, it is Magic...
 
 Image to Video using @FlowbyGoogle @GoogleDeepMind
+```
+
+### No. 2504: Bilder eines indischen Lastwagens und Lagerhauses
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 44images.com
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Kostenlose KI-Bilder eines indischen Lastwagens & Lagerhauses
+ --- Sie können sie für Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, soziale Medien, Nano-Banana, Canva, KI-Video, Veo 4, Kling, Spiele, Se verwenden
+
+#### Prompt
+
+```text
+Free Ai iages of indian Truck &amp; warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2505: Bilder eines chinesischen Lastwagens im Lagerhaus
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 44images.com
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Kostenlose KI-Bilder eines chinesischen Lastwagens im Lagerhaus
+ --- Sie können sie für Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, soziale Medien, Nano-Banana, Canva, KI-Video, Veo 4, Kling, Spiele, See verwenden
+
+#### Prompt
+
+```text
+Free Ai images of Chinese Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2506: Bilder eines amerikanischen Lastwagens im Lagerhaus
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 44images.com
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Kostenlose KI-Bilder eines amerikanischen Lastwagens im Lagerhaus
+ --- Sie können sie für Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, soziale Medien, Nano-Banana, Canva, KI-Video, Veo 4, Kling, Spiele, Se verwenden
+
+#### Prompt
+
+```text
+Free Ai images of American Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2507: Bilder der indischen Stahlindustrie
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 44images.com
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Kostenlose KI-Bilder der indischen Stahlindustrie
+ --- Sie können sie für Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, soziale Medien, Nano-Banana, Canva, KI-Video, Veo 4, Kling, Spiele, Seedance verwenden
+
+#### Prompt
+
+```text
+Free Ai images of indian Steel industry
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2508: Hochauflösendes fotorealistisches Modefoto
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** J⭕DIE
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein Bild, in dem Mode, Freundschaft und Atmosphäre auf wunderschöne Weise zusammentreffen.
+
+#### Prompt
+
+```text
+A picture where fashion, friendship, and atmosphere meet beautifully.
+
+Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+My Own Idea, Style &amp; Direction.
+
+Light Edit in InShot.
+
+Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Create a high-resolution, photorealistic
+```
+
+### No. 2509: Kurzer filmischer Action-Clip
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** ChuksAi
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Ein kurzer filmischer Action-Clip, erstellt mit Google Gemini Omni und Grok Ai ✅ 
+
+Prompt unten kopieren 👇👇
+
+#### Prompt
+
+```text
+A short cinematic action clip created with Google Gemini Omni and Grok Ai ✅ 
+
+Copy prompt below 👇👇
+```
+
+### No. 2510: Extreme Nahaufnahme einer leuchtenden Gel-Tube
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Da Mayor - AI Creative Director 🎨💻
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Generiert mit Gemini Omni Flash auf 
+
+Video-PROMPT ⤵️-
+
+Extreme Makro-Nahaufnahme-Kinematografie.
+
+#### Prompt
+
+```text
+Generated with Gemini Omni Flash on @GeminiApp 
+
+Video PROMPT  ⤵️-
+
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the
+```
+
+### No. 2511: Zweiteilige Eingabeaufforderung mit definierten Szenen und Einschränkungen
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Xerophayze
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Eine zweiteilige Eingabeaufforderung funktioniert besser, wenn jeder Teil eine bestimmte Aufgabe hat.
+
+#### Prompt
+
+```text
+A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
 ```
 
 Diese README wird automatisch aus `data/prompts_by_locale` erzeugt.

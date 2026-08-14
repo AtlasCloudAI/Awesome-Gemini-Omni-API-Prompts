@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2503%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 2503 |
+| 전체 프롬프트 | 2511 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 655 |
-| 마지막 업데이트 | 2026. 08. 12. |
+| 미리보기 비디오 수 | 663 |
+| 마지막 업데이트 | 2026. 08. 14. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2401)
+### Twitter Community (2409)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -59328,6 +59328,199 @@ When the Cinematic Fantasy of  is brought to Life with  Gemini Omni Flash, it is
 When the Cinematic Fantasy of @midjourney is brought to Life with @GeminiApp Gemini Omni Flash, it is Magic...
 
 Image to Video using @FlowbyGoogle @GoogleDeepMind
+```
+
+### No. 2504: 인도 트럭 및 창고 이미지
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 44images.com
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+인도 트럭 및 창고의 무료 AI 이미지
+--- 인스타, 페이스북, 틱톡, 유튜브, X, 레딧, 인스타그램, 왓츠압, 소셜 미디어, 나노-바나나, 캔바, AI 비디오, Veo 4, Kling, 게임, Se에서 사용 가능
+
+#### 프롬프트
+
+```text
+Free Ai iages of indian Truck &amp; warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2505: 창고 내 중국 트럭 이미지
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 44images.com
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+창고 내 중국 트럭의 무료 AI 이미지
+--- 인스타, 페이스북, 틱톡, 유튜브, X, 레딧, 인스타그램, 왓츠압, 소셜 미디어, 나노-바나나, 캔바, AI 비디오, Veo 4, Kling, 게임, See에서 사용 가능
+
+#### 프롬프트
+
+```text
+Free Ai images of Chinese Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2506: 창고 내 미국 트럭 이미지
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 44images.com
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+창고 내 미국 트럭의 무료 AI 이미지
+--- 인스타, 페이스북, 틱톡, 유튜브, X, 레딧, 인스타그램, 왓츠압, 소셜 미디어, 나노-바나나, 캔바, AI 비디오, Veo 4, Kling, 게임, Se에서 사용 가능
+
+#### 프롬프트
+
+```text
+Free Ai images of American Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2507: 인도 철강 산업 이미지
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 44images.com
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+인도 철강 산업의 무료 AI 이미지
+--- 인스타, 페이스북, 틱톡, 유튜브, X, 레딧, 인스타그램, 왓츠압, 소셜 미디어, 나노-바나나, 캔바, AI 비디오, Veo 4, Kling, 게임, Seedance에서 사용 가능
+
+#### 프롬프트
+
+```text
+Free Ai images of indian Steel industry
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2508: 고해상도 사실적 패션 사진
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** J⭕DIE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+패션, 우정, 분위기가 아름답게 어우러진 사진.
+
+#### 프롬프트
+
+```text
+A picture where fashion, friendship, and atmosphere meet beautifully.
+
+Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+My Own Idea, Style &amp; Direction.
+
+Light Edit in InShot.
+
+Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Create a high-resolution, photorealistic
+```
+
+### No. 2509: 짧은 시네마틱 액션 클립
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ChuksAi
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Google Gemini Omni와 Grok Ai로 제작된 짧은 시네마틱 액션 클립 ✅
+
+아래 프롬프트를 복사하세요 👇👇
+
+#### 프롬프트
+
+```text
+A short cinematic action clip created with Google Gemini Omni and Grok Ai ✅ 
+
+Copy prompt below 👇👇
+```
+
+### No. 2510: 빛나는 젤 튜브의 극단적인 클로즈업
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Da Mayor - AI Creative Director 🎨💻
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+Gemini Omni Flash로 생성됨
+
+비디오 프롬프트 ⤵️-
+
+극단적인 클로즈업 매크로 촬영 기법.
+
+#### 프롬프트
+
+```text
+Generated with Gemini Omni Flash on @GeminiApp 
+
+Video PROMPT  ⤵️-
+
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the
+```
+
+### No. 2511: 정의된 장면과 제약 조건을 가진 두 패널 프롬프트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Xerophayze
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+각 패널이 명확한 역할을 가질 때 두 패널 프롬프트는 더 효과적으로 작동합니다.
+
+#### 프롬프트
+
+```text
+A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2503%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 2503 |
+| 総プロンプト数 | 2511 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 655 |
-| 最終更新 | 2026/08/12 |
+| プレビュー動画数 | 663 |
+| 最終更新 | 2026/08/14 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2401)
+### Twitter Community (2409)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -59328,6 +59328,199 @@ When the Cinematic Fantasy of  is brought to Life with  Gemini Omni Flash, it is
 When the Cinematic Fantasy of @midjourney is brought to Life with @GeminiApp Gemini Omni Flash, it is Magic...
 
 Image to Video using @FlowbyGoogle @GoogleDeepMind
+```
+
+### No. 2504: インドのトラックと倉庫の画像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 44images.com
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+インドのトラックと倉庫の無料AI画像
+ --- Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、ソーシャルメディア、Nano-banana、Canva、AI動画、Veo 4、Kling、ゲーム、Seで使用可能
+
+#### プロンプト
+
+```text
+Free Ai iages of indian Truck &amp; warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2505: 倉庫内の中国製トラックの画像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 44images.com
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+倉庫内の中国製トラックの無料AI画像
+ --- Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、ソーシャルメディア、Nano-banana、Canva、AI動画、Veo 4、Kling、ゲーム、Seeで使用可能
+
+#### プロンプト
+
+```text
+Free Ai images of Chinese Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2506: 倉庫内のアメリカントラックの画像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 44images.com
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+倉庫内のアメリカントラックの無料AI画像
+ --- Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、ソーシャルメディア、Nano-banana、Canva、AI動画、Veo 4、Kling、ゲーム、Seで使用可能
+
+#### プロンプト
+
+```text
+Free Ai images of American Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2507: インドの鉄鋼産業の画像
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 44images.com
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+インドの鉄鋼産業の無料AI画像
+ --- Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、ソーシャルメディア、Nano-banana、Canva、AI動画、Veo 4、Kling、ゲーム、Seedanceで使用可能
+
+#### プロンプト
+
+```text
+Free Ai images of indian Steel industry
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2508: 高解像度フォトリアリスティックなファッションフォト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** J⭕DIE
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ファッション、友情、そして雰囲気が見事に調和した一枚の写真。
+
+#### プロンプト
+
+```text
+A picture where fashion, friendship, and atmosphere meet beautifully.
+
+Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+My Own Idea, Style &amp; Direction.
+
+Light Edit in InShot.
+
+Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Create a high-resolution, photorealistic
+```
+
+### No. 2509: 短編映画風アクションクリップ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ChuksAi
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Google Gemini OmniとGrok Aiで作成された短編映画風アクションクリップ ✅
+
+以下のプロンプトをコピーしてください 👇👇
+
+#### プロンプト
+
+```text
+A short cinematic action clip created with Google Gemini Omni and Grok Ai ✅ 
+
+Copy prompt below 👇👇
+```
+
+### No. 2510: 発光するゲルチューブの超接写
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Da Mayor - AI Creative Director 🎨💻
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+Gemini Omni Flashで生成
+
+動画プロンプト ⤵️-
+
+極端なクローズアップマクロシネマトグラフィー。
+
+#### プロンプト
+
+```text
+Generated with Gemini Omni Flash on @GeminiApp 
+
+Video PROMPT  ⤵️-
+
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the
+```
+
+### No. 2511: 定義されたシーンと制約を持つ2パネルプロンプト
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Xerophayze
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+各パネルに役割がある場合、2パネルプロンプトはより効果的に機能します。
+
+#### プロンプト
+
+```text
+A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

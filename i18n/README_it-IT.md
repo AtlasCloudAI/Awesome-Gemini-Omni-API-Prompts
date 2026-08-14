@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2503%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una raccolta curata di esempi di prompt Gemini Omni con anteprime video OSS integrate.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Conteggio |
 | --- | ---: |
-| Prompt Totali | 2503 |
+| Prompt Totali | 2511 |
 | Categorie | 8 |
-| Video di Anteprima | 655 |
-| Ultimo Aggiornamento | 12/08/2026 |
+| Video di Anteprima | 663 |
+| Ultimo Aggiornamento | 14/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2401)
+### Twitter Community (2409)
 
 ### No. 103: Ritratto Romantico Naturale - Fotografia Editoriale
 
@@ -59328,6 +59328,199 @@ When the Cinematic Fantasy of  is brought to Life with  Gemini Omni Flash, it is
 When the Cinematic Fantasy of @midjourney is brought to Life with @GeminiApp Gemini Omni Flash, it is Magic...
 
 Image to Video using @FlowbyGoogle @GoogleDeepMind
+```
+
+### No. 2504: Immagini di Camion Indiano e Magazzino
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 44images.com
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Immagini AI gratuite di Camion Indiano &amp; magazzino
+ --- puoi usarle per Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, Social media, Nano-banana, Canva, video AI, Veo 4, Kling, Giochi, Se
+
+#### Prompt
+
+```text
+Free Ai iages of indian Truck &amp; warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2505: Immagini di Camion Cinese in Magazzino
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 44images.com
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Immagini AI gratuite di Camion Cinese in magazzino
+ --- puoi usarle per Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, Social media, Nano-banana, Canva, video AI, Veo 4, Kling, Giochi, See
+
+#### Prompt
+
+```text
+Free Ai images of Chinese Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2506: Immagini di Camion Americano in Magazzino
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 44images.com
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Immagini AI gratuite di Camion Americano in magazzino
+ --- puoi usarle per Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, Social media, Nano-banana, Canva, video AI, Veo 4, Kling, Giochi, Se
+
+#### Prompt
+
+```text
+Free Ai images of American Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2507: Immagini dell'Industria Siderurgica Indiana
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** 44images.com
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Immagini AI gratuite dell'industria siderurgica indiana
+ --- puoi usarle per Insta, Facebook, Tiktok, Youtube, X, Reddit, Instagram, WhatsApp, Social media, Nano-banana, Canva, video AI, Veo 4, Kling, Giochi, Seedance
+
+#### Prompt
+
+```text
+Free Ai images of indian Steel industry
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2508: Foto di Moda Fotorealistica ad Alta Risoluzione
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** J⭕DIE
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un'immagine dove moda, amicizia e atmosfera si incontrano in modo bellissimo.
+
+#### Prompt
+
+```text
+A picture where fashion, friendship, and atmosphere meet beautifully.
+
+Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+My Own Idea, Style &amp; Direction.
+
+Light Edit in InShot.
+
+Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Create a high-resolution, photorealistic
+```
+
+### No. 2509: Breve Clip Cinematografica d'Azione
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** ChuksAi
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una breve clip cinematografica d'azione creata con Google Gemini Omni e Grok Ai ✅ 
+
+Copia il prompt qui sotto 👇👇
+
+#### Prompt
+
+```text
+A short cinematic action clip created with Google Gemini Omni and Grok Ai ✅ 
+
+Copy prompt below 👇👇
+```
+
+### No. 2510: Primissimo Piano di una Siringa di Gel Luminosa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Da Mayor - AI Creative Director 🎨💻
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Generato con Gemini Omni Flash su  
+
+PROMPT VIDEO  ⤵️-
+
+Cinematografia macro in primissimo piano estremo.
+
+#### Prompt
+
+```text
+Generated with Gemini Omni Flash on @GeminiApp 
+
+Video PROMPT  ⤵️-
+
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the
+```
+
+### No. 2511: Prompt a Due Pannelli con Scene e Vincoli Definiti
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Xerophayze
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Un prompt a due pannelli funziona meglio quando ogni pannello ha un compito specifico.
+
+#### Prompt
+
+```text
+A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
 ```
 
 Questo README e generato automaticamente dai dati in `data/prompts_by_locale`.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2503%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 2503 |
+| 提示词总数 | 2511 |
 | 分类数 | 16 |
-| 预览视频数 | 655 |
-| 最后更新 | 2026/08/12 |
+| 预览视频数 | 663 |
+| 最后更新 | 2026/08/14 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (2401)
+### Twitter Community (2409)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -59368,6 +59368,199 @@ When the Cinematic Fantasy of  is brought to Life with  Gemini Omni Flash, it is
 When the Cinematic Fantasy of @midjourney is brought to Life with @GeminiApp Gemini Omni Flash, it is Magic...
 
 Image to Video using @FlowbyGoogle @GoogleDeepMind
+```
+
+### No. 2504: 印度卡车与仓库图片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 44images.com
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+免费的印度卡车与仓库 AI 图片
+--- 可用于 Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、社交媒体、Nano-banana、Canva、AI 视频、Veo 4、Kling、游戏、Se
+
+#### 提示词
+
+```text
+Free Ai iages of indian Truck &amp; warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2505: 仓库中的中国卡车图片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 44images.com
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+免费的仓库中中国卡车 AI 图片
+--- 可用于 Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、社交媒体、Nano-banana、Canva、AI 视频、Veo 4、Kling、游戏、See
+
+#### 提示词
+
+```text
+Free Ai images of Chinese Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2506: 仓库中的美国卡车图片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 44images.com
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+免费的仓库中美国卡车 AI 图片
+--- 可用于 Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、社交媒体、Nano-banana、Canva、AI 视频、Veo 4、Kling、游戏、Se
+
+#### 提示词
+
+```text
+Free Ai images of American Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2507: 印度钢铁工业图片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 44images.com
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+免费的印度钢铁工业 AI 图片
+--- 可用于 Instagram、Facebook、TikTok、YouTube、X、Reddit、Instagram、WhatsApp、社交媒体、Nano-banana、Canva、AI 视频、Veo 4、Kling、游戏、Seedance
+
+#### 提示词
+
+```text
+Free Ai images of indian Steel industry
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2508: 高分辨率写实时尚照片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** J⭕DIE
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一幅时尚、友谊与氛围美妙交融的画面。
+
+#### 提示词
+
+```text
+A picture where fashion, friendship, and atmosphere meet beautifully.
+
+Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+My Own Idea, Style &amp; Direction.
+
+Light Edit in InShot.
+
+Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Create a high-resolution, photorealistic
+```
+
+### No. 2509: 简短电影感动作片段
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ChuksAi
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+使用 Google Gemini Omni 和 Grok Ai 创建的简短电影感动作片段 ✅
+
+复制下方提示 👇👇
+
+#### 提示词
+
+```text
+A short cinematic action clip created with Google Gemini Omni and Grok Ai ✅ 
+
+Copy prompt below 👇👇
+```
+
+### No. 2510: 发光凝胶管的极端特写
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Da Mayor - AI Creative Director 🎨💻
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+使用 Gemini Omni Flash 生成。
+
+视频提示 ⤵️-
+
+极端特写微距摄影。
+
+#### 提示词
+
+```text
+Generated with Gemini Omni Flash on @GeminiApp 
+
+Video PROMPT  ⤵️-
+
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the
+```
+
+### No. 2511: 双面板提示：定义场景与约束
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Xerophayze
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+当每个面板都有明确任务时，双面板提示的效果会更好。
+
+#### 提示词
+
+```text
+A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

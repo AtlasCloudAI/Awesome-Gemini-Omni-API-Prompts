@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2503%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 2503 |
+| Kul Prompts | 2511 |
 | Categories | 10 |
-| Preview Videos | 655 |
-| Aakhri Update | 12/08/2026 |
+| Preview Videos | 663 |
+| Aakhri Update | 14/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (2401)
+### Twitter Community (2409)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -59338,6 +59338,199 @@ When the Cinematic Fantasy of  is brought to Life with  Gemini Omni Flash, it is
 When the Cinematic Fantasy of @midjourney is brought to Life with @GeminiApp Gemini Omni Flash, it is Magic...
 
 Image to Video using @FlowbyGoogle @GoogleDeepMind
+```
+
+### No. 2504: भारतीय ट्रक और वेयरहाउस की छवियाँ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 44images.com
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477279077326867.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+भारतीय ट्रक और वेयरहाउस की मुफ्त एआई छवियाँ
+ --- आप इंस्टा, फेसबुक, टिकटॉक, यूट्यूब, एक्स, रेडिट, इंस्टाग्राम, व्हाट्सएप, सोशल मीडिया, नैनो-बनाना, कैनवा, एआई वीडियो, वीओ 4, क्लिंग, गेम्स, से के लिए उपयोग कर सकते हैं
+
+#### Prompt
+
+```text
+Free Ai iages of indian Truck &amp; warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2505: वेयरहाउस में चीनी ट्रक की छवियाँ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 44images.com
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087477750974337098.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+वेयरहाउस में चीनी ट्रक की मुफ्त एआई छवियाँ
+ --- आप इंस्टा, फेसबुक, टिकटॉक, यूट्यूब, एक्स, रेडिट, इंस्टाग्राम, व्हाट्सएप, सोशल मीडिया, नैनो-बनाना, कैनवा, एआई वीडियो, वीओ 4, क्लिंग, गेम्स, सी के लिए उपयोग कर सकते हैं
+
+#### Prompt
+
+```text
+Free Ai images of Chinese Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2506: वेयरहाउस में अमेरिकी ट्रक की छवियाँ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 44images.com
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087478209092940003.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+वेयरहाउस में अमेरिकी ट्रक की मुफ्त एआई छवियाँ
+ --- आप इंस्टा, फेसबुक, टिकटॉक, यूट्यूब, एक्स, रेडिट, इंस्टाग्राम, व्हाट्सएप, सोशल मीडिया, नैनो-बनाना, कैनवा, एआई वीडियो, वीओ 4, क्लिंग, गेम्स, से के लिए उपयोग कर सकते हैं
+
+#### Prompt
+
+```text
+Free Ai images of American Truck in warehouse
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2507: भारतीय स्टील उद्योग की छवियाँ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 44images.com
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087479089544528356.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+भारतीय स्टील उद्योग की मुफ्त एआई छवियाँ
+ --- आप इंस्टा, फेसबुक, टिकटॉक, यूट्यूब, एक्स, रेडिट, इंस्टाग्राम, व्हाट्सएप, सोशल मीडिया, नैनो-बनाना, कैनवा, एआई वीडियो, वीओ 4, क्लिंग, गेम्स, सीडेंस के लिए उपयोग कर सकते हैं
+
+#### Prompt
+
+```text
+Free Ai images of indian Steel industry
+ --- you can use for insta, Facebook, Tiktok, Youtube, X, Reddit, instagram, whatsapp, Social media, Nano-banana, Canva, Ai video, Veo 4, Kling, Games, Seedance, Grok video
+```
+
+### No. 2508: उच्च-रिज़ॉल्यूशन फोटोरियलिस्टिक फैशन फोटो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** J⭕DIE
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087524884079591530.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक तस्वीर जहां फैशन, दोस्ती और माहौल खूबसूरती से मिलते हैं।
+
+#### Prompt
+
+```text
+A picture where fashion, friendship, and atmosphere meet beautifully.
+
+Photos Made With AI (Gemini Nano Banana Flash 3.6)
+
+My Own Idea, Style &amp; Direction.
+
+Light Edit in InShot.
+
+Prompted &amp; Edited By Me.
+
+Here's the full prompt I used:
+
+Create a high-resolution, photorealistic
+```
+
+### No. 2509: छोटी सिनेमैटिक एक्शन क्लिप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ChuksAi
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087536851594740155.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+गूगल जेमिनी ओमनी और ग्रोक एआई के साथ बनाई गई एक छोटी सिनेमैटिक एक्शन क्लिप ✅
+
+प्रॉम्प्ट की प्रतिलिपि नीचे 👇👇
+
+#### Prompt
+
+```text
+A short cinematic action clip created with Google Gemini Omni and Grok Ai ✅ 
+
+Copy prompt below 👇👇
+```
+
+### No. 2510: चमकती जेल ट्यूब का अत्यंत क्लोज-अप
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Da Mayor - AI Creative Director 🎨💻
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087578288507990030.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+जेमिनी ओमनी फ्लैश के साथ जनरेट किया गया
+
+वीडियो प्रॉम्प्ट ⤵️-
+
+अत्यंत क्लोज-अप मैक्रो सिनेमैटोग्राफी।
+
+#### Prompt
+
+```text
+Generated with Gemini Omni Flash on @GeminiApp 
+
+Video PROMPT  ⤵️-
+
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the
+```
+
+### No. 2511: परिभाषित दृश्यों और बाधाओं वाला दो-पैनल प्रॉम्प्ट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Xerophayze
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2087610065553432987.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+दो-पैनल प्रॉम्प्ट तब बेहतर काम करता है जब प्रत्येक पैनल का एक काम हो।
+
+#### Prompt
+
+```text
+A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

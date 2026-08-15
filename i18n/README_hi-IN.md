@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 2511 |
+| Kul Prompts | 2512 |
 | Categories | 10 |
-| Preview Videos | 663 |
-| Aakhri Update | 14/08/2026 |
+| Preview Videos | 664 |
+| Aakhri Update | 15/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (2409)
+### Twitter Community (2410)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -59531,6 +59531,26 @@ A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. I
 
 ```text
 A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
+```
+
+### No. 2512: मिश्रित-वास्तविकता स्टॉप-मोशन स्केच से सामग्री रूपांतरण
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dr Bloodline | AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक वीडियो बनाने के लिए एक प्रॉम्प्ट जहां एक स्मार्टफोन और पेंसिल का उपयोग करके एक खींचा गया स्केच एक वास्तविक वस्तु में बदल जाता है।
+
+#### Prompt
+
+```text
+Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

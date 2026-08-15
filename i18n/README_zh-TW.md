@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 2511 |
+| 提示詞總數 | 2512 |
 | 分類數 | 8 |
-| 預覽影片數 | 663 |
-| 最後更新 | 2026/08/14 |
+| 預覽影片數 | 664 |
+| 最後更新 | 2026/08/15 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2409)
+### Twitter Community (2410)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -59521,6 +59521,26 @@ A two-panel prompt works better when each panel has a job.
 
 ```text
 A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
+```
+
+### No. 2512: 混合實境定格動畫：從草圖到食材的轉變
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dr Bloodline | AI
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一個用於創作影片的提示，影片中透過智慧型手機和鉛筆，將繪製的草圖轉變為真實物體。
+
+#### 提示詞
+
+```text
+Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

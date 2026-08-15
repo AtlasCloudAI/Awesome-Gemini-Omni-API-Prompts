@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2511%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Una raccolta curata di esempi di prompt Gemini Omni con anteprime video OSS integrate.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Conteggio |
 | --- | ---: |
-| Prompt Totali | 2511 |
+| Prompt Totali | 2512 |
 | Categorie | 8 |
-| Video di Anteprima | 663 |
-| Ultimo Aggiornamento | 14/08/2026 |
+| Video di Anteprima | 664 |
+| Ultimo Aggiornamento | 15/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2409)
+### Twitter Community (2410)
 
 ### No. 103: Ritratto Romantico Naturale - Fotografia Editoriale
 
@@ -59521,6 +59521,26 @@ Un prompt a due pannelli funziona meglio quando ogni pannello ha un compito spec
 
 ```text
 A two-panel prompt works better when each panel has a job. This Nano Banana 2 test assigns the left scene, right scene, and shared constraints instead of leaving the layout ambiguous.
+```
+
+### No. 2512: Trasformazione da Schizzo in Stop-Motion a Realtà Mista in Ingrediente
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Dr Bloodline | AI
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4" controls muted playsinline width="720"></video>
+
+#### Descrizione
+
+Una richiesta per creare un video in cui uno schizzo disegnato si trasforma in un oggetto reale utilizzando uno smartphone e una matita.
+
+#### Prompt
+
+```text
+Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
 ```
 
 Questo README e generato automaticamente dai dati in `data/prompts_by_locale`.

@@ -34852,5 +34852,23 @@
       "video": "media/gemini-omni/x_2087477279077326867.mp4"
     },
     "sort_order": 10
+  },
+  {
+    "id": "x_2088227986881609877",
+    "title": "혼합 현실 스톱모션 스케치에서 재료로의 변환",
+    "description": "스마트폰과 연필을 사용하여 그린 스케치가 실제 물체로 변하는 비디오를 제작하기 위한 프롬프트입니다.",
+    "prompt": "Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AiwithBloodline/status/2088227986881609877",
+    "needs_preview": true,
+    "sort_order": 3,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088227986881609877.mp4"
+    }
   }
 ]

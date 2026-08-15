@@ -34852,5 +34852,23 @@
       "video": "media/gemini-omni/x_2087477279077326867.mp4"
     },
     "sort_order": 10
+  },
+  {
+    "id": "x_2088227986881609877",
+    "title": "混合實境定格動畫：從草圖到食材的轉變",
+    "description": "一個用於創作影片的提示，影片中透過智慧型手機和鉛筆，將繪製的草圖轉變為真實物體。",
+    "prompt": "Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/AiwithBloodline/status/2088227986881609877",
+    "needs_preview": true,
+    "sort_order": 3,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088227986881609877.mp4"
+    }
   }
 ]

@@ -34852,5 +34852,23 @@
       "video": "media/gemini-omni/x_2087477279077326867.mp4"
     },
     "sort_order": 10
+  },
+  {
+    "id": "x_2088227986881609877",
+    "title": "複合現実ストップモーション：スケッチから食材への変容",
+    "description": "スマートフォンと鉛筆を用いて、描かれたスケッチが実物の物体へと変化する動画を作成するためのプロンプトです。",
+    "prompt": "Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088227986881609877.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "ja-JP",
+    "source_link": "https://x.com/AiwithBloodline/status/2088227986881609877",
+    "needs_preview": true,
+    "sort_order": 3,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088227986881609877.mp4"
+    }
   }
 ]

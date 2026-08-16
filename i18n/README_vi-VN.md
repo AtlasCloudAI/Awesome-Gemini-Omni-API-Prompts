@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Bo suu tap cac vi du prompt Gemini Omni kem video xem truoc OSS duoc chon loc.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Muc | So luong |
 | --- | ---: |
-| Tong so Prompt | 2512 |
+| Tong so Prompt | 2513 |
 | So danh muc | 8 |
-| So video xem truoc | 664 |
-| Cap nhat lan cuoi | 15/08/2026 |
+| So video xem truoc | 665 |
+| Cap nhat lan cuoi | 16/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2410)
+### Twitter Community (2411)
 
 ### No. 103: Ảnh Biên Tập Chân Dung Lãng Mạn Thiên Nhiên
 
@@ -59541,6 +59541,26 @@ Một gợi ý để tạo video trong đó một bản phác họa được v�
 
 ```text
 Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
+```
+
+### No. 2513: Video Giới Thiệu Sản Phẩm Tai Nghe Thanh Lịch
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** EAZI👾 WEB DEV / PRODUCT ENGR ( FIGMA ~ FLUTTER )
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4" controls muted playsinline width="720"></video>
+
+#### Mo ta
+
+Một quảng cáo tối giản giới thiệu tai nghe không dây Oraimo Buddy nổi lên từ hộp sạc của chúng trên nền những sóng âm thanh màu xanh lá đang lan tỏa.
+
+#### Prompt
+
+```text
+A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
 ```
 
 README nay duoc tao tu dong tu du lieu trong `data/prompts_by_locale`.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 2512 |
+| Kul Prompts | 2513 |
 | Categories | 10 |
-| Preview Videos | 664 |
-| Aakhri Update | 15/08/2026 |
+| Preview Videos | 665 |
+| Aakhri Update | 16/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (2410)
+### Twitter Community (2411)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -59551,6 +59551,26 @@ A two-panel prompt works better when each panel has a job. This Nano Banana 2 te
 
 ```text
 Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
+```
+
+### No. 2513: स्टाइलिश ईयरबड उत्पाद प्रकटन एनीमेशन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** EAZI👾 WEB DEV / PRODUCT ENGR ( FIGMA ~ FLUTTER )
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक सादगीपूर्ण विज्ञापन ओराइमो बडी वायरलेस ईयरबड्स को उनके चार्जिंग केस से निकलते हुए दिखाता है, जिसकी पृष्ठभूमि में फैलती हुई हरी ध्वनि तरंगें हैं।
+
+#### Prompt
+
+```text
+A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni の公式例とプロンプトガイド例を、OSS 動画プレビュー付きでまとめたコレクションです。
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 項目 | 数 |
 | --- | ---: |
-| 総プロンプト数 | 2512 |
+| 総プロンプト数 | 2513 |
 | カテゴリ数 | 8 |
-| プレビュー動画数 | 664 |
-| 最終更新 | 2026/08/15 |
+| プレビュー動画数 | 665 |
+| 最終更新 | 2026/08/16 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2410)
+### Twitter Community (2411)
 
 ### No. 103: ロマンティックな自然を背景にしたポートレート（編集用写真）
 
@@ -59541,6 +59541,26 @@ A two-panel prompt works better when each panel has a job. This Nano Banana 2 te
 
 ```text
 Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
+```
+
+### No. 2513: 洗練されたイヤーバッド製品紹介アニメーション
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** EAZI👾 WEB DEV / PRODUCT ENGR ( FIGMA ~ FLUTTER )
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4" controls muted playsinline width="720"></video>
+
+#### 説明
+
+ミニマルな広告で、Oraimo Buddyワイヤレスイヤーバッドが充電ケースから現れ、広がる緑色の音波を背景に映し出されています。
+
+#### プロンプト
+
+```text
+A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
 ```
 
 `data/prompts_by_locale` のデータから自動生成された README です。

@@ -34870,5 +34870,24 @@
       "images": [],
       "video": "media/gemini-omni/x_2088227986881609877.mp4"
     }
+  },
+  {
+    "id": "x_2088538496101232998",
+    "title": "时尚耳机产品亮相动画",
+    "description": "一则极简风格的广告展示了Oraimo Buddy无线耳机从充电盒中缓缓升起，背景是不断扩散的绿色声波。",
+    "prompt": "A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4",
+    "author_name": "EAZI👾 WEB DEV / PRODUCT ENGR ( FIGMA ~ FLUTTER )",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/solomon_eazi/status/2088538496101232998",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088538496101232998.mp4"
+    }
   }
 ]

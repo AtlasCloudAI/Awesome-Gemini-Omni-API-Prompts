@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2512%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Uma colecao curada de exemplos de prompts Gemini Omni com previews de video OSS incorporados.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrica | Quantidade |
 | --- | ---: |
-| Total de Prompts | 2512 |
+| Total de Prompts | 2513 |
 | Categorias | 8 |
-| Videos de Previa | 664 |
-| Ultima Atualizacao | 15/08/2026 |
+| Videos de Previa | 665 |
+| Ultima Atualizacao | 16/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2410)
+### Twitter Community (2411)
 
 ### No. 103: Fotografia Editorial de Retrato Romântico na Natureza
 
@@ -59541,6 +59541,26 @@ Um prompt para criar um vídeo onde um esboço desenhado se transforma num objet
 
 ```text
 Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE]
+```
+
+### No. 2513: Animação de Apresentação do Produto Fones de Ouvido Elegantes
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** EAZI👾 WEB DEV / PRODUCT ENGR ( FIGMA ~ FLUTTER )
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088538496101232998.mp4" controls muted playsinline width="720"></video>
+
+#### Descricao
+
+Uma publicidade minimalista apresenta os fones de ouvido sem fio Oraimo Buddy a emergir do seu estojo de carregamento, contra um fundo de ondas sonoras verdes em expansão.
+
+#### Prompt
+
+```text
+A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
 ```
 
 Este README e gerado automaticamente a partir de `data/prompts_by_locale`.

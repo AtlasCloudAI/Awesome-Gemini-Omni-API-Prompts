@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 2513 |
+| 提示词总数 | 2514 |
 | 分类数 | 16 |
-| 预览视频数 | 665 |
-| 最后更新 | 2026/08/16 |
+| 预览视频数 | 666 |
+| 最后更新 | 2026/08/17 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (2411)
+### Twitter Community (2412)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -59601,6 +59601,26 @@ Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN
 
 ```text
 A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
+```
+
+### No. 2514: 解构鸡肉汉堡旋转
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dr Bloodline | AI
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一段视频提示，描述了一个鸡肉汉堡缓慢旋转，其食材精准对齐并平滑分离的动态过程。
+
+#### 提示词
+
+```text
+The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

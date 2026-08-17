@@ -34889,5 +34889,23 @@
       "images": [],
       "video": "media/gemini-omni/x_2088538496101232998.mp4"
     }
+  },
+  {
+    "id": "x_2088831368952533424",
+    "title": "เบอร์เกอร์ไก่สไตล์ดีคอนสตรัคต์หมุนวน",
+    "description": "วิดีโอพรีเซนต์เบอร์เกอร์ไก่ที่หมุนอย่างช้าๆ ในขณะที่ส่วนประกอบต่างๆ แยกออกจากกันอย่างแม่นยำและเคลื่อนไหวอย่างลื่นไหล",
+    "prompt": "The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "th-TH",
+    "source_link": "https://x.com/AiwithBloodline/status/2088831368952533424",
+    "needs_preview": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088831368952533424.mp4"
+    }
   }
 ]

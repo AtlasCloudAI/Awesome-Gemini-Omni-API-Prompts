@@ -34886,5 +34886,23 @@
       "images": [],
       "video": "media/gemini-omni/x_2088538496101232998.mp4"
     }
+  },
+  {
+    "id": "x_2088831368952533424",
+    "title": "Burger de Poulet Désassemblé en Rotation",
+    "description": "Une vidéo montrant un burger au poulet tournant lentement tandis que ses ingrédients se séparent avec un alignement précis et un mouvement fluide.",
+    "prompt": "The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "fr-FR",
+    "source_link": "https://x.com/AiwithBloodline/status/2088831368952533424",
+    "needs_preview": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088831368952533424.mp4"
+    }
   }
 ]

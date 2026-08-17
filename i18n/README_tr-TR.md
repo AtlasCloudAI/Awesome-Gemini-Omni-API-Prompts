@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Yerlesik OSS video onizlemeleriyle Gemini Omni prompt orneklerinin secilmis koleksiyonu.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Olcut | Sayi |
 | --- | ---: |
-| Toplam Prompt | 2513 |
+| Toplam Prompt | 2514 |
 | Kategoriler | 8 |
-| Onizleme Videolari | 665 |
-| Son Guncelleme | 16.08.2026 |
+| Onizleme Videolari | 666 |
+| Son Guncelleme | 17.08.2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2411)
+### Twitter Community (2412)
 
 ### No. 103: Romantik Doğa Portresi Editöryel Fotoğrafçılık
 
@@ -59561,6 +59561,26 @@ Minimalist bir reklam, Oraimo Buddy kablosuz kulaklıkların şarj kutusundan ç
 
 ```text
 A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
+```
+
+### No. 2514: Dönen Parçalanmış Tavuk Burger
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Dr Bloodline | AI
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir tavuk burgerin yavaşça döndüğünü, malzemelerinin hassas hizalama ve akıcı hareketle ayrıştığını betimleyen bir video istemi.
+
+#### Prompt
+
+```text
+The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
 ```
 
 Bu README `data/prompts_by_locale` verilerinden otomatik uretilmistir.

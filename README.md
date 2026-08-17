@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 A curated collection of Gemini Omni prompt examples with real previews generated via Atlas Cloud.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 2513 |
+| Total Prompts | 2514 |
 | Categories | 8 |
-| Preview Videos | 665 |
-| Last Updated | 08/16/2026 |
+| Preview Videos | 666 |
+| Last Updated | 08/17/2026 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2411)
+### Twitter Community (2412)
 
 ### No. 103: Romantic Nature Portrait Editorial Photography
 
@@ -59561,6 +59561,26 @@ A minimalist advertisement showcases Oraimo Buddy wireless earbuds emerging from
 
 ```text
 A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
+```
+
+### No. 2514: Spinning Deconstructed Chicken Burger
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dr Bloodline | AI
+- **Language:** `en-US`
+- **Video:** [View](https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A video prompt describing a chicken burger spinning slowly as its ingredients separate with precise alignment and smooth motion.
+
+#### Prompt
+
+```text
+The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
 ```
 
 This README is auto-generated from locale data in `data/prompts_by_locale`.

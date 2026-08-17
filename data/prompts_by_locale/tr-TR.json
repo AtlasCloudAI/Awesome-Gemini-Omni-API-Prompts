@@ -34889,5 +34889,23 @@
       "images": [],
       "video": "media/gemini-omni/x_2088538496101232998.mp4"
     }
+  },
+  {
+    "id": "x_2088831368952533424",
+    "title": "Dönen Parçalanmış Tavuk Burger",
+    "description": "Bir tavuk burgerin yavaşça döndüğünü, malzemelerinin hassas hizalama ve akıcı hareketle ayrıştığını betimleyen bir video istemi.",
+    "prompt": "The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "tr-TR",
+    "source_link": "https://x.com/AiwithBloodline/status/2088831368952533424",
+    "needs_preview": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088831368952533424.mp4"
+    }
   }
 ]

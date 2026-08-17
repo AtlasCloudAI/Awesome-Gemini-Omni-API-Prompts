@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 2513 |
+| 提示詞總數 | 2514 |
 | 分類數 | 8 |
-| 預覽影片數 | 665 |
-| 最後更新 | 2026/08/16 |
+| 預覽影片數 | 666 |
+| 最後更新 | 2026/08/17 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2411)
+### Twitter Community (2412)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -59561,6 +59561,26 @@ Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN
 
 ```text
 A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
+```
+
+### No. 2514: 解構式旋轉雞肉漢堡
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dr Bloodline | AI
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一段影片提示，描述一個雞肉漢堡緩慢旋轉，其食材精準對齊且動作流暢地分離。
+
+#### 提示詞
+
+```text
+The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

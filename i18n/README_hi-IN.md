@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2513%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 2513 |
+| Kul Prompts | 2514 |
 | Categories | 10 |
-| Preview Videos | 665 |
-| Aakhri Update | 16/08/2026 |
+| Preview Videos | 666 |
+| Aakhri Update | 17/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (2411)
+### Twitter Community (2412)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -59571,6 +59571,26 @@ Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN
 
 ```text
 A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging case appears in the center of a dark, gradient background. Vibrant green concentric circles continuously expand outwards from the center, simulating sound waves or technological energy. The camera smoothly zooms in on the closed charging case. Then, the case lid elegantly opens, and two black Oraimo Buddy earbuds rise and position themselves upright within the open case. The final shot is a close-up of the open case with the earbuds, set against the expanding green circles. Minimalistic, clean animation, precise motion graphics.
+```
+
+### No. 2514: डीकंस्ट्रक्टेड चिकन बर्गर का घूर्णन
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Dr Bloodline | AI
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक वीडियो प्रॉम्प्ट जो एक चिकन बर्गर का वर्णन करता है जो धीरे-धीरे घूम रहा है, जबकि उसकी सामग्री सटीक संरेखण और सहज गति के साथ अलग हो रही है।
+
+#### Prompt
+
+```text
+The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

@@ -34889,5 +34889,23 @@
       "images": [],
       "video": "media/gemini-omni/x_2088538496101232998.mp4"
     }
+  },
+  {
+    "id": "x_2088831368952533424",
+    "title": "डीकंस्ट्रक्टेड चिकन बर्गर का घूर्णन",
+    "description": "एक वीडियो प्रॉम्प्ट जो एक चिकन बर्गर का वर्णन करता है जो धीरे-धीरे घूम रहा है, जबकि उसकी सामग्री सटीक संरेखण और सहज गति के साथ अलग हो रही है।",
+    "prompt": "The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2088831368952533424.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/AiwithBloodline/status/2088831368952533424",
+    "needs_preview": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2088831368952533424.mp4"
+    }
   }
 ]

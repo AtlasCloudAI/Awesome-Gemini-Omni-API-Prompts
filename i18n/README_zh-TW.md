@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收錄 Gemini Omni 官方示例與提示詞指南示例，內嵌 OSS 影片預覽。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指標 | 數量 |
 | --- | ---: |
-| 提示詞總數 | 2514 |
+| 提示詞總數 | 2515 |
 | 分類數 | 8 |
-| 預覽影片數 | 666 |
-| 最後更新 | 2026/08/17 |
+| 預覽影片數 | 667 |
+| 最後更新 | 2026/08/18 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2412)
+### Twitter Community (2413)
 
 ### No. 103: 浪漫自然肖像編輯攝影
 
@@ -59581,6 +59581,26 @@ A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging
 
 ```text
 The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
+```
+
+### No. 2515: 動漫變身序列
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AshutoshShrivastava
+- **語言:** `zh-TW`
+- **影片:** [查看](https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一名男子運用互動視覺效果，從真人動態過渡成黑白漫畫角色，再變回原狀。
+
+#### 提示詞
+
+```text
+A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
 ```
 
 此 README 由 `data/prompts_by_locale` 資料自動生成。

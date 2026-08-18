@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Une collection de prompts Gemini Omni avec apercus video OSS integres.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Mesure | Nombre |
 | --- | ---: |
-| Nombre Total de Prompts | 2514 |
+| Nombre Total de Prompts | 2515 |
 | Categories | 11 |
-| Videos d'Apercu | 666 |
-| Derniere Mise a Jour | 17/08/2026 |
+| Videos d'Apercu | 667 |
+| Derniere Mise a Jour | 18/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Plan 1 (8 secondes) Un puissant personnage féminin. Plan large cinématographiq
 
 <a id="category-11"></a>
 
-### Twitter Community (2412)
+### Twitter Community (2413)
 
 ### No. 103: Portrait éditorial romantique en pleine nature
 
@@ -59596,6 +59596,26 @@ Une vidéo montrant un burger au poulet tournant lentement tandis que ses ingré
 
 ```text
 The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
+```
+
+### No. 2515: Séquence de Transformation Anime
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** AshutoshShrivastava
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Un homme effectue une transition dynamique d'un personnage en prise de vue réelle à un personnage de manga en noir et blanc et inversement, en utilisant des effets visuels interactifs.
+
+#### Prompt
+
+```text
+A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
 ```
 
 Ce README est genere automatiquement depuis `data/prompts_by_locale`.

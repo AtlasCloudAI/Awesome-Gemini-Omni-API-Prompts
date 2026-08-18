@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 OSS video preview ke saath Gemini Omni prompt examples ka curated collection.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Suchak | Ginti |
 | --- | ---: |
-| Kul Prompts | 2514 |
+| Kul Prompts | 2515 |
 | Categories | 10 |
-| Preview Videos | 666 |
-| Aakhri Update | 17/08/2026 |
+| Preview Videos | 667 |
+| Aakhri Update | 18/08/2026 |
 
 ### 🧩 Supported Models
 
@@ -2138,7 +2138,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-10"></a>
 
-### Twitter Community (2412)
+### Twitter Community (2413)
 
 ### No. 103: रोमांटिक प्रकृति चित्र संपादकीय फोटोग्राफी
 
@@ -59591,6 +59591,26 @@ A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging
 
 ```text
 The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
+```
+
+### No. 2515: एनीमे रूपांतरण क्रम
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AshutoshShrivastava
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4" controls muted playsinline width="720"></video>
+
+#### Varnan
+
+एक व्यक्ति इंटरैक्टिव दृश्य प्रभावों का उपयोग करते हुए, लाइव-एक्शन से काले-सफेद मंगा चरित्र में और वापस गतिशील रूप से परिवर्तित होता है।
+
+#### Prompt
+
+```text
+A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
 ```
 
 Yeh README `data/prompts_by_locale` ke data se auto-generated hai.

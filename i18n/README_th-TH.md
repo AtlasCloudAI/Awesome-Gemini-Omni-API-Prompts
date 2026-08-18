@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 2514 |
+| พรอมต์ทั้งหมด | 2515 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 666 |
-| อัปเดตล่าสุด | 17/08/2569 |
+| จำนวนวิดีโอตัวอย่าง | 667 |
+| อัปเดตล่าสุด | 18/08/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2412)
+### Twitter Community (2413)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -59581,6 +59581,26 @@ A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging
 
 ```text
 The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
+```
+
+### No. 2515: ลำดับการแปลงร่างในอนิเมะ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AshutoshShrivastava
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+ชายคนหนึ่งเปลี่ยนผ่านจากไลฟ์แอคชั่นไปเป็นตัวละครมังงะขาวดำและกลับมา อย่างมีพลวัต โดยใช้เอฟเฟกต์ภาพแบบโต้ตอบได้
+
+#### พรอมต์
+
+```text
+A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

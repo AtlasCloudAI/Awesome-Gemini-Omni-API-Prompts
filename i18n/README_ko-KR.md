@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2514%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Gemini Omni 공식 예시와 프롬프트 가이드 예시를 OSS 비디오 미리보기와 함께 정리한 컬렉션입니다.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | 항목 | 수량 |
 | --- | ---: |
-| 전체 프롬프트 | 2514 |
+| 전체 프롬프트 | 2515 |
 | 카테고리 수 | 8 |
-| 미리보기 비디오 수 | 666 |
-| 마지막 업데이트 | 2026. 08. 17. |
+| 미리보기 비디오 수 | 667 |
+| 마지막 업데이트 | 2026. 08. 18. |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2412)
+### Twitter Community (2413)
 
 ### No. 103: 로맨틱 자연 초상화 에디토리얼 사진
 
@@ -59581,6 +59581,26 @@ A high-tech, sleek product reveal. A black Oraimo Buddy wireless earbud charging
 
 ```text
 The chicken burger starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, crispy, and controlled
+```
+
+### No. 2515: 애니메이션 변신 시퀀스
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AshutoshShrivastava
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2089534683344420864/vid/avc1/720x1280/8R-pKVhi5-aS3HxD.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+한 남자가 인터랙티브 시각 효과를 사용하여 실사에서 흑백 만화 캐릭터로, 그리고 다시 돌아오는 역동적인 변신 과정을 보여줍니다.
+
+#### 프롬프트
+
+```text
+A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
 ```
 
 이 README는 `data/prompts_by_locale` 데이터에서 자동 생성됩니다.

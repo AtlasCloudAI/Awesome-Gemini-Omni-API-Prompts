@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2517%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 Eine kuratierte Sammlung von Gemini-Omni-Promptbeispielen mit eingebetteten OSS-Videovorschauen.
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | Metrik | Anzahl |
 | --- | ---: |
-| Prompts Insgesamt | 2515 |
+| Prompts Insgesamt | 2517 |
 | Kategorien | 11 |
-| Vorschauvideos | 667 |
-| Zuletzt aktualisiert | 18.08.2026 |
+| Vorschauvideos | 669 |
+| Zuletzt aktualisiert | 19.08.2026 |
 
 ### 🧩 Supported Models
 
@@ -2143,7 +2143,7 @@ Ein wütender roter Drache (Element) erhebt sich aus dem Meer und fliegt mit ext
 
 <a id="category-11"></a>
 
-### Twitter Community (2413)
+### Twitter Community (2415)
 
 ### No. 103: Romantische Naturporträt-Redaktionsfotografie
 
@@ -59616,6 +59616,52 @@ Ein Mann wechselt dynamisch von Live-Action zu einem Schwarz-Weiß-Manga-Charakt
 
 ```text
 A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
+```
+
+### No. 2516: Storyboard für Kartoffelchips-Werbespot
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** 𝐌
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Eine Anleitung zur Generierung eines hochwertigen Storyboards für einen Werbespot eines Kartoffelchips-Produkts mit acht filmischen Szenen.
+
+#### Prompt
+
+```text
+Crispy Potato Chips Product Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Food product advertising campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero throughout
+```
+
+### No. 2517: Promo-Video für futuristische Smartwatch
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** Dr Bloodline | AI
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4" controls muted playsinline width="720"></video>
+
+#### Beschreibung
+
+Eine Anleitung zur Erstellung eines eleganten Werbevideos für eine holografische Smartwatch namens Bloodline.
+
+#### Prompt
+
+```text
+Create a sleek futuristic smartwatch promo video for “BLOODLINE.” Begin with a radial energy pulse transitioning into a rotating dark
 ```
 
 Diese README wird automatisch aus `data/prompts_by_locale` erzeugt.

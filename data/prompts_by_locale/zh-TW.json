@@ -34922,5 +34922,41 @@
     "needs_preview": true,
     "reverse_engineered": true,
     "sort_order": 1
+  },
+  {
+    "id": "x_2089877497420849208",
+    "title": "未來智慧手錶宣傳影片",
+    "description": "為一款名為「血脈」的全像投影智慧手錶，創作出時尚宣傳影片的提示。",
+    "prompt": "Create a sleek futuristic smartwatch promo video for “BLOODLINE.” Begin with a radial energy pulse transitioning into a rotating dark",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/AiwithBloodline/status/2089877497420849208",
+    "needs_preview": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2089877497420849208.mp4"
+    }
+  },
+  {
+    "id": "x_2089662916304003221",
+    "title": "洋芋片廣告分鏡腳本",
+    "description": "為一款洋芋片產品廣告，生成具有八個電影感場景的高級分鏡腳本提示。",
+    "prompt": "Crispy Potato Chips Product Commercial Storyboard\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Food product advertising campaign\n• 8 cinematic storyboard scenes\n• Product remains the main hero throughout",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4",
+    "author_name": "𝐌",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/Strength04_X/status/2089662916304003221",
+    "needs_preview": true,
+    "sort_order": 3,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2089662916304003221.mp4"
+    }
   }
 ]

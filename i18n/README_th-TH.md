@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2517%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 คอลเลกชันตัวอย่างพรอมต์ Gemini Omni พร้อมวิดีโอตัวอย่างจาก OSS ที่คัดสรรมาแล้ว
 
@@ -23,10 +23,10 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 
 | รายการ | จำนวน |
 | --- | ---: |
-| พรอมต์ทั้งหมด | 2515 |
+| พรอมต์ทั้งหมด | 2517 |
 | จำนวนหมวดหมู่ | 8 |
-| จำนวนวิดีโอตัวอย่าง | 667 |
-| อัปเดตล่าสุด | 18/08/2569 |
+| จำนวนวิดีโอตัวอย่าง | 669 |
+| อัปเดตล่าสุด | 19/08/2569 |
 
 ### 🧩 Supported Models
 
@@ -2128,7 +2128,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 <a id="category-8"></a>
 
-### Twitter Community (2413)
+### Twitter Community (2415)
 
 ### No. 103: ภาพบุคคลแนวโรแมนติกในธรรมชาติ สำหรับงานบรรณาธิการ
 
@@ -59601,6 +59601,52 @@ The chicken burger starts to slowly spin while the ingredients separate gently a
 
 ```text
 A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
+```
+
+### No. 2516: สตอรี่บอร์ดโฆษณามันฝรั่งทอดกรอบ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐌
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับการสร้างสตอรี่บอร์ดระดับพรีเมียมสำหรับโฆษณาผลิตภัณฑ์มันฝรั่งทอดกรอบ ด้วยแปดฉากที่ดุจภาพยนตร์
+
+#### พรอมต์
+
+```text
+Crispy Potato Chips Product Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Food product advertising campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero throughout
+```
+
+### No. 2517: วิดีโอโปรโมทสมาร์ตวอตช์แห่งอนาคต
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Dr Bloodline | AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+พรอมต์สำหรับการสร้างวิดีโอโปรโมทที่ทันสมัยและสวยงามสำหรับสมาร์ตวอตช์โฮโลแกรมชื่อ Bloodline
+
+#### พรอมต์
+
+```text
+Create a sleek futuristic smartwatch promo video for “BLOODLINE.” Begin with a radial energy pulse transitioning into a rotating dark
 ```
 
 README นี้สร้างอัตโนมัติจากข้อมูลใน `data/prompts_by_locale`

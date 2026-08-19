@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts?style=flat-square)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-2515%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
+[![Prompts](https://img.shields.io/badge/prompts-2517%2B-blue.svg)](https://github.com/AtlasCloudAI/Awesome-Gemini-Omni-API-Prompts)
 
 收录 Gemini Omni 官方示例与提示词指南示例，内嵌 OSS 视频预览。
 
@@ -23,10 +23,10 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 | 指标 | 数量 |
 | --- | ---: |
-| 提示词总数 | 2515 |
+| 提示词总数 | 2517 |
 | 分类数 | 16 |
-| 预览视频数 | 667 |
-| 最后更新 | 2026/08/18 |
+| 预览视频数 | 669 |
+| 最后更新 | 2026/08/19 |
 
 ### 🧩 Supported Models
 
@@ -2168,7 +2168,7 @@ Gemini Omni 是 Google 的多模态视频生成模型，支持文生视频、图
 
 <a id="category-16"></a>
 
-### Twitter Community (2413)
+### Twitter Community (2415)
 
 ### No. 103: 浪漫自然肖像 编辑摄影
 
@@ -59641,6 +59641,52 @@ The chicken burger starts to slowly spin while the ingredients separate gently a
 
 ```text
 A medium close-up of a South Asian man with salt-and-pepper hair and a beard, wearing a green striped t-shirt, standing in a brightly lit modern living room. He brings his hands up to frame his eyes. An anime-style rectangular cutout of eyes appears between his fingers, which then expands to a full manga face cutout. This cutout dynamically transforms into triangular and circular pieces as he manipulates them with his hands. He then pulls up his t-shirt, revealing a detailed black and white manga portrait of himself stretched across the fabric. The entire scene then seamlessly transforms into a dynamic black and white manga panel: the man becomes a manga character with an illustrated cityscape background, dramatic speed lines, and bold Japanese sound effect text 'ドン'. The manga character pinches his lips. The transformation reverses quickly, starting with his mouth reverting to live-action, followed by the entire scene transitioning back to the realistic man in the original room.
+```
+
+### No. 2516: 薯片广告故事板
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝐌
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+为薯片产品广告生成包含八个电影级场景的高端故事板的提示。
+
+#### 提示词
+
+```text
+Crispy Potato Chips Product Commercial Storyboard
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Food product advertising campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero throughout
+```
+
+### No. 2517: 未来主义智能手表宣传视频
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Dr Bloodline | AI
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+为名为'血统'的全息智能手表创作一款时尚宣传视频的提示。
+
+#### 提示词
+
+```text
+Create a sleek futuristic smartwatch promo video for “BLOODLINE.” Begin with a radial energy pulse transitioning into a rotating dark
 ```
 
 此 README 由 `data/prompts_by_locale` 数据自动生成。

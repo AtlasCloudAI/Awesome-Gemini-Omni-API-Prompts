@@ -34922,5 +34922,41 @@
     "needs_preview": true,
     "reverse_engineered": true,
     "sort_order": 1
+  },
+  {
+    "id": "x_2089877497420849208",
+    "title": "미래형 스마트워치 홍보 영상",
+    "description": "블러드라인이라는 홀로그램 스마트워치를 위한 세련된 홍보 영상을 제작하는 프롬프트입니다.",
+    "prompt": "Create a sleek futuristic smartwatch promo video for “BLOODLINE.” Begin with a radial energy pulse transitioning into a rotating dark",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2089877497420849208.mp4",
+    "author_name": "Dr Bloodline | AI",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AiwithBloodline/status/2089877497420849208",
+    "needs_preview": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2089877497420849208.mp4"
+    }
+  },
+  {
+    "id": "x_2089662916304003221",
+    "title": "감자칩 광고 스토리보드",
+    "description": "여덟 개의 영화적 장면으로 구성된 프리미엄 감자칩 제품 광고 스토리보드를 생성하는 프롬프트입니다.",
+    "prompt": "Crispy Potato Chips Product Commercial Storyboard\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Food product advertising campaign\n• 8 cinematic storyboard scenes\n• Product remains the main hero throughout",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/omni/x_2089662916304003221.mp4",
+    "author_name": "𝐌",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Strength04_X/status/2089662916304003221",
+    "needs_preview": true,
+    "sort_order": 3,
+    "local_media": {
+      "images": [],
+      "video": "media/gemini-omni/x_2089662916304003221.mp4"
+    }
   }
 ]

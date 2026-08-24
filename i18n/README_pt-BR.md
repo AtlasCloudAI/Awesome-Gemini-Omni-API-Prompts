@@ -26,7 +26,7 @@ Gemini Omni is Google's multimodal video model — text-to-video, image-to-video
 | Total de Prompts | 2517 |
 | Categorias | 8 |
 | Videos de Previa | 669 |
-| Ultima Atualizacao | 23/08/2026 |
+| Ultima Atualizacao | 24/08/2026 |
 
 ### 🧩 Supported Models
 
